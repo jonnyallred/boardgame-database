@@ -1,0 +1,61 @@
+id: azul
+name: "Azul"
+year: 2017
+
+# Relationships
+game_family: azul
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-45 min)
+rules_complexity: 1  # Elementary - basic instructions
+strategic_depth: 2  # Tactics - short-term positioning
+feel: 3  # Polite - competitive with some hate-drafting
+value: 3  # Splurge - beautiful tiles
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Drafting
+  - Pattern Building
+  - Tile Placement
+  - Abstract
+  - Family
+  - Euro
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Michael Kiesling
+publisher:
+  - Plan B Games
+  - Next Move Games
+playtime_minutes: 38
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  Draft beautiful Portuguese tiles to decorate your palace wall. Select
+  tiles from factory displays - but leftover tiles go to the center,
+  creating risk and opportunity. Complete rows, columns, and patterns
+  for bonus points. Winner of the 2018 Spiel des Jahres. Elegant rules
+  with meaningful decisions.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

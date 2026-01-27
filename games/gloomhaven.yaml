@@ -1,0 +1,78 @@
+id: gloomhaven
+name: "Gloomhaven"
+year: 2017
+
+# Relationships
+game_family: gloomhaven
+edition: null
+base_game: null
+expansions:
+  - gloomhaven-forgotten-circles
+  - gloomhaven-jaws-of-the-lion  # standalone prequel
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (60-120 min per scenario, 150-200 hrs total campaign)
+rules_complexity: 4  # PhD - intricate rules
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 1  # Cooperative - work together
+value: 4  # Heirloom - massive box, hundreds of hours of content
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Legacy
+  - Hand Management
+  - Dungeon Crawler
+  - Modular Board
+  - Variable Setup
+  - Fantasy
+  - Isaac Childres
+  - Cephalofair Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Isaac Childres
+publisher:
+  - Cephalofair Games
+artist:
+  - Alexandr Elichev
+  - Josh T. McDowell
+  - Alvaro Nebot
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  A game of Euro-inspired tactical combat in a persistent world of shifting
+  motives. Players take on the role of wandering adventurers with their own
+  special abilities and reasons for traveling. Work together to clear dungeons
+  and ruins through 95 unique scenarios. Innovative card-driven combat system
+  where you play two cards per turn to determine your actions.
+
+# Upgrades
+upgrades:
+  - name: "Gloomhaven Organizer"
+    type: "insert"
+    publisher: "Various"
+    notes: "Many third-party organizers available"
+  - name: "Removable Stickers Set"
+    type: "accessory"
+    publisher: "Cephalofair Games"
+    notes: "Allows campaign reset"
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

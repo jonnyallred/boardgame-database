@@ -1,0 +1,62 @@
+id: twilight-struggle
+name: "Twilight Struggle"
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - twilight-struggle-turn-zero
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hours)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 4  # Fierce - direct head-to-head confrontation
+value: 2  # Fair Deal - card game quality
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Hand Management
+  - Card Drafting
+  - Historical
+  - Wargame
+  - Euro
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Ananda Gupta
+  - Jason Matthews
+publisher:
+  - GMT Games
+playtime_minutes: 150
+min_playtime: 120
+max_playtime: 180
+min_age: 13
+
+# Description
+description: |
+  Relive the Cold War in this two-player card-driven game. The US and USSR
+  battle for global influence from 1945 to 1989. Play cards for their event
+  or operations points, but opponent events still trigger when you play
+  their cards. Tension builds toward potential nuclear war. A landmark
+  design that defined modern card-driven wargames.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

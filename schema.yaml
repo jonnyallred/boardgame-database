@@ -1,0 +1,316 @@
+# Board Game Database Schema
+# Version: 1.0
+
+# =============================================================================
+# RATING SCALES (0-4)
+# =============================================================================
+
+length:
+  description: "Playtime vibe"
+  values:
+    0: "Snack (10 min)"
+    1: "Appetizer (30 min)"
+    2: "Main Course (1 hr)"
+    3: "Feast (3 hrs)"
+    4: "Marathon (6+ hrs)"
+
+rules_complexity:
+  description: "Learnability"
+  values:
+    0: "Preschool (1 or 2 rules)"
+    1: "Elementary (basic instructions)"
+    2: "Junior High/High School (structured steps and mechanics)"
+    3: "College (several complex mechanics)"
+    4: "PhD (intricate rules)"
+
+strategic_depth:
+  description: "Decision depth"
+  values:
+    0: "Reflex (instant choices, no planning)"
+    1: "Basic (simple choices)"
+    2: "Tactics (short-term positioning)"
+    3: "Strategy (long-term planning)"
+    4: "Master Plan (multi-move optimization)"
+
+feel:
+  description: "Social dynamic"
+  values:
+    0: "Solitary (solo play)"
+    1: "Cooperative (work together)"
+    2: "Party (light social fun)"
+    3: "Polite (competitive with minimal interaction)"
+    4: "Fierce (cutthroat rivalry)"
+
+affinity:
+  description: "Overall like (personal rating)"
+  values:
+    0: "Loathe it (avoid forever)"
+    1: "Yawn (forgettable)"
+    2: "Enjoyable (solid fun)"
+    3: "Delight (repeatedly great)"
+    4: "Mind-blowing (all-time favorite)"
+
+hotness:
+  description: "Want to play now (personal rating)"
+  values:
+    0: "Will not play (decline invites)"
+    1: "Only if forced (last resort)"
+    2: "Sure (happy to join)"
+    3: "Would love to play (suggest often)"
+    4: "Deep yearning (obsessed currently)"
+
+value:
+  description: "Production vibe"
+  values:
+    0: "Impulse (pocketable, print-and-play feel)"
+    1: "Bargain (filler chits, solid replay)"
+    2: "Fair Deal (quality boards/cards)"
+    3: "Splurge (minis/tokens upgrade)"
+    4: "Heirloom (luxury production, expansions beckon)"
+
+# =============================================================================
+# CATEGORIES (Mechanics, Themes, Designers, Publishers)
+# =============================================================================
+
+categories:
+  mechanics:
+    - Worker Placement
+    - Deck Building
+    - Engine Building
+    - Area Control
+    - Tile Placement
+    - Dice Rolling
+    - Set Collection
+    - Trick-taking
+    - Auctions/Bidding
+    - Cooperative
+    - 1 vs Many
+    - Teams
+    - Real-time
+    - Traitor
+    - Social Deduction
+    - Drafting
+    - Press Your Luck
+    - Roll & Write
+    - Hex Map
+    - Campaign Mode
+    - Legacy
+    - Bag Building
+    - Hand Management
+    - Modular Board
+    - Variable Setup
+    - Take That
+    - Narrative Heavy
+    - Puzzle Solving
+    - No Math
+    - Word Play
+    - Deduction
+    - Racing
+    - Economic
+    - Action Points
+    - Route Building
+    - Network Building
+    - Pattern Building
+    - Resource Management
+    - Trading
+    - Negotiation
+    - Bluffing
+    - Hidden Movement
+    - Programmed Movement
+    - Simultaneous Action
+    - Card Drafting
+    - Tableau Building
+    - Tech Tree
+    - Rondel
+    - Mancala
+    - Dexterity
+
+  styles:
+    - Euro
+    - Ameritrash
+    - Abstract
+    - Party
+    - Family
+    - Wargame
+    - Filler
+    - Gateway
+    - Cult Classic
+    - Dungeon Crawler
+    - 4X
+    - Dudes on a Map
+
+  themes:
+    - Fantasy
+    - Sci-Fi
+    - Horror
+    - Historical
+    - Western
+    - Pirates
+    - Zombies
+    - Vampires
+    - Cthulhu
+    - Aliens
+    - Post-Apocalyptic
+    - Superheroes
+    - Marvel
+    - Disney
+    - Lord of the Rings
+    - Animals
+    - Food Theme
+    - Time Travel
+    - Space
+    - Medieval
+    - Ancient
+    - Mythology
+    - Nature
+    - City Building
+    - Civilization
+    - War
+    - Survival
+    - Mystery
+    - Espionage
+    - Steampunk
+    - Cyberpunk
+    - Aviation
+    - Maritime
+    - Trains
+    - Agriculture
+
+  designers:
+    - Reiner Knizia
+    - Uwe Rosenberg
+    - Vlaada Chvatil
+    - Stefan Feld
+    - Martin Wallace
+    - Eric Lang
+    - Jamey Stegmaier
+    - Cole Wehrle
+    - Corey Konieczka
+    - Bruno Cathala
+    - Antoine Bauza
+    - Wolfgang Kramer
+    - Michael Kiesling
+    - Alexander Pfister
+    - Vital Lacerda
+    - Matt Leacock
+    - Rob Daviau
+    - Richard Garfield
+    - Klaus Teuber
+    - Alan R. Moon
+    - Donald X. Vaccarino
+    - Isaac Childres
+    - Simone Luciani
+    - Daniele Tascini
+    - Phil Walker-Harding
+    - Friedemann Friese
+    - Mac Gerdts
+    - Carl Chudyk
+
+  publishers:
+    - Stonemaier Games
+    - Fantasy Flight Games
+    - Leder Games
+    - CMON
+    - Days of Wonder
+    - Chip Theory Games
+    - Restoration Games
+    - Z-Man Games
+    - Rio Grande Games
+    - Ravensburger
+    - Asmodee
+    - Cephalofair Games
+    - Roxley Games
+    - Renegade Game Studios
+    - Capstone Games
+    - Eagle-Gryphon Games
+    - Czech Games Edition
+    - Portal Games
+    - Plaid Hat Games
+    - Red Raven Games
+    - Osprey Games
+    - Greater Than Games
+
+# =============================================================================
+# PLAYER COUNTS
+# =============================================================================
+
+player_counts:
+  possible_values: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, "12+"]
+  description: |
+    possible_counts: Player counts supported by the box
+    true_counts: Optimal/best player counts per community consensus
+
+# =============================================================================
+# GAME ENTRY TEMPLATE
+# =============================================================================
+
+template:
+  id: ""                      # lowercase slug, e.g., "dominion"
+  name: ""                    # Full display name
+  year: null                  # Publication year
+
+  # Relationships
+  game_family: null           # For editions/versions, e.g., "brass" or "catan"
+  edition: null               # Edition identifier, e.g., "Lancashire (2018)"
+  base_game: null             # ID of base game (for expansions)
+  expansions: []              # List of expansion IDs
+  compatible_with: []         # Combinable standalones
+
+  # Ratings (0-4 scale)
+  length: null
+  rules_complexity: null
+  strategic_depth: null
+  feel: null
+  value: null
+
+  # Personal ratings (leave null until rated)
+  affinity: null
+  hotness: null
+
+  # Tags
+  categories: []              # From mechanics, styles, themes, designers, publishers
+
+  # Player counts
+  possible_counts: []
+  true_counts: []
+
+  # Metadata
+  designer: []                # Actual designer names (not tags)
+  publisher: []               # Actual publisher names
+  playtime_minutes: null      # Approximate playtime
+  min_playtime: null          # Box minimum
+  max_playtime: null          # Box maximum
+
+  # Upgrades (nested within game file)
+  upgrades: []
+
+  # Play tracking
+  plays_tracked:
+    total_plays: 0
+    configs: []
+
+# =============================================================================
+# EXPANSION TEMPLATE
+# =============================================================================
+
+expansion_template:
+  id: ""
+  name: ""
+  year: null
+  base_game: ""               # Required: ID of base game
+  compatible_with: []         # Other expansions/standalones it works with
+  standalone: false           # Can be played without base game
+
+  # Same fields as base game where applicable
+  # Expansions inherit base game values unless overridden
+
+# =============================================================================
+# UPGRADE TEMPLATE (nested in game file)
+# =============================================================================
+
+upgrade_template:
+  name: ""
+  year: null
+  type: ""                    # e.g., "metal coins", "playmat", "insert", "sleeves"
+  publisher: ""
+  notes: ""

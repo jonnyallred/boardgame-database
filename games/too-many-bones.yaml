@@ -1,0 +1,64 @@
+id: too-many-bones
+name: "Too Many Bones"
+year: 2017
+
+# Relationships
+game_family: too-many-bones
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 3  # Strategy - long-term planning
+feel: 4  # Fierce - cutthroat rivalry
+value: 4  # Heirloom - luxury production, expansions beckon
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Building
+  - Cooperative
+  - RPG
+  - Campaign Mode
+  - Grid Movement
+  - Variable Player Powers
+  - Fantasy
+  - Dungeon Exploration
+  - Adventure
+  - Dungeon Crawler
+  - Ameritrash
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Josh J. Carlson
+  - Adam Carlson
+publisher:
+  - Chip Theory Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  An innovative dice-builder RPG where players take on Gearlocs to defeat powerful tyrants.
+  Features 136 custom dice, character progression, tactical combat, and beautiful production
+  quality. Combines RPG progression with board game mechanics in a colorful fantasy setting.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

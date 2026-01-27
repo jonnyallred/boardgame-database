@@ -1,0 +1,64 @@
+id: pandemic-legacy-season-1
+name: "Pandemic Legacy: Season 1"
+year: 2015
+
+# Relationships
+game_family: pandemic-legacy
+edition: "Season 1"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60 min per session)
+rules_complexity: 2  # Junior High - structured steps, evolving rules
+strategic_depth: 3  # Strategy - long-term planning across campaign
+feel: 1  # Cooperative - work together
+value: 2  # Fair Deal - quality components, one-time play
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Legacy
+  - Campaign Mode
+  - Hand Management
+  - Variable Setup
+  - Set Collection
+  - Matt Leacock
+  - Rob Daviau
+  - Z-Man Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Matt Leacock
+  - Rob Daviau
+publisher:
+  - Z-Man Games
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 60
+min_age: 13
+
+# Description
+description: |
+  A campaign-based cooperative experience spanning 12-24 game sessions
+  representing one year. Players work as a disease-fighting team racing to
+  cure diseases before they overwhelm the world. Actions have permanent
+  consequences - characters gain scars, cities panic, and diseases mutate.
+  Sealed packets reveal new rules and components as the story unfolds.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

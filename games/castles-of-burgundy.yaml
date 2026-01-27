@@ -1,0 +1,64 @@
+id: castles-of-burgundy
+name: "The Castles of Burgundy"
+year: 2011
+
+# Relationships
+game_family: castles-of-burgundy
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (30-90 min)
+rules_complexity: 2  # Junior High - structured steps
+strategic_depth: 3  # Strategy - long-term planning
+feel: 3  # Polite - competitive with minimal interaction
+value: 2  # Fair Deal - standard components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Dice Rolling
+  - Set Collection
+  - Point Salad
+  - Euro
+  - Medieval
+  - Stefan Feld
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Stefan Feld
+publisher:
+  - Ravensburger
+artist:
+  - Julien Delval
+  - Harald Lieske
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Build your estate in medieval Burgundy. Roll dice to take tiles from a
+  central depot and place them in your territory. Different regions score
+  differently - complete them quickly for bonus points. A classic Stefan
+  Feld point-salad design that uses dice in a strategic rather than
+  luck-dependent way.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

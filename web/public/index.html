@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Board Game Database - Image Upload</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    /* Header */
+    header {
+      background: white;
+      border-radius: 12px;
+      padding: 30px;
+      margin-bottom: 30px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      font-size: 32px;
+      color: #1f2937;
+      margin-bottom: 10px;
+    }
+
+    .header-info {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin-top: 20px;
+    }
+
+    .stats {
+      font-size: 18px;
+      color: #6b7280;
+    }
+
+    .stats strong {
+      color: #2563eb;
+      font-size: 20px;
+    }
+
+    .search-bar {
+      flex: 1;
+      min-width: 250px;
+      display: flex;
+      gap: 10px;
+    }
+
+    .search-bar input {
+      flex: 1;
+      padding: 10px 15px;
+      border: 2px solid #e5e7eb;
+      border-radius: 8px;
+      font-size: 14px;
+      transition: border-color 0.3s;
+    }
+
+    .search-bar input:focus {
+      outline: none;
+      border-color: #2563eb;
+    }
+
+    /* Game Grid */
+    .game-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 20px;
+      margin-bottom: 30px;
+    }
+
+    @media (max-width: 768px) {
+      .game-grid {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 15px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .game-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* Game Card */
+    .game-card {
+      background: white;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s, box-shadow 0.3s;
+      display: flex;
+      flex-direction: column;
+      cursor: pointer;
+    }
+
+    .game-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 16px rgba(0, 0, 0, 0.15);
+    }
+
+    .game-card.uploading {
+      opacity: 0.7;
+      pointer-events: none;
+    }
+
+    /* Image Area */
+    .image-area {
+      position: relative;
+      width: 100%;
+      padding-bottom: 100%; /* 1:1 aspect ratio */
+      background: #f3f4f6;
+      border-bottom: 1px solid #e5e7eb;
+      overflow: hidden;
+      transition: background-color 0.3s, border-color 0.3s;
+    }
+
+    .image-area img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .image-area.drag-over {
+      background-color: #dbeafe;
+      border-color: #2563eb;
+    }
+
+    .image-placeholder {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%);
+      color: #9ca3af;
+      font-size: 14px;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .image-placeholder svg {
+      width: 40px;
+      height: 40px;
+      margin-bottom: 10px;
+      opacity: 0.5;
+    }
+
+    .loading-spinner {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 40px;
+      height: 40px;
+      border: 4px solid #e5e7eb;
+      border-top-color: #2563eb;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      z-index: 10;
+    }
+
+    @keyframes spin {
+      to {
+        transform: translate(-50%, -50%) rotate(360deg);
+      }
+    }
+
+    .success-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(16, 185, 129, 0.2);
+      animation: fadeOut 0.5s ease-out forwards;
+      z-index: 5;
+    }
+
+    @keyframes fadeOut {
+      to {
+        opacity: 0;
+      }
+    }
+
+    /* Game Info */
+    .game-info {
+      padding: 16px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .game-name {
+      font-size: 16px;
+      font-weight: 600;
+      color: #1f2937;
+      margin-bottom: 6px;
+      line-height: 1.3;
+    }
+
+    .game-meta {
+      font-size: 12px;
+      color: #9ca3af;
+      margin-bottom: 10px;
+    }
+
+    .game-categories {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 10px;
+      flex: 1;
+    }
+
+    .tag {
+      display: inline-block;
+      background: #f0f4f8;
+      color: #3b82f6;
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 500;
+    }
+
+    .tag.style {
+      background: #fef3c7;
+      color: #d97706;
+    }
+
+    .tag.theme {
+      background: #ede9fe;
+      color: #7c3aed;
+    }
+
+    /* Action Buttons */
+    .game-actions {
+      display: flex;
+      gap: 8px;
+    }
+
+    .btn {
+      flex: 1;
+      padding: 8px 12px;
+      border: none;
+      border-radius: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-align: center;
+    }
+
+    .btn-upload {
+      background: #2563eb;
+      color: white;
+    }
+
+    .btn-upload:hover {
+      background: #1d4ed8;
+    }
+
+    .btn-upload:active {
+      transform: scale(0.95);
+    }
+
+    input[type="file"] {
+      display: none;
+    }
+
+    /* Toast Notifications */
+    .toast-container {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      z-index: 1000;
+      pointer-events: none;
+    }
+
+    .toast {
+      background: white;
+      border-radius: 8px;
+      padding: 16px 20px;
+      margin-bottom: 10px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      animation: slideIn 0.3s ease-out;
+      pointer-events: auto;
+      max-width: 400px;
+    }
+
+    @keyframes slideIn {
+      from {
+        transform: translateX(400px);
+        opacity: 0;
+      }
+      to {
+        transform: translateX(0);
+        opacity: 1;
+      }
+    }
+
+    .toast.success {
+      border-left: 4px solid #10b981;
+    }
+
+    .toast.success::before {
+      content: '✓';
+      color: #10b981;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    .toast.error {
+      border-left: 4px solid #ef4444;
+    }
+
+    .toast.error::before {
+      content: '✕';
+      color: #ef4444;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    .toast-message {
+      color: #374151;
+      font-size: 14px;
+      flex: 1;
+    }
+
+    /* Loading State */
+    .loading-container {
+      text-align: center;
+      padding: 60px 20px;
+    }
+
+    .loading-spinner-large {
+      width: 50px;
+      height: 50px;
+      border: 4px solid #e5e7eb;
+      border-top-color: #2563eb;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 20px;
+    }
+
+    /* Empty State */
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: #9ca3af;
+    }
+
+    .empty-state h2 {
+      color: #6b7280;
+      margin-bottom: 10px;
+    }
+
+    /* Mobile adjustments */
+    @media (max-width: 640px) {
+      header {
+        padding: 20px;
+      }
+
+      h1 {
+        font-size: 24px;
+      }
+
+      .header-info {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .search-bar {
+        width: 100%;
+      }
+
+      .toast-container {
+        left: 10px;
+        right: 10px;
+      }
+
+      .toast {
+        max-width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header>
+      <h1>🎲 Board Game Database</h1>
+      <div class="header-info">
+        <div class="stats">
+          <strong id="images-count">0</strong> of <strong id="games-count">0</strong> games have images
+        </div>
+        <div class="search-bar">
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Search games by name, designer, category..."
+            aria-label="Search games"
+          >
+        </div>
+      </div>
+    </header>
+
+    <!-- Game Grid -->
+    <div id="game-grid" class="game-grid"></div>
+
+    <!-- Loading State -->
+    <div id="loading-state" class="loading-container" style="display: none;">
+      <div class="loading-spinner-large"></div>
+      <p>Loading games...</p>
+    </div>
+
+    <!-- Empty State -->
+    <div id="empty-state" class="empty-state" style="display: none;">
+      <h2>No games found</h2>
+      <p>Try adjusting your search filters</p>
+    </div>
+  </div>
+
+  <!-- Toast Container -->
+  <div id="toast-container" class="toast-container"></div>
+
+  <script>
+    // State
+    let allGames = [];
+    let filteredGames = [];
+    const uploadStates = new Map();
+
+    // DOM Elements
+    const gameGrid = document.getElementById('game-grid');
+    const loadingState = document.getElementById('loading-state');
+    const emptyState = document.getElementById('empty-state');
+    const searchInput = document.getElementById('search-input');
+    const gamesCountEl = document.getElementById('games-count');
+    const imagesCountEl = document.getElementById('images-count');
+    const toastContainer = document.getElementById('toast-container');
+
+    // ============ Initialization ============
+
+    async function init() {
+      try {
+        loadingState.style.display = 'block';
+        await loadGames();
+        setupEventListeners();
+        updateStats();
+        renderGames();
+        loadingState.style.display = 'none';
+      } catch (error) {
+        console.error('Failed to initialize:', error);
+        showToast('Failed to load games', 'error');
+        loadingState.style.display = 'none';
+      }
+    }
+
+    // ============ Data Loading ============
+
+    async function loadGames() {
+      const response = await fetch('/api/games');
+      if (!response.ok) {
+        throw new Error('Failed to load games');
+      }
+      allGames = await response.json();
+      filteredGames = [...allGames];
+    }
+
+    // ============ Event Listeners ============
+
+    function setupEventListeners() {
+      searchInput.addEventListener('input', handleSearch);
+    }
+
+    function handleSearch(e) {
+      const query = e.target.value.toLowerCase();
+
+      filteredGames = allGames.filter(game => {
+        const searchableText = [
+          game.name,
+          ...(game.designer || []),
+          ...(game.publisher || []),
+          ...(game.categories || [])
+        ]
+          .join(' ')
+          .toLowerCase();
+
+        return searchableText.includes(query);
+      });
+
+      renderGames();
+    }
+
+    // ============ Rendering ============
+
+    function renderGames() {
+      gameGrid.innerHTML = '';
+
+      if (filteredGames.length === 0) {
+        emptyState.style.display = 'block';
+        return;
+      }
+
+      emptyState.style.display = 'none';
+
+      filteredGames.forEach(game => {
+        const card = createGameCard(game);
+        gameGrid.appendChild(card);
+      });
+    }
+
+    function createGameCard(game) {
+      const card = document.createElement('div');
+      card.className = 'game-card';
+      card.dataset.gameId = game.id;
+
+      // Image area
+      const imageArea = document.createElement('div');
+      imageArea.className = 'image-area';
+
+      if (game.has_image) {
+        const img = document.createElement('img');
+        img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).jpg`;
+        img.alt = game.name;
+        img.onerror = () => {
+          // Try PNG if JPG fails
+          img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).png`;
+        };
+        imageArea.appendChild(img);
+      } else {
+        const placeholder = document.createElement('div');
+        placeholder.className = 'image-placeholder';
+        placeholder.innerHTML = `
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="3" y="3" width="18" height="18" rx="2"/>
+            <circle cx="8.5" cy="8.5" r="1.5"/>
+            <path d="M21 15l-5-5L5 21"/>
+          </svg>
+          <div>Drop image here or click to upload</div>
+        `;
+        imageArea.appendChild(placeholder);
+      }
+
+      // Drag and drop events
+      setupDragAndDrop(imageArea, game.id);
+
+      // Game info
+      const info = document.createElement('div');
+      info.className = 'game-info';
+
+      const name = document.createElement('div');
+      name.className = 'game-name';
+      name.textContent = game.name;
+
+      const meta = document.createElement('div');
+      meta.className = 'game-meta';
+      const designers = game.designer && game.designer.length ? game.designer.join(', ') : 'Unknown';
+      meta.textContent = `${designers} • ${game.year}`;
+
+      const categories = document.createElement('div');
+      categories.className = 'game-categories';
+      (game.categories || []).slice(0, 3).forEach(cat => {
+        const tag = document.createElement('span');
+        tag.className = 'tag';
+
+        // Add style class for different category types
+        if (['Euro', 'Ameritrash', 'Abstract', 'Party', 'Family'].includes(cat)) {
+          tag.classList.add('style');
+        } else if (['Fantasy', 'Sci-Fi', 'Horror', 'Historical', 'Mystery'].includes(cat)) {
+          tag.classList.add('theme');
+        }
+
+        tag.textContent = cat;
+        categories.appendChild(tag);
+      });
+
+      const actions = document.createElement('div');
+      actions.className = 'game-actions';
+      const uploadBtn = document.createElement('button');
+      uploadBtn.className = 'btn btn-upload';
+      uploadBtn.textContent = 'Upload Image';
+      uploadBtn.addEventListener('click', () => triggerFileInput(game.id));
+
+      const fileInput = document.createElement('input');
+      fileInput.type = 'file';
+      fileInput.accept = 'image/*';
+      fileInput.addEventListener('change', (e) => handleFileSelect(e, game.id));
+
+      info.appendChild(name);
+      info.appendChild(meta);
+      info.appendChild(categories);
+      info.appendChild(actions);
+      actions.appendChild(uploadBtn);
+      info.appendChild(fileInput);
+
+      card.appendChild(imageArea);
+      card.appendChild(info);
+
+      return card;
+    }
+
+    function setupDragAndDrop(imageArea, gameId) {
+      imageArea.addEventListener('dragover', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        imageArea.classList.add('drag-over');
+      });
+
+      imageArea.addEventListener('dragleave', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        imageArea.classList.remove('drag-over');
+      });
+
+      imageArea.addEventListener('drop', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        imageArea.classList.remove('drag-over');
+
+        const files = e.dataTransfer.files;
+        if (files.length > 0) {
+          handleFileSelect({ target: { files } }, gameId);
+        }
+      });
+    }
+
+    function triggerFileInput(gameId) {
+      const card = gameGrid.querySelector(`[data-game-id="${gameId}"]`);
+      const fileInput = card.querySelector('input[type="file"]');
+      fileInput.click();
+    }
+
+    async function handleFileSelect(e, gameId) {
+      const files = e.target.files;
+      if (files.length === 0) return;
+
+      const file = files[0];
+
+      // Validate file type client-side
+      if (!file.type.startsWith('image/')) {
+        showToast('Please select an image file', 'error');
+        return;
+      }
+
+      // Validate file size (10MB)
+      if (file.size > 10 * 1024 * 1024) {
+        showToast('File is too large. Maximum 10MB allowed.', 'error');
+        return;
+      }
+
+      await uploadImage(gameId, file);
+    }
+
+    async function uploadImage(gameId, file) {
+      const card = gameGrid.querySelector(`[data-game-id="${gameId}"]`);
+      const imageArea = card.querySelector('.image-area');
+
+      try {
+        // Show loading state
+        card.classList.add('uploading');
+        const spinner = document.createElement('div');
+        spinner.className = 'loading-spinner';
+        imageArea.appendChild(spinner);
+
+        // Upload file
+        const formData = new FormData();
+        formData.append('image', file);
+
+        const response = await fetch(`/api/games/${gameId}/upload`, {
+          method: 'POST',
+          body: formData
+        });
+
+        if (!response.ok) {
+          const error = await response.json();
+          throw new Error(error.message || 'Upload failed');
+        }
+
+        const result = await response.json();
+
+        // Show success animation
+        const overlay = document.createElement('div');
+        overlay.className = 'success-overlay';
+        imageArea.appendChild(overlay);
+
+        // Reload the games to get updated image status
+        await loadGames();
+        renderGames();
+
+        showToast(`Image uploaded successfully!`, 'success');
+        updateStats();
+      } catch (error) {
+        console.error('Upload error:', error);
+        showToast(error.message || 'Failed to upload image', 'error');
+      } finally {
+        card.classList.remove('uploading');
+        const spinner = imageArea.querySelector('.loading-spinner');
+        if (spinner) spinner.remove();
+      }
+    }
+
+    // ============ Utilities ============
+
+    function updateStats() {
+      const totalGames = allGames.length;
+      const gamesWithImages = allGames.filter(g => g.has_image).length;
+
+      gamesCountEl.textContent = totalGames;
+      imagesCountEl.textContent = gamesWithImages;
+    }
+
+    function showToast(message, type = 'success') {
+      const toast = document.createElement('div');
+      toast.className = `toast ${type}`;
+      toast.innerHTML = `<div class="toast-message">${message}</div>`;
+
+      toastContainer.appendChild(toast);
+
+      setTimeout(() => {
+        toast.style.animation = 'slideOut 0.3s ease-out forwards';
+        setTimeout(() => toast.remove(), 300);
+      }, 3000);
+    }
+
+    // ============ Start ============
+
+    init();
+  </script>
+</body>
+</html>

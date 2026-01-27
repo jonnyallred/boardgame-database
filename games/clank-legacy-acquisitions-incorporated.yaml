@@ -1,0 +1,65 @@
+id: clank-legacy-acquisitions-incorporated
+name: "Clank! Legacy: Acquisitions Incorporated"
+year: 2019
+
+# Relationships
+game_family: clank
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 2  # Junior High/High School - structured steps and mechanics
+strategic_depth: 3  # Strategy - long-term planning
+feel: 3  # Polite - competitive with minimal interaction
+value: 4  # Heirloom - luxury production, expansions beckon
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Legacy
+  - Campaign Mode
+  - Worker Placement
+  - Take That
+  - Hidden Movement
+  - Fantasy
+  - Pirates
+  - Treasure
+  - Narrative Heavy
+  - Ameritrash
+  - Dungeon Crawler
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Andy Clautice
+  - Paul Dennen
+publisher:
+  - Renegade Game Studios
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  A legacy-style deck-building campaign game combining Clank's treasure-hunting adventure
+  with persistent campaign storytelling. Features 10+ scenarios that permanently modify the
+  game based on player choices. Blends card-driven mechanics with dungeon exploration elements.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

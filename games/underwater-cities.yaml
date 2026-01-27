@@ -1,0 +1,67 @@
+id: underwater-cities
+name: "Underwater Cities"
+year: 2018
+
+# Relationships
+game_family: underwater-cities
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 2  # Junior High/High School - structured steps and mechanics
+strategic_depth: 3  # Strategy - long-term planning
+feel: 3  # Polite - competitive with minimal interaction
+value: 3  # Splurge - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Card Drafting
+  - Network Building
+  - Hand Management
+  - Economic
+  - Modular Board
+  - Sci-Fi
+  - City Building
+  - Civilization
+  - Aquatic
+  - Future
+  - Euro
+  - Gateway
+  - Cult Classic
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Vladimír Suchý
+publisher:
+  - Delicious Games
+  - Rio Grande Games
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  A card-driven worker-placement game about building underwater metropolises. Players construct
+  kelp farms, desalination plants, laboratories and tunnels to support aquatic civilization.
+  Features clever card-slot matching mechanic creating strategic and tactical decision moments.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

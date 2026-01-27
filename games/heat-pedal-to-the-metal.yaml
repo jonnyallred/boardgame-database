@@ -1,0 +1,65 @@
+id: heat-pedal-to-the-metal
+name: "Heat: Pedal to the Metal"
+year: 2022
+
+# Relationships
+game_family: heat
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School - structured steps and mechanics
+strategic_depth: 2  # Tactics - short-term positioning
+feel: 3  # Polite - competitive with minimal interaction
+value: 3  # Splurge - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Racing
+  - Hand Management
+  - Simultaneous Action Selection
+  - Track Movement
+  - Economic
+  - Resource Management
+  - Motorsports
+  - Competition
+  - Euro
+  - Family
+  - Gateway
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Asger Harding Granerud
+  - Daniel Skjold Pedersen
+publisher:
+  - Days of Wonder
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  A racing card game where players manage speed and heat while navigating circuits against
+  opponents. Careful card play determines movement and actions as players balance aggressive
+  acceleration against overheating penalties. Features dynamic championship gameplay and variable
+  conditions.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

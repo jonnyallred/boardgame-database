@@ -1,0 +1,59 @@
+id: crokinole
+name: "Crokinole"
+year: 1876
+
+# Relationships
+game_family: crokinole
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 0  # Preschool - 1 or 2 rules
+strategic_depth: 1  # Basic - simple choices
+feel: 3  # Polite - competitive with minimal interaction
+value: 3  # Splurge - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dexterity
+  - Disc Flicking
+  - Abstract
+  - Take That
+  - Abstract
+  - Family
+  - Filler
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+# Metadata
+designer:
+  - Eckhardt Wettlaufer
+publisher:
+  - Multiple Manufacturers
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 6
+
+# Description
+description: |
+  A classic dexterity game from 1876 featuring disc-flicking onto a circular board with recessed
+  holes. Players flick their discs aiming for high-scoring zones while knocking opponent pieces
+  off the board. Timeless family game with simple rules and engaging physical interaction.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

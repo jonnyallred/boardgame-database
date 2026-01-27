@@ -1,0 +1,74 @@
+id: wingspan
+name: "Wingspan"
+year: 2019
+
+# Relationships
+game_family: wingspan
+edition: null
+base_game: null
+expansions:
+  - wingspan-european-expansion
+  - wingspan-oceania-expansion
+  - wingspan-asia
+  - wingspan-americas-expansion
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (40-70 min)
+rules_complexity: 2  # Junior High - structured steps
+strategic_depth: 2  # Tactics - short-term positioning
+feel: 3  # Polite - competitive with minimal interaction
+value: 3  # Splurge - beautiful art, quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Set Collection
+  - Dice Rolling
+  - Hand Management
+  - Tableau Building
+  - Animals
+  - Euro
+  - Stonemaier Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Elizabeth Hargrave
+publisher:
+  - Stonemaier Games
+artist:
+  - Ana Maria Martinez Jaramillo
+  - Natalia Rojas
+  - Beth Sobel
+playtime_minutes: 55
+min_playtime: 40
+max_playtime: 70
+min_age: 10
+
+# Description
+description: |
+  A competitive bird-collection engine-building game. Attract birds to your
+  wildlife preserves across three different habitats. Each bird extends a
+  chain of powerful combinations in one of your habitats. Features over 170
+  unique bird cards with real-world information. Winner of the 2019
+  Kennerspiel des Jahres award.
+
+# Upgrades
+upgrades:
+  - name: "Wingspan Neoprene Mat"
+    type: "playmat"
+    publisher: "Stonemaier Games"
+    notes: "Premium neoprene player mats"
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

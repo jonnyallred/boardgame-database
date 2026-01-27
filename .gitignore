@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temp files
+.tmp/
+temp/
+
+# Large binary files (images)
+# Note: Consider using git-lfs for images if repo grows
+# images/
+
+# Build artifacts
+dist/
+build/

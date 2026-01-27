@@ -1,0 +1,75 @@
+id: dominion
+name: "Dominion"
+year: 2008
+
+# Relationships
+game_family: dominion
+edition: "First Edition"
+base_game: null
+expansions:
+  - dominion-intrigue
+  - dominion-seaside
+  - dominion-prosperity
+  - dominion-hinterlands
+  - dominion-dark-ages
+  - dominion-guilds
+  - dominion-adventures
+  - dominion-empires
+  - dominion-nocturne
+  - dominion-renaissance
+  - dominion-menagerie
+  - dominion-allies
+  - dominion-plunder
+  - dominion-rising-sun
+compatible_with:
+  - dominion-intrigue  # combinable standalone
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (20-30 min)
+rules_complexity: 1  # Elementary - basic instructions
+strategic_depth: 3  # Strategy - long-term planning
+feel: 3  # Polite - competitive with minimal interaction
+value: 2  # Fair Deal - card game quality
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Medieval
+  - Euro
+  - Donald X. Vaccarino
+  - Rio Grande Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Donald X. Vaccarino
+publisher:
+  - Rio Grande Games
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 13
+
+# Description
+description: |
+  The original deck-building game that launched a genre. Build your deck
+  by acquiring cards from a common supply, then draw and play those cards
+  on future turns. Start with a weak deck and build it into a well-oiled
+  machine. Each game uses a different set of 10 Kingdom cards from a pool
+  of 25, ensuring high replayability.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

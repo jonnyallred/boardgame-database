@@ -1,0 +1,70 @@
+id: agricola
+name: "Agricola"
+year: 2007
+
+# Relationships
+game_family: agricola
+edition: "First Edition"
+base_game: null
+expansions:
+  - agricola-farmers-of-the-moor
+  - agricola-artifex-deck
+  - agricola-bubulcus-deck
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (30-150 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with blocking
+value: 2  # Fair Deal - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Hand Management
+  - Resource Management
+  - Agriculture
+  - Euro
+  - Uwe Rosenberg
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Lookout Games
+  - Z-Man Games
+artist:
+  - Klemens Franz
+playtime_minutes: 90
+min_playtime: 30
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Build a farm in 17th century Germany. A landmark worker placement game
+  where players expand their farmstead, raise livestock, grow crops, and
+  feed their family. Occupation and Minor Improvement cards provide endless
+  variety. You must feed your family each harvest or take begging cards.
+  Tight, tense resource management.
+
+# Upgrades
+upgrades:
+  - name: "Animeeples"
+    type: "component upgrade"
+    publisher: "Various"
+    notes: "Wooden animal-shaped meeples"
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
