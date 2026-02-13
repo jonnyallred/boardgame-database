@@ -1,0 +1,66 @@
+id: john-company-second-edition
+name: "John Company: Second Edition"
+year: 2022
+
+# Relationships
+game_family: john-company
+edition: "Second Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-4 hrs)
+rules_complexity: 4  # PhD (intricate rules, heavy negotiation framework)
+strategic_depth: 3  # Strategy (long-term planning)
+feel: 4  # Fierce (cutthroat negotiation and rivalry)
+value: 4  # Heirloom (premium production, cloth map)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Negotiation
+  - Economic
+  - Dice Rolling
+  - Press Your Luck
+  - Historical
+  - Cole Wehrle
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Cole Wehrle
+publisher:
+  - Wehrlegig Games
+artist:
+  - "Jan Lipi\u0144ski"
+  - Amita Pai
+playtime_minutes: 165
+min_playtime: 90
+max_playtime: 240
+min_age: 13
+
+# Description
+description: |
+  Players assume the roles of ambitious families attempting to leverage the
+  British East India Company for personal gain. Rather than controlling the
+  Company directly, players negotiate collectively over its direction while
+  competing for prestige through strategic retirement timing and estate
+  building during the London Season. The game engages seriously with themes
+  of imperialism and globalization in the 18th and 19th centuries. The
+  extensively revised second edition features a cloth map and premium
+  components. Designed by Cole Wehrle with a solo mode by Richard Wilkins.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

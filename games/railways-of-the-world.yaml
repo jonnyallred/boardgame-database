@@ -1,0 +1,72 @@
+id: railways-of-the-world
+name: "Railways of the World"
+year: 2005
+
+# Relationships
+game_family: railways-of-the-world
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2+ hours, especially with higher player counts)
+rules_complexity: 2  # Junior High/High School - streamlined from Age of Steam, structured mechanics
+strategic_depth: 3  # Strategy - long-term route planning, economic management
+feel: 3  # Polite - competitive route building with some blocking
+value: 3  # Splurge - massive board, quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Route Building
+  - Network Building
+  - Action Points
+  - Auctions/Bidding
+  - Economic
+  - Euro
+  - Trains
+  - Martin Wallace
+  - Eagle-Gryphon Games
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Glenn Drover
+  - Martin Wallace
+publisher:
+  - Eagle-Gryphon Games
+  - Winsome Games
+  - Edge Entertainment
+artist:
+  - Kurt Miller
+  - Paul Niemeyer
+  - David Oram
+playtime_minutes: 120
+min_playtime: 120
+max_playtime: 120
+min_age: 10
+
+# Description
+description: |
+  Build railroad empires across a massive map by connecting cities, delivering
+  goods, and upgrading your locomotive. Players auction for turn order and
+  special actions each round, then lay track across hexes to link cities of
+  matching colors with demand. Loans fuel early expansion but cost points at
+  game end. Complete secret objectives and build the most profitable network
+  to win. A streamlined reimplementation of Martin Wallace's Age of Steam
+  with enhanced components and an enormous board.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

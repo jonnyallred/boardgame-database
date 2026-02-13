@@ -1,0 +1,85 @@
+id: cosmic-encounter
+name: "Cosmic Encounter"
+year: 2008
+
+# Relationships
+game_family: cosmic-encounter
+edition: null
+base_game: null
+expansions:
+  - cosmic-encounter-cosmic-incursion
+  - cosmic-encounter-cosmic-conflict
+  - cosmic-encounter-cosmic-alliance
+  - cosmic-encounter-cosmic-dominion
+  - cosmic-encounter-cosmic-eons
+  - cosmic-encounter-cosmic-odyssey
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1-2 hrs)
+rules_complexity: 2  # Junior High/High School - structured steps and mechanics
+strategic_depth: 2  # Tactics - short-term positioning, highly social
+feel: 4  # Fierce - cutthroat rivalry with alliances and betrayal
+value: 3  # Splurge - many alien power cards, quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Negotiation
+  - Bluffing
+  - Take That
+  - Variable Setup
+  - Sci-Fi
+  - Space
+  - Aliens
+  - Ameritrash
+  - Cult Classic
+  - Fantasy Flight Games
+
+# Player counts
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Bill Eberle
+  - Jack Kittredge
+  - Bill Norton
+  - Peter Olotka
+  - Kevin Wilson
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Andrew Navaro
+  - Ryan Barger
+  - Felicia Cano
+  - Sabe Lewellyn
+  - Brian Schomburg
+  - WiL Springer
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Conquer the galaxy with shifting alliances and the unique powers of your
+  alien race. Each player leads an alien species with a game-breaking special
+  power, competing to establish five colonies outside their home system.
+  On your turn, destiny determines your target - then both sides invite
+  allies and simultaneously play encounter cards. Negotiate deals or fight
+  it out. With 50 unique alien powers in the base game, no two sessions
+  play the same. A classic design originally from 1977, reimagined by
+  Fantasy Flight Games with modern production and streamlined rules.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

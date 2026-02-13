@@ -277,6 +277,7 @@ template:
   # Metadata
   designer: []                # Actual designer names (not tags)
   publisher: []               # Actual publisher names
+  artist: []                  # Actual artist names
   playtime_minutes: null      # Approximate playtime
   min_playtime: null          # Box minimum
   max_playtime: null          # Box maximum

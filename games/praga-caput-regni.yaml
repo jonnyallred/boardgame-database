@@ -1,0 +1,68 @@
+id: praga-caput-regni
+name: "Praga Caput Regni"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 3  # Strategy - long-term planning
+feel: 3  # Polite - competitive with minimal interaction
+value: 3  # Splurge - quality components and artwork
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Action Points
+  - Tile Placement
+  - Resource Management
+  - Engine Building
+  - Variable Setup
+  - Euro
+  - Historical
+  - Medieval
+  - City Building
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Vladimír Suchý
+publisher:
+  - Delicious Games
+  - Rio Grande Games
+artist:
+  - Milan Vavroň
+playtime_minutes: 100
+min_playtime: 45
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Wealthy citizens of medieval Prague organize building projects to gain the
+  king's favor. Players choose from six actions on the action crane, each
+  weighted with constantly shifting costs and benefits. Build iconic Prague
+  landmarks including the Hunger Wall, St. Vitus Cathedral, the Charles Bridge,
+  and Charles University. Features a unique action selection mechanism where
+  tile placement on the crane determines available bonuses and costs, creating
+  layered strategic and tactical decisions.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

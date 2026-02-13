@@ -1,0 +1,62 @@
+id: carcassonne
+name: "Carcassonne"
+year: 2000
+
+# Relationships
+game_family: carcassonne
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-45 min)
+rules_complexity: 1  # Elementary - basic instructions
+strategic_depth: 2  # Tactics - short-term positioning
+feel: 3  # Polite - competitive with indirect conflict
+value: 2  # Fair Deal - quality tiles and board
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Area Control
+  - Euro
+  - Family
+  - Gateway
+  - Medieval
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Klaus-Jurgen Wrede
+publisher:
+  - Hans im Gluck
+  - Z-Man Games
+playtime_minutes: 35
+min_playtime: 30
+max_playtime: 45
+min_age: 7
+
+# Description
+description: |
+  Build a medieval landscape by drawing and placing tiles featuring cities,
+  roads, monasteries, and fields. Deploy your limited supply of meeples to
+  claim features and score points when they are completed. Balancing when
+  to place meeples and when to hold them back is the core tension. Winner
+  of the 2001 Spiel des Jahres. A quintessential gateway game that scales
+  from casual family play to competitive tile counting.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

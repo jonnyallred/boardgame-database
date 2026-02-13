@@ -1,0 +1,72 @@
+id: andromedas-edge
+name: "Andromeda's Edge"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - andromedas-edge-escalation
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (80-160 min)
+rules_complexity: 3  # College - several complex mechanics (BGG weight 3.73)
+strategic_depth: 3  # Strategy - long-term planning
+feel: 4  # Fierce - area control and dice combat
+value: 3  # Splurge - quality components with minis
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Area Control
+  - Engine Building
+  - Dice Rolling
+  - Hand Management
+  - Hex Map
+  - Tableau Building
+  - Variable Setup
+  - Sci-Fi
+  - Space
+  - Euro
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Luke Laurie
+  - Maximus Laurie
+publisher:
+  - Cardboard Alchemy
+  - Cranio Creations
+  - Frosted Games
+artist: []
+playtime_minutes: 120
+min_playtime: 80
+max_playtime: 160
+min_age: 14
+
+# Description
+description: |
+  Lead a rival faction establishing civilization on the edge of the Andromeda
+  galaxy. Launch upgradable starships as workers to gather resources and claim
+  moons across planetary systems. Build station modules and developments to
+  engine-build your faction's capabilities. Combat uses dice battles with
+  strategic options for area control. Advance through multiple progress tracks
+  including Science, Industry, Commerce, Civilization, and Supremacy while
+  constructing observatories, factories, spaceports, cities, and obelisks.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

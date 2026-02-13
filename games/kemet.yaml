@@ -1,0 +1,67 @@
+id: kemet
+name: "Kemet"
+year: 2012
+
+# Relationships
+game_family: kemet
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 2  # Junior High/High School - BGG weight ~3.0
+strategic_depth: 3  # Strategy - power tile combos, long-term engine building through upgrades
+feel: 4  # Fierce - constant direct combat, area control, aggressive play rewarded
+value: 3  # Splurge - detailed miniatures, power tiles, quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Action Points
+  - Hand Management
+  - Take That
+  - Dudes on a Map
+  - Ameritrash
+  - Ancient
+  - Mythology
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Jacques Bariot
+  - Guillaume Montiage
+publisher:
+  - Matagot
+  - Asmodee
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Egyptian-themed area control game that rewards aggression over turtling.
+  Spend action points to pray for resources, move armies, recruit troops,
+  or buy powerful upgrade tiles across red (combat), blue (defense/economy),
+  and white (divine/movement) tech trees. Battles use a simultaneous card
+  selection system with no dice - bluffing and reading your opponent is key.
+  Teleportation via pyramids keeps the map fluid and ensures no one is safe.
+  Victory points come from winning battles, holding temples, controlling
+  pyramids, and purchasing high-level power tiles.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,61 @@
+id: watergate
+name: "Watergate"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (about 60 min)
+rules_complexity: 2  # Junior High/High School - structured mechanics, moderate weight
+strategic_depth: 3  # Strategy - long-term planning with hand management
+feel: 4  # Fierce - direct head-to-head confrontation
+value: 2  # Fair Deal - quality cards and board
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Historical
+  - Euro
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Matthias Cramer
+publisher:
+  - Capstone Games
+  - Frosted Games
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  An asymmetric two-player card-driven game about the Watergate scandal.
+  One player takes on the role of Nixon's administration, trying to build
+  enough momentum to survive the scandal. The other plays as the newspaper
+  editors, investigating and connecting informants to break the story.
+  Cards can be played for their event text or their value in the tug-of-war
+  over evidence and initiative tokens. Tense, thematic, and elegantly
+  designed. Winner of the 2019 Golden Geek Best 2-Player Board Game award.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

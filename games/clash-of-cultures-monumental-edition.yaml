@@ -1,0 +1,72 @@
+id: clash-of-cultures-monumental-edition
+name: "Clash of Cultures: Monumental Edition"
+year: 2021
+
+# Relationships
+game_family: clash-of-cultures
+edition: "Monumental Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3+ hrs)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 3  # Strategy - long-term planning
+feel: 4  # Fierce - cutthroat rivalry
+value: 4  # Heirloom - 350+ minis, luxury production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Action Points
+  - Dice Rolling
+  - Hand Management
+  - Modular Board
+  - Tech Tree
+  - Area Control
+  - Ancient
+  - City Building
+  - Civilization
+  - Economic
+  - 4X
+  - Dudes on a Map
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Christian Marcussen
+publisher:
+  - WizKids
+artist:
+  - Gong Studios
+  - Michael Komarck
+  - Nakarin Sukontakorn
+playtime_minutes: 210
+min_playtime: 180
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  Advance your ancient civilization from a tiny settlement to a mighty empire.
+  This Monumental Edition combines the original Clash of Cultures base game
+  with the Civilizations and Aztecs expansions in one massive box. Explore
+  uncharted lands, build cities, research advances on a robust tech tree,
+  and clash with rival civilizations through diplomacy or warfare. Features
+  over 350 fully-sculpted miniatures including the Seven Wonders. A sweeping
+  4X civilization game with deep strategic choices and dramatic confrontations.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

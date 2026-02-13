@@ -1,0 +1,67 @@
+id: star-wars-x-wing-miniatures-game
+name: "Star Wars: X-Wing Miniatures Game"
+year: 2012
+
+# Relationships
+game_family: star-wars-x-wing
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 2  # Junior High/High School - structured movement and combat
+strategic_depth: 3  # Strategy - squad building + maneuver planning
+feel: 4  # Fierce - head-to-head dogfighting
+value: 4  # Heirloom - pre-painted miniatures, collectible expansions
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Programmed Movement
+  - Simultaneous Action
+  - Variable Setup
+  - Ameritrash
+  - Sci-Fi
+  - Space
+  - War
+  - Fantasy Flight Games
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Jay Little
+  - Jason Little
+publisher:
+  - Fantasy Flight Games
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Dogfight in the Star Wars universe with beautifully pre-painted
+  miniatures. Each round, players secretly select maneuver dials for
+  their ships, then simultaneously reveal and execute movements on a
+  tabletop battlefield. Attack with custom dice, modify results with
+  pilot abilities and upgrade cards, and outmaneuver your opponent.
+  Build custom squadrons from a vast library of ships, pilots, and
+  upgrades spanning the original trilogy and beyond. The core set
+  includes one X-Wing and two TIE Fighters.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

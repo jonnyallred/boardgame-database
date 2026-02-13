@@ -1,0 +1,65 @@
+id: the-lord-of-the-rings-the-card-game
+name: "The Lord of the Rings: The Card Game"
+year: 2011
+
+# Relationships
+game_family: lord-of-the-rings-lcg
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr per scenario)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 3  # Strategy - long-term deck construction and planning
+feel: 1  # Cooperative - fully cooperative
+value: 3  # Splurge - quality cards, expandable LCG model
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Deck Building
+  - Hand Management
+  - Campaign Mode
+  - Narrative Heavy
+  - Fantasy
+  - Lord of the Rings
+  - Fantasy Flight Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Nate French
+publisher:
+  - Fantasy Flight Games
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 13
+
+# Description
+description: |
+  A cooperative living card game set in Tolkien's Middle-earth. Players
+  build decks from four spheres of influence — Leadership, Tactics, Spirit,
+  and Lore — and guide groups of heroes through dangerous quests. Each
+  round involves committing characters to the quest, managing threat, and
+  defending against enemies from an encounter deck. The LCG distribution
+  model provides a massive library of expansion packs, saga expansions
+  covering the novels, and standalone scenarios. Combines deep
+  deckbuilding strategy with thematic storytelling across Middle-earth.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

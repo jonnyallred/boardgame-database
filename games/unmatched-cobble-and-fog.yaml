@@ -1,0 +1,75 @@
+id: unmatched-cobble-and-fog
+name: "Unmatched: Cobble & Fog"
+year: 2020
+
+# Relationships
+game_family: unmatched
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - unmatched-battle-of-legends-volume-one
+  - unmatched-robin-hood-vs-bigfoot
+  - unmatched-battle-of-legends-volume-two
+  - unmatched-little-red-riding-hood-vs-beowulf
+  - unmatched-jurassic-park-ingen-vs-raptors
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (20-40 min)
+rules_complexity: 1  # Elementary - light complexity, easy to learn
+strategic_depth: 2  # Tactics - short-term positioning and hand management
+feel: 4  # Fierce - direct combat, player elimination
+value: 3  # Splurge - quality minis, beautiful art by Ian O'Toole
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Action Points
+  - Take That
+  - Ameritrash
+  - Horror
+  - Fantasy
+  - Restoration Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Rob Daviau
+  - Justin D. Jacobson
+  - Chris Leder
+  - Kevin Rodgers
+publisher:
+  - Restoration Games
+  - Mondo Games
+artist:
+  - Ian O'Toole
+  - Andrew Thompson
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 9
+
+# Description
+description: |
+  Four Victorian-era literary legends clash in asymmetrical tactical combat.
+  Sherlock Holmes (with Watson as sidekick), Dracula (with his three sisters),
+  the Invisible Man, and Jekyll & Hyde each bring unique decks and abilities
+  to the fight. Players maneuver their heroes across a shared map, playing
+  cards to attack and defend with no dice - every outcome is determined by
+  card play. Part of the Unmatched system, fully compatible with all other
+  Unmatched sets for mix-and-match battles.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

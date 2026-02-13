@@ -67,11 +67,28 @@ Full rating system implemented:
 
 ---
 
+## Session 2 - Bulk Game Entry
+
+**Date:** January/February 2026
+
+### What Was Accomplished
+
+- Added 202 new detailed game entries (25 → 227 total)
+- Games now cover a wide range of BGG top-ranked titles including editions, expansions, and variants
+- Added `/add-game` skill for automated game entry via Claude Code subagent
+- Refined skill to use Sonnet model for cost-efficient research
+
+### Add-Game Skill (`/.claude/skills/add-game/`)
+- Forked subagent that researches and creates game YAML files
+- Uses WebSearch + WebFetch for BGG/publisher data
+- Pinned to Sonnet model (structured data collection doesn't need Opus)
+
+---
+
 ## TODO - Future Sessions
 
 ### High Priority
-- [ ] **Add more detailed game entries** - 975 games remaining from master list
-  - Next batch: Games ranked 26-50 (Frosthaven, Eclipse 2E, Lost Ruins of Arnak, etc.)
+- [ ] **Add more detailed game entries** - 773 games remaining from master list
 - [ ] **Obtain box art images** - See `/images/README.md` for sources
   - Contact publishers for press kits
   - Download from official websites
@@ -114,7 +131,7 @@ Full rating system implemented:
 
 ## File Counts
 - `master_list.yaml`: 1,000 games
-- `games/*.yaml`: 25 detailed entries
+- `games/*.yaml`: 227 detailed entries
 - Total categories defined: 70+
 - Designer tags available: 28
 - Publisher tags available: 22
