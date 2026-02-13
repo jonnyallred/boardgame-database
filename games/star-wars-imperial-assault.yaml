@@ -1,0 +1,71 @@
+id: star-wars-imperial-assault
+name: "Star Wars: Imperial Assault"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-120 min)
+rules_complexity: 3  # College - BGG weight ~3.30
+strategic_depth: 2  # Tactics - tactical positioning and combat decisions
+feel: 4  # Fierce - 1 vs Many, direct conflict
+value: 4  # Heirloom - 34 minis, modular tiles, 250+ cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - 1 vs Many
+  - Campaign Mode
+  - Modular Board
+  - Variable Setup
+  - Action Points
+  - Ameritrash
+  - Dungeon Crawler
+  - Sci-Fi
+  - War
+  - Space
+  - Corey Konieczka
+  - Fantasy Flight Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 5]
+
+# Metadata
+designer:
+  - Corey Konieczka
+  - Justin Kemppainen
+  - Jonathan Ying
+publisher:
+  - Fantasy Flight Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Command the forces of the Galactic Empire or lead a small band of Rebel
+  heroes in two distinct game modes. The campaign game pits one Imperial
+  player against up to four Rebel players across a series of linked
+  narrative missions, with characters gaining experience and new abilities
+  between sessions. The skirmish mode offers competitive head-to-head
+  tactical battles with custom strike teams. Features 34 detailed
+  miniatures, modular map tiles, and custom dice combat.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

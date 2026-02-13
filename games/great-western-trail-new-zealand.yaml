@@ -1,0 +1,67 @@
+id: great-western-trail-new-zealand
+name: "Great Western Trail: New Zealand"
+year: 2023
+
+# Relationships
+game_family: great-western-trail
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (75-150 min)
+rules_complexity: 3  # College - BGG weight ~3.75
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with minimal interaction
+value: 3  # Splurge - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Set Collection
+  - Engine Building
+  - Route Building
+  - Variable Setup
+  - Economic
+  - Animals
+  - Nature
+  - Euro
+  - Alexander Pfister
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Alexander Pfister
+publisher:
+  - eggertspiele
+  - Plan B Games
+playtime_minutes: 113
+min_playtime: 75
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Take on the role of a runholder on the South Island of New Zealand,
+  tending sheep and moving along a trail to Wellington. Deliver sheep
+  to local or foreign trading posts for victory points. Build your deck,
+  construct buildings along the rondel, and shear sheep for profit. The
+  heaviest entry in the Great Western Trail trilogy, adding gold panning
+  and ship mechanics to the series' signature deck-building core.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

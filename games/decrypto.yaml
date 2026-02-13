@@ -1,0 +1,63 @@
+id: decrypto
+name: "Decrypto"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (15-45 min)
+rules_complexity: 1  # Elementary - simple clue-giving and code-guessing rules
+strategic_depth: 1  # Basic - creative clue choices but limited long-term planning
+feel: 2  # Party - light social fun in teams
+value: 1  # Bargain - card-based components, solid replay
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deduction
+  - Word Play
+  - Teams
+  - Party
+  - Espionage
+
+# Player counts
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [6, 8]
+
+# Metadata
+designer:
+  - "Thomas Dagenais-Lesp\xE9rance"
+publisher:
+  - Le Scorpion Masqu\xE9
+  - Iello
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 12
+
+# Description
+description: |
+  Two teams race to decode secret three-digit codes while trying to
+  intercept the opposing team's codes. Each round, one player gives
+  creative word clues that relate to their team's hidden keyword cards.
+  Teammates must correctly guess the code, while opponents track clues
+  across rounds to deduce the hidden words. Earn white tokens by
+  intercepting enemy codes; collect two to win. But receive two black
+  tokens from miscommunication and you lose. Winner of multiple awards
+  including the 2018 As d'Or.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

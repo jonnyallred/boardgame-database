@@ -1,0 +1,66 @@
+id: russian-railroads
+name: "Russian Railroads"
+year: 2013
+
+# Relationships
+game_family: russian-railroads
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (90-120 min)
+rules_complexity: 3  # College - BGG weight 3.41
+strategic_depth: 3  # Strategy - long-term planning and engine optimization
+feel: 3  # Polite - competitive with indirect interaction via worker placement
+value: 2  # Fair Deal - quality boards/cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Engine Building
+  - Resource Management
+  - Euro
+  - Trains
+  - Historical
+  - Z-Man Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Helmut Ohley
+  - Leonhard Orgler
+publisher:
+  - Hans im Gluck
+  - Z-Man Games
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Set in late 19th century Russia, players are railway magnates competing
+  to build the most impressive railroad network. Using worker placement,
+  players advance tracks along three routes (Trans-Siberian, St. Petersburg,
+  Kiev), acquire increasingly powerful locomotives, recruit engineers with
+  unique abilities, and develop industry. Different colored track segments
+  score escalating points, creating a satisfying engine-building arc.
+  Strategic depth comes from choosing which routes to prioritize and
+  timing upgrades for maximum scoring combos.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

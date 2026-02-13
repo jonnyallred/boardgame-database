@@ -1,0 +1,71 @@
+id: battlestar-galactica-the-board-game
+name: "Battlestar Galactica: The Board Game"
+year: 2008
+
+# Relationships
+game_family: battlestar-galactica
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hours)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 3  # Strategy - long-term planning with hidden roles
+feel: 4  # Fierce - traitor mechanic creates cutthroat tension
+value: 3  # Splurge - quality components, minis, multiple boards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Traitor
+  - Social Deduction
+  - Hand Management
+  - Bluffing
+  - Variable Setup
+  - Dice Rolling
+  - Ameritrash
+  - Cult Classic
+  - Sci-Fi
+  - Space
+  - Survival
+  - Corey Konieczka
+  - Fantasy Flight Games
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [5]
+
+# Metadata
+designer:
+  - Corey Konieczka
+publisher:
+  - Fantasy Flight Games
+playtime_minutes: 150
+min_playtime: 120
+max_playtime: 240
+min_age: 10
+
+# Description
+description: |
+  Survive the journey to Kobol as humans struggle against hidden Cylon
+  infiltrators. Players take on roles from the reimagined TV series,
+  using skill cards to resolve crises while managing dwindling resources
+  of fuel, food, morale, and population. Midway through, a second round
+  of loyalty cards may reveal new traitors. Revealed Cylons operate from
+  the Resurrection Ship, launching attacks and sabotaging from afar.
+  The paranoia-driven social deduction and crisis resolution create
+  unforgettable moments of accusation and betrayal.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

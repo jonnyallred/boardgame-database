@@ -1,0 +1,66 @@
+id: lorenzo-il-magnifico
+name: "Lorenzo il Magnifico"
+year: 2016
+
+# Relationships
+game_family: lorenzo-il-magnifico
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-120 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 3  # Strategy - long-term planning
+feel: 3  # Polite - competitive with minimal interaction
+value: 2  # Fair Deal - quality boards/cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Card Drafting
+  - Engine Building
+  - Resource Management
+  - Euro
+  - Historical
+  - Medieval
+  - Simone Luciani
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Flaminia Brasini
+  - Virginio Gigli
+  - Simone Luciani
+publisher:
+  - Cranio Creations
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Lead a noble family in Renaissance Florence, deploying family members
+  to gain resources, develop territories, and activate powerful card
+  effects. Dice rolled each round determine the strength of all players'
+  workers, forcing tactical adaptation. Collect development cards across
+  four towers, manage military and faith tracks to avoid excommunication,
+  and build an engine of lasting victory points.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

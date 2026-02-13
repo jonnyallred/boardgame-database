@@ -1,0 +1,68 @@
+id: blood-rage
+name: "Blood Rage"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 2  # Junior High/High School - BGG weight 2.88
+strategic_depth: 3  # Strategy - long-term planning across three ages with multiple paths to victory
+feel: 4  # Fierce - direct combat, area control, pillaging
+value: 3  # Splurge - highly detailed plastic miniatures
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Area Control
+  - Hand Management
+  - Drafting
+  - Simultaneous Action
+  - Ameritrash
+  - Dudes on a Map
+  - Mythology
+  - Fantasy
+  - Eric Lang
+  - CMON
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Eric Lang
+publisher:
+  - CMON
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Lead your Viking clan to glory before Ragnarok consumes the world.
+  Over three ages, draft cards to upgrade your clan, deploy warriors
+  and monsters onto the map, and battle rivals for control of provinces.
+  Each age ends with Ragnarok destroying a region, sending forces to
+  Valhalla. Multiple paths to victory: dominate territories, win
+  battles, fulfill quests, or even embrace glorious defeat. The draft
+  phase drives strategy as players choose upgrades, combat cards, and
+  quest objectives that shape their approach each age.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

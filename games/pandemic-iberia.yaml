@@ -1,0 +1,65 @@
+id: pandemic-iberia
+name: "Pandemic: Iberia"
+year: 2016
+
+# Relationships
+game_family: pandemic
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (45-90 min)
+rules_complexity: 2  # Junior High - structured steps, BGG weight ~2.4
+strategic_depth: 2  # Tactics - short-term positioning with route planning
+feel: 1  # Cooperative - work together
+value: 2  # Fair Deal - quality board and components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Hand Management
+  - Set Collection
+  - Route Building
+  - Variable Setup
+  - Action Points
+  - Matt Leacock
+  - Z-Man Games
+  - Historical
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Matt Leacock
+  - Jesus Torres Castro
+publisher:
+  - Z-Man Games
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Set on the Iberian Peninsula in 1848, players take on roles such as nurse,
+  railwayman, rural doctor, and sailor to research and combat malaria, typhus,
+  yellow fever, and cholera. Unlike base Pandemic, diseases can only be
+  researched rather than cured, players build railway networks for faster
+  travel, and purified water tokens help slow the spread of disease. Scalable
+  difficulty from Introductory to Heroic via epidemic card count.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

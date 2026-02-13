@@ -1,0 +1,67 @@
+id: the-voyages-of-marco-polo
+name: "The Voyages of Marco Polo"
+year: 2015
+
+# Relationships
+game_family: marco-polo
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-100 min)
+rules_complexity: 3  # College - BGG weight 3.19
+strategic_depth: 3  # Strategy - long-term planning
+feel: 3  # Polite - competitive with minimal direct interaction
+value: 2  # Fair Deal - quality boards/cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Worker Placement
+  - Route Building
+  - Variable Setup
+  - Resource Management
+  - Trading
+  - Euro
+  - Historical
+  - Simone Luciani
+  - Daniele Tascini
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Simone Luciani
+  - Daniele Tascini
+publisher:
+  - Hans im Gluck
+  - Z-Man Games
+playtime_minutes: 80
+min_playtime: 40
+max_playtime: 100
+min_age: 12
+
+# Description
+description: |
+  Travel the Silk Road as Marco Polo, using dice as workers to gather
+  resources, fulfill contracts, and establish trading posts across Asia.
+  Each player has a unique character with a game-breaking asymmetric
+  power. Roll dice each round and place them on action spaces — higher
+  values are more powerful but opponents can outbid you. Winner of the
+  2015 Deutscher Spiele Preis.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,64 @@
+id: too-many-bones-undertow
+name: "Too Many Bones: Undertow"
+year: 2018
+
+# Relationships
+game_family: too-many-bones
+edition: null
+base_game: too-many-bones
+expansions: []
+compatible_with:
+  - too-many-bones
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min typical)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 3  # Strategy - long-term planning
+feel: 1  # Cooperative - work together
+value: 4  # Heirloom - luxury production, expansions beckon
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Cooperative
+  - Campaign Mode
+  - Tech Tree
+  - Variable Setup
+  - Fantasy
+  - Dungeon Crawler
+  - Ameritrash
+  - Chip Theory Games
+
+# Player counts
+possible_counts: [1, 2]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Josh J. Carlson
+  - Adam Carlson
+publisher:
+  - Chip Theory Games
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  A standalone sequel to Too Many Bones featuring two new Gearlocs, Stanza and Duster,
+  who board a raft and journey down the Sibron River. Includes all-new baddies, encounters,
+  tyrants, and a double-sided battle mat with land and raft-based combat. Fully playable
+  on its own for 1-2 players, or combine with the original game for up to 4 players.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

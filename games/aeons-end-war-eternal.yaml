@@ -1,0 +1,60 @@
+id: aeons-end-war-eternal
+name: "Aeon's End: War Eternal"
+year: 2017
+
+# Relationships
+game_family: aeons-end
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School - structured steps and mechanics
+strategic_depth: 2  # Tactics - short-term positioning and card sequencing
+feel: 1  # Cooperative - work together
+value: 2  # Fair Deal - quality cards and components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Cooperative
+  - Hand Management
+  - Variable Setup
+  - Fantasy
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Kevin Riley
+publisher:
+  - Indie Boards & Cards
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  Standalone sequel to Aeon's End. Cooperative deck-building game where
+  players defend the last bastion of humanity, Gravehold, against The
+  Nameless and their hordes. Features a unique no-shuffle mechanism where
+  the order you discard cards matters, and a variable turn order system
+  that simulates the chaos of battle. Fully compatible with the original
+  Aeon's End.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

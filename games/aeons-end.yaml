@@ -1,0 +1,63 @@
+id: aeons-end
+name: "Aeon's End"
+year: 2016
+
+# Relationships
+game_family: aeons-end
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School - BGG weight 2.79
+strategic_depth: 2  # Tactics - short-term positioning with deck/breach management
+feel: 1  # Cooperative - work together against the Nemesis
+value: 2  # Fair Deal - quality cards and components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Cooperative
+  - Hand Management
+  - Variable Setup
+  - Fantasy
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Kevin Riley
+  - Nick Little
+  - Jenny Iglesias
+publisher:
+  - Action Phase Games
+  - Indie Boards & Cards
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  Cooperative deck-building game where players are breach mages defending
+  the underground city of Gravehold from The Nameless. Features a unique
+  no-shuffle mechanic where the order you discard cards matters, a variable
+  turn order system that simulates the chaos of battle, and breaches that
+  must be opened to cast powerful spells. Each game uses a different
+  combination of nemesis, mages, and market cards for high replayability.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

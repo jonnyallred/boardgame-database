@@ -1,0 +1,65 @@
+id: agricola-revised-edition
+name: "Agricola (Revised Edition)"
+year: 2016
+
+# Relationships
+game_family: agricola
+edition: "Revised Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (30-120 min, avg 90 min)
+rules_complexity: 3  # College - BGG weight ~3.4
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with blocking
+value: 2  # Fair Deal - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Hand Management
+  - Resource Management
+  - Card Drafting
+  - Variable Setup
+  - Agriculture
+  - Euro
+  - Uwe Rosenberg
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Lookout Games
+  - Mayfair Games
+artist:
+  - Klemens Franz
+playtime_minutes: 90
+min_playtime: 30
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  The revised edition of Uwe Rosenberg's classic farming game, streamlined
+  for 1-4 players. Build a farm in 17th century Europe by plowing fields,
+  raising livestock, and expanding your family. Features updated card decks
+  with 48 Occupations and 48 Minor Improvements. Tight worker placement
+  with the pressure of feeding your family each harvest.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

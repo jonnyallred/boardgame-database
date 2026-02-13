@@ -1,0 +1,62 @@
+id: cartographers
+name: "Cartographers"
+year: 2019
+
+# Relationships
+game_family: cartographers
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-45 min)
+rules_complexity: 1  # Elementary - BGG weight 1.88
+strategic_depth: 2  # Tactics - spatial puzzle with scoring combos
+feel: 3  # Polite - competitive but mostly solo puzzling
+value: 1  # Bargain - pencil and paper style, solid replay
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Roll & Write
+  - Simultaneous Action
+  - Pattern Building
+  - Variable Setup
+  - Euro
+  - Family
+  - Fantasy
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, "12+"]
+true_counts: [1, 2, 3, 4]
+
+# Metadata
+designer:
+  - Jordy Adan
+publisher:
+  - Thunderworks Games
+playtime_minutes: 38
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+# Description
+description: |
+  Draw and explore the lands of Nalos as a royal cartographer, mapping
+  territories for Queen Gimnax. Each round, flip explore cards revealing
+  terrain types and shapes to draw on your map sheet. Score points based
+  on four rotating scoring conditions evaluated across four seasons.
+  Monster ambushes let opponents draw on your map, costing you points.
+  A flip-and-write game set in the Roll Player universe.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

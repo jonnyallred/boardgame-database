@@ -1,0 +1,59 @@
+id: scout
+name: "SCOUT"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (15 min)
+rules_complexity: 0  # Preschool - BGG weight 1.35
+strategic_depth: 1  # Basic - simple choices with hand management
+feel: 3  # Polite - competitive with direct interaction
+value: 0  # Impulse - tiny Oink Games box
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Trick-taking
+  - Card Drafting
+  - Family
+  - Filler
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Kei Kajino
+publisher:
+  - Oink Games
+playtime_minutes: 15
+min_playtime: 15
+max_playtime: 15
+min_age: 9
+
+# Description
+description: |
+  Ladder-climbing card game where each card has two possible values and
+  you cannot rearrange your hand. On your turn, play a set of cards that
+  beats the current top set, or "scout" a card from the ends of the
+  current set into your hand. Once per round you may scout and show in
+  the same turn. Nominated for the 2022 Spiel des Jahres.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

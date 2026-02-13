@@ -1,0 +1,72 @@
+id: twilight-imperium-third-edition
+name: "Twilight Imperium: Third Edition"
+year: 2005
+
+# Relationships
+game_family: twilight-imperium
+edition: "Third Edition"
+base_game: null
+expansions:
+  - twilight-imperium-third-edition-shattered-empire
+  - twilight-imperium-third-edition-shards-of-the-throne
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (6+ hrs)
+rules_complexity: 4  # PhD - intricate rules (BGG weight ~4.24)
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 4  # Fierce - cutthroat rivalry
+value: 4  # Heirloom - massive production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Negotiation
+  - Trading
+  - Variable Setup
+  - Modular Board
+  - Hex Map
+  - Hand Management
+  - Action Points
+  - Tech Tree
+  - Sci-Fi
+  - Space
+  - Civilization
+  - 4X
+  - Dudes on a Map
+  - Fantasy Flight Games
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Christian T. Petersen
+publisher:
+  - Fantasy Flight Games
+playtime_minutes: 360
+min_playtime: 180
+max_playtime: 480
+min_age: 12
+
+# Description
+description: |
+  An epic game of galactic conquest, politics, and trade. Three to six players
+  each control one of ten unique alien races, competing to claim the Imperial
+  Throne via military conquest, political maneuvering, and strategic planning.
+  Features a modular hex-tile galaxy, a political agenda phase, technology trees,
+  and deep negotiation. Successor to the second edition with streamlined combat
+  and an expanded political system.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

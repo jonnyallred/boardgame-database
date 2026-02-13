@@ -1,0 +1,69 @@
+id: arcs
+name: "Arcs"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-120 min)
+rules_complexity: 3  # College (BGG weight 3.42)
+strategic_depth: 3  # Strategy - long-term planning
+feel: 4  # Fierce - cutthroat area control rivalry
+value: 3  # Splurge - quality Leder Games production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Trick-taking
+  - Area Control
+  - Hand Management
+  - Dice Rolling
+  - Negotiation
+  - Action Points
+  - Campaign Mode
+  - Sci-Fi
+  - Space
+  - Wargame
+  - Dudes on a Map
+  - Cole Wehrle
+  - Leder Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Cole Wehrle
+publisher:
+  - Leder Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  A sharp sci-fi strategy game where players are officials of a decaying
+  galactic Empire vying for dominance through battle, resource gathering,
+  and diplomacy. Actions are selected through an innovative trick-taking
+  system where one player leads a card and others must follow suit or
+  seize initiative. Battles use a risk-versus-reward dice system with
+  different dice types offering varied attack profiles. Variable
+  objectives drive competition across a modular star map.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

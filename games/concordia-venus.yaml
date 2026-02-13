@@ -1,0 +1,68 @@
+id: concordia-venus
+name: "Concordia Venus"
+year: 2018
+
+# Relationships
+game_family: concordia
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - concordia
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-120 min)
+rules_complexity: 3  # College - BGG weight 3.21
+strategic_depth: 3  # Strategy - long-term planning
+feel: 3  # Polite - competitive with minimal interaction
+value: 3  # Splurge - two maps, Venus cards, 6-player components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Route Building
+  - Network Building
+  - Trading
+  - Resource Management
+  - Economic
+  - Teams
+  - Historical
+  - Ancient
+  - Euro
+  - Mac Gerdts
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Mac Gerdts
+publisher:
+  - PD-Verlag
+  - Rio Grande Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  A standalone re-implementation of Concordia bundled with the Venus expansion
+  content. Includes two new maps (Ionium and Hellas), new Venus personality
+  cards enabling fresh strategies, support for a sixth player, and team play
+  rules for 4 or 6 players in 2-3 teams. Fully compatible with all existing
+  Concordia expansions. The core gameplay remains the same elegant card-driven
+  economic system set in the Roman Mediterranean.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

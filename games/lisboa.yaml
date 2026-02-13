@@ -1,0 +1,68 @@
+id: lisboa
+name: "Lisboa"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs) - games regularly run 2-3 hours
+rules_complexity: 4  # PhD - BGG weight 4.57, intricate interlocking systems
+strategic_depth: 4  # Master Plan - multi-move optimization across many subsystems
+feel: 3  # Polite - competitive with indirect interaction through area influence
+value: 4  # Heirloom - luxury production, Ian O'Toole art, deluxe edition available
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Tile Placement
+  - Area Control
+  - Set Collection
+  - Card Drafting
+  - Economic
+  - Engine Building
+  - Euro
+  - Historical
+  - City Building
+  - Vital Lacerda
+  - Eagle-Gryphon Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Vital Lacerda
+publisher:
+  - Eagle-Gryphon Games
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Rebuild the city of Lisboa after the devastating earthquake, tsunami,
+  and fires of November 1, 1755. As members of the Portuguese nobility,
+  players use a hand of multi-use cards to gain influence with the King,
+  the Marquis, and the Builder. Construct public buildings and open shops
+  in the new city streets, manage resources, and navigate the political
+  landscape of 18th-century Portugal. A deeply interconnected heavy Euro
+  from Vital Lacerda with artwork by Ian O'Toole.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,69 @@
+id: age-of-innovation
+name: "Age of Innovation"
+year: 2023
+
+# Relationships
+game_family: terra-mystica
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 4  # PhD - intricate rules with many interconnected systems
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with minimal direct interaction
+value: 4  # Heirloom - premium production, deep replayability
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Hex Map
+  - Network Building
+  - Resource Management
+  - Engine Building
+  - Tech Tree
+  - Variable Setup
+  - Modular Board
+  - Action Points
+  - Fantasy
+  - Civilization
+  - Euro
+  - Capstone Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Helge Ostertag
+publisher:
+  - Feuerland Spiele
+  - Capstone Games
+playtime_minutes: 120
+min_playtime: 40
+max_playtime: 200
+min_age: 14
+
+# Description
+description: |
+  The latest evolution of the Terra Mystica system, featuring fully customizable
+  factions on a modular hex map. Choose a faction and pair it with an innovation
+  board to create unique combinations of abilities and strategies. Terraform the
+  landscape, build structures, advance on science tracks, and found settlements
+  to score points. With over 100 faction-innovation combinations, no two games
+  play alike, offering immense strategic depth and replayability.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

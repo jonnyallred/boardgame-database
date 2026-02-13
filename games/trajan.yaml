@@ -1,0 +1,71 @@
+id: trajan
+name: "Trajan"
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-120 min typical)
+rules_complexity: 3  # College (BGG weight 3.54)
+strategic_depth: 3  # Strategy - long-term planning with mancala action selection
+feel: 3  # Polite - competitive with minimal direct interaction
+value: 2  # Fair Deal - quality boards/cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Mancala
+  - Action Points
+  - Set Collection
+  - Tile Placement
+  - Area Control
+  - Hand Management
+  - Euro
+  - Ancient
+  - Historical
+  - Stefan Feld
+  - Renegade Game Studios
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Stefan Feld
+publisher:
+  - Ammonit Spiele
+  - Renegade Game Studios
+  - HUCH!
+  - Passport Game Studios
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Set in ancient Rome during the reign of Emperor Trajan, players manage
+  six areas of Roman life: military, trade, construction, the forum,
+  the senate, and Trajan tiles. The central mechanism is a personal
+  mancala bowl where players distribute colored cylinders to select
+  actions. Matching specific color combinations on bowls unlocks powerful
+  Trajan tiles for bonus points and abilities. Players must also
+  collectively satisfy the demands of the people each quarter or lose
+  points. A deep, strategic Euro with interlocking scoring systems.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

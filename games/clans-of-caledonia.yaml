@@ -1,0 +1,67 @@
+id: clans-of-caledonia
+name: "Clans of Caledonia"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min typical)
+rules_complexity: 3  # College - BGG weight 3.46
+strategic_depth: 3  # Strategy - long-term economic planning
+feel: 3  # Polite - competitive via market, indirect interaction
+value: 3  # Splurge - modular board, clan components, quality production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Economic
+  - Network Building
+  - Route Building
+  - Modular Board
+  - Variable Setup
+  - Resource Management
+  - Trading
+  - Euro
+  - Historical
+  - Agriculture
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Juma Al-JouJou
+publisher:
+  - Karma Games
+playtime_minutes: 75
+min_playtime: 30
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Mid-to-heavy economic game set in 19th-century Scotland during the
+  transition from agriculture to industrialization. Each player represents
+  a historic Scottish clan with unique abilities, competing to produce,
+  trade, and export agricultural goods and whisky. Features a dynamic
+  market where prices fluctuate based on supply and demand, modular hex
+  board for high replayability, and 5 rounds of tight economic decisions.
+  Eight possible actions per turn including building, upgrading, trading,
+  and fulfilling export contracts.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

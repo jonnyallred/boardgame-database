@@ -1,0 +1,71 @@
+id: galactic-cruise
+name: "Galactic Cruise"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-150 min)
+rules_complexity: 4  # PhD (BGG weight 3.89)
+strategic_depth: 3  # Strategy - long-term planning across three eras
+feel: 3  # Polite - competitive with minimal direct interaction
+value: 3  # Splurge - Ian O'Toole art, quality wooden components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Action Points
+  - Hand Management
+  - Set Collection
+  - Drafting
+  - Engine Building
+  - Resource Management
+  - Modular Board
+  - Variable Setup
+  - Tech Tree
+  - Euro
+  - Sci-Fi
+  - Space
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Dennis Northcott
+  - Koltin Thompson
+  - T.K. King
+publisher:
+  - Kinson Key Games
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Build and launch ships to send guests on luxurious space vacations.
+  As a supervisor at a galactic cruise company, compete to become the
+  next CEO over three eras. Draw blueprints, build rooms onto rockets,
+  advertise cruises, and launch guests into the cosmos. Worker placement
+  with a bumping mechanism - placing on an occupied space rewards the
+  displaced worker's owner with funding. Technology tokens connect
+  action spaces and expand your resource storage capacity.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,61 @@
+id: star-realms
+name: "Star Realms"
+year: 2014
+
+# Relationships
+game_family: star-realms
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~20 min)
+rules_complexity: 1  # Elementary - simple deck builder rules
+strategic_depth: 2  # Tactics - trade row decisions, faction combos
+feel: 4  # Fierce - direct head-to-head combat
+value: 0  # Impulse - small portable card box
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Take That
+  - Sci-Fi
+  - Space
+  - Filler
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Robert Dougherty
+  - Darwin Kastle
+publisher:
+  - White Wizard Games
+playtime_minutes: 20
+min_playtime: 20
+max_playtime: 20
+min_age: 12
+
+# Description
+description: |
+  A fast-paced space combat deck-building card game. Players start with
+  identical decks and purchase ships and bases from a shared trade row
+  to build powerful combos across four factions. Attack your opponent's
+  authority to zero to win. Compact enough to fit in your pocket. Winner
+  of multiple Golden Geek and Dice Tower awards for Best 2-Player Game.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

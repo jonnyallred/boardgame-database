@@ -1,0 +1,65 @@
+id: hadrians-wall
+name: "Hadrian's Wall"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (30-60 min, meaty decisions)
+rules_complexity: 3  # College (BGG weight ~3.11, many interconnected systems)
+strategic_depth: 3  # Strategy (long-term planning across 6 rounds)
+feel: 3  # Polite (competitive but minimal direct interaction)
+value: 2  # Fair Deal (quality player sheets and cards)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Engine Building
+  - Resource Management
+  - Simultaneous Action
+  - Tableau Building
+  - Euro
+  - Historical
+  - Ancient
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [1, 2, 3]
+
+# Metadata
+designer:
+  - Bobby Hill
+publisher:
+  - Garphill Games
+  - Renegade Game Studios
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  Take on the role of a Roman General tasked with building a milecastle
+  and bordering wall along Hadrian's Wall. Over six years (rounds), gain
+  workers and resources, then simultaneously take actions to construct
+  your fort and wall, man the defenses, and attract civilians. A deeply
+  strategic flip-and-write game with interconnected tracks that trigger
+  satisfying combo chains. Minimal player interaction makes it an
+  excellent solo experience.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,66 @@
+id: harmonies
+name: "Harmonies"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-45 min)
+rules_complexity: 1  # Elementary - simple drafting and placement rules
+strategic_depth: 2  # Tactics - spatial positioning and pattern matching
+feel: 3  # Polite - competitive with indirect blocking via drafting
+value: 2  # Fair Deal - 120 wooden tokens, quality cards and boards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Drafting
+  - Pattern Building
+  - Tile Placement
+  - Set Collection
+  - Euro
+  - Family
+  - Gateway
+  - Nature
+  - Animals
+  - Asmodee
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Johan Benvenuto
+publisher:
+  - Libellud
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+# Description
+description: |
+  Create dreamlike landscapes by drafting sets of colored tokens from a
+  shared central board and placing them on your personal hex grid. Stack
+  tokens to build trees and mountains in three dimensions, forming habitat
+  patterns that attract animals to your world. Each animal card requires a
+  specific terrain arrangement, rewarding spatial planning and forward
+  thinking. Winner of the 2024 Golden Geek Medium Game of the Year and
+  Spiel des Jahres Recommended.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

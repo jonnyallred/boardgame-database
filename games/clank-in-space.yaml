@@ -1,0 +1,63 @@
+id: clank-in-space
+name: "Clank! In! Space!: A Deck-Building Adventure"
+year: 2017
+
+# Relationships
+game_family: clank
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 2  # Junior High/High School - BGG weight 2.53
+strategic_depth: 2  # Tactics - short-term positioning with deck and route choices
+feel: 3  # Polite - competitive with indirect interaction via clank
+value: 3  # Splurge - modular board, quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Press Your Luck
+  - Modular Board
+  - Hand Management
+  - Sci-Fi
+  - Space
+  - Renegade Game Studios
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3]
+
+# Metadata
+designer:
+  - Paul Dennen
+publisher:
+  - Renegade Game Studios
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 13
+
+# Description
+description: |
+  Sneak aboard Lord Eradikus' flagship to steal valuable artifacts and
+  escape before getting caught. Build your deck to move through the modular
+  spaceship, hack terminals, fight enemies, and acquire powerful new cards.
+  Every noisy action adds clank cubes to the bag, risking damage when
+  Eradikus attacks. Push deeper for better loot but risk not making it to
+  an escape pod in time. A sci-fi reimplementation of Clank! with added
+  mechanics like faction-based card synergies and hacking.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

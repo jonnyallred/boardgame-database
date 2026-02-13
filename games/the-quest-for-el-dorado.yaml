@@ -1,0 +1,65 @@
+id: the-quest-for-el-dorado
+name: "The Quest for El Dorado"
+year: 2017
+
+# Relationships
+game_family: the-quest-for-el-dorado
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (30-60 min games)
+rules_complexity: 1  # Elementary - BGG weight 1.93
+strategic_depth: 2  # Tactics - short-term positioning and card market choices
+feel: 3  # Polite - competitive racing with indirect interaction
+value: 2  # Fair Deal - quality cards and modular board tiles
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Racing
+  - Modular Board
+  - Hand Management
+  - Euro
+  - Family
+  - Gateway
+  - Reiner Knizia
+  - Ravensburger
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - Ravensburger
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Race through the jungles of South America to reach the legendary city
+  of gold. Build your deck by purchasing cards from a shared market,
+  using machetes, paddles, and coins to traverse jungle, river, and
+  village terrain. Modular hex tiles create a different map each game.
+  First expedition to reach El Dorado wins. Nominated for the 2017
+  Spiel des Jahres. Combines accessible deck building with tactical
+  racing on a variable board.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

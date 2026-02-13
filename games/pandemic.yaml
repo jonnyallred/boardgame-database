@@ -1,0 +1,66 @@
+id: pandemic
+name: "Pandemic"
+year: 2008
+
+# Relationships
+game_family: pandemic
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (45 min)
+rules_complexity: 2  # Junior High/High School - BGG weight ~2.4
+strategic_depth: 2  # Tactics - short-term positioning and cooperation
+feel: 1  # Cooperative - work together
+value: 2  # Fair Deal - quality board and cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Hand Management
+  - Set Collection
+  - Action Points
+  - Variable Setup
+  - Gateway
+  - Family
+  - Survival
+  - Matt Leacock
+  - Z-Man Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Matt Leacock
+publisher:
+  - Z-Man Games
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  Work together to stop four deadly diseases from spreading across the
+  globe. Players take on unique roles - medic, scientist, researcher,
+  dispatcher, and more - each with special abilities. Travel between
+  cities, treat infections, share knowledge, and discover cures before
+  time runs out. The Infection deck escalates tension as Epidemic cards
+  reshuffle the discard pile on top, creating devastating outbreaks.
+  A landmark cooperative design that defined the genre.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

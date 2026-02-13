@@ -1,0 +1,74 @@
+id: ticket-to-ride-legacy-legends-of-the-west
+name: "Ticket to Ride Legacy: Legends of the West"
+year: 2023
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~60 min per session)
+rules_complexity: 2  # Junior High/High School - BGG weight 2.54
+strategic_depth: 2  # Tactics - route planning and card collection
+feel: 3  # Polite - competitive with minimal direct interaction
+value: 4  # Heirloom - premium legacy production with hidden boxes and surprises
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Hand Management
+  - Route Building
+  - Network Building
+  - Campaign Mode
+  - Legacy
+  - Family
+  - Gateway
+  - Trains
+  - Historical
+  - Western
+  - Rob Daviau
+  - Matt Leacock
+  - Alan R. Moon
+  - Days of Wonder
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Rob Daviau
+  - Matt Leacock
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+playtime_minutes: 55
+min_playtime: 20
+max_playtime: 90
+min_age: 10
+
+# Description
+description: |
+  Build train lines across the United States in a twelve-game legacy
+  campaign. Each player manages their own railway company, collecting
+  colored train cards to claim routes between cities. As the campaign
+  progresses, frontier boxes unlock new rules, content, and surprises
+  that permanently alter the game. Tickets can expire and retire into
+  postcards that grant ongoing bonuses. At the end of twelve games,
+  your copy becomes a unique, replayable board game. Designed by the
+  creators of Pandemic Legacy and the original Ticket to Ride.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

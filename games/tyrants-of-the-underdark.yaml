@@ -1,0 +1,64 @@
+id: tyrants-of-the-underdark
+name: "Tyrants of the Underdark"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~60-120 min)
+rules_complexity: 2  # Junior High/High School - BGG weight 2.56
+strategic_depth: 2  # Tactics - short-term positioning with deck and board
+feel: 4  # Fierce - cutthroat area control, displacing opponents
+value: 2  # Fair Deal - quality board and cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Area Control
+  - Hand Management
+  - Fantasy
+  - Ameritrash
+  - Dudes on a Map
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Peter Lee
+  - Rodney Thompson
+  - Andrew Veen
+publisher:
+  - Gale Force Nine
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Lead a house of Drow in the Underdark, combining deck building with
+  area control on a shared board. Recruit monsters, cultists, and demons
+  to your deck while placing troops to dominate locations like
+  Menzoberranzan and Blingdenstone. Cards provide both influence to buy
+  better cards and power to deploy and assassinate troops on the map.
+  From the designers of Lords of Waterdeep. Board sections scale with
+  player count to keep competition tight.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

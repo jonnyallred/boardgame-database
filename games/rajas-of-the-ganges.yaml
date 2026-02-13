@@ -1,0 +1,66 @@
+id: rajas-of-the-ganges
+name: "Rajas of the Ganges"
+year: 2017
+
+# Relationships
+game_family: rajas-of-the-ganges
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (45-75 min)
+rules_complexity: 2  # Junior High/High School - structured steps and mechanics
+strategic_depth: 3  # Strategy - long-term planning with dual-track racing
+feel: 3  # Polite - competitive with minimal direct interaction
+value: 2  # Fair Deal - quality boards/cards and dice
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Tile Placement
+  - Route Building
+  - Network Building
+  - Resource Management
+  - Euro
+  - Historical
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - "HUCH!"
+  - R&R Games
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+# Description
+description: |
+  Set in 16th century India, players take on the roles of rajas and ranis
+  competing for fame and fortune in the Great Mogul Empire. A dice-driven
+  worker placement game where dice serve as resources rather than randomizers.
+  Players place workers on action spaces to develop provinces, trade goods
+  along the Ganges, and navigate markets. The unique dual-track victory
+  condition has fame and money tracks racing toward each other - the first
+  player whose markers meet or cross wins.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

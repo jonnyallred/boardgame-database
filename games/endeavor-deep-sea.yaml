@@ -1,0 +1,66 @@
+id: endeavor-deep-sea
+name: "Endeavor: Deep Sea"
+year: 2024
+
+# Relationships
+game_family: endeavor
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-120 min)
+rules_complexity: 2  # Junior High/High School - BGG weight 2.90
+strategic_depth: 3  # Strategy - long-term planning with tech tracks and engine building
+feel: 3  # Polite - competitive with indirect interaction
+value: 3  # Splurge - high production quality
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Action Points
+  - Engine Building
+  - Tech Tree
+  - Cooperative
+  - Modular Board
+  - Variable Setup
+  - Euro
+  - Nature
+  - Maritime
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Jarratt Gray
+  - Carl de Visser
+publisher:
+  - Burnt Island Games
+  - Grand Gamers Guild
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+# Description
+description: |
+  Lead an independent ocean research institute exploring uncharted depths.
+  Recruit field experts and use their abilities to explore new locations,
+  research dive sites, publish ecological papers, and launch conservation
+  efforts. Features solo, cooperative, and competitive modes with action
+  point allocation, tech track progression, and engine building. Nominated
+  for the 2025 Kennerspiel des Jahres.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
