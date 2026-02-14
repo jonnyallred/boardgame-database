@@ -61,7 +61,7 @@ Each game file (`games/{slug}.yaml`) contains:
 
 ### Master List
 
-`master_list.yaml` contains 1,000 games with minimal data: `id`, `name`, `year`, and `bgg_rank`. This is used as a reference for which games exist in the collection.
+`master_list.yaml` contains 1,000 games with: `id` (slug matching the `games/` filename), `name`, `year`, and `bgg_rank`. The `id` field links master list entries to their detailed files in `games/`.
 
 ### Schema
 
@@ -95,11 +95,15 @@ The project uses YAML structure only—no linting tools are configured. When edi
 - Keep field order consistent with the schema
 - Ensure `categories[]` values exist in `schema.yaml`
 
-### File Count & Status
+### Progress Tracking
 
-**Tracking current work:**
-- Check `SESSION_NOTES.md` for session history and TODO items
-- 227 games have detailed entries; 773 remain from the master list
+**Check progress:**
+- Run `python3 scripts/progress.py` to see completion stats and next games to work on
+- Or use the `/progress` skill in Claude Code
+- `python3 scripts/progress.py 50` — show next 50 games
+- `python3 scripts/progress.py 0` — stats only
+
+**Session history:** Check `SESSION_NOTES.md` for past sessions and TODO items
 
 ## Key Information for Editing
 

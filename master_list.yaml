@@ -5,3021 +5,4021 @@
 
 games:
   # Top 100
-  - name: "Brass: Birmingham"
+  - id: brass-birmingham
+    name: "Brass: Birmingham"
     year: 2018
     bgg_rank: 1
-  - name: "Ark Nova"
+  - id: ark-nova
+    name: "Ark Nova"
     year: 2021
     bgg_rank: 2
-  - name: "Pandemic Legacy: Season 1"
+  - id: pandemic-legacy-season-1
+    name: "Pandemic Legacy: Season 1"
     year: 2015
     bgg_rank: 3
-  - name: "Gloomhaven"
+  - id: gloomhaven
+    name: "Gloomhaven"
     year: 2017
     bgg_rank: 4
-  - name: "Dune: Imperium"
+  - id: dune-imperium
+    name: "Dune: Imperium"
     year: 2020
     bgg_rank: 5
-  - name: "Twilight Imperium: Fourth Edition"
+  - id: twilight-imperium-4
+    name: "Twilight Imperium: Fourth Edition"
     year: 2017
     bgg_rank: 6
-  - name: "Dune: Imperium – Uprising"
+  - id: dune-imperium-uprising
+    name: "Dune: Imperium – Uprising"
     year: 2023
     bgg_rank: 7
-  - name: "War of the Ring: Second Edition"
+  - id: war-of-the-ring-2
+    name: "War of the Ring: Second Edition"
     year: 2011
     bgg_rank: 8
-  - name: "Terraforming Mars"
+  - id: terraforming-mars
+    name: "Terraforming Mars"
     year: 2016
     bgg_rank: 9
-  - name: "Star Wars: Rebellion"
+  - id: star-wars-rebellion
+    name: "Star Wars: Rebellion"
     year: 2016
     bgg_rank: 10
-  - name: "Spirit Island"
+  - id: spirit-island
+    name: "Spirit Island"
     year: 2017
     bgg_rank: 11
-  - name: "Gloomhaven: Jaws of the Lion"
+  - id: gloomhaven-jaws-of-the-lion
+    name: "Gloomhaven: Jaws of the Lion"
     year: 2020
     bgg_rank: 12
-  - name: "Gaia Project"
+  - id: gaia-project
+    name: "Gaia Project"
     year: 2017
     bgg_rank: 13
-  - name: "Twilight Struggle"
+  - id: twilight-struggle
+    name: "Twilight Struggle"
     year: 2005
     bgg_rank: 14
-  - name: "The Castles of Burgundy"
+  - id: castles-of-burgundy
+    name: "The Castles of Burgundy"
     year: 2011
     bgg_rank: 15
-  - name: "Through the Ages: A New Story of Civilization"
+  - id: through-the-ages
+    name: "Through the Ages: A New Story of Civilization"
     year: 2015
     bgg_rank: 16
-  - name: "Great Western Trail"
+  - id: great-western-trail
+    name: "Great Western Trail"
     year: 2016
     bgg_rank: 17
-  - name: "SETI: Search for Extraterrestrial Intelligence"
+  - id: seti-search-for-extraterrestrial-intelligence
+    name: "SETI: Search for Extraterrestrial Intelligence"
     year: 2024
     bgg_rank: 18
-  - name: "Slay the Spire: The Board Game"
+  - id: slay-the-spire-the-board-game
+    name: "Slay the Spire: The Board Game"
     year: 2024
     bgg_rank: 19
-  - name: "Frosthaven"
+  - id: frosthaven
+    name: "Frosthaven"
     year: 2022
     bgg_rank: 20
-  - name: "Eclipse: Second Dawn for the Galaxy"
+  - id: eclipse-second-dawn-for-the-galaxy
+    name: "Eclipse: Second Dawn for the Galaxy"
     year: 2020
     bgg_rank: 21
-  - name: "Brass: Lancashire"
+  - id: brass-lancashire
+    name: "Brass: Lancashire"
     year: 2007
     bgg_rank: 22
-  - name: "7 Wonders Duel"
+  - id: 7-wonders-duel
+    name: "7 Wonders Duel"
     year: 2015
     bgg_rank: 23
-  - name: "Scythe"
+  - id: scythe
+    name: "Scythe"
     year: 2016
     bgg_rank: 24
-  - name: "Nemesis"
+  - id: nemesis
+    name: "Nemesis"
     year: 2018
     bgg_rank: 25
-  - name: "The Lord of the Rings: Duel for Middle-earth"
+  - id: the-lord-of-the-rings-duel-for-middle-earth
+    name: "The Lord of the Rings: Duel for Middle-earth"
     year: 2024
     bgg_rank: 26
-  - name: "A Feast for Odin"
+  - id: a-feast-for-odin
+    name: "A Feast for Odin"
     year: 2016
     bgg_rank: 27
-  - name: "Clank! Legacy: Acquisitions Incorporated"
+  - id: clank-legacy-acquisitions-incorporated
+    name: "Clank! Legacy: Acquisitions Incorporated"
     year: 2019
     bgg_rank: 28
-  - name: "Concordia"
+  - id: concordia
+    name: "Concordia"
     year: 2013
     bgg_rank: 29
-  - name: "Lost Ruins of Arnak"
+  - id: lost-ruins-of-arnak
+    name: "Lost Ruins of Arnak"
     year: 2020
     bgg_rank: 30
-  - name: "Great Western Trail: Second Edition"
+  - id: great-western-trail-second-edition
+    name: "Great Western Trail: Second Edition"
     year: 2021
     bgg_rank: 31
-  - name: "Arkham Horror: The Card Game"
+  - id: arkham-horror-the-card-game
+    name: "Arkham Horror: The Card Game"
     year: 2016
     bgg_rank: 32
-  - name: "Root"
+  - id: root
+    name: "Root"
     year: 2018
     bgg_rank: 33
-  - name: "Sky Team"
+  - id: sky-team
+    name: "Sky Team"
     year: 2023
     bgg_rank: 34
-  - name: "Terra Mystica"
+  - id: terra-mystica
+    name: "Terra Mystica"
     year: 2012
     bgg_rank: 35
-  - name: "Too Many Bones"
+  - id: too-many-bones
+    name: "Too Many Bones"
     year: 2017
     bgg_rank: 36
-  - name: "Orléans"
+  - id: orleans
+    name: "Orléans"
     year: 2014
     bgg_rank: 37
-  - name: "Wingspan"
+  - id: wingspan
+    name: "Wingspan"
     year: 2019
     bgg_rank: 38
-  - name: "Mage Knight Board Game"
+  - id: mage-knight-board-game
+    name: "Mage Knight Board Game"
     year: 2011
     bgg_rank: 39
-  - name: "Barrage"
+  - id: barrage
+    name: "Barrage"
     year: 2019
     bgg_rank: 40
-  - name: "Hegemony: Lead Your Class to Victory"
+  - id: hegemony-lead-your-class-to-victory
+    name: "Hegemony: Lead Your Class to Victory"
     year: 2023
     bgg_rank: 41
-  - name: "Everdell"
+  - id: everdell
+    name: "Everdell"
     year: 2018
     bgg_rank: 42
-  - name: "The Crew: Mission Deep Sea"
+  - id: the-crew-mission-deep-sea
+    name: "The Crew: Mission Deep Sea"
     year: 2021
     bgg_rank: 43
-  - name: "Viticulture Essential Edition"
+  - id: viticulture-essential-edition
+    name: "Viticulture Essential Edition"
     year: 2015
     bgg_rank: 44
-  - name: "Crokinole"
+  - id: crokinole
+    name: "Crokinole"
     year: 1876
     bgg_rank: 45
-  - name: "Heat: Pedal to the Metal"
+  - id: heat-pedal-to-the-metal
+    name: "Heat: Pedal to the Metal"
     year: 2022
     bgg_rank: 46
-  - name: "Kanban EV"
+  - id: kanban-ev
+    name: "Kanban EV"
     year: 2020
     bgg_rank: 47
-  - name: "Marvel Champions: The Card Game"
+  - id: marvel-champions-the-card-game
+    name: "Marvel Champions: The Card Game"
     year: 2019
     bgg_rank: 48
-  - name: "Underwater Cities"
+  - id: underwater-cities
+    name: "Underwater Cities"
     year: 2018
     bgg_rank: 49
-  - name: "Food Chain Magnate"
+  - id: food-chain-magnate
+    name: "Food Chain Magnate"
     year: 2015
     bgg_rank: 50
-  - name: "Pax Pamir: Second Edition"
+  - id: pax-pamir-second-edition
+    name: "Pax Pamir: Second Edition"
     year: 2019
     bgg_rank: 51
-  - name: "Cthulhu: Death May Die"
+  - id: cthulhu-death-may-die
+    name: "Cthulhu: Death May Die"
     year: 2019
     bgg_rank: 52
-  - name: "Puerto Rico"
+  - id: puerto-rico
+    name: "Puerto Rico"
     year: 2002
     bgg_rank: 53
-  - name: "Age of Innovation"
+  - id: age-of-innovation
+    name: "Age of Innovation"
     year: 2023
     bgg_rank: 54
-  - name: "Clank!: Catacombs"
+  - id: clank-catacombs
+    name: "Clank!: Catacombs"
     year: 2022
     bgg_rank: 55
-  - name: "On Mars"
+  - id: on-mars
+    name: "On Mars"
     year: 2020
     bgg_rank: 56
-  - name: "Pandemic Legacy: Season 0"
+  - id: pandemic-legacy-season-0
+    name: "Pandemic Legacy: Season 0"
     year: 2020
     bgg_rank: 57
-  - name: "Cascadia"
+  - id: cascadia
+    name: "Cascadia"
     year: 2021
     bgg_rank: 58
-  - name: "Ticket to Ride Legacy: Legends of the West"
+  - id: ticket-to-ride-legacy-legends-of-the-west
+    name: "Ticket to Ride Legacy: Legends of the West"
     year: 2023
     bgg_rank: 59
-  - name: "Caverna: The Cave Farmers"
+  - id: caverna-the-cave-farmers
+    name: "Caverna: The Cave Farmers"
     year: 2013
     bgg_rank: 60
-  - name: "Anachrony"
+  - id: anachrony
+    name: "Anachrony"
     year: 2017
     bgg_rank: 61
-  - name: "Harmonies"
+  - id: harmonies
+    name: "Harmonies"
     year: 2024
     bgg_rank: 62
-  - name: "Blood Rage"
+  - id: blood-rage
+    name: "Blood Rage"
     year: 2015
     bgg_rank: 63
-  - name: "Agricola"
+  - id: agricola
+    name: "Agricola"
     year: 2007
     bgg_rank: 64
-  - name: "Oathsworn: Into the Deepwood"
+  - id: oathsworn-into-the-deepwood
+    name: "Oathsworn: Into the Deepwood"
     year: 2022
     bgg_rank: 65
-  - name: "Obsession"
+  - id: obsession
+    name: "Obsession"
     year: 2018
     bgg_rank: 66
-  - name: "Grand Austria Hotel"
+  - id: grand-austria-hotel
+    name: "Grand Austria Hotel"
     year: 2015
     bgg_rank: 67
-  - name: "Lisboa"
+  - id: lisboa
+    name: "Lisboa"
     year: 2017
     bgg_rank: 68
-  - name: "Sleeping Gods"
+  - id: sleeping-gods
+    name: "Sleeping Gods"
     year: 2021
     bgg_rank: 69
-  - name: "Pandemic Legacy: Season 2"
+  - id: pandemic-legacy-season-2
+    name: "Pandemic Legacy: Season 2"
     year: 2017
     bgg_rank: 70
-  - name: "Tzolk'in: The Mayan Calendar"
+  - id: tzolkin-the-mayan-calendar
+    name: "Tzolk'in: The Mayan Calendar"
     year: 2012
     bgg_rank: 71
-  - name: "Mansions of Madness: Second Edition"
+  - id: mansions-of-madness-second-edition
+    name: "Mansions of Madness: Second Edition"
     year: 2016
     bgg_rank: 72
-  - name: "Power Grid"
+  - id: power-grid
+    name: "Power Grid"
     year: 2004
     bgg_rank: 73
-  - name: "Blood on the Clocktower"
+  - id: blood-on-the-clocktower
+    name: "Blood on the Clocktower"
     year: 2022
     bgg_rank: 74
-  - name: "Clans of Caledonia"
+  - id: clans-of-caledonia
+    name: "Clans of Caledonia"
     year: 2017
     bgg_rank: 75
-  - name: "The White Castle"
+  - id: the-white-castle
+    name: "The White Castle"
     year: 2023
     bgg_rank: 76
-  - name: "The Quacks of Quedlinburg"
+  - id: the-quacks-of-quedlinburg
+    name: "The Quacks of Quedlinburg"
     year: 2018
     bgg_rank: 77
-  - name: "Paladins of the West Kingdom"
+  - id: paladins-of-the-west-kingdom
+    name: "Paladins of the West Kingdom"
     year: 2019
     bgg_rank: 78
-  - name: "Le Havre"
+  - id: le-havre
+    name: "Le Havre"
     year: 2008
     bgg_rank: 79
-  - name: "The Gallerist"
+  - id: the-gallerist
+    name: "The Gallerist"
     year: 2015
     bgg_rank: 80
-  - name: "Great Western Trail: New Zealand"
+  - id: great-western-trail-new-zealand
+    name: "Great Western Trail: New Zealand"
     year: 2023
     bgg_rank: 81
-  - name: "Android: Netrunner"
+  - id: android-netrunner
+    name: "Android: Netrunner"
     year: 2012
     bgg_rank: 82
-  - name: "Star Wars: Imperial Assault"
+  - id: star-wars-imperial-assault
+    name: "Star Wars: Imperial Assault"
     year: 2014
     bgg_rank: 83
-  - name: "Agricola (Revised Edition)"
+  - id: agricola-revised-edition
+    name: "Agricola (Revised Edition)"
     year: 2016
     bgg_rank: 84
-  - name: "Maracaibo"
+  - id: maracaibo
+    name: "Maracaibo"
     year: 2019
     bgg_rank: 85
-  - name: "Mechs vs. Minions"
+  - id: mechs-vs-minions
+    name: "Mechs vs. Minions"
     year: 2016
     bgg_rank: 86
-  - name: "Darwin's Journey"
+  - id: darwins-journey
+    name: "Darwin's Journey"
     year: 2023
     bgg_rank: 87
-  - name: "Kingdom Death: Monster"
+  - id: kingdom-death-monster
+    name: "Kingdom Death: Monster"
     year: 2015
     bgg_rank: 88
-  - name: "The Crew: The Quest for Planet Nine"
+  - id: the-crew-the-quest-for-planet-nine
+    name: "The Crew: The Quest for Planet Nine"
     year: 2019
     bgg_rank: 89
-  - name: "Revive"
+  - id: revive
+    name: "Revive"
     year: 2022
     bgg_rank: 90
-  - name: "Race for the Galaxy"
+  - id: race-for-the-galaxy
+    name: "Race for the Galaxy"
     year: 2007
     bgg_rank: 91
-  - name: "Voidfall"
+  - id: voidfall
+    name: "Voidfall"
     year: 2023
     bgg_rank: 92
-  - name: "Wingspan Asia"
+  - id: wingspan-asia
+    name: "Wingspan Asia"
     year: 2022
     bgg_rank: 93
-  - name: "Azul"
+  - id: azul
+    name: "Azul"
     year: 2017
     bgg_rank: 94
-  - name: "Five Tribes: The Djinns of Naqala"
+  - id: five-tribes
+    name: "Five Tribes: The Djinns of Naqala"
     year: 2014
     bgg_rank: 95
-  - name: "Final Girl"
+  - id: final-girl
+    name: "Final Girl"
     year: 2021
     bgg_rank: 96
-  - name: "Clank!: A Deck-Building Adventure"
+  - id: clank-a-deck-building-adventure
+    name: "Clank!: A Deck-Building Adventure"
     year: 2016
     bgg_rank: 97
-  - name: "Fields of Arle"
+  - id: fields-of-arle
+    name: "Fields of Arle"
     year: 2014
     bgg_rank: 98
-  - name: "Eclipse: New Dawn for the Galaxy"
+  - id: eclipse-new-dawn-for-the-galaxy
+    name: "Eclipse: New Dawn for the Galaxy"
     year: 2011
     bgg_rank: 99
-  - name: "El Grande"
+  - id: el-grande
+    name: "El Grande"
     year: 1995
     bgg_rank: 100
 
   # 101-200
-  - name: "Aeon's End"
+  - id: aeons-end
+    name: "Aeon's End"
     year: 2016
     bgg_rank: 101
-  - name: "SCOUT"
+  - id: scout
+    name: "SCOUT"
     year: 2019
     bgg_rank: 102
-  - name: "Concordia Venus"
+  - id: concordia-venus
+    name: "Concordia Venus"
     year: 2018
     bgg_rank: 103
-  - name: "Lords of Waterdeep"
+  - id: lords-of-waterdeep
+    name: "Lords of Waterdeep"
     year: 2012
     bgg_rank: 104
-  - name: "Endeavor: Deep Sea"
+  - id: endeavor-deep-sea
+    name: "Endeavor: Deep Sea"
     year: 2024
     bgg_rank: 105
-  - name: "Arcs"
+  - id: arcs
+    name: "Arcs"
     year: 2024
     bgg_rank: 106
-  - name: "Teotihuacan: City of Gods"
+  - id: teotihuacan-city-of-gods
+    name: "Teotihuacan: City of Gods"
     year: 2018
     bgg_rank: 107
-  - name: "Beyond the Sun"
+  - id: beyond-the-sun
+    name: "Beyond the Sun"
     year: 2020
     bgg_rank: 108
-  - name: "Dominant Species"
+  - id: dominant-species
+    name: "Dominant Species"
     year: 2010
     bgg_rank: 109
-  - name: "The Search for Planet X"
+  - id: the-search-for-planet-x
+    name: "The Search for Planet X"
     year: 2020
     bgg_rank: 110
-  - name: "Through the Ages: A Story of Civilization"
+  - id: through-the-ages-a-story-of-civilization
+    name: "Through the Ages: A Story of Civilization"
     year: 2006
     bgg_rank: 111
-  - name: "7 Wonders"
+  - id: 7-wonders
+    name: "7 Wonders"
     year: 2010
     bgg_rank: 112
-  - name: "Robinson Crusoe: Adventures on the Cursed Island"
+  - id: robinson-crusoe-adventures-on-the-cursed-island
+    name: "Robinson Crusoe: Adventures on the Cursed Island"
     year: 2012
     bgg_rank: 113
-  - name: "Splendor Duel"
+  - id: splendor-duel
+    name: "Splendor Duel"
     year: 2022
     bgg_rank: 114
-  - name: "Decrypto"
+  - id: decrypto
+    name: "Decrypto"
     year: 2018
     bgg_rank: 115
-  - name: "The Voyages of Marco Polo"
+  - id: the-voyages-of-marco-polo
+    name: "The Voyages of Marco Polo"
     year: 2015
     bgg_rank: 116
-  - name: "Ra"
+  - id: ra
+    name: "Ra"
     year: 1999
     bgg_rank: 117
-  - name: "Trickerion: Legends of Illusion"
+  - id: trickerion-legends-of-illusion
+    name: "Trickerion: Legends of Illusion"
     year: 2015
     bgg_rank: 118
-  - name: "Arkham Horror: The Card Game – Revised Core Set"
+  - id: arkham-horror-the-card-game-revised-core-set
+    name: "Arkham Horror: The Card Game – Revised Core Set"
     year: 2021
     bgg_rank: 119
-  - name: "Inis"
+  - id: inis
+    name: "Inis"
     year: 2016
     bgg_rank: 120
-  - name: "The Quest for El Dorado"
+  - id: the-quest-for-el-dorado
+    name: "The Quest for El Dorado"
     year: 2017
     bgg_rank: 121
-  - name: "Battlestar Galactica: The Board Game"
+  - id: battlestar-galactica-the-board-game
+    name: "Battlestar Galactica: The Board Game"
     year: 2008
     bgg_rank: 122
-  - name: "Bomb Busters"
+  - id: bomb-busters
+    name: "Bomb Busters"
     year: 2024
     bgg_rank: 123
-  - name: "Carnegie"
+  - id: carnegie
+    name: "Carnegie"
     year: 2022
     bgg_rank: 124
-  - name: "Dwellings of Eldervale"
+  - id: dwellings-of-eldervale
+    name: "Dwellings of Eldervale"
     year: 2020
     bgg_rank: 125
-  - name: "Nemesis: Lockdown"
+  - id: nemesis-lockdown
+    name: "Nemesis: Lockdown"
     year: 2022
     bgg_rank: 126
-  - name: "Architects of the West Kingdom"
+  - id: architects-of-the-west-kingdom
+    name: "Architects of the West Kingdom"
     year: 2018
     bgg_rank: 127
-  - name: "Wyrmspan"
+  - id: wyrmspan
+    name: "Wyrmspan"
     year: 2024
     bgg_rank: 128
-  - name: "Tigris & Euphrates"
+  - id: tigris-and-euphrates
+    name: "Tigris & Euphrates"
     year: 1997
     bgg_rank: 129
-  - name: "Keyflower"
+  - id: keyflower
+    name: "Keyflower"
     year: 2012
     bgg_rank: 130
-  - name: "Dominion: Intrigue"
+  - id: dominion-intrigue
+    name: "Dominion: Intrigue"
     year: 2009
     bgg_rank: 131
-  - name: "Tainted Grail: The Fall of Avalon"
+  - id: tainted-grail-the-fall-of-avalon
+    name: "Tainted Grail: The Fall of Avalon"
     year: 2019
     bgg_rank: 132
-  - name: "Raiders of the North Sea"
+  - id: raiders-of-the-north-sea
+    name: "Raiders of the North Sea"
     year: 2015
     bgg_rank: 133
-  - name: "Caylus"
+  - id: caylus
+    name: "Caylus"
     year: 2005
     bgg_rank: 134
-  - name: "Eldritch Horror"
+  - id: eldritch-horror
+    name: "Eldritch Horror"
     year: 2013
     bgg_rank: 135
-  - name: "Lorenzo il Magnifico"
+  - id: lorenzo-il-magnifico
+    name: "Lorenzo il Magnifico"
     year: 2016
     bgg_rank: 136
-  - name: "Troyes"
+  - id: troyes
+    name: "Troyes"
     year: 2010
     bgg_rank: 137
-  - name: "Wonderland's War"
+  - id: wonderlands-war
+    name: "Wonderland's War"
     year: 2022
     bgg_rank: 138
-  - name: "Age of Steam"
+  - id: age-of-steam
+    name: "Age of Steam"
     year: 2002
     bgg_rank: 139
-  - name: "The Lord of the Rings: Journeys in Middle-Earth"
+  - id: lord-of-the-rings-journeys-in-middle-earth
+    name: "The Lord of the Rings: Journeys in Middle-Earth"
     year: 2019
     bgg_rank: 140
-  - name: "Mombasa"
+  - id: mombasa
+    name: "Mombasa"
     year: 2015
     bgg_rank: 141
-  - name: "Dominion"
+  - id: dominion
+    name: "Dominion"
     year: 2008
     bgg_rank: 142
-  - name: "Patchwork"
+  - id: patchwork
+    name: "Patchwork"
     year: 2014
     bgg_rank: 143
-  - name: "Nucleum"
+  - id: nucleum
+    name: "Nucleum"
     year: 2023
     bgg_rank: 144
-  - name: "Hansa Teutonica"
+  - id: hansa-teutonica
+    name: "Hansa Teutonica"
     year: 2009
     bgg_rank: 145
-  - name: "Trajan"
+  - id: trajan
+    name: "Trajan"
     year: 2011
     bgg_rank: 146
-  - name: "Aeon's End: War Eternal"
+  - id: aeons-end-war-eternal
+    name: "Aeon's End: War Eternal"
     year: 2017
     bgg_rank: 147
-  - name: "Twilight Imperium: Third Edition"
+  - id: twilight-imperium-third-edition
+    name: "Twilight Imperium: Third Edition"
     year: 2005
     bgg_rank: 148
-  - name: "Russian Railroads"
+  - id: russian-railroads
+    name: "Russian Railroads"
     year: 2013
     bgg_rank: 149
-  - name: "Galactic Cruise"
+  - id: galactic-cruise
+    name: "Galactic Cruise"
     year: 2025
     bgg_rank: 150
-  - name: "Vinhos: Deluxe Edition"
+  - id: vinhos-deluxe-edition
+    name: "Vinhos: Deluxe Edition"
     year: 2016
     bgg_rank: 151
-  - name: "Rising Sun"
+  - id: rising-sun
+    name: "Rising Sun"
     year: 2018
     bgg_rank: 152
-  - name: "The Lord of the Rings: Fate of the Fellowship"
+  - id: the-lord-of-the-rings-fate-of-the-fellowship
+    name: "The Lord of the Rings: Fate of the Fellowship"
     year: 2025
     bgg_rank: 153
-  - name: "Yokohama"
+  - id: yokohama
+    name: "Yokohama"
     year: 2016
     bgg_rank: 154
-  - name: "Just One"
+  - id: just-one
+    name: "Just One"
     year: 2018
     bgg_rank: 155
-  - name: "Forest Shuffle"
+  - id: forest-shuffle
+    name: "Forest Shuffle"
     year: 2023
     bgg_rank: 156
-  - name: "ISS Vanguard"
+  - id: iss-vanguard
+    name: "ISS Vanguard"
     year: 2022
     bgg_rank: 157
-  - name: "Forbidden Stars"
+  - id: forbidden-stars
+    name: "Forbidden Stars"
     year: 2015
     bgg_rank: 158
-  - name: "Pandemic: Iberia"
+  - id: pandemic-iberia
+    name: "Pandemic: Iberia"
     year: 2016
     bgg_rank: 159
-  - name: "Clank! In! Space!: A Deck-Building Adventure"
+  - id: clank-in-space
+    name: "Clank! In! Space!: A Deck-Building Adventure"
     year: 2017
     bgg_rank: 160
-  - name: "Codenames"
+  - id: codenames
+    name: "Codenames"
     year: 2015
     bgg_rank: 161
-  - name: "The 7th Continent"
+  - id: the-7th-continent
+    name: "The 7th Continent"
     year: 2017
     bgg_rank: 162
-  - name: "Champions of Midgard"
+  - id: champions-of-midgard
+    name: "Champions of Midgard"
     year: 2015
     bgg_rank: 163
-  - name: "Tyrants of the Underdark"
+  - id: tyrants-of-the-underdark
+    name: "Tyrants of the Underdark"
     year: 2016
     bgg_rank: 164
-  - name: "Rajas of the Ganges"
+  - id: rajas-of-the-ganges
+    name: "Rajas of the Ganges"
     year: 2017
     bgg_rank: 165
-  - name: "Hadrian's Wall"
+  - id: hadrians-wall
+    name: "Hadrian's Wall"
     year: 2021
     bgg_rank: 166
-  - name: "Magic: The Gathering"
+  - id: magic-the-gathering
+    name: "Magic: The Gathering"
     year: 1993
     bgg_rank: 167
-  - name: "Roll for the Galaxy"
+  - id: roll-for-the-galaxy
+    name: "Roll for the Galaxy"
     year: 2014
     bgg_rank: 168
-  - name: "Pandemic"
+  - id: pandemic
+    name: "Pandemic"
     year: 2008
     bgg_rank: 169
-  - name: "Planet Unknown"
+  - id: planet-unknown
+    name: "Planet Unknown"
     year: 2022
     bgg_rank: 170
-  - name: "Targi"
+  - id: targi
+    name: "Targi"
     year: 2012
     bgg_rank: 171
-  - name: "PARKS"
+  - id: parks
+    name: "PARKS"
     year: 2019
     bgg_rank: 172
-  - name: "Star Realms"
+  - id: star-realms
+    name: "Star Realms"
     year: 2014
     bgg_rank: 173
-  - name: "Too Many Bones: Undertow"
+  - id: too-many-bones-undertow
+    name: "Too Many Bones: Undertow"
     year: 2018
     bgg_rank: 174
-  - name: "Alchemists"
+  - id: alchemists
+    name: "Alchemists"
     year: 2014
     bgg_rank: 175
-  - name: "Ticket to Ride: Europe"
+  - id: ticket-to-ride-europe
+    name: "Ticket to Ride: Europe"
     year: 2005
     bgg_rank: 176
-  - name: "Res Arcana"
+  - id: res-arcana
+    name: "Res Arcana"
     year: 2019
     bgg_rank: 177
-  - name: "Cartographers"
+  - id: cartographers
+    name: "Cartographers"
     year: 2019
     bgg_rank: 178
-  - name: "Undaunted: Normandy"
+  - id: undaunted-normandy
+    name: "Undaunted: Normandy"
     year: 2019
     bgg_rank: 179
-  - name: "Dominion (Second Edition)"
+  - id: dominion-second-edition
+    name: "Dominion (Second Edition)"
     year: 2016
     bgg_rank: 180
-  - name: "War Chest"
+  - id: war-chest
+    name: "War Chest"
     year: 2018
     bgg_rank: 181
-  - name: "It's a Wonderful World"
+  - id: its-a-wonderful-world
+    name: "It's a Wonderful World"
     year: 2019
     bgg_rank: 182
-  - name: "Watergate"
+  - id: watergate
+    name: "Watergate"
     year: 2019
     bgg_rank: 183
-  - name: "The Lord of the Rings: The Card Game"
+  - id: the-lord-of-the-rings-the-card-game
+    name: "The Lord of the Rings: The Card Game"
     year: 2011
     bgg_rank: 184
-  - name: "Stone Age"
+  - id: stone-age
+    name: "Stone Age"
     year: 2008
     bgg_rank: 185
-  - name: "Praga Caput Regni"
+  - id: praga-caput-regni
+    name: "Praga Caput Regni"
     year: 2020
     bgg_rank: 186
-  - name: "The Isle of Cats"
+  - id: the-isle-of-cats
+    name: "The Isle of Cats"
     year: 2019
     bgg_rank: 187
-  - name: "Terraforming Mars: Ares Expedition"
+  - id: terraforming-mars-ares-expedition
+    name: "Terraforming Mars: Ares Expedition"
     year: 2021
     bgg_rank: 188
-  - name: "Istanbul"
+  - id: istanbul
+    name: "Istanbul"
     year: 2014
     bgg_rank: 189
-  - name: "Unmatched: Cobble & Fog"
+  - id: unmatched-cobble-and-fog
+    name: "Unmatched: Cobble & Fog"
     year: 2020
     bgg_rank: 190
-  - name: "Kemet"
+  - id: kemet
+    name: "Kemet"
     year: 2012
     bgg_rank: 191
-  - name: "Xia: Legends of a Drift System"
+  - id: xia-legends-of-a-drift-system
+    name: "Xia: Legends of a Drift System"
     year: 2014
     bgg_rank: 192
-  - name: "Legendary Encounters: An Alien Deck Building Game"
+  - id: legendary-encounters-an-alien-deck-building-game
+    name: "Legendary Encounters: An Alien Deck Building Game"
     year: 2014
     bgg_rank: 193
-  - name: "Viscounts of the West Kingdom"
+  - id: viscounts-of-the-west-kingdom
+    name: "Viscounts of the West Kingdom"
     year: 2020
     bgg_rank: 194
-  - name: "Glen More II: Chronicles"
+  - id: glen-more-ii-chronicles
+    name: "Glen More II: Chronicles"
     year: 2019
     bgg_rank: 195
-  - name: "Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases"
+  - id: sherlock-holmes-consulting-detective-the-thames-murders
+    name: "Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases"
     year: 1981
     bgg_rank: 196
-  - name: "Endeavor: Age of Sail"
+  - id: endeavor-age-of-sail
+    name: "Endeavor: Age of Sail"
     year: 2018
     bgg_rank: 197
-  - name: "Andromeda's Edge"
+  - id: andromedas-edge
+    name: "Andromeda's Edge"
     year: 2024
     bgg_rank: 198
-  - name: "Marco Polo II: In the Service of the Khan"
+  - id: marco-polo-ii-in-the-service-of-the-khan
+    name: "Marco Polo II: In the Service of the Khan"
     year: 2019
     bgg_rank: 199
-  - name: "Star Wars: X-Wing Miniatures Game"
+  - id: star-wars-x-wing-miniatures-game
+    name: "Star Wars: X-Wing Miniatures Game"
     year: 2012
     bgg_rank: 200
 
   # 201-300
-  - name: "That's Pretty Clever!"
+  - id: thats-pretty-clever
+    name: "That's Pretty Clever!"
     year: 2018
     bgg_rank: 201
-  - name: "Star Wars: Outer Rim"
+  - id: star-wars-outer-rim
+    name: "Star Wars: Outer Rim"
     year: 2019
     bgg_rank: 202
-  - name: "Jaipur"
+  - id: jaipur
+    name: "Jaipur"
     year: 2009
     bgg_rank: 203
-  - name: "Great Western Trail: Argentina"
+  - id: great-western-trail-argentina
+    name: "Great Western Trail: Argentina"
     year: 2022
     bgg_rank: 204
-  - name: "Radlands"
+  - id: radlands
+    name: "Radlands"
     year: 2021
     bgg_rank: 205
-  - name: "Earth"
+  - id: earth
+    name: "Earth"
     year: 2023
     bgg_rank: 206
-  - name: "Dune"
+  - id: dune
+    name: "Dune"
     year: 2019
     bgg_rank: 207
-  - name: "Welcome To..."
+  - id: welcome-to
+    name: "Welcome To..."
     year: 2018
     bgg_rank: 208
-  - name: "Welcome to the Moon"
+  - id: welcome-to-the-moon
+    name: "Welcome to the Moon"
     year: 2021
     bgg_rank: 209
-  - name: "The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game"
+  - id: the-lord-of-the-rings-the-fellowship-of-the-ring-trick-taking-game
+    name: "The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game"
     year: 2024
     bgg_rank: 210
-  - name: "7 Wonders (Second Edition)"
+  - id: 7-wonders-second-edition
+    name: "7 Wonders (Second Edition)"
     year: 2020
     bgg_rank: 211
-  - name: "John Company: Second Edition"
+  - id: john-company-second-edition
+    name: "John Company: Second Edition"
     year: 2022
     bgg_rank: 212
-  - name: "This War of Mine: The Board Game"
+  - id: this-war-of-mine-the-board-game
+    name: "This War of Mine: The Board Game"
     year: 2017
     bgg_rank: 213
-  - name: "War of the Ring"
+  - id: war-of-the-ring
+    name: "War of the Ring"
     year: 2004
     bgg_rank: 214
-  - name: "Chaos in the Old World"
+  - id: chaos-in-the-old-world
+    name: "Chaos in the Old World"
     year: 2009
     bgg_rank: 215
-  - name: "Meadow"
+  - id: meadow
+    name: "Meadow"
     year: 2021
     bgg_rank: 216
-  - name: "Memoir '44"
+  - id: memoir-44
+    name: "Memoir '44"
     year: 2004
     bgg_rank: 217
-  - name: "The Red Cathedral"
+  - id: the-red-cathedral
+    name: "The Red Cathedral"
     year: 2020
     bgg_rank: 218
-  - name: "Civolution"
+  - id: civolution
+    name: "Civolution"
     year: 2024
     bgg_rank: 219
-  - name: "Modern Art"
+  - id: modern-art
+    name: "Modern Art"
     year: 1992
     bgg_rank: 220
-  - name: "Sagrada"
+  - id: sagrada
+    name: "Sagrada"
     year: 2017
     bgg_rank: 221
-  - name: "Descent: Journeys in the Dark (Second Edition)"
+  - id: descent-journeys-in-the-dark-second-edition
+    name: "Descent: Journeys in the Dark (Second Edition)"
     year: 2012
     bgg_rank: 222
-  - name: "Space Base"
+  - id: space-base
+    name: "Space Base"
     year: 2018
     bgg_rank: 223
-  - name: "Star Wars: The Deckbuilding Game"
+  - id: star-wars-the-deckbuilding-game
+    name: "Star Wars: The Deckbuilding Game"
     year: 2023
     bgg_rank: 224
-  - name: "Sekigahara: The Unification of Japan"
+  - id: sekigahara-the-unification-of-japan
+    name: "Sekigahara: The Unification of Japan"
     year: 2011
     bgg_rank: 225
-  - name: "Cosmic Encounter"
+  - id: cosmic-encounter
+    name: "Cosmic Encounter"
     year: 2008
     bgg_rank: 226
-  - name: "Return to Dark Tower"
+  - id: return-to-dark-tower
+    name: "Return to Dark Tower"
     year: 2022
     bgg_rank: 227
-  - name: "Castles of Mad King Ludwig"
+  - id: castles-of-mad-king-ludwig
+    name: "Castles of Mad King Ludwig"
     year: 2014
     bgg_rank: 228
-  - name: "Paleo"
+  - id: paleo
+    name: "Paleo"
     year: 2020
     bgg_rank: 229
-  - name: "Go"
+  - id: go
+    name: "Go"
     year: -2200
     bgg_rank: 230
-  - name: "The Resistance: Avalon"
+  - id: the-resistance-avalon
+    name: "The Resistance: Avalon"
     year: 2012
     bgg_rank: 231
-  - name: "A Game of Thrones: The Board Game (Second Edition)"
+  - id: a-game-of-thrones-the-board-game-second-edition
+    name: "A Game of Thrones: The Board Game (Second Edition)"
     year: 2011
     bgg_rank: 232
-  - name: "Clash of Cultures: Monumental Edition"
+  - id: clash-of-cultures-monumental-edition
+    name: "Clash of Cultures: Monumental Edition"
     year: 2021
     bgg_rank: 233
-  - name: "Azul: Summer Pavilion"
+  - id: azul-summer-pavilion
+    name: "Azul: Summer Pavilion"
     year: 2019
     bgg_rank: 234
-  - name: "Ticket to Ride: Nordic Countries"
+  - id: ticket-to-ride-nordic-countries
+    name: "Ticket to Ride: Nordic Countries"
     year: 2007
     bgg_rank: 235
-  - name: "Railways of the World"
+  - id: railways-of-the-world
+    name: "Railways of the World"
     year: 2005
     bgg_rank: 236
-  - name: "Horrified"
+  - id: horrified
+    name: "Horrified"
     year: 2019
     bgg_rank: 237
-  - name: "Carcassonne"
+  - id: carcassonne
+    name: "Carcassonne"
     year: 2000
     bgg_rank: 238
-  - name: "Ora et Labora"
+  - id: ora-et-labora
+    name: "Ora et Labora"
     year: 2011
     bgg_rank: 239
-  - name: "Thunder Road: Vendetta"
+  - id: thunder-road-vendetta
+    name: "Thunder Road: Vendetta"
     year: 2023
     bgg_rank: 240
-  - name: "Splendor"
+  - id: splendor
+    name: "Splendor"
     year: 2014
     bgg_rank: 241
-  - name: "Captain Sonar"
+  - id: captain-sonar
+    name: "Captain Sonar"
     year: 2016
     bgg_rank: 242
-  - name: "Vantage"
+  - id: vantage
+    name: "Vantage"
     year: 2025
     bgg_rank: 243
-  - name: "Village"
+  - id: village
+    name: "Village"
     year: 2011
     bgg_rank: 244
-  - name: "Suburbia"
+  - id: suburbia
+    name: "Suburbia"
     year: 2012
     bgg_rank: 245
-  - name: "Commands & Colors: Ancients"
+  - id: commands-and-colors-ancients
+    name: "Commands & Colors: Ancients"
     year: 2006
     bgg_rank: 246
-  - name: "Ankh: Gods of Egypt"
+  - id: ankh-gods-of-egypt
+    name: "Ankh: Gods of Egypt"
     year: 2021
     bgg_rank: 247
-  - name: "Tichu"
+  - id: tichu
+    name: "Tichu"
     year: 1991
     bgg_rank: 248
-  - name: "The Taverns of Tiefenthal"
+  - id: the-taverns-of-tiefenthal
+    name: "The Taverns of Tiefenthal"
     year: 2019
     bgg_rank: 249
-  - name: "Dead of Winter: A Crossroads Game"
+  - id: dead-of-winter-a-crossroads-game
+    name: "Dead of Winter: A Crossroads Game"
     year: 2014
     bgg_rank: 250
-  - name: "Aeon's End: Legacy"
+  - id: aeons-end-legacy
+    name: "Aeon's End: Legacy"
     year: 2019
     bgg_rank: 251
-  - name: "Nidavellir"
+  - id: nidavellir
+    name: "Nidavellir"
     year: 2020
     bgg_rank: 252
-  - name: "Castle Combo"
+  - id: castle-combo
+    name: "Castle Combo"
     year: 2024
     bgg_rank: 253
-  - name: "YINSH"
+  - id: yinsh
+    name: "YINSH"
     year: 2003
     bgg_rank: 254
-  - name: "KLASK"
+  - id: klask
+    name: "KLASK"
     year: 2014
     bgg_rank: 255
-  - name: "Ticket to Ride"
+  - id: ticket-to-ride
+    name: "Ticket to Ride"
     year: 2004
     bgg_rank: 256
-  - name: "Star Realms: Colony Wars"
+  - id: star-realms-colony-wars
+    name: "Star Realms: Colony Wars"
     year: 2015
     bgg_rank: 257
-  - name: "Faraway"
+  - id: faraway
+    name: "Faraway"
     year: 2023
     bgg_rank: 258
-  - name: "Coimbra"
+  - id: coimbra
+    name: "Coimbra"
     year: 2018
     bgg_rank: 259
-  - name: "Paths of Glory"
+  - id: paths-of-glory
+    name: "Paths of Glory"
     year: 1999
     bgg_rank: 260
-  - name: "Under Falling Skies"
+  - id: under-falling-skies
+    name: "Under Falling Skies"
     year: 2020
     bgg_rank: 261
-  - name: "Secret Hitler"
+  - id: secret-hitler
+    name: "Secret Hitler"
     year: 2016
     bgg_rank: 262
-  - name: "My City"
+  - id: my-city
+    name: "My City"
     year: 2020
     bgg_rank: 263
-  - name: "Calico"
+  - id: calico
+    name: "Calico"
     year: 2020
     bgg_rank: 264
-  - name: "Camel Up (Second Edition)"
+  - id: camel-up-second-edition
+    name: "Camel Up (Second Edition)"
     year: 2018
     bgg_rank: 265
-  - name: "Nations"
+  - id: nations
+    name: "Nations"
     year: 2013
     bgg_rank: 266
-  - name: "Cyclades"
+  - id: cyclades
+    name: "Cyclades"
     year: 2009
     bgg_rank: 267
-  - name: "Sea Salt & Paper"
+  - id: sea-salt-and-paper
+    name: "Sea Salt & Paper"
     year: 2022
     bgg_rank: 268
-  - name: "Fantasy Realms"
+  - id: fantasy-realms
+    name: "Fantasy Realms"
     year: 2017
     bgg_rank: 269
-  - name: "Codenames: Duet"
+  - id: codenames-duet
+    name: "Codenames: Duet"
     year: 2017
     bgg_rank: 270
-  - name: "Near and Far"
+  - id: near-and-far
+    name: "Near and Far"
     year: 2017
     bgg_rank: 271
-  - name: "The Elder Scrolls: Betrayal of the Second Era"
+  - id: the-elder-scrolls-betrayal-of-the-second-era
+    name: "The Elder Scrolls: Betrayal of the Second Era"
     year: 2025
     bgg_rank: 272
-  - name: "Combat Commander: Europe"
+  - id: combat-commander-europe
+    name: "Combat Commander: Europe"
     year: 2006
     bgg_rank: 273
-  - name: "La Granja"
+  - id: la-granja
+    name: "La Granja"
     year: 2014
     bgg_rank: 274
-  - name: "Dinosaur Island"
+  - id: dinosaur-island
+    name: "Dinosaur Island"
     year: 2017
     bgg_rank: 275
-  - name: "So Clover!"
+  - id: so-clover
+    name: "So Clover!"
     year: 2021
     bgg_rank: 276
-  - name: "Century: Golem Edition"
+  - id: century-golem-edition
+    name: "Century: Golem Edition"
     year: 2017
     bgg_rank: 277
-  - name: "Legendary: A Marvel Deck Building Game"
+  - id: legendary-a-marvel-deck-building-game
+    name: "Legendary: A Marvel Deck Building Game"
     year: 2012
     bgg_rank: 278
-  - name: "Hanamikoji"
+  - id: hanamikoji
+    name: "Hanamikoji"
     year: 2013
     bgg_rank: 279
-  - name: "Distilled"
+  - id: distilled
+    name: "Distilled"
     year: 2023
     bgg_rank: 280
-  - name: "Samurai"
+  - id: samurai
+    name: "Samurai"
     year: 1998
     bgg_rank: 281
-  - name: "Western Legends"
+  - id: western-legends
+    name: "Western Legends"
     year: 2018
     bgg_rank: 282
-  - name: "MicroMacro: Crime City"
+  - id: micromacro-crime-city
+    name: "MicroMacro: Crime City"
     year: 2020
     bgg_rank: 283
-  - name: "Deception: Murder in Hong Kong"
+  - id: deception-murder-in-hong-kong
+    name: "Deception: Murder in Hong Kong"
     year: 2014
     bgg_rank: 284
-  - name: "Sushi Go Party!"
+  - id: sushi-go-party
+    name: "Sushi Go Party!"
     year: 2016
     bgg_rank: 285
-  - name: "Zombicide: Black Plague"
+  - id: zombicide-black-plague
+    name: "Zombicide: Black Plague"
     year: 2015
     bgg_rank: 286
-  - name: "Flamme Rouge"
+  - id: flamme-rouge
+    name: "Flamme Rouge"
     year: 2016
     bgg_rank: 287
-  - name: "Unmatched: Battle of Legends, Volume One"
+  - id: unmatched-battle-of-legends-volume-one
+    name: "Unmatched: Battle of Legends, Volume One"
     year: 2019
     bgg_rank: 288
-  - name: "Isle of Skye: From Chieftain to King"
+  - id: isle-of-skye-from-chieftain-to-king
+    name: "Isle of Skye: From Chieftain to King"
     year: 2015
     bgg_rank: 289
-  - name: "Glory to Rome"
+  - id: glory-to-rome
+    name: "Glory to Rome"
     year: 2005
     bgg_rank: 290
-  - name: "Tiletum"
+  - id: tiletum
+    name: "Tiletum"
     year: 2022
     bgg_rank: 291
-  - name: "Vindication"
+  - id: vindication
+    name: "Vindication"
     year: 2018
     bgg_rank: 292
-  - name: "Roll Player"
+  - id: roll-player
+    name: "Roll Player"
     year: 2016
     bgg_rank: 293
-  - name: "Hallertau"
+  - id: hallertau
+    name: "Hallertau"
     year: 2020
     bgg_rank: 294
-  - name: "The Princes of Florence"
+  - id: the-princes-of-florence
+    name: "The Princes of Florence"
     year: 2000
     bgg_rank: 295
-  - name: "Tapestry"
+  - id: tapestry
+    name: "Tapestry"
     year: 2019
     bgg_rank: 296
-  - name: "Anno 1800: The Board Game"
+  - id: anno-1800-the-board-game
+    name: "Anno 1800: The Board Game"
     year: 2020
     bgg_rank: 297
-  - name: "Skull King"
+  - id: skull-king
+    name: "Skull King"
     year: 2013
     bgg_rank: 298
-  - name: "Dune: War for Arrakis"
+  - id: dune-war-for-arrakis
+    name: "Dune: War for Arrakis"
     year: 2024
     bgg_rank: 299
-  - name: "Monikers"
+  - id: monikers
+    name: "Monikers"
     year: 2015
     bgg_rank: 300
 
   # 301-400
-  - name: "Foundations of Rome"
+  - id: foundations-of-rome
+    name: "Foundations of Rome"
     year: 2022
     bgg_rank: 301
-  - name: "Pulsar 2849"
+  - id: pulsar-2849
+    name: "Pulsar 2849"
     year: 2017
     bgg_rank: 302
-  - name: "Hero Realms"
+  - id: hero-realms
+    name: "Hero Realms"
     year: 2016
     bgg_rank: 303
-  - name: "Bitoku"
+  - id: bitoku
+    name: "Bitoku"
     year: 2021
     bgg_rank: 304
-  - name: "Goa"
+  - id: goa
+    name: "Goa"
     year: 2004
     bgg_rank: 305
-  - name: "Aeon's End: The New Age"
+  - id: aeons-end-the-new-age
+    name: "Aeon's End: The New Age"
     year: 2019
     bgg_rank: 306
-  - name: "Santorini"
+  - id: santorini
+    name: "Santorini"
     year: 2016
     bgg_rank: 307
-  - name: "Kemet: Blood and Sand"
+  - id: kemet-blood-and-sand
+    name: "Kemet: Blood and Sand"
     year: 2021
     bgg_rank: 308
-  - name: "1830: Railways & Robber Barons"
+  - id: 1830-railways-and-robber-barons
+    name: "1830: Railways & Robber Barons"
     year: 1986
     bgg_rank: 309
-  - name: "Kanban: Driver's Edition"
+  - id: kanban-drivers-edition
+    name: "Kanban: Driver's Edition"
     year: 2014
     bgg_rank: 310
-  - name: "Shogun"
+  - id: shogun
+    name: "Shogun"
     year: 2006
     bgg_rank: 311
-  - name: "Galaxy Trucker"
+  - id: galaxy-trucker
+    name: "Galaxy Trucker"
     year: 2007
     bgg_rank: 312
-  - name: "Dice Throne: Season Two – Battle Chest"
+  - id: dice-throne-season-two-battle-chest
+    name: "Dice Throne: Season Two – Battle Chest"
     year: 2018
     bgg_rank: 313
-  - name: "Viticulture"
+  - id: viticulture
+    name: "Viticulture"
     year: 2013
     bgg_rank: 314
-  - name: "Apiary"
+  - id: apiary
+    name: "Apiary"
     year: 2023
     bgg_rank: 315
-  - name: "Star Realms: Frontiers"
+  - id: star-realms-frontiers
+    name: "Star Realms: Frontiers"
     year: 2018
     bgg_rank: 316
-  - name: "Turing Machine"
+  - id: turing-machine
+    name: "Turing Machine"
     year: 2022
     bgg_rank: 317
-  - name: "Mind MGMT: The Psychic Espionage Game"
+  - id: mind-mgmt-the-psychic-espionage-game
+    name: "Mind MGMT: The Psychic Espionage Game"
     year: 2021
     bgg_rank: 318
-  - name: "Love Letter (2019)"
+  - id: love-letter-2019
+    name: "Love Letter (2019)"
     year: 2019
     bgg_rank: 319
-  - name: "1960: The Making of the President"
+  - id: 1960-the-making-of-the-president
+    name: "1960: The Making of the President"
     year: 2007
     bgg_rank: 320
-  - name: "Bora Bora"
+  - id: bora-bora
+    name: "Bora Bora"
     year: 2013
     bgg_rank: 321
-  - name: "Lewis & Clark: The Expedition"
+  - id: lewis-and-clark-the-expedition
+    name: "Lewis & Clark: The Expedition"
     year: 2013
     bgg_rank: 322
-  - name: "Battle Line"
+  - id: battle-line
+    name: "Battle Line"
     year: 2000
     bgg_rank: 323
-  - name: "Marvel United"
+  - id: marvel-united
+    name: "Marvel United"
     year: 2020
     bgg_rank: 324
-  - name: "Unconscious Mind"
+  - id: unconscious-mind
+    name: "Unconscious Mind"
     year: 2024
     bgg_rank: 325
-  - name: "Kingdomino"
+  - id: kingdomino
+    name: "Kingdomino"
     year: 2016
     bgg_rank: 326
-  - name: "Endless Winter: Paleoamericans"
+  - id: endless-winter-paleoamericans
+    name: "Endless Winter: Paleoamericans"
     year: 2022
     bgg_rank: 327
-  - name: "Detective: A Modern Crime Board Game"
+  - id: detective-a-modern-crime-board-game
+    name: "Detective: A Modern Crime Board Game"
     year: 2018
     bgg_rank: 328
-  - name: "Hive"
+  - id: hive
+    name: "Hive"
     year: 2001
     bgg_rank: 329
-  - name: "Ethnos"
+  - id: ethnos
+    name: "Ethnos"
     year: 2017
     bgg_rank: 330
-  - name: "Oath"
+  - id: oath
+    name: "Oath"
     year: 2021
     bgg_rank: 331
-  - name: "Cryptid"
+  - id: cryptid
+    name: "Cryptid"
     year: 2018
     bgg_rank: 332
-  - name: "Rococo"
+  - id: rococo
+    name: "Rococo"
     year: 2013
     bgg_rank: 333
-  - name: "The Witcher: Old World"
+  - id: the-witcher-old-world
+    name: "The Witcher: Old World"
     year: 2023
     bgg_rank: 334
-  - name: "Steam"
+  - id: steam
+    name: "Steam"
     year: 2009
     bgg_rank: 335
-  - name: "Chronicles of Crime"
+  - id: chronicles-of-crime
+    name: "Chronicles of Crime"
     year: 2018
     bgg_rank: 336
-  - name: "Dorfromantik: The Board Game"
+  - id: dorfromantik-the-board-game
+    name: "Dorfromantik: The Board Game"
     year: 2022
     bgg_rank: 337
-  - name: "Imperium: Classics"
+  - id: imperium-classics
+    name: "Imperium: Classics"
     year: 2021
     bgg_rank: 338
-  - name: "The Lord of the Rings: The Card Game – Revised Core Set"
+  - id: the-lord-of-the-rings-the-card-game-revised-core-set
+    name: "The Lord of the Rings: The Card Game – Revised Core Set"
     year: 2022
     bgg_rank: 339
-  - name: "Cthulhu Wars"
+  - id: cthulhu-wars
+    name: "Cthulhu Wars"
     year: 2015
     bgg_rank: 340
-  - name: "T.I.M.E Stories"
+  - id: t-i-m-e-stories
+    name: "T.I.M.E Stories"
     year: 2015
     bgg_rank: 341
-  - name: "Lost Cities"
+  - id: lost-cities
+    name: "Lost Cities"
     year: 1999
     bgg_rank: 342
-  - name: "Seasons"
+  - id: seasons
+    name: "Seasons"
     year: 2012
     bgg_rank: 343
-  - name: "Dixit: Odyssey"
+  - id: dixit-odyssey
+    name: "Dixit: Odyssey"
     year: 2011
     bgg_rank: 344
-  - name: "Wondrous Creatures"
+  - id: wondrous-creatures
+    name: "Wondrous Creatures"
     year: 2024
     bgg_rank: 345
-  - name: "Forgotten Waters"
+  - id: forgotten-waters
+    name: "Forgotten Waters"
     year: 2020
     bgg_rank: 346
-  - name: "Wayfarers of the South Tigris"
+  - id: wayfarers-of-the-south-tigris
+    name: "Wayfarers of the South Tigris"
     year: 2022
     bgg_rank: 347
-  - name: "Telestrations"
+  - id: telestrations
+    name: "Telestrations"
     year: 2009
     bgg_rank: 348
-  - name: "Cloudspire"
+  - id: cloudspire
+    name: "Cloudspire"
     year: 2019
     bgg_rank: 349
-  - name: "Indonesia"
+  - id: indonesia
+    name: "Indonesia"
     year: 2005
     bgg_rank: 350
-  - name: "Summoner Wars (Second Edition)"
+  - id: summoner-wars-second-edition
+    name: "Summoner Wars (Second Edition)"
     year: 2021
     bgg_rank: 351
-  - name: "Onitama"
+  - id: onitama
+    name: "Onitama"
     year: 2014
     bgg_rank: 352
-  - name: "Arkham Horror (Third Edition)"
+  - id: arkham-horror-third-edition
+    name: "Arkham Horror (Third Edition)"
     year: 2018
     bgg_rank: 353
-  - name: "For Sale"
+  - id: for-sale
+    name: "For Sale"
     year: 1997
     bgg_rank: 354
-  - name: "Long Shot: The Dice Game"
+  - id: long-shot-the-dice-game
+    name: "Long Shot: The Dice Game"
     year: 2022
     bgg_rank: 355
-  - name: "The Great Zimbabwe"
+  - id: the-great-zimbabwe
+    name: "The Great Zimbabwe"
     year: 2012
     bgg_rank: 356
-  - name: "Arcadia Quest"
+  - id: arcadia-quest
+    name: "Arcadia Quest"
     year: 2014
     bgg_rank: 357
-  - name: "The Vale of Eternity"
+  - id: the-vale-of-eternity
+    name: "The Vale of Eternity"
     year: 2023
     bgg_rank: 358
-  - name: "Navegador"
+  - id: navegador
+    name: "Navegador"
     year: 2010
     bgg_rank: 359
-  - name: "Marrakesh"
+  - id: marrakesh
+    name: "Marrakesh"
     year: 2022
     bgg_rank: 360
-  - name: "The Manhattan Project: Energy Empire"
+  - id: the-manhattan-project-energy-empire
+    name: "The Manhattan Project: Energy Empire"
     year: 2016
     bgg_rank: 361
-  - name: "Acquire"
+  - id: acquire
+    name: "Acquire"
     year: 1963
     bgg_rank: 362
-  - name: "The Guild of Merchant Explorers"
+  - id: the-guild-of-merchant-explorers
+    name: "The Guild of Merchant Explorers"
     year: 2022
     bgg_rank: 363
-  - name: "Imperial"
+  - id: imperial
+    name: "Imperial"
     year: 2006
     bgg_rank: 364
-  - name: "The King Is Dead: Second Edition"
+  - id: the-king-is-dead-second-edition
+    name: "The King Is Dead: Second Edition"
     year: 2020
     bgg_rank: 365
-  - name: "Love Letter (2012)"
+  - id: love-letter-2012
+    name: "Love Letter (2012)"
     year: 2012
     bgg_rank: 366
-  - name: "Dungeon Petz"
+  - id: dungeon-petz
+    name: "Dungeon Petz"
     year: 2011
     bgg_rank: 367
-  - name: "Keep the Heroes Out!"
+  - id: keep-the-heroes-out
+    name: "Keep the Heroes Out!"
     year: 2022
     bgg_rank: 368
-  - name: "Cat in the Box: Deluxe Edition"
+  - id: cat-in-the-box-deluxe-edition
+    name: "Cat in the Box: Deluxe Edition"
     year: 2022
     bgg_rank: 369
-  - name: "Dead Reckoning"
+  - id: dead-reckoning
+    name: "Dead Reckoning"
     year: 2022
     bgg_rank: 370
-  - name: "Survive: Escape from Atlantis!"
+  - id: survive-escape-from-atlantis
+    name: "Survive: Escape from Atlantis!"
     year: 1982
     bgg_rank: 371
-  - name: "Space Alert"
+  - id: space-alert
+    name: "Space Alert"
     year: 2008
     bgg_rank: 372
-  - name: "Pax Renaissance: 2nd Edition"
+  - id: pax-renaissance-2nd-edition
+    name: "Pax Renaissance: 2nd Edition"
     year: 2021
     bgg_rank: 373
-  - name: "Chinatown"
+  - id: chinatown
+    name: "Chinatown"
     year: 1999
     bgg_rank: 374
-  - name: "Tikal"
+  - id: tikal
+    name: "Tikal"
     year: 1999
     bgg_rank: 375
-  - name: "Age of Empires III: The Age of Discovery"
+  - id: age-of-empires-iii-the-age-of-discovery
+    name: "Age of Empires III: The Age of Discovery"
     year: 2007
     bgg_rank: 376
-  - name: "Project L"
+  - id: project-l
+    name: "Project L"
     year: 2020
     bgg_rank: 377
-  - name: "Century: Spice Road"
+  - id: century-spice-road
+    name: "Century: Spice Road"
     year: 2017
     bgg_rank: 378
-  - name: "Power Grid Deluxe: Europe/North America"
+  - id: power-grid-deluxe-europe-north-america
+    name: "Power Grid Deluxe: Europe/North America"
     year: 2014
     bgg_rank: 379
-  - name: "Nusfjord"
+  - id: nusfjord
+    name: "Nusfjord"
     year: 2017
     bgg_rank: 380
-  - name: "Bunny Kingdom"
+  - id: bunny-kingdom
+    name: "Bunny Kingdom"
     year: 2017
     bgg_rank: 381
-  - name: "Innovation"
+  - id: innovation
+    name: "Innovation"
     year: 2010
     bgg_rank: 382
-  - name: "Bruges"
+  - id: bruges
+    name: "Bruges"
     year: 2013
     bgg_rank: 383
-  - name: "Glass Road"
+  - id: glass-road
+    name: "Glass Road"
     year: 2013
     bgg_rank: 384
-  - name: "Heaven & Ale"
+  - id: heaven-and-ale
+    name: "Heaven & Ale"
     year: 2017
     bgg_rank: 385
-  - name: "Expeditions"
+  - id: expeditions
+    name: "Expeditions"
     year: 2023
     bgg_rank: 386
-  - name: "Imperial Settlers"
+  - id: imperial-settlers
+    name: "Imperial Settlers"
     year: 2014
     bgg_rank: 387
-  - name: "The King's Dilemma"
+  - id: the-kings-dilemma
+    name: "The King's Dilemma"
     year: 2019
     bgg_rank: 388
-  - name: "Tiny Epic Galaxies"
+  - id: tiny-epic-galaxies
+    name: "Tiny Epic Galaxies"
     year: 2015
     bgg_rank: 389
-  - name: "Frostpunk: The Board Game"
+  - id: frostpunk-the-board-game
+    name: "Frostpunk: The Board Game"
     year: 2022
     bgg_rank: 390
-  - name: "Awkward Guests: The Walton Case"
+  - id: awkward-guests-the-walton-case
+    name: "Awkward Guests: The Walton Case"
     year: 2016
     bgg_rank: 391
-  - name: "Imperial 2030"
+  - id: imperial-2030
+    name: "Imperial 2030"
     year: 2009
     bgg_rank: 392
-  - name: "Fury of Dracula (Third/Fourth Edition)"
+  - id: fury-of-dracula-third-fourth-edition
+    name: "Fury of Dracula (Third/Fourth Edition)"
     year: 2015
     bgg_rank: 393
-  - name: "Nemo's War (Second Edition)"
+  - id: nemos-war-second-edition
+    name: "Nemo's War (Second Edition)"
     year: 2017
     bgg_rank: 394
-  - name: "Sidereal Confluence"
+  - id: sidereal-confluence
+    name: "Sidereal Confluence"
     year: 2017
     bgg_rank: 395
-  - name: "Flamecraft"
+  - id: flamecraft
+    name: "Flamecraft"
     year: 2022
     bgg_rank: 396
-  - name: "Summoner Wars: Master Set"
+  - id: summoner-wars-master-set
+    name: "Summoner Wars: Master Set"
     year: 2011
     bgg_rank: 397
-  - name: "Raiders of Scythia"
+  - id: raiders-of-scythia
+    name: "Raiders of Scythia"
     year: 2020
     bgg_rank: 398
-  - name: "Marvel United: X-Men"
+  - id: marvel-united-x-men
+    name: "Marvel United: X-Men"
     year: 2021
     bgg_rank: 399
-  - name: "Destinies"
+  - id: destinies
+    name: "Destinies"
     year: 2021
     bgg_rank: 400
 
   # 401-500
-  - name: "Alien Frontiers"
+  - id: alien-frontiers
+    name: "Alien Frontiers"
     year: 2010
     bgg_rank: 401
-  - name: "Small World"
+  - id: small-world
+    name: "Small World"
     year: 2009
     bgg_rank: 402
-  - name: "EXIT: The Game – The Abandoned Cabin"
+  - id: exit-the-game-the-abandoned-cabin
+    name: "EXIT: The Game – The Abandoned Cabin"
     year: 2016
     bgg_rank: 403
-  - name: "Runewars"
+  - id: runewars
+    name: "Runewars"
     year: 2010
     bgg_rank: 404
-  - name: "Furnace"
+  - id: furnace
+    name: "Furnace"
     year: 2020
     bgg_rank: 405
-  - name: "Legacy of Yu"
+  - id: legacy-of-yu
+    name: "Legacy of Yu"
     year: 2023
     bgg_rank: 406
-  - name: "Burgle Bros."
+  - id: burgle-bros
+    name: "Burgle Bros."
     year: 2015
     bgg_rank: 407
-  - name: "Neuroshima Hex"
+  - id: neuroshima-hex
+    name: "Neuroshima Hex"
     year: 2006
     bgg_rank: 408
-  - name: "Merchants & Marauders"
+  - id: merchants-and-marauders
+    name: "Merchants & Marauders"
     year: 2010
     bgg_rank: 409
-  - name: "Bonfire"
+  - id: bonfire
+    name: "Bonfire"
     year: 2020
     bgg_rank: 410
-  - name: "Gizmos"
+  - id: gizmos
+    name: "Gizmos"
     year: 2018
     bgg_rank: 411
-  - name: "Above and Below"
+  - id: above-and-below
+    name: "Above and Below"
     year: 2015
     bgg_rank: 412
-  - name: "Mindbug: First Contact"
+  - id: mindbug-first-contact
+    name: "Mindbug: First Contact"
     year: 2022
     bgg_rank: 413
-  - name: "Air, Land, & Sea"
+  - id: air-land-and-sea
+    name: "Air, Land, & Sea"
     year: 2019
     bgg_rank: 414
-  - name: "Bärenpark"
+  - id: barenpark
+    name: "Bärenpark"
     year: 2017
     bgg_rank: 415
-  - name: "Dead of Winter: The Long Night"
+  - id: dead-of-winter-the-long-night
+    name: "Dead of Winter: The Long Night"
     year: 2016
     bgg_rank: 416
-  - name: "Dixit"
+  - id: dixit
+    name: "Dixit"
     year: 2008
     bgg_rank: 417
-  - name: "Unmatched: Robin Hood vs. Bigfoot"
+  - id: unmatched-robin-hood-vs-bigfoot
+    name: "Unmatched: Robin Hood vs. Bigfoot"
     year: 2019
     bgg_rank: 418
-  - name: "Sid Meier's Civilization: The Board Game"
+  - id: sid-meiers-civilization-the-board-game
+    name: "Sid Meier's Civilization: The Board Game"
     year: 2010
     bgg_rank: 419
-  - name: "Mission: Red Planet (Second Edition)"
+  - id: mission-red-planet-second-edition
+    name: "Mission: Red Planet (Second Edition)"
     year: 2015
     bgg_rank: 420
-  - name: "Ginkgopolis"
+  - id: ginkgopolis
+    name: "Ginkgopolis"
     year: 2012
     bgg_rank: 421
-  - name: "Letters from Whitechapel"
+  - id: letters-from-whitechapel
+    name: "Letters from Whitechapel"
     year: 2011
     bgg_rank: 422
-  - name: "Tekhenu: Obelisk of the Sun"
+  - id: tekhenu-obelisk-of-the-sun
+    name: "Tekhenu: Obelisk of the Sun"
     year: 2020
     bgg_rank: 423
-  - name: "Arboretum"
+  - id: arboretum
+    name: "Arboretum"
     year: 2015
     bgg_rank: 424
-  - name: "Arydia: The Paths We Dare Tread"
+  - id: arydia-the-paths-we-dare-tread
+    name: "Arydia: The Paths We Dare Tread"
     year: 2025
     bgg_rank: 425
-  - name: "Schotten Totten"
+  - id: schotten-totten
+    name: "Schotten Totten"
     year: 1999
     bgg_rank: 426
-  - name: "Dungeon Lords"
+  - id: dungeon-lords
+    name: "Dungeon Lords"
     year: 2009
     bgg_rank: 427
-  - name: "Maria"
+  - id: maria
+    name: "Maria"
     year: 2009
     bgg_rank: 428
-  - name: "Antiquity"
+  - id: antiquity
+    name: "Antiquity"
     year: 2004
     bgg_rank: 429
-  - name: "Ready Set Bet"
+  - id: ready-set-bet
+    name: "Ready Set Bet"
     year: 2022
     bgg_rank: 430
-  - name: "Abyss"
+  - id: abyss
+    name: "Abyss"
     year: 2014
     bgg_rank: 431
-  - name: "Takenoko"
+  - id: takenoko
+    name: "Takenoko"
     year: 2011
     bgg_rank: 432
-  - name: "Feed the Kraken"
+  - id: feed-the-kraken
+    name: "Feed the Kraken"
     year: 2022
     bgg_rank: 433
-  - name: "Harry Potter: Hogwarts Battle"
+  - id: harry-potter-hogwarts-battle
+    name: "Harry Potter: Hogwarts Battle"
     year: 2016
     bgg_rank: 434
-  - name: "San Juan"
+  - id: san-juan
+    name: "San Juan"
     year: 2004
     bgg_rank: 435
-  - name: "Let's Go! To Japan"
+  - id: lets-go-to-japan
+    name: "Let's Go! To Japan"
     year: 2024
     bgg_rank: 436
-  - name: "Mysterium"
+  - id: mysterium
+    name: "Mysterium"
     year: 2015
     bgg_rank: 437
-  - name: "BattleLore: Second Edition"
+  - id: battlelore-second-edition
+    name: "BattleLore: Second Edition"
     year: 2013
     bgg_rank: 438
-  - name: "Carpe Diem"
+  - id: carpe-diem
+    name: "Carpe Diem"
     year: 2018
     bgg_rank: 439
-  - name: "Smartphone Inc."
+  - id: smartphone-inc
+    name: "Smartphone Inc."
     year: 2018
     bgg_rank: 440
-  - name: "Agricola: All Creatures Big and Small"
+  - id: agricola-all-creatures-big-and-small
+    name: "Agricola: All Creatures Big and Small"
     year: 2012
     bgg_rank: 441
-  - name: "Blood Bowl: Team Manager – The Card Game"
+  - id: blood-bowl-team-manager-the-card-game
+    name: "Blood Bowl: Team Manager – The Card Game"
     year: 2011
     bgg_rank: 442
-  - name: "Ghost Stories"
+  - id: ghost-stories
+    name: "Ghost Stories"
     year: 2008
     bgg_rank: 443
-  - name: "The Resistance"
+  - id: the-resistance
+    name: "The Resistance"
     year: 2009
     bgg_rank: 444
-  - name: "The Godfather: Corleone's Empire"
+  - id: the-godfather-corleones-empire
+    name: "The Godfather: Corleone's Empire"
     year: 2017
     bgg_rank: 445
-  - name: "The Gang"
+  - id: the-gang
+    name: "The Gang"
     year: 2024
     bgg_rank: 446
-  - name: "Cartographers Heroes"
+  - id: cartographers-heroes
+    name: "Cartographers Heroes"
     year: 2021
     bgg_rank: 447
-  - name: "Akropolis"
+  - id: akropolis
+    name: "Akropolis"
     year: 2022
     bgg_rank: 448
-  - name: "Pagan: Fate of Roanoke"
+  - id: pagan-fate-of-roanoke
+    name: "Pagan: Fate of Roanoke"
     year: 2022
     bgg_rank: 449
-  - name: "Twice as Clever!"
+  - id: twice-as-clever
+    name: "Twice as Clever!"
     year: 2019
     bgg_rank: 450
-  - name: "Star Wars: Armada"
+  - id: star-wars-armada
+    name: "Star Wars: Armada"
     year: 2015
     bgg_rank: 451
-  - name: "The Pillars of the Earth"
+  - id: the-pillars-of-the-earth
+    name: "The Pillars of the Earth"
     year: 2006
     bgg_rank: 452
-  - name: "Notre Dame"
+  - id: notre-dame
+    name: "Notre Dame"
     year: 2007
     bgg_rank: 453
-  - name: "Newton"
+  - id: newton
+    name: "Newton"
     year: 2018
     bgg_rank: 454
-  - name: "Chess"
+  - id: chess
+    name: "Chess"
     year: 1475
     bgg_rank: 455
-  - name: "Pandemic: Fall of Rome"
+  - id: pandemic-fall-of-rome
+    name: "Pandemic: Fall of Rome"
     year: 2018
     bgg_rank: 456
-  - name: "Pan Am"
+  - id: pan-am
+    name: "Pan Am"
     year: 2020
     bgg_rank: 457
-  - name: "Imperium: Legends"
+  - id: imperium-legends
+    name: "Imperium: Legends"
     year: 2021
     bgg_rank: 458
-  - name: "Altiplano"
+  - id: altiplano
+    name: "Altiplano"
     year: 2017
     bgg_rank: 459
-  - name: "Honey Buzz"
+  - id: honey-buzz
+    name: "Honey Buzz"
     year: 2020
     bgg_rank: 460
-  - name: "51st State: Master Set"
+  - id: 51st-state-master-set
+    name: "51st State: Master Set"
     year: 2016
     bgg_rank: 461
-  - name: "Lords of Hellas"
+  - id: lords-of-hellas
+    name: "Lords of Hellas"
     year: 2018
     bgg_rank: 462
-  - name: "IKI"
+  - id: iki
+    name: "IKI"
     year: 2015
     bgg_rank: 463
-  - name: "At the Gates of Loyang"
+  - id: at-the-gates-of-loyang
+    name: "At the Gates of Loyang"
     year: 2009
     bgg_rank: 464
-  - name: "Gùgōng"
+  - id: gugong
+    name: "Gùgōng"
     year: 2018
     bgg_rank: 465
-  - name: "For Northwood! A Solo Trick-Taking Game"
+  - id: for-northwood-a-solo-trick-taking-game
+    name: "For Northwood! A Solo Trick-Taking Game"
     year: 2021
     bgg_rank: 466
-  - name: "Descent: Legends of the Dark"
+  - id: descent-legends-of-the-dark
+    name: "Descent: Legends of the Dark"
     year: 2021
     bgg_rank: 467
-  - name: "Saint Petersburg"
+  - id: saint-petersburg
+    name: "Saint Petersburg"
     year: 2004
     bgg_rank: 468
-  - name: "Hannibal: Rome vs. Carthage"
+  - id: hannibal-rome-vs-carthage
+    name: "Hannibal: Rome vs. Carthage"
     year: 1996
     bgg_rank: 469
-  - name: "Unsettled"
+  - id: unsettled
+    name: "Unsettled"
     year: 2021
     bgg_rank: 470
-  - name: "Daybreak"
+  - id: daybreak
+    name: "Daybreak"
     year: 2023
     bgg_rank: 471
-  - name: "Arkham Horror"
+  - id: arkham-horror
+    name: "Arkham Horror"
     year: 2005
     bgg_rank: 472
-  - name: "Bus"
+  - id: bus
+    name: "Bus"
     year: 1999
     bgg_rank: 473
-  - name: "Imperial Struggle"
+  - id: imperial-struggle
+    name: "Imperial Struggle"
     year: 2020
     bgg_rank: 474
-  - name: "Pirates of Maracaibo"
+  - id: pirates-of-maracaibo
+    name: "Pirates of Maracaibo"
     year: 2023
     bgg_rank: 475
-  - name: "Skull"
+  - id: skull
+    name: "Skull"
     year: 2011
     bgg_rank: 476
-  - name: "Mage Wars Arena"
+  - id: mage-wars-arena
+    name: "Mage Wars Arena"
     year: 2012
     bgg_rank: 477
-  - name: "World Wonders"
+  - id: world-wonders
+    name: "World Wonders"
     year: 2023
     bgg_rank: 478
-  - name: "King of Tokyo"
+  - id: king-of-tokyo
+    name: "King of Tokyo"
     year: 2011
     bgg_rank: 479
-  - name: "Boonlake"
+  - id: boonlake
+    name: "Boonlake"
     year: 2021
     bgg_rank: 480
-  - name: "London (Second Edition)"
+  - id: london-second-edition
+    name: "London (Second Edition)"
     year: 2017
     bgg_rank: 481
-  - name: "Kutná Hora: The City of Silver"
+  - id: kutna-hora-the-city-of-silver
+    name: "Kutná Hora: The City of Silver"
     year: 2023
     bgg_rank: 482
-  - name: "Dice Forge"
+  - id: dice-forge
+    name: "Dice Forge"
     year: 2017
     bgg_rank: 483
-  - name: "Blitzkrieg!: World War Two in 20 Minutes"
+  - id: blitzkrieg-world-war-two-in-20-minutes
+    name: "Blitzkrieg!: World War Two in 20 Minutes"
     year: 2019
     bgg_rank: 484
-  - name: "Unmatched: Battle of Legends, Volume Two"
+  - id: unmatched-battle-of-legends-volume-two
+    name: "Unmatched: Battle of Legends, Volume Two"
     year: 2021
     bgg_rank: 485
-  - name: "In the Year of the Dragon"
+  - id: in-the-year-of-the-dragon
+    name: "In the Year of the Dragon"
     year: 2007
     bgg_rank: 486
-  - name: "Fromage"
+  - id: fromage
+    name: "Fromage"
     year: 2024
     bgg_rank: 487
-  - name: "Codenames: Pictures"
+  - id: codenames-pictures
+    name: "Codenames: Pictures"
     year: 2016
     bgg_rank: 488
-  - name: "Cubitos"
+  - id: cubitos
+    name: "Cubitos"
     year: 2021
     bgg_rank: 489
-  - name: "Spartacus: A Game of Blood and Treachery"
+  - id: spartacus-a-game-of-blood-and-treachery
+    name: "Spartacus: A Game of Blood and Treachery"
     year: 2012
     bgg_rank: 490
-  - name: "Ticket to Ride: Märklin"
+  - id: ticket-to-ride-marklin
+    name: "Ticket to Ride: Märklin"
     year: 2006
     bgg_rank: 491
-  - name: "Downforce"
+  - id: downforce
+    name: "Downforce"
     year: 2017
     bgg_rank: 492
-  - name: "Azul: Stained Glass of Sintra"
+  - id: azul-stained-glass-of-sintra
+    name: "Azul: Stained Glass of Sintra"
     year: 2018
     bgg_rank: 493
-  - name: "Massive Darkness 2: Hellscape"
+  - id: massive-darkness-2-hellscape
+    name: "Massive Darkness 2: Hellscape"
     year: 2022
     bgg_rank: 494
-  - name: "Horizons of Spirit Island"
+  - id: horizons-of-spirit-island
+    name: "Horizons of Spirit Island"
     year: 2022
     bgg_rank: 495
-  - name: "Zombicide: 2nd Edition"
+  - id: zombicide-2nd-edition
+    name: "Zombicide: 2nd Edition"
     year: 2021
     bgg_rank: 496
-  - name: "The LOOP"
+  - id: the-loop
+    name: "The LOOP"
     year: 2020
     bgg_rank: 497
-  - name: "Endeavor"
+  - id: endeavor
+    name: "Endeavor"
     year: 2009
     bgg_rank: 498
-  - name: "King of Tokyo: Dark Edition"
+  - id: king-of-tokyo-dark-edition
+    name: "King of Tokyo: Dark Edition"
     year: 2020
     bgg_rank: 499
-  - name: "The Great Wall"
+  - id: the-great-wall
+    name: "The Great Wall"
     year: 2021
     bgg_rank: 500
 
   # 501-600
-  - name: "Die Macher"
+  - id: die-macher
+    name: "Die Macher"
     year: 1986
     bgg_rank: 501
-  - name: "Biblios"
+  - id: biblios
+    name: "Biblios"
     year: 2007
     bgg_rank: 502
-  - name: "Ezra and Nehemiah"
+  - id: ezra-and-nehemiah
+    name: "Ezra and Nehemiah"
     year: 2024
     bgg_rank: 503
-  - name: "San Juan (Second Edition)"
+  - id: san-juan-second-edition
+    name: "San Juan (Second Edition)"
     year: 2014
     bgg_rank: 504
-  - name: "Caper: Europe"
+  - id: caper-europe
+    name: "Caper: Europe"
     year: 2022
     bgg_rank: 505
-  - name: "Firefly: The Game"
+  - id: firefly-the-game
+    name: "Firefly: The Game"
     year: 2013
     bgg_rank: 506
-  - name: "Tiny Towns"
+  - id: tiny-towns
+    name: "Tiny Towns"
     year: 2019
     bgg_rank: 507
-  - name: "Trio"
+  - id: trio
+    name: "Trio"
     year: 2021
     bgg_rank: 508
-  - name: "Unmatched Adventures: Tales to Amaze"
+  - id: unmatched-adventures-tales-to-amaze
+    name: "Unmatched Adventures: Tales to Amaze"
     year: 2023
     bgg_rank: 509
-  - name: "Bruxelles 1893"
+  - id: bruxelles-1893
+    name: "Bruxelles 1893"
     year: 2013
     bgg_rank: 510
-  - name: "Millennium Blades"
+  - id: millennium-blades
+    name: "Millennium Blades"
     year: 2016
     bgg_rank: 511
-  - name: "Libertalia: Winds of Galecrest"
+  - id: libertalia-winds-of-galecrest
+    name: "Libertalia: Winds of Galecrest"
     year: 2022
     bgg_rank: 512
-  - name: "Civilization"
+  - id: civilization
+    name: "Civilization"
     year: 1980
     bgg_rank: 513
-  - name: "Hitster"
+  - id: hitster
+    name: "Hitster"
     year: 2022
     bgg_rank: 514
-  - name: "Wavelength"
+  - id: wavelength
+    name: "Wavelength"
     year: 2019
     bgg_rank: 515
-  - name: "Knarr"
+  - id: knarr
+    name: "Knarr"
     year: 2023
     bgg_rank: 516
-  - name: "Scholars of the South Tigris"
+  - id: scholars-of-the-south-tigris
+    name: "Scholars of the South Tigris"
     year: 2023
     bgg_rank: 517
-  - name: "Evolution: Climate"
+  - id: evolution-climate
+    name: "Evolution: Climate"
     year: 2016
     bgg_rank: 518
-  - name: "Unmatched: Little Red Riding Hood vs. Beowulf"
+  - id: unmatched-little-red-riding-hood-vs-beowulf
+    name: "Unmatched: Little Red Riding Hood vs. Beowulf"
     year: 2020
     bgg_rank: 519
-  - name: "Woodcraft"
+  - id: woodcraft
+    name: "Woodcraft"
     year: 2022
     bgg_rank: 520
-  - name: "PitchCar"
+  - id: pitchcar
+    name: "PitchCar"
     year: 1995
     bgg_rank: 521
-  - name: "Santa Maria"
+  - id: santa-maria
+    name: "Santa Maria"
     year: 2017
     bgg_rank: 522
-  - name: "MicroMacro: Crime City – Full House"
+  - id: micromacro-crime-city-full-house
+    name: "MicroMacro: Crime City – Full House"
     year: 2021
     bgg_rank: 523
-  - name: "Black Orchestra"
+  - id: black-orchestra
+    name: "Black Orchestra"
     year: 2016
     bgg_rank: 524
-  - name: "Fresco"
+  - id: fresco
+    name: "Fresco"
     year: 2010
     bgg_rank: 525
-  - name: "Sword & Sorcery"
+  - id: sword-and-sorcery
+    name: "Sword & Sorcery"
     year: 2017
     bgg_rank: 526
-  - name: "Here I Stand"
+  - id: here-i-stand
+    name: "Here I Stand"
     year: 2006
     bgg_rank: 527
-  - name: "Mythic Battles: Pantheon"
+  - id: mythic-battles-pantheon
+    name: "Mythic Battles: Pantheon"
     year: 2017
     bgg_rank: 528
-  - name: "Flash Point: Fire Rescue"
+  - id: flash-point-fire-rescue
+    name: "Flash Point: Fire Rescue"
     year: 2011
     bgg_rank: 529
-  - name: "Sprawlopolis"
+  - id: sprawlopolis
+    name: "Sprawlopolis"
     year: 2018
     bgg_rank: 530
-  - name: "Space Hulk (Third Edition)"
+  - id: space-hulk-third-edition
+    name: "Space Hulk (Third Edition)"
     year: 2009
     bgg_rank: 531
-  - name: "The Lord of the Rings: The Confrontation"
+  - id: the-lord-of-the-rings-the-confrontation
+    name: "The Lord of the Rings: The Confrontation"
     year: 2005
     bgg_rank: 532
-  - name: "Finspan"
+  - id: finspan
+    name: "Finspan"
     year: 2025
     bgg_rank: 533
-  - name: "Kingsburg"
+  - id: kingsburg
+    name: "Kingsburg"
     year: 2007
     bgg_rank: 534
-  - name: "High Society"
+  - id: high-society
+    name: "High Society"
     year: 1995
     bgg_rank: 535
-  - name: "Flip 7"
+  - id: flip-7
+    name: "Flip 7"
     year: 2024
     bgg_rank: 536
-  - name: "Nippon"
+  - id: nippon
+    name: "Nippon"
     year: 2015
     bgg_rank: 537
-  - name: "Commands & Colors: Napoleonics"
+  - id: commands-and-colors-napoleonics
+    name: "Commands & Colors: Napoleonics"
     year: 2010
     bgg_rank: 538
-  - name: "Macao"
+  - id: macao
+    name: "Macao"
     year: 2009
     bgg_rank: 539
-  - name: "Trekking Through History"
+  - id: trekking-through-history
+    name: "Trekking Through History"
     year: 2022
     bgg_rank: 540
-  - name: "Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures"
+  - id: sherlock-holmes-consulting-detective-jack-the-ripper-and-west-end-adventures
+    name: "Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures"
     year: 2016
     bgg_rank: 541
-  - name: "Rebirth"
+  - id: rebirth
+    name: "Rebirth"
     year: 2024
     bgg_rank: 542
-  - name: "Bohnanza"
+  - id: bohnanza
+    name: "Bohnanza"
     year: 1997
     bgg_rank: 543
-  - name: "Life of the Amazonia"
+  - id: life-of-the-amazonia
+    name: "Life of the Amazonia"
     year: 2023
     bgg_rank: 544
-  - name: "Stockpile"
+  - id: stockpile
+    name: "Stockpile"
     year: 2015
     bgg_rank: 545
-  - name: "Earthborne Rangers"
+  - id: earthborne-rangers
+    name: "Earthborne Rangers"
     year: 2023
     bgg_rank: 546
-  - name: "Through the Desert"
+  - id: through-the-desert
+    name: "Through the Desert"
     year: 1998
     bgg_rank: 547
-  - name: "Pandemic: Reign of Cthulhu"
+  - id: pandemic-reign-of-cthulhu
+    name: "Pandemic: Reign of Cthulhu"
     year: 2016
     bgg_rank: 548
-  - name: "No Thanks!"
+  - id: no-thanks
+    name: "No Thanks!"
     year: 2004
     bgg_rank: 549
-  - name: "Fire in the Lake"
+  - id: fire-in-the-lake
+    name: "Fire in the Lake"
     year: 2014
     bgg_rank: 550
-  - name: "Clash of Cultures"
+  - id: clash-of-cultures
+    name: "Clash of Cultures"
     year: 2012
     bgg_rank: 551
-  - name: "Mice and Mystics"
+  - id: mice-and-mystics
+    name: "Mice and Mystics"
     year: 2012
     bgg_rank: 552
-  - name: "Colt Express"
+  - id: colt-express
+    name: "Colt Express"
     year: 2014
     bgg_rank: 553
-  - name: "Mandala"
+  - id: mandala
+    name: "Mandala"
     year: 2019
     bgg_rank: 554
-  - name: "Fantastic Factories"
+  - id: fantastic-factories
+    name: "Fantastic Factories"
     year: 2019
     bgg_rank: 555
-  - name: "Claustrophobia"
+  - id: claustrophobia
+    name: "Claustrophobia"
     year: 2009
     bgg_rank: 556
-  - name: "Dawn of the Zeds (Third Edition)"
+  - id: dawn-of-the-zeds-third-edition
+    name: "Dawn of the Zeds (Third Edition)"
     year: 2016
     bgg_rank: 557
-  - name: "Dune (1979)"
+  - id: dune-1979
+    name: "Dune (1979)"
     year: 1979
     bgg_rank: 558
-  - name: "The Manhattan Project"
+  - id: the-manhattan-project
+    name: "The Manhattan Project"
     year: 2012
     bgg_rank: 559
-  - name: "Advanced Squad Leader"
+  - id: advanced-squad-leader
+    name: "Advanced Squad Leader"
     year: 1985
     bgg_rank: 560
-  - name: "Lancaster"
+  - id: lancaster
+    name: "Lancaster"
     year: 2011
     bgg_rank: 561
-  - name: "Heroscape Master Set: Rise of the Valkyrie"
+  - id: heroscape-master-set-rise-of-the-valkyrie
+    name: "Heroscape Master Set: Rise of the Valkyrie"
     year: 2004
     bgg_rank: 562
-  - name: "Skymines"
+  - id: skymines
+    name: "Skymines"
     year: 2022
     bgg_rank: 563
-  - name: "Thunderstone Quest"
+  - id: thunderstone-quest
+    name: "Thunderstone Quest"
     year: 2018
     bgg_rank: 564
-  - name: "Black Rose Wars"
+  - id: black-rose-wars
+    name: "Black Rose Wars"
     year: 2019
     bgg_rank: 565
-  - name: "Citadels (2016)"
+  - id: citadels-2016
+    name: "Citadels (2016)"
     year: 2016
     bgg_rank: 566
-  - name: "Hadara"
+  - id: hadara
+    name: "Hadara"
     year: 2019
     bgg_rank: 567
-  - name: "Undaunted: North Africa"
+  - id: undaunted-north-africa
+    name: "Undaunted: North Africa"
     year: 2020
     bgg_rank: 568
-  - name: "Glen More"
+  - id: glen-more
+    name: "Glen More"
     year: 2010
     bgg_rank: 569
-  - name: "Zombie Kidz Evolution"
+  - id: zombie-kidz-evolution
+    name: "Zombie Kidz Evolution"
     year: 2018
     bgg_rank: 570
-  - name: "Quadropolis"
+  - id: quadropolis
+    name: "Quadropolis"
     year: 2016
     bgg_rank: 571
-  - name: "Pipeline"
+  - id: pipeline
+    name: "Pipeline"
     year: 2019
     bgg_rank: 572
-  - name: "A Few Acres of Snow"
+  - id: a-few-acres-of-snow
+    name: "A Few Acres of Snow"
     year: 2011
     bgg_rank: 573
-  - name: "Aquatica"
+  - id: aquatica
+    name: "Aquatica"
     year: 2019
     bgg_rank: 574
-  - name: "Regicide"
+  - id: regicide
+    name: "Regicide"
     year: 2020
     bgg_rank: 575
-  - name: "Mystic Vale"
+  - id: mystic-vale
+    name: "Mystic Vale"
     year: 2016
     bgg_rank: 576
-  - name: "Citadels (2000)"
+  - id: citadels-2000
+    name: "Citadels (2000)"
     year: 2000
     bgg_rank: 577
-  - name: "Friday"
+  - id: friday
+    name: "Friday"
     year: 2011
     bgg_rank: 578
-  - name: "Barcelona"
+  - id: barcelona
+    name: "Barcelona"
     year: 2023
     bgg_rank: 579
-  - name: "Imperial Settlers: Empires of the North"
+  - id: imperial-settlers-empires-of-the-north
+    name: "Imperial Settlers: Empires of the North"
     year: 2019
     bgg_rank: 580
-  - name: "Next Station: London"
+  - id: next-station-london
+    name: "Next Station: London"
     year: 2022
     bgg_rank: 581
-  - name: "Shadows over Camelot"
+  - id: shadows-over-camelot
+    name: "Shadows over Camelot"
     year: 2005
     bgg_rank: 582
-  - name: "Middara: Unintentional Malum – Act 1"
+  - id: middara-unintentional-malum-act-1
+    name: "Middara: Unintentional Malum – Act 1"
     year: 2019
     bgg_rank: 583
-  - name: "Potion Explosion"
+  - id: potion-explosion
+    name: "Potion Explosion"
     year: 2015
     bgg_rank: 584
-  - name: "Canvas"
+  - id: canvas
+    name: "Canvas"
     year: 2021
     bgg_rank: 585
-  - name: "Unmatched Game System"
+  - id: unmatched-game-system
+    name: "Unmatched Game System"
     year: 2019
     bgg_rank: 586
-  - name: "Aeon Trespass: Odyssey"
+  - id: aeon-trespass-odyssey
+    name: "Aeon Trespass: Odyssey"
     year: 2022
     bgg_rank: 587
-  - name: "Lords of Vegas"
+  - id: lords-of-vegas
+    name: "Lords of Vegas"
     year: 2010
     bgg_rank: 588
-  - name: "Hanabi"
+  - id: hanabi
+    name: "Hanabi"
     year: 2010
     bgg_rank: 589
-  - name: "Point Salad"
+  - id: point-salad
+    name: "Point Salad"
     year: 2019
     bgg_rank: 590
-  - name: "Shackleton Base: A Journey to the Moon"
+  - id: shackleton-base-a-journey-to-the-moon
+    name: "Shackleton Base: A Journey to the Moon"
     year: 2024
     bgg_rank: 591
-  - name: "Splendor: Marvel"
+  - id: splendor-marvel
+    name: "Splendor: Marvel"
     year: 2020
     bgg_rank: 592
-  - name: "Amun-Re"
+  - id: amun-re
+    name: "Amun-Re"
     year: 2003
     bgg_rank: 593
-  - name: "Stuffed Fables"
+  - id: stuffed-fables
+    name: "Stuffed Fables"
     year: 2018
     bgg_rank: 594
-  - name: "EXIT: The Game – Dead Man on the Orient Express"
+  - id: exit-the-game-dead-man-on-the-orient-express
+    name: "EXIT: The Game – Dead Man on the Orient Express"
     year: 2017
     bgg_rank: 595
-  - name: "BattleLore"
+  - id: battlelore
+    name: "BattleLore"
     year: 2006
     bgg_rank: 596
-  - name: "Amerigo"
+  - id: amerigo
+    name: "Amerigo"
     year: 2013
     bgg_rank: 597
-  - name: "Forbidden Desert"
+  - id: forbidden-desert
+    name: "Forbidden Desert"
     year: 2013
     bgg_rank: 598
-  - name: "Junk Art"
+  - id: junk-art
+    name: "Junk Art"
     year: 2016
     bgg_rank: 599
-  - name: "Deus"
+  - id: deus
+    name: "Deus"
     year: 2014
     bgg_rank: 600
 
   # 601-700
-  - name: "Pandemic: The Cure"
+  - id: pandemic-the-cure
+    name: "Pandemic: The Cure"
     year: 2014
     bgg_rank: 601
-  - name: "Sheriff of Nottingham"
+  - id: sheriff-of-nottingham
+    name: "Sheriff of Nottingham"
     year: 2014
     bgg_rank: 602
-  - name: "Betrayal Legacy"
+  - id: betrayal-legacy
+    name: "Betrayal Legacy"
     year: 2018
     bgg_rank: 603
-  - name: "Thurn and Taxis"
+  - id: thurn-and-taxis
+    name: "Thurn and Taxis"
     year: 2006
     bgg_rank: 604
-  - name: "QE"
+  - id: qe
+    name: "QE"
     year: 2019
     bgg_rank: 605
-  - name: "Mansions of Madness"
+  - id: mansions-of-madness
+    name: "Mansions of Madness"
     year: 2011
     bgg_rank: 606
-  - name: "Alhambra"
+  - id: alhambra
+    name: "Alhambra"
     year: 2003
     bgg_rank: 607
-  - name: "Unfathomable"
+  - id: unfathomable
+    name: "Unfathomable"
     year: 2021
     bgg_rank: 608
-  - name: "Hot Streak"
+  - id: hot-streak
+    name: "Hot Streak"
     year: 2025
     bgg_rank: 609
-  - name: "CATAN"
+  - id: catan
+    name: "CATAN"
     year: 1995
     bgg_rank: 610
-  - name: "Descent: Journeys in the Dark"
+  - id: descent-journeys-in-the-dark
+    name: "Descent: Journeys in the Dark"
     year: 2005
     bgg_rank: 611
-  - name: "Imhotep"
+  - id: imhotep
+    name: "Imhotep"
     year: 2016
     bgg_rank: 612
-  - name: "Lacrimosa"
+  - id: lacrimosa
+    name: "Lacrimosa"
     year: 2022
     bgg_rank: 613
-  - name: "Risk Legacy"
+  - id: risk-legacy
+    name: "Risk Legacy"
     year: 2011
     bgg_rank: 614
-  - name: "Blood Bowl (Third Edition)"
+  - id: blood-bowl-third-edition
+    name: "Blood Bowl (Third Edition)"
     year: 1994
     bgg_rank: 615
-  - name: "Dinosaur Island: Rawr 'n Write"
+  - id: dinosaur-island-rawr-n-write
+    name: "Dinosaur Island: Rawr 'n Write"
     year: 2021
     bgg_rank: 616
-  - name: "Railroad Ink: Deep Blue Edition"
+  - id: railroad-ink-deep-blue-edition
+    name: "Railroad Ink: Deep Blue Edition"
     year: 2018
     bgg_rank: 617
-  - name: "Oceans"
+  - id: oceans
+    name: "Oceans"
     year: 2020
     bgg_rank: 618
-  - name: "Charterstone"
+  - id: charterstone
+    name: "Charterstone"
     year: 2017
     bgg_rank: 619
-  - name: "Las Vegas"
+  - id: las-vegas
+    name: "Las Vegas"
     year: 2012
     bgg_rank: 620
-  - name: "Port Royal"
+  - id: port-royal
+    name: "Port Royal"
     year: 2014
     bgg_rank: 621
-  - name: "Nova Luna"
+  - id: nova-luna
+    name: "Nova Luna"
     year: 2019
     bgg_rank: 622
-  - name: "Escape Plan"
+  - id: escape-plan
+    name: "Escape Plan"
     year: 2019
     bgg_rank: 623
-  - name: "Ingenious"
+  - id: ingenious
+    name: "Ingenious"
     year: 2004
     bgg_rank: 624
-  - name: "Galaxy Trucker (Second Edition)"
+  - id: galaxy-trucker-second-edition
+    name: "Galaxy Trucker (Second Edition)"
     year: 2021
     bgg_rank: 625
-  - name: "Argent: The Consortium"
+  - id: argent-the-consortium
+    name: "Argent: The Consortium"
     year: 2015
     bgg_rank: 626
-  - name: "Raptor"
+  - id: raptor
+    name: "Raptor"
     year: 2015
     bgg_rank: 627
-  - name: "TZAAR"
+  - id: tzaar
+    name: "TZAAR"
     year: 2007
     bgg_rank: 628
-  - name: "Shadows of Brimstone: City of the Ancients"
+  - id: shadows-of-brimstone-city-of-the-ancients
+    name: "Shadows of Brimstone: City of the Ancients"
     year: 2014
     bgg_rank: 629
-  - name: "Space Empires 4X"
+  - id: space-empires-4x
+    name: "Space Empires 4X"
     year: 2011
     bgg_rank: 630
-  - name: "Star Wars: X-Wing (Second Edition)"
+  - id: star-wars-x-wing-second-edition
+    name: "Star Wars: X-Wing (Second Edition)"
     year: 2018
     bgg_rank: 631
-  - name: "Labyrinth: The War on Terror, 2001 – ?"
+  - id: labyrinth-the-war-on-terror-2001
+    name: "Labyrinth: The War on Terror, 2001 – ?"
     year: 2010
     bgg_rank: 632
-  - name: "Detective: City of Angels"
+  - id: detective-city-of-angels
+    name: "Detective: City of Angels"
     year: 2019
     bgg_rank: 633
-  - name: "1775: Rebellion"
+  - id: 1775-rebellion
+    name: "1775: Rebellion"
     year: 2013
     bgg_rank: 634
-  - name: "Love Letter: Premium Edition"
+  - id: love-letter-premium-edition
+    name: "Love Letter: Premium Edition"
     year: 2016
     bgg_rank: 635
-  - name: "Small World Underground"
+  - id: small-world-underground
+    name: "Small World Underground"
     year: 2011
     bgg_rank: 636
-  - name: "Camel Up"
+  - id: camel-up
+    name: "Camel Up"
     year: 2014
     bgg_rank: 637
-  - name: "Fleet: The Dice Game"
+  - id: fleet-the-dice-game
+    name: "Fleet: The Dice Game"
     year: 2018
     bgg_rank: 638
-  - name: "Discworld: Ankh-Morpork"
+  - id: discworld-ankh-morpork
+    name: "Discworld: Ankh-Morpork"
     year: 2011
     bgg_rank: 639
-  - name: "Jamaica"
+  - id: jamaica
+    name: "Jamaica"
     year: 2007
     bgg_rank: 640
-  - name: "Etherfields"
+  - id: etherfields
+    name: "Etherfields"
     year: 2020
     bgg_rank: 641
-  - name: "Wabash Cannonball"
+  - id: wabash-cannonball
+    name: "Wabash Cannonball"
     year: 2007
     bgg_rank: 642
-  - name: "RoboRally"
+  - id: roborally
+    name: "RoboRally"
     year: 1994
     bgg_rank: 643
-  - name: "Blackout: Hong Kong"
+  - id: blackout-hong-kong
+    name: "Blackout: Hong Kong"
     year: 2018
     bgg_rank: 644
-  - name: "Runebound (Third Edition)"
+  - id: runebound-third-edition
+    name: "Runebound (Third Edition)"
     year: 2015
     bgg_rank: 645
-  - name: "Star Wars: Unlimited"
+  - id: star-wars-unlimited
+    name: "Star Wars: Unlimited"
     year: 2024
     bgg_rank: 646
-  - name: "1846: The Race for the Midwest"
+  - id: 1846-the-race-for-the-midwest
+    name: "1846: The Race for the Midwest"
     year: 2005
     bgg_rank: 647
-  - name: "Sushi Go!"
+  - id: sushi-go
+    name: "Sushi Go!"
     year: 2013
     bgg_rank: 648
-  - name: "Toy Battle"
+  - id: toy-battle
+    name: "Toy Battle"
     year: 2025
     bgg_rank: 649
-  - name: "Men-Nefer"
+  - id: men-nefer
+    name: "Men-Nefer"
     year: 2024
     bgg_rank: 650
-  - name: "The Grizzled"
+  - id: the-grizzled
+    name: "The Grizzled"
     year: 2015
     bgg_rank: 651
-  - name: "Freedom: The Underground Railroad"
+  - id: freedom-the-underground-railroad
+    name: "Freedom: The Underground Railroad"
     year: 2013
     bgg_rank: 652
-  - name: "Libertalia"
+  - id: libertalia
+    name: "Libertalia"
     year: 2012
     bgg_rank: 653
-  - name: "Valeria: Card Kingdoms"
+  - id: valeria-card-kingdoms
+    name: "Valeria: Card Kingdoms"
     year: 2016
     bgg_rank: 654
-  - name: "Blood Bowl: Living Rulebook"
+  - id: blood-bowl-living-rulebook
+    name: "Blood Bowl: Living Rulebook"
     year: 2004
     bgg_rank: 655
-  - name: "Karuba"
+  - id: karuba
+    name: "Karuba"
     year: 2015
     bgg_rank: 656
-  - name: "Warp's Edge"
+  - id: warps-edge
+    name: "Warp's Edge"
     year: 2020
     bgg_rank: 657
-  - name: "Airlines Europe"
+  - id: airlines-europe
+    name: "Airlines Europe"
     year: 2011
     bgg_rank: 658
-  - name: "Last Will"
+  - id: last-will
+    name: "Last Will"
     year: 2011
     bgg_rank: 659
-  - name: "Crusaders: Thy Will Be Done"
+  - id: crusaders-thy-will-be-done
+    name: "Crusaders: Thy Will Be Done"
     year: 2018
     bgg_rank: 660
-  - name: "DVONN"
+  - id: dvonn
+    name: "DVONN"
     year: 2001
     bgg_rank: 661
-  - name: "Elysium"
+  - id: elysium
+    name: "Elysium"
     year: 2015
     bgg_rank: 662
-  - name: "Broom Service"
+  - id: broom-service
+    name: "Broom Service"
     year: 2015
     bgg_rank: 663
-  - name: "Atlantis Rising (Second Edition)"
+  - id: atlantis-rising-second-edition
+    name: "Atlantis Rising (Second Edition)"
     year: 2019
     bgg_rank: 664
-  - name: "First Class: All Aboard the Orient Express!"
+  - id: first-class-all-aboard-the-orient-express
+    name: "First Class: All Aboard the Orient Express!"
     year: 2016
     bgg_rank: 665
-  - name: "The Fox in the Forest"
+  - id: the-fox-in-the-forest
+    name: "The Fox in the Forest"
     year: 2017
     bgg_rank: 666
-  - name: "One Night Ultimate Werewolf"
+  - id: one-night-ultimate-werewolf
+    name: "One Night Ultimate Werewolf"
     year: 2014
     bgg_rank: 667
-  - name: "Legends of Andor"
+  - id: legends-of-andor
+    name: "Legends of Andor"
     year: 2012
     bgg_rank: 668
-  - name: "Draftosaurus"
+  - id: draftosaurus
+    name: "Draftosaurus"
     year: 2019
     bgg_rank: 669
-  - name: "Azul: Queen's Garden"
+  - id: azul-queens-garden
+    name: "Azul: Queen's Garden"
     year: 2021
     bgg_rank: 670
-  - name: "Vikings"
+  - id: vikings
+    name: "Vikings"
     year: 2007
     bgg_rank: 671
-  - name: "Unmatched: Jurassic Park – InGen vs Raptors"
+  - id: unmatched-jurassic-park-ingen-vs-raptors
+    name: "Unmatched: Jurassic Park – InGen vs Raptors"
     year: 2020
     bgg_rank: 672
-  - name: "Take 5"
+  - id: take-5
+    name: "Take 5"
     year: 1994
     bgg_rank: 673
-  - name: "Euphoria: Build a Better Dystopia"
+  - id: euphoria-build-a-better-dystopia
+    name: "Euphoria: Build a Better Dystopia"
     year: 2013
     bgg_rank: 674
-  - name: "London"
+  - id: london
+    name: "London"
     year: 2010
     bgg_rank: 675
-  - name: "Sentinels of the Multiverse"
+  - id: sentinels-of-the-multiverse
+    name: "Sentinels of the Multiverse"
     year: 2011
     bgg_rank: 676
-  - name: "Carcassonne: Hunters and Gatherers"
+  - id: carcassonne-hunters-and-gatherers
+    name: "Carcassonne: Hunters and Gatherers"
     year: 2002
     bgg_rank: 677
-  - name: "Bullet♥︎"
+  - id: bullet
+    name: "Bullet♥︎"
     year: 2021
     bgg_rank: 678
-  - name: "My Father's Work"
+  - id: my-fathers-work
+    name: "My Father's Work"
     year: 2022
     bgg_rank: 679
-  - name: "StarCraft: The Board Game"
+  - id: starcraft-the-board-game
+    name: "StarCraft: The Board Game"
     year: 2007
     bgg_rank: 680
-  - name: "Nexus Ops"
+  - id: nexus-ops
+    name: "Nexus Ops"
     year: 2005
     bgg_rank: 681
-  - name: "Taj Mahal"
+  - id: taj-mahal
+    name: "Taj Mahal"
     year: 2000
     bgg_rank: 682
-  - name: "Terrorscape"
+  - id: terrorscape
+    name: "Terrorscape"
     year: 2023
     bgg_rank: 683
-  - name: "War of the Ring: The Card Game"
+  - id: war-of-the-ring-the-card-game
+    name: "War of the Ring: The Card Game"
     year: 2022
     bgg_rank: 684
-  - name: "In the Hall of the Mountain King"
+  - id: in-the-hall-of-the-mountain-king
+    name: "In the Hall of the Mountain King"
     year: 2019
     bgg_rank: 685
-  - name: "Madeira"
+  - id: madeira
+    name: "Madeira"
     year: 2013
     bgg_rank: 686
-  - name: "Unlock!: Escape Adventures"
+  - id: unlock-escape-adventures
+    name: "Unlock!: Escape Adventures"
     year: 2017
     bgg_rank: 687
-  - name: "Agent Avenue"
+  - id: agent-avenue
+    name: "Agent Avenue"
     year: 2024
     bgg_rank: 688
-  - name: "Archipelago"
+  - id: archipelago
+    name: "Archipelago"
     year: 2012
     bgg_rank: 689
-  - name: "Tales of the Arabian Nights"
+  - id: tales-of-the-arabian-nights
+    name: "Tales of the Arabian Nights"
     year: 2009
     bgg_rank: 690
-  - name: "Project: ELITE"
+  - id: project-elite
+    name: "Project: ELITE"
     year: 2020
     bgg_rank: 691
-  - name: "Baseball Highlights: 2045"
+  - id: baseball-highlights-2045
+    name: "Baseball Highlights: 2045"
     year: 2015
     bgg_rank: 692
-  - name: "Creature Comforts"
+  - id: creature-comforts
+    name: "Creature Comforts"
     year: 2022
     bgg_rank: 693
-  - name: "La Granja: Deluxe Master Set"
+  - id: la-granja-deluxe-master-set
+    name: "La Granja: Deluxe Master Set"
     year: 2023
     bgg_rank: 694
-  - name: "High Frontier 4 All"
+  - id: high-frontier-4-all
+    name: "High Frontier 4 All"
     year: 2020
     bgg_rank: 695
-  - name: "Time's Up! Title Recall!"
+  - id: times-up-title-recall
+    name: "Time's Up! Title Recall!"
     year: 2008
     bgg_rank: 696
-  - name: "Colosseum"
+  - id: colosseum
+    name: "Colosseum"
     year: 2007
     bgg_rank: 697
-  - name: "Dice Throne: Season One"
+  - id: dice-throne-season-one
+    name: "Dice Throne: Season One"
     year: 2018
     bgg_rank: 698
-  - name: "Queendomino"
+  - id: queendomino
+    name: "Queendomino"
     year: 2017
     bgg_rank: 699
-  - name: "Star Trek: Ascendancy"
+  - id: star-trek-ascendancy
+    name: "Star Trek: Ascendancy"
     year: 2016
     bgg_rank: 700
 
   # 701-800
-  - name: "Weather Machine"
+  - id: weather-machine
+    name: "Weather Machine"
     year: 2022
     bgg_rank: 701
-  - name: "HeroQuest"
+  - id: heroquest
+    name: "HeroQuest"
     year: 1989
     bgg_rank: 702
-  - name: "Pathfinder Adventure Card Game: Rise of the Runelords – Base Set"
+  - id: pathfinder-adventure-card-game-rise-of-the-runelords-base-set
+    name: "Pathfinder Adventure Card Game: Rise of the Runelords – Base Set"
     year: 2013
     bgg_rank: 703
-  - name: "Tobago"
+  - id: tobago
+    name: "Tobago"
     year: 2009
     bgg_rank: 704
-  - name: "Triumph & Tragedy: European Balance of Power 1936-1945"
+  - id: triumph-and-tragedy-european-balance-of-power-1936-1945
+    name: "Triumph & Tragedy: European Balance of Power 1936-1945"
     year: 2015
     bgg_rank: 705
-  - name: "Unlock!: Heroic Adventures"
+  - id: unlock-heroic-adventures
+    name: "Unlock!: Heroic Adventures"
     year: 2018
     bgg_rank: 706
-  - name: "Mille Fiori"
+  - id: mille-fiori
+    name: "Mille Fiori"
     year: 2021
     bgg_rank: 707
-  - name: "Coup"
+  - id: coup
+    name: "Coup"
     year: 2012
     bgg_rank: 708
-  - name: "Vinhos"
+  - id: vinhos
+    name: "Vinhos"
     year: 2010
     bgg_rank: 709
-  - name: "Egizia"
+  - id: egizia
+    name: "Egizia"
     year: 2009
     bgg_rank: 710
-  - name: "Medici"
+  - id: medici
+    name: "Medici"
     year: 1995
     bgg_rank: 711
-  - name: "AquaSphere"
+  - id: aquasphere
+    name: "AquaSphere"
     year: 2014
     bgg_rank: 712
-  - name: "First Rat"
+  - id: first-rat
+    name: "First Rat"
     year: 2022
     bgg_rank: 713
-  - name: "Roads & Boats"
+  - id: roads-and-boats
+    name: "Roads & Boats"
     year: 1999
     bgg_rank: 714
-  - name: "Pax Porfiriana"
+  - id: pax-porfiriana
+    name: "Pax Porfiriana"
     year: 2012
     bgg_rank: 715
-  - name: "Cooper Island"
+  - id: cooper-island
+    name: "Cooper Island"
     year: 2019
     bgg_rank: 716
-  - name: "Brian Boru: High King of Ireland"
+  - id: brian-boru-high-king-of-ireland
+    name: "Brian Boru: High King of Ireland"
     year: 2021
     bgg_rank: 717
-  - name: "Shards of Infinity"
+  - id: shards-of-infinity
+    name: "Shards of Infinity"
     year: 2018
     bgg_rank: 718
-  - name: "Cuba Libre"
+  - id: cuba-libre
+    name: "Cuba Libre"
     year: 2013
     bgg_rank: 719
-  - name: "Kingdom Legacy: Feudal Kingdom"
+  - id: kingdom-legacy-feudal-kingdom
+    name: "Kingdom Legacy: Feudal Kingdom"
     year: 2024
     bgg_rank: 720
-  - name: "Coloretto"
+  - id: coloretto
+    name: "Coloretto"
     year: 2003
     bgg_rank: 721
-  - name: "Three Sisters"
+  - id: three-sisters
+    name: "Three Sisters"
     year: 2022
     bgg_rank: 722
-  - name: "Federation"
+  - id: federation
+    name: "Federation"
     year: 2022
     bgg_rank: 723
-  - name: "Beer & Bread"
+  - id: beer-and-bread
+    name: "Beer & Bread"
     year: 2022
     bgg_rank: 724
-  - name: "The Colonists"
+  - id: the-colonists
+    name: "The Colonists"
     year: 2016
     bgg_rank: 725
-  - name: "Golem"
+  - id: golem
+    name: "Golem"
     year: 2021
     bgg_rank: 726
-  - name: "Paperback"
+  - id: paperback
+    name: "Paperback"
     year: 2014
     bgg_rank: 727
-  - name: "Shikoku 1889"
+  - id: shikoku-1889
+    name: "Shikoku 1889"
     year: 2004
     bgg_rank: 728
-  - name: "Azul: Master Chocolatier"
+  - id: azul-master-chocolatier
+    name: "Azul: Master Chocolatier"
     year: 2022
     bgg_rank: 729
-  - name: "Whitehall Mystery"
+  - id: whitehall-mystery
+    name: "Whitehall Mystery"
     year: 2017
     bgg_rank: 730
-  - name: "Undaunted: Stalingrad"
+  - id: undaunted-stalingrad
+    name: "Undaunted: Stalingrad"
     year: 2022
     bgg_rank: 731
-  - name: "Automobile"
+  - id: automobile
+    name: "Automobile"
     year: 2009
     bgg_rank: 732
-  - name: "Struggle of Empires"
+  - id: struggle-of-empires
+    name: "Struggle of Empires"
     year: 2004
     bgg_rank: 733
-  - name: "Mosaic: A Story of Civilization"
+  - id: mosaic-a-story-of-civilization
+    name: "Mosaic: A Story of Civilization"
     year: 2022
     bgg_rank: 734
-  - name: "Yellow & Yangtze"
+  - id: yellow-and-yangtze
+    name: "Yellow & Yangtze"
     year: 2018
     bgg_rank: 735
-  - name: "Zombicide: Green Horde"
+  - id: zombicide-green-horde
+    name: "Zombicide: Green Horde"
     year: 2018
     bgg_rank: 736
-  - name: "Silver & Gold"
+  - id: silver-and-gold
+    name: "Silver & Gold"
     year: 2019
     bgg_rank: 737
-  - name: "The 7th Citadel"
+  - id: the-7th-citadel
+    name: "The 7th Citadel"
     year: 2024
     bgg_rank: 738
-  - name: "Wandering Towers"
+  - id: wandering-towers
+    name: "Wandering Towers"
     year: 2022
     bgg_rank: 739
-  - name: "Telestrations: 12 Player Party Pack"
+  - id: telestrations-12-player-party-pack
+    name: "Telestrations: 12 Player Party Pack"
     year: 2011
     bgg_rank: 740
-  - name: "BattleCON: Devastation of Indines"
+  - id: battlecon-devastation-of-indines
+    name: "BattleCON: Devastation of Indines"
     year: 2013
     bgg_rank: 741
-  - name: "Francis Drake"
+  - id: francis-drake
+    name: "Francis Drake"
     year: 2013
     bgg_rank: 742
-  - name: "Thebes"
+  - id: thebes
+    name: "Thebes"
     year: 2007
     bgg_rank: 743
-  - name: "Star Wars: The Clone Wars"
+  - id: star-wars-the-clone-wars
+    name: "Star Wars: The Clone Wars"
     year: 2022
     bgg_rank: 744
-  - name: "A Fake Artist Goes to New York"
+  - id: a-fake-artist-goes-to-new-york
+    name: "A Fake Artist Goes to New York"
     year: 2011
     bgg_rank: 745
-  - name: "Zombicide"
+  - id: zombicide
+    name: "Zombicide"
     year: 2012
     bgg_rank: 746
-  - name: "Cribbage"
+  - id: cribbage
+    name: "Cribbage"
     year: 1630
     bgg_rank: 747
-  - name: "A Game of Thrones"
+  - id: a-game-of-thrones
+    name: "A Game of Thrones"
     year: 2003
     bgg_rank: 748
-  - name: "Compile: Main 1"
+  - id: compile-main-1
+    name: "Compile: Main 1"
     year: 2024
     bgg_rank: 749
-  - name: "Nemesis: Retaliation"
+  - id: nemesis-retaliation
+    name: "Nemesis: Retaliation"
     year: 2025
     bgg_rank: 750
-  - name: "Living Forest"
+  - id: living-forest
+    name: "Living Forest"
     year: 2021
     bgg_rank: 751
-  - name: "Carson City"
+  - id: carson-city
+    name: "Carson City"
     year: 2009
     bgg_rank: 752
-  - name: "Conan"
+  - id: conan
+    name: "Conan"
     year: 2016
     bgg_rank: 753
-  - name: "The Downfall of Pompeii"
+  - id: the-downfall-of-pompeii
+    name: "The Downfall of Pompeii"
     year: 2004
     bgg_rank: 754
-  - name: "Formula D"
+  - id: formula-d
+    name: "Formula D"
     year: 2008
     bgg_rank: 755
-  - name: "Quantum"
+  - id: quantum
+    name: "Quantum"
     year: 2013
     bgg_rank: 756
-  - name: "The Battle of Five Armies"
+  - id: the-battle-of-five-armies
+    name: "The Battle of Five Armies"
     year: 2014
     bgg_rank: 757
-  - name: "Merv: The Heart of the Silk Road"
+  - id: merv-the-heart-of-the-silk-road
+    name: "Merv: The Heart of the Silk Road"
     year: 2020
     bgg_rank: 758
-  - name: "Betrayal at House on the Hill"
+  - id: betrayal-at-house-on-the-hill
+    name: "Betrayal at House on the Hill"
     year: 2004
     bgg_rank: 759
-  - name: "Evolution"
+  - id: evolution
+    name: "Evolution"
     year: 2014
     bgg_rank: 760
-  - name: "Between Two Castles of Mad King Ludwig"
+  - id: between-two-castles-of-mad-king-ludwig
+    name: "Between Two Castles of Mad King Ludwig"
     year: 2018
     bgg_rank: 761
-  - name: "Gears of War: The Board Game"
+  - id: gears-of-war-the-board-game
+    name: "Gears of War: The Board Game"
     year: 2011
     bgg_rank: 762
-  - name: "Verdant"
+  - id: verdant
+    name: "Verdant"
     year: 2022
     bgg_rank: 763
-  - name: "Dominant Species: Marine"
+  - id: dominant-species-marine
+    name: "Dominant Species: Marine"
     year: 2021
     bgg_rank: 764
-  - name: "Bloodborne: The Board Game"
+  - id: bloodborne-the-board-game
+    name: "Bloodborne: The Board Game"
     year: 2021
     bgg_rank: 765
-  - name: "Can't Stop"
+  - id: cant-stop
+    name: "Can't Stop"
     year: 1980
     bgg_rank: 766
-  - name: "Time's Up!"
+  - id: times-up
+    name: "Time's Up!"
     year: 1999
     bgg_rank: 767
-  - name: "Cacao"
+  - id: cacao
+    name: "Cacao"
     year: 2015
     bgg_rank: 768
-  - name: "Taluva"
+  - id: taluva
+    name: "Taluva"
     year: 2006
     bgg_rank: 769
-  - name: "Kingdom Builder"
+  - id: kingdom-builder
+    name: "Kingdom Builder"
     year: 2011
     bgg_rank: 770
-  - name: "Hammer of the Scots"
+  - id: hammer-of-the-scots
+    name: "Hammer of the Scots"
     year: 2002
     bgg_rank: 771
-  - name: "Speakeasy"
+  - id: speakeasy
+    name: "Speakeasy"
     year: 2025
     bgg_rank: 772
-  - name: "The Adventures of Robin Hood"
+  - id: the-adventures-of-robin-hood
+    name: "The Adventures of Robin Hood"
     year: 2021
     bgg_rank: 773
-  - name: "A Game of Thrones: The Card Game (Second Edition)"
+  - id: a-game-of-thrones-the-card-game-second-edition
+    name: "A Game of Thrones: The Card Game (Second Edition)"
     year: 2015
     bgg_rank: 774
-  - name: "Civilization: A New Dawn"
+  - id: civilization-a-new-dawn
+    name: "Civilization: A New Dawn"
     year: 2017
     bgg_rank: 775
-  - name: "Mare Nostrum: Empires"
+  - id: mare-nostrum-empires
+    name: "Mare Nostrum: Empires"
     year: 2016
     bgg_rank: 776
-  - name: "Trails of Tucana"
+  - id: trails-of-tucana
+    name: "Trails of Tucana"
     year: 2019
     bgg_rank: 777
-  - name: "Magic Maze"
+  - id: magic-maze
+    name: "Magic Maze"
     year: 2017
     bgg_rank: 778
-  - name: "Elder Sign"
+  - id: elder-sign
+    name: "Elder Sign"
     year: 2011
     bgg_rank: 779
-  - name: "Lord of the Rings: The Confrontation (2002)"
+  - id: lord-of-the-rings-the-confrontation-2002
+    name: "Lord of the Rings: The Confrontation (2002)"
     year: 2002
     bgg_rank: 780
-  - name: "Disney Villainous: Wicked to the Core"
+  - id: disney-villainous-wicked-to-the-core
+    name: "Disney Villainous: Wicked to the Core"
     year: 2019
     bgg_rank: 781
-  - name: "Skyrise"
+  - id: skyrise
+    name: "Skyrise"
     year: 2024
     bgg_rank: 782
-  - name: "Inventions: Evolution of Ideas"
+  - id: inventions-evolution-of-ideas
+    name: "Inventions: Evolution of Ideas"
     year: 2024
     bgg_rank: 783
-  - name: "Chronicles of Crime: 1400"
+  - id: chronicles-of-crime-1400
+    name: "Chronicles of Crime: 1400"
     year: 2020
     bgg_rank: 784
-  - name: "Railroad Ink Challenge: Lush Green Edition"
+  - id: railroad-ink-challenge-lush-green-edition
+    name: "Railroad Ink Challenge: Lush Green Edition"
     year: 2021
     bgg_rank: 785
-  - name: "Windmill Valley"
+  - id: windmill-valley
+    name: "Windmill Valley"
     year: 2024
     bgg_rank: 786
-  - name: "Twilight Inscription"
+  - id: twilight-inscription
+    name: "Twilight Inscription"
     year: 2022
     bgg_rank: 787
-  - name: "Sub Terra"
+  - id: sub-terra
+    name: "Sub Terra"
     year: 2017
     bgg_rank: 788
-  - name: "Star Wars: Destiny"
+  - id: star-wars-destiny
+    name: "Star Wars: Destiny"
     year: 2016
     bgg_rank: 789
-  - name: "The Bloody Inn"
+  - id: the-bloody-inn
+    name: "The Bloody Inn"
     year: 2015
     bgg_rank: 790
-  - name: "Blood Bowl (2016 Edition)"
+  - id: blood-bowl-2016-edition
+    name: "Blood Bowl (2016 Edition)"
     year: 2016
     bgg_rank: 791
-  - name: "Top Ten"
+  - id: top-ten
+    name: "Top Ten"
     year: 2020
     bgg_rank: 792
-  - name: "Photosynthesis"
+  - id: photosynthesis
+    name: "Photosynthesis"
     year: 2017
     bgg_rank: 793
-  - name: "Mr. Jack"
+  - id: mr-jack
+    name: "Mr. Jack"
     year: 2006
     bgg_rank: 794
-  - name: "One Night Ultimate Werewolf: Daybreak"
+  - id: one-night-ultimate-werewolf-daybreak
+    name: "One Night Ultimate Werewolf: Daybreak"
     year: 2015
     bgg_rank: 795
-  - name: "Feudum"
+  - id: feudum
+    name: "Feudum"
     year: 2018
     bgg_rank: 796
-  - name: "Babylonia"
+  - id: babylonia
+    name: "Babylonia"
     year: 2019
     bgg_rank: 797
-  - name: "Zoo Vadis"
+  - id: zoo-vadis
+    name: "Zoo Vadis"
     year: 2023
     bgg_rank: 798
-  - name: "Ticket to Ride: Rails & Sails"
+  - id: ticket-to-ride-rails-and-sails
+    name: "Ticket to Ride: Rails & Sails"
     year: 2016
     bgg_rank: 799
-  - name: "Trains"
+  - id: trains
+    name: "Trains"
     year: 2012
     bgg_rank: 800
 
   # 801-900
-  - name: "Caesar!: Seize Rome in 20 Minutes!"
+  - id: caesar-seize-rome-in-20-minutes
+    name: "Caesar!: Seize Rome in 20 Minutes!"
     year: 2021
     bgg_rank: 801
-  - name: "Fort"
+  - id: fort
+    name: "Fort"
     year: 2020
     bgg_rank: 802
-  - name: "Churchill"
+  - id: churchill
+    name: "Churchill"
     year: 2015
     bgg_rank: 803
-  - name: "7 Wonders: Architects"
+  - id: 7-wonders-architects
+    name: "7 Wonders: Architects"
     year: 2021
     bgg_rank: 804
-  - name: "Moonrakers"
+  - id: moonrakers
+    name: "Moonrakers"
     year: 2020
     bgg_rank: 805
-  - name: "Stationfall"
+  - id: stationfall
+    name: "Stationfall"
     year: 2023
     bgg_rank: 806
-  - name: "Unlock!: Timeless Adventures"
+  - id: unlock-timeless-adventures
+    name: "Unlock!: Timeless Adventures"
     year: 2019
     bgg_rank: 807
-  - name: "Ascension: Deckbuilding Game"
+  - id: ascension-deckbuilding-game
+    name: "Ascension: Deckbuilding Game"
     year: 2010
     bgg_rank: 808
-  - name: "The Magnificent"
+  - id: the-magnificent
+    name: "The Magnificent"
     year: 2019
     bgg_rank: 809
-  - name: "The Oracle of Delphi"
+  - id: the-oracle-of-delphi
+    name: "The Oracle of Delphi"
     year: 2016
     bgg_rank: 810
-  - name: "The Republic of Rome"
+  - id: the-republic-of-rome
+    name: "The Republic of Rome"
     year: 1990
     bgg_rank: 811
-  - name: "Mexica"
+  - id: mexica
+    name: "Mexica"
     year: 2002
     bgg_rank: 812
-  - name: "River of Gold"
+  - id: river-of-gold
+    name: "River of Gold"
     year: 2024
     bgg_rank: 813
-  - name: "Roll Player Adventures"
+  - id: roll-player-adventures
+    name: "Roll Player Adventures"
     year: 2021
     bgg_rank: 814
-  - name: "Escape: The Curse of the Temple"
+  - id: escape-the-curse-of-the-temple
+    name: "Escape: The Curse of the Temple"
     year: 2012
     bgg_rank: 815
-  - name: "Disney Villainous: Evil Comes Prepared"
+  - id: disney-villainous-evil-comes-prepared
+    name: "Disney Villainous: Evil Comes Prepared"
     year: 2019
     bgg_rank: 816
-  - name: "Whistle Mountain"
+  - id: whistle-mountain
+    name: "Whistle Mountain"
     year: 2020
     bgg_rank: 817
-  - name: "The Estates"
+  - id: the-estates
+    name: "The Estates"
     year: 2018
     bgg_rank: 818
-  - name: "Pax Renaissance"
+  - id: pax-renaissance
+    name: "Pax Renaissance"
     year: 2016
     bgg_rank: 819
-  - name: "Treasure Island"
+  - id: treasure-island
+    name: "Treasure Island"
     year: 2018
     bgg_rank: 820
-  - name: "Torres"
+  - id: torres
+    name: "Torres"
     year: 1999
     bgg_rank: 821
-  - name: "Shakespeare"
+  - id: shakespeare
+    name: "Shakespeare"
     year: 2015
     bgg_rank: 822
-  - name: "The Shipwreck Arcana"
+  - id: the-shipwreck-arcana
+    name: "The Shipwreck Arcana"
     year: 2017
     bgg_rank: 823
-  - name: "AuZtralia"
+  - id: auztralia
+    name: "AuZtralia"
     year: 2018
     bgg_rank: 824
-  - name: "Cyclades: Legendary Edition"
+  - id: cyclades-legendary-edition
+    name: "Cyclades: Legendary Edition"
     year: 2024
     bgg_rank: 825
-  - name: "Maquis"
+  - id: maquis
+    name: "Maquis"
     year: 2013
     bgg_rank: 826
-  - name: "Oh My Goods!"
+  - id: oh-my-goods
+    name: "Oh My Goods!"
     year: 2015
     bgg_rank: 827
-  - name: "Snowdonia"
+  - id: snowdonia
+    name: "Snowdonia"
     year: 2012
     bgg_rank: 828
-  - name: "Tokaido"
+  - id: tokaido
+    name: "Tokaido"
     year: 2012
     bgg_rank: 829
-  - name: "Summoner Wars"
+  - id: summoner-wars
+    name: "Summoner Wars"
     year: 2009
     bgg_rank: 830
-  - name: "Cuba"
+  - id: cuba
+    name: "Cuba"
     year: 2007
     bgg_rank: 831
-  - name: "Tiny Epic Dungeons"
+  - id: tiny-epic-dungeons
+    name: "Tiny Epic Dungeons"
     year: 2021
     bgg_rank: 832
-  - name: "Space Hulk: Death Angel – The Card Game"
+  - id: space-hulk-death-angel-the-card-game
+    name: "Space Hulk: Death Angel – The Card Game"
     year: 2010
     bgg_rank: 833
-  - name: "Witchstone"
+  - id: witchstone
+    name: "Witchstone"
     year: 2021
     bgg_rank: 834
-  - name: "Ashes Reborn: Rise of the Phoenixborn"
+  - id: ashes-reborn-rise-of-the-phoenixborn
+    name: "Ashes Reborn: Rise of the Phoenixborn"
     year: 2015
     bgg_rank: 835
-  - name: "Belfort"
+  - id: belfort
+    name: "Belfort"
     year: 2011
     bgg_rank: 836
-  - name: "Chicago 1875: City of the Big Shoulders"
+  - id: chicago-1875-city-of-the-big-shoulders
+    name: "Chicago 1875: City of the Big Shoulders"
     year: 2019
     bgg_rank: 837
-  - name: "D-Day at Omaha Beach"
+  - id: d-day-at-omaha-beach
+    name: "D-Day at Omaha Beach"
     year: 2009
     bgg_rank: 838
-  - name: "Star Wars: X-Wing Miniatures Game – The Force Awakens Core Set"
+  - id: star-wars-x-wing-miniatures-game-the-force-awakens-core-set
+    name: "Star Wars: X-Wing Miniatures Game – The Force Awakens Core Set"
     year: 2015
     bgg_rank: 839
-  - name: "Onirim (Second Edition)"
+  - id: onirim-second-edition
+    name: "Onirim (Second Edition)"
     year: 2014
     bgg_rank: 840
-  - name: "Carcassonne: The Castle"
+  - id: carcassonne-the-castle
+    name: "Carcassonne: The Castle"
     year: 2003
     bgg_rank: 841
-  - name: "Yamataï"
+  - id: yamatai
+    name: "Yamataï"
     year: 2017
     bgg_rank: 842
-  - name: "KeyForge: Call of the Archons"
+  - id: keyforge-call-of-the-archons
+    name: "KeyForge: Call of the Archons"
     year: 2018
     bgg_rank: 843
-  - name: "Love Letter: Batman"
+  - id: love-letter-batman
+    name: "Love Letter: Batman"
     year: 2015
     bgg_rank: 844
-  - name: "Luna"
+  - id: luna
+    name: "Luna"
     year: 2010
     bgg_rank: 845
-  - name: "Smart10"
+  - id: smart10
+    name: "Smart10"
     year: 2017
     bgg_rank: 846
-  - name: "Arkwright"
+  - id: arkwright
+    name: "Arkwright"
     year: 2014
     bgg_rank: 847
-  - name: "Crystal Palace"
+  - id: crystal-palace
+    name: "Crystal Palace"
     year: 2019
     bgg_rank: 848
-  - name: "Century: A New World"
+  - id: century-a-new-world
+    name: "Century: A New World"
     year: 2019
     bgg_rank: 849
-  - name: "Messina 1347"
+  - id: messina-1347
+    name: "Messina 1347"
     year: 2021
     bgg_rank: 850
-  - name: "Wits & Wagers"
+  - id: wits-and-wagers
+    name: "Wits & Wagers"
     year: 2005
     bgg_rank: 851
-  - name: "EXIT: The Game – The Pharaoh's Tomb"
+  - id: exit-the-game-the-pharaohs-tomb
+    name: "EXIT: The Game – The Pharaoh's Tomb"
     year: 2016
     bgg_rank: 852
-  - name: "Myrmes"
+  - id: myrmes
+    name: "Myrmes"
     year: 2012
     bgg_rank: 853
-  - name: "Menara"
+  - id: menara
+    name: "Menara"
     year: 2018
     bgg_rank: 854
-  - name: "Evergreen"
+  - id: evergreen
+    name: "Evergreen"
     year: 2022
     bgg_rank: 855
-  - name: "Tash-Kalar: Arena of Legends"
+  - id: tash-kalar-arena-of-legends
+    name: "Tash-Kalar: Arena of Legends"
     year: 2013
     bgg_rank: 856
-  - name: "Perudo"
+  - id: perudo
+    name: "Perudo"
     year: 1800
     bgg_rank: 857
-  - name: "Trismegistus: The Ultimate Formula"
+  - id: trismegistus-the-ultimate-formula
+    name: "Trismegistus: The Ultimate Formula"
     year: 2019
     bgg_rank: 858
-  - name: "BANG! The Dice Game"
+  - id: bang-the-dice-game
+    name: "BANG! The Dice Game"
     year: 2013
     bgg_rank: 859
-  - name: "Wir sind das Volk!"
+  - id: wir-sind-das-volk
+    name: "Wir sind das Volk!"
     year: 2014
     bgg_rank: 860
-  - name: "Wizard"
+  - id: wizard
+    name: "Wizard"
     year: 1984
     bgg_rank: 861
-  - name: "Guards of Atlantis II"
+  - id: guards-of-atlantis-ii
+    name: "Guards of Atlantis II"
     year: 2022
     bgg_rank: 862
-  - name: "Dixit: Journey"
+  - id: dixit-journey
+    name: "Dixit: Journey"
     year: 2012
     bgg_rank: 863
-  - name: "Detective Club"
+  - id: detective-club
+    name: "Detective Club"
     year: 2018
     bgg_rank: 864
-  - name: "Diplomacy"
+  - id: diplomacy
+    name: "Diplomacy"
     year: 1959
     bgg_rank: 865
-  - name: "Khôra: Rise of an Empire"
+  - id: khora-rise-of-an-empire
+    name: "Khôra: Rise of an Empire"
     year: 2021
     bgg_rank: 866
-  - name: "Smash Up: Awesome Level 9000"
+  - id: smash-up-awesome-level-9000
+    name: "Smash Up: Awesome Level 9000"
     year: 2013
     bgg_rank: 867
-  - name: "Fury of Dracula (Second Edition)"
+  - id: fury-of-dracula-second-edition
+    name: "Fury of Dracula (Second Edition)"
     year: 2005
     bgg_rank: 868
-  - name: "Dragon Castle"
+  - id: dragon-castle
+    name: "Dragon Castle"
     year: 2017
     bgg_rank: 869
-  - name: "Spicy"
+  - id: spicy
+    name: "Spicy"
     year: 2020
     bgg_rank: 870
-  - name: "Dogs of War"
+  - id: dogs-of-war
+    name: "Dogs of War"
     year: 2014
     bgg_rank: 871
-  - name: "Clever Cubed"
+  - id: clever-cubed
+    name: "Clever Cubed"
     year: 2020
     bgg_rank: 872
-  - name: "New Frontiers"
+  - id: new-frontiers
+    name: "New Frontiers"
     year: 2018
     bgg_rank: 873
-  - name: "Empire of the Sun: The Pacific War 1941-1945"
+  - id: empire-of-the-sun-the-pacific-war-1941-1945
+    name: "Empire of the Sun: The Pacific War 1941-1945"
     year: 2005
     bgg_rank: 874
-  - name: "Coal Baron"
+  - id: coal-baron
+    name: "Coal Baron"
     year: 2013
     bgg_rank: 875
-  - name: "K2"
+  - id: k2
+    name: "K2"
     year: 2010
     bgg_rank: 876
-  - name: "Century: Eastern Wonders"
+  - id: century-eastern-wonders
+    name: "Century: Eastern Wonders"
     year: 2018
     bgg_rank: 877
-  - name: "Between Two Cities"
+  - id: between-two-cities
+    name: "Between Two Cities"
     year: 2015
     bgg_rank: 878
-  - name: "Blokus"
+  - id: blokus
+    name: "Blokus"
     year: 2000
     bgg_rank: 879
-  - name: "Startups"
+  - id: startups
+    name: "Startups"
     year: 2017
     bgg_rank: 880
-  - name: "My Little Scythe"
+  - id: my-little-scythe
+    name: "My Little Scythe"
     year: 2018
     bgg_rank: 881
-  - name: "Finca"
+  - id: finca
+    name: "Finca"
     year: 2009
     bgg_rank: 882
-  - name: "Diamant"
+  - id: diamant
+    name: "Diamant"
     year: 2005
     bgg_rank: 883
-  - name: "Steampunk Rally"
+  - id: steampunk-rally
+    name: "Steampunk Rally"
     year: 2015
     bgg_rank: 884
-  - name: "Defenders of the Realm"
+  - id: defenders-of-the-realm
+    name: "Defenders of the Realm"
     year: 2010
     bgg_rank: 885
-  - name: "The Networks: Primetime"
+  - id: the-networks-primetime
+    name: "The Networks: Primetime"
     year: 2016
     bgg_rank: 886
-  - name: "Villagers"
+  - id: villagers
+    name: "Villagers"
     year: 2019
     bgg_rank: 887
-  - name: "Blue Lagoon"
+  - id: blue-lagoon
+    name: "Blue Lagoon"
     year: 2018
     bgg_rank: 888
-  - name: "Prêt-à-Porter"
+  - id: pret-a-porter
+    name: "Prêt-à-Porter"
     year: 2010
     bgg_rank: 889
-  - name: "Blue Moon City"
+  - id: blue-moon-city
+    name: "Blue Moon City"
     year: 2006
     bgg_rank: 890
-  - name: "Rhino Hero: Super Battle"
+  - id: rhino-hero-super-battle
+    name: "Rhino Hero: Super Battle"
     year: 2017
     bgg_rank: 891
-  - name: "Evacuation"
+  - id: evacuation
+    name: "Evacuation"
     year: 2023
     bgg_rank: 892
-  - name: "Marvel Zombies: A Zombicide Game"
+  - id: marvel-zombies-a-zombicide-game
+    name: "Marvel Zombies: A Zombicide Game"
     year: 2023
     bgg_rank: 893
-  - name: "Shadows of Brimstone: Swamps of Death"
+  - id: shadows-of-brimstone-swamps-of-death
+    name: "Shadows of Brimstone: Swamps of Death"
     year: 2014
     bgg_rank: 894
-  - name: "Warhammer Quest: The Adventure Card Game"
+  - id: warhammer-quest-the-adventure-card-game
+    name: "Warhammer Quest: The Adventure Card Game"
     year: 2015
     bgg_rank: 895
-  - name: "Specter Ops"
+  - id: specter-ops
+    name: "Specter Ops"
     year: 2015
     bgg_rank: 896
-  - name: "Ricochet Robots"
+  - id: ricochet-robots
+    name: "Ricochet Robots"
     year: 1999
     bgg_rank: 897
-  - name: "Paris: La Cité de la Lumière"
+  - id: paris-la-cite-de-la-lumiere
+    name: "Paris: La Cité de la Lumière"
     year: 2019
     bgg_rank: 898
-  - name: "Reef"
+  - id: reef
+    name: "Reef"
     year: 2018
     bgg_rank: 899
-  - name: "Circadians: First Light"
+  - id: circadians-first-light
+    name: "Circadians: First Light"
     year: 2019
     bgg_rank: 900
 
   # 901-1000
-  - name: "Tumblin' Dice"
+  - id: tumblin-dice
+    name: "Tumblin' Dice"
     year: 2004
     bgg_rank: 901
-  - name: "Leaving Earth"
+  - id: leaving-earth
+    name: "Leaving Earth"
     year: 2015
     bgg_rank: 902
-  - name: "A War of Whispers"
+  - id: a-war-of-whispers
+    name: "A War of Whispers"
     year: 2019
     bgg_rank: 903
-  - name: "Vegas Showdown"
+  - id: vegas-showdown
+    name: "Vegas Showdown"
     year: 2005
     bgg_rank: 904
-  - name: "Codex Naturalis"
+  - id: codex-naturalis
+    name: "Codex Naturalis"
     year: 2021
     bgg_rank: 905
-  - name: "ZhanGuo"
+  - id: zhanguo
+    name: "ZhanGuo"
     year: 2014
     bgg_rank: 906
-  - name: "Earth Reborn"
+  - id: earth-reborn
+    name: "Earth Reborn"
     year: 2010
     bgg_rank: 907
-  - name: "Yspahan"
+  - id: yspahan
+    name: "Yspahan"
     year: 2006
     bgg_rank: 908
-  - name: "Advanced Squad Leader: Starter Kit #1"
+  - id: advanced-squad-leader-starter-kit-1
+    name: "Advanced Squad Leader: Starter Kit #1"
     year: 2004
     bgg_rank: 909
-  - name: "New York Zoo"
+  - id: new-york-zoo
+    name: "New York Zoo"
     year: 2020
     bgg_rank: 910
-  - name: "Deep Sea Adventure"
+  - id: deep-sea-adventure
+    name: "Deep Sea Adventure"
     year: 2014
     bgg_rank: 911
-  - name: "Eminent Domain"
+  - id: eminent-domain
+    name: "Eminent Domain"
     year: 2011
     bgg_rank: 912
-  - name: "Sleeping Gods: Distant Skies"
+  - id: sleeping-gods-distant-skies
+    name: "Sleeping Gods: Distant Skies"
     year: 2023
     bgg_rank: 913
-  - name: "CO₂: Second Chance"
+  - id: co2-second-chance
+    name: "CO₂: Second Chance"
     year: 2018
     bgg_rank: 914
-  - name: "Santiago"
+  - id: santiago
+    name: "Santiago"
     year: 2003
     bgg_rank: 915
-  - name: "Zenith"
+  - id: zenith
+    name: "Zenith"
     year: 2025
     bgg_rank: 916
-  - name: "SpaceCorp: 2025-2300AD"
+  - id: spacecorp-2025-2300ad
+    name: "SpaceCorp: 2025-2300AD"
     year: 2018
     bgg_rank: 917
-  - name: "Hoplomachus: Victorum"
+  - id: hoplomachus-victorum
+    name: "Hoplomachus: Victorum"
     year: 2023
     bgg_rank: 918
-  - name: "The Pursuit of Happiness"
+  - id: the-pursuit-of-happiness
+    name: "The Pursuit of Happiness"
     year: 2015
     bgg_rank: 919
-  - name: "Everdell Farshore"
+  - id: everdell-farshore
+    name: "Everdell Farshore"
     year: 2023
     bgg_rank: 920
-  - name: "878 Vikings: Invasions of England"
+  - id: 878-vikings-invasions-of-england
+    name: "878 Vikings: Invasions of England"
     year: 2017
     bgg_rank: 921
-  - name: "Spots"
+  - id: spots
+    name: "Spots"
     year: 2022
     bgg_rank: 922
-  - name: "Railroad Ink: Blazing Red Edition"
+  - id: railroad-ink-blazing-red-edition
+    name: "Railroad Ink: Blazing Red Edition"
     year: 2018
     bgg_rank: 923
-  - name: "Caverna: Cave vs Cave"
+  - id: caverna-cave-vs-cave
+    name: "Caverna: Cave vs Cave"
     year: 2017
     bgg_rank: 924
-  - name: "Thunderstone Advance: Towers of Ruin"
+  - id: thunderstone-advance-towers-of-ruin
+    name: "Thunderstone Advance: Towers of Ruin"
     year: 2012
     bgg_rank: 925
-  - name: "Disney Villainous: The Worst Takes it All"
+  - id: disney-villainous-the-worst-takes-it-all
+    name: "Disney Villainous: The Worst Takes it All"
     year: 2018
     bgg_rank: 926
-  - name: "Middle-Earth Quest"
+  - id: middle-earth-quest
+    name: "Middle-Earth Quest"
     year: 2009
     bgg_rank: 927
-  - name: "Warhammer: Invasion"
+  - id: warhammer-invasion
+    name: "Warhammer: Invasion"
     year: 2009
     bgg_rank: 928
-  - name: "Lovecraft Letter"
+  - id: lovecraft-letter
+    name: "Lovecraft Letter"
     year: 2017
     bgg_rank: 929
-  - name: "Disney Villainous: Perfectly Wretched"
+  - id: disney-villainous-perfectly-wretched
+    name: "Disney Villainous: Perfectly Wretched"
     year: 2020
     bgg_rank: 930
-  - name: "Gloomhaven: Buttons & Bugs"
+  - id: gloomhaven-buttons-and-bugs
+    name: "Gloomhaven: Buttons & Bugs"
     year: 2024
     bgg_rank: 931
-  - name: "Kanagawa"
+  - id: kanagawa
+    name: "Kanagawa"
     year: 2016
     bgg_rank: 932
-  - name: "Wallenstein"
+  - id: wallenstein
+    name: "Wallenstein"
     year: 2002
     bgg_rank: 933
-  - name: "Unlock!: Epic Adventures"
+  - id: unlock-epic-adventures
+    name: "Unlock!: Epic Adventures"
     year: 2019
     bgg_rank: 934
-  - name: "Crown of Emara"
+  - id: crown-of-emara
+    name: "Crown of Emara"
     year: 2018
     bgg_rank: 935
-  - name: "Dice Hospital"
+  - id: dice-hospital
+    name: "Dice Hospital"
     year: 2018
     bgg_rank: 936
-  - name: "Ex Libris"
+  - id: ex-libris
+    name: "Ex Libris"
     year: 2017
     bgg_rank: 937
-  - name: "Abomination: The Heir of Frankenstein"
+  - id: abomination-the-heir-of-frankenstein
+    name: "Abomination: The Heir of Frankenstein"
     year: 2019
     bgg_rank: 938
-  - name: "Imperium: Horizons"
+  - id: imperium-horizons
+    name: "Imperium: Horizons"
     year: 2024
     bgg_rank: 939
-  - name: "Heroes of Land, Air & Sea"
+  - id: heroes-of-land-air-and-sea
+    name: "Heroes of Land, Air & Sea"
     year: 2018
     bgg_rank: 940
-  - name: "Raccoon Tycoon"
+  - id: raccoon-tycoon
+    name: "Raccoon Tycoon"
     year: 2018
     bgg_rank: 941
-  - name: "Red7"
+  - id: red7
+    name: "Red7"
     year: 2014
     bgg_rank: 942
-  - name: "Captain Flip"
+  - id: captain-flip
+    name: "Captain Flip"
     year: 2024
     bgg_rank: 943
-  - name: "Brazil: Imperial"
+  - id: brazil-imperial
+    name: "Brazil: Imperial"
     year: 2021
     bgg_rank: 944
-  - name: "Saint Petersburg (Second Edition)"
+  - id: saint-petersburg-second-edition
+    name: "Saint Petersburg (Second Edition)"
     year: 2014
     bgg_rank: 945
-  - name: "Imperial Steam"
+  - id: imperial-steam
+    name: "Imperial Steam"
     year: 2021
     bgg_rank: 946
-  - name: "Rats of Wistar"
+  - id: rats-of-wistar
+    name: "Rats of Wistar"
     year: 2023
     bgg_rank: 947
-  - name: "Luthier"
+  - id: luthier
+    name: "Luthier"
     year: 2025
     bgg_rank: 948
-  - name: "Black Sonata"
+  - id: black-sonata
+    name: "Black Sonata"
     year: 2017
     bgg_rank: 949
-  - name: "Primal: The Awakening"
+  - id: primal-the-awakening
+    name: "Primal: The Awakening"
     year: 2024
     bgg_rank: 950
-  - name: "EXIT: The Game – The Secret Lab"
+  - id: exit-the-game-the-secret-lab
+    name: "EXIT: The Game – The Secret Lab"
     year: 2016
     bgg_rank: 951
-  - name: "World Without End"
+  - id: world-without-end
+    name: "World Without End"
     year: 2009
     bgg_rank: 952
-  - name: "Last Bastion"
+  - id: last-bastion
+    name: "Last Bastion"
     year: 2019
     bgg_rank: 953
-  - name: "Unfair"
+  - id: unfair
+    name: "Unfair"
     year: 2017
     bgg_rank: 954
-  - name: "Not Alone"
+  - id: not-alone
+    name: "Not Alone"
     year: 2016
     bgg_rank: 955
-  - name: "Shipyard"
+  - id: shipyard
+    name: "Shipyard"
     year: 2009
     bgg_rank: 956
-  - name: "Challengers!"
+  - id: challengers
+    name: "Challengers!"
     year: 2022
     bgg_rank: 957
-  - name: "FUSE"
+  - id: fuse
+    name: "FUSE"
     year: 2015
     bgg_rank: 958
-  - name: "Merchants Cove"
+  - id: merchants-cove
+    name: "Merchants Cove"
     year: 2021
     bgg_rank: 959
-  - name: "Black Rose Wars: Rebirth"
+  - id: black-rose-wars-rebirth
+    name: "Black Rose Wars: Rebirth"
     year: 2023
     bgg_rank: 960
-  - name: "Space Hulk"
+  - id: space-hulk
+    name: "Space Hulk"
     year: 1989
     bgg_rank: 961
-  - name: "Clinic: Deluxe Edition"
+  - id: clinic-deluxe-edition
+    name: "Clinic: Deluxe Edition"
     year: 2019
     bgg_rank: 962
-  - name: "Fliptown"
+  - id: fliptown
+    name: "Fliptown"
     year: 2023
     bgg_rank: 963
-  - name: "Empires: Age of Discovery"
+  - id: empires-age-of-discovery
+    name: "Empires: Age of Discovery"
     year: 2015
     bgg_rank: 964
-  - name: "Battle for Rokugan"
+  - id: battle-for-rokugan
+    name: "Battle for Rokugan"
     year: 2017
     bgg_rank: 965
-  - name: "Star Wars: Battle of Hoth"
+  - id: star-wars-battle-of-hoth
+    name: "Star Wars: Battle of Hoth"
     year: 2025
     bgg_rank: 966
-  - name: "Gentes"
+  - id: gentes
+    name: "Gentes"
     year: 2017
     bgg_rank: 967
-  - name: "Super Motherload"
+  - id: super-motherload
+    name: "Super Motherload"
     year: 2015
     bgg_rank: 968
-  - name: "River Valley Glassworks"
+  - id: river-valley-glassworks
+    name: "River Valley Glassworks"
     year: 2024
     bgg_rank: 969
-  - name: "Vast: The Crystal Caverns"
+  - id: vast-the-crystal-caverns
+    name: "Vast: The Crystal Caverns"
     year: 2016
     bgg_rank: 970
-  - name: "Celestia"
+  - id: celestia
+    name: "Celestia"
     year: 2015
     bgg_rank: 971
-  - name: "Moon Colony Bloodbath"
+  - id: moon-colony-bloodbath
+    name: "Moon Colony Bloodbath"
     year: 2025
     bgg_rank: 972
-  - name: "Panamax"
+  - id: panamax
+    name: "Panamax"
     year: 2014
     bgg_rank: 973
-  - name: "Stardew Valley: The Board Game"
+  - id: stardew-valley-the-board-game
+    name: "Stardew Valley: The Board Game"
     year: 2021
     bgg_rank: 974
-  - name: "Hannibal & Hamilcar"
+  - id: hannibal-and-hamilcar
+    name: "Hannibal & Hamilcar"
     year: 2018
     bgg_rank: 975
-  - name: "Tammany Hall"
+  - id: tammany-hall
+    name: "Tammany Hall"
     year: 2007
     bgg_rank: 976
-  - name: "Las Vegas Royale"
+  - id: las-vegas-royale
+    name: "Las Vegas Royale"
     year: 2019
     bgg_rank: 977
-  - name: "Parade"
+  - id: parade
+    name: "Parade"
     year: 2007
     bgg_rank: 978
-  - name: "King of New York"
+  - id: king-of-new-york
+    name: "King of New York"
     year: 2014
     bgg_rank: 979
-  - name: "Letter Jam"
+  - id: letter-jam
+    name: "Letter Jam"
     year: 2019
     bgg_rank: 980
-  - name: "Dale of Merchants"
+  - id: dale-of-merchants
+    name: "Dale of Merchants"
     year: 2015
     bgg_rank: 981
-  - name: "Cry Havoc"
+  - id: cry-havoc
+    name: "Cry Havoc"
     year: 2016
     bgg_rank: 982
-  - name: "Morels"
+  - id: morels
+    name: "Morels"
     year: 2012
     bgg_rank: 983
-  - name: "Beast"
+  - id: beast
+    name: "Beast"
     year: 2023
     bgg_rank: 984
-  - name: "Qwixx"
+  - id: qwixx
+    name: "Qwixx"
     year: 2012
     bgg_rank: 985
-  - name: "Roam"
+  - id: roam
+    name: "Roam"
     year: 2019
     bgg_rank: 986
-  - name: "Ohanami"
+  - id: ohanami
+    name: "Ohanami"
     year: 2019
     bgg_rank: 987
-  - name: "Stella: Dixit Universe"
+  - id: stella-dixit-universe
+    name: "Stella: Dixit Universe"
     year: 2021
     bgg_rank: 988
-  - name: "Jambo"
+  - id: jambo
+    name: "Jambo"
     year: 2004
     bgg_rank: 989
-  - name: "Jekyll vs. Hyde"
+  - id: jekyll-vs-hyde
+    name: "Jekyll vs. Hyde"
     year: 2021
     bgg_rank: 990
-  - name: "Squad Leader"
+  - id: squad-leader
+    name: "Squad Leader"
     year: 1977
     bgg_rank: 991
-  - name: "Fugitive"
+  - id: fugitive
+    name: "Fugitive"
     year: 2017
     bgg_rank: 992
-  - name: "Cerebria: The Inside World"
+  - id: cerebria-the-inside-world
+    name: "Cerebria: The Inside World"
     year: 2018
     bgg_rank: 993
-  - name: "Dinosaur World"
+  - id: dinosaur-world
+    name: "Dinosaur World"
     year: 2021
     bgg_rank: 994
-  - name: "Werewords"
+  - id: werewords
+    name: "Werewords"
     year: 2017
     bgg_rank: 995
-  - name: "One Deck Dungeon"
+  - id: one-deck-dungeon
+    name: "One Deck Dungeon"
     year: 2016
     bgg_rank: 996
-  - name: "Dungeons & Dragons: The Legend of Drizzt Board Game"
+  - id: dungeons-and-dragons-the-legend-of-drizzt-board-game
+    name: "Dungeons & Dragons: The Legend of Drizzt Board Game"
     year: 2011
     bgg_rank: 997
-  - name: "Coffee Roaster"
+  - id: coffee-roaster
+    name: "Coffee Roaster"
     year: 2015
     bgg_rank: 998
-  - name: "Mahjong"
+  - id: mahjong
+    name: "Mahjong"
     year: 1850
     bgg_rank: 999
-  - name: "Black Angel"
+  - id: black-angel
+    name: "Black Angel"
     year: 2019
     bgg_rank: 1000

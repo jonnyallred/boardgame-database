@@ -85,6 +85,19 @@ Full rating system implemented:
 
 ---
 
+## Session 3 - Progress Tracking System
+
+**Date:** February 2026
+
+### What Was Accomplished
+
+- Added `id` slugs to all 1,000 entries in `master_list.yaml` (links entries to `games/` files)
+- Created `scripts/progress.py` — shows completion stats and next games to work on
+- Created `/progress` Claude Code skill as a quick shorthand
+- Migration script: `scripts/generate_master_ids.py` (kept for reference)
+
+---
+
 ## TODO - Future Sessions
 
 ### High Priority
@@ -130,7 +143,7 @@ Full rating system implemented:
 ---
 
 ## File Counts
-- `master_list.yaml`: 1,000 games
+- `master_list.yaml`: 1,000 games (all with `id` slugs)
 - `games/*.yaml`: 227 detailed entries
 - Total categories defined: 70+
 - Designer tags available: 28
