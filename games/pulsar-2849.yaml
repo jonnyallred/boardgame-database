@@ -1,0 +1,63 @@
+id: pulsar-2849
+name: "Pulsar 2849"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Drafting
+  - Engine Building
+  - Euro
+  - Space
+  - Sci-Fi
+  - Czech Games Edition
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Vladimír Suchý
+publisher:
+  - Czech Games Edition
+artist:
+  - Sören Meding
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  A dice-drafting Euro set in deep space where players explore pulsars,
+  develop technologies, and build gyrodyne systems. The clever dice
+  selection mechanism forces trade-offs between powerful dice and turn
+  order position. Multiple paths to victory through exploration, tech
+  trees, and pulsar management create a satisfying strategic puzzle.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,67 @@
+id: dinosaur-island
+name: "Dinosaur Island"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Set Collection
+  - Tile Placement
+  - Engine Building
+  - Euro
+  - Sci-Fi
+  - Animals
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3]
+
+# Metadata
+designer:
+  - Jonathan Gilmour
+  - Brian Lewis
+publisher:
+  - Pandasaurus Games
+artist:
+  - Kwanchai Moriya
+  - Peter Wocken
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 8
+
+# Description
+description: |
+  Collect DNA, research extinct dinosaur species, and bring prehistoric
+  creatures back to life to build the ultimate Jurassic theme park.
+  Manage workers across research, the market, and your park while
+  balancing excitement against security risks. Plot Twist cards alter
+  rules each game for high replayability. Features bold neon-soaked
+  1990s-inspired art.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

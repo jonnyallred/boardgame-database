@@ -1,0 +1,64 @@
+id: dice-throne-season-two-battle-chest
+name: "Dice Throne: Season Two – Battle Chest"
+year: 2018
+
+# Relationships
+game_family: dice-throne
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (20-40 min)
+rules_complexity: 1  # Elementary - easy to learn per character
+strategic_depth: 2  # Tactics - meaningful decisions each turn
+feel: 4  # Fierce - direct combat
+value: 3  # Splurge - lots of characters in the box
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Variable Setup
+  - Hand Management
+  - Ameritrash
+  - Fantasy
+  - Family
+  - Roxley Games
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Nate Chatellier
+  - Manny Trembley
+publisher:
+  - Roxley Games
+artist:
+  - Manny Trembley
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+# Description
+description: |
+  Choose a unique hero and battle opponents using custom dice, cards, and
+  special abilities in this accessible combat game. Each character plays
+  completely differently with unique dice faces, combo abilities, and
+  upgrade paths. The Battle Chest includes all six Season Two heroes for
+  maximum variety and replayability.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

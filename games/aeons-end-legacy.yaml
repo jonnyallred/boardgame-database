@@ -1,0 +1,65 @@
+id: aeons-end-legacy
+name: "Aeon's End: Legacy"
+year: 2019
+
+# Relationships
+game_family: aeons-end
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Deck Building
+  - Hand Management
+  - Legacy
+  - Campaign Mode
+  - Variable Setup
+  - Fantasy
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Kevin Riley
+  - Nick Little
+publisher:
+  - Indie Boards & Cards
+artist:
+  - Daniel Solis
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  The first legacy cooperative deck-building game, set in a post-apocalyptic
+  world where Breach Mages defend the last city of Gravehold against The
+  Nameless. Players build their decks over a multi-session campaign, making
+  permanent decisions that shape characters, abilities, and the story.
+  Features the series' signature mechanic of never shuffling your discard
+  pile, adding strategic control over card order.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

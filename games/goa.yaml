@@ -1,0 +1,64 @@
+id: goa
+name: "Goa"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Engine Building
+  - Resource Management
+  - Euro
+  - Historical
+  - Maritime
+  - Z-Man Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Rüdiger Dorn
+publisher:
+  - Lookout Games
+  - Z-Man Games
+artist:
+  - Oliver Freudenreich
+playtime_minutes: 83
+min_playtime: 75
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Set during the Portuguese colonial era, players develop their trade
+  colonies through a clever auction mechanism and action selection system.
+  Advance along five development tracks to unlock powerful abilities while
+  managing spice production, ships, and colonists. The unique auction
+  placement rules create tense bidding decisions every round.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

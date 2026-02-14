@@ -1,0 +1,62 @@
+id: fantasy-realms
+name: "Fantasy Realms"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Card Drafting
+  - Filler
+  - Family
+  - Fantasy
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Bruce Glassco
+publisher:
+  - WizKids
+artist:
+  - Anthony Cournoyer
+playtime_minutes: 20
+min_playtime: 20
+max_playtime: 20
+min_age: 14
+
+# Description
+description: |
+  Build the most powerful fantasy kingdom using just seven cards. Draw
+  and discard to assemble combos of armies, wizards, weather, and
+  artifacts, where every card modifies the scoring of others. The game
+  ends when ten cards fill the discard area. Deceptively simple rules
+  with deep combo potential and enormous replayability.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

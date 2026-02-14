@@ -1,0 +1,59 @@
+id: so-clover
+name: "So Clover!"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Word Play
+  - Party
+  - Family
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - "François Romain"
+publisher:
+  - Repos Production
+artist: []
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  A cooperative word-association party game where each player secretly
+  writes one-word clues connecting pairs of keywords on a clover-shaped
+  board. After removing the keyword cards, the team works together to
+  reconstruct which words belong where using only the written clues.
+  Recommended for the 2022 Spiel des Jahres.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

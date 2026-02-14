@@ -8,7 +8,7 @@ This is a **Board Game Database** - a curated collection of board games with det
 
 **Key Stats:**
 - `master_list.yaml`: 1,000 games from BoardGameGeek top rankings
-- `games/`: Individual YAML files (currently 227 detailed entries)
+- `games/`: Individual YAML files (currently 327 detailed entries)
 - `schema.yaml`: Complete data structure and validation rules
 
 ## Data Structure

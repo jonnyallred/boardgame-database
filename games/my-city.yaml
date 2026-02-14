@@ -1,0 +1,68 @@
+id: my-city
+name: "My City"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Legacy
+  - Campaign Mode
+  - Simultaneous Action
+  - Euro
+  - Family
+  - City Building
+  - Reiner Knizia
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - KOSMOS
+  - Thames & Kosmos
+artist:
+  - Michael Menzel
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  A family-friendly legacy game spanning 24 episodes where players develop
+  their personal city boards from pre-industrial beginnings through
+  industrialization. Each episode, cards are flipped and all players
+  simultaneously place the matching polyomino building tile onto their
+  boards, trying to cover rocks and maximize points while avoiding covering
+  trees. Choices carry forward between sessions as new rules and components
+  are introduced. Also includes a non-legacy mode for replay.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

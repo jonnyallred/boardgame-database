@@ -1,0 +1,71 @@
+id: dead-of-winter-a-crossroads-game
+name: "Dead of Winter: A Crossroads Game"
+year: 2014
+
+# Relationships
+game_family: dead-of-winter
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Traitor
+  - Dice Rolling
+  - Hand Management
+  - Action Points
+  - Press Your Luck
+  - Narrative Heavy
+  - Ameritrash
+  - Horror
+  - Zombies
+  - Survival
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Jonathan Gilmour
+  - Isaac Vega
+publisher:
+  - Plaid Hat Games
+artist:
+  - David Richards
+  - Fernanda Suarez
+  - Peter Wocken
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  A semi-cooperative survival game set in a zombie-infested colony where
+  players must work together to complete a shared objective while secretly
+  pursuing individual goals -- one of which may belong to a betrayer.
+  Crossroads cards trigger narrative events based on game conditions,
+  creating emergent storytelling moments. Features dice-driven actions,
+  resource scavenging, and tense social dynamics around trust and betrayal.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,72 @@
+id: nations
+name: "Nations"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Worker Placement
+  - Tableau Building
+  - Resource Management
+  - Engine Building
+  - Euro
+  - Historical
+  - Civilization
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - "Rustan Håkansson"
+  - "Nina Håkansson"
+  - "Einar Rosén"
+  - "Robert Rosén"
+publisher:
+  - Lautapelit.fi
+  - Asmodee
+artist:
+  - Ossi Hiekkala
+  - Jere Kasanen
+  - Paul Laane
+playtime_minutes: 120
+min_playtime: 40
+max_playtime: 200
+min_age: 14
+
+# Description
+description: |
+  Guide your nation from the ancient world through the onset of World War I
+  across four ages of civilization. Purchase progress cards representing
+  buildings, military units, colonies, advisors, and wonders from a shared
+  display, then deploy workers to activate them. Balance military strength,
+  stability, economic growth, and cultural achievements while competing for
+  resources. Features adjustable difficulty levels per player, allowing
+  mixed experience groups to compete fairly.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

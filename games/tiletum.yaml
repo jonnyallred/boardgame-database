@@ -1,0 +1,63 @@
+id: tiletum
+name: "Tiletum"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-100 min)
+rules_complexity: 3  # Advanced - interlocking systems
+strategic_depth: 3  # Strategy - long-term planning needed
+feel: 3  # Polite - competitive but indirect
+value: 2  # Fair price
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Resource Management
+  - Route Building
+  - Euro
+  - Historical
+  - Medieval
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Simone Luciani
+  - Daniele Tascini
+publisher:
+  - Board&Dice
+artist:
+  - Zbigniew Umgelter
+playtime_minutes: 80
+min_playtime: 60
+max_playtime: 100
+min_age: 14
+
+# Description
+description: |
+  Travel across Renaissance Europe as a merchant, drafting dice that
+  determine both the action you take and the resources you receive in
+  an elegant inverse relationship. Manage trade routes, fulfill contracts,
+  and build influence across cathedral cities. A crunchy Euro where every
+  die selection creates satisfying tradeoffs between actions and resources.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

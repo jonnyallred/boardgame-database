@@ -1,0 +1,60 @@
+id: klask
+name: "KLASK"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dexterity
+  - Real-time
+  - Family
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Mikkel Bertelsen
+publisher:
+  - Klask ApS
+  - Big Potato Games
+artist:
+  - Mikkel Bertelsen
+playtime_minutes: 10
+min_playtime: 10
+max_playtime: 10
+min_age: 8
+
+# Description
+description: |
+  A magnetic dexterity game often described as a tabletop mix of air hockey
+  and foosball. Players control magnetic strikers under the playing field
+  to push a ball into their opponent's goal while avoiding falling into
+  their own hole or picking up magnetic obstacles. Fast-paced, physical,
+  and immediately accessible.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

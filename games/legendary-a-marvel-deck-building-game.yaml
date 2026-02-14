@@ -1,0 +1,66 @@
+id: legendary-a-marvel-deck-building-game
+name: "Legendary: A Marvel Deck Building Game"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Cooperative
+  - Hand Management
+  - Variable Setup
+  - Ameritrash
+  - Superheroes
+  - Marvel
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3]
+
+# Metadata
+designer:
+  - Devin Low
+publisher:
+  - Upper Deck Entertainment
+artist:
+  - Julius Abrea
+  - Will Conrad
+  - Bien Flores
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  Assemble a team of Marvel heroes to take on an evil mastermind and
+  their villainous scheme. Players recruit heroes from a shared pool to
+  build increasingly powerful decks, generating combat strength to defeat
+  villains before the mastermind's plan succeeds. Semi-cooperative with
+  a shared loss condition but individual victory points. Highly expandable
+  with numerous expansions.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,62 @@
+id: kanban-drivers-edition
+name: "Kanban: Driver's Edition"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Dinner (90-150 min)
+rules_complexity: 4  # PhD - Lacerda-level complexity
+strategic_depth: 4  # Master Plan - deep interlocking systems
+feel: 3  # Polite - competitive but indirect
+value: 2  # Quality - premium components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Engine Building
+  - Euro
+  - Vital Lacerda
+  - Eagle-Gryphon Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Vital Lacerda
+publisher:
+  - Eagle-Gryphon Games
+artist:
+  - Ian O'Toole
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Manage an automobile factory by moving between departments to design cars,
+  source parts, assemble vehicles, and test them on the track. Sandra, the
+  factory manager, evaluates your performance in weekly meetings, rewarding
+  efficiency and punishing slack. A demanding Vital Lacerda euro that rewards
+  careful planning and optimization.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

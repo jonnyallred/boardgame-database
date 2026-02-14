@@ -1,0 +1,60 @@
+id: monikers
+name: "Monikers"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Party
+value: 1  # Bargain
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - No Math
+  - Teams
+  - Party
+  - Filler
+
+# Player counts
+possible_counts: [4, 5, 6, 7, 8, 9, 10, 11, 12, "12+"]
+true_counts: [6, 8]
+
+# Metadata
+designer:
+  - Alex Hague
+  - Justin Vickers
+publisher:
+  - Palm Court
+artist:
+  - Jason Boles
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 17
+
+# Description
+description: |
+  A party guessing game played over three increasingly restrictive rounds
+  using the same set of cards. In round one you can say anything, round two
+  allows only one word, and round three is charades only. The shared card
+  pool means inside jokes and callbacks build naturally across rounds.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

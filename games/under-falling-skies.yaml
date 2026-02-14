@@ -1,0 +1,63 @@
+id: under-falling-skies
+name: "Under Falling Skies"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Campaign Mode
+  - Sci-Fi
+  - Aliens
+  - Czech Games Edition
+
+# Player counts
+possible_counts: [1]
+true_counts: [1]
+
+# Metadata
+designer:
+  - "Tomáš Uhlíř"
+publisher:
+  - Czech Games Edition
+artist:
+  - "Petr Boháček"
+  - Kwanchai Moriya
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 12
+
+# Description
+description: |
+  A solo dice placement game where you defend a besieged city against an
+  alien invasion. Each turn, assign dice to action spaces in your underground
+  base to research technology, shoot down enemy ships, excavate new rooms,
+  or deploy robots. Higher-value dice give stronger effects but push enemies
+  closer faster. Features a multi-mission campaign with new cities,
+  motherships, and story elements.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

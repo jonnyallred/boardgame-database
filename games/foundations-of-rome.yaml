@@ -1,0 +1,61 @@
+id: foundations-of-rome
+name: "Foundations of Rome"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Tile Placement
+  - City Building
+  - Euro
+  - Ancient
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Emerson Matsuuchi
+publisher:
+  - Arcane Wonders
+artist:
+  - Michael Menzel
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 13
+
+# Description
+description: |
+  Build the ancient city of Rome by purchasing land deeds and constructing
+  impressive 3D buildings on a shared city grid. Score points for adjacency,
+  monuments, and civic buildings while competing for the most valuable plots.
+  The stunning table presence with miniature buildings rising from the board
+  makes every game a visual spectacle.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

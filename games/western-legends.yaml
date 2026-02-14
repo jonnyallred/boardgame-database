@@ -1,0 +1,64 @@
+id: western-legends
+name: "Western Legends"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Action Points
+  - Dice Rolling
+  - Resource Management
+  - Negotiation
+  - Ameritrash
+  - Western
+  - Historical
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4]
+
+# Metadata
+designer:
+  - "Hervé Lemaître"
+publisher:
+  - Kolossal Games
+artist:
+  - Roland MacDonald
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  An open-world sandbox adventure set in the American Wild West where
+  players take on the roles of historical figures like Wyatt Earp or
+  Billy the Kid. Earn legendary status through many paths: gamble at the
+  saloon, drive cattle, prospect for gold, rob the bank, fight bandits,
+  or enforce the law. Each turn consists of drawing poker cards and
+  taking three actions, with multiple viable strategies.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

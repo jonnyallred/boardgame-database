@@ -1,0 +1,65 @@
+id: nidavellir
+name: "Nidavellir"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Set Collection
+  - Drafting
+  - Simultaneous Action
+  - Euro
+  - Fantasy
+  - Mythology
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Serge Laget
+publisher:
+  - GRRRE Games
+  - Hachette Boardgames
+artist:
+  - Jean-Marie Minguez
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 45
+min_age: 10
+
+# Description
+description: |
+  Recruit dwarven warriors to build the mightiest battalion and defeat the
+  dragon Fafnir. Each round, players simultaneously bid coins on taverns
+  to draft dwarf cards across five classes, each with unique scoring methods.
+  Bidding zero lets you upgrade your other coins, creating an escalating
+  economy. Collect sets to recruit powerful heroes and dominate the final
+  scoring.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

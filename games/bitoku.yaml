@@ -1,0 +1,63 @@
+id: bitoku
+name: "Bitoku"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Hand Management
+  - Dice Rolling
+  - Resource Management
+  - Euro
+  - Mythology
+  - Nature
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Germán P. Millán
+publisher:
+  - Devir
+artist:
+  - Edu Valls
+playtime_minutes: 120
+min_playtime: 120
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Compete to become the next great spirit of the forest in this deeply
+  strategic Euro game steeped in Japanese mythology. Manage forest spirits
+  called Bitoku, guide pilgrims along sacred paths, and gather resources
+  from the woodland. Multiple interlocking systems of dice placement, card
+  play, and worker management create a rich strategic experience.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
