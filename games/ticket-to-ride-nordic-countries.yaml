@@ -1,0 +1,67 @@
+id: ticket-to-ride-nordic-countries
+name: "Ticket to Ride: Nordic Countries"
+year: 2007
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-60 min)
+rules_complexity: 1  # Elementary - basic instructions
+strategic_depth: 2  # Tactics - short-term route decisions
+feel: 4  # Fierce - tight map with blocking
+value: 2  # Fair Deal - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Route Building
+  - Set Collection
+  - Hand Management
+  - Trains
+  - Family
+  - Gateway
+  - Alan R. Moon
+  - Days of Wonder
+
+# Player counts
+possible_counts: [2, 3]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist:
+  - Cyrille Daujean
+  - Julien Delval
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  A standalone Ticket to Ride designed specifically for 2-3 players,
+  featuring a map of the Nordic countries (Denmark, Finland, Norway,
+  Sweden). Collect train cards to claim railway routes connecting cities
+  throughout Scandinavia. Incorporates tunnel routes and ferry routes
+  requiring locomotive cards, adding tactical depth. The smaller player
+  count creates a tighter, more competitive experience with increased
+  blocking opportunities compared to the base game.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

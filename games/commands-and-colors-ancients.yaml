@@ -1,0 +1,67 @@
+id: commands-and-colors-ancients
+name: "Commands & Colors: Ancients"
+year: 2006
+
+# Relationships
+game_family: commands-and-colors
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60 min)
+rules_complexity: 2  # Junior High - structured card-driven commands
+strategic_depth: 3  # Strategy - tactical positioning and hand management
+feel: 4  # Fierce - direct head-to-head combat
+value: 2  # Fair Deal - blocks and cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Dice Rolling
+  - Hex Map
+  - Modular Board
+  - Ancient
+  - War
+  - Historical
+  - Wargame
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Richard Borg
+publisher:
+  - GMT Games
+artist:
+  - Mark Simonitch
+  - Rodger B. MacGowan
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  An accessible tactical wargame covering ancient battles from 3000 BC to
+  400 AD, primarily the Punic Wars between Rome and Carthage. Command cards
+  create fog of war—cards are divided into sections (left flank, center,
+  right flank), troop types, and tactics, dictating which units activate
+  each turn. Includes 15 historical scenarios with accurate terrain and
+  force deployment. Combat uses dice with custom symbols. Winner of the
+  2006 Origins Award for Historical Board Game of the Year.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

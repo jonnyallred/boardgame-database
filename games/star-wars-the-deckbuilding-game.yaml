@@ -1,0 +1,65 @@
+id: star-wars-the-deckbuilding-game
+name: "Star Wars: The Deckbuilding Game"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary - basic deckbuilding
+strategic_depth: 2  # Tactics - short-term card selection
+feel: 4  # Fierce - direct head-to-head
+value: 2  # Fair Deal - quality cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Sci-Fi
+  - Space
+  - Fantasy Flight Games
+  - Asmodee
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Caleb Grace
+publisher:
+  - Fantasy Flight Games
+  - Asmodee
+artist:
+  - Jake Murray
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  A two-player head-to-head deckbuilding game pitting the Galactic Empire
+  against the Rebel Alliance. Begin with asymmetric starting decks and
+  strengthen them by acquiring cards from a shared galaxy row. Destroy
+  three of your opponent's bases to win. Features a Balance of the Force
+  tracker that grants additional card powers when controlled. Capital ships
+  absorb damage to protect bases. Inspired by Star Realms with a Star Wars
+  tug-of-war twist.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

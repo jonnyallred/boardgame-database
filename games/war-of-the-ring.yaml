@@ -1,0 +1,68 @@
+id: war-of-the-ring
+name: "War of the Ring"
+year: 2004
+
+# Relationships
+game_family: war-of-the-ring
+edition: "First Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (3+ hours)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 4  # Fierce - asymmetric head-to-head war
+value: 4  # Heirloom - premium production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Dice Rolling
+  - Hand Management
+  - 1 vs Many
+  - Narrative Heavy
+  - Lord of the Rings
+  - Fantasy
+  - Wargame
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Roberto Di Meglio
+  - Marco Maggi
+  - Francesco Nepitello
+publisher:
+  - Fantasy Flight Games
+artist:
+  - John Howe
+playtime_minutes: 180
+min_playtime: 150
+max_playtime: 240
+min_age: 12
+
+# Description
+description: |
+  The original first edition of the grand Lord of the Rings strategy game.
+  One player controls the Free Peoples, guiding the Fellowship to Mount Doom
+  while defending against Sauron. The other commands the Shadow armies.
+  Action dice drive gameplay, determining available actions each turn.
+  Brilliantly captures both the military struggle across Middle-earth and
+  the quest to destroy the One Ring. Event cards recreate iconic moments
+  from the books.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

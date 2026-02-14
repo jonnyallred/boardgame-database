@@ -1,0 +1,65 @@
+id: great-western-trail-argentina
+name: "Great Western Trail: Argentina"
+year: 2022
+
+# Relationships
+game_family: great-western-trail
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (75-150 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with minimal interaction
+value: 2  # Fair Deal - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Route Building
+  - Set Collection
+  - Economic
+  - Euro
+  - Historical
+  - Alexander Pfister
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Alexander Pfister
+publisher:
+  - eggertspiele
+artist:
+  - Chris Quilliams
+playtime_minutes: 100
+min_playtime: 75
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  A standalone game in the Great Western Trail family set in the Argentine
+  Pampas. Drive cattle across the plains to Buenos Aires' main train station.
+  Features the series' signature deck-building combined with point-to-point
+  movement and player board upgrades. Similar core gameplay to the original
+  with new twists including a rondel mechanism and strategic considerations
+  specific to the Argentine setting.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

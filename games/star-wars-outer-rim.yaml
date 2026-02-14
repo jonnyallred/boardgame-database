@@ -1,0 +1,69 @@
+id: star-wars-outer-rim
+name: "Star Wars: Outer Rim"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 2  # Junior High - structured steps
+strategic_depth: 2  # Tactics - short-term positioning
+feel: 3  # Polite - competitive sandbox
+value: 3  # Splurge - quality FFG production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Modular Board
+  - Trading
+  - Narrative Heavy
+  - Variable Setup
+  - Sci-Fi
+  - Space
+  - Ameritrash
+  - Fantasy Flight Games
+  - Corey Konieczka
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Corey Konieczka
+  - Tony Fanchi
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Borja Pindado Arribas
+  - Tiziano Baracchi
+playtime_minutes: 150
+min_playtime: 120
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  A thematic sandbox adventure in the Star Wars galaxy's lawless Outer Rim.
+  Play as iconic scoundrels—bounty hunters, smugglers, and mercenaries—racing
+  to earn 10 fame. Take on illegal cargo runs, hunt bounties, and navigate
+  faction relationships. Each turn involves planning, actions, and encounters
+  resolved through dice-based skill tests. Captures the feel of being a
+  scoundrel in the Star Wars universe.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

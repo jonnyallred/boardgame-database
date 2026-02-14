@@ -1,0 +1,67 @@
+id: captain-sonar
+name: "Captain Sonar"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (45-60 min)
+rules_complexity: 2  # Junior High - structured steps per role
+strategic_depth: 2  # Tactics - real-time decisions
+feel: 4  # Fierce - team vs team submarine warfare
+value: 2  # Fair Deal - screens and maps
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Teams
+  - Real-time
+  - Deduction
+  - Hidden Movement
+  - Simultaneous Action
+  - Ameritrash
+  - Maritime
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [6, 8]
+
+# Metadata
+designer:
+  - Roberto Fraga
+  - Yohan Lemonnier
+publisher:
+  - Matagot
+  - Asmodee
+artist:
+  - Ervin
+  - Sabrina Tobal
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  An intense team-based submarine warfare game. Two teams of up to 4 sit on
+  opposite sides of a divider. Each player takes a specific role—Captain,
+  First Mate, Radio Operator, or Engineer—working together to locate and
+  destroy the opposing submarine. Can be played turn-by-turn or in real-time
+  simultaneous mode for a chaotic, high-pressure experience. Best at 6-8
+  players with all roles filled.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
