@@ -8,41 +8,54 @@ Store box art images here with the naming convention: `Game Name (Year).jpg`
 - `Gloomhaven (2017).jpg`
 - `Twilight Imperium Fourth Edition (2017).jpg`
 
-## Official Image Sources
+## Image Sources
 
-Images should be obtained from official publisher sources. Here are the best places to find high-resolution box art:
+All images must come from official publisher sources with appropriate licensing for commercial use. Do NOT use BoardGameGeek or other user-uploaded images.
 
-### Publisher Websites / Press Kits
-| Game | Publisher | URL |
-|------|-----------|-----|
-| Brass: Birmingham | Roxley Games | https://roxley.com/products/brass-birmingham |
-| Ark Nova | Capstone Games | https://capstone-games.com/products/ark-nova |
-| Pandemic Legacy | Z-Man Games | https://www.zmangames.com/game/pandemic-legacy-season-1 |
-| Gloomhaven | Cephalofair Games | https://cephalofair.com/collections/gloomhaven |
-| Dune: Imperium | Dire Wolf Digital | https://www.direwolfdigital.com/dune-imperium/ |
-| Twilight Imperium | Fantasy Flight Games | https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/ |
-| Terraforming Mars | Stronghold Games | https://strongholdgames.com/our-games/terraforming-mars/ |
-| Spirit Island | Greater Than Games | https://www.greaterthangames.com/products/spirit-island |
-| Scythe | Stonemaier Games | https://stonemaiergames.com/games/scythe/ |
-| Wingspan | Stonemaier Games | https://stonemaiergames.com/games/wingspan/ |
-| Root | Leder Games | https://ledergames.com/products/root-a-game-of-woodland-might-and-right |
-| Concordia | PD-Verlag | https://www.pd-verlag.de/Concordia/en |
-| Dominion | Rio Grande Games | https://www.riograndegames.com/games/dominion/ |
-| Everdell | Starling Games | https://www.starling.games/everdell |
-| 7 Wonders Duel | Repos Production | https://www.rprod.com/en/games/7-wonders-duel |
+### Workflow
 
-### Press Kit Contacts
-Many publishers provide press kits upon request:
-- Stonemaier Games has a public media kit
-- Fantasy Flight has press resources
-- Most publishers respond to media inquiries
+1. Check `publishers.yaml` for the game's publisher press kit URL and contact info
+2. Download from self-service press kits, or email the publisher to request assets
+3. Save with the correct naming convention: `Game Name (Year).jpg`
+4. Record provenance in `images/sources.yaml`
+5. Update publisher `status` in `publishers.yaml` as you go
 
-### BoardGameGeek
-As a fallback, BGG hosts high-resolution images in their image galleries:
-- Visit the game's BGG page
-- Click on "Images" in the left sidebar
-- Look for box art tagged "Box Front"
-- Right-click and save the highest resolution version
+### Tools
+
+```bash
+python3 scripts/image_manager.py              # overall progress
+python3 scripts/image_manager.py publishers    # games grouped by publisher
+python3 scripts/image_manager.py publisher X   # detail view for one publisher
+python3 scripts/image_manager.py missing       # list games missing images
+python3 scripts/image_manager.py check         # validate image files
+```
+
+### Publishers with Self-Service Press Kits
+
+These publishers offer downloadable press assets — start here:
+
+| Publisher | Press Kit URL |
+|-----------|---------------|
+| Czech Games Edition | https://czechgames.com/for-press/ |
+| Pandasaurus Games | https://pandasaurusgames.com/pages/media-kits |
+| Leder Games | https://ledergames.com/pages/resources |
+| KOSMOS | https://www.kosmos.de/content/presse/pressebilder/pressebilder-spielware/ |
+| Repos Production | https://www.rprod.com/en/press |
+| Awaken Realms | https://awakenrealms.com/download |
+
+### Asmodee Group
+
+Asmodee owns Fantasy Flight, Z-Man, Days of Wonder, Lookout, Hans im Gluck, eggertspiele, Plan B, and Repos Production. One request to `pr@asmodeena.com` can cover ~80 games.
+
+### Provenance Tracking
+
+Every image must have an entry in `sources.yaml` recording:
+- `source_url`: Where the image was obtained
+- `publisher`: Who provided it
+- `license`: License type or permission reference
+- `date`: When it was downloaded
+
+This is required for commercial use.
 
 ## Image Guidelines
 - Prefer official box art (front of box)
