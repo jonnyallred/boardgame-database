@@ -1,0 +1,67 @@
+id: arkham-horror-third-edition
+name: "Arkham Horror (Third Edition)"
+year: 2018
+
+# Relationships
+game_family: arkham-horror
+edition: "Third Edition"
+base_game: null
+expansions:
+  - arkham-horror-third-edition-dead-of-night
+  - arkham-horror-third-edition-under-dark-waves
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (120-180 min)
+rules_complexity: 3  # College - streamlined but with multiple phases and mechanics
+strategic_depth: 2  # Tactics - some planning but luck-dependent
+feel: 1  # Cooperative - working together against the game
+value: 3  # Splurge - premium components and replayability
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Modular Board
+  - Variable Setup
+  - Hand Management
+  - Action Points
+  - Campaign Mode
+  - Narrative Heavy
+  - Horror
+  - Cthulhu
+  - Ameritrash
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Nikki Valens
+publisher:
+  - Fantasy Flight Games
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Arkham Horror Third Edition is a cooperative board game for one to six players who take on the roles of investigators trying to rid Arkham, Massachusetts of eldritch beings known as Ancient Ones. Based on the works of H.P. Lovecraft, players must gather clues, defeat terrifying monsters, and find tools and allies to stand a chance of defeating the creatures that dwell beyond the veil of reality.
+
+  The game features a fully modular board composed of double-sided tiles, making every scenario unique. Players progress through four phases each round: Action Phase (perform two actions like move, fight, research, or rest), Monster Phase (monsters move and attack), Encounter Phase (draw encounter cards), and Mythos Phase (advance the scenario and threat). Each investigator has five skills (lore, influence, observation, strength, and will) used for dice-based skill tests.
+
+  The third edition streamlines the classic gameplay with the Act deck mechanism from Arkham Horror: The Card Game, creating scenarios where short-term objectives emerge as you play. The game scales well across player counts, with lower counts allowing more strategic planning and higher counts creating a frantic, chaotic experience.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

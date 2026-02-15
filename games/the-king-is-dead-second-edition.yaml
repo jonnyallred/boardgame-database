@@ -1,0 +1,72 @@
+id: the-king-is-dead-second-edition
+name: "The King Is Dead: Second Edition"
+year: 2020
+
+# Relationships
+game_family: the-king-is-dead
+edition: "Second Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-45 min)
+rules_complexity: 2  # Junior High - simple rules, complex strategy
+strategic_depth: 3  # Strategy - deep planning with limited actions
+feel: 3  # Polite - competitive area control with bluffing
+value: 2  # Fair Deal - solid value
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Hand Management
+  - Bluffing
+  - Variable Setup
+  - Historical
+  - Medieval
+  - Euro
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Peer Sylvester
+publisher:
+  - Osprey Games
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 14
+
+# Description
+description: |
+  A game of politics and power struggles in medieval Britain. The king is dead, and three
+  factions—Scottish, Welsh, and English—vie for control of the realm. Players are influential
+  nobles manipulating these factions from behind the scenes, seeking to ensure their chosen
+  faction dominates while securing their own influence within it.
+
+  Each player has an identical hand of just eight action cards, which are played one at a time
+  and never replenished. When you play a card, you influence one or two regions to strengthen
+  a faction, then you must take a follower cube from the board, gaining influence with that
+  faction while simultaneously weakening their presence on the map. This creates a unique
+  tension—building your position often helps your opponents.
+
+  Victory goes to the player with the most influence in whichever faction controls the most
+  regions. With only eight actions per game, every decision matters. The game features simple
+  rules but deep strategic gameplay, with significant bluffing and reading of opponents'
+  intentions. The Second Edition includes updated artwork and an asymmetric variant for
+  advanced play.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

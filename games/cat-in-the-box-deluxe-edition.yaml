@@ -1,0 +1,57 @@
+id: cat-in-the-box-deluxe-edition
+name: "Cat in the Box: Deluxe Edition"
+year: 2022
+
+# Relationships
+game_family: null
+edition: deluxe
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (20-40 min)
+rules_complexity: 2  # Junior High - trick-taking with unique twist
+strategic_depth: 2  # Tactics - deduction and prediction
+feel: 3  # Polite - competitive trick-taking
+value: 2  # Fair Deal - solid trick-taking game
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Trick-taking
+  - Hand Management
+  - Deduction
+  - Puzzle Solving
+  - Abstract
+  - Family
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Muneyuki Yokouchi
+publisher:
+  - Hobby Japan
+  - Bezier Games
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 13
+
+# Description
+description: |
+  Cat in the Box: Deluxe Edition is a quantum trick-taking card game inspired by the Schrödinger's cat thought experiment. Cards have no inherent color - instead, players declare the color when they play a card, creating a dynamic puzzle of deduction and prediction. Before each hand, players bid on how many tricks they'll win, then place tokens on a shared research board as they play. The twist: you cannot declare the same number-color combination that has already been played, forcing careful planning to avoid creating a paradox. If you create a paradox, you score negative points. The game combines traditional trick-taking with innovative mechanics where red is trump and the color of each card is only determined when played, creating unique strategic depth.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

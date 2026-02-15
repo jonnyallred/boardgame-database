@@ -1,0 +1,60 @@
+id: love-letter
+name: "Love Letter"
+year: 2012
+
+# Relationships
+game_family: love-letter
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (10-20 min)
+rules_complexity: 1  # Elementary - simple draw one, play one
+strategic_depth: 2  # Tactics - deduction and risk assessment
+feel: 2  # Party - light social interaction and elimination
+value: 1  # Bargain - excellent value for a small card game
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Deduction
+  - Player Elimination
+  - Bluffing
+  - Set Collection
+  - Medieval
+  - Filler
+  - Gateway
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Seiji Kanai
+publisher:
+  - Alderac Entertainment Group
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 20
+min_age: 10
+
+# Description
+description: |
+  Get your love letter into Princess Annette's hands while deflecting the letters of competing suitors. From a deck of only sixteen cards, each player starts with one card in hand. Each turn, draw one card and play one, using the card's power to expose rivals and knock them from the round. The last player standing wins the round and gains a token of affection. Win enough tokens and you win the princess's heart.
+
+  Love Letter is a game of risk, deduction, and luck. Each card has a special power, and players must use a mix of keen insight and calculated risk to determine the best time to use each card. The deck contains eight different roles (Guard, Priest, Baron, Handmaid, Prince, King, Countess, and Princess), each with varying quantities and values. Eliminate your opponents or hold the highest-value card when the deck runs out to win.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

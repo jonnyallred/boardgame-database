@@ -1,0 +1,74 @@
+id: survive-escape-from-atlantis
+name: "Survive: Escape from Atlantis!"
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-60 min)
+rules_complexity: 1  # Elementary - simple rules, easy to learn
+strategic_depth: 2  # Tactics - planning escape routes and creature attacks
+feel: 4  # Fierce - direct conflict, attacking opponents
+value: 2  # Fair Deal - classic family game
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Modular Board
+  - Grid Movement
+  - Take That
+  - Memory
+  - Racing
+  - Survival
+  - Maritime
+  - Mythology
+  - Family
+  - Ameritrash
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Julian Courtland-Smith
+publisher:
+  - Parker Brothers
+  - Stronghold Games
+  - Zygomatic
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  The legendary island of Atlantis is sinking! An underwater volcano has erupted and
+  players must race to evacuate their people to the safety of nearby islands before
+  the island disappears beneath the waves. On each turn, players move their meeples
+  across the modular board of randomly-placed land tiles, either walking on land,
+  swimming in the ocean, or riding in boats. After movement, they must remove one
+  land tile from the board, sinking that piece of Atlantis forever. Finally, they
+  roll a creature die to move sharks, whales, or sea serpents to attack opponents.
+  Sharks eat swimmers, whales capsize boats, and sea serpents destroy boats and
+  devour all passengers. Each meeple has a hidden point value on the bottom, adding
+  a memory element as players try to remember which pieces are most valuable. The
+  player who successfully evacuates the most points worth of meeples wins this
+  cutthroat survival game.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,65 @@
+id: dungeon-petz
+name: "Dungeon Petz"
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 3  # Strategy - planning and optimization
+feel: 3  # Polite - competitive with minimal interaction
+value: 3  # Splurge - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Auctions/Bidding
+  - Hand Management
+  - Simultaneous Action
+  - Set Collection
+  - Fantasy
+  - Euro
+  - Vlaada Chvatil
+  - Czech Games Edition
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Vlaada Chvátil
+publisher:
+  - Czech Games Edition
+  - Z-Man Games
+playtime_minutes: 90
+min_playtime: 90
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Become the leader of an imp family running a pet shop that breeds and sells
+  monsters to Dungeon Lords. Use simultaneous worker placement with groups of
+  imps to acquire baby creatures, then raise them by managing their needs for
+  food, play, and cleanliness. Keep your pets happy and healthy to sell them
+  at exhibitions for maximum profit. Balance resource management with the
+  unpredictable demands of magical creatures in this quirky euro game.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

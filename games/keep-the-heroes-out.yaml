@@ -1,0 +1,61 @@
+id: keep-the-heroes-out
+name: "Keep the Heroes Out!"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - keep-the-heroes-out-guildmasters-revenge
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-45 min)
+rules_complexity: 2  # Junior High - moderate complexity (2.25/5 BGG weight)
+strategic_depth: 2  # Tactics - cooperative tactical decisions
+feel: 1  # Cooperative - team-based dungeon defense
+value: 2  # Fair Deal - solid cooperative experience
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Deck Building
+  - Modular Board
+  - Variable Player Powers
+  - Variable Setup
+  - Area Control
+  - Hand Management
+  - Campaign Mode
+  - Fantasy
+  - Dungeon Crawler
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Luís Brueh
+publisher:
+  - Brueh Games Inc.
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  An asymmetric, cooperative dungeon defense game where players take on the role of monsters protecting their hard-earned treasures against invading hordes of looters (so-called heroes). In each turn, players draw 5 cards and use them to move, activate dungeon tiles, attack heroes, and coordinate their defenses. The goal is to survive 3 levels of threat from the invading heroes by protecting the treasures in each room. Features modular boards, variable player powers, and campaign-style scenarios for replayability.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

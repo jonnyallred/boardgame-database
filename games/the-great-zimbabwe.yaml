@@ -1,0 +1,63 @@
+id: the-great-zimbabwe
+name: "The Great Zimbabwe"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-150 min)
+rules_complexity: 3  # College - several complex mechanics, BGG weight 3.7
+strategic_depth: 4  # Master Plan - deep economic optimization
+feel: 3  # Polite - competitive economic game with indirect interaction
+value: 4  # Heirloom - Splotter quality and replayability
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Economic
+  - Network Building
+  - Route Building
+  - Auctions/Bidding
+  - Tile Placement
+  - Variable Player Powers
+  - Card Drafting
+  - Modular Board
+  - Variable Setup
+  - Historical
+  - Euro
+  - Civilization
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Jeroen Doumen
+  - Joris Wiersinga
+publisher:
+  - Splotter Spellen
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  A logistics and economic game set in ancient Africa where players build trade networks and construct monuments to impress the god of their choice. Players can choose from twelve different gods, each offering unique blessings but requiring different victory conditions. The game features a dynamic pricing mechanism where players bid on god powers and special abilities, with prices increasing as more players acquire them. Success depends on efficiently managing supply lines, optimizing resource delivery, and balancing monument construction with economic development. Despite its depth, the game is notably shorter than other Splotter titles and can be taught in under ten minutes.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

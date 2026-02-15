@@ -1,0 +1,66 @@
+id: the-manhattan-project-energy-empire
+name: "The Manhattan Project: Energy Empire"
+year: 2016
+
+# Relationships
+game_family: manhattan-project
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 3  # Strategy - planning ahead multiple turns
+feel: 3  # Polite - competitive with minimal interaction
+value: 3  # Splurge - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Engine Building
+  - Tableau Building
+  - Resource Management
+  - Variable Player Powers
+  - Set Collection
+  - Euro
+  - Economic
+  - Civilization
+  - Historical
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Tom Jolly
+  - Luke Laurie
+publisher:
+  - Minion Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Set in the atomic age, each player takes control of a nation struggling for power in the latter part of the 20th century. Players build up their nation's industry, commerce, and government by acquiring resources, building structures, and tapping sources of energy.
+
+  On each turn, players choose to either work or generate. On a work turn, players place a single worker on the main board, then use workers and energy to activate cards in their tableau. Players may spend energy to use an occupied space on the main board, so no spaces are ever completely blocked. On a generate turn, players renew their supply of energy by rolling "energy dice" that represent nuclear, coal, oil, solar, and other forms of energy.
+
+  The game creates tension between maximizing energy production and managing environmental pollution. If clean energy sources roll highest, no pollution is collected, but fossil fuels and nuclear energy add pollution tokens to the player's environment, creating strategic choices about sustainable development versus short-term power.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

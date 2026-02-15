@@ -1,0 +1,70 @@
+id: the-guild-of-merchant-explorers
+name: "The Guild of Merchant Explorers"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-45 min)
+rules_complexity: 2  # Junior High - structured steps and mechanics
+strategic_depth: 2  # Tactics - short-term positioning
+feel: 3  # Polite - competitive with minimal interaction
+value: 2  # Fair Deal - quality boards and cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Route Building
+  - Network Building
+  - Set Collection
+  - Simultaneous Action
+  - Pattern Building
+  - Hex Map
+  - Maritime
+  - Family
+  - Gateway
+  - Euro
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2, 3]
+
+# Metadata
+designer:
+  - Matthew Dunstan
+  - Brett J. Gilbert
+publisher:
+  - Alderac Entertainment Group
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 45
+min_age: 14
+
+# Description
+description: |
+  Journey over rough seas, majestic mountains, vast deserts, and lush
+  grasslands to establish trade routes between cities. A flip-and-place
+  game where terrain cards are revealed and players simultaneously place
+  explorer cubes on their personal map boards. Complete areas, discover
+  villages, establish new cities, explore shipwrecks for treasure, and
+  create trade routes between cities to earn coins. The game plays over
+  four eras with explorers removed between rounds but discoveries
+  remaining. Link two cities in the same era to create valuable trade
+  routes. Praised for its excellent solo mode and simultaneous play
+  that scales well at all player counts.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
