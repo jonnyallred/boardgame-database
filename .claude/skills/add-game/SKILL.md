@@ -2,7 +2,7 @@
 name: add-game
 description: Create a detailed YAML entry for a board game. Use when adding new games to the database.
 argument-hint: "[game name]"
-disable-model-invocation: true
+disable-model-invocation: false
 context: fork
 model: sonnet
 allowed-tools: Read, Write, Glob, Grep, WebSearch, WebFetch, Bash(ls *)
