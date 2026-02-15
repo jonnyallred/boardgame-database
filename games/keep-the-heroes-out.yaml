@@ -12,7 +12,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (30-45 min)
-rules_complexity: 2  # Junior High - moderate complexity (2.25/5 BGG weight)
+rules_complexity: 2  # Junior High - moderate complexity
 strategic_depth: 2  # Tactics - cooperative tactical decisions
 feel: 1  # Cooperative - team-based dungeon defense
 value: 2  # Fair Deal - solid cooperative experience

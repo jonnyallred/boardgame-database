@@ -1,0 +1,66 @@
+id: great-western-trail
+name: "Great Western Trail"
+year: 2016
+
+# Relationships
+game_family: great-western-trail
+edition: "First Edition"
+base_game: null
+expansions:
+  - great-western-trail-rails-to-the-north
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (75-150 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with minimal interaction
+value: 2  # Fair Deal - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Route Building
+  - Hand Management
+  - Point Salad
+  - Western
+  - Economic
+  - Euro
+  - Alexander Pfister
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Alexander Pfister
+publisher:
+  - eggertspiele
+  - Stronghold Games
+artist:
+  - Andreas Resch
+playtime_minutes: 113
+min_playtime: 75
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Drive cattle from Texas to Kansas City. Build a herd, hire cowboys,
+  craftsmen, and engineers. Navigate hazards along the trail and deliver
+  cattle to distant cities via railroad. Combines deck building with
+  rondel-style movement. Multiple paths to victory through buildings,
+  cattle breeding, or railroad expansion.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

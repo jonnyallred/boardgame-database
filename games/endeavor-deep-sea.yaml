@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60-120 min)
-rules_complexity: 2  # Junior High/High School - BGG weight 2.90
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 3  # Strategy - long-term planning with tech tracks and engine building
 feel: 3  # Polite - competitive with indirect interaction
 value: 3  # Splurge - high production quality

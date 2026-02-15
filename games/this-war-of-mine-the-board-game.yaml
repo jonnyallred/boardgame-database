@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast - campaign sessions 45-120 min each, many sessions total
-rules_complexity: 3  # College - BGG weight 3.33, several interlocking systems
+rules_complexity: 3  # College - several interlocking systems
 strategic_depth: 2  # Tactics - survival decisions, resource management under pressure
 feel: 1  # Cooperative - fully cooperative survival experience
 value: 4  # Heirloom - massive box, Book of Scripts, hundreds of cards, journal

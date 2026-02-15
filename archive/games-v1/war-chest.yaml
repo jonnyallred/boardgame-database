@@ -1,0 +1,66 @@
+id: war-chest
+name: "War Chest"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary - simple rules with depth
+strategic_depth: 3  # Strategy - long-term planning with bag and board
+feel: 4  # Fierce - direct combat and area control
+value: 3  # Splurge - heavy poker chip-style unit coins
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Bag Building
+  - Area Control
+  - Hex Map
+  - Hand Management
+  - Drafting
+  - Abstract
+  - Wargame
+  - War
+  - Medieval
+
+# Player counts
+possible_counts: [2, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Trevor Benjamin
+  - David Thompson
+publisher:
+  - Alderac Entertainment Group
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 14
+
+# Description
+description: |
+  An all-new bag-building war game where players draft military units
+  into their armies, then draw unit coins from their bag each round to
+  deploy and maneuver forces on a hex-grid battlefield. Each coin can
+  be used for multiple action types: deploy, move, attack, control,
+  bolster, or pass. The first player or team to place all their control
+  markers wins. Combines the tactical depth of abstract strategy games
+  with the variability of bag building. Supports 1v1 or 2v2 team play.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (sessions run 60-180 min, campaigns span many sessions)
-rules_complexity: 4  # PhD (BGG weight 4.27/5 - intricate gear grid, AI deck, settlement phases)
+rules_complexity: 4  # PhD ( - intricate gear grid, AI deck, settlement phases)
 strategic_depth: 3  # Strategy (long-term settlement planning, gear crafting, survivor development)
 feel: 1  # Cooperative (fully cooperative survival)
 value: 4  # Heirloom (massive box, premium plastic miniatures, hundreds of cards)

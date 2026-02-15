@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (90-120 min typical)
-rules_complexity: 4  # PhD - BGG weight 4.01, intricate rules with time travel loops
+rules_complexity: 4  # PhD - intricate rules with time travel loops
 strategic_depth: 4  # Master Plan - multi-move optimization with temporal paradoxes
 feel: 3  # Polite - competitive euro with worker placement contention
 value: 4  # Heirloom - exosuit miniatures, premium production

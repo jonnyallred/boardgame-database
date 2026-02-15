@@ -1,0 +1,66 @@
+id: yokohama
+name: "Yokohama"
+year: 2016
+
+# Relationships
+game_family: yokohama
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~90 min)
+rules_complexity: 3  # College - BGG weight 3.29
+strategic_depth: 3  # Strategy - long-term planning
+feel: 3  # Polite - competitive with minimal direct interaction
+value: 2  # Fair Deal - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Set Collection
+  - Route Building
+  - Network Building
+  - Resource Management
+  - Modular Board
+  - Variable Setup
+  - Euro
+  - Historical
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3]
+
+# Metadata
+designer:
+  - Hisashi Hayashi
+publisher:
+  - Okazu Brand
+  - Tasty Minstrel Games
+playtime_minutes: 90
+min_playtime: 90
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Set during Japan's Meiji era, players are merchants competing to gain
+  fame through trading in the growing port city of Yokohama. Deploy
+  assistants across a modular board to build connected paths, then move
+  your president to activate powerful actions. Establish shops and trading
+  houses, fulfill foreign trade contracts, acquire technology, and build
+  your commercial network. A rich euro with interlocking systems and
+  multiple paths to victory.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

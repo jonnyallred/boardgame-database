@@ -12,7 +12,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (2-3+ hrs at typical counts)
-rules_complexity: 3  # College - BGG weight 3.79, several complex mechanics
+rules_complexity: 3  # College - several complex mechanics
 strategic_depth: 3  # Strategy - long-term planning with many paths to victory
 feel: 3  # Polite - competitive worker placement with indirect blocking
 value: 4  # Heirloom - 300+ wooden pieces, 60+ acrylic parts, massive production

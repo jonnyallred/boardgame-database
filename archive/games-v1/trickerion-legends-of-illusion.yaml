@@ -1,0 +1,65 @@
+id: trickerion-legends-of-illusion
+name: "Trickerion: Legends of Illusion"
+year: 2015
+
+# Relationships
+game_family: trickerion
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs typical at full count)
+rules_complexity: 4  # PhD - BGG weight 4.27, 28-page rulebook
+strategic_depth: 4  # Master Plan - multi-path optimization
+feel: 3  # Polite - competitive with indirect interaction
+value: 4  # Heirloom - lavish production, many components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Action Points
+  - Simultaneous Action
+  - Variable Setup
+  - Engine Building
+  - Euro
+  - Steampunk
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Richard Amann
+  - Viktor Peter
+publisher:
+  - Mindclash Games
+  - APE Games
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Compete as rival stage magicians in a Victorian steampunk city,
+  vying for fame and the legendary Trickerion Stone. Assign your
+  magician and specialist workers to downtown locations to gather
+  components, learn tricks, hire assistants, and perform elaborate
+  shows at the theater. An action-point-driven worker placement
+  game with deep strategic planning, variable player powers, and
+  a unique trick preparation and performance system.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

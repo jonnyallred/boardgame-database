@@ -1,0 +1,65 @@
+id: beyond-the-sun
+name: "Beyond the Sun"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (90-120 min)
+rules_complexity: 3  # College - BGG weight ~3.12
+strategic_depth: 3  # Strategy - long-term tech tree planning
+feel: 3  # Polite - competitive with blocking, minimal direct conflict
+value: 2  # Fair Deal - quality boards/cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tech Tree
+  - Worker Placement
+  - Action Points
+  - Engine Building
+  - Resource Management
+  - Euro
+  - Sci-Fi
+  - Space
+  - Civilization
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Dennis K. Chan
+publisher:
+  - Rio Grande Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  A space civilization game where players collectively decide the
+  technological progress of humankind at the dawn of the Spacefaring Era.
+  On each turn, place your action pawn on the shared tech tree board to
+  research new technologies, produce resources, or colonize planets.
+  Unlocking technologies reveals new action spaces, making every game's
+  tech tree unique. Compete to lead in economic development, science,
+  and galactic influence through achievements and area majorities.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

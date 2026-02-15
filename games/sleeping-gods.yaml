@@ -13,7 +13,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast - campaign game, 60-120 min per session, 10-20 hrs total
-rules_complexity: 3  # College - BGG weight 3.25, several interlocking systems
+rules_complexity: 3  # College - several interlocking systems
 strategic_depth: 3  # Strategy - long-term campaign planning, hand management
 feel: 1  # Cooperative - fully cooperative crew adventure
 value: 4  # Heirloom - massive atlas, storybook, tokens, cards, ongoing campaign

@@ -1,0 +1,67 @@
+id: grand-austria-hotel
+name: "Grand Austria Hotel"
+year: 2015
+
+# Relationships
+game_family: grand-austria-hotel
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-120 min)
+rules_complexity: 3  # College - several complex mechanics (BGG weight 3.42)
+strategic_depth: 3  # Strategy - long-term planning with dice drafting
+feel: 3  # Polite - competitive with indirect interaction via dice selection
+value: 2  # Fair Deal - quality boards/cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Drafting
+  - Set Collection
+  - Hand Management
+  - Economic
+  - Euro
+  - Historical
+  - Simone Luciani
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Virginio Gigli
+  - Simone Luciani
+publisher:
+  - Lookout Games
+  - Mayfair Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Manage a grand hotel in the heart of Vienna during the modern age.
+  Roll dice to populate a shared action board, then draft dice to serve
+  guests with the right dishes and drinks, prepare colored hotel rooms,
+  and hire staff cards for powerful abilities. Match guests to rooms of
+  the correct color, fulfill their culinary orders, and check them in
+  to score points. Earn the Emperor's favor across three rounds or face
+  penalties. With 116 unique guest cards and variable setup, each game
+  demands fresh tactical and strategic approaches.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

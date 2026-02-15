@@ -1,0 +1,63 @@
+id: lewis-and-clark-the-expedition
+name: "Lewis & Clark: The Expedition"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (around 120 min)
+rules_complexity: 3  # College - multiple interlocking mechanisms
+strategic_depth: 3  # Strategy - hand and resource optimization
+feel: 3  # Polite - race with indirect interaction
+value: 2  # Investment - unique theme and design
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Worker Placement
+  - Racing
+  - Resource Management
+  - Deck Building
+  - Euro
+  - Historical
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Cédrick Chaboussit
+publisher:
+  - Ludonaute
+artist:
+  - Vincent Dutrait
+playtime_minutes: 120
+min_playtime: 120
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Race westward across America in this Euro-style game themed around the
+  historic Lewis and Clark expedition. Players manage a hand of character
+  cards and Native American allies, using them to gather resources, recruit
+  new expedition members, and advance along the trail. Efficient hand
+  management is key, as unused cards slow your camp down.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,65 @@
+id: meadow
+name: "Meadow"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 1  # Elementary - basic instructions (BGG weight 2.26)
+strategic_depth: 2  # Tactics - short-term positioning
+feel: 3  # Polite - competitive with minimal interaction
+value: 3  # Splurge - beautiful hand-painted watercolor artwork
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Hand Management
+  - Drafting
+  - Tableau Building
+  - Euro
+  - Family
+  - Nature
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Klemens Kalicki
+publisher:
+  - Rebel Studio
+artist:
+  - Karolina Kijak
+  - Katarzyna Fiebiger
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+# Description
+description: |
+  Take on the role of nature explorers competing for the title of most
+  skilled observer. Place path tokens on shared boards to draft cards
+  featuring over two hundred unique hand-painted watercolor illustrations
+  of species, landscapes, and discoveries. Build your personal meadow
+  tableau through set collection and hand management while racing to
+  fulfill adventure objectives at the bonfire for bonus points.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60-90 min)
-rules_complexity: 1  # Elementary - app-driven, easy to learn (BGG weight 2.08/5)
+rules_complexity: 1  # Elementary - app-driven, easy to learn
 strategic_depth: 1  # Basic - deduction and logical thinking, not deep strategy
 feel: 1  # Cooperative - fully cooperative investigation
 value: 2  # Fair Deal - quality components plus app integration

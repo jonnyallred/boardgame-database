@@ -1,0 +1,66 @@
+id: roll-for-the-galaxy
+name: "Roll for the Galaxy"
+year: 2014
+
+# Relationships
+game_family: race-for-the-galaxy
+edition: null
+base_game: null
+expansions:
+  - roll-for-the-galaxy-ambition
+  - roll-for-the-galaxy-rivalry
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-45 min)
+rules_complexity: 2  # Junior High/High School - BGG weight ~2.8
+strategic_depth: 3  # Strategy - long-term engine building and tableau planning
+feel: 3  # Polite - competitive with minimal direct interaction
+value: 3  # Splurge - 111 custom dice, quality tiles and components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Engine Building
+  - Simultaneous Action
+  - Tableau Building
+  - Euro
+  - Sci-Fi
+  - Space
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Wei-Hwa Huang
+  - Tom Lehmann
+publisher:
+  - Rio Grande Games
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 45
+min_age: 13
+
+# Description
+description: |
+  A dice game of building space empires for 2-5 players. Your dice
+  represent your populace, whom you direct to develop new technologies,
+  settle worlds, and ship goods. The game uses simultaneous action
+  selection where players secretly choose phases, then all selected
+  phases occur. Build your tableau of worlds and developments to create
+  powerful combos and trigger the endgame by placing twelve tiles.
+  Dice version of Race for the Galaxy by Tom Lehmann.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

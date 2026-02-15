@@ -1,0 +1,65 @@
+id: darwins-journey
+name: "Darwin's Journey"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (60-120 min, typically ~2 hrs)
+rules_complexity: 4  # PhD - BGG weight 3.9/5, intricate worker progression system
+strategic_depth: 3  # Strategy - long-term planning with worker upgrades and multiple scoring paths
+feel: 3  # Polite - competitive euro with minimal direct interaction
+value: 3  # Splurge - quality components and detailed production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Set Collection
+  - Engine Building
+  - Euro
+  - Historical
+  - Nature
+  - Animals
+  - Simone Luciani
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Simone Luciani
+  - Nestore Mangone
+publisher:
+  - ThunderGryph Games
+playtime_minutes: 90
+min_playtime: 30
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Retrace Charles Darwin's historic voyage to the Galapagos Islands in this
+  deep worker-placement euro. Players deploy workers who must first earn
+  discipline seals before accessing advanced actions like exploration,
+  specimen collection, and museum correspondence. Over five rounds, explore
+  islands, dispatch findings to museums, and advance scientific theories.
+  An innovative worker progression system means each worker grows in
+  capability, creating satisfying engine-building arcs across the game.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

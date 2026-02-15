@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 0  # Snack (20 min)
-rules_complexity: 0  # Preschool - BGG weight 1.05
+rules_complexity: 0  # Preschool
 strategic_depth: 1  # Basic - simple choices about unique clues
 feel: 1  # Cooperative - work together
 value: 1  # Bargain - card-based party game, solid replay

@@ -12,7 +12,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (90-180 min)
-rules_complexity: 3  # College - several complex mechanics (BGG weight 4.23)
+rules_complexity: 3  # College - several complex mechanics
 strategic_depth: 4  # Master Plan - multi-move optimization
 feel: 3  # Polite - competitive with minimal interaction
 value: 3  # Splurge - quality components, modular board

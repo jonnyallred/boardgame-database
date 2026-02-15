@@ -1,0 +1,65 @@
+id: its-a-wonderful-world
+name: "It's a Wonderful World"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-45 min)
+rules_complexity: 1  # Elementary - basic instructions, quick to learn
+strategic_depth: 2  # Tactics - short-term positioning with drafting choices
+feel: 3  # Polite - competitive with minimal direct interaction
+value: 2  # Fair Deal - quality cards and components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Engine Building
+  - Set Collection
+  - Hand Management
+  - Simultaneous Action
+  - Tableau Building
+  - Euro
+  - Sci-Fi
+  - Civilization
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [4]
+
+# Metadata
+designer:
+  - "Frédéric Guérard"
+publisher:
+  - "La Boîte de Jeu"
+  - Lucky Duck Games
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  Draft cards over four rounds to build your empire engine. Each round,
+  players simultaneously draft seven cards, then decide which to slate
+  for construction and which to recycle for immediate resources. Produce
+  resources in a fixed order, chaining production across completed
+  projects. The player with the most victory points at the end of round
+  four wins. Fast-playing engine builder with satisfying combo potential.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

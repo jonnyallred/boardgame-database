@@ -13,7 +13,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 4  # Marathon (6+ hrs)
-rules_complexity: 4  # PhD - intricate rules (BGG weight ~4.24)
+rules_complexity: 4  # PhD - intricate rules
 strategic_depth: 4  # Master Plan - multi-move optimization
 feel: 4  # Fierce - cutthroat rivalry
 value: 4  # Heirloom - massive production

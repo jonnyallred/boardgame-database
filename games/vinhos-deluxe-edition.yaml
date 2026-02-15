@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (60-135 min, often 2+ hrs at full count)
-rules_complexity: 3  # College (BGG weight 3.5 - several complex mechanics)
+rules_complexity: 3  # College ( - several complex mechanics)
 strategic_depth: 4  # Master Plan (multi-move optimization, classic Lacerda)
 feel: 3  # Polite (competitive with minimal direct interaction)
 value: 4  # Heirloom (deluxe production, double-sided board, expansions)

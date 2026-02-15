@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (20-30 min typical game)
-rules_complexity: 3  # College - BGG weight ~3.3, many complex mechanics and interactions
+rules_complexity: 3  # College - many complex mechanics and interactions
 strategic_depth: 3  # Strategy - long-term deck construction and in-game planning
 feel: 4  # Fierce - direct competitive card combat
 value: 4  # Heirloom - massive expandable card pool, endless collecting

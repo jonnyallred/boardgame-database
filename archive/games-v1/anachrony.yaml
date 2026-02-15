@@ -1,0 +1,68 @@
+id: anachrony
+name: "Anachrony"
+year: 2017
+
+# Relationships
+game_family: anachrony
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-120 min typical)
+rules_complexity: 4  # PhD - BGG weight 4.01, intricate rules with time travel loops
+strategic_depth: 4  # Master Plan - multi-move optimization with temporal paradoxes
+feel: 3  # Polite - competitive euro with worker placement contention
+value: 4  # Heirloom - exosuit miniatures, premium production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Variable Setup
+  - Tech Tree
+  - Action Points
+  - Euro
+  - Sci-Fi
+  - Post-Apocalyptic
+  - Time Travel
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Dávid Turczi
+  - Richard Amann
+  - Viktor Peter
+publisher:
+  - Mindclash Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 15
+
+# Description
+description: |
+  In a post-apocalyptic 26th century, humanity has reorganized along four
+  ideological Paths after a devastating cataclysm. Players lead one of
+  these factions, deploying workers in exosuits to gather resources, construct
+  buildings, and research technologies. The signature time-travel mechanism
+  lets you borrow resources from your future self — but you must eventually
+  close the loop or suffer paradoxes. Features a two-tiered worker placement
+  system with four specialist types and exosuits required for hazardous
+  action spaces. The looming impact event drives urgency across 4-7 eras.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

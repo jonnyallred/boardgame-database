@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (~90 min)
-rules_complexity: 3  # College - BGG weight ~3.37, complex auction/economic rules
+rules_complexity: 3  # College - complex auction/economic rules
 strategic_depth: 3  # Strategy - long-term planning for routes and deliveries
 feel: 4  # Fierce - cutthroat competition for routes and goods
 value: 2  # Fair Deal - quality double-sided board and components

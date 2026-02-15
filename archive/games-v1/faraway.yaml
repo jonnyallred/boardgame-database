@@ -1,0 +1,64 @@
+id: faraway
+name: "Faraway"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Hand Management
+  - Drafting
+  - Euro
+  - Family
+  - Filler
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3]
+
+# Metadata
+designer:
+  - Johannes Goupy
+  - Corentin Lebrat
+publisher:
+  - Catch Up Games
+  - Pandasaurus Games
+artist:
+  - Maxime Morin
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  Explore the mysterious continent of Alula by playing a row of eight region
+  cards from left to right, each depicting landscapes and characters. The
+  twist: scoring happens in reverse order on your return journey, so early
+  card choices set conditions that later cards must fulfill. A clever hand
+  management game with an innovative reverse-scoring mechanism.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

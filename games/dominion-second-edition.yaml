@@ -26,7 +26,7 @@ compatible_with:
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (30 min)
-rules_complexity: 2  # BGG weight ~2.35 falls in 2.2-3.0 range
+rules_complexity: 2  # falls in 2.2-3.0 range
 strategic_depth: 3  # Strategy - long-term planning
 feel: 3  # Polite - competitive with minimal interaction
 value: 2  # Fair Deal - card game quality

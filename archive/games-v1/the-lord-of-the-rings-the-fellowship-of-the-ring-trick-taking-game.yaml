@@ -1,0 +1,64 @@
+id: the-lord-of-the-rings-the-fellowship-of-the-ring-trick-taking-game
+name: "The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (20 min per chapter)
+rules_complexity: 1  # Elementary - basic trick-taking
+strategic_depth: 2  # Tactics - short-term hand management
+feel: 1  # Cooperative - work together
+value: 2  # Fair Deal - compact card game
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Trick-taking
+  - Cooperative
+  - Campaign Mode
+  - Hand Management
+  - Lord of the Rings
+  - Fantasy
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Bryan Bornmueller
+publisher:
+  - Office Dog
+artist:
+  - Elaine Ryan
+  - Samuel R. Shimota
+playtime_minutes: 20
+min_playtime: 20
+max_playtime: 20
+min_age: 10
+
+# Description
+description: |
+  A fully cooperative trick-taking campaign game reliving the story of
+  The Fellowship of the Ring over 18 chapters. Five suits with the Ring
+  suit acting as trump. Players cannot communicate about their hands and
+  must choose characters strategically. New characters, cards, and mechanics
+  unlock as the campaign progresses, making it accessible for newcomers
+  to trick-taking or cooperative gaming.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

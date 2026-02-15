@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60-90 min typical)
-rules_complexity: 3  # College - BGG weight 3.46
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy - long-term economic planning
 feel: 3  # Polite - competitive via market, indirect interaction
 value: 3  # Splurge - modular board, clan components, quality production

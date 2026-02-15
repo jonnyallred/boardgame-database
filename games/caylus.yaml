@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (60-150 min, often 90-120+)
-rules_complexity: 3  # College (BGG weight 3.80)
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy - long-term planning essential
 feel: 4  # Fierce - provost mechanism creates cutthroat rivalry
 value: 2  # Fair Deal - standard euro components

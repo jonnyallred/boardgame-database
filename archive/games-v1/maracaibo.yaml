@@ -1,0 +1,73 @@
+id: maracaibo
+name: "Maracaibo"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (30-120 min, typically ~2 hrs)
+rules_complexity: 4  # PhD (BGG weight 3.91)
+strategic_depth: 4  # Master Plan (multi-move optimization)
+feel: 3  # Polite (competitive with minimal direct interaction)
+value: 3  # Splurge (quality components, campaign mode)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Engine Building
+  - Set Collection
+  - Tableau Building
+  - Rondel
+  - Tech Tree
+  - Variable Setup
+  - Campaign Mode
+  - Economic
+  - Euro
+  - Historical
+  - Pirates
+  - Maritime
+  - Alexander Pfister
+  - Capstone Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Alexander Pfister
+publisher:
+  - Capstone Games
+  - Game's Up
+  - dlp games
+playtime_minutes: 120
+min_playtime: 30
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Set in the 17th century Caribbean, players are seafarers and adventurers
+  seeking wealth, fame, and influence. Move your ship along a rondel-style
+  route, playing multi-use cards to build an economic engine, complete
+  quests, and increase influence with European nations across four rounds.
+  Features a nondestructive legacy-style campaign that introduces new
+  characters, locations, and story elements over multiple plays. Designed
+  by Alexander Pfister (Great Western Trail).
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,66 @@
+id: tigris-and-euphrates
+name: "Tigris & Euphrates"
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (90 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 3  # Strategy - long-term planning
+feel: 4  # Fierce - direct conflicts and wars
+value: 2  # Fair Deal - quality board and tiles
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Area Control
+  - Hand Management
+  - Set Collection
+  - Euro
+  - Cult Classic
+  - Ancient
+  - Civilization
+  - Historical
+  - Reiner Knizia
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - Hans im Gluck
+  - Fantasy Flight Games
+playtime_minutes: 90
+min_playtime: 90
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Build rival civilizations in ancient Mesopotamia by placing tiles to
+  expand kingdoms across four spheres: farming, trading, religion, and
+  government. Deploy leaders to claim victory points, but beware of
+  internal revolts and external wars when kingdoms collide. Your final
+  score equals your weakest category, demanding balanced development.
+  Widely regarded as Reiner Knizia's masterpiece.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

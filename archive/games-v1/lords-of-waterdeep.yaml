@@ -1,0 +1,64 @@
+id: lords-of-waterdeep
+name: "Lords of Waterdeep"
+year: 2012
+
+# Relationships
+game_family: lords-of-waterdeep
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-120 min)
+rules_complexity: 2  # Junior High/High School - structured steps and mechanics
+strategic_depth: 2  # Tactics - short-term positioning
+feel: 3  # Polite - competitive with minimal interaction
+value: 2  # Fair Deal - quality boards/cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Set Collection
+  - Resource Management
+  - Take That
+  - Euro
+  - Gateway
+  - Fantasy
+  - Medieval
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Peter Lee
+  - Rodney Thompson
+publisher:
+  - Wizards of the Coast
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Compete as secret Lords of Waterdeep, the great city of the Forgotten
+  Realms. Deploy agents to recruit adventurers, acquire gold, and complete
+  quests for victory points. Play Intrigue cards to manipulate opponents
+  or gain advantages. Build new locations that benefit you when others
+  use them. A highly accessible gateway worker placement game set in the
+  Dungeons & Dragons universe.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

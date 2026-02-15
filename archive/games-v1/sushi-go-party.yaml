@@ -1,0 +1,66 @@
+id: sushi-go-party
+name: "Sushi Go Party!"
+year: 2016
+
+# Relationships
+game_family: sushi-go
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Set Collection
+  - Hand Management
+  - Simultaneous Action
+  - Family
+  - Gateway
+  - Food Theme
+  - Phil Walker-Harding
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Phil Walker-Harding
+publisher:
+  - Gamewright
+artist:
+  - Nan Rangsima
+playtime_minutes: 20
+min_playtime: 20
+max_playtime: 20
+min_age: 8
+
+# Description
+description: |
+  An expanded version of the hit card-drafting game Sushi Go! where
+  players pass hands of cards around the table, selecting one each
+  time to build scoring combos of sushi dishes. The Party edition adds
+  a menu of over twenty different dish types, allowing players to
+  customize each game's card mix. Supports up to eight players and
+  plays over three quick rounds. Excellent gateway game with surprising
+  strategic depth for its weight.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

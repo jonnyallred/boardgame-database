@@ -1,0 +1,69 @@
+id: castles-of-mad-king-ludwig
+name: "Castles of Mad King Ludwig"
+year: 2014
+
+# Relationships
+game_family: castles-of-mad-king-ludwig
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (90 min)
+rules_complexity: 2  # Junior High/High School - structured steps and mechanics
+strategic_depth: 3  # Strategy - long-term planning
+feel: 3  # Polite - competitive with minimal interaction
+value: 3  # Splurge - nice tile components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Set Collection
+  - Pattern Building
+  - Auctions/Bidding
+  - Euro
+  - Family
+  - Medieval
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Ted Alspach
+publisher:
+  - Bezier Games
+artist:
+  - Ted Alspach
+  - Keith Curtis
+  - Agnieszka Dabrowiecka
+  - Ollin Timm
+playtime_minutes: 90
+min_playtime: 90
+max_playtime: 90
+min_age: 13
+
+# Description
+description: |
+  Build an extravagant castle for King Ludwig II of Bavaria, one room at
+  a time. Each round, the Master Builder sets prices for available rooms,
+  and other players purchase them to add to their growing castles. Room
+  placement matters - connecting rooms of complementary types earns bonus
+  points, and completing a room by filling all doorways triggers special
+  rewards. Score points for room sizes, secret bonus cards, and
+  fulfilling the King's ever-changing favorites. The "I cut, you choose"
+  pricing mechanism creates tense economic decisions every round.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

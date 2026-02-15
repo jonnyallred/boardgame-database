@@ -1,0 +1,67 @@
+id: arkham-horror-the-card-game
+name: "Arkham Horror: The Card Game"
+year: 2016
+
+# Relationships
+game_family: arkham-horror
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 3  # Strategy - long-term planning
+feel: 4  # Fierce - cutthroat rivalry
+value: 3  # Splurge - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Cooperative
+  - Campaign Mode
+  - Narrative
+  - Deduction
+  - Horror
+  - Cthulhu
+  - Cosmic Horror
+  - Mystery
+  - Supernatural
+  - Dungeon Crawler
+  - Cult Classic
+  - Narrative Heavy
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Nate French
+  - MJ Newman
+publisher:
+  - Fantasy Flight Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  A cooperative living card game set in the Lovecraftian Cthulhu Mythos universe. Investigators
+  work together to unravel mysteries and conspiracies with dramatic storytelling and campaign
+  progression. Features skill tests with a chaos bag mechanic adding uncertainty to tactical
+  decisions.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

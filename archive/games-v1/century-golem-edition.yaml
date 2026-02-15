@@ -1,0 +1,66 @@
+id: century-golem-edition
+name: "Century: Golem Edition"
+year: 2017
+
+# Relationships
+game_family: century
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Engine Building
+  - Set Collection
+  - Card Drafting
+  - Euro
+  - Family
+  - Gateway
+  - Fantasy
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Emerson Matsuuchi
+publisher:
+  - Plan B Games
+artist:
+  - Justin Chan
+  - Chris Quilliams
+playtime_minutes: 38
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  Lead a caravan along the golem road, trading and upgrading crystals to
+  fulfill golem contracts for victory points. Each turn, choose one of
+  four actions: acquire a trade route card, play cards to gain or convert
+  crystals, claim a golem card, or rest to reclaim played cards. A
+  re-themed version of Century: Spice Road with gorgeous fantasy art.
+  Simple to learn with satisfying engine-building depth.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 4  # Marathon - campaign game spanning many hours across sessions
-rules_complexity: 2  # Junior High/High School - BGG weight 2.90
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 2  # Tactics - short-term resource management and exploration decisions
 feel: 1  # Cooperative - fully cooperative survival adventure
 value: 4  # Heirloom - 1000+ cards, massive production, expansions available

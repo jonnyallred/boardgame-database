@@ -1,0 +1,67 @@
+id: keyflower
+name: "Keyflower"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (90-120 min)
+rules_complexity: 3  # College - BGG weight ~3.5/5
+strategic_depth: 3  # Strategy - long-term planning with auctions and village building
+feel: 4  # Fierce - cutthroat bidding and blocking
+value: 2  # Fair Deal - quality hex tiles and wooden meeples
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Worker Placement
+  - Tile Placement
+  - Modular Board
+  - Variable Setup
+  - Route Building
+  - Set Collection
+  - Resource Management
+  - Euro
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Sebastian Bleasdale
+  - Richard Breese
+publisher:
+  - R&D Games
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Compete across four seasons to build the most prosperous village.
+  Bid with colored workers on hexagonal tiles - but the color you
+  start bidding with locks everyone else into matching it. Place
+  workers on tiles to activate them for resources and skills. New
+  workers arrive each season aboard the Keyflower. In winter, score
+  points for collected resources, skills, and village connections.
+  A tense blend of auction and worker placement with hidden
+  information and high interaction.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

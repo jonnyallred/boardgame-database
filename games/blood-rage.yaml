@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60-90 min)
-rules_complexity: 2  # Junior High/High School - BGG weight 2.88
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 3  # Strategy - long-term planning across three ages with multiple paths to victory
 feel: 4  # Fierce - direct combat, area control, pillaging
 value: 3  # Splurge - highly detailed plastic miniatures

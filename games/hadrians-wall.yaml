@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (30-60 min, meaty decisions)
-rules_complexity: 3  # College (BGG weight ~3.11, many interconnected systems)
+rules_complexity: 3  # College (many interconnected systems)
 strategic_depth: 3  # Strategy (long-term planning across 6 rounds)
 feel: 3  # Polite (competitive but minimal direct interaction)
 value: 2  # Fair Deal (quality player sheets and cards)

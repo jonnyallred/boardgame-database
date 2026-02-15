@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (2-3 hrs)
-rules_complexity: 3  # College - BGG weight 3.79
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy - long-term planning with order tokens and combat cards
 feel: 4  # Fierce - direct combat and area control
 value: 3  # Splurge - miniatures and high production

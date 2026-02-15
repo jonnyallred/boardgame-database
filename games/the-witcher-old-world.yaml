@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (90-150 min typical)
-rules_complexity: 2  # Junior High/High School - medium weight (BGG 2.9/5)
+rules_complexity: 2  # Junior High/High School - medium weight
 strategic_depth: 2  # Tactics - deck building and combat combo decisions
 feel: 3  # Polite - competitive with optional direct PvP combat
 value: 3  # Splurge - miniatures, large map, premium components

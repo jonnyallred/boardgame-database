@@ -1,0 +1,64 @@
+id: dune-war-for-arrakis
+name: "Dune: War for Arrakis"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Dice Rolling
+  - Variable Setup
+  - Wargame
+  - Dudes on a Map
+  - Sci-Fi
+  - War
+  - CMON
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Francesco Nepitello
+  - Marco Maggi
+publisher:
+  - CMON
+artist:
+  - John Howe
+playtime_minutes: 150
+min_playtime: 120
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  An asymmetric two-player war game set on the desert planet of Arrakis. One
+  player commands the Atreides and Fremen forces while the other controls the
+  Harkonnen war machine. Features large-scale battles with dice-driven combat,
+  strategic resource control over spice fields, and thematic sandworm encounters.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

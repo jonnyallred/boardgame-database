@@ -12,7 +12,7 @@ compatible_with:
 
 # Ratings (0-4 scale)
 length: 3  # Feast (2-3 hrs with campaign scenarios)
-rules_complexity: 3  # College - several complex mechanics (BGG weight ~3.5)
+rules_complexity: 3  # College - several complex mechanics
 strategic_depth: 3  # Strategy - long-term planning across campaign
 feel: 1  # Cooperative - work together
 value: 3  # Splurge - quality components, full playset included

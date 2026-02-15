@@ -13,7 +13,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (30-45 min)
-rules_complexity: 2  # Junior High/High School - BGG weight ~2.8
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 3  # Strategy - long-term engine building and tableau planning
 feel: 3  # Polite - competitive with minimal direct interaction
 value: 3  # Splurge - 111 custom dice, quality tiles and components

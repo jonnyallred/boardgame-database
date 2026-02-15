@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (90-120 min box time, often runs 2-3+ hours)
-rules_complexity: 3  # College (BGG weight ~3.10, several complex mechanics)
+rules_complexity: 3  # College (several complex mechanics)
 strategic_depth: 3  # Strategy (long-term planning, negotiation, alliances)
 feel: 4  # Fierce (cutthroat negotiation, betrayal, combat)
 value: 4  # Heirloom (luxury CMON miniatures, massive production)

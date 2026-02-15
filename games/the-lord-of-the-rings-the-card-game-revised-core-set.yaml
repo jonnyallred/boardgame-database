@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (30-120 min sessions)
-rules_complexity: 3  # College (several complex mechanics, ~3.4 BGG weight)
+rules_complexity: 3  # College (several complex mechanics)
 strategic_depth: 3  # Strategy (long-term deck building and quest planning)
 feel: 1  # Cooperative (work together against the game)
 value: 3  # Splurge (188 player cards, 4 threat dials, campaign mode)

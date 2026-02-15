@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60-80 min)
-rules_complexity: 2  # Junior High/High School - moderate complexity (BGG weight 2.57)
+rules_complexity: 2  # Junior High/High School - moderate complexity
 strategic_depth: 2  # Tactics - short-term positioning with crew and raid timing
 feel: 3  # Polite - competitive with indirect interaction
 value: 2  # Fair Deal - quality board and components

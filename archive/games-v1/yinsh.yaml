@@ -1,0 +1,62 @@
+id: yinsh
+name: "YINSH"
+year: 2003
+
+# Relationships
+game_family: gipf-project
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Pattern Building
+  - Abstract
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Kris Burm
+publisher:
+  - Don & Co.
+  - Rio Grande Games
+  - HUCH!
+artist:
+  - Kris Burm
+  - lu'cifer
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 9
+
+# Description
+description: |
+  An abstract strategy game and the fifth entry in the GIPF Project series.
+  Players place and move rings on a hexagonal board, flipping markers from
+  white to black as rings pass over them. Form a row of five markers in
+  your color to score, but you must sacrifice a ring each time -- reducing
+  your options. The tension between building rows and losing mobility
+  creates a deeply tactical experience.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

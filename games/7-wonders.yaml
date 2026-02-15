@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (30 min)
-rules_complexity: 2  # Junior High/High School - BGG weight 2.32
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 2  # Tactics - short-term positioning via drafting
 feel: 3  # Polite - competitive with neighbor interaction
 value: 3  # Splurge - quality wonder boards and cards

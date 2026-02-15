@@ -14,7 +14,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (1 hr) - 40-80 min
-rules_complexity: 2  # Junior High/High School - BGG weight 2.85
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 3  # Strategy - long-term planning with multiple paths to victory
 feel: 3  # Polite - competitive bidding and area control but mostly indirect
 value: 3  # Splurge - quality wooden meeples, tiles, coins

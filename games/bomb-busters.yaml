@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (20-40 min)
-rules_complexity: 1  # Elementary - BGG weight 1.99
+rules_complexity: 1  # Elementary
 strategic_depth: 2  # Tactics - deduction and limited communication
 feel: 1  # Cooperative - work together to defuse bombs
 value: 2  # Fair Deal - 66 scenarios, quality components

@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (~90 min)
-rules_complexity: 3  # College (BGG weight 3.46)
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy - long-term planning with dice allocation
 feel: 4  # Fierce - buying opponents' dice, blocking, direct competition
 value: 2  # Fair Deal - quality boards/cards

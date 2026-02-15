@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (about 60-80 min)
-rules_complexity: 2  # Junior High/High School - BGG weight 2.24
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 2  # Tactics - short-term positioning with tile optimization
 feel: 3  # Polite - competitive with minimal direct interaction
 value: 3  # Splurge - lazy susan space station, quality components

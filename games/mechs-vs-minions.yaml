@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60-90 min per mission)
-rules_complexity: 2  # Junior High/High School - BGG weight 2.43
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 2  # Tactics - programmed movement with card drafting
 feel: 1  # Cooperative - fully co-op
 value: 4  # Heirloom - massive box, premium minis, painted figures

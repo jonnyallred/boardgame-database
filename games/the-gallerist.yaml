@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (typical game runs 2-2.5 hrs)
-rules_complexity: 4  # PhD (BGG weight 4.26)
+rules_complexity: 4  # PhD
 strategic_depth: 4  # Master Plan (multi-move optimization)
 feel: 3  # Polite (competitive with indirect interaction via kicked-out actions)
 value: 4  # Heirloom (deluxe production, expansions available)

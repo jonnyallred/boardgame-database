@@ -1,0 +1,68 @@
+id: frosthaven
+name: "Frosthaven"
+year: 2023
+
+# Relationships
+game_family: gloomhaven
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (90-120 min per scenario, 200+ hrs total campaign)
+rules_complexity: 4  # PhD - intricate rules with crafting, outpost management, etc.
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 1  # Cooperative - work together
+value: 4  # Heirloom - massive box, hundreds of hours of content
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Legacy
+  - Hand Management
+  - Dungeon Crawler
+  - Modular Board
+  - Variable Setup
+  - Resource Management
+  - Puzzle Solving
+  - Fantasy
+  - Isaac Childres
+  - Cephalofair Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Isaac Childres
+publisher:
+  - Cephalofair Games
+playtime_minutes: 120
+min_playtime: 30
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  The standalone sequel to Gloomhaven, set in the frozen northern reaches of
+  the world. Players take on the role of mercenaries defending the remote
+  outpost of Frosthaven from various threats while exploring a branching
+  narrative across 100+ scenarios. Builds on Gloomhaven's card-driven combat
+  system with new mechanics including outpost building, crafting, and resource
+  management. Features 16 new starting and unlockable character classes, each
+  with unique hand management puzzles.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

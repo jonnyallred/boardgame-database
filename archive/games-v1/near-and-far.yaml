@@ -1,0 +1,65 @@
+id: near-and-far
+name: "Near and Far"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Narrative Heavy
+  - Dice Rolling
+  - Hand Management
+  - Set Collection
+  - Campaign Mode
+  - Fantasy
+  - Red Raven Games
+  - Euro
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3]
+
+# Metadata
+designer:
+  - Ryan Laukat
+publisher:
+  - Red Raven Games
+artist:
+  - Ryan Laukat
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  A story-driven adventure game where players explore maps, recruit
+  adventurers, hunt for treasure, and search for the legendary Last
+  Ruin. Gather food and equipment in town, then journey to mysterious
+  locales guided by a storybook with branching encounters read aloud by
+  other players. Features four modes including a full campaign across
+  ten unique maps with evolving narratives.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

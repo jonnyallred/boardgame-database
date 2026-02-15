@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (45-60 min typical)
-rules_complexity: 3  # College - BGG weight 3.40
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy - deep bluffing, deckbuilding, long-term planning
 feel: 4  # Fierce - direct asymmetric confrontation
 value: 3  # Splurge - LCG model with quality cards

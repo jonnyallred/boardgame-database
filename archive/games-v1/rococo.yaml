@@ -1,0 +1,69 @@
+id: rococo
+name: "Rococo"
+year: 2013
+
+# Relationships
+game_family: rococo
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-120 min, typically ~90 min)
+rules_complexity: 2  # Junior High/High School - medium weight with multiple interacting mechanics
+strategic_depth: 3  # Strategy - long-term deck and area majority planning
+feel: 3  # Polite - competitive area majority with indirect interaction
+value: 2  # Fair Deal - quality boards and cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Area Control
+  - Hand Management
+  - Set Collection
+  - Card Drafting
+  - Resource Management
+  - Euro
+  - Historical
+  - Eagle-Gryphon Games
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Matthias Cramer
+  - Louis Malz
+  - Stefan Malz
+publisher:
+  - Eagle-Gryphon Games
+  - Eggertspiele
+  - Eagle Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Manage a deck of employees — apprentices, journeymen, and masters — to sew
+  elegant dresses and coats for a grand Rococo-era ball. Over seven rounds,
+  gather materials, tailor garments to place in the ballroom's halls for area
+  majority scoring, hire new staff, and fund decorations. Features a unique
+  deck-building twist where you choose which three cards to play each round
+  from your entire hand rather than drawing randomly. Nominated for the 2014
+  Kennerspiel des Jahres.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

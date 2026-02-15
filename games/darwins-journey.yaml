@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (60-120 min, typically ~2 hrs)
-rules_complexity: 4  # PhD - BGG weight 3.9/5, intricate worker progression system
+rules_complexity: 4  # PhD - intricate worker progression system
 strategic_depth: 3  # Strategy - long-term planning with worker upgrades and multiple scoring paths
 feel: 3  # Polite - competitive euro with minimal direct interaction
 value: 3  # Splurge - quality components and detailed production

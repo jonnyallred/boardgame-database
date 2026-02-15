@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 4  # Marathon - campaign game with 21 chapters
-rules_complexity: 3  # College - BGG weight 3.69/5, several complex mechanics
+rules_complexity: 3  # College - several complex mechanics
 strategic_depth: 3  # Strategy - tactical combat with hand management and push-your-luck
 feel: 1  # Cooperative - fully cooperative boss-battling campaign
 value: 4  # Heirloom - massive box, 70+ large miniatures, luxury production

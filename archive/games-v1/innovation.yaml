@@ -1,0 +1,71 @@
+id: innovation
+name: "Innovation"
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/High School (structured steps and mechanics)
+strategic_depth: 3  # Strategy (long-term planning)
+feel: 4  # Fierce (cutthroat rivalry)
+value: 1  # Bargain (filler chits, solid replay)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Tableau Building
+  - Take That
+  - Carl Chudyk
+  - Civilization
+  - Historical
+  - Cult Classic
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Carl Chudyk
+publisher:
+  - Asmadi Games
+artist:
+  - Alanna Cervenak
+  - Carl Chudyk
+  - Cara Judd
+  - Robin Olausson
+  - Anders Olausson
+  - Robert Simmons
+playtime_minutes: 40
+min_playtime: 20
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  Guide your civilization through human history using 105 innovation cards
+  spanning ten ages from prehistory to the modern era. Play cards to build
+  your tableau, activate powerful effects themed to historical innovations,
+  and claim achievements through points or special criteria. Visible icons
+  on cards create shared benefits and tactical targets. Victory demands both
+  long-term planning and aggressive interaction in this highly interactive
+  card-driven civilization game.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

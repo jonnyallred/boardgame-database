@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (30 min)
-rules_complexity: 0  # Preschool - extremely simple rules, BGG weight 1.07
+rules_complexity: 0  # Preschool - extremely simple rules
 strategic_depth: 0  # Reflex - no strategic decisions, pure creative fun
 feel: 2  # Party - light social fun
 value: 1  # Bargain - simple components with high replay value
@@ -49,7 +49,7 @@ description: |
   their sketchbook to the next player who guesses what was drawn, and the next
   player draws that guess, continuing around the table. The fun comes from seeing
   how wildly the original word transforms through successive rounds of sketching
-  and guessing. Winner of the 2010 BoardGameGeek Best Party Game award.
+  and guessing. Winner of the 2010 Best Party Game award.
 
 # Upgrades
 upgrades: []

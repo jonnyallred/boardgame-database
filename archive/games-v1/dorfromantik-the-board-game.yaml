@@ -1,0 +1,68 @@
+id: dorfromantik-the-board-game
+name: "Dorfromantik: The Board Game"
+year: 2022
+
+# Relationships
+game_family: dorfromantik
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary - basic instructions
+strategic_depth: 1  # Basic - simple choices
+feel: 1  # Cooperative - work together
+value: 2  # Fair Deal - quality hexagonal tiles and components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Cooperative
+  - Hex Map
+  - Modular Board
+  - Variable Setup
+  - Campaign Mode
+  - Pattern Building
+  - Puzzle Solving
+  - Family
+  - Gateway
+  - Nature
+  - City Building
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [1, 2, 3]
+
+# Metadata
+designer:
+  - Michael Palm
+  - Lukas Zach
+publisher:
+  - Pegasus Spiele
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  A cooperative tile-laying game based on the popular video game, where players
+  work together to build an idyllic countryside landscape using hexagonal tiles
+  depicting forests, fields, villages, rivers, and railroads. Complete task tiles
+  by grouping matching terrain types to score points, and progress through a
+  campaign that unlocks new tile types and achievements over multiple sessions.
+  Winner of the 2023 Spiel des Jahres.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

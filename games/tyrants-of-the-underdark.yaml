@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (~60-120 min)
-rules_complexity: 2  # Junior High/High School - BGG weight 2.56
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 2  # Tactics - short-term positioning with deck and board
 feel: 4  # Fierce - cutthroat area control, displacing opponents
 value: 2  # Fair Deal - quality board and cards

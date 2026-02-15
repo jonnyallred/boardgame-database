@@ -1,0 +1,63 @@
+id: unmatched-battle-of-legends-volume-one
+name: "Unmatched: Battle of Legends, Volume One"
+year: 2019
+
+# Relationships
+game_family: unmatched
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (20-40 min)
+rules_complexity: 1  # Elementary - simple card combat
+strategic_depth: 2  # Tactics - hand management and positioning
+feel: 4  # Fierce - direct head-to-head combat
+
+value: 2  # Fair price
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Variable Setup
+  - Ameritrash
+  - Fantasy
+  - Mythology
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Rob Daviau
+  - Justin D. Jacobson
+publisher:
+  - Restoration Games
+artist:
+  - Oliver Barrett
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 9
+
+# Description
+description: |
+  Asymmetric tactical combat where legendary heroes clash on a shared
+  battlefield. Each fighter has a unique deck of cards reflecting their
+  abilities, from Medusa's stone gaze to King Arthur's noble strikes.
+  Fast-playing duels with surprising depth from simple attack-and-defend
+  card play and clever maneuvering on the board.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

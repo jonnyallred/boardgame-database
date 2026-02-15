@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (30-60 min)
-rules_complexity: 1  # Elementary - BGG weight 2.16
+rules_complexity: 1  # Elementary
 strategic_depth: 2  # Tactics - resource management and trail positioning
 feel: 3  # Polite - competitive with trail blocking
 value: 3  # Splurge - stunning Fifty Nine Parks artwork

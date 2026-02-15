@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (90 min)
-rules_complexity: 3  # College (BGG weight 3.67)
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy - long-term planning around gear rotations
 feel: 3  # Polite - competitive with indirect blocking on gears
 value: 3  # Splurge - interlocking gear mechanism is a standout component

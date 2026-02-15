@@ -1,0 +1,63 @@
+id: parks
+name: "PARKS"
+year: 2019
+
+# Relationships
+game_family: parks
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-60 min)
+rules_complexity: 1  # Elementary - BGG weight 2.16
+strategic_depth: 2  # Tactics - resource management and trail positioning
+feel: 3  # Polite - competitive with trail blocking
+value: 3  # Splurge - stunning Fifty Nine Parks artwork
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Set Collection
+  - Family
+  - Gateway
+  - Nature
+  - Animals
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Henry Audubon
+publisher:
+  - Keymaster Games
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Hike through trails across four seasons, collecting memories and
+  resources to visit National Parks. Each turn, move one of your two
+  hikers forward on the trail to gather sun, water, mountains, forests,
+  and wildlife tokens. Spend resources to claim Park cards worth varying
+  points. Gorgeous artwork from the Fifty Nine Parks print series brings
+  each National Park to life. Simple rules with satisfying tactical
+  choices about timing and resource collection.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

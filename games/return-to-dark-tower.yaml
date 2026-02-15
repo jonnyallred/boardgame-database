@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (~2 hrs)
-rules_complexity: 2  # Junior High/High School - BGG weight 2.65
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 2  # Tactics - short-term positioning with cooperative planning
 feel: 1  # Cooperative - work together against the tower
 value: 4  # Heirloom - electronic tower centerpiece, app-driven, premium production

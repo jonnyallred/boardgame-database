@@ -1,0 +1,64 @@
+id: alchemists
+name: "Alchemists"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (approx 120 min)
+rules_complexity: 4  # PhD - BGG weight 3.91
+strategic_depth: 3  # Strategy - long-term planning with deduction
+feel: 3  # Polite - competitive with indirect interaction
+value: 3  # Splurge - app integration, quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deduction
+  - Worker Placement
+  - Hand Management
+  - Simultaneous Action
+  - Auctions/Bidding
+  - Euro
+  - Fantasy
+  - Mystery
+  - Czech Games Edition
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - "Mat\xFA\u0161 Kotry"
+publisher:
+  - Czech Games Edition
+playtime_minutes: 120
+min_playtime: 120
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Compete as alchemists mixing ingredients to discover their hidden
+  properties using a companion smartphone app. Combine deduction logic
+  with worker placement as you gather ingredients, brew potions, sell
+  to adventurers, and publish (or bluff) academic theories. Bid for
+  turn order, manage limited actions each round, and debunk rival
+  theories to earn the most reputation over six rounds.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

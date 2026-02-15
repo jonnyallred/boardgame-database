@@ -1,0 +1,70 @@
+id: cthulhu-death-may-die
+name: "Cthulhu: Death May Die"
+year: 2019
+
+# Relationships
+game_family: cthulhu-death-may-die
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (90-120 min)
+rules_complexity: 2  # Junior High/HS - structured mechanics with dice and abilities
+strategic_depth: 2  # Tactics - short-term positioning and resource decisions
+feel: 1  # Cooperative - fully cooperative against Elder Ones
+value: 4  # Heirloom - CMON miniatures, massive box, premium production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Cooperative
+  - Modular Board
+  - Variable Setup
+  - Action Points
+  - Narrative Heavy
+  - Ameritrash
+  - Dungeon Crawler
+  - Horror
+  - Cthulhu
+  - Mystery
+  - Eric Lang
+  - Rob Daviau
+  - CMON
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Rob Daviau
+  - Eric Lang
+publisher:
+  - CMON
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  A cooperative Lovecraftian horror game where investigators attempt to disrupt
+  the summoning ritual of an Elder One and then defeat it in combat. Players
+  must strategically embrace insanity, gaining powerful abilities as they lose
+  their minds. Each scenario features a unique Elder One with distinct mechanics
+  and a modular map that changes every game. Designed by Rob Daviau and Eric
+  Lang with lavishly detailed CMON miniatures.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,62 @@
+id: star-realms-frontiers
+name: "Star Realms: Frontiers"
+year: 2018
+
+# Relationships
+game_family: star-realms
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (20 min)
+rules_complexity: 1  # Elementary - simple to learn
+strategic_depth: 1  # Reflex - tactical card play
+feel: 4  # Fierce - direct attacks to reduce opponent's authority
+value: 1  # Impulse - small box, low price
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Take That
+  - Filler
+  - Sci-Fi
+  - Space
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Robert Dougherty
+  - Darwin Kastle
+publisher:
+  - White Wizard Games
+artist:
+  - Vito Gesualdi
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 12
+
+# Description
+description: |
+  A standalone entry in the Star Realms deck-building series that adds
+  cooperative and solo challenge modes alongside the classic head-to-head
+  format. Acquire powerful ships and bases from a shared trade row to
+  build a combat deck and reduce your opponent's authority to zero. Fast,
+  portable, and endlessly replayable.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

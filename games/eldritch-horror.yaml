@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (2-4 hrs)
-rules_complexity: 3  # College - BGG weight 3.32
+rules_complexity: 3  # College
 strategic_depth: 2  # Tactics - short-term positioning, scenario-driven
 feel: 1  # Cooperative - work together
 value: 4  # Heirloom - massive box, hundreds of cards/tokens, expansions galore

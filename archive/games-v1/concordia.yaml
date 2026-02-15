@@ -1,0 +1,74 @@
+id: concordia
+name: "Concordia"
+year: 2013
+
+# Relationships
+game_family: concordia
+edition: null
+base_game: null
+expansions:
+  - concordia-salsa
+  - concordia-britannia-germania
+  - concordia-gallia-corsica
+  - concordia-aegyptus-creta
+compatible_with:
+  - concordia-venus  # combinable standalone
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (90-100 min)
+rules_complexity: 2  # Junior High - structured steps
+strategic_depth: 3  # Strategy - long-term planning
+feel: 3  # Polite - competitive with minimal interaction
+value: 2  # Fair Deal - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Route Building
+  - Network Building
+  - Trading
+  - Resource Management
+  - Economic
+  - Historical
+  - Ancient
+  - Euro
+  - Mac Gerdts
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Mac Gerdts
+publisher:
+  - PD-Verlag
+  - Rio Grande Games
+artist:
+  - Marina Fahrenbach
+  - Mac Gerdts
+  - Dominik Mayer
+playtime_minutes: 90
+min_playtime: 90
+max_playtime: 100
+min_age: 12
+
+# Description
+description: |
+  A peaceful strategy game of economic development in Roman times. Expand
+  your trading network across the Mediterranean, settle in cities, and
+  collect goods. Play cards from your hand to take actions - each card can
+  also be played for its special ability. Scoring is based on how well your
+  cards align with your achievements. No luck, pure strategy.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

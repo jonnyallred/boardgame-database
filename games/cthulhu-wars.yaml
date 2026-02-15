@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course - 90-120 min listed, experienced groups often finish in 60-90 min
-rules_complexity: 3  # College - BGG weight 3.27; rules are streamlined but four asymmetric factions each with unique spellbooks, units, and strategies add significant learning
+rules_complexity: 3  # College -; rules are streamlined but four asymmetric factions each with unique spellbooks, units, and strategies add significant learning
 strategic_depth: 3  # Strategy - long-term planning around spellbook unlocking, area control, faction-specific win conditions
 feel: 4  # Fierce - direct combat, area control, summoning Great Old Ones to crush rivals
 value: 4  # Heirloom - 64 highly detailed miniatures up to 180mm tall, premium components, vast expansion ecosystem

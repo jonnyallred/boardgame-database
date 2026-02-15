@@ -20,23 +20,36 @@ Designers: {list}
 Players: {possible_counts}, best at {true_counts}
 Ratings: length={n} complexity={n} depth={n} feel={n} value={n}
 Categories: {all tags applied}
+Sources: {number of URLs logged}
 ```
 
 If the file already exists, respond with only: `Skipped — {slug}.yaml already exists`.
 
 ## Steps
 
-1. **Search the web** for the game on BoardGameGeek and publisher sites to gather accurate data.
+1. **Search the web** for the game using publisher sites, Wikipedia, retailers, and review sites. **DO NOT use boardgamegeek.com** — use `blocked_domains: ["boardgamegeek.com"]` on all WebSearch calls.
 2. **Read the schema** at `schema.yaml` for valid category values and rating scale definitions.
 3. **Read an existing game** (e.g., `games/azul.yaml`) as a formatting reference.
 4. **Create the YAML file** at `games/{slug}.yaml` following the exact format below.
+5. **Log sources** — append all URLs consulted to `sources/research-log.yaml` (see Source Logging below).
+
+## Preferred Sources (in priority order)
+
+1. **Publisher product pages** (e.g., stonemaier-games.com, fantasyflightgames.com)
+2. **Wikipedia** game articles
+3. **Retailer pages** (Amazon, Miniature Market, Gamenerdz, etc.)
+4. **Review sites** (Dice Tower, Shut Up & Sit Down, Ars Technica)
+5. **Rules PDFs** from publisher sites
+6. **Designer/studio blogs and interviews**
+
+**Blocked sources:** Do NOT use boardgamegeek.com for any research.
 
 ## Research Checklist
 
-Gather all of the following from official sources:
+Gather all of the following from the preferred sources above:
 - Full game name and publication year
 - Designer(s), publisher(s), and artist(s)
-- Player count range and best/recommended counts (from BGG polls)
+- Player count range and best/recommended counts (from publisher info, reviews, community consensus)
 - Playtime (min, max, and average)
 - Minimum age
 - Core mechanics, themes, and style
@@ -46,7 +59,7 @@ Gather all of the following from official sources:
 
 ## Rating Guidelines
 
-Use these scales (0-4) based on your research. Be accurate — use BGG weight, playtime, and community data:
+Use these scales (0-4) based on your research:
 
 | Rating | 0 | 1 | 2 | 3 | 4 |
 |--------|---|---|---|---|---|
@@ -56,7 +69,29 @@ Use these scales (0-4) based on your research. Be accurate — use BGG weight, p
 | **feel** | Solitary | Cooperative | Party | Polite | Fierce |
 | **value** | Impulse | Bargain | Fair Deal | Splurge | Heirloom |
 
-Map BGG weight to rules_complexity roughly: <1.5→0, 1.5-2.2→1, 2.2-3.0→2, 3.0-3.8→3, >3.8→4
+### rules_complexity Guidelines
+
+Judge based on how the game feels to learn and teach:
+
+| Score | Label | How to identify |
+|-------|-------|-----------------|
+| 0 | Preschool | 1-2 rules, explain in one sentence |
+| 1 | Elementary | Simple rules, teach in 2-3 minutes |
+| 2 | Junior High/HS | Multiple mechanics, 10-15 min to teach |
+| 3 | College | Complex interlocking mechanics, 20-30 min to teach |
+| 4 | PhD | Intricate rules with exceptions, 30+ min to teach |
+
+## Source Logging
+
+After creating the game file, append all URLs you consulted to `sources/research-log.yaml`. Read the file first, then write it back with new entries appended to the `entries` list.
+
+Each entry format:
+```yaml
+  - timestamp: "YYYY-MM-DDTHH:MM:SSZ"
+    game_id: {slug}
+    url: "https://..."
+    description: "Brief note on what data was gathered"
+```
 
 ## YAML Format
 
@@ -123,7 +158,7 @@ plays_tracked:
 - **Only use categories that exist in `schema.yaml`**. Do not invent new tags.
 - **`affinity` and `hotness` must be `null`** — these are personal ratings.
 - **Slug/ID must match the filename** (lowercase, hyphen-separated).
-- **Do not modify any existing files** — only create the new game file.
+- **Do not modify any existing files** — only create the new game file (and append to `sources/research-log.yaml`).
 - Use 2-space indentation. No tabs.
 - Check if the file already exists before creating — skip if it does.
 - **`game_family`**: Only set this if multiple related games exist (editions, sequels, spinoffs). Use a shared slug (e.g., `brass` for Brass: Birmingham and Brass: Lancashire). If the game is standalone with no related titles, use `null`.

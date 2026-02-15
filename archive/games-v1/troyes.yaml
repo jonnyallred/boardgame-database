@@ -1,0 +1,67 @@
+id: troyes
+name: "Troyes"
+year: 2010
+
+# Relationships
+game_family: troyes
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~90 min)
+rules_complexity: 3  # College (BGG weight 3.46)
+strategic_depth: 3  # Strategy - long-term planning with dice allocation
+feel: 4  # Fierce - buying opponents' dice, blocking, direct competition
+value: 2  # Fair Deal - quality boards/cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Worker Placement
+  - Action Points
+  - Set Collection
+  - Variable Setup
+  - Auctions/Bidding
+  - Euro
+  - Historical
+  - Medieval
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - "Sébastien Dujardin"
+  - "Xavier Georges"
+  - "Alain Orban"
+publisher:
+  - Pearl Games
+  - Z-Man Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Recreate four centuries of history in the famous city of Troyes in the
+  Champagne region of France. Manage your population across three domains -
+  religious, military, and civil - represented by colored dice. Place workers
+  to gain dice, then spend them on powerful action cards, fight off events,
+  or build the cathedral. You can even buy opponents' dice. Hidden objective
+  cards tied to each player keep everyone guessing about final scoring.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

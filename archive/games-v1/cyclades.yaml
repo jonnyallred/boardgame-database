@@ -1,0 +1,68 @@
+id: cyclades
+name: "Cyclades"
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Area Control
+  - Dice Rolling
+  - Euro
+  - Dudes on a Map
+  - Mythology
+  - Ancient
+  - Bruno Cathala
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Bruno Cathala
+  - Ludovic Maublanc
+publisher:
+  - Matagot
+  - Asmodee
+artist:
+  - Miguel Coimbra
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 13
+
+# Description
+description: |
+  Compete to be the first to build two cities in the ancient Greek Cyclades
+  islands by winning the favor of the gods through auctions. Each round,
+  players bid on five Greek gods who grant different abilities -- Ares for
+  armies, Poseidon for fleets, Zeus for priests, Athena for philosophers,
+  and Apollo for income. Mythological creatures like the Kraken and Minotaur
+  can be recruited for devastating one-time effects. A unique blend of
+  Euro-style auctions with area control and conflict.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

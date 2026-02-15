@@ -1,0 +1,59 @@
+id: onitama
+name: "Onitama"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (10-20 min games)
+rules_complexity: 1  # Elementary - simple movement card rules on a 5x5 grid
+strategic_depth: 2  # Tactics - perfect information abstract with short-term positioning
+feel: 4  # Fierce - head-to-head combat, capturing opponent's master
+value: 2  # Fair Deal - quality roll-up playmat, nice pawns and cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Variable Setup
+  - Abstract
+  - Filler
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Shimpei Sato
+publisher:
+  - Arcane Wonders
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 14
+
+# Description
+description: |
+  A two-player perfect information abstract strategy game set in a martial arts
+  temple. On a 5x5 board, each player controls a Master and four Students, using
+  movement cards that rotate between players to maneuver pieces. Win by capturing
+  your opponent's Master (Way of the Stone) or moving your Master onto the
+  opponent's Temple Arch (Way of the Stream). Each game uses only 5 of 16 movement
+  cards, ensuring high replayability despite the elegant simplicity of the rules.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

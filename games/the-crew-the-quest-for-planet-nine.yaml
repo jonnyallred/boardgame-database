@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (20 min per session)
-rules_complexity: 0  # Preschool - BGG weight ~1.34
+rules_complexity: 0  # Preschool
 strategic_depth: 2  # Tactics - short-term positioning with limited communication
 feel: 1  # Cooperative - work together
 value: 1  # Bargain - small card game, solid replay

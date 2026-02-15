@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (45 min)
-rules_complexity: 1  # Elementary - easy to teach, BGG weight 1.94
+rules_complexity: 1  # Elementary - easy to teach
 strategic_depth: 2  # Tactics - meaningful purchasing decisions and push-your-luck timing
 feel: 3  # Polite - competitive but simultaneous with minimal direct interaction
 value: 2  # Fair Deal - quality chipboard tokens, bags, and player boards

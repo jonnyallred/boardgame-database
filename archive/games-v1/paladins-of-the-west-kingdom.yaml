@@ -1,0 +1,70 @@
+id: paladins-of-the-west-kingdom
+name: "Paladins of the West Kingdom"
+year: 2019
+
+# Relationships
+game_family: west-kingdom
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-120 min)
+rules_complexity: 3  # College - BGG weight 3.71
+strategic_depth: 3  # Strategy - long-term planning with engine building
+feel: 3  # Polite - competitive with minimal direct interaction
+value: 2  # Fair Deal - quality boards and cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Hand Management
+  - Card Drafting
+  - Engine Building
+  - Resource Management
+  - Set Collection
+  - Euro
+  - Medieval
+  - Historical
+  - Renegade Game Studios
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Shem Phillips
+  - S J Macdonald
+publisher:
+  - Garphill Games
+  - Renegade Game Studios
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Set in West Francia circa 900 AD, players take on the role of noble
+  paladins defending outlying townships from outsiders. Each round,
+  enlist the help of a specific Paladin and gather workers to carry out
+  tasks. Build outposts and fortifications, commission monks, and
+  confront outsiders to earn victory points. Features a unique blend of
+  worker placement with six different worker types, hand management
+  through a personal deck of Paladin cards, and engine building as you
+  develop your player board. The heaviest entry in the West Kingdom
+  trilogy.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

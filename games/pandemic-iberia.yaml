@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (45-90 min)
-rules_complexity: 2  # Junior High - structured steps, BGG weight ~2.4
+rules_complexity: 2  # Junior High - structured steps
 strategic_depth: 2  # Tactics - short-term positioning with route planning
 feel: 1  # Cooperative - work together
 value: 2  # Fair Deal - quality board and components

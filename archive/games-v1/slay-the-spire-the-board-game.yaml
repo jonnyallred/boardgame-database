@@ -1,0 +1,66 @@
+id: slay-the-spire-the-board-game
+name: "Slay the Spire: The Board Game"
+year: 2024
+
+# Relationships
+game_family: slay-the-spire
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 2  # Junior High/High School - structured steps and mechanics
+strategic_depth: 3  # Strategy - long-term planning
+feel: 4  # Fierce - cutthroat rivalry
+value: 4  # Heirloom - luxury production, expansions beckon
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Press Your Luck
+  - Cooperative
+  - Campaign Mode
+  - Dice Rolling
+  - Fantasy
+  - Dungeon Exploration
+  - Ameritrash
+  - Dungeon Crawler
+  - Family
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Gary Dworetsky
+  - Anthony Giovannetti
+  - Casey Yano
+publisher:
+  - Contention Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  A cooperative board game adaptation of the acclaimed video game featuring deck-building and
+  rogue-like progression. Players craft unique decks while climbing acts of a mystical spire,
+  encountering enemies, discovering relics, and making crucial decisions. Supports solo and
+  multiplayer cooperative play.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

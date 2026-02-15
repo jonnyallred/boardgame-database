@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (40-60 min typical)
-rules_complexity: 2  # Junior High - structured tactical mechanics, BGG weight ~2.5
+rules_complexity: 2  # Junior High - structured tactical mechanics
 strategic_depth: 3  # Strategy - faction selection, positioning, resource management
 feel: 4  # Fierce - direct head-to-head combat to eliminate opponent's summoner
 value: 2  # Fair Deal - quality cards, custom dice, and game board

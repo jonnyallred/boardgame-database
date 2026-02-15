@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (90-120 min per session)
-rules_complexity: 3  # College - BGG weight 3.66
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy - long-term campaign planning
 feel: 1  # Cooperative - work together
 value: 4  # Heirloom - massive luxury production

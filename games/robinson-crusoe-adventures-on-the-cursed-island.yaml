@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60-120 min)
-rules_complexity: 4  # PhD - BGG weight 3.81
+rules_complexity: 4  # PhD
 strategic_depth: 3  # Strategy - long-term planning and resource allocation
 feel: 1  # Cooperative - work together
 value: 3  # Splurge - quality components with scenarios

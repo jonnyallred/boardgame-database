@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (60-150 min, typically 2.5-3 hrs)
-rules_complexity: 3  # College (BGG weight 3.07)
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy (long-term cooperative planning)
 feel: 1  # Cooperative (work together)
 value: 3  # Splurge (large board, minis, tokens, cards)

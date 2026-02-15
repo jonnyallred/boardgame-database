@@ -1,0 +1,71 @@
+id: civolution
+name: "Civolution"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - civolution-acceptance-letter
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-180 min)
+rules_complexity: 3  # College - several complex mechanics (BGG weight 4.23)
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with minimal interaction
+value: 3  # Splurge - quality components, modular board
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Modular Board
+  - Tech Tree
+  - Engine Building
+  - Economic
+  - Euro
+  - Civilization
+  - Sci-Fi
+  - Stefan Feld
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Stefan Feld
+publisher:
+  - Deep Print Games
+  - DiceTree Games
+  - Ghenos Games
+  - Grail Games
+  - Hobby Japan
+artist:
+  - Dennis Lohausen
+playtime_minutes: 135
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Players assume the role of local deities guiding civilizations through four
+  eras of development. Using a dice selection mechanism to trigger actions on a
+  tech tree-like structure, players develop their societies through cultural,
+  technical, and evolutionary choices. Each game explores only a fraction of
+  the countless possibilities the modular system and many cards provide,
+  competing to accumulate the most success points.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

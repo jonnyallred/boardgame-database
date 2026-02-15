@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (typical play ~120 min)
-rules_complexity: 4  # PhD (BGG weight ~3.9)
+rules_complexity: 4  # PhD
 strategic_depth: 4  # Master Plan (many interlocking systems and paths)
 feel: 3  # Polite (competitive with minimal interaction)
 value: 3  # Splurge (large box, many components)

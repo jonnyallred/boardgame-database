@@ -1,0 +1,75 @@
+id: expeditions
+name: "Expeditions"
+year: 2023
+
+# Relationships
+game_family: scythe
+edition: null
+base_game: null
+expansions:
+  - expeditions-gears-of-corruption
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 3  # Strategy - long-term planning
+feel: 3  # Polite - competitive with minimal interaction
+value: 4  # Heirloom - luxury production, expansions available
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Deck Building
+  - Hand Management
+  - Modular Board
+  - Variable Setup
+  - Action Points
+  - Grid Movement
+  - Resource Management
+  - Jamey Stegmaier
+  - Stonemaier Games
+  - Euro
+  - Sci-Fi
+  - Post-Apocalyptic
+  - Steampunk
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Jamey Stegmaier
+  - Morten Monrad Pedersen
+publisher:
+  - Stonemaier Games
+artist:
+  - Jakub Rozalski
+  - Christine Santana
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  A standalone sequel to Scythe set in 1920s Siberia following a meteorite crash
+  near the Tunguska River. Players lead expeditions exploring mysterious locations,
+  defeating corruption using dieselpunk mechs and gaining unique worker abilities.
+  Play cards to build an engine of power and guile, enhance mechs with items and
+  meteorites, and vanquish supernatural threats across modular hex tiles. Features
+  entirely different mechanics from Scythe while maintaining the alternate-history
+  atmosphere and stunning artwork.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

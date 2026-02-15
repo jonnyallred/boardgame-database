@@ -1,0 +1,70 @@
+id: thunder-road-vendetta
+name: "Thunder Road: Vendetta"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (45-75 min)
+rules_complexity: 1  # Elementary - basic instructions
+strategic_depth: 1  # Basic - simple choices
+feel: 4  # Fierce - direct combat and elimination
+value: 3  # Splurge - miniatures and quality production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Racing
+  - Take That
+  - Modular Board
+  - Post-Apocalyptic
+  - Ameritrash
+  - Restoration Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Dave Chalker
+  - Noah Cohen
+  - Rob Daviau
+  - Justin D. Jacobson
+  - Jim Keifer
+  - Brett Myers
+publisher:
+  - Restoration Games
+artist:
+  - Marie Bergeron
+  - Garrett Kaida
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+# Description
+description: |
+  A post-apocalyptic demolition derby racing game rebooted by Restoration
+  Games. Race and shoot to win the race or be the last car standing. Roll
+  dice for command options including repair, nitro boosting, and attack
+  helicopter deployment. Features miniatures, hazard tokens, and damage
+  mechanics. Fast-paced and chaotic, emphasizing action and direct player
+  interaction.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,66 @@
+id: hegemony-lead-your-class-to-victory
+name: "Hegemony: Lead Your Class to Victory"
+year: 2023
+
+# Relationships
+game_family: hegemony
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 4  # PhD - intricate rules
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 4  # Fierce - cutthroat rivalry
+value: 3  # Splurge - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Asymmetric Powers
+  - Voting
+  - Hand Management
+  - Economic Simulation
+  - Variable Player Powers
+  - Political
+  - Economics
+  - Social Class
+  - Euro
+  - Heavy
+  - Economic Simulation
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Vangelis Bagiartakis
+  - Varnavas Timotheou
+publisher:
+  - Hegemonic Project Games
+playtime_minutes: 135
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  An asymmetric card-driven economic simulation where players represent different socio-economic
+  classes competing for dominance. Based on real political and economic theories (Social
+  Democracy, Neoliberalism, Nationalism, Globalism). Deep strategic complexity with emergent
+  political dynamics.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

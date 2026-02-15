@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (45-60 min)
-rules_complexity: 2  # Junior High/High School - BGG weight 2.34
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 2  # Tactics - short-term positioning and auction timing
 feel: 3  # Polite - competitive bidding with indirect interaction
 value: 2  # Fair Deal - quality tiles and sun tokens

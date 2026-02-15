@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60-120 min typical)
-rules_complexity: 3  # College (BGG weight 3.54)
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy - long-term planning with mancala action selection
 feel: 3  # Polite - competitive with minimal direct interaction
 value: 2  # Fair Deal - quality boards/cards

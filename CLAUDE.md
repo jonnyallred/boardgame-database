@@ -7,11 +7,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 This is a **Board Game Database** - a curated collection of board games with detailed metadata, ratings, and categorization. The project stores data as YAML files rather than using a traditional database, making it easy to version control and maintain.
 
 **Key Stats:**
-- `master_list.yaml`: 1,000 games from BoardGameGeek top rankings
-- `games/`: Individual YAML files (currently 327 detailed entries)
+- `master_list.yaml`: Curated game list from award winners and notable game lists
+- `games/`: Individual YAML files (currently 389 detailed entries)
 - `schema.yaml`: Complete data structure and validation rules
 - `publishers.yaml`: Publisher directory with press kit URLs and contacts
 - `images/sources.yaml`: Image provenance tracking (source, license, date)
+- `sources/research-log.yaml`: Provenance log of all URLs consulted during research
 
 ## Data Structure
 
@@ -63,7 +64,7 @@ Each game file (`games/{slug}.yaml`) contains:
 
 ### Master List
 
-`master_list.yaml` contains 1,000 games with: `id` (slug matching the `games/` filename), `name`, `year`, and `bgg_rank`. The `id` field links master list entries to their detailed files in `games/`.
+`master_list.yaml` contains a curated list of games with: `id` (slug matching the `games/` filename), `name`, `year`, and `source` (provenance — which award list, publisher catalog, or other public source the game was included from). The list is sorted alphabetically by `id`.
 
 ### Schema
 
@@ -154,3 +155,11 @@ Game year is the publication year of that specific edition, not the original des
 **Git-Friendly:** YAML format with one game per file makes diffs, merges, and reviews straightforward.
 
 **Expansion & Variant Tracking:** The `game_family` field allows grouping related games (different editions, expansions) without creating confusion. Use this when games share a name but are different editions.
+
+## Blocked Sources
+
+**Do NOT use boardgamegeek.com** for any research or data gathering. All game data should come from publisher sites, Wikipedia, retailers, review sites, and other public sources. The `/add-game` skill enforces this with `blocked_domains`.
+
+## Source Provenance
+
+All URLs consulted during game research are logged in `sources/research-log.yaml`. The `/add-game` skill appends entries automatically. This provides an audit trail of where game data originated.

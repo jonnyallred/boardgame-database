@@ -11,7 +11,7 @@
 - `/games/` - Individual YAML files for each game
 - `/images/` - Folder for box art (with README guide)
 - `schema.yaml` - Complete schema documentation
-- `master_list.yaml` - 1,000 games from BGG rankings
+- `master_list.yaml` - 1,000 games from online rankings
 
 ### 2. Schema Defined
 Full rating system implemented:
@@ -32,8 +32,8 @@ Full rating system implemented:
 - Publishers (Stonemaier, FFG, Leder Games, etc.)
 
 ### 4. Master List Compiled
-- 1,000 games from BGG top rankings
-- Includes name, year, and BGG rank
+- 1,000 games from online rankings
+- Includes name, year, and rank
 - Covers base games, expansions, and editions
 
 ### 5. Detailed Game Files Created (25 games)
@@ -74,13 +74,13 @@ Full rating system implemented:
 ### What Was Accomplished
 
 - Added 202 new detailed game entries (25 → 227 total)
-- Games now cover a wide range of BGG top-ranked titles including editions, expansions, and variants
+- Games now cover a wide range of top-ranked titles including editions, expansions, and variants
 - Added `/add-game` skill for automated game entry via Claude Code subagent
 - Refined skill to use Sonnet model for cost-efficient research
 
 ### Add-Game Skill (`/.claude/skills/add-game/`)
 - Forked subagent that researches and creates game YAML files
-- Uses WebSearch + WebFetch for BGG/publisher data
+- Uses WebSearch + WebFetch for publisher data
 - Pinned to Sonnet model (structured data collection doesn't need Opus)
 
 ---
@@ -105,7 +105,7 @@ Full rating system implemented:
 ### What Was Accomplished
 
 - Added 100 new detailed game entries (227 → 327 total)
-- Covers BGG ranks 188-327
+- Covers ranks 188-327 from the original master list
 - Used parallel subagents for efficient batch creation
 - Updated CLAUDE.md game count
 
@@ -121,10 +121,40 @@ Full rating system implemented:
 
 ---
 
+## Session 5 - Source Restructuring & Master List Rebuild
+
+**Date:** February 15, 2026
+
+### What Was Accomplished
+
+- **Restructured data sources** — removed all third-party ranking site dependencies
+  - Stripped weight reference comments from 128 game YAML files
+  - Rewrote `/add-game` skill to use publisher sites, Wikipedia, retailers, and review sites
+  - Added subjective rules_complexity guidelines
+- **Built new master list** from award winners and notable game lists
+  - Compiled from: Spiel des Jahres, Kennerspiel des Jahres, As d'Or, International Gamers Award, Origins Awards, Dice Tower People's Choice, Wikipedia game lists, publisher catalogs
+  - New format uses `source` field (provenance) instead of ranking
+  - Alphabetical by ID instead of ranked
+  - All 389 existing game files included
+- **Created source provenance system**
+  - `sources/research-log.yaml` — chronological log of all URLs consulted
+  - `/add-game` skill now appends to this log automatically
+- **Archived original data**
+  - `archive/games-v1/` — snapshot of all game files pre-change
+  - `archive/master-list-v1.yaml` — original master list
+- **Updated tooling**
+  - `scripts/progress.py` — shows source instead of ranking
+  - `/progress` skill — updated output description
+- **Updated documentation**
+  - CLAUDE.md — added Blocked Sources and Source Provenance sections
+  - SESSION_NOTES.md — this entry
+
+---
+
 ## TODO - Future Sessions
 
 ### High Priority
-- [ ] **Add more detailed game entries** - 673 games remaining from master list
+- [ ] **Add more detailed game entries** — many games remaining from master list
 - [ ] **Obtain box art images** - See `/images/README.md` for sources
   - Contact publishers for press kits
   - Download from official websites
@@ -152,13 +182,16 @@ Full rating system implemented:
 - [ ] **Add plays tracking** - Structure for logging game sessions
 
 ### Data Sources Used
-- BoardGameGeek (game lists only, per user request)
 - Publisher websites (Roxley, Stonemaier, Cephalofair, FFG, etc.)
-- Wikipedia (for verification)
+- Wikipedia (award lists, game articles)
+- Retailer pages (Amazon, Miniature Market, etc.)
+- Review sites (Dice Tower, Shut Up & Sit Down, etc.)
 - Official product pages
 
 ### Notes for Next Session
-- Data was gathered from official publisher sources where possible
+- Data is gathered from official publisher sources where possible
+- See CLAUDE.md "Blocked Sources" section for restricted sites
+- All research URLs are logged in `sources/research-log.yaml`
 - `affinity` and `hotness` fields are intentionally blank for personal ratings
 - Game family relationships established (brass, dominion, gloomhaven, etc.)
 - Designer tags only applied where accurate (per user request)
@@ -166,8 +199,8 @@ Full rating system implemented:
 ---
 
 ## File Counts
-- `master_list.yaml`: 1,000 games (all with `id` slugs)
-- `games/*.yaml`: 327 detailed entries
+- `master_list.yaml`: Curated list from award winners and notable game lists
+- `games/*.yaml`: 389 detailed entries
 - Total categories defined: 70+
 - Designer tags available: 28
 - Publisher tags available: 22

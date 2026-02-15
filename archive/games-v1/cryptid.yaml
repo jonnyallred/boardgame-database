@@ -1,0 +1,67 @@
+id: cryptid
+name: "Cryptid"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-50 min, often closer to 30)
+rules_complexity: 1  # Elementary - simple question/search actions, BGG weight 2.22
+strategic_depth: 2  # Tactics - logical deduction and strategic questioning
+feel: 3  # Polite - competitive deduction with indirect interaction
+value: 2  # Fair Deal - quality modular hex tiles, wooden pieces, clue books
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deduction
+  - Hex Map
+  - Modular Board
+  - Variable Setup
+  - Puzzle Solving
+  - Bluffing
+  - Family
+  - Mystery
+  - Animals
+  - Nature
+  - Osprey Games
+
+# Player counts
+possible_counts: [3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Hal Duncan
+  - Ruth Veevers
+publisher:
+  - Osprey Games
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 50
+min_age: 10
+
+# Description
+description: |
+  A unique deduction game where players are cryptozoologists racing to find
+  a hidden creature. Each player holds one secret clue about the creature's
+  habitat, and when all clues combine, they identify a single hex on the
+  modular board. Ask questions and search locations to deduce opponents'
+  clues while concealing your own through honest misdirection. Features
+  over 46,000 possible board configurations across two difficulty levels.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

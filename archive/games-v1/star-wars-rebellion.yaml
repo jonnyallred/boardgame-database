@@ -1,0 +1,66 @@
+id: star-wars-rebellion
+name: "Star Wars: Rebellion"
+year: 2016
+
+# Relationships
+game_family: star-wars-rebellion
+edition: null
+base_game: null
+expansions:
+  - star-wars-rebellion-rise-of-the-empire
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (3-4 hours)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 4  # Fierce - asymmetric head-to-head war
+value: 4  # Heirloom - over 150 miniatures
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Dice Rolling
+  - Hand Management
+  - Hidden Movement
+  - 1 vs Many
+  - Narrative Heavy
+  - Sci-Fi
+  - Space
+  - Fantasy Flight Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Corey Konieczka
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Matt Allsopp
+playtime_minutes: 210
+min_playtime: 180
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  Relive the Galactic Civil War. The Empire seeks to find and destroy the
+  hidden Rebel base. The Rebellion strives to inspire hope and overthrow
+  tyranny. Asymmetric gameplay with over 150 plastic miniatures including
+  Star Destroyers, AT-ATs, X-Wings, and iconic heroes. Send Luke, Vader,
+  and other characters on missions across the galaxy.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

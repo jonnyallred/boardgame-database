@@ -12,7 +12,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (80-160 min)
-rules_complexity: 3  # College - several complex mechanics (BGG weight 3.73)
+rules_complexity: 3  # College - several complex mechanics
 strategic_depth: 3  # Strategy - long-term planning
 feel: 4  # Fierce - area control and dice combat
 value: 3  # Splurge - quality components with minis

@@ -1,0 +1,66 @@
+id: carnegie
+name: "Carnegie"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (90-120 min)
+rules_complexity: 4  # PhD (BGG weight 3.81)
+strategic_depth: 3  # Strategy - long-term planning and optimization
+feel: 3  # Polite - competitive with indirect interaction via follow mechanic
+value: 2  # Fair Deal - quality boards/cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Engine Building
+  - Network Building
+  - Tech Tree
+  - Action Points
+  - Resource Management
+  - Economic
+  - Euro
+  - Historical
+  - City Building
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Xavier Georges
+publisher:
+  - Quined Games
+  - Pegasus Spiele
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Inspired by Andrew Carnegie's rise as a 19th-century industrialist and
+  philanthropist, players manage departments, develop their company, and
+  expand across the United States. The innovative follow mechanic means
+  every action chosen applies to all players, creating constant engagement.
+  Manage Human Resources, Management, Construction, and R&D departments
+  to build the most successful enterprise while contributing to charity.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

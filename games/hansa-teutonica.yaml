@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (45-90 min)
-rules_complexity: 3  # College - BGG weight ~3.1
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy - long-term planning with upgrade paths
 feel: 4  # Fierce - highly interactive, displacement is core
 value: 1  # Bargain - functional components, strong replay

@@ -12,7 +12,7 @@ compatible_with:
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (30 min)
-rules_complexity: 2  # Junior High/High School - BGG weight 2.42
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 3  # Strategy - long-term planning
 feel: 3  # Polite - competitive with some direct interaction
 value: 2  # Fair Deal - card game quality

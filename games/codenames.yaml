@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (15 min rounds)
-rules_complexity: 0  # Preschool - BGG weight ~1.3
+rules_complexity: 0  # Preschool
 strategic_depth: 1  # Basic - simple clue-giving choices
 feel: 2  # Party - light social fun in teams
 value: 1  # Bargain - cards and grid, excellent replay

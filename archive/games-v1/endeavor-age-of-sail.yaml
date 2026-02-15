@@ -1,0 +1,67 @@
+id: endeavor-age-of-sail
+name: "Endeavor: Age of Sail"
+year: 2018
+
+# Relationships
+game_family: endeavor
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 2  # Junior High/High School - BGG weight 2.85
+strategic_depth: 3  # Strategy - long-term planning with engine building and area control
+feel: 3  # Polite - competitive with area majority interaction
+value: 3  # Splurge - quality components in the Kickstarter edition
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Engine Building
+  - Set Collection
+  - Drafting
+  - Tech Tree
+  - Euro
+  - Historical
+  - Maritime
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Carl de Visser
+  - Jarratt Gray
+publisher:
+  - Burnt Island Games
+  - Grand Gamers Guild
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 13
+
+# Description
+description: |
+  Build a maritime empire during the Age of Sail by expanding across
+  trade routes and discovering new lands. Develop your civilization
+  through four tracks - industry, culture, finance, and influence -
+  each unlocking powerful buildings and actions. Draft buildings from
+  a shared market, occupy cities across regions, and establish shipping
+  routes to gain glory. A streamlined civilization-building Euro with
+  an elegant action economy and satisfying engine growth. Reimplemented
+  from the 2009 original Endeavor with upgraded components and artwork.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,63 @@
+id: endless-winter-paleoamericans
+name: "Endless Winter: Paleoamericans"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (120+ min)
+rules_complexity: 3  # College - multiple interwoven systems
+strategic_depth: 3  # Strategy - long-term planning across mechanisms
+feel: 3  # Polite - competitive with area control tension
+value: 3  # Splurge - premium production and depth
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Deck Building
+  - Area Control
+  - Resource Management
+  - Euro
+  - Historical
+  - Ancient
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Stan Kordonskiy
+publisher:
+  - Fantasia Games
+artist:
+  - The Mico
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Lead a tribe of Paleoamericans through the Ice Age, competing to hunt
+  megafauna, explore new lands, and develop your culture. The game blends
+  worker placement, deck building, and area control into a cohesive Euro
+  experience across four seasons. Each round introduces new challenges
+  as the endless winter shapes the landscape and your strategic options.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

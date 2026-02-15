@@ -1,0 +1,65 @@
+id: galaxy-trucker
+name: "Galaxy Trucker"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60 min)
+rules_complexity: 2  # High School - moderate rules
+strategic_depth: 1  # Reflex - largely tactical and luck-driven
+feel: 3  # Polite - competitive but mostly laughing at disasters
+value: 3  # Splurge - great fun factor
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Real-time
+  - Tile Placement
+  - Press Your Luck
+  - Euro
+  - Family
+  - Space
+  - Sci-Fi
+  - Vlaada Chvatil
+  - Czech Games Edition
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Vlaada Chvátil
+publisher:
+  - Czech Games Edition
+artist:
+  - Radim Pech
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+# Description
+description: |
+  Frantically grab tiles in real-time to build a spaceship, then watch in
+  horror as meteors, pirates, and cosmic hazards tear it apart during the
+  flight phase. The joy comes from the chaos rather than winning, as even
+  well-built ships can suffer catastrophic failures. A unique blend of
+  real-time building and comedic destruction by Vlaada Chvátil.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

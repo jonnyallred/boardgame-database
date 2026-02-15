@@ -1,0 +1,65 @@
+id: kingdomino
+name: "Kingdomino"
+year: 2016
+
+# Relationships
+game_family: kingdomino
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (15-20 min)
+rules_complexity: 0  # Preschool - extremely simple
+strategic_depth: 1  # React - light drafting decisions
+feel: 3  # Polite - competitive drafting
+value: 2  # Investment - great components for the price
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Drafting
+  - Pattern Building
+  - Family
+  - Gateway
+  - Filler
+  - Medieval
+  - Fantasy
+  - Bruno Cathala
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Bruno Cathala
+publisher:
+  - Blue Orange Games
+artist:
+  - Cyril Bouquet
+playtime_minutes: 18
+min_playtime: 15
+max_playtime: 20
+min_age: 8
+
+# Description
+description: |
+  Build a kingdom by drafting and placing domino-like landscape tiles into
+  a 5x5 grid. Each tile has two terrain types, and scoring is based on
+  connected regions multiplied by the crowns they contain. The clever
+  drafting mechanism ties tile selection order to turn order, forcing
+  tough choices between powerful tiles and going first next round.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

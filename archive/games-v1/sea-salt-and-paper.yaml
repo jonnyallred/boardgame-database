@@ -1,0 +1,69 @@
+id: sea-salt-and-paper
+name: "Sea Salt & Paper"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Press Your Luck
+  - Card Drafting
+  - Family
+  - Filler
+  - Bruno Cathala
+  - Nature
+  - Animals
+  - Maritime
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Bruno Cathala
+  - "Théo Rivière"
+publisher:
+  - Bombyx
+  - Pandasaurus Games
+artist:
+  - Lucien Derainne
+  - Pierre-Yves Gallard
+playtime_minutes: 38
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  Collect and combine origami-style sea creature cards in this quick set
+  collection game with a push-your-luck twist. On each turn, draw cards
+  from the deck or discard piles, play combos for special effects, and
+  decide whether to end the round or give opponents one extra turn to
+  close the gap. Beautiful card art evokes the ocean through paper craft.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

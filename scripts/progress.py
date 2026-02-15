@@ -43,13 +43,13 @@ def main():
     print(f"Remaining: {len(remaining)}")
 
     if show_count > 0 and remaining:
-        print(f"\nNext {min(show_count, len(remaining))} games by BGG rank:")
+        print(f"\nNext {min(show_count, len(remaining))} games to add:")
         print("-" * 60)
         for g in remaining[:show_count]:
-            rank = g.get("bgg_rank", "?")
+            source = g.get("source", "?")
             name = g.get("name", "?")
             year = g.get("year", "?")
-            print(f"  #{rank:>4}  {name} ({year})")
+            print(f"  {name} ({year})  [{source}]")
 
 
 if __name__ == "__main__":

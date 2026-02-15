@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60-120 min)
-rules_complexity: 3  # College - BGG weight ~3.30
+rules_complexity: 3  # College
 strategic_depth: 2  # Tactics - tactical positioning and combat decisions
 feel: 4  # Fierce - 1 vs Many, direct conflict
 value: 4  # Heirloom - 34 minis, modular tiles, 250+ cards

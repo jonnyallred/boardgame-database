@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60 min per session)
-rules_complexity: 3  # College (BGG weight ~3.2, several complex mechanics with evolving legacy rules)
+rules_complexity: 3  # College (several complex mechanics with evolving legacy rules)
 strategic_depth: 3  # Strategy - long-term planning across campaign
 feel: 1  # Cooperative - work together
 value: 2  # Fair Deal - quality components, one-time play

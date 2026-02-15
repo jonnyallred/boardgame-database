@@ -1,0 +1,67 @@
+id: age-of-steam
+name: "Age of Steam"
+year: 2002
+
+# Relationships
+game_family: age-of-steam
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (around 2 hrs)
+rules_complexity: 4  # PhD - BGG weight ~3.9, intricate auction/economic rules
+strategic_depth: 4  # Master Plan - deep multi-move optimization
+feel: 4  # Fierce - cutthroat economic competition
+value: 3  # Splurge - quality components in deluxe edition
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Route Building
+  - Network Building
+  - Economic
+  - Action Points
+  - Resource Management
+  - Euro
+  - Trains
+  - Martin Wallace
+  - Eagle-Gryphon Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Martin Wallace
+publisher:
+  - Warfrog Games
+  - Eagle-Gryphon Games
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Build railroad networks and deliver goods across the American Rust Belt
+  in this cutthroat economic train game. Players auction for turn order
+  and special actions, issue shares to raise capital (at the cost of
+  future income), lay track to connect cities, and deliver goods to
+  earn revenue. Cash management is brutal - overspend and you spiral
+  into debt. One of the definitive heavy train games with over 100
+  expansion maps available.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

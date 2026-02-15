@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (~45-125 min)
-rules_complexity: 3  # College (BGG weight ~3.02)
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy - long-term planning
 feel: 4  # Fierce - direct area control conflict
 value: 3  # Splurge - premium components, chips, minis

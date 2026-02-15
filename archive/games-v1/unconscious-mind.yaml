@@ -1,0 +1,63 @@
+id: unconscious-mind
+name: "Unconscious Mind"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-120 min)
+rules_complexity: 3  # College - layered mechanisms
+strategic_depth: 3  # Strategy - deep worker placement decisions
+feel: 3  # Polite - competitive Euro interaction
+value: 3  # Splurge - quality production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Set Collection
+  - Euro
+  - Historical
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3]
+
+# Metadata
+designer:
+  - Jonny Pac
+  - Giorgio De Michele
+publisher:
+  - Thundergryph Games
+artist:
+  - Edu Valls
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Step into the world of early 20th-century psychology as pioneering
+  researchers competing to advance the understanding of the human mind.
+  Players place workers to conduct experiments, publish papers, and treat
+  patients across multiple interconnected action spaces. The game's rich
+  thematic integration brings the history of psychology to life through
+  its mechanisms and artwork.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

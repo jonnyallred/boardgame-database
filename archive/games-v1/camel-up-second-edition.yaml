@@ -1,0 +1,66 @@
+id: camel-up-second-edition
+name: "Camel Up (Second Edition)"
+year: 2018
+
+# Relationships
+game_family: camel-up
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Racing
+  - Family
+  - Party
+  - Animals
+
+# Player counts
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [5, 6]
+
+# Metadata
+designer:
+  - Steffen Bogen
+publisher:
+  - eggertspiele
+  - Plan B Games
+artist:
+  - Dennis Lohausen
+  - Chris Quilliams
+playtime_minutes: 38
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  Bet on five quirky camels as they race and stack on top of each other
+  around a pyramid track. Shake the iconic cardboard pyramid to release a
+  die, place desert tiles to manipulate the race, or bet on leg winners and
+  the overall race outcome. Camels that land on occupied spaces stack on
+  top, carrying or being carried by other camels. This second edition adds
+  rogue camels running in the opposite direction. Winner of the 2014 Spiel
+  des Jahres (original edition).
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (2-4 hrs)
-rules_complexity: 4  # PhD - BGG weight 4.04
+rules_complexity: 4  # PhD
 strategic_depth: 4  # Master Plan - deep multi-move optimization
 feel: 4  # Fierce - cutthroat area control rivalry
 value: 3  # Splurge - substantial components

@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (30-60 min games)
-rules_complexity: 1  # Elementary - BGG weight 1.93
+rules_complexity: 1  # Elementary
 strategic_depth: 2  # Tactics - short-term positioning and card market choices
 feel: 3  # Polite - competitive racing with indirect interaction
 value: 2  # Fair Deal - quality cards and modular board tiles

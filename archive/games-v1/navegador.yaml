@@ -1,0 +1,62 @@
+id: navegador
+name: "Navegador"
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 3  # College - rondel mechanic with interconnected strategies
+strategic_depth: 3  # Strategy - planning actions on the rondel
+feel: 3  # Polite - competitive economic game with indirect interaction
+value: 3  # Splurge - solid Euro game production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Rondel
+  - Economic
+  - Route Building
+  - Set Collection
+  - Network Building
+  - Action Points
+  - Variable Setup
+  - Euro
+  - Historical
+  - Maritime
+  - Mac Gerdts
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Mac Gerdts
+publisher:
+  - PD-Verlag
+  - Rio Grande Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Set during Portugal's Age of Discovery in the 15th-16th centuries, players build a colonial empire through exploration, colonization, and trade. The game features Mac Gerdts' innovative rondel action selection system where players move their marker around a circular board to choose actions: sailing to discover new regions, hiring workers, founding colonies, trading goods on the market, constructing buildings and ships, or gaining privileges. Players sail the seas to explore unknown territories, establish colonies producing sugar, gold, and spices, and build factories to process goods. Success comes from balancing exploration rewards, colony production, market prices, and privileges to become the most prosperous dynasty by game end.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

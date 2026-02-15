@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (around 2 hrs)
-rules_complexity: 4  # PhD - BGG weight ~3.9, intricate auction/economic rules
+rules_complexity: 4  # PhD - intricate auction/economic rules
 strategic_depth: 4  # Master Plan - deep multi-move optimization
 feel: 4  # Fierce - cutthroat economic competition
 value: 3  # Splurge - quality components in deluxe edition

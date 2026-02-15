@@ -1,0 +1,62 @@
+id: space-base
+name: "Space Base"
+year: 2018
+
+# Relationships
+game_family: space-base
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 1  # Elementary - basic instructions
+strategic_depth: 2  # Tactics - short-term positioning
+feel: 3  # Polite - competitive with minimal interaction
+value: 2  # Fair Deal - quality cards and boards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Engine Building
+  - Drafting
+  - Sci-Fi
+  - Space
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - John D. Clair
+publisher:
+  - Alderac Entertainment Group
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 75
+min_age: 14
+
+# Description
+description: |
+  As a commodore of a small Space Base, draft new ships into your fleet
+  to work and patrol the 12 sectors under your watch. On your turn, roll
+  two dice and choose to use them individually or as a sum to activate
+  corresponding ship sectors, earning credits, income, or influence
+  (victory points). A key twist: when other players roll, your deployed
+  (flipped) cards also activate, keeping everyone engaged on every turn.
+  Build an engine of ships that generate rewards both on your turn and
+  others'. First to 40 points wins promotion to Admiral.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

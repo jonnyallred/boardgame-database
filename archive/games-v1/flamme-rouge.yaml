@@ -1,0 +1,66 @@
+id: flamme-rouge
+name: "Flamme Rouge"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: null
+rules_complexity: null
+strategic_depth: null
+feel: null
+value: null
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Programmed Movement
+  - Racing
+  - Simultaneous Action
+  - Modular Board
+  - Family
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Asger Harding Granerud
+publisher:
+  - Lautapelit.fi
+  - Stronghold Games
+  - Devir
+artist:
+  - Ossi Hiekkala
+  - Jere Kasanen
+playtime_minutes: 38
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  A fast-paced tactical bicycle racing game where each player controls
+  a team of two riders: a Rouleur (endurance) and a Sprinteur (burst
+  speed). Players simultaneously select cards from each rider's unique
+  deck to determine movement, depleting their deck as they go.
+  Slipstreaming and exhaustion mechanics create dynamic pack racing.
+  The modular track allows varied courses with hills and terrain.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (40-80 min, averaging ~1 hr)
-rules_complexity: 2  # Junior High/High School (BGG weight ~3.0, structured mechanics)
+rules_complexity: 2  # Junior High/High School (structured mechanics)
 strategic_depth: 3  # Strategy (long-term combo planning and tableau optimization)
 feel: 3  # Polite (competitive with minimal direct interaction)
 value: 3  # Splurge (magnetic meeples, premium card quality, standout production)

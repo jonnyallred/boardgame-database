@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (90-120 min)
-rules_complexity: 3  # College - BGG weight 3.77
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy - long-term planning with rondel and resource optimization
 feel: 3  # Polite - competitive Euro with moderate interaction
 value: 3  # Splurge - chunky dice workers, pyramid construction pieces

@@ -1,0 +1,64 @@
+id: a-feast-for-odin
+name: "A Feast for Odin"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - a-feast-for-odin-the-norwegians
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (30-120 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with minimal interaction
+value: 4  # Heirloom - massive box, tons of components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Puzzle Solving
+  - Resource Management
+  - Historical
+  - Euro
+  - Uwe Rosenberg
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Z-Man Games
+  - Feuerland Spiele
+artist:
+  - Dennis Lohausen
+playtime_minutes: 90
+min_playtime: 30
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Experience Viking life through worker placement and tile-laying puzzles.
+  Over 60 different actions available. Hunt, trade, raid, and emigrate.
+  Fill your home board and island boards with goods tiles using Tetris-like
+  spatial puzzles. Uwe Rosenberg's most expansive worker placement design.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

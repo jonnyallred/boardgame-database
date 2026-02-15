@@ -1,0 +1,62 @@
+id: turing-machine
+name: "Turing Machine"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (20 min)
+rules_complexity: 1  # Elementary - simple core loop
+strategic_depth: 2  # Tactics - logical deduction skill
+feel: 3  # Polite - competitive but parallel play
+value: 2  # Quality - clever analog technology
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deduction
+  - Puzzle Solving
+  - Euro
+  - Family
+  - Filler
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Fabien Gridel
+  - Yoann Levet
+publisher:
+  - Scorpion Masqué
+artist:
+  - Sébastien Mourain
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 14
+
+# Description
+description: |
+  Crack a secret code by querying analog punch card verifiers that provide
+  true or false responses to your guesses. Each round you propose a three-digit
+  code and choose which verifiers to check, trying to deduce the answer in
+  fewer queries than your opponents. A remarkable achievement in analog
+  computing that generates millions of unique puzzles without electronics.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

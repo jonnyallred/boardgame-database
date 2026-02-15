@@ -1,0 +1,69 @@
+id: caverna-the-cave-farmers
+name: "Caverna: The Cave Farmers"
+year: 2013
+
+# Relationships
+game_family: caverna
+edition: null
+base_game: null
+expansions:
+  - caverna-the-forgotten-folk
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3+ hrs at typical counts)
+rules_complexity: 3  # College - BGG weight 3.79, several complex mechanics
+strategic_depth: 3  # Strategy - long-term planning with many paths to victory
+feel: 3  # Polite - competitive worker placement with indirect blocking
+value: 4  # Heirloom - 300+ wooden pieces, 60+ acrylic parts, massive production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Engine Building
+  - Tile Placement
+  - Resource Management
+  - Variable Setup
+  - Euro
+  - Fantasy
+  - Agriculture
+  - Uwe Rosenberg
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6, 7]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Lookout Games
+  - Mayfair Games
+playtime_minutes: 120
+min_playtime: 30
+max_playtime: 210
+min_age: 12
+
+# Description
+description: |
+  Lead a small dwarf family living in a cave in the mountains. Place your
+  dwarves as workers to farm the land, mine ore and rubies from the
+  mountain, and furnish your caves with specialized rooms. Each round
+  reveals new action spaces, and players must balance expanding their
+  family with feeding them. A spiritual successor to Agricola that
+  replaces card-driven asymmetry with a vast menu of building tiles,
+  giving every player access to the same options while supporting
+  diverse strategies. Includes adventure expeditions where armed
+  dwarves can gather bonus resources and loot.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

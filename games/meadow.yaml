@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60-90 min)
-rules_complexity: 1  # Elementary - basic instructions (BGG weight 2.26)
+rules_complexity: 1  # Elementary - basic instructions
 strategic_depth: 2  # Tactics - short-term positioning
 feel: 3  # Polite - competitive with minimal interaction
 value: 3  # Splurge - beautiful hand-painted watercolor artwork

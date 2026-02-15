@@ -1,0 +1,59 @@
+id: dead-reckoning
+name: "Dead Reckoning"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - dead-reckoning-port-of-call
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-150 min)
+rules_complexity: 3  # College - multiple complex mechanics including card crafting
+strategic_depth: 3  # Strategy - balanced strategic depth with multiple viable paths
+feel: 3  # Polite - competitive with area control and combat
+value: 3  # Splurge - quality components with card crafting system
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Deck Building
+  - Hand Management
+  - Area Control
+  - Modular Board
+  - Variable Setup
+  - Pirates
+  - 4X
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - John D. Clair
+publisher:
+  - Alderac Entertainment Group
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Dead Reckoning is a game of exploration, piracy, and influence in a Caribbean-esque setting. Players command ships and crews to amass fortunes through pirating, trading, treasure hunting, and capturing control of resource-rich islands. The game features John D. Clair's innovative Card Crafting System where players work with the same hand of 12 sailor cards throughout the game, but improve them by sliding transparent advancement cards into sleeves to make them more powerful. Players can customize their ships' guns, speed, and cargo capacity while battling other ships and competing for island control. Combat is resolved using a unique cube tower mechanism. The game offers multiple paths to victory with 4X elements of exploration, settlement, and conflict.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

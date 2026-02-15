@@ -1,0 +1,69 @@
+id: tiny-epic-galaxies
+name: "Tiny Epic Galaxies"
+year: 2015
+
+# Relationships
+game_family: tiny-epic
+edition: null
+base_game: null
+expansions:
+  - tiny-epic-galaxies-beyond-the-black
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-45 min)
+rules_complexity: 2  # Junior High/High School (structured steps and mechanics)
+strategic_depth: 2  # Tactics (short-term positioning)
+feel: 3  # Polite (competitive with minimal interaction)
+value: 1  # Bargain (filler chits, solid replay)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Action Points
+  - Simultaneous Action
+  - Set Collection
+  - Sci-Fi
+  - Space
+  - 4X
+  - Filler
+  - Family
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Scott Almes
+publisher:
+  - Gamelyn Games
+artist:
+  - William Bricker
+playtime_minutes: 38
+min_playtime: 30
+max_playtime: 45
+min_age: 14
+
+# Description
+description: |
+  Control a galactic empire and compete to expand your fleets and colonize
+  planets through innovative dice-rolling mechanics. The number of dice you
+  roll is determined by the strength of your galaxy, with each die showing
+  actions like moving ships, gaining resources, or advancing influence on
+  planets. Opponents can follow your actions by spending resources, keeping
+  everyone engaged even during others' turns. Colonized planets grant special
+  abilities and victory points in this compact 4X experience.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

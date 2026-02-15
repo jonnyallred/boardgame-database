@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (90-180 min)
-rules_complexity: 4  # PhD - BGG weight 3.89
+rules_complexity: 4  # PhD
 strategic_depth: 2  # Tactics - short-term positioning with hidden objectives
 feel: 4  # Fierce - semi-cooperative with betrayal and hidden objectives
 value: 4  # Heirloom - massive miniatures, multi-level board

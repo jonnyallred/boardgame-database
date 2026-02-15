@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (1 hr)
-rules_complexity: 2  # Junior High/High School - BGG weight 2.79
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 2  # Tactics - short-term positioning with deck/breach management
 feel: 1  # Cooperative - work together against the Nemesis
 value: 2  # Fair Deal - quality cards and components

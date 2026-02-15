@@ -1,0 +1,64 @@
+id: barrage
+name: "Barrage"
+year: 2019
+
+# Relationships
+game_family: barrage
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 4  # PhD - intricate rules
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with minimal interaction
+value: 3  # Splurge - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Economic
+  - Network Building
+  - Resource Management
+  - Action Point Allowance
+  - Economics
+  - Energy Production
+  - Engineering
+  - Euro
+  - Heavy
+  - Cult Classic
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Simone Luciani
+  - Tommaso Battista
+publisher:
+  - Cranio Creations
+playtime_minutes: 112
+min_playtime: 75
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  A sophisticated worker-placement game about building dams and hydroelectric plants in the Alps.
+  Features a unique construction wheel mechanic that prevents simultaneous resource access,
+  requiring careful planning and timing. Strategic depth with significant player interaction.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,63 @@
+id: battle-line
+name: "Battle Line"
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (around 30 min)
+rules_complexity: 1  # Elementary - simple card play rules
+strategic_depth: 2  # Tactics - hand reading and bluffing
+feel: 4  # Fierce - direct head-to-head
+value: 1  # Budget - small box card game
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Filler
+  - Abstract
+  - Ancient
+  - War
+  - Reiner Knizia
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - GMT Games
+artist:
+  - Rodger B. MacGowan
+  - Mark Simonitch
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 12
+
+# Description
+description: |
+  A tense two-player card game where opponents play numbered and colored
+  cards to form poker-like formations across nine flags on the battlefield.
+  Claim three adjacent flags or any five flags to win. The optional tactics
+  cards add wild and special abilities for extra strategic depth.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (2-3 hrs per session, campaign spans 30-50 hrs)
-rules_complexity: 3  # College (BGG weight 3.36/5 - several complex mechanics)
+rules_complexity: 3  # College ( - several complex mechanics)
 strategic_depth: 2  # Tactics (card-based combat/diplomacy positioning)
 feel: 1  # Cooperative (fully cooperative survival)
 value: 4  # Heirloom (massive box, minis, 760+ cards, 200+ page journal)

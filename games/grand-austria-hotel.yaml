@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60-120 min)
-rules_complexity: 3  # College - several complex mechanics (BGG weight 3.42)
+rules_complexity: 3  # College - several complex mechanics
 strategic_depth: 3  # Strategy - long-term planning with dice drafting
 feel: 3  # Polite - competitive with indirect interaction via dice selection
 value: 2  # Fair Deal - quality boards/cards

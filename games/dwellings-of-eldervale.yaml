@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (games often run 2+ hrs)
-rules_complexity: 3  # College (BGG weight 3.24)
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy - long-term planning across multiple systems
 feel: 4  # Fierce - direct dice combat and area control
 value: 4  # Heirloom - premium minis, custom dice, deluxe production

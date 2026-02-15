@@ -1,0 +1,64 @@
+id: glory-to-rome
+name: "Glory to Rome"
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60 min)
+rules_complexity: 2  # Moderate - multi-use cards take learning
+strategic_depth: 3  # Strategy - deep combo potential
+feel: 3  # Polite - competitive but indirect interaction
+
+value: 1  # Budget - out of print, hard to find
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Tableau Building
+  - Variable Setup
+  - Euro
+  - Cult Classic
+  - Ancient
+  - City Building
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Carl Chudyk
+publisher:
+  - Cambridge Games Factory
+artist:
+  - Heiko Günther
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  Rebuild Rome after the great fire using multi-use cards that serve as
+  buildings, resources, workers, and currency. Follow or think actions
+  to construct powerful buildings that chain together into devastating
+  combos. A beloved cult classic known for its explosive card interactions
+  and wildly variable game arcs.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (3 hrs) - games commonly run 2-3 hours
-rules_complexity: 3  # College - BGG weight ~3.70
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy - long-term planning across explore/build/research
 feel: 4  # Fierce - cutthroat space conquest and area control
 value: 4  # Heirloom - lots of components, tiles, ships, tech boards

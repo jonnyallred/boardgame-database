@@ -1,0 +1,59 @@
+id: targi
+name: "Targi"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School - BGG weight 2.34
+strategic_depth: 3  # Strategy - tight worker placement with long-term planning
+feel: 4  # Fierce - direct blocking of opponent's workers
+value: 1  # Bargain - card-based with solid replay
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Set Collection
+  - Modular Board
+  - Resource Management
+  - Euro
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Andreas Steiger
+publisher:
+  - KOSMOS
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  Lead a Tuareg tribe in the desert, competing to collect resources,
+  trade goods, and recruit tribe members. Place workers on a grid border
+  to claim intersection cards — but your opponent can block your plans.
+  A tight, brain-burning two-player-only game with meaningful decisions
+  every turn. Nominated for the 2012 Kennerspiel des Jahres.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

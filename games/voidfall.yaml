@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (90-240 min, typically 3+ hrs)
-rules_complexity: 4  # PhD (BGG weight 4.60)
+rules_complexity: 4  # PhD
 strategic_depth: 4  # Master Plan (deep 4X Euro optimization)
 feel: 3  # Polite (competitive Euro with indirect interaction)
 value: 4  # Heirloom (premium production, massive box)

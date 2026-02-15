@@ -1,0 +1,65 @@
+id: summoner-wars-second-edition
+name: "Summoner Wars (Second Edition)"
+year: 2021
+
+# Relationships
+game_family: summoner-wars
+edition: "Second Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (40-60 min typical)
+rules_complexity: 2  # Junior High - structured tactical mechanics, BGG weight ~2.5
+strategic_depth: 3  # Strategy - faction selection, positioning, resource management
+feel: 4  # Fierce - direct head-to-head combat to eliminate opponent's summoner
+value: 2  # Fair Deal - quality cards, custom dice, and game board
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Hand Management
+  - Action Points
+  - Take That
+  - Area Control
+  - Ameritrash
+  - Dudes on a Map
+  - Fantasy
+  - War
+  - Plaid Hat Games
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Colby Dauch
+publisher:
+  - Plaid Hat Games
+playtime_minutes: 45
+min_playtime: 40
+max_playtime: 60
+min_age: 9
+
+# Description
+description: |
+  A tactical dueling card game where two players take on the roles of powerful
+  summoners battling for control of the war-torn planet of Itharia. Players
+  summon units to a grid-based battlefield, maneuver them into position, and
+  use dice-driven combat to destroy the opposing summoner. Each faction offers
+  unique abilities and strategies, with a streamlined second edition ruleset
+  and deck construction options for deep replayability.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

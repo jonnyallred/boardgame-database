@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (30-60 min)
-rules_complexity: 1  # Elementary - BGG weight 1.92
+rules_complexity: 1  # Elementary
 strategic_depth: 2  # Tactics - route planning and blocking
 feel: 3  # Polite - competitive with route contention
 value: 2  # Fair Deal - quality board, cards, plastic trains

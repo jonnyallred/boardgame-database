@@ -12,7 +12,7 @@ compatible_with:
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60-120 min)
-rules_complexity: 3  # College - BGG weight 3.21
+rules_complexity: 3  # College
 strategic_depth: 3  # Strategy - long-term planning
 feel: 3  # Polite - competitive with minimal interaction
 value: 3  # Splurge - two maps, Venus cards, 6-player components

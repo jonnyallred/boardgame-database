@@ -1,0 +1,63 @@
+id: splendor-duel
+name: "Splendor Duel"
+year: 2022
+
+# Relationships
+game_family: splendor
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary - slightly above gateway
+strategic_depth: 2  # Tactics - short-term positioning with multiple win paths
+feel: 4  # Fierce - direct head-to-head rivalry
+value: 3  # Splurge - gem tokens and quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Drafting
+  - Engine Building
+  - Resource Management
+  - Euro
+  - Family
+  - Bruno Cathala
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Marc Andre
+  - Bruno Cathala
+publisher:
+  - Space Cowboys
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  A two-player standalone game set in the Splendor universe. Collect gems
+  from a shared board, reserve and purchase development cards, and earn
+  prestige points. Three ways to win: reach 20 prestige, collect 10 crowns,
+  or gather prestige from cards of all five colors. More interactive and
+  tense than the original, with a spatial gem-selection mechanism and
+  royal cards that add strategic depth.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

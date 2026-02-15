@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (1 hr)
-rules_complexity: 2  # Junior High/High School - BGG weight 2.34
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 3  # Strategy - tight worker placement with long-term planning
 feel: 4  # Fierce - direct blocking of opponent's workers
 value: 1  # Bargain - card-based with solid replay

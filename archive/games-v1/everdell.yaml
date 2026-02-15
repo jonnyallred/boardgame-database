@@ -1,0 +1,70 @@
+id: everdell
+name: "Everdell"
+year: 2018
+
+# Relationships
+game_family: everdell
+edition: null
+base_game: null
+expansions:
+  - everdell-pearlbrook
+  - everdell-spirecrest
+  - everdell-bellfaire
+  - everdell-newleaf
+  - everdell-mistwood
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (40-80 min)
+rules_complexity: 2  # Junior High - structured steps
+strategic_depth: 2  # Tactics - short-term positioning
+feel: 3  # Polite - competitive with minimal interaction
+value: 4  # Heirloom - exceptional 3D tree, beautiful art
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Tableau Building
+  - Engine Building
+  - Hand Management
+  - Set Collection
+  - Animals
+  - Euro
+  - Fantasy
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - James A. Wilson
+publisher:
+  - Starling Games
+artist:
+  - Andrew Bosley
+  - Dann May
+playtime_minutes: 60
+min_playtime: 40
+max_playtime: 80
+min_age: 13
+
+# Description
+description: |
+  Build a city of critters and constructions in the forest of Everdell.
+  Collect resources, play cards to your tableau, and deploy workers to
+  prepare for the changing seasons. Dynamic tableau building as you grow
+  from a small settlement to a thriving city over four seasons. Features
+  a stunning 3D Ever Tree centerpiece.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60 min)
-rules_complexity: 1  # Elementary - BGG weight ~2.0
+rules_complexity: 1  # Elementary
 strategic_depth: 2  # Tactics - short-term positioning and cooperation
 feel: 1  # Cooperative - work together
 value: 3  # Splurge - great miniatures and components

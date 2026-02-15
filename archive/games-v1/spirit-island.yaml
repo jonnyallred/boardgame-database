@@ -1,0 +1,67 @@
+id: spirit-island
+name: "Spirit Island"
+year: 2017
+
+# Relationships
+game_family: spirit-island
+edition: null
+base_game: null
+expansions:
+  - spirit-island-branch-and-claw
+  - spirit-island-jagged-earth
+  - spirit-island-feather-and-flame
+  - spirit-island-nature-incarnate
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-120 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 1  # Cooperative - work together
+value: 3  # Splurge - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Area Control
+  - Hand Management
+  - Variable Setup
+  - Modular Board
+  - Fantasy
+  - Euro
+  - R. Eric Reuss
+  - Greater Than Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - R. Eric Reuss
+publisher:
+  - Greater Than Games
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  A cooperative strategy game where players take on the roles of powerful
+  spirits defending their island from colonizing Invaders. Each spirit has
+  unique elemental powers and abilities. Work together to spread fear and
+  destroy settlements before the Invaders overwhelm the land with Blight.
+  Highly variable gameplay with different spirits, adversaries, and scenarios.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

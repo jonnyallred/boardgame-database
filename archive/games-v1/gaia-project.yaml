@@ -1,0 +1,66 @@
+id: gaia-project
+name: "Gaia Project"
+year: 2017
+
+# Relationships
+game_family: terra-mystica
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (60-150 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with minimal direct interaction
+value: 3  # Splurge - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Area Control
+  - Network Building
+  - Resource Management
+  - Tech Tree
+  - Variable Setup
+  - Modular Board
+  - Sci-Fi
+  - Space
+  - Euro
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Jens Drogemuller
+  - Helge Ostertag
+publisher:
+  - Z-Man Games
+  - Feuerland Spiele
+playtime_minutes: 105
+min_playtime: 60
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  The spiritual successor to Terra Mystica, set in space. Fourteen factions
+  compete to colonize planets across the galaxy. Each faction has unique
+  abilities and terraform requirements. Build structures, advance on
+  technology tracks, and form federations. Deep strategic gameplay with
+  minimal luck.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

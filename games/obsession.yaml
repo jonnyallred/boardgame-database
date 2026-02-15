@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (1 hr) - typical game runs 60-90 min
-rules_complexity: 3  # College - BGG weight 3.10, several interlocking mechanics
+rules_complexity: 3  # College - several interlocking mechanics
 strategic_depth: 3  # Strategy - long-term engine building and reputation planning
 feel: 3  # Polite - competitive with minimal direct interaction
 value: 3  # Splurge - quality tiles and cards, multiple expansions available

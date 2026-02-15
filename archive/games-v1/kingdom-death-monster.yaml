@@ -1,0 +1,65 @@
+id: kingdom-death-monster
+name: "Kingdom Death: Monster"
+year: 2015
+
+# Relationships
+game_family: kingdom-death-monster
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (sessions run 60-180 min, campaigns span many sessions)
+rules_complexity: 4  # PhD (BGG weight 4.27/5 - intricate gear grid, AI deck, settlement phases)
+strategic_depth: 3  # Strategy (long-term settlement planning, gear crafting, survivor development)
+feel: 1  # Cooperative (fully cooperative survival)
+value: 4  # Heirloom (massive box, premium plastic miniatures, hundreds of cards)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Campaign Mode
+  - Narrative Heavy
+  - Resource Management
+  - Ameritrash
+  - Horror
+  - Fantasy
+  - Survival
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Adam Poots
+publisher:
+  - Kingdom Death
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 17
+
+# Description
+description: |
+  A cooperative nightmare-horror board game where players build a settlement
+  of survivors in a world of darkness and monsters. Each campaign spans
+  multiple Lantern Years - hunt terrifying creatures, craft gear from their
+  remains on a unique 3x3 gear grid, and develop your civilization against
+  escalating threats. Combines tactical monster showdowns with strategic
+  settlement management. Features premium miniatures and a deeply thematic
+  narrative driven by AI decks, hit location systems, and story events.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

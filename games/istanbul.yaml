@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (1 hr) - 40-60 min
-rules_complexity: 2  # Junior High/High School - BGG weight 2.58
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 2  # Tactics - short-term positioning with route planning
 feel: 3  # Polite - competitive but mostly indirect interaction
 value: 2  # Fair Deal - quality boards/cards, modular bazaar tiles

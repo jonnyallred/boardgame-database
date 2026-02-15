@@ -1,0 +1,63 @@
+id: sky-team
+name: "Sky Team"
+year: 2023
+
+# Relationships
+game_family: sky-team
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary - basic instructions
+strategic_depth: 2  # Tactics - short-term positioning
+feel: 4  # Fierce - cutthroat rivalry
+value: 4  # Heirloom - luxury production, expansions beckon
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Communication Limits
+  - Real-time
+  - Worker Placement
+  - Aviation
+  - Sci-Fi
+  - Modern Aviation
+  - Family
+  - Gateway
+  - Filler
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Luc Rémond
+publisher:
+  - Le Scorpion Masqué
+playtime_minutes: 18
+min_playtime: 15
+max_playtime: 20
+min_age: 8
+
+# Description
+description: |
+  An elegant cooperative dice game where two pilots silently coordinate to land an airplane.
+  After initial communication, players can only signal through die placement. Winner of
+  multiple awards for innovation in cooperative gameplay and two-player design.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

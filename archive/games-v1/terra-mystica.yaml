@@ -1,0 +1,66 @@
+id: terra-mystica
+name: "Terra Mystica"
+year: 2012
+
+# Relationships
+game_family: terra-mystica
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with minimal interaction
+value: 3  # Splurge - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Hex Map
+  - Network Building
+  - Resource Management
+  - Tech Tree
+  - Variable Player Powers
+  - Fantasy
+  - Civilization
+  - Terraforming
+  - Euro
+  - Abstract
+  - Cult Classic
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Helge Ostertag
+  - Jens Drögemüller
+publisher:
+  - Feuerland Spiele
+  - Z-Man Games
+playtime_minutes: 105
+min_playtime: 60
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  An influential euro game featuring fourteen asymmetric fantasy factions building civilizations
+  on hexagonal terrain. Each faction excels on specific terrain types, requiring strategic
+  terraforming. Complex resource management and faction powers create deep, engaging gameplay.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

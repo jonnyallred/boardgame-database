@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 1  # Appetizer (30-45 min)
-rules_complexity: 1  # Elementary - BGG weight 1.88
+rules_complexity: 1  # Elementary
 strategic_depth: 2  # Tactics - spatial puzzle with scoring combos
 feel: 3  # Polite - competitive but mostly solo puzzling
 value: 1  # Bargain - pencil and paper style, solid replay

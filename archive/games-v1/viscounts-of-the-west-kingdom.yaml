@@ -1,0 +1,74 @@
+id: viscounts-of-the-west-kingdom
+name: "Viscounts of the West Kingdom"
+year: 2020
+
+# Relationships
+game_family: west-kingdom
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 3  # College - BGG weight 3.46
+strategic_depth: 3  # Strategy - long-term planning with deck building and rondel
+feel: 3  # Polite - competitive with indirect interaction
+value: 2  # Fair Deal - quality boards and cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Rondel
+  - Area Control
+  - Engine Building
+  - Modular Board
+  - Resource Management
+  - Euro
+  - Medieval
+  - Historical
+  - Renegade Game Studios
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3]
+
+# Metadata
+designer:
+  - Shem Phillips
+  - S J Macdonald
+publisher:
+  - Garphill Games
+  - Renegade Game Studios
+artist:
+  - Mihajlo Dimitrievski
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  The final installment in the West Kingdom trilogy, set in the early
+  centuries of the second millennium. Players take on the roles of
+  viscounts, traveling around the kingdom seeking upgrades and
+  competing for influence. Move your viscount around a rondel-style
+  board, building structures, writing manuscripts, working in the
+  castle, and acquiring deeds for new land. Features deck building
+  with townsfolk cards that determine your available actions and
+  abilities. The game ends when the kingdom reaches a threshold of
+  poverty or prosperity, and the player with the most victory points
+  wins.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

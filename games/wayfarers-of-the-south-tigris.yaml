@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 2  # Main Course (60-90 min)
-rules_complexity: 3  # College - BGG weight ~3.73, lots of interlocking rules
+rules_complexity: 3  # College - lots of interlocking rules
 strategic_depth: 3  # Strategy - multiple paths to victory, long-term dice/tableau planning
 feel: 3  # Polite - competitive Euro with minimal direct interaction
 value: 2  # Fair Deal - quality boards/cards

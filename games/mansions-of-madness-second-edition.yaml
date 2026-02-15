@@ -11,7 +11,7 @@ compatible_with: []
 
 # Ratings (0-4 scale)
 length: 3  # Feast (2-3 hrs)
-rules_complexity: 2  # Junior High/High School - BGG weight 2.67
+rules_complexity: 2  # Junior High/High School
 strategic_depth: 2  # Tactics - short-term positioning and cooperative puzzle solving
 feel: 1  # Cooperative - fully cooperative app-driven experience
 value: 4  # Heirloom - 32 detailed miniatures, modular tiles, premium FFG production

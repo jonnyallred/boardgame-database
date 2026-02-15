@@ -1,0 +1,76 @@
+id: scythe
+name: "Scythe"
+year: 2016
+
+# Relationships
+game_family: scythe
+edition: null
+base_game: null
+expansions:
+  - scythe-invaders-from-afar
+  - scythe-the-wind-gambit
+  - scythe-the-rise-of-fenris
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-115 min)
+rules_complexity: 2  # Junior High - structured steps
+strategic_depth: 3  # Strategy - long-term planning
+feel: 3  # Polite - competitive with minimal combat
+value: 4  # Heirloom - exceptional production quality
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Area Control
+  - Resource Management
+  - Variable Setup
+  - Hex Map
+  - Sci-Fi
+  - Euro
+  - Jamey Stegmaier
+  - Stonemaier Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Jamey Stegmaier
+publisher:
+  - Stonemaier Games
+artist:
+  - Jakub Rozalski
+playtime_minutes: 100
+min_playtime: 90
+max_playtime: 115
+min_age: 14
+
+# Description
+description: |
+  Set in an alternative history 1920s Europe, players control factions that
+  produce resources, develop economic infrastructure, and deploy dieselpunk
+  combat mechs. An engine-building game where combat is costly and rare.
+  Each player controls a different faction with asymmetric starting positions
+  and abilities. Features excellent solo play via the Automa system.
+
+# Upgrades
+upgrades:
+  - name: "Metal Coins"
+    type: "metal coins"
+    publisher: "Stonemaier Games"
+    notes: "Premium metal currency"
+  - name: "Realistic Resources"
+    type: "component upgrade"
+    publisher: "Stonemaier Games"
+    notes: "Deluxe wooden resources"
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
