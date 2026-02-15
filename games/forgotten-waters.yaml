@@ -1,0 +1,67 @@
+id: forgotten-waters
+name: "Forgotten Waters"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-4 hour sessions)
+rules_complexity: 2  # Junior High/High School - structured mechanics with app guidance
+strategic_depth: 1  # Basic - simple choices, narrative-driven rather than strategic
+feel: 1  # Cooperative - work together with personal story goals
+value: 3  # Splurge - app-driven narration, location book, quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Dice Rolling
+  - Worker Placement
+  - Campaign Mode
+  - Pirates
+  - Fantasy
+  - Maritime
+  - Ameritrash
+  - Plaid Hat Games
+
+# Player counts
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Mr. Bistro
+  - J. Arthur Ellis
+  - Isaac Vega
+publisher:
+  - Plaid Hat Games
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  A Crossroads Game of fantastical pirate adventure where players crew a ship
+  together, balancing cooperative objectives with personal story arcs. An
+  app provides fully voiced narration across five scenarios, guiding players
+  through a humorous, branching narrative. During planning phases, players
+  use worker placement to assign crew roles, then resolve skill checks with
+  dice while managing ship stats like hull strength, supplies, and crew morale.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

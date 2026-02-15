@@ -1,0 +1,69 @@
+id: cloudspire
+name: "Cloudspire"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-180 min)
+rules_complexity: 4  # PhD - BGG weight 4.3/5, intricate rules
+strategic_depth: 4  # Master Plan - deep MOBA/tower defense strategy
+feel: 4  # Fierce - cutthroat competitive battle
+value: 4  # Heirloom - premium neoprene and poker chip components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Hex Map
+  - Tile Placement
+  - Cooperative
+  - Modular Board
+  - Tech Tree
+  - Resource Management
+  - Campaign Mode
+  - Fantasy
+  - Ameritrash
+  - Dudes on a Map
+  - Chip Theory Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Josh J. Carlson
+  - Adam Carlson
+  - Josh Wielgus
+publisher:
+  - Chip Theory Games
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 13
+
+# Description
+description: |
+  A 1-4 player strategy game heavily influenced by tower defense and MOBA
+  (Multiplayer Online Battle Arena) video games, set in the mythical land of
+  Ankar. Players control unique asymmetric factions, sending waves of minions,
+  building defensive spires, and deploying powerful heroes to destroy opponents
+  and steal source energy. Features a chip-stacking health system and neoprene
+  components, with solo and cooperative scenarios driven by a narrative campaign.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

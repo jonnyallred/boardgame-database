@@ -1,0 +1,69 @@
+id: wayfarers-of-the-south-tigris
+name: "Wayfarers of the South Tigris"
+year: 2022
+
+# Relationships
+game_family: south-tigris
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 3  # College - BGG weight ~3.73, lots of interlocking rules
+strategic_depth: 3  # Strategy - multiple paths to victory, long-term dice/tableau planning
+feel: 3  # Polite - competitive Euro with minimal direct interaction
+value: 2  # Fair Deal - quality boards/cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Set Collection
+  - Tile Placement
+  - Modular Board
+  - Tableau Building
+  - Card Drafting
+  - Euro
+  - Historical
+  - Medieval
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Shem Phillips
+  - S J Macdonald
+publisher:
+  - Garphill Games
+  - Renegade Game Studios
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Set during the height of the Abbasid Caliphate circa 820 AD, players are
+  explorers, cartographers, and astronomers setting off from Baghdad to map
+  the surrounding land, waterways, and heavens above. A dice-driven worker
+  placement and tableau building game where dice serve as your workers,
+  requiring careful management of your caravan while journaling discoveries
+  at the House of Wisdom. Score victory points by mapping land, water, and
+  sky, upgrading caravans, gaining inspiration from nobles, and influencing
+  the guilds of science, trade, and exploration.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

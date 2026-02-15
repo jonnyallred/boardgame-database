@@ -1,0 +1,65 @@
+id: seasons
+name: "Seasons"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60 min)
+rules_complexity: 2  # Junior High/High School - structured card/dice drafting with seasonal resource system
+strategic_depth: 3  # Strategy - long-term planning through card draft, engine building, and timing
+feel: 3  # Polite - competitive with mostly indirect interaction
+value: 3  # Splurge - 20 custom season dice, 100 cards, quality player boards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Dice Rolling
+  - Hand Management
+  - Engine Building
+  - Resource Management
+  - Tableau Building
+  - Set Collection
+  - Euro
+  - Fantasy
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - "Régis Bonnessée"
+publisher:
+  - Libellud
+  - Asmodee
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  Compete as rival sorcerers in a three-year magical tournament across the
+  four seasons. Draft nine power cards during the prelude, then roll and
+  draft custom season dice each round to gather elemental energy, summon
+  familiars and magical items to your tableau, and convert resources into
+  crystals. The seasonal resource system makes timing critical, as elements
+  shift in rarity and transmutation value with each passing season.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

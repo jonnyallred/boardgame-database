@@ -1,0 +1,68 @@
+id: the-lord-of-the-rings-the-card-game-revised-core-set
+name: "The Lord of the Rings: The Card Game – Revised Core Set"
+year: 2022
+
+# Relationships
+game_family: lord-of-the-rings-lcg
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (30-120 min sessions)
+rules_complexity: 3  # College (several complex mechanics, ~3.4 BGG weight)
+strategic_depth: 3  # Strategy (long-term deck building and quest planning)
+feel: 1  # Cooperative (work together against the game)
+value: 3  # Splurge (188 player cards, 4 threat dials, campaign mode)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Hand Management
+  - Deck Building
+  - Campaign Mode
+  - Variable Setup
+  - Narrative Heavy
+  - Resource Management
+  - Tableau Building
+  - Fantasy
+  - Lord of the Rings
+  - Ameritrash
+  - Cult Classic
+  - Fantasy Flight Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Nate French
+publisher:
+  - Fantasy Flight Games
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  A cooperative Living Card Game set in Middle-earth where one to four
+  players assemble decks of heroes, allies, and events to quest through
+  dangerous scenarios controlled by an encounter deck. This revised
+  edition includes full four-player support, three copies of all player
+  cards, and a new campaign mode with boon and burden mechanics that
+  carry consequences across linked scenarios.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
