@@ -1,0 +1,62 @@
+id: hive
+name: "Hive"
+year: 2001
+
+# Relationships
+game_family: hive
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~20 min)
+rules_complexity: 1  # Elementary - simple movement rules for each insect
+strategic_depth: 3  # Strategy - deep positional play, often compared to chess
+feel: 4  # Fierce - direct 1v1 battle to surround opponent's queen
+value: 2  # Fair Deal - quality Bakelite tiles, durable and portable
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Modular Board
+  - Abstract
+  - Filler
+  - Gateway
+  - Animals
+  - Nature
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - John Yianni
+publisher:
+  - Gen42 Games
+playtime_minutes: 20
+min_playtime: 20
+max_playtime: 20
+min_age: 9
+
+# Description
+description: |
+  A boardless abstract strategy game where two players command insect tiles,
+  each with unique movement abilities, competing to completely surround the
+  opponent's Queen Bee. With no board required, the hive itself forms
+  dynamically as pieces are placed and moved on a hexagonal grid. Simple
+  rules but deep strategic depth, often compared to chess. Winner of the
+  Mensa Select award and International Gamers Award.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

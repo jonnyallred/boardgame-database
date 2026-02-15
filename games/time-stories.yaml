@@ -1,0 +1,74 @@
+id: time-stories
+name: "T.I.M.E Stories"
+year: 2015
+
+# Relationships
+game_family: time-stories
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2
+rules_complexity: 2
+strategic_depth: 2
+feel: 1
+value: 3
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Narrative Heavy
+  - Puzzle Solving
+  - Action Points
+  - Modular Board
+  - Campaign Mode
+  - Cult Classic
+  - Time Travel
+  - Mystery
+  - Horror
+  - Asmodee
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Manuel Rozoy
+  - Peggy Chassenet
+publisher:
+  - Space Cowboys
+artist:
+  - Ben Carre
+  - David Lecossu
+  - Pascal Quidault
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  A cooperative "decksploration" game where players are temporal agents sent
+  by the T.I.M.E Agency into the bodies of beings across different worlds
+  and time periods to prevent paradoxes threatening the universe. Each
+  scenario consists of a deck of 120+ cards forming panoramic locations that
+  players explore using a shared pool of Temporal Units, with failed
+  attempts sending agents back to retry with accumulated knowledge. The
+  base game includes the Asylum scenario, with additional scenarios
+  available as expansions.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

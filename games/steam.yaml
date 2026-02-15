@@ -1,0 +1,66 @@
+id: steam
+name: "Steam: Rails to Riches"
+year: 2009
+
+# Relationships
+game_family: age-of-steam
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~90 min)
+rules_complexity: 3  # College - BGG weight ~3.37, complex auction/economic rules
+strategic_depth: 3  # Strategy - long-term planning for routes and deliveries
+feel: 4  # Fierce - cutthroat competition for routes and goods
+value: 2  # Fair Deal - quality double-sided board and components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Route Building
+  - Network Building
+  - Tile Placement
+  - Economic
+  - Action Points
+  - Resource Management
+  - Euro
+  - Historical
+  - Trains
+  - Martin Wallace
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Martin Wallace
+publisher:
+  - Mayfair Games
+playtime_minutes: 90
+min_playtime: 90
+max_playtime: 90
+min_age: 13
+
+# Description
+description: |
+  A streamlined reimplementation of Age of Steam where rival railways
+  compete to build track networks and deliver goods for profit. Players
+  bid for turn order and select actions such as laying track, upgrading
+  locomotives, or growing towns into cities. Each delivery forces a
+  strategic choice between immediate victory points or long-term income,
+  making cash management critical throughout the game.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

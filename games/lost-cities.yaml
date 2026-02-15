@@ -1,0 +1,66 @@
+id: lost-cities
+name: "Lost Cities"
+year: 1999
+
+# Relationships
+game_family: lost-cities
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary - basic instructions
+strategic_depth: 2  # Tactics - short-term positioning
+feel: 3  # Polite - competitive with minimal interaction
+value: 1  # Bargain - card game with solid replay
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Press Your Luck
+  - Reiner Knizia
+  - Rio Grande Games
+  - Euro
+  - Family
+  - Filler
+  - Gateway
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - KOSMOS
+  - Rio Grande Games
+  - Thames & Kosmos
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+# Description
+description: |
+  Mount profitable expeditions to five lost cities by playing numbered
+  cards in ascending order to your expedition columns. Each expedition
+  costs 20 points to start, so you must carefully choose which to invest
+  in and when to commit. Wager cards multiply your score but also your
+  risk. A classic two-player card game with simple rules, tense decisions,
+  and high replayability.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
