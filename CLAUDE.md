@@ -75,6 +75,11 @@ Each game file (`games/{slug}.yaml`) contains:
 ### File Operations
 
 **Add a new game:**
+Use the `/add-game` skill to create new game entries. This skill handles web research, schema validation, and YAML creation automatically.
+
+When adding multiple games at once, launch parallel subagents using the `/add-game` skill — each subagent researches and creates one game file independently. This is the preferred workflow for batch additions.
+
+**Manual alternative** (if needed):
 1. Create `games/{slug}.yaml` based on the template in schema.yaml
 2. Use an existing game file as reference (e.g., `games/azul.yaml`)
 3. Ensure the `id` field matches the filename slug
