@@ -1,0 +1,65 @@
+id: chinatown
+name: "Chinatown"
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Negotiation
+  - Trading
+  - Set Collection
+  - Tile Placement
+  - Economic
+  - Euro
+
+# Player counts
+possible_counts: [3, 4, 5]
+true_counts: [5]
+
+# Metadata
+designer:
+  - Karsten Hartwig
+publisher:
+  - Alea
+  - Z-Man Games
+artist:
+  - Mathieu Leyssenne
+  - Franz Vohwinkel
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  Players compete to build the most profitable businesses in the heart of
+  Chinatown. Each round, players acquire ownership of city block sections
+  and business tiles through random distribution. The core of the game is
+  free-form negotiation - players can trade anything with anyone to complete
+  matching sets of adjacent businesses. Completed businesses generate income,
+  with larger sets paying significantly more than smaller ones.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

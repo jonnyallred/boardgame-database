@@ -1,0 +1,68 @@
+id: the-kings-dilemma
+name: "The King's Dilemma"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Legacy
+  - Negotiation
+  - Bluffing
+  - Hand Management
+  - Narrative Heavy
+  - Campaign Mode
+  - Fantasy
+  - Medieval
+
+# Player counts
+possible_counts: [3, 4, 5]
+true_counts: [5]
+
+# Metadata
+designer:
+  - Hjalmar Hach
+  - Lorenzo Silva
+publisher:
+  - Horrible Guild
+artist:
+  - Giorgio Baroni
+  - Giulia Ghigini
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  Players represent noble houses on the royal council of the Kingdom of Ankist,
+  voting on dilemmas that shape the kingdom's fate. Each round draws a new crisis
+  from the legacy deck, and through negotiation and secret agendas, players vote
+  to determine outcomes. Your house seeks power and wealth, but pushing too hard
+  may plunge the realm into war, famine, or chaos. Choices permanently alter the
+  evolving story across multiple sessions, unlocking branching narratives through
+  sealed envelopes and stickers in this legacy experience.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
