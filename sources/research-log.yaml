@@ -2,4 +2,236 @@
 # All external URLs consulted during game research
 # Appended to by /add-game sub-agents
 
-entries: []
+entries:
+  - timestamp: "2026-02-15T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://www.academygames.com/pages/1775"
+    description: "Publisher product page with game overview, mechanics, and faction details"
+  - timestamp: "2026-02-15T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://www.amazon.com/Academy-Games-AYG-5375-1775/dp/B00F3CT6YG"
+    description: "Amazon listing with player count and playtime specifications"
+  - timestamp: "2026-02-15T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://store.steampowered.com/app/422610/1775_Rebellion/"
+    description: "Steam digital version overview and game description"
+  - timestamp: "2026-02-15T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://www.dicetower.com/board-game/128996"
+    description: "Dice Tower game page for awards and basic information"
+  - timestamp: "2026-02-15T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://www.theboardgamefamily.com/2015/07/1775-rebellion-board-game-review/"
+    description: "Board game review with gameplay details"
+  - timestamp: "2026-02-15T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://www.boardgamebliss.com/products/1775-rebellion"
+    description: "Retailer product page with specifications"
+  - timestamp: "2026-02-15T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://gamersalliance.com/1775-rebellion/"
+    description: "Retailer information with designer credits"
+  - timestamp: "2026-02-15T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://www.geekgirlauthority.com/1775-rebellion-a-war-game-for-non-war-gamers/"
+    description: "Detailed review with mechanics, components, and strategic assessment"
+  - timestamp: "2026-02-15T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://boardgameacademics.com/abstracting-the-battlefield-designers-on-evolving-mechanisms-historical-accuracy-and-representation-in-modern-wargames/"
+    description: "Article on wargame design featuring Birth of America series designers"
+  - timestamp: "2026-02-15T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://gamecows.com/1775-rebellion-review/"
+    description: "Game review with American Revolution context"
+  - timestamp: "2026-02-15T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://boardgameco.com/products/1775-rebellion"
+    description: "Retailer product listing"
+  - timestamp: "2026-02-15T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://www.nobleknight.com/P/2147532034/Birth-of-America---1775-Rebellion"
+    description: "Retailer page with components description (205 cubes, 16 dice)"
+  - timestamp: "2026-02-15T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "http://armchairgeneral.com/1775-rebellion-the-american-revolution-boardgame-review.htm"
+    description: "Wargaming magazine review with gameplay analysis"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://www.gmtgames.com/p-847-1846-the-race-to-the-midwest-1846-1935-2nd-printing.aspx"
+    description: "GMT Games publisher product page with designer, artist, components, and game overview"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://www.meeplemountain.com/boardgame/1846-the-race-for-the-midwest/"
+    description: "Meeple Mountain game details page"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://www.dicetower.com/board-game/17405"
+    description: "Dice Tower game page with basic information"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://www.boardgamebliss.com/products/1846"
+    description: "Board Game Bliss retailer page with specifications"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://www.meeplemountain.com/reviews/1846-the-race-for-the-midwest/"
+    description: "Meeple Mountain detailed game review with mechanics and complexity assessment"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://www.boardgamequest.com/1846-race-for-the-midwest/"
+    description: "Board Game Quest review with playtime and gameplay details"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://theplayersaid.com/2016/12/23/bring-a-calculator-bone-up-on-the-stock-market-youll-need-it-a-review-of-1846-the-race-for-the-midwest-by-gmt-games/"
+    description: "The Player's Aid review with stock market mechanics analysis"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://www.gamenerdz.com/1846-the-race-for-the-midwest"
+    description: "Game Nerdz retailer page with product details"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://www.amazon.com/GMT-Games-1846-Race-Midwest/dp/B01MG5ZJWK"
+    description: "Amazon product listing with customer information"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://s3-us-west-2.amazonaws.com/gmtwebsiteassets/1846/1846-RULES-GMT.pdf"
+    description: "Official rulebook PDF from GMT Games"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://www.boardgamemeeplelady.com/2019/02/25/1846-race-for-midwest-good-introduction-into-18xx/"
+    description: "Board Game Meeple Lady review discussing 18xx accessibility"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://thethoughtfulgamer.com/2019/07/23/1846-review/"
+    description: "The Thoughtful Gamer review with detailed analysis"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://www.miniaturemarket.com/gmt1605-21.html"
+    description: "Miniature Market retailer listing"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://en.wikipedia.org/wiki/18XX"
+    description: "Wikipedia article on 18XX game family"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://www.railsonboards.com/2022/01/11/18xx-big-data-statistics-for-2021/"
+    description: "Rails on Boards statistics and analysis of 18xx games"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://letsgetsboard.substack.com/p/riding-the-rails-with-18xx-five-suggested"
+    description: "Let's Get Sboard guide to 18xx games for beginners"
+  - timestamp: "2026-02-15T22:30:00Z"
+    game_id: 1846-the-race-for-the-midwest
+    url: "https://eriktwice.com/en/2020/12/04/18xx-the-best-games-for-beginners/"
+    description: "Erik Twice's guide to beginner-friendly 18xx games"
+  - timestamp: "2026-02-15T23:00:00Z"
+    game_id: 51st-state-master-set
+    url: "https://en.wikipedia.org/wiki/51st_State_(board_game)"
+    description: "Wikipedia article on 51st State with designer, publisher, and theme overview"
+  - timestamp: "2026-02-15T23:00:00Z"
+    game_id: 51st-state-master-set
+    url: "https://portalgames.pl/en/all-game-list/51st-state-master-set/"
+    description: "Portal Games publisher product page with game details"
+  - timestamp: "2026-02-15T23:00:00Z"
+    game_id: 51st-state-master-set
+    url: "https://www.dicetower.com/board-game/192458"
+    description: "Dice Tower game page for basic information"
+  - timestamp: "2026-02-15T23:00:00Z"
+    game_id: 51st-state-master-set
+    url: "https://www.gameosity.com/2017/06/05/51st-state-master-set-review/"
+    description: "Gameosity review with mechanics, card usage, and content details"
+  - timestamp: "2026-02-15T23:00:00Z"
+    game_id: 51st-state-master-set
+    url: "https://www.boardgamebliss.com/products/51st-state-master-set"
+    description: "Board Game Bliss retailer page with specifications"
+  - timestamp: "2026-02-15T23:00:00Z"
+    game_id: 51st-state-master-set
+    url: "https://www.play-board-games.com/51st-state-master-set-review/"
+    description: "Play Board Games review with player count, playtime, and gameplay analysis"
+  - timestamp: "2026-02-15T23:00:00Z"
+    game_id: 51st-state-master-set
+    url: "https://www.boardgamequest.com/51st-state-master-set-review/"
+    description: "Board Game Quest review with mechanics and faction details"
+  - timestamp: "2026-02-15T23:00:00Z"
+    game_id: 51st-state-master-set
+    url: "https://wolfsgamingblog.com/2016/07/16/51st-state-master-set-review-the-post-apocalyptic-mafia/"
+    description: "Wolf's Gaming Blog review with theme analysis and card mechanics"
+  - timestamp: "2026-02-15T23:00:00Z"
+    game_id: 51st-state-master-set
+    url: "https://www.amazon.com/51st-State-Master-Board-Game/dp/B01GAN3OC6"
+    description: "Amazon product listing with artist credits and specifications"
+  - timestamp: "2026-02-15T23:00:00Z"
+    game_id: 51st-state-master-set
+    url: "https://techraptor.net/tabletop/reviews/51st-state-master-set-review-build-it-up-burn-it-down"
+    description: "TechRaptor review with victory point mechanics and card count"
+  - timestamp: "2026-02-15T23:00:00Z"
+    game_id: 51st-state-master-set
+    url: "https://www.ultraboardgames.com/51st-state/game-rules.php"
+    description: "Ultra Board Games rules reference for gameplay mechanics"
+  - timestamp: "2026-02-15T23:00:00Z"
+    game_id: 51st-state-master-set
+    url: "https://boardgamehits.com/posts/51st-state-complete-master-set-review/"
+    description: "Board Game Hits solo review with strategic assessment"
+  - timestamp: "2026-02-15T23:45:00Z"
+    game_id: 7-wonders-architects
+    url: "https://www.rprod.com/en/games/7-wonders-architects"
+    description: "Repos Production publisher product page with designer, year, mechanics overview"
+  - timestamp: "2026-02-15T23:45:00Z"
+    game_id: 7-wonders-architects
+    url: "https://www.dicetower.com/board-game/346703"
+    description: "Dice Tower game page and review information"
+  - timestamp: "2026-02-15T23:45:00Z"
+    game_id: 7-wonders-architects
+    url: "https://www.amazon.com/Architects-Strategy-Families-Repos-Production/dp/B09FLT9JMM"
+    description: "Amazon product listing with player count, playtime, artist, and age specifications"
+  - timestamp: "2026-02-15T23:45:00Z"
+    game_id: 7-wonders-architects
+    url: "https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-architects/Rules/rules-architects-en-1639490431DeqhF.pdf"
+    description: "Official rules PDF from Asmodee for gameplay mechanics"
+  - timestamp: "2026-02-15T23:45:00Z"
+    game_id: 7-wonders-architects
+    url: "https://boardgamereview.co.uk/game-reviews/7-wonders-architects-review/"
+    description: "Board Game Review assessment of best player counts and mechanics"
+  - timestamp: "2026-02-15T23:45:00Z"
+    game_id: 7-wonders-architects
+    url: "https://www.wargamer.com/7-wonders-architects/review"
+    description: "Wargamer review with complexity and playtime analysis"
+  - timestamp: "2026-02-15T23:45:00Z"
+    game_id: 7-wonders-architects
+    url: "https://www.theboardgamefamily.com/2023/07/7-wonders-architects-board-game-review/"
+    description: "Board Game Family review with age recommendations and player count guidance"
+  - timestamp: "2026-02-15T23:45:00Z"
+    game_id: 7-wonders-architects
+    url: "https://www.meeplemountain.com/reviews/7-wonders-architects/"
+    description: "Meeple Mountain gameplay review and strategic depth assessment"
+  - timestamp: "2026-02-15T23:55:00Z"
+    game_id: 878-vikings-invasions-of-england
+    url: "https://www.academygames.com/pages/878"
+    description: "Academy Games publisher product page"
+  - timestamp: "2026-02-15T23:55:00Z"
+    game_id: 878-vikings-invasions-of-england
+    url: "https://www.academygames.com/pages/878-vikings-2nd-edition"
+    description: "Second edition publisher page with faction and team details"
+  - timestamp: "2026-02-15T23:55:00Z"
+    game_id: 878-vikings-invasions-of-england
+    url: "https://www.nerdly.co.uk/2018/02/23/878-vikings-board-game-review-academy-games/"
+    description: "Nerdly review with playtime, player count, and mechanics analysis (4/5 stars)"
+  - timestamp: "2026-02-15T23:55:00Z"
+    game_id: 878-vikings-invasions-of-england
+    url: "https://icv2.com/articles/news/view/37288/invade-england-878-vikings"
+    description: "ICv2 article with full specifications, MSRP, components, and designer credits"
+  - timestamp: "2026-02-15T23:55:00Z"
+    game_id: 878-vikings-invasions-of-england
+    url: "https://www.gamenerdz.com/878-vikings-invasions-of-england"
+    description: "Game Nerdz retailer page with game details"
+  - timestamp: "2026-02-15T23:55:00Z"
+    game_id: 878-vikings-invasions-of-england
+    url: "https://www.amazon.com/878-Vikings-Invasions-England-Pillaging/dp/B08KSM8GFH"
+    description: "Amazon product listing with age rating and specifications"
+  - timestamp: "2026-02-15T23:55:00Z"
+    game_id: 878-vikings-invasions-of-england
+    url: "https://zatu.com/878-vikings-review/"
+    description: "Zatu Games review mentioning 2017 Golden Geek Best War Game award"
+  - timestamp: "2026-02-15T23:55:00Z"
+    game_id: 878-vikings-invasions-of-england
+    url: "https://meeples.ca/products/878-vikings-invasions-of-england-2nd-edition"
+    description: "Meeples and Milkshakes retailer page with artist credits (Allan Ball, Jarek Nocoń, Steve Paschal)"

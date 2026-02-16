@@ -200,7 +200,7 @@ Full rating system implemented:
 
 ## File Counts
 - `master_list.yaml`: Curated list from award winners and notable game lists
-- `games/*.yaml`: 389 detailed entries
+- `games/*.yaml`: 394 detailed entries
 - Total categories defined: 70+
 - Designer tags available: 28
 - Publisher tags available: 22

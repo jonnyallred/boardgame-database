@@ -1,0 +1,71 @@
+id: 878-vikings-invasions-of-england
+name: "878 Vikings: Invasions of England"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1-2 hours)
+rules_complexity: 2  # Junior High/HS (structured mechanics)
+strategic_depth: 3  # Strategy (long-term planning)
+feel: 1  # Cooperative (team-based gameplay)
+value: 3  # Splurge (130 miniatures, quality components)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Teams
+  - Area Control
+  - Dice Rolling
+  - Hand Management
+  - Wargame
+  - Dudes on a Map
+  - Historical
+  - Medieval
+  - War
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+# Metadata
+designer:
+  - Beau Beckett
+  - Dave Kimmel
+  - Jeph Stahl
+publisher:
+  - Academy Games
+artist:
+  - Allan Ball
+  - Jarek Nocoń
+  - Steve Paschal
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Players divide into two teams: Viking invaders (Norsemen and Berserkers) or
+  English defenders (King's Housecarls and Thegns) battling for control of
+  9th-century England. Each faction has unique cards for movement and custom
+  dice for combat resolution. Leaders like Halfdan and Alfred provide strategic
+  advantages and reinforcements. The game ends when players trigger the Treaty
+  of Wedmore, with victory going to whoever controls the most territory. Winner
+  of the 2017 Golden Geek Best War Game award.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

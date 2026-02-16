@@ -1,0 +1,67 @@
+id: 7-wonders-architects
+name: "7 Wonders: Architects"
+year: 2021
+
+# Relationships
+game_family: 7-wonders
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (25 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Set Collection
+  - Engine Building
+  - Tableau Building
+  - Family
+  - Gateway
+  - Ancient
+  - Civilization
+  - Antoine Bauza
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Antoine Bauza
+publisher:
+  - Repos Production
+artist:
+  - Etienne Hebinger
+playtime_minutes: 25
+min_playtime: 25
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  A streamlined family-friendly version of 7 Wonders where players race to complete
+  one of the seven wonders of the ancient world. On each turn, choose one of three
+  available cards - from your personal deck, your neighbors' decks, or the shared
+  central deck - and immediately apply its effect. Gather resources, build your
+  wonder stages, advance your military, and collect scientific discoveries to score
+  victory points. The game ends when the first player completes their wonder, ensuring
+  a quick pace perfect for families and new players.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

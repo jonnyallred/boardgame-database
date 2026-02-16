@@ -1,0 +1,72 @@
+id: 51st-state-master-set
+name: "51st State: Master Set"
+year: 2016
+
+# Relationships
+game_family: 51st-state
+edition: "Master Set"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 3  # College - complex card interactions and multiple use modes
+strategic_depth: 3  # Strategy - long-term engine building
+feel: 4  # Fierce - direct conflict through razing locations
+value: 4  # Heirloom - includes base game plus two expansions
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Hand Management
+  - Tableau Building
+  - Resource Management
+  - Engine Building
+  - Variable Player Powers
+  - Take That
+  - Post-Apocalyptic
+  - Euro
+  - Portal Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Ignacy Trzewiczek
+publisher:
+  - Portal Games
+artist:
+  - Mateusz Bielski
+  - Grzegorz Bobrowski
+  - Piotr Foksowicz
+  - M81 Studio
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Set in a post-apocalyptic United States, 51st State: Master Set puts players
+  in control of factions (Mutants, Traders, New Yorkers, or Appalachians)
+  vying to establish a new nation from the ruins. Each card can be used in three
+  ways: Raze for immediate resources, Deal for recurring production, or Build
+  to add permanent abilities to your tableau. Race to 25 victory points while
+  managing scarce resources in this tense card-driven engine builder. This
+  edition includes the original base game plus New Era and Winter expansions
+  for a total of 188 cards.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

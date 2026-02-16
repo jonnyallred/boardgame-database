@@ -1,0 +1,75 @@
+id: 1846-the-race-for-the-midwest
+name: "1846: The Race for the Midwest"
+year: 2005
+
+# Relationships
+game_family: 18xx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3-4 hours)
+rules_complexity: 3  # College (complex interlocking mechanics, 20-30 min to teach)
+strategic_depth: 4  # Master Plan (multi-move optimization)
+feel: 4  # Fierce (cutthroat stock manipulation and competition)
+value: 3  # Splurge (quality components with mounted map and tiles)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Economic
+  - Route Building
+  - Network Building
+  - Tile Placement
+  - Hex Map
+  - Auctions/Bidding
+  - Drafting
+  - Stock Holding
+  - Variable Setup
+  - Euro
+  - Trains
+  - Historical
+
+# Player counts
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Tom Lehmann
+publisher:
+  - Deep Thought Games
+  - GMT Games
+  - Lookout Games
+artist:
+  - Mark Simonitch
+  - Kurt Miller
+  - Chris Lawson
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 300
+min_age: 14
+
+# Description
+description: |
+  In 1846, players act as tycoons competing to build the best stock portfolio by
+  investing in and operating railroads across the midwestern United States during
+  the rail expansion era of 1846-1935. Play proceeds through stock rounds where
+  players buy and sell shares, followed by operating rounds where corporations lay
+  track, build stations, run trains for revenue, and upgrade equipment. The game
+  features an opening draft of private companies, variable setup that scales with
+  player count, and streamlined mechanics that make it one of the more accessible
+  18xx games while maintaining deep strategic decision-making.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
