@@ -50,14 +50,43 @@ def load_all_lists():
 
 
 def load_existing():
-    """Return set of game IDs that have files in games/."""
-    existing = set()
+    """Return set of game IDs and dict of all names (including alternates) to IDs.
+
+    Returns: (set of IDs, dict of {name: id})
+    """
+    existing_ids = set()
+    name_to_id = {}  # Maps all names (primary + alternates) to game ID
+
     if not os.path.isdir(GAMES_DIR):
-        return existing
+        return existing_ids, name_to_id
+
     for fname in os.listdir(GAMES_DIR):
-        if fname.endswith(".yaml"):
-            existing.add(fname[:-5])
-    return existing
+        if not fname.endswith(".yaml"):
+            continue
+
+        game_id = fname[:-5]
+        existing_ids.add(game_id)
+
+        # Load the game file to get name and alternate_names
+        game_path = os.path.join(GAMES_DIR, fname)
+        try:
+            with open(game_path) as f:
+                game_data = yaml.safe_load(f)
+
+            # Map primary name to ID
+            if game_data and "name" in game_data:
+                name_to_id[game_data["name"].lower()] = game_id
+
+            # Map alternate names to ID
+            if game_data and "alternate_names" in game_data:
+                for alt_name in game_data.get("alternate_names", []):
+                    if alt_name:
+                        name_to_id[alt_name.lower()] = game_id
+        except Exception:
+            # If we can't read the file, just skip the name mapping
+            pass
+
+    return existing_ids, name_to_id
 
 
 def main():
@@ -66,7 +95,7 @@ def main():
         show_count = int(sys.argv[1])
 
     all_games = load_all_lists()
-    existing = load_existing()
+    existing_ids, name_to_id = load_existing()
     total = len(all_games)
 
     if total == 0:
@@ -74,9 +103,25 @@ def main():
         print("Add YAML files there to start tracking games.")
         return
 
-    done_ids = existing & set(all_games.keys())
-    remaining = {gid: g for gid, g in all_games.items() if gid not in existing}
-    orphans = existing - set(all_games.keys())
+    # Check if game exists by ID or by name match
+    done_ids = set()
+    remaining = {}
+    for gid, g in all_games.items():
+        # Check if ID exists
+        if gid in existing_ids:
+            done_ids.add(gid)
+            continue
+
+        # Check if name matches any existing game (by primary or alternate name)
+        game_name_lower = g["name"].lower()
+        if game_name_lower in name_to_id:
+            done_ids.add(gid)
+            continue
+
+        # Not found, add to remaining
+        remaining[gid] = g
+
+    orphans = existing_ids - set(all_games.keys())
 
     pct = len(done_ids) / total * 100 if total else 0
     print(f"Progress: {len(done_ids)}/{total} ({pct:.1f}%)")

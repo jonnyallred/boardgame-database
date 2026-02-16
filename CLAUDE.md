@@ -23,6 +23,7 @@ Each game file (`games/{slug}.yaml`) contains:
 **Identifiers & Metadata:**
 - `id`: lowercase slug (e.g., `azul`)
 - `name`: Full display name
+- `alternate_names[]`: Other titles for the same game (translations, regional names like "Adel Verpflichtet" / "Hoity Toity")
 - `year`: Publication year
 - `designer[]`: List of designer names
 - `publisher[]`: List of publisher names

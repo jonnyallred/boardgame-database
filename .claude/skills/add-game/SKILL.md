@@ -27,11 +27,12 @@ If the file already exists, respond with only: `Skipped — {slug}.yaml already 
 
 ## Steps
 
-1. **Search the web** for the game using publisher sites, Wikipedia, retailers, and review sites. **DO NOT use boardgamegeek.com** — use `blocked_domains: ["boardgamegeek.com"]` on all WebSearch calls.
-2. **Read the schema** at `schema.yaml` for valid category values and rating scale definitions.
-3. **Read an existing game** (e.g., `games/azul.yaml`) as a formatting reference.
-4. **Create the YAML file** at `games/{slug}.yaml` following the exact format below.
-5. **Log sources** — append all URLs consulted to `sources/research-log.yaml` (see Source Logging below).
+1. **Check for duplicates** — Search existing games by name (including alternate_names) to avoid duplicates. Read all game files in `games/` and check if the game name matches any existing `name` or `alternate_names` field.
+2. **Search the web** for the game using publisher sites, Wikipedia, retailers, and review sites. **DO NOT use boardgamegeek.com** — use `blocked_domains: ["boardgamegeek.com"]` on all WebSearch calls.
+3. **Read the schema** at `schema.yaml` for valid category values and rating scale definitions.
+4. **Read an existing game** (e.g., `games/azul.yaml`) as a formatting reference.
+5. **Create the YAML file** at `games/{slug}.yaml` following the exact format below.
+6. **Log sources** — append all URLs consulted to `sources/research-log.yaml` (see Source Logging below).
 
 ## Preferred Sources (in priority order)
 
@@ -48,6 +49,7 @@ If the file already exists, respond with only: `Skipped — {slug}.yaml already 
 
 Gather all of the following from the preferred sources above:
 - Full game name and publication year
+- **Alternate names** — other titles for the same game (translations, regional names like "Adel Verpflichtet" / "Hoity Toity")
 - Designer(s), publisher(s), and artist(s)
 - Player count range and best/recommended counts (from publisher info, reviews, community consensus)
 - Playtime (min, max, and average)
@@ -100,6 +102,9 @@ Use this exact structure. Add a comment after each rating with the label:
 ```yaml
 id: {slug}
 name: "{Full Name}"
+alternate_names:
+  - "{Other Title 1}"
+  - "{Other Title 2}"
 year: {year}
 
 # Relationships
@@ -155,11 +160,13 @@ plays_tracked:
 
 ## Rules
 
+- **Check for duplicates first** — Read existing game files and check if the game name matches any `name` or `alternate_names` field. If found, skip creation.
 - **Only use categories that exist in `schema.yaml`**. Do not invent new tags.
 - **`affinity` and `hotness` must be `null`** — these are personal ratings.
+- **`alternate_names`** — List any other titles for the same game (translations, regional names). Use an empty list `[]` if none.
 - **Slug/ID must match the filename** (lowercase, hyphen-separated).
 - **Do not modify any existing files** — only create the new game file (and append to `sources/research-log.yaml`).
 - Use 2-space indentation. No tabs.
-- Check if the file already exists before creating — skip if it does.
+- Check if the file already exists by filename before creating — skip if it does.
 - **`game_family`**: Only set this if multiple related games exist (editions, sequels, spinoffs). Use a shared slug (e.g., `brass` for Brass: Birmingham and Brass: Lancashire). If the game is standalone with no related titles, use `null`.
 - **`compatible_with`**: Only for games whose components can be physically combined (e.g., mixing card pools). Do not use for standalone sequels or games that merely share a universe.

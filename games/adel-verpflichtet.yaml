@@ -1,5 +1,9 @@
-id: adel-verpflichtet-1990
+id: adel-verpflichtet
 name: "Adel Verpflichtet"
+alternate_names:
+  - "Hoity Toity"
+  - "Fair Means or Foul"
+  - "By Hook or By Crook"
 year: 1990
 
 # Relationships
@@ -49,7 +53,7 @@ min_age: 10
 
 # Description
 description: |
-  Players take on the roles of English aristocrats competing to assemble the most impressive collection of antiques and associated prestige. In this Spiel des Jahres 1990 winner, each player controls a lord with a detective and two thieves at their disposal. The game combines rock-paper-scissors style simultaneous action selection with psychological bluffing as players choose whether to visit the Auction House to acquire new antiques or visit another player's Castle to either display their collection, steal valuable items, or arrest thieves. The innovative use of bluffing mechanics combined with simultaneous play made it an early ambassador of German game design. Also known internationally as "Hoity Toity" (United States) and "Fair Means or Foul" (United Kingdom).
+  Players take on the roles of English aristocrats competing to assemble the most impressive collection of antiques and associated prestige. In this Spiel des Jahres 1990 winner, each player controls a lord with a detective and two thieves at their disposal. The game combines rock-paper-scissors style simultaneous action selection with psychological bluffing as players choose whether to visit the Auction House to acquire new antiques or visit another player's Castle to either display their collection, steal valuable items, or arrest thieves. The innovative use of bluffing mechanics combined with simultaneous play made it an early ambassador of German game design.
 
 # Upgrades
 upgrades: []
