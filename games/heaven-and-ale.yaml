@@ -1,0 +1,68 @@
+id: heaven-and-ale
+name: "Heaven & Ale"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - heaven-and-ale-kegs-and-more
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College (several complex mechanics)
+strategic_depth: 3  # Strategy (long-term planning)
+feel: 3  # Polite (competitive with minimal interaction)
+value: 3  # Splurge (quality production)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Rondel
+  - Tile Placement
+  - Resource Management
+  - Economic
+  - Engine Building
+  - Euro
+  - Michael Kiesling
+  - Food Theme
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Michael Kiesling
+  - Andreas Schmidt
+publisher:
+  - Eggertspiele
+  - Plan B Games
+artist:
+  - Christian Fiore
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Lead a monastery brewery in medieval Bavaria, cultivating a monastery
+  garden filled with hops, barley, wheat, and monks to harvest them. Use
+  the unique rondel movement system to acquire tiles and place them on
+  either the sunny or shady side of your cloister board. Balance resource
+  production with scoring mechanisms while managing a tight economy to
+  create the finest heavenly ale and score the most points.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

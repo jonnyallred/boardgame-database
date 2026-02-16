@@ -10,6 +10,8 @@ This is a **Board Game Database** - a curated collection of board games with det
 - `master_list.yaml`: 1,000 games from BoardGameGeek top rankings
 - `games/`: Individual YAML files (currently 327 detailed entries)
 - `schema.yaml`: Complete data structure and validation rules
+- `publishers.yaml`: Publisher directory with press kit URLs and contacts
+- `images/sources.yaml`: Image provenance tracking (source, license, date)
 
 ## Data Structure
 
@@ -75,6 +77,11 @@ Each game file (`games/{slug}.yaml`) contains:
 ### File Operations
 
 **Add a new game:**
+Use the `/add-game` skill to create new game entries. This skill handles web research, schema validation, and YAML creation automatically.
+
+When adding multiple games at once, launch parallel subagents using the `/add-game` skill — each subagent researches and creates one game file independently. This is the preferred workflow for batch additions.
+
+**Manual alternative** (if needed):
 1. Create `games/{slug}.yaml` based on the template in schema.yaml
 2. Use an existing game file as reference (e.g., `games/azul.yaml`)
 3. Ensure the `id` field matches the filename slug
@@ -86,7 +93,8 @@ Each game file (`games/{slug}.yaml`) contains:
 **Add images:**
 - Place box art in `images/` folder
 - Naming: `Game Name (Year).jpg`
-- See `images/README.md` for official image sources and guidelines
+- Record provenance in `images/sources.yaml`
+- See `images/README.md` for guidelines and `publishers.yaml` for press contacts
 
 ### Validation
 
@@ -102,6 +110,13 @@ The project uses YAML structure only—no linting tools are configured. When edi
 - Or use the `/progress` skill in Claude Code
 - `python3 scripts/progress.py 50` — show next 50 games
 - `python3 scripts/progress.py 0` — stats only
+
+**Image progress:**
+- Run `python3 scripts/image_manager.py` to see image coverage stats
+- `python3 scripts/image_manager.py publishers` — games grouped by publisher with image status
+- `python3 scripts/image_manager.py publisher "Name"` — detail view for one publisher
+- `python3 scripts/image_manager.py missing` — list all games missing images
+- `python3 scripts/image_manager.py check` — validate image files
 
 **Session history:** Check `SESSION_NOTES.md` for past sessions and TODO items
 

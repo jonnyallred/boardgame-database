@@ -1,0 +1,68 @@
+id: bunny-kingdom
+name: "Bunny Kingdom"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/High School (structured steps and mechanics)
+strategic_depth: 2  # Tactics (short-term positioning)
+feel: 3  # Polite (competitive with minimal interaction)
+value: 3  # Splurge (minis/tokens upgrade)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Area Control
+  - Set Collection
+  - Hand Management
+  - Simultaneous Action
+  - Grid Coverage
+  - End Game Bonuses
+  - Family
+  - Euro
+  - Animals
+  - Richard Garfield
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Richard Garfield
+publisher:
+  - IELLO
+artist:
+  - Paul Mafayon
+playtime_minutes: 45
+min_playtime: 40
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  Lead your rabbit clan to glory by drafting territory cards to claim lands
+  across a 100-square kingdom grid. Build cities in fiefs, harvest resources
+  like carrots and mushrooms, and complete secret parchment missions. Each
+  round features simultaneous drafting and placement, with scoring based on
+  multiplying city strength by resource types in each connected territory.
+  Designed by Magic: The Gathering creator Richard Garfield.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

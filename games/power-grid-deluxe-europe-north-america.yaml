@@ -1,0 +1,67 @@
+id: power-grid-deluxe-europe-north-america
+name: "Power Grid Deluxe: Europe/North America"
+year: 2014
+
+# Relationships
+game_family: power-grid
+edition: Deluxe
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2+ hours)
+rules_complexity: 3  # College (auction mechanics, resource markets, network building, phase structure)
+strategic_depth: 3  # Strategy (long-term power plant planning, network expansion)
+feel: 4  # Fierce (cutthroat auctions, route blocking, turn order manipulation)
+value: 4  # Heirloom (deluxe production, double-sided board, upgraded components)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Network Building
+  - Route Building
+  - Resource Management
+  - Economic
+  - Euro
+  - Friedemann Friese
+  - Rio Grande Games
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Friedemann Friese
+publisher:
+  - 2F-Spiele
+  - Rio Grande Games
+artist:
+  - Harald Lieske
+playtime_minutes: 120
+min_playtime: 120
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  The deluxe 10th anniversary edition of Power Grid, featuring a huge double-sided
+  game board presenting all of Europe and all of North America (not just Germany
+  and the USA from the original). Players compete to supply electricity to the most
+  cities by bidding in fierce auctions for power plants, buying resources from a
+  fluctuating commodity market, and expanding their networks across connected cities.
+  This edition includes redesigned components, wooden tokens, and an innovative
+  two-player mode called "Against the Trust" that adds a dummy opponent.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

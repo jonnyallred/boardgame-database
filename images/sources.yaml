@@ -1,0 +1,20 @@
+# Image Provenance Tracker
+# Records the source, license, and status of each game image
+#
+# Fields:
+#   file:        Filename in images/ folder
+#   source_url:  URL where image was obtained
+#   publisher:   Publisher who provided the image
+#   license:     License type or permission reference
+#   date:        Date image was downloaded (YYYY-MM-DD)
+#   resolution:  Image dimensions (e.g., "1000x1000")
+#   notes:       Any additional context
+
+lost-ruins-of-arnak:
+  file: "Lost Ruins of Arnak (2020).png"
+  source_url: null
+  publisher: Czech Games Edition
+  license: null
+  date: null
+  resolution: null
+  notes: "Pre-existing image, provenance unknown"

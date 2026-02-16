@@ -1,0 +1,307 @@
+# Publisher Directory
+# Maps publishers to their press/media resources for obtaining official images
+#
+# Fields:
+#   press_url:  Direct URL to press kit or media assets page (null if none)
+#   parent:     Parent company (null if independent)
+#   contact:    Press contact email or form URL
+#   notes:      How to access assets, caveats, tips
+#   status:     not_contacted | contacted | approved | declined
+
+# ─── Self-Service Press Kits (download directly) ────────────────────────────
+
+Czech Games Edition:
+  press_url: "https://czechgames.com/for-press/"
+  parent: null
+  contact: "marketing@czechgames.com"
+  notes: >
+    Excellent press page with downloadable graphics for 20+ titles.
+    Web-resolution images available directly; request print-quality
+    from support@czechgames.com. Brand assets at
+    webfile.czechgames.com/brand/index.html.
+  status: not_contacted
+
+Pandasaurus Games:
+  press_url: "https://pandasaurusgames.com/pages/media-kits"
+  parent: null
+  contact: "raina@pandasaurusgames.com"
+  notes: >
+    Best-in-class. Dropbox-hosted media kits for 70+ titles with
+    high-quality photos and graphics. Also has a separate press
+    resources page at pandasaurusgames.com/pages/press.
+  status: not_contacted
+
+Leder Games:
+  press_url: "https://ledergames.com/pages/resources"
+  parent: null
+  contact: "support@ledergames.com"
+  notes: >
+    Downloadable media kits, rulebooks, and bonus materials.
+    Covers Root, Vast, Fort, Oath, Ahoy, and Arcs.
+  status: not_contacted
+
+KOSMOS:
+  press_url: "https://www.kosmos.de/content/presse/pressebilder/pressebilder-spielware/"
+  parent: null
+  contact: "presse@kosmos.de"
+  notes: >
+    Full German-language press section with game images (Pressebilder).
+    High-res images available on request. For North America, contact
+    Thames & Kosmos at kelley@southardinc.com.
+  status: not_contacted
+
+Repos Production:
+  press_url: "https://www.rprod.com/en/press"
+  parent: Asmodee
+  contact: "info@rprod.com"
+  notes: >
+    Dedicated press page with image packs for 7 Wonders, Just One,
+    Concept, etc. Belgian publisher, part of Asmodee group.
+  status: not_contacted
+
+Awaken Realms:
+  press_url: "https://awakenrealms.com/download"
+  parent: null
+  contact: "contact@awakenrealms.com"
+  notes: >
+    Downloads page with press kits and media assets. Also has a
+    press contact page at awakenrealms.com/support/press-contact.
+  status: not_contacted
+
+# ─── Asmodee Group (centralized contact for many studios) ───────────────────
+
+Asmodee:
+  press_url: "https://corporate.asmodee.com/downloadable-assets"
+  parent: null
+  contact: "pr@asmodeena.com"
+  notes: >
+    Parent company for Fantasy Flight, Z-Man, Days of Wonder, Lookout,
+    Hans im Gluck, eggertspiele, Plan B, Repos, and former Mayfair titles.
+    Corporate assets page may require authentication. Contact
+    pr@asmodeena.com (NA) or presse@asmodee.com (EU) for bulk requests.
+    Consider requesting assets for ALL Asmodee-family games at once.
+  status: not_contacted
+
+Fantasy Flight Games:
+  press_url: null
+  parent: Asmodee
+  contact: "pr@asmodeena.com"
+  notes: >
+    No self-service press page. Route through Asmodee press contact.
+  status: not_contacted
+
+Z-Man Games:
+  press_url: null
+  parent: Asmodee
+  contact: "pr@asmodeena.com"
+  notes: >
+    No self-service press page. Route through Asmodee press contact.
+  status: not_contacted
+
+Days of Wonder:
+  press_url: "https://www.daysofwonder.com/press/"
+  parent: Asmodee
+  contact: "pr@asmodeena.com"
+  notes: >
+    Press releases page exists but actual image downloads may require
+    contacting Asmodee directly.
+  status: not_contacted
+
+Lookout Games:
+  press_url: null
+  parent: Asmodee
+  contact: "presse@asmodee.com"
+  notes: >
+    Part of Asmodee group since 2018. Route through Asmodee EU press.
+  status: not_contacted
+
+Hans im Glück:
+  press_url: "https://www.hans-im-glueck.de/en/pr/"
+  parent: Asmodee
+  contact: "presse@asmodee.com"
+  notes: >
+    Has a PR page but routes to Asmodee press email.
+  status: not_contacted
+
+eggertspiele:
+  press_url: null
+  parent: Asmodee
+  contact: "pr@asmodeena.com"
+  notes: >
+    Now under Plan B / Next Move Games, part of Asmodee. No standalone
+    press page.
+  status: not_contacted
+
+Plan B Games:
+  press_url: null
+  parent: Asmodee
+  contact: "pr@asmodeena.com"
+  notes: >
+    Rebranded to Next Move Games. Part of Asmodee since 2021.
+    Publishes Azul, Century series.
+  status: not_contacted
+
+Mayfair Games:
+  press_url: null
+  parent: Asmodee
+  contact: "pr@asmodeena.com"
+  notes: >
+    DEFUNCT (closed 2018). Assets acquired by Asmodee NA.
+  status: not_contacted
+
+# ─── Contact-by-Email Publishers ────────────────────────────────────────────
+
+Rio Grande Games:
+  press_url: null
+  parent: null
+  contact: "https://www.riograndegames.com/contact-us/"
+  notes: >
+    No press page. Use contact form. Small independent publisher.
+  status: not_contacted
+
+Renegade Game Studios:
+  press_url: "https://renegadegamestudios.com/media-contact"
+  parent: null
+  contact: "https://renegadegamestudios.com/media-contact"
+  notes: >
+    Media contact form (not self-service downloads). Also distributes
+    Garphill Games titles in North America.
+  status: not_contacted
+
+Stonemaier Games:
+  press_url: null
+  parent: null
+  contact: "jamey@stonemaier.com"
+  notes: >
+    No centralized press kit with images. Annual reviewer policy page.
+    Contact Jamey Stegmaier directly for asset requests.
+  status: not_contacted
+
+Eagle-Gryphon Games:
+  press_url: null
+  parent: null
+  contact: "marketing@eagle-gryphon.com"
+  notes: >
+    No press page. Contact marketing email.
+  status: not_contacted
+
+CMON:
+  press_url: "https://www.cmon.com/all-press/"
+  parent: null
+  contact: "media@cmon.com"
+  notes: >
+    Press releases page exists. Media kit referenced but may require
+    direct request. Publicly traded (HK stock exchange).
+  status: not_contacted
+
+GMT Games:
+  press_url: null
+  parent: null
+  contact: "gmtoffice@gmtgames.com"
+  notes: >
+    Traditional wargame publisher. No formal press page. Contact
+    office email directly.
+  status: not_contacted
+
+Ravensburger:
+  press_url: "https://www.ravensburger-gruppe.de/en/press/index.html"
+  parent: null
+  contact: "https://pressfix.co/ravensburger"
+  notes: >
+    Corporate press resources exist. NA media portal at pressfix.co
+    requires login. Brand portal at brand.ravensburger-group.com has
+    some downloadable assets.
+  status: not_contacted
+
+Feuerland Spiele:
+  press_url: null
+  parent: null
+  contact: "kontakt@feuerland-spiele.de"
+  notes: >
+    No press page. German publisher of Terra Mystica, Gaia Project,
+    Ark Nova. Has a press mailing list you can join.
+  status: not_contacted
+
+Stronghold Games:
+  press_url: null
+  parent: null
+  contact: "contact@indieboardsandcards.com"
+  notes: >
+    Merged into Indie Game Studios (2018). Brand largely dormant.
+    Route through Indie Boards & Cards.
+  status: not_contacted
+
+Indie Boards & Cards:
+  press_url: null
+  parent: null
+  contact: "contact@indieboardsandcards.com"
+  notes: >
+    No press page. Known for The Resistance, Coup, Flash Point.
+  status: not_contacted
+
+Roxley Games:
+  press_url: null
+  parent: null
+  contact: "media@offdutyninja.com"
+  notes: >
+    Media handled by OffDutyNinja consultancy. Known for Brass:
+    Birmingham, Santorini, Dice Throne.
+  status: not_contacted
+
+Alderac Entertainment Group:
+  press_url: null
+  parent: null
+  contact: "media@alderac.com"
+  notes: >
+    No centralized press kit. Known for Smash Up, Tiny Towns.
+  status: not_contacted
+
+Garphill Games:
+  press_url: null
+  parent: null
+  contact: "https://garphill.com/contact"
+  notes: >
+    Small NZ publisher. Distributed by Renegade in NA. Known for
+    West Kingdom, North Sea, South Tigris trilogies.
+  status: not_contacted
+
+Devir:
+  press_url: null
+  parent: null
+  contact: "info@devirgames.com"
+  notes: >
+    Publisher and distributor, founded in Brazil. US office in Orlando.
+  status: not_contacted
+
+Matagot:
+  press_url: "https://www.matagot.com/en/press"
+  parent: null
+  contact: "https://www.matagot.com/en/contact-us"
+  notes: >
+    Press section in navigation. French publisher (Bordeaux) since 2005.
+    Known for Inis, Kemet, Captain Sonar.
+  status: not_contacted
+
+Capstone Games:
+  press_url: null
+  parent: null
+  contact: null
+  notes: >
+    Publisher of Ark Nova (English edition). Check website for media contact.
+  status: not_contacted
+
+Cephalofair Games:
+  press_url: null
+  parent: null
+  contact: null
+  notes: >
+    Publisher of Gloomhaven. Check website for media contact.
+  status: not_contacted
+
+Dire Wolf Digital:
+  press_url: null
+  parent: null
+  contact: null
+  notes: >
+    Publisher of Dune: Imperium. Check website for media contact.
+  status: not_contacted

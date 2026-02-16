@@ -1,0 +1,72 @@
+id: tikal
+name: "Tikal"
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (90 min)
+rules_complexity: 2  # Junior High/High School (structured steps and mechanics)
+strategic_depth: 3  # Strategy (long-term planning)
+feel: 3  # Polite (competitive with minimal interaction)
+value: 2  # Fair Deal (quality boards/cards)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Action Points
+  - Area Control
+  - Auctions/Bidding
+  - Hex Map
+  - Modular Board
+  - Tile Placement
+  - Euro
+  - Wolfgang Kramer
+  - Michael Kiesling
+  - Historical
+  - Ancient
+  - Ravensburger
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - Ravensburger
+artist:
+  - Franz Vohwinkel
+  - Mariusz Gandzel
+  - Paul Mafayon
+  - Christophe Swal
+playtime_minutes: 90
+min_playtime: 90
+max_playtime: 90
+min_age: 10
+
+# Description
+description: |
+  Explore the jungles of Central America to uncover lost Mayan temples and treasures.
+  Players manage teams of explorers using action points to clear jungle hexes, excavate
+  temples, and collect valuable artifacts. Compete for area majority at temples to score
+  points, but balance between exploration and control. Winner of the 1999 Spiel des Jahres,
+  part of the Mask Trilogy with designer duo Kramer and Kiesling.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

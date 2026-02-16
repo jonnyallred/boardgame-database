@@ -1,0 +1,70 @@
+id: space-alert
+name: "Space Alert"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - space-alert-the-new-frontier
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/High School (structured steps and mechanics)
+strategic_depth: 2  # Tactics (short-term positioning)
+feel: 1  # Cooperative (work together)
+value: 2  # Fair Deal (quality boards/cards)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Real-time
+  - Programmed Movement
+  - Simultaneous Action
+  - Hand Management
+  - Sci-Fi
+  - Space
+  - Aliens
+  - Vlaada Chvatil
+  - Czech Games Edition
+  - Cult Classic
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Vlaada Chvátil
+publisher:
+  - Czech Games Edition
+artist:
+  - Radim Pech
+  - Milan Vavroň
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 12
+
+# Description
+description: |
+  A cooperative real-time survival game where players act as spaceship crew members
+  protecting their vessel during chaotic 10-minute missions. A soundtrack announces
+  various threats while players frantically coordinate defensive actions using programmed
+  movement cards. After the frenzied real-time phase, the team resolves their queued
+  actions to discover whether their hasty planning saved the ship or led to disaster.
+  Winner of multiple innovation awards including the 2009 Spiel des Jahres Special Prize.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
