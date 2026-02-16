@@ -231,6 +231,15 @@ Full rating system implemented:
   - All entries fully researched from publisher sites, Wikipedia, retailers, and review sites
   - All research URLs logged to `sources/research-log.yaml`
 
+- **Implemented `alternate_names` field** — Architectural change to handle multilingual games:
+  - Added `alternate_names: []` to schema template for tracking translations and regional names
+  - Updated `scripts/progress.py` to check both primary and alternate names when detecting duplicates
+  - Updated `/add-game` skill to research and record alternate names
+  - Updated documentation in CLAUDE.md and schema.yaml
+  - Example: "Adel Verpflichtet" also known as "Hoity Toity", "Fair Means or Foul", "By Hook or By Crook"
+  - Prevents duplicate entries when source lists use different names for the same game
+  - Fixed 5 game file IDs to match source list conventions (removed unnecessary year suffixes)
+
 ### Games Added (20)
 | Game | Year | Designers | Awards |
 |------|------|-----------|--------|
@@ -258,13 +267,17 @@ Full rating system implemented:
 ### Progress
 - **Completion: 20/75 games (26.7%)**
 - **Remaining: 55 games** from award lists
-- **Note:** 5 orphan games exist (not in source lists) - likely from previous data
+- **No orphan games** after ID standardization
+
+### Architecture Notes
+- **alternate_names field** added to schema for handling games with multiple titles (translations, regional names)
+- Duplicate detection now checks both primary name and alternate names across all existing games
+- This prevents creating duplicate entries when source lists use different names for the same game
 
 ### Next Steps
 - [ ] Complete Golden Geek and Deutscher Spiele Preis lists (fill missing years)
 - [ ] Add remaining 8 source lists (review sites, designers, publishers)
 - [ ] Continue adding game entries for remaining 55 award winners
-- [ ] Clean up orphan games
 
 ---
 
