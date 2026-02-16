@@ -1,0 +1,64 @@
+id: challengers
+name: "Challengers!"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Drafting
+  - Hand Management
+  - Simultaneous Action
+  - Set Collection
+  - Party
+  - Family
+  - Gateway
+  - Animals
+  - Z-Man Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6, 7, 8]
+
+# Metadata
+designer:
+  - Johannes Krenner
+  - Markus Slawitscheck
+publisher:
+  - 1 More Time Games
+  - Z-Man Games
+artist:
+  - Jeff Harvey
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 45
+min_age: 10
+
+# Description
+description: |
+  Challengers! is a competitive deck-management game for 1-8 players that combines the simplicity of War with strategic deck-building mechanics. Players simultaneously compete in head-to-head matches, flipping cards from their shuffled decks to capture victory flags by matching or exceeding their opponent's card values. Between each round, players draft new cards to strengthen their decks while managing the risk of "busting" by holding too many incompatible card types. The game uses a tournament structure where players face different opponents each round, with the top two scoring players advancing to a final championship match. Featuring whimsical animal-themed cards with absurdist humor (rubber ducks vs. T-Rexes), Challengers! balances accessibility for casual players with meaningful strategic decisions around deck composition and card synergies. Winner of the 2023 Kennerspiel des Jahres, the game scales well across all player counts but shines at 4-8 players where the full tournament experience delivers maximum excitement.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

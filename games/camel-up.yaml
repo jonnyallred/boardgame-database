@@ -1,0 +1,62 @@
+id: camel-up
+name: "Camel Up"
+year: 2014
+
+# Relationships
+game_family: camel-up
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 2  # Party
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Racing
+  - Press Your Luck
+  - Bluffing
+  - Party
+  - Family
+  - Gateway
+  - Animals
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6, 7]
+
+# Metadata
+designer:
+  - Steffen Bogen
+publisher:
+  - Pegasus Spiele
+  - eggertspiele
+  - Z-Man Games
+artist:
+  - Dennis Lohausen
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  Camel Up is a fast-paced racing and betting game where players wager on five camels racing around a pyramid-themed desert track. The game's unique stacking mechanic means camels can land on the same space and ride on each other's backs, creating sudden reversals as carrying camels move entire stacks forward. Players earn Egyptian Pounds by correctly predicting which camel leads at the end of each leg and which camel wins or loses the overall race. The pyramid dice shaker dispenses colored dice that move camels 1-3 spaces, while desert tiles allow players to place oasis or mirage markers to push favored camels forward or drop opponents backward. Combining betting, bluffing, and probability assessment with quick gameplay, Camel Up won the prestigious 2014 Spiel des Jahres award and has become known for creating moments of tension and laughter around the table with its accessible yet engaging gameplay that works equally well at any player count.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

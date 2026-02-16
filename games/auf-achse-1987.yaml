@@ -1,0 +1,60 @@
+id: auf-achse-1987
+name: "Auf Achse"
+year: 1987
+
+# Relationships
+game_family: auf-achse
+edition: "1987 Original"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Dice Rolling
+  - Route Building
+  - Economic
+  - Racing
+  - Hand Management
+  - Network Building
+  - Euro
+  - Wolfgang Kramer
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Wolfgang Kramer
+publisher:
+  - FX Schmid
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+# Description
+description: |
+  Auf Achse (German for "on the road" or "on the axle") is a logistics-themed trucking game where players take on the role of hauliers transporting freight across Germany and neighboring European countries. Each player starts with a truck pawn, a small cash reserve, and three private freight contracts. On their turn, players roll dice to move their trucks along an abstracted road network connecting various cities; landing exactly in a city permits loading or unloading goods, or initiating an auction for public delivery contracts. Auctions use fixed incremental bids printed on the contract cards, with the initiator winning ties. Trucks can be upgraded with trailers to increase carrying capacity from six to ten or twelve cubes, though this costs cash and reduces maneuverability. Landing on triangular event spaces triggers event cards that can help or hinder players (snowstorms, road works, police checks). When the supply of public contracts is exhausted and a player delivers their final cargo, the game ends and the richest haulier wins. Designed by Wolfgang Kramer, Auf Achse won the Spiel des Jahres award in 1987 and has been re-released multiple times, cementing its status as a classic pick-up-and-deliver game.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,57 @@
+id: call-my-bluff-1993
+name: "Call My Bluff"
+year: 1993
+
+# Relationships
+game_family: liars-dice
+edition: "F.X. Schmid (1993)"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 2  # Party
+value: 1  # Bargain
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Bluffing
+  - Press Your Luck
+  - Party
+  - Family
+  - Gateway
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+# Metadata
+designer:
+  - Richard Borg
+publisher:
+  - F.X. Schmid
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  Call My Bluff, also known as Liar's Dice, is the 1993 Spiel des Jahres winner from designer Richard Borg. Players roll dice hidden under cups and take turns bidding on how many dice of a certain value appear across all players' cups, with the star faces serving as wild cards. Each player can either raise the bid (increasing the quantity or the die value) or challenge the previous bid by calling "bluff." When challenged, all cups are revealed—if the bid was accurate or conservative, the challenger loses a die; if the bid was too high, the bidder loses a die. The game continues with players losing dice until only one player remains. Originally created after Borg played Liar's Poker at bars following softball games, the design captures the tension of social bluffing and calculated risk-taking in an accessible, fast-paced format. The game's simple ruleset earned praise from the Spiel des Jahres jury for being both entertaining and uncomplicated.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

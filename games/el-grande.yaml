@@ -1,0 +1,64 @@
+id: el-grande
+name: "El Grande"
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Auctions/Bidding
+  - Hand Management
+  - Action Points
+  - Variable Setup
+  - Euro
+  - Historical
+  - Medieval
+  - Wolfgang Kramer
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Wolfgang Kramer
+  - Richard Ulrich
+publisher:
+  - Hans im Glück
+  - Rio Grande Games
+  - 999 Games
+artist:
+  - Doris Matthäus
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  El Grande is a landmark area-control game set in 15th century Spain where players take on the roles of powerful Grandes vying for political influence across the regions. The game is played over nine rounds, with each round following an elegant two-phase structure: first, players bid for turn order using numbered cards (1-13), where higher bids provide better turn position but lower bids grant more caballeros (wooden cubes representing your followers). Then players select one of five available action cards that allow them to deploy caballeros from their court to regions adjacent to the King, with the twist that nothing can change in the region where the King currently resides. Scoring occurs every three rounds, with points awarded based on area majority in each region. The bidding system creates delicious tension between acting first versus building your forces, while the action card selection and King movement rules produce deep strategic planning and spatial puzzle-solving. El Grande won both the Spiel des Jahres and Deutscher Spiele Preis in 1996, establishing itself as the granddaddy of modern area-control games.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,65 @@
+id: brass-birmingham
+name: "Brass: Birmingham"
+year: 2018
+
+# Relationships
+game_family: brass
+edition: "Birmingham (2018)"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 3  # Polite
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Economic
+  - Network Building
+  - Route Building
+  - Hand Management
+  - Resource Management
+  - Engine Building
+  - Euro
+  - Martin Wallace
+  - Roxley Games
+  - Historical
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Martin Wallace
+  - Gavan Brown
+  - Matt Tolman
+publisher:
+  - Roxley Games
+artist:
+  - Damien Mammoliti
+  - Mr. Cuddington
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Brass: Birmingham is an economic strategy game set during England's Industrial Revolution between 1770-1870, telling the story of competing entrepreneurs in the West Midlands. Players manage their hands of cards to build industries, develop technology, and create transportation networks across two distinct eras: the canal period and the railway period. The game features a dynamic board setup with variable town locations, making each play unique. Core mechanics include strategic hand management, network building to connect industries, and a robust economic system where players benefit from each other's developments. The deluxe edition features premium components including Iron Clays poker chip-style counters, elevated production values with custom storage trays, and meticulously crafted artwork. Considered one of the finest heavy strategy games ever made, it improves upon Martin Wallace's 2007 Brass with refined mechanics and enhanced replayability.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

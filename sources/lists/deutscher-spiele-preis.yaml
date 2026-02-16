@@ -1,0 +1,37 @@
+source: "Deutscher Spiele Preis Winners"
+url: "https://www.spiel-essen.de/en/german-game-awards-history"
+fetched: 2026-02-16
+notes: |
+  Award started in 1990, announced annually at Spiel Essen.
+  TODO: Complete missing years 1991-1995, 1998-1999, 2001-2023.
+games:
+  - id: seti
+    name: SETI
+    year: 2025
+  - id: forest-shuffle
+    name: Forest Shuffle
+    year: 2024
+  - id: ark-nova
+    name: Ark Nova
+    year: 2021
+  - id: lost-ruins-of-arnak
+    name: Lost Ruins of Arnak
+    year: 2020
+  - id: wingspan
+    name: Wingspan
+    year: 2019
+  - id: terraforming-mars
+    name: Terraforming Mars
+    year: 2017
+  - id: taj-mahal
+    name: Taj Mahal
+    year: 2000
+  - id: lowenherz
+    name: Löwenherz
+    year: 1997
+  - id: el-grande
+    name: El Grande
+    year: 1996
+  - id: adel-verpflichtet
+    name: Adel Verpflichtet
+    year: 1990

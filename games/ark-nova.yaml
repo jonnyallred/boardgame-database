@@ -1,0 +1,67 @@
+id: ark-nova
+name: "Ark Nova"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 3  # Polite
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Card Drafting
+  - Engine Building
+  - Tableau Building
+  - Action Points
+  - Set Collection
+  - Tile Placement
+  - Euro
+  - Animals
+  - Nature
+  - City Building
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Mathias Wigge
+publisher:
+  - Feuerland Spiele
+  - Capstone Games
+artist:
+  - Loïc Billiau
+  - Dennis Lohausen
+  - Steffen Bieker
+  - Christof Tisch
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Ark Nova challenges players to plan and design a modern, scientifically managed zoo with the goal of building the most successful zoological establishment. Players build enclosures to house animals, accommodate them with appropriate habitats, and support conservation projects worldwide. The game features a unique action selection system where each of five available actions has a strength related to its position in the player's action row—the longer since you've taken an action, the more powerful it becomes. Players advance on dual Appeal and Conservation tracks, with the game ending when the markers meet or cross, making balanced progression essential. The spatial puzzle of zoo construction on a hexagonal grid, combined with hand management of multi-purpose cards and combo-driven engine building, creates deep strategic planning with high replay value.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

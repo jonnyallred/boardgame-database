@@ -1,0 +1,62 @@
+id: 7-wonders
+name: "7 Wonders"
+year: 2010
+
+# Relationships
+game_family: 7-wonders
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Simultaneous Action
+  - Set Collection
+  - Hand Management
+  - Tableau Building
+  - Civilization
+  - Euro
+  - Gateway
+  - Ancient
+  - Antoine Bauza
+
+# Player counts
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Antoine Bauza
+publisher:
+  - Repos Production
+artist:
+  - Miguel Coimbra
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  7 Wonders is a card drafting civilization-building game where players lead one of the seven great cities of the ancient world through three ages. Each player uses cards representing structures and resources to build their wonder and develop their city's military, scientific achievements, and commercial ventures. The game uses a simultaneous card-drafting mechanic where players select one card from their hand each turn and pass the rest to their neighbor, creating a fast-paced experience with no downtime even at higher player counts. Players must carefully manage resources, build their tableau strategically, and monitor their neighbors' progress to maximize victory points across multiple scoring categories. Winner of the prestigious 2011 Kennerspiel des Jahres award, 7 Wonders has become one of the most awarded board games in modern history, praised for its elegant design that scales seamlessly from 3 to 7 players while maintaining a consistent 30-minute playtime.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

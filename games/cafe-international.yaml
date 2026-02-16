@@ -1,0 +1,59 @@
+id: cafe-international
+name: "Café International"
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Set Collection
+  - Hand Management
+  - Euro
+  - Family
+  - Gateway
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Rudi Hoffmann
+publisher:
+  - Mattel
+artist:
+  - Oliver Freudenreich
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Winner of the 1989 Spiel des Jahres, Café International challenges players to seat guests from 12 different nationalities at tables in an international café. The game includes 100 tiles representing 96 customers (four men and four women from each nationality) plus four joker tiles, and a board with 24 tables arranged around a central bar. Players draw five tiles at random and must strategically place guests at tables matching their nationality, keeping gender balance as even as possible. If unable to seat a guest at a table, players must place them at the bar, where early seats award positive points and later seats impose penalties. Scoring is based on table completion and nationality grouping, with bonus points for filling tables efficiently. The game ends when the bar is full, all table seats are occupied, only four tiles remain in the bag, or a player empties their hand by completing five single-nationality tables. Café International was in development for nearly 20 years before publication and combines accessible rules with a healthy balance of luck and tactical decision-making.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

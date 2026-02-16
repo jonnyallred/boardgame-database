@@ -1,0 +1,133 @@
+source: "Spiel des Jahres Winners"
+url: "https://www.spiel-des-jahres.de/en/"
+fetched: 2026-02-16
+games:
+  - id: bomb-busters
+    name: Bomb Busters
+    year: 2025
+  - id: pictures
+    name: Pictures
+    year: 2020
+  - id: just-one
+    name: Just One
+    year: 2019
+  - id: azul
+    name: Azul
+    year: 2018
+  - id: kingdomino
+    name: Kingdomino
+    year: 2017
+  - id: codenames
+    name: Codenames
+    year: 2016
+  - id: colt-express
+    name: Colt Express
+    year: 2015
+  - id: camel-up
+    name: Camel Up
+    year: 2014
+  - id: hanabi
+    name: Hanabi
+    year: 2013
+  - id: kingdom-builder
+    name: Kingdom Builder
+    year: 2012
+  - id: qwirkle
+    name: Qwirkle
+    year: 2011
+  - id: dixit
+    name: Dixit
+    year: 2010
+  - id: dominion
+    name: Dominion
+    year: 2009
+  - id: keltis
+    name: Keltis
+    year: 2008
+  - id: zooloretto
+    name: Zooloretto
+    year: 2007
+  - id: thurn-and-taxis
+    name: Thurn and Taxis
+    year: 2006
+  - id: niagara
+    name: Niagara
+    year: 2005
+  - id: ticket-to-ride
+    name: Ticket to Ride
+    year: 2004
+  - id: alhambra
+    name: Alhambra
+    year: 2003
+  - id: villa-paletti
+    name: Villa Paletti
+    year: 2002
+  - id: carcassonne
+    name: Carcassonne
+    year: 2001
+  - id: torres
+    name: Torres
+    year: 2000
+  - id: tikal
+    name: Tikal
+    year: 1999
+  - id: elfenland
+    name: Elfenland
+    year: 1998
+  - id: mississippi-queen
+    name: Mississippi Queen
+    year: 1997
+  - id: el-grande
+    name: El Grande
+    year: 1996
+  - id: settlers-of-catan
+    name: The Settlers of Catan
+    year: 1995
+  - id: manhattan
+    name: Manhattan
+    year: 1994
+  - id: call-my-bluff
+    name: Call My Bluff
+    year: 1993
+  - id: um-reifenbreite
+    name: Um Reifenbreite
+    year: 1992
+  - id: drunter-und-druber
+    name: Drunter und Drüber
+    year: 1991
+  - id: adel-verpflichtet
+    name: Adel Verpflichtet
+    year: 1990
+  - id: cafe-international
+    name: Café International
+    year: 1989
+  - id: barbarossa
+    name: Barbarossa
+    year: 1988
+  - id: auf-achse
+    name: Auf Achse
+    year: 1987
+  - id: top-secret-spies
+    name: Top Secret Spies
+    year: 1986
+  - id: sherlock-holmes-consulting-detective
+    name: "Sherlock Holmes: Consulting Detective"
+    year: 1985
+  - id: railway-rivals
+    name: Railway Rivals
+    year: 1984
+  - id: scotland-yard
+    name: Scotland Yard
+    year: 1983
+  - id: enchanted-forest
+    name: Enchanted Forest
+    year: 1982
+  - id: focus
+    name: Focus
+    year: 1981
+  - id: rummikub
+    name: Rummikub
+    year: 1980
+  - id: hare-and-tortoise
+    name: Hare and Tortoise
+    year: 1979

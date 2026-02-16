@@ -1,0 +1,62 @@
+id: azul
+name: "Azul"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Drafting
+  - Set Collection
+  - Pattern Building
+  - Abstract
+  - Euro
+  - Family
+  - Gateway
+  - Michael Kiesling
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Michael Kiesling
+publisher:
+  - Plan B Games
+artist:
+  - Philippe Guérin
+  - Chris Quilliams
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  Inspired by the decorative azulejo tiles of Portugal, Azul challenges players to compete as artisans decorating the walls of the Royal Palace of Évora. Using an elegant drafting mechanism, players take turns selecting colored tiles from central factory displays, carefully managing what they take to avoid penalties. Tiles are placed on a personal staging board before being moved into a 5x5 mosaic grid, earning points based on adjacent placement patterns. The game features simple, accessible rules that create surprisingly deep tactical decisions around tile selection timing and board positioning. Winner of the 2018 Spiel des Jahres, Azul combines beautiful components with engaging gameplay that scales well across all player counts while offering the most strategic control at two players.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

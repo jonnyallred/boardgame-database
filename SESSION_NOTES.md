@@ -154,7 +154,21 @@ Full rating system implemented:
 ## TODO - Future Sessions
 
 ### High Priority
-- [ ] **Add more detailed game entries** — many games remaining from master list
+- [x] **Build source lists** — Add curated game lists to `sources/lists/`
+  - [x] Spiel des Jahres Winners (1979-present) — 47 games
+  - [x] Kennerspiel des Jahres Winners (2011-present) — 15 games
+  - [x] Golden Geek Awards Winners — 15 games (incomplete, needs Medium/Light categories)
+  - [x] Deutscher Spiele Preis Winners — 11 games (incomplete, many missing years)
+  - [ ] Dicebreaker Top 100
+  - [ ] Shut Up & Sit Down Recommendations
+  - [ ] No Pun Included Best Games
+  - [ ] BoardGameQuest Top Games
+  - [ ] Reiner Knizia collection
+  - [ ] Uwe Rosenberg collection
+  - [ ] Stonemaier Games collection
+  - [ ] Gateway Games Classics
+- [ ] **Complete Golden Geek and Deutscher Spiele Preis** — Fill in missing years/categories
+- [ ] **Add game entries for award winners** — 20/75 complete (55 remaining)
 - [ ] **Obtain box art images** - See `/images/README.md` for sources
   - Contact publishers for press kits
   - Download from official websites
@@ -198,9 +212,65 @@ Full rating system implemented:
 
 ---
 
+## Session 6 - Fresh Start: Source Lists & Initial Game Entries
+
+**Date:** February 16, 2026
+
+### What Was Accomplished
+
+- **Created 4 award source lists** in `sources/lists/`:
+  - Spiel des Jahres Winners (47 games, 1979-2025)
+  - Kennerspiel des Jahres Winners (15 games, 2011-2025)
+  - Golden Geek Awards Winners (15 games, 2010-2024, incomplete)
+  - Deutscher Spiele Preis Winners (11 games, 1990-2025, incomplete)
+  - **Total: 75 unique games across all lists**
+
+- **Added 20 detailed game entries** (0 → 20 total):
+  - Used parallel `/add-game` skill subagents for efficient batch creation
+  - Prioritized games appearing in multiple awards
+  - All entries fully researched from publisher sites, Wikipedia, retailers, and review sites
+  - All research URLs logged to `sources/research-log.yaml`
+
+### Games Added (20)
+| Game | Year | Designers | Awards |
+|------|------|-----------|--------|
+| Wingspan | 2019 | Elizabeth Hargrave | 3 awards 🏆🏆🏆 |
+| Adel Verpflichtet | 1990 | Klaus Teuber | 2 awards |
+| Ark Nova | 2021 | Mathias Wigge | 2 awards |
+| El Grande | 1995 | Wolfgang Kramer, Richard Ulrich | 2 awards |
+| SETI | 2024 | Tomáš Holek | 2 awards |
+| 7 Wonders | 2010 | Antoine Bauza | 1 award |
+| Alhambra | 2003 | Dirk Henn | 1 award |
+| Auf Achse | 1987 | Wolfgang Kramer | 1 award |
+| Azul | 2017 | Michael Kiesling | 1 award |
+| Barbarossa | 1988 | Klaus Teuber | 1 award |
+| Bomb Busters | 2025 | Hisashi Hayashi | 1 award |
+| Brass: Birmingham | 2018 | Wallace, Brown, Tolman | 1 award |
+| Broom Service | 2015 | Pelikan, Pfister | 1 award |
+| Café International | 1989 | Rudi Hoffmann | 1 award |
+| Call My Bluff | 1993 | Richard Borg | 1 award |
+| Camel Up | 2014 | Steffen Bogen | 1 award |
+| Carcassonne | 2000 | Klaus-Jürgen Wrede | 1 award |
+| Challengers! | 2022 | Krenner, Slawitscheck | 1 award |
+| Codenames | 2016 | Vlaada Chvátil | 1 award |
+| Colt Express | 2014 | Christophe Raimbault | 1 award |
+
+### Progress
+- **Completion: 20/75 games (26.7%)**
+- **Remaining: 55 games** from award lists
+- **Note:** 5 orphan games exist (not in source lists) - likely from previous data
+
+### Next Steps
+- [ ] Complete Golden Geek and Deutscher Spiele Preis lists (fill missing years)
+- [ ] Add remaining 8 source lists (review sites, designers, publishers)
+- [ ] Continue adding game entries for remaining 55 award winners
+- [ ] Clean up orphan games
+
+---
+
 ## File Counts
-- `master_list.yaml`: Curated list from award winners and notable game lists
-- `games/*.yaml`: 394 detailed entries
+- `sources/lists/*.yaml`: 4 source list files (75 unique games)
+- `games/*.yaml`: 20 detailed entries
 - Total categories defined: 70+
 - Designer tags available: 28
 - Publisher tags available: 22

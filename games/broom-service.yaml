@@ -1,0 +1,67 @@
+id: broom-service
+name: "Broom Service"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Simultaneous Action
+  - Bluffing
+  - Press Your Luck
+  - Resource Management
+  - Route Building
+  - Modular Board
+  - Variable Setup
+  - Euro
+  - Family
+  - Alexander Pfister
+  - Ravensburger
+  - Fantasy
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Andreas Pelikan
+  - Alexander Pfister
+publisher:
+  - Ravensburger
+  - Alea
+artist:
+  - Vincent Dutrait
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 75
+min_age: 10
+
+# Description
+description: |
+  Winner of the 2015 Kennerspiel des Jahres, Broom Service casts players as witches, druids, and gatherers collecting ingredients, brewing potions, and delivering them across a magical realm to score victory points. The core mechanism is a clever role selection system where each round players simultaneously choose four of ten role cards, then take turns revealing them one at a time. When revealing a role, players must decide to play it "cowardly" for a guaranteed but smaller reward, or "brave" for a larger payoff with the risk that another player holding the same role will steal the action from them. This creates constant tension as players program their turns, predicting opponents' choices while managing witch movement across the modular board, navigating weather events, and timing potion deliveries to towers. Event cards introduce variability each round, and the game includes additional modules to increase complexity for experienced players while remaining accessible for families.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

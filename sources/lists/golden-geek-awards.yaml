@@ -1,0 +1,52 @@
+source: "Golden Geek Awards - Board Game of the Year"
+url: "https://boardgamegeek.com/wiki/page/BoardGameGeek_Golden_Geek"
+fetched: 2026-02-16
+notes: |
+  Board Game of the Year category started in 2010.
+  After 2019, the award was split into Heavy/Medium/Light Game of the Year categories.
+  This list includes the main GOTY winners 2010-2019, then Heavy winners 2020+.
+  TODO: Complete missing years and add Medium/Light category winners.
+games:
+  - id: seti
+    name: SETI
+    year: 2024
+    notes: "Heavy Game of the Year"
+  - id: hegemony
+    name: Hegemony
+    year: 2023
+    notes: "Heavy Game of the Year"
+  - id: ark-nova
+    name: Ark Nova
+    year: 2021
+    notes: "Heavy Game of the Year"
+  - id: brass-birmingham
+    name: "Brass: Birmingham"
+    year: 2020
+    notes: "Heavy Game of the Year"
+  - id: wingspan
+    name: Wingspan
+    year: 2019
+  - id: gloomhaven
+    name: Gloomhaven
+    year: 2017
+  - id: scythe
+    name: Scythe
+    year: 2016
+  - id: pandemic-legacy-season-1
+    name: "Pandemic Legacy: Season 1"
+    year: 2015
+  - id: dead-of-winter
+    name: Dead of Winter
+    year: 2014
+  - id: terra-mystica
+    name: Terra Mystica
+    year: 2013
+  - id: eclipse
+    name: "Eclipse: New Dawn for the Galaxy"
+    year: 2012
+  - id: dominant-species
+    name: Dominant Species
+    year: 2011
+  - id: hansa-teutonica
+    name: Hansa Teutonica
+    year: 2010

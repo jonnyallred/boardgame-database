@@ -1,0 +1,60 @@
+id: barbarossa-1988
+name: "Barbarossa"
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 2  # Party
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deduction
+  - Party
+  - Dexterity
+  - Take That
+  - Simultaneous Action
+  - Family
+  - Gateway
+  - Fantasy
+  - Klaus Teuber
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Klaus Teuber
+publisher:
+  - ASS Altenburger Spielkarten
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Barbarossa is Klaus Teuber's first published board game and winner of the 1988 Spiel des Jahres award. Players take on the role of wizards creating riddles by sculpting modeling clay into abstract shapes representing objects, concepts, or ideas. Other players must deduce what each sculpture represents through a combination of yes/no questions and letter-guessing mechanics as they move their magician pieces around a circular board. The game rewards balanced creativity - sculptures that are too easy or too difficult result in penalties, while moderately challenging riddles earn points for both creator and solver. Movement is determined either by dice rolls or spending crystal resources to land on various action spaces including dragon caves that advance opponents, elf stone caves that grant resources, and dwarf caves that allow letter inquiries. The first player to solve a riddle earns 5 points while the second solver earns 3 points, and the game ends when a player reaches the end of the scoring track or all riddles are solved. Inspired by Patricia McKillip's Riddle-Master fantasy trilogy, Barbarossa combines lighthearted artistic expression with strategic deduction gameplay, requiring minimal artistic skill but rewarding clever thinking and impressionistic sculpting.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

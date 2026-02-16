@@ -1,0 +1,62 @@
+id: colt-express
+name: "Colt Express"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 2  # Party
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Programmed Movement
+  - Simultaneous Action
+  - Hand Management
+  - Take That
+  - Modular Board
+  - Western
+  - Family
+  - Gateway
+  - Party
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [5, 6]
+
+# Metadata
+designer:
+  - Christophe Raimbault
+publisher:
+  - Ludonaute
+artist:
+  - Ian Parovel
+  - Jordi Valbuena
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 40
+min_age: 10
+
+# Description
+description: |
+  Colt Express is a chaotic wild west train robbery game where 2-6 bandits compete to become the richest outlaw. Players program their actions by playing cards face-up or face-down on a common stack, creating a sequence that unfolds in unpredictable ways as each bandit moves through the train cars, punching rivals, shooting opponents, and grabbing loot. The 3D train setup creates unique movement dynamics between interior cars and the roof, while the Marshal moves autonomously to interfere with plans. Each game plays through five rounds of simultaneous action programming followed by sequential resolution, leading to laugh-out-loud moments when carefully laid plans collapse into beautiful chaos. Winner of the 2015 Spiel des Jahres, Colt Express combines accessible rules with memorable table presence and shines brightest at higher player counts where the mayhem intensifies.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

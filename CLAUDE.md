@@ -7,8 +7,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 This is a **Board Game Database** - a curated collection of board games with detailed metadata, ratings, and categorization. The project stores data as YAML files rather than using a traditional database, making it easy to version control and maintain.
 
 **Key Stats:**
-- `master_list.yaml`: Curated game list from award winners and notable game lists
-- `games/`: Individual YAML files (currently empty — starting fresh)
+- `sources/lists/`: One YAML file per source (article, award list, etc.) — the "want list"
+- `games/`: Individual YAML files with detailed research — the "done list"
 - `schema.yaml`: Complete data structure and validation rules
 - `publishers.yaml`: Publisher directory with press kit URLs and contacts
 - `images/sources.yaml`: Image provenance tracking (source, license, date)
@@ -62,9 +62,21 @@ Each game file (`games/{slug}.yaml`) contains:
 - `upgrades[]`: Optional custom components or accessories
 - `plays_tracked`: Play history tracking (total_plays and configs)
 
-### Master List
+### Source Lists
 
-`master_list.yaml` contains a curated list of games with: `id` (slug matching the `games/` filename), `name`, `year`, and `source` (provenance — which award list, publisher catalog, or other public source the game was included from). The list is sorted alphabetically by `id`.
+Game nominations live in `sources/lists/`, one YAML file per source. Each file has:
+
+```yaml
+source: "Human-readable source name"
+url: "https://..."
+fetched: 2026-02-16
+games:
+  - id: azul
+    name: Azul
+    year: 2017
+```
+
+The progress script unions all list files by `id`, deduplicates, and diffs against `games/` to show what's next. Games appearing in multiple sources are prioritized. See `sources/lists/README.md` for details.
 
 ### Schema
 
@@ -84,7 +96,7 @@ When adding multiple games at once, launch parallel subagents using the `/add-ga
 
 **Manual alternative** (if needed):
 1. Create `games/{slug}.yaml` based on the template in schema.yaml
-2. Use an existing game file as reference (e.g., `games/azul.yaml`)
+2. Use an existing game file as reference if any exist
 3. Ensure the `id` field matches the filename slug
 
 **Update game data:**
@@ -111,6 +123,7 @@ The project uses YAML structure only—no linting tools are configured. When edi
 - Or use the `/progress` skill in Claude Code
 - `python3 scripts/progress.py 50` — show next 50 games
 - `python3 scripts/progress.py 0` — stats only
+- Games appearing in more source lists are shown first (most-nominated = highest priority)
 
 **Image progress:**
 - Run `python3 scripts/image_manager.py` to see image coverage stats

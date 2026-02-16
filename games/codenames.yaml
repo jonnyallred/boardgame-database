@@ -1,0 +1,62 @@
+id: codenames
+name: "Codenames"
+year: 2016
+
+# Relationships
+game_family: codenames
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 2  # Party
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Word Play
+  - Deduction
+  - Teams
+  - Party
+  - Family
+  - Gateway
+  - Espionage
+  - Vlaada Chvatil
+  - Czech Games Edition
+
+# Player counts
+possible_counts: [4, 5, 6, 7, 8, "12+"]
+true_counts: [6, 8]
+
+# Metadata
+designer:
+  - Vlaada Chvátil
+publisher:
+  - Czech Games Edition
+artist:
+  - Tomáš Kučerovský
+  - Filip Murmak
+playtime_minutes: 15
+min_playtime: 15
+max_playtime: 15
+min_age: 10
+
+# Description
+description: |
+  Codenames is a competitive word association party game where two teams compete to identify their agents hidden among 25 words laid out on the table. Each team has a spymaster who gives one-word clues followed by a number indicating how many words relate to that clue. The spymasters see a key card showing which words belong to their team, which are innocent bystanders, and which is the deadly assassin that causes instant defeat. Teams take turns having their operatives guess words based on the clues, trying to find all their agents before the opposing team does. The game combines social deduction, clever wordplay, and team communication in a fast-paced format that can be taught in minutes but offers surprising depth in how spymasters craft creative connections between seemingly unrelated words. Winner of the 2016 Spiel des Jahres, Codenames became an instant party game classic with countless spin-offs and variants.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

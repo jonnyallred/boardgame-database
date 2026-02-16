@@ -1,0 +1,65 @@
+id: wingspan
+name: "Wingspan"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Set Collection
+  - Hand Management
+  - Card Drafting
+  - Tableau Building
+  - Euro
+  - Family
+  - Gateway
+  - Animals
+  - Nature
+  - Stonemaier Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Elizabeth Hargrave
+publisher:
+  - Stonemaier Games
+artist:
+  - Ana Maria Martinez Jaramillo
+  - Natalia Rojas
+  - Beth Sobel
+playtime_minutes: 55
+min_playtime: 40
+max_playtime: 70
+min_age: 10
+
+# Description
+description: |
+  Players act as bird enthusiasts building wildlife preserves. The game involves discovering and attracting the best birds to your network of wildlife reserves through competitive, card-driven engine-building play across four rounds. Each bird is represented by one of 170 uniquely illustrated cards that can be added to forest, grassland, or wetland habitats on your player board. Each habitat is associated with a different action: gaining food resources (from a custom dice tower), laying eggs using colorful miniatures, or drawing cards. As birds accumulate in each habitat, they create increasingly powerful action chains. Winner of the prestigious 2019 Kennerspiel des Jahres award, Wingspan combines accurate thematic elements with accessible strategic gameplay.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

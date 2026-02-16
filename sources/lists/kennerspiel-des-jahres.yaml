@@ -1,0 +1,49 @@
+source: "Kennerspiel des Jahres Winners"
+url: "https://www.spiel-des-jahres.de/en/"
+fetched: 2026-02-16
+games:
+  - id: endeavor-deep-sea
+    name: "Endeavor: Deep Sea"
+    year: 2025
+  - id: daybreak
+    name: Daybreak
+    year: 2024
+  - id: challengers
+    name: Challengers
+    year: 2023
+  - id: living-forest
+    name: Living Forest
+    year: 2022
+  - id: paleo
+    name: Paleo
+    year: 2021
+  - id: the-crew
+    name: The Crew
+    year: 2020
+  - id: wingspan
+    name: Wingspan
+    year: 2019
+  - id: quacks-of-quedlinburg
+    name: The Quacks of Quedlinburg
+    year: 2018
+  - id: exit-the-game
+    name: "EXIT: The Game"
+    year: 2017
+  - id: isle-of-skye
+    name: Isle of Skye
+    year: 2016
+  - id: broom-service
+    name: Broom Service
+    year: 2015
+  - id: istanbul
+    name: Istanbul
+    year: 2014
+  - id: legends-of-andor
+    name: Legends of Andor
+    year: 2013
+  - id: village
+    name: Village
+    year: 2012
+  - id: 7-wonders
+    name: 7 Wonders
+    year: 2011

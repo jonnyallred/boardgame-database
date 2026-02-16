@@ -1,0 +1,68 @@
+id: seti-search-for-extraterrestrial-intelligence
+name: "SETI: Search for Extraterrestrial Intelligence"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - seti-space-agencies
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 3  # Polite
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Hand Management
+  - Area Control
+  - Resource Management
+  - Card Drafting
+  - Action Points
+  - Tableau Building
+  - Modular Board
+  - Variable Setup
+  - Tech Tree
+  - Euro
+  - Sci-Fi
+  - Space
+  - Aliens
+  - Czech Games Edition
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Tomáš Holek
+publisher:
+  - Czech Games Edition
+artist:
+  - Jakub Politzer
+playtime_minutes: 120
+min_playtime: 40
+max_playtime: 160
+min_age: 14
+
+# Description
+description: |
+  SETI is a heavy engine-building eurogame where players lead scientific institutions searching for extraterrestrial intelligence. Players navigate a unique four-layer rotating solar system board where planetary positions constantly shift at different speeds, requiring strategic planning to align probe movements with celestial mechanics. The game features over 200 cards representing real technologies and projects, each offering multiple uses for immediate actions, resource boosts, or long-term engine development. Players launch probes to sample planets and moons, direct telescopes to scan distant star systems, and develop equipment back on Earth. The resource management focuses on carefully balancing limited credits and energy, with turns starting simple but ramping up in complexity as engines develop. The sophisticated card play combined with the dynamic spatial puzzle creates deeply rewarding strategic depth, making SETI one of 2024's most acclaimed designs with wins including the Deutscher Spiele Preis, Dice Tower Awards for Game of the Year and Best Strategy Game, and Golden Geek Awards for Heavy Game and Thematic Game of the Year.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

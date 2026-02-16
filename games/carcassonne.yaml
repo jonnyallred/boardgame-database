@@ -1,0 +1,60 @@
+id: carcassonne
+name: "Carcassonne"
+year: 2000
+
+# Relationships
+game_family: carcassonne
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Area Control
+  - Euro
+  - Family
+  - Gateway
+  - Medieval
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Klaus-Jürgen Wrede
+publisher:
+  - Hans im Glück
+  - Z-Man Games
+  - Rio Grande Games
+artist:
+  - Doris Matthäus
+playtime_minutes: 35
+min_playtime: 30
+max_playtime: 45
+min_age: 7
+
+# Description
+description: |
+  Named after the medieval fortified town in southern France, Carcassonne is a tile-laying game where players build a shared landscape of cities, roads, monasteries, and fields. On each turn, players draw a terrain tile and place it adjacent to existing tiles, extending the map while following connection rules for walls, roads, and rivers. After placing a tile, players may deploy one of their seven "meeples" (followers) to claim features as knights in cities, thieves on roads, monks in monasteries, or farmers in fields. Features are scored when completed, returning the meeple to the player's supply, except for farmers who remain until game end. The game's elegance lies in its simple "draw, place, maybe deploy" turn structure combined with tactical decisions about when to commit limited meeples, where to place tiles to complete your features or block opponents, and whether to risk connecting your smaller features to opponent-controlled larger ones. Winner of the 2001 Spiel des Jahres, Carcassonne scales from 2 to 5 players with the best strategic experience at 2-3 players where tile placement timing and meeple management matter most.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

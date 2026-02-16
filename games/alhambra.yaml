@@ -1,0 +1,64 @@
+id: alhambra
+name: "Alhambra"
+year: 2003
+
+# Relationships
+game_family: alhambra
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Set Collection
+  - Hand Management
+  - Card Drafting
+  - Auctions/Bidding
+  - City Building
+  - Historical
+  - Medieval
+  - Euro
+  - Gateway
+  - Family
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Dirk Henn
+publisher:
+  - Queen Games
+artist:
+  - Jörg Asselborn
+  - Christof Tisch
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Alhambra is a tile-based German-style board game set during the construction of the Alhambra palace in 14th century Granada. Players compete to build the most magnificent Alhambra by purchasing building tiles from a central market using four different currencies. On each turn, players can take money cards, buy a building tile and add it to their Alhambra, or rearrange their existing city layout. The game features a clever currency mechanic where players must use the specific currency shown next to each tile in the market, and paying exact change earns an immediate bonus turn. Victory points are awarded during three scoring rounds to players who have the most tiles of each building type, with additional points for the longest continuous wall around their palace. Winner of the prestigious 2003 Spiel des Jahres award, Alhambra combines accessible tile-placement gameplay with strategic currency management and tactical planning to create an engaging experience that scales well across different player counts.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

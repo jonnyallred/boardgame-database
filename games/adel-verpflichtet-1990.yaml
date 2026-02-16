@@ -1,0 +1,60 @@
+id: adel-verpflichtet-1990
+name: "Adel Verpflichtet"
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Bluffing
+  - Simultaneous Action
+  - Set Collection
+  - Hand Management
+  - Family
+  - Gateway
+  - Historical
+  - Klaus Teuber
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Klaus Teuber
+publisher:
+  - F.X. Schmid
+artist:
+  - Cornelia von Seidlein
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 45
+min_age: 10
+
+# Description
+description: |
+  Players take on the roles of English aristocrats competing to assemble the most impressive collection of antiques and associated prestige. In this Spiel des Jahres 1990 winner, each player controls a lord with a detective and two thieves at their disposal. The game combines rock-paper-scissors style simultaneous action selection with psychological bluffing as players choose whether to visit the Auction House to acquire new antiques or visit another player's Castle to either display their collection, steal valuable items, or arrest thieves. The innovative use of bluffing mechanics combined with simultaneous play made it an early ambassador of German game design. Also known internationally as "Hoity Toity" (United States) and "Fair Means or Foul" (United Kingdom).
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
