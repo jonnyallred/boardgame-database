@@ -8,7 +8,7 @@ This is a **Board Game Database** - a curated collection of board games with det
 
 **Key Stats:**
 - `master_list.yaml`: Curated game list from award winners and notable game lists
-- `games/`: Individual YAML files (currently 394 detailed entries)
+- `games/`: Individual YAML files (currently empty — starting fresh)
 - `schema.yaml`: Complete data structure and validation rules
 - `publishers.yaml`: Publisher directory with press kit URLs and contacts
 - `images/sources.yaml`: Image provenance tracking (source, license, date)
