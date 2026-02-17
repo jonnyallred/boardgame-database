@@ -1,0 +1,67 @@
+id: hegemony-lead-your-class-to-victory
+name: "Hegemony: Lead Your Class to Victory"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 4  # Fierce
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Hand Management
+  - Card Drafting
+  - Action Points
+  - Economic
+  - Engine Building
+  - Resource Management
+  - Tableau Building
+  - Variable Setup
+  - Negotiation
+  - Euro
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Vangelis Bagiartakis
+  - Varnavas Timotheou
+publisher:
+  - Hegemonic Project Games
+artist:
+  - Jakub Skop
+  - Dimitris Anastasiadis
+  - Katerina Xerovasila
+playtime_minutes: 135
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Hegemony: Lead Your Class to Victory is an asymmetric politico-economic simulation where players take on the role of one of four socio-economic factions in a fictional state: the Working Class, Middle Class, Capitalist Class, or the State itself. Each faction has unique mechanics, objectives, and win conditions, creating deeply asymmetric gameplay rooted in real political and economic theory including Social-Democracy, Neoliberalism, Nationalism, and Globalism. Players compete through worker placement, hand management, and strategic card play to shape the nation's policies through voting and economic manipulation. The game integrates academic principles developed in cooperation with political economists, offering a thematic experience that simulates class conflict and cooperation. Winner of Board Game Quest's 2023 "Best Strategy/Euro Game" award, Hegemony features exceptional dual-layered player boards, 325 cards, and premium components that support its complex economic engine and political maneuvering.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

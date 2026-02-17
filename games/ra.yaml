@@ -1,0 +1,63 @@
+id: ra
+name: "Ra"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Set Collection
+  - Press Your Luck
+  - Hand Management
+  - Euro
+  - Gateway
+  - Ancient
+  - Mythology
+  - Reiner Knizia
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - Alea
+  - Rio Grande Games
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  Ra is an auction and set collection game themed around ancient Egypt and the sun god Ra. Players compete across three epochs (rounds) to acquire tiles representing pharaohs, monuments, civilizations, Nile floods, and gods by bidding sun tokens in tense auctions. The game uses a once-around blind auction mechanism where players bid numbered sun discs (valued 1-16), with the winner taking the tiles but swapping their disc for the one on the auction track, creating a dynamic economy where bid values constantly shift. Auctions are triggered either voluntarily or by drawing Ra tiles from the bag, introducing press-your-luck tension as players decide whether to wait for better tiles or secure what's available. Tiles score in diverse ways - some require set collection, others penalize incomplete sets, and still others provide flexible scoring bonuses. With its elegant blend of auction timing, push-your-luck decisions, and multiple scoring paths, Ra has earned recognition as one of Knizia's finest auction games and won the 2000 International Gamers Award.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

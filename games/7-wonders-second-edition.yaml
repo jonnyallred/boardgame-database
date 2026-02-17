@@ -1,0 +1,64 @@
+id: 7-wonders-second-edition
+name: "7 Wonders (Second Edition)"
+alternate_names:
+  - "7 Wonders New Edition"
+year: 2020
+
+# Relationships
+game_family: 7-wonders
+edition: "Second Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Simultaneous Action
+  - Set Collection
+  - Hand Management
+  - Tableau Building
+  - Civilization
+  - Euro
+  - Gateway
+  - Ancient
+  - Antoine Bauza
+
+# Player counts
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Antoine Bauza
+publisher:
+  - Repos Production
+artist:
+  - Miguel Coimbra
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  7 Wonders (Second Edition) is the definitive reprint of Antoine Bauza's classic civilization card-drafting game, released in 2020 to celebrate the game's tenth anniversary. Players lead one of the seven great cities of the ancient world through three ages, simultaneously selecting cards representing resources, military forces, scientific achievements, and cultural buildings from a hand passed around the table. This second edition features redesigned cards in bronze, silver, and gold to distinguish the three ages, larger wonder boards with revised artwork and colorblind-friendly design, and reorganized token storage for smoother setup. The core gameplay and rules remain faithful to the acclaimed original, which won the 2011 Kennerspiel des Jahres award. Up to seven players can experience the complete game in just 30 minutes with no downtime, as all players act simultaneously each round.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,61 @@
+id: splendor
+name: "Splendor"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Card Drafting
+  - Engine Building
+  - Resource Management
+  - Euro
+  - Gateway
+  - Family
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Marc André
+publisher:
+  - Space Cowboys
+  - Asmodee
+artist:
+  - Pascal Quidault
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+# Description
+description: |
+  Set in the Renaissance era, Splendor casts players as gem merchants competing to build the most prestigious jewelry empire. Using an elegant engine-building mechanism, players collect gem tokens to purchase development cards that provide permanent gem discounts and prestige points. Each card acquired makes future purchases easier, creating compound returns on investment and accelerating your economic engine. Noble tiles provide bonus prestige points to players who meet specific gem requirements, adding another strategic layer to card selection decisions. The game's accessibility and smooth gameplay make it an ideal gateway game, with rules simple enough to teach in minutes yet offering tactical depth that scales from quick reactive play at four players to more strategic blocking and planning at two or three players. The first player to reach 15 prestige points triggers the end game, with victory going to the player with the highest total after all players have had equal turns.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

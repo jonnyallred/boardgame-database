@@ -1,0 +1,67 @@
+id: pandemic-legacy-season-1
+name: "Pandemic Legacy: Season 1"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: pandemic
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 3  # Strategy
+feel: 1  # Cooperative
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Legacy
+  - Campaign Mode
+  - Hand Management
+  - Action Points
+  - Set Collection
+  - Variable Setup
+  - Narrative Heavy
+  - Gateway
+  - Matt Leacock
+  - Rob Daviau
+  - Z-Man Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Matt Leacock
+  - Rob Daviau
+publisher:
+  - Z-Man Games
+artist:
+  - Chris Quilliams
+  - Atha Kanaani
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 60
+min_age: 13
+
+# Description
+description: |
+  Pandemic Legacy: Season 1 transforms the cooperative disease-fighting gameplay of Pandemic into an epic year-long campaign where the board and rules permanently evolve after each game. Designed by Matt Leacock and Rob Daviau, this legacy game has players fighting to save humanity over 12-24 sessions representing the months of a year, with each game lasting 45-60 minutes. The game introduces new mechanics, characters, and challenges progressively as sealed packages are opened based on game outcomes, creating an unprecedented narrative experience where victories and defeats have lasting consequences. Players manage action points to move between cities, treat infections, share knowledge, and discover cures while the game's difficulty and complexity scale organically throughout the campaign. Winner of the 2015 Golden Geek Board Game of the Year and widely regarded as one of the greatest board game experiences ever created, Pandemic Legacy: Season 1 offers accessible rules that grow more complex over time, making it ideal for both newcomers to Pandemic and veterans seeking a deeper strategic and emotional journey.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

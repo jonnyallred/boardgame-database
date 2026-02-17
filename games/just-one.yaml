@@ -1,0 +1,62 @@
+id: just-one
+name: "Just One"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Basic
+feel: 2  # Party
+value: 1  # Bargain
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Word Play
+  - Deduction
+  - Party
+  - Family
+  - Gateway
+  - No Math
+
+# Player counts
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [5, 6, 7]
+
+# Metadata
+designer:
+  - Ludovic Roudy
+  - Bruno Sautter
+publisher:
+  - Repos Production
+artist:
+  - Éric Azagury
+  - Florian Poullet
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  Just One is a cooperative word-guessing party game where players work together to identify mystery words using one-word clues. Each round, one player acts as the guesser while the others secretly write single-word hints on erasable boards to help identify the target word. Before revealing the clues, all identical or very similar words are eliminated, creating a unique tension where obvious clues risk being duplicated while obscure hints might be too cryptic. The game challenges players to find the sweet spot between clarity and creativity across 13 rounds, scoring points for correct guesses and losing cards for wrong answers. Winner of the 2019 Spiel des Jahres, Just One shines at higher player counts (5-7) where the interplay between clue diversity and duplication risk creates the most engaging gameplay. The simple rules, quick playtime, and clever core mechanic make it an ideal party game that works across ages and gaming experience levels.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

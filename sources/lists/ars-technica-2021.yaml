@@ -1,0 +1,100 @@
+source: "Ars Technica - Ultimate Board Game Gift Guide 2021"
+url: "https://arstechnica.com/gaming/2021/12/best-board-games-buying-guide/"
+fetched: 2026-02-16
+games:
+  - id: splendor
+    name: Splendor
+    year: 2014
+  - id: azul
+    name: Azul
+    year: 2017
+  - id: quacks-of-quedlinburg
+    name: The Quacks of Quedlinburg
+    year: 2018
+  - id: sagrada
+    name: Sagrada
+    year: 2017
+  - id: parks
+    name: Parks
+    year: 2019
+  - id: wingspan
+    name: Wingspan
+    year: 2019
+  - id: ticket-to-ride
+    name: Ticket to Ride
+    year: 2004
+  - id: carcassonne
+    name: Carcassonne
+    year: 2000
+  - id: spirit-island
+    name: Spirit Island
+    year: 2017
+  - id: concordia
+    name: Concordia
+    year: 2013
+  - id: terraforming-mars
+    name: Terraforming Mars
+    year: 2016
+  - id: century-spice-road
+    name: "Century: Spice Road"
+    year: 2017
+  - id: hadara
+    name: Hadara
+    year: 2019
+  - id: tzolkin
+    name: "Tzolk'in: The Mayan Calendar"
+    year: 2012
+  - id: lords-of-waterdeep
+    name: Lords of Waterdeep
+    year: 2012
+  - id: 7-wonders
+    name: 7 Wonders
+    year: 2010
+  - id: viticulture
+    name: Viticulture
+    year: 2013
+  - id: everdell
+    name: Everdell
+    year: 2018
+  - id: scythe
+    name: Scythe
+    year: 2016
+  - id: root
+    name: Root
+    year: 2018
+  - id: brass-birmingham
+    name: "Brass: Birmingham"
+    year: 2018
+  - id: gloomhaven
+    name: Gloomhaven
+    year: 2017
+  - id: fort
+    name: Fort
+    year: 2020
+  - id: furnace
+    name: Furnace
+    year: 2021
+  - id: sushi-go
+    name: Sushi Go!
+    year: 2013
+  - id: snakesss
+    name: Snakesss!
+    year: 2021
+  - id: imhotep-the-duel
+    name: "Imhotep: The Duel"
+    year: 2019
+  - id: silver-and-gold
+    name: Silver & Gold
+    year: 2019
+  - id: cacao
+    name: Cacao
+    year: 2015
+  - id: dixit
+    name: Dixit
+    year: 2008
+  - id: mysterium
+    name: Mysterium
+    year: 2015
+  - id: pandemic
+    name: Pandemic
+    year: 2008

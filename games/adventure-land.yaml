@@ -1,0 +1,62 @@
+id: adventure-land
+name: "Adventure Land"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Modular Board
+  - Variable Setup
+  - Resource Management
+  - Family
+  - Gateway
+  - Fantasy
+  - Medieval
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - HABA
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Adventure Land is a family strategy game set in a medieval fantasy kingdom where players guide their adventurers across a gridded land, collecting resources and battling fog monsters. A key constraint is that adventurers can only move south or east, ensuring forward progression and making each placement decision consequential. Each round, cards are drawn to seed the board with swords in mountains, herbs in forests, gold along rivers, and allies in cities, while a roaming River Sprite threatens anyone standing in its path. The game includes three distinct scenarios with different victory conditions—ranging from a balanced adventure to companion-focused or city-control variants—offering varying complexity and replayability. Designed by the prolific duo of Wolfgang Kramer and Michael Kiesling, Adventure Land is accessible to families while offering enough tactical depth to engage seasoned gamers.
+
+upgrades: []
+
+plays_tracked:
+  total_plays: 0
+  configs: []

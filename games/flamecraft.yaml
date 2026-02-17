@@ -1,0 +1,62 @@
+id: flamecraft
+name: "Flamecraft"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Set Collection
+  - Hand Management
+  - Card Drafting
+  - Engine Building
+  - Fantasy
+  - Family
+  - Euro
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Manny Vega
+publisher:
+  - Cardboard Alchemy
+  - Lucky Duck Games
+artist:
+  - Sandara Tang
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 75
+min_age: 10
+
+# Description
+description: |
+  In Flamecraft, players take on the role of Flamekeepers in a charming dragon-filled town, visiting local shops to gather resources and place helpful artisan dragons. Each shop produces specific resources when visited, with dragons enhancing these outputs over time, creating a gentle engine-building loop. Players compete to fulfill enchantments (requiring specific resource combinations) and complete reputation goals, earning points through clever placement decisions and strategic timing. The game features gorgeous watercolor-style artwork by Sandara Tang and accessible rules that make it easy to teach in 10 minutes, while offering meaningful tactical decisions about shop visits, dragon placement, and enchantment timing. With support for 1-5 players and a deluxe edition featuring upgraded components including metal coins and dragon miniatures, Flamecraft delivers a visually stunning and mechanically smooth experience best enjoyed at 2-3 players where competition for enchantments creates engaging tension.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

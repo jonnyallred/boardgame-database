@@ -1,0 +1,70 @@
+id: lost-ruins-of-arnak
+name: "Lost Ruins of Arnak"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - lost-ruins-of-arnak-expedition-leaders
+  - lost-ruins-of-arnak-the-missing-expedition
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Deck Building
+  - Engine Building
+  - Resource Management
+  - Action Points
+  - Set Collection
+  - Euro
+  - Family
+  - Gateway
+  - Czech Games Edition
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Michal "Elwen" Štach
+  - Michaela "Mín" Štachová
+publisher:
+  - Czech Games Edition
+artist:
+  - Ondřej Hrdina
+  - Jiří Kůs
+  - Jakub Politzer
+  - František Sedláček
+  - Milan Vavroň
+playtime_minutes: 90
+min_playtime: 45
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Lead a rival expedition to explore a newly discovered island, seeking artifacts and uncovering the Lost Ruins of Arnak. This game seamlessly combines deck building and worker placement mechanics, creating an engaging engine-building experience set against a thematic backdrop of archaeological exploration. Cards serve dual purposes with both main actions and travel abilities, while players strategically deploy their limited archaeologist workers to dig at sites, overcome guardians, and advance on the research track. Each round involves managing a modest hand of cards, gathering resources like coins, compasses, tablets, arrowheads, and jewels, and purchasing new items and artifacts to enhance your expedition's capabilities. The game features a unique deck-building twist where purchased items go to the bottom of your deck for near-immediate use, while more expensive artifacts trigger their abilities instantly. With variable setup through randomized artifacts and equipment cards, two different difficulty levels via dual-sided temple boards, and strong thematic integration of exploration and discovery, Lost Ruins of Arnak offers rich strategic depth across its five rounds. Nominated for Kennerspiel des Jahres 2021 and winner of the 2021 Deutscher Spielepreis, it delivers fantastic production quality with thick boards, clear iconography, and stunning artwork that brings the mysterious island to life.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

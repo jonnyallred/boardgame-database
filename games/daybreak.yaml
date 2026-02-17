@@ -1,0 +1,65 @@
+id: daybreak
+name: "Daybreak"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 1  # Cooperative
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Engine Building
+  - Hand Management
+  - Simultaneous Action
+  - Card Drafting
+  - Set Collection
+  - Variable Setup
+  - Resource Management
+  - Euro
+  - Matt Leacock
+  - Nature
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Matt Leacock
+  - Matteo Menapace
+publisher:
+  - CMYK
+artist:
+  - Mads Berg
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+# Description
+description: |
+  Daybreak is a cooperative engine-building game about climate change from Pandemic creator Matt Leacock and Matteo Menapace. Players assume the roles of world superpowers (USA, China, Europe, or the Global South), working together to reach carbon drawdown—the point where humanity removes more carbon from the atmosphere than it produces—before global temperatures rise too high. The game builds on the card-based engine-building mechanics of Terraforming Mars and Everdell, with players creating powerful stacks of project cards representing real-world solutions like renewable energy, green transportation, and social reforms. Each turn involves simultaneous decision-making as players draft cards, build their engines by matching card symbols to strengthen effects, and balance carbon mitigation against societal adaptation. Winner of the 2024 Kennerspiel des Jahres award, Daybreak features sustainable components with no plastics, hundreds of illustrations by a diverse team of artists, and QR codes linking to educational content about climate science. The game successfully translates complex environmental challenges into engaging cooperative gameplay with meaningful strategic decisions and minimal quarterbacking.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

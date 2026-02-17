@@ -1,0 +1,70 @@
+id: thunder-road-vendetta
+name: "Thunder Road: Vendetta"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 2  # Tactics
+feel: 4  # Fierce
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Modular Board
+  - Variable Setup
+  - Take That
+  - Racing
+  - Simultaneous Action
+  - Ameritrash
+  - Post-Apocalyptic
+  - War
+  - Restoration Games
+  - Rob Daviau
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Dave Chalker
+  - Brett Myers
+  - Noah Cohen
+  - Rob Daviau
+  - Justin D. Jacobson
+  - Jim Keifer
+  - Brian Neff
+publisher:
+  - Restoration Games
+artist:
+  - Marie Bergeron
+playtime_minutes: 50
+min_playtime: 30
+max_playtime: 75
+min_age: 10
+
+# Description
+description: |
+  Thunder Road: Vendetta is a post-apocalyptic car combat racing game and a modern reimagining of the classic 1986 Milton Bradley game Thunder Road. Players command a crew of three vehicles racing across a scrolling modular track, rolling custom dice and allocating them one at a time to move cars, slam into opponents, or call in chopper strikes. Hazard tokens litter the road—oil slicks, wrecks, and rough terrain—threatening to destroy vehicles pushed off the board. The game blends accessible, quick-to-teach rules with fierce player-versus-player interaction as racers battle to either cross the finish line first or simply outlast everyone else in a high-octane demolition derby.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

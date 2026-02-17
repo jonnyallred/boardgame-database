@@ -1,0 +1,109 @@
+source: "The Dice Tower - Tom Vasel's Top 100 (2024)"
+url: "https://www.dicetower.com/video-series/top-100"
+fetched: 2026-02-16
+games:
+  - id: ready-set-bet
+    name: Ready Set Bet
+    year: 2022
+  - id: ark-nova
+    name: Ark Nova
+    year: 2021
+  - id: cosmic-encounter
+    name: Cosmic Encounter
+    year: 2008
+  - id: dominion-2e
+    name: Dominion (Second Edition)
+    year: 2016
+  - id: summoner-wars-2e
+    name: Summoner Wars (Second Edition)
+    year: 2021
+  - id: massive-darkness-2
+    name: "Massive Darkness 2: Hellscape"
+    year: 2022
+  - id: le-havre
+    name: Le Havre
+    year: 2008
+  - id: space-base
+    name: Space Base
+    year: 2018
+  - id: project-elite
+    name: "Project: ELITE"
+    year: 2020
+  - id: marvel-united
+    name: Marvel United
+    year: 2020
+  - id: nidavellir
+    name: Nidavellir
+    year: 2020
+  - id: clank-catacombs
+    name: "Clank!: Catacombs"
+    year: 2022
+  - id: caverna
+    name: "Caverna: The Cave Farmers"
+    year: 2013
+  - id: gloomhaven
+    name: Gloomhaven
+    year: 2017
+  - id: earth
+    name: Earth
+    year: 2023
+  - id: race-for-the-galaxy
+    name: Race for the Galaxy
+    year: 2007
+  - id: federation
+    name: Federation
+    year: 2022
+  - id: the-crew
+    name: "The Crew: The Quest for Planet Nine"
+    year: 2019
+  - id: thunderstone-quest
+    name: Thunderstone Quest
+    year: 2018
+  - id: viticulture-ee
+    name: Viticulture Essential Edition
+    year: 2015
+  - id: detective-club
+    name: Detective Club
+    year: 2018
+  - id: dune-imperium
+    name: "Dune: Imperium"
+    year: 2020
+  - id: kemet-blood-and-sand
+    name: "Kemet: Blood and Sand"
+    year: 2021
+  - id: beyond-the-sun
+    name: Beyond the Sun
+    year: 2020
+  - id: foundations-of-rome
+    name: Foundations of Rome
+    year: 2022
+  - id: vindication
+    name: Vindication
+    year: 2018
+  - id: marvel-dice-throne
+    name: Marvel Dice Throne
+    year: 2022
+  - id: feast-for-odin
+    name: A Feast for Odin
+    year: 2016
+  - id: ra
+    name: Ra
+    year: 1999
+  - id: pitchcar
+    name: PitchCar
+    year: 1995
+  - id: riftforce
+    name: Riftforce
+    year: 2021
+  - id: saint-petersburg-2e
+    name: Saint Petersburg (Second Edition)
+    year: 2014
+  - id: ticket-to-ride
+    name: Ticket to Ride
+    year: 2004
+  - id: adventure-tactics
+    name: "Adventure Tactics: Domianne's Tower"
+    year: 2021
+  - id: adventure-land
+    name: Adventure Land
+    year: 2015

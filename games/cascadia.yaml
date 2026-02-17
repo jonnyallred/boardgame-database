@@ -1,0 +1,65 @@
+id: cascadia
+name: "Cascadia"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - cascadia-landmarks
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Drafting
+  - Pattern Building
+  - Set Collection
+  - Puzzle Solving
+  - Euro
+  - Family
+  - Gateway
+  - Nature
+  - Animals
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Randy Flynn
+publisher:
+  - Flatout Games
+  - Alderac Entertainment Group
+artist:
+  - Beth Sobel
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+# Description
+description: |
+  Set in the Pacific Northwest, Cascadia is a puzzly tile-laying and token-drafting game where players compete to create the most harmonious ecosystem. Players take turns selecting habitat tiles and wildlife tokens from a central display, building their own terrain while strategically populating it with five species: bears, elk, salmon, hawks, and foxes. Each animal has distinct spatial preferences for scoring, and habitat tiles must be placed to minimize fragmentation and create wildlife corridors across five terrain types (forests, prairies, mountains, rivers, and wetlands). The game features variable scoring cards that change the puzzle each session, supporting high replayability and an optional campaign mode. Winner of the 2022 Spiel des Jahres, Cascadia combines accessible rules that can be taught in minutes with surprisingly deep tactical decisions around tile-token selection timing and nature token management. The game includes a robust solo mode and scales well across all player counts, with 2-3 players offering the best balance of pacing and meaningful competition for the shared tile pool.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

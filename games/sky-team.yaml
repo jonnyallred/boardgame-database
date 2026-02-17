@@ -1,0 +1,65 @@
+id: sky-team
+name: "Sky Team"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - sky-team-turbulence
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 1  # Cooperative
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Real-time
+  - Hand Management
+  - Simultaneous Action
+  - Puzzle Solving
+  - Family
+  - Gateway
+  - Aviation
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Luc Rémond
+publisher:
+  - Scorpion Masqué
+  - Kosmos
+artist:
+  - Eric Hibbeler
+  - Adrien Rives
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 20
+min_age: 14
+
+# Description
+description: |
+  Sky Team is a cooperative dice-assignment game where two players assume the roles of pilot and co-pilot attempting to safely land an aircraft at various airports worldwide. The game's innovative mechanic requires players to discuss strategy before rolling dice, but once the dice are rolled, all communication ceases—players must silently coordinate their dice placements across seven rounds of descent. Dice are assigned to cockpit stations to balance the plane's axis, manage speed, deploy flaps and landing gear, contact air traffic control, and use coffee tokens to modify unlucky rolls. The base game includes 11 airports with 21 scenarios featuring challenges like wind, fuel management, ice, and traffic. Sky Team won the prestigious 2024 Spiel des Jahres award, marking the first time this family game award went to a two-player exclusive title. Despite its simple rules and 20-minute playtime, the game creates intense moments of tension and coordination as players work to avoid stalling, overshooting the runway, or colliding with other aircraft.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

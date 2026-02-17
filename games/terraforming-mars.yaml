@@ -1,0 +1,67 @@
+id: terraforming-mars
+name: "Terraforming Mars"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Card Drafting
+  - Hand Management
+  - Tile Placement
+  - Resource Management
+  - Set Collection
+  - Tech Tree
+  - Variable Setup
+  - Euro
+  - Sci-Fi
+  - Space
+  - City Building
+  - Economic
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Jacob Fryxelius
+publisher:
+  - FryxGames
+  - Stronghold Games
+artist:
+  - Isaac Fryxelius
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+# Description
+description: |
+  In Terraforming Mars, players take on the role of corporations working together to terraform the planet Mars by raising its temperature, oxygen level, and ocean coverage to make it habitable for human life. Using an elegant card-driven engine-building system, players compete to play project cards representing various technologies, infrastructure, and terraforming operations while managing six different resource types across their player boards. The game features over 200 unique project cards with intricate synergies that allow players to build powerful engines tailored to different strategies, from developing cities and forests to investing in space technology and Jovian infrastructure. Success requires careful long-term planning, as players balance immediate resource needs with building card combos that multiply in power over the course of 10-14 game generations. Winner of numerous awards and spawning multiple expansions including Hellas & Elysium, Venus Next, Prelude, and Colonies, Terraforming Mars delivers exceptional strategic depth for players willing to invest the time to master its complex decision space, though its component quality has been widely criticized despite the game's strong design.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

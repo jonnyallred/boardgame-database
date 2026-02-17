@@ -1,0 +1,63 @@
+id: heat-pedal-to-the-metal
+name: "Heat: Pedal to the Metal"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - heat-heavy-rain
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Racing
+  - Press Your Luck
+  - Simultaneous Action
+  - Drafting
+  - Euro
+  - Gateway
+  - Family
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Asger Harding Granerud
+  - Daniel Skjold Pedersen
+publisher:
+  - Days of Wonder
+artist:
+  - Vincent Dutrait
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Heat: Pedal to the Metal puts players in the driver's seat of a Grand Prix racing experience inspired by 1960s Formula One. The core mechanic revolves around hand management where players manage a deck of speed cards that evolves throughout the race as heat accumulates and dissipates. The gear system creates natural pacing tension—lower gears offer control and safety while higher gears provide raw speed at the risk of overheating your engine. Slipstreaming rewards tactical positioning by granting bonus movement when ending your turn adjacent to other cars. The game includes a robust solo mode and multiplayer support through the Legends Module, which provides competitive AI drivers that can fill out races at any player count. Advanced rules add a Championship System for multi-race seasons with car upgrades and sponsorship cards, extending gameplay to 90-120 minutes across three races. Winner of multiple Golden Geek Awards in 2023, Heat combines accessible rules with strategic depth, making it an engaging racing game that captures the thrill of high-speed competition without overwhelming complexity.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

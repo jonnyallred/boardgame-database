@@ -1,0 +1,49 @@
+source: "Board Game of the Year - 2024 Aggregated Rankings"
+url: "https://boardgameoftheyear.org/2024/rankings"
+fetched: 2026-02-16
+games:
+  - id: arcs
+    name: Arcs
+    year: 2024
+  - id: seti
+    name: "SETI: Search for Extraterrestrial Intelligence"
+    year: 2024
+  - id: lotr-duel-for-middle-earth
+    name: "The Lord of the Rings: Duel for Middle-earth"
+    year: 2024
+  - id: harmonies
+    name: Harmonies
+    year: 2024
+  - id: slay-the-spire-board-game
+    name: "Slay the Spire: The Board Game"
+    year: 2024
+  - id: andromedas-edge
+    name: "Andromeda's Edge"
+    year: 2024
+  - id: lets-go-to-japan
+    name: "Let's Go! To Japan"
+    year: 2024
+  - id: unconscious-mind
+    name: Unconscious Mind
+    year: 2024
+  - id: fromage
+    name: Fromage
+    year: 2024
+  - id: bomb-busters
+    name: Bomb Busters
+    year: 2024
+  - id: rock-hard-1977
+    name: "Rock Hard: 1977"
+    year: 2024
+  - id: the-gang
+    name: The Gang
+    year: 2024
+  - id: civolution
+    name: Civolution
+    year: 2024
+  - id: river-of-gold
+    name: River of Gold
+    year: 2024
+  - id: dune-war-for-arrakis
+    name: "Dune: War for Arrakis"
+    year: 2024

@@ -1,0 +1,63 @@
+id: architects-of-the-west-kingdom
+name: "Architects of the West Kingdom"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: west-kingdom
+edition: null
+base_game: null
+expansions:
+  - architects-of-the-west-kingdom-age-of-artisans
+  - architects-of-the-west-kingdom-works-of-wonder
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Variable Setup
+  - Euro
+  - Historical
+  - Medieval
+  - City Building
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Shem Phillips
+  - S J Macdonald
+publisher:
+  - Garphill Games
+  - Renegade Game Studios
+artist:
+  - Mihajlo Dimitrievski
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 80
+min_age: 12
+
+# Description
+description: |
+  Set during the twilight of the Carolingian Empire around 850 AD, Architects of the West Kingdom puts players in the role of royal architects competing to impress the king by constructing landmark buildings and advancing work on the Archbishop's Cathedral. The game features a distinctive worker placement system where workers are not automatically retrieved each round; instead, players must visit the Guardhouse to round up their own workers or head to the Town Centre to capture rival workers and imprison them for silver. Stacking multiple workers on a single location yields greater rewards, creating meaningful decisions about concentration versus spread. Players navigate a virtue track that rewards both pious and corrupt playstyles differently, adding a moral dimension to resource collection and building strategies. The first installment in the West Kingdom trilogy, this is a highly accessible yet tactically rich euro with strong player interaction through the worker capture mechanic.
+
+upgrades: []
+
+plays_tracked:
+  total_plays: 0
+  configs: []

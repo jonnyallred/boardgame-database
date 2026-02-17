@@ -1,0 +1,68 @@
+id: moon-colony-bloodbath
+name: "Moon Colony Bloodbath"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Tableau Building
+  - Simultaneous Action
+  - Hand Management
+  - Resource Management
+  - Set Collection
+  - Events
+  - Card Drafting
+  - Euro
+  - Family
+  - Donald X. Vaccarino
+  - Rio Grande Games
+  - Sci-Fi
+  - Space
+  - Survival
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Donald X. Vaccarino
+publisher:
+  - Rio Grande Games
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Moon Colony Bloodbath is an engine-building engine-losing tableau game where players manage competing lunar settlements in a desperate struggle for survival. A shared event deck drives the action, with each revealed card triggering simultaneous work phases (mining for money, farming for food, researching for cards, constructing buildings, or restocking) or catastrophic events like leaks, moonquakes, and robot malfunctions that systematically eliminate colonists. Players build color-coded structures that provide synergies and special abilities while racing to protect their population. The game ends when one colony reaches zero inhabitants or the event deck is exhausted—victory goes to the player with the most survivors. Designed by Dominion creator Donald X. Vaccarino and named after the Mountain Goats/John Vanderslice collaborative EP, the game embraces a darkly comedic tone where failure is almost inevitable and success is measured in degrees of catastrophe survived.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

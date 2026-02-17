@@ -1,0 +1,64 @@
+id: ticket-to-ride
+name: "Ticket to Ride"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Route Building
+  - Set Collection
+  - Hand Management
+  - Network Building
+  - Trains
+  - Gateway
+  - Family
+  - Euro
+  - Alan R. Moon
+  - Days of Wonder
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist:
+  - Julien Delval
+  - Cyrille Daujean
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Ticket to Ride is a cross-country train adventure game where players collect matching train cards to claim railway routes connecting cities across North America. Using a map based on the 1910 United States and southern Canada, players build continuous routes by claiming segments of varying lengths between adjacent cities, with longer routes earning more points. The core gameplay involves a risk-reward tension where players must balance drawing more cards to strengthen their hand against the fear of losing critical routes to competitors. Additional points are awarded for fulfilling secret Destination Tickets that require connecting two distant cities, and bonus points go to the player who builds the longest continuous railway. Winner of the 2004 Spiel des Jahres and Origins Award for Best Board Game, Ticket to Ride has sold over 18 million copies worldwide and spawned numerous expansions and variants while maintaining its accessible rules and family-friendly appeal.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

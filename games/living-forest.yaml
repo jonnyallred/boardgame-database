@@ -1,0 +1,66 @@
+id: living-forest
+name: "Living Forest"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Bag Building
+  - Press Your Luck
+  - Tile Placement
+  - Set Collection
+  - Simultaneous Action
+  - Racing
+  - Hand Management
+  - Euro
+  - Family
+  - Fantasy
+  - Nature
+  - Animals
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Aske Christiansen
+publisher:
+  - Ludonaute
+artist:
+  - Apolline Etienne
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 50
+min_age: 8
+
+# Description
+description: |
+  Living Forest is a deck-building game where players take on the role of nature spirits attempting to save the sacred forest and its sacred tree from Onibi, a malevolent fire spirit. Each turn, players reveal guardian animal cards from their deck in a push-your-luck mechanism, deciding when to stop to avoid drawing too many solitary animals that don't work well together. The cards revealed determine the strength of actions players can take to plant protective trees, collect sacred flowers, or extinguish fires spreading across the forest. The game features three distinct victory paths: collecting 12 sacred flowers to awaken Sanki the great guardian, planting 12 different protective trees around the circle, or extinguishing 12 fires to banish Onibi. Players must balance their strategy between pursuing one focused path to victory while monitoring opponents' progress and adapting to the dynamic state of the forest, creating engaging tactical decisions throughout the 40-minute playtime. Winner of the 2022 Kennerspiel des Jahres award.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

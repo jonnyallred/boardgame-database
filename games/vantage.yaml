@@ -1,0 +1,65 @@
+id: vantage
+name: "Vantage"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 3  # Strategy
+feel: 1  # Cooperative
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Resource Management
+  - Narrative Heavy
+  - Variable Setup
+  - Modular Board
+  - Sci-Fi
+  - Aliens
+  - Stonemaier Games
+  - Jamey Stegmaier
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [1, 2, 3]
+
+# Metadata
+designer:
+  - Jamey Stegmaier
+publisher:
+  - Stonemaier Games
+artist:
+  - Valentina Filić
+  - Sören Meding
+  - Emilien Rotival
+playtime_minutes: 150
+min_playtime: 120
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Vantage is an open-world cooperative adventure game for 1-6 players in which crash-landed explorers navigate an uncharted alien planet from isolated first-person perspectives. Players take turns performing location-specific actions, managing resources via dice rolls that determine costs rather than success or failure, ensuring every action moves the story forward. The game contains nearly 800 interconnected location cards and over 900 discoverable cards across 8 storybooks, creating a vast sandbox where players can pursue structured missions, personal destiny goals, or simply chart their own path. With 2-minute setup and completely self-contained gameplay, Vantage plays best at 1-3 players where downtime between turns stays manageable and each explorer's choices feel impactful.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

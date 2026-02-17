@@ -1,0 +1,61 @@
+source: "Polygon - The 22 Best Board Games"
+url: "https://www.polygon.com/what-to-buy/22383407/best-board-games-buy-pandemic"
+fetched: 2026-02-16
+games:
+  - id: cascadia
+    name: Cascadia
+    year: 2021
+  - id: pandemic-legacy-season-1
+    name: "Pandemic Legacy: Season 1"
+    year: 2015
+  - id: quacks-of-quedlinburg
+    name: The Quacks of Quedlinburg
+    year: 2018
+  - id: root
+    name: Root
+    year: 2018
+  - id: gloomhaven
+    name: Gloomhaven
+    year: 2017
+  - id: splendor
+    name: Splendor
+    year: 2014
+  - id: 7-wonders
+    name: 7 Wonders
+    year: 2010
+  - id: codenames
+    name: Codenames
+    year: 2015
+  - id: scythe
+    name: Scythe
+    year: 2016
+  - id: azul
+    name: Azul
+    year: 2017
+  - id: hive
+    name: Hive
+    year: 2001
+  - id: cash-n-guns
+    name: Cash 'n Guns
+    year: 2014
+  - id: catan-junior
+    name: Catan Junior
+    year: 2007
+  - id: welcome-to
+    name: Welcome To...
+    year: 2018
+  - id: machi-koro
+    name: Machi Koro
+    year: 2012
+  - id: votes-for-women
+    name: Votes for Women
+    year: 2022
+  - id: dune-imperium-uprising
+    name: "Dune: Imperium - Uprising"
+    year: 2023
+  - id: heat
+    name: Heat
+    year: 2022
+  - id: wingspan
+    name: Wingspan
+    year: 2019

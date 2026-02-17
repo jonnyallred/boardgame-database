@@ -1,0 +1,64 @@
+id: 7-wonders-duel
+name: "7 Wonders: Duel"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: 7-wonders
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Hand Management
+  - Tableau Building
+  - Set Collection
+  - Resource Management
+  - Civilization
+  - Euro
+  - Ancient
+  - Antoine Bauza
+  - Bruno Cathala
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Antoine Bauza
+  - Bruno Cathala
+publisher:
+  - Repos Production
+artist:
+  - Miguel Coimbra
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  7 Wonders: Duel is a two-player adaptation of 7 Wonders, redesigned from the ground up to create a tense head-to-head civilization-building experience. Players draft cards from a shared tableau laid out face-up and face-down in a pyramid-shaped arrangement across three ages, constructing buildings, wonders, and military forces for their ancient city. Unlike the original, players choose from a common display rather than passing hands, making each card pick immediately visible and strategically impactful for both sides. The game offers three paths to victory: achieving military supremacy by advancing the conflict token into the opponent's capital, scientific supremacy by collecting six different science symbols, or accumulating the most victory points at the end of Age III. Winner of the 2015 Origins Award for Best Card Game, 7 Wonders: Duel is widely considered one of the finest two-player games ever designed.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

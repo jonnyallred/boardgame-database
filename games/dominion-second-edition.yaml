@@ -1,0 +1,68 @@
+id: dominion-second-edition
+name: "Dominion (Second Edition)"
+alternate_names:
+  - "Dominion 2nd Edition"
+  - "Dominion (2E)"
+year: 2016
+
+# Relationships
+game_family: dominion
+edition: "Second Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Set Collection
+  - Card Drafting
+  - Engine Building
+  - Euro
+  - Gateway
+  - Family
+  - Donald X. Vaccarino
+  - Rio Grande Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Donald X. Vaccarino
+publisher:
+  - Rio Grande Games
+artist:
+  - Matthias Catrein
+  - Julien Delval
+  - Radosław Jaszczuk
+  - Tomasz Jedruszek
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 14
+
+# Description
+description: |
+  Dominion is the pioneering deck-building card game that created an entire genre when it was first released in 2008. The Second Edition, released in 2016, features improved layout, streamlined rules, and refined card text while preserving the innovative gameplay that made it revolutionary. Players start with identical small decks of basic cards and compete to build the most efficient deck by purchasing cards from a shared supply of Kingdom cards, Victory cards, and Treasure cards. Each game uses a different set of 10 Kingdom card types selected from 26 possible options, creating millions of unique combinations and ensuring high replayability. Though simple to learn with clear rules, Dominion offers deep strategic gameplay where skilled players consistently outperform novices through careful deck construction, tactical timing of purchases, and optimization of card synergies. The game plays quickly at all player counts, with 2-player games offering the fastest pace and least downtime, while 3-4 player games introduce more competition for key cards and dynamic tactical decisions.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

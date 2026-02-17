@@ -1,0 +1,66 @@
+id: gloomhaven
+name: "Gloomhaven"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: gloomhaven
+edition: null
+base_game: null
+expansions:
+  - gloomhaven-forgotten-circles
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (6+ hrs)
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 1  # Cooperative
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Hand Management
+  - Action Points
+  - Modular Board
+  - Variable Setup
+  - Dungeon Crawler
+  - Fantasy
+  - Isaac Childres
+  - Cephalofair Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Isaac Childres
+publisher:
+  - Cephalofair Games
+artist:
+  - Alexandr Elichev
+  - Josh T. McDowell
+  - Alvaro Nebot
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Gloomhaven is a cooperative tactical combat game in a persistent, evolving campaign world. Players take on the roles of wandering mercenaries with their own special skills and motivations, exploring dungeons and forgotten ruins across 95 unique scenarios. The game features an innovative hand-management combat system where players simultaneously select two ability cards per turn, choosing the top half of one card and the bottom half of another to execute movement, attacks, and special abilities. Cards also serve as a character's health pool, creating tense decisions about when to use powerful abilities versus conserving resources. As the campaign progresses, players unlock new characters from 17 available classes, upgrade their abilities, acquire powerful items, and make branching narrative choices that permanently alter the game world. With its deep tactical gameplay, legacy-style progression, and massive content, Gloomhaven delivers a sprawling dungeon-crawling experience that became the highest-rated board game on BoardGameGeek in 2017.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

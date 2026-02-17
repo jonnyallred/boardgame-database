@@ -1,0 +1,136 @@
+source: "The Dice Tower - People's Choice Top 100 (2024)"
+url: "https://www.dicetower.com/"
+fetched: 2026-02-16
+games:
+  - id: 7-wonders-2e
+    name: 7 Wonders (Second Edition)
+    year: 2020
+  - id: 7-wonders-duel
+    name: "7 Wonders: Duel"
+    year: 2015
+  - id: feast-for-odin
+    name: A Feast for Odin
+    year: 2016
+  - id: agricola-revised
+    name: Agricola (Revised Edition)
+    year: 2016
+  - id: architects-west-kingdom
+    name: Architects of the West Kingdom
+    year: 2018
+  - id: ark-nova
+    name: Ark Nova
+    year: 2021
+  - id: azul
+    name: Azul
+    year: 2017
+  - id: beyond-the-sun
+    name: Beyond the Sun
+    year: 2020
+  - id: blood-rage
+    name: Blood Rage
+    year: 2015
+  - id: brass-birmingham
+    name: "Brass: Birmingham"
+    year: 2018
+  - id: carcassonne
+    name: Carcassonne
+    year: 2000
+  - id: caverna
+    name: "Caverna: The Cave Farmers"
+    year: 2013
+  - id: champions-of-midgard
+    name: Champions of Midgard
+    year: 2015
+  - id: clank
+    name: "Clank! A Deck-Building Adventure"
+    year: 2016
+  - id: concordia
+    name: Concordia
+    year: 2013
+  - id: cthulhu-death-may-die
+    name: "Cthulhu: Death May Die"
+    year: 2019
+  - id: deception-murder-in-hong-kong
+    name: "Deception: Murder in Hong Kong"
+    year: 2014
+  - id: dominion-2e
+    name: Dominion (Second Edition)
+    year: 2016
+  - id: dune-imperium
+    name: "Dune: Imperium"
+    year: 2020
+  - id: dwellings-of-eldervale
+    name: Dwellings of Eldervale
+    year: 2020
+  - id: eclipse-2e
+    name: "Eclipse: Second Dawn for the Galaxy"
+    year: 2020
+  - id: everdell
+    name: Everdell
+    year: 2018
+  - id: five-tribes
+    name: Five Tribes
+    year: 2014
+  - id: flamecraft
+    name: Flamecraft
+    year: 2022
+  - id: gaia-project
+    name: Gaia Project
+    year: 2017
+  - id: grand-austria-hotel
+    name: Grand Austria Hotel
+    year: 2015
+  - id: heat
+    name: "Heat: Pedal to the Metal"
+    year: 2022
+  - id: its-a-wonderful-world
+    name: It's a Wonderful World
+    year: 2019
+  - id: king-of-tokyo
+    name: King of Tokyo
+    year: 2011
+  - id: lost-ruins-of-arnak
+    name: Lost Ruins of Arnak
+    year: 2020
+  - id: marvel-champions
+    name: "Marvel Champions: The Card Game"
+    year: 2019
+  - id: meadow
+    name: Meadow
+    year: 2021
+  - id: nemesis
+    name: Nemesis
+    year: 2018
+  - id: nidavellir
+    name: Nidavellir
+    year: 2020
+  - id: obsession
+    name: Obsession
+    year: 2018
+  - id: pandemic
+    name: Pandemic
+    year: 2008
+  - id: power-grid-card-game
+    name: "Power Grid: The Card Game"
+    year: 2016
+  - id: res-arcana
+    name: Res Arcana
+    year: 2019
+  - id: root
+    name: Root
+    year: 2018
+  - id: splendor
+    name: Splendor
+    year: 2014
+  - id: star-wars-rebellion
+    name: "Star Wars: Rebellion"
+    year: 2016
+  - id: terraforming-mars
+    name: Terraforming Mars
+    year: 2016
+  - id: the-crew
+    name: "The Crew: The Quest for Planet Nine"
+    year: 2019
+  - id: lotr-journeys
+    name: "The Lord of the Rings: Journeys in Middle-Earth"
+    year: 2019

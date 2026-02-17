@@ -1,0 +1,65 @@
+id: 7-empires
+name: "7 Empires"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Rondel
+  - Drafting
+  - Variable Setup
+  - Resource Management
+  - Economic
+  - Euro
+  - Historical
+  - War
+  - Mac Gerdts
+  - Rio Grande Games
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Mac Gerdts
+publisher:
+  - PD-Verlag
+  - Rio Grande Games
+artist:
+  - David Roterberg
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 13
+
+# Description
+description: |
+  7 Empires is a strategic area-influence game by Mac Gerdts (designer of Concordia) set in 18th century Europe during the Age of Ancien Régime. Players do not control a single nation but instead compete to manipulate the policies of seven historical empires — Great Britain, France, Prussia, Russia, the Habsburg Empire, the Ottoman Empire, and Spain — for their own political and military benefit. The game features a Rondel-based action selection system that governs the movement of frigates, ships of the line, infantry, and artillery across a map of Europe. Victory goes to the player who achieves supreme dominance through shrewd alliances, investment, and diplomatic maneuvering. With compact rules but a multitude of challenging decisions, 7 Empires rewards long-term strategic foresight and careful management of shared power.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

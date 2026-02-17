@@ -1,0 +1,66 @@
+id: beyond-the-sun
+name: "Beyond the Sun"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Engine Building
+  - Tech Tree
+  - Area Control
+  - Action Points
+  - Resource Management
+  - Modular Board
+  - Variable Setup
+  - 4X
+  - Euro
+  - Sci-Fi
+  - Space
+  - Civilization
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Dennis K. Chan
+publisher:
+  - Rio Grande Games
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Beyond the Sun is a space civilization game where players compete as faction leaders developing technology and exploring new worlds at the dawn of humanity's spacefaring era. The game features a unique four-tier technology tree with variable tech cards that create different advancement paths each game, as players unlock new action spaces through research while simultaneously managing a cyclical economy balancing money production against population growth. Players take turns selecting actions from an evolving technology board, with exclusive temporary access to newly discovered technologies until others catch up, while also competing to colonize planetary systems on a separate exploration board. The game offers multiple paths to victory through technological advancement, military fleet strength, or planetary colonization, ending when players collectively achieve a set number of objectives. Despite its space conquest theme, the design remains tight and streamlined, substituting for longer 4X games like Twilight Imperium in under two hours with accessible rules that create surprisingly deep strategic decisions around tech tree navigation and resource optimization.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

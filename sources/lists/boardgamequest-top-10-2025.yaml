@@ -1,0 +1,58 @@
+source: "Board Game Quest - Top 10 Board Games of 2025"
+url: "https://www.boardgamequest.com/top-10-board-games-of-2025/"
+fetched: 2026-02-16
+games:
+  - id: elder-scrolls-betrayal-second-era
+    name: "The Elder Scrolls: Betrayal of the Second Era"
+    year: 2024
+  - id: hot-streak
+    name: Hot Streak
+    year: 2025
+  - id: eternal-decks
+    name: Eternal Decks
+    year: 2025
+  - id: 7-empires
+    name: 7 Empires
+    year: 2025
+  - id: kinfire-council
+    name: Kinfire Council
+    year: 2025
+  - id: corps-of-discovery
+    name: "Corps of Discovery: A Game Set in the World of Manifest Destiny"
+    year: 2025
+  - id: unmatched-tmnt
+    name: "Unmatched Adventures: Teenage Mutant Ninja Turtles"
+    year: 2025
+  - id: origin-story
+    name: Origin Story
+    year: 2025
+  - id: magical-athlete
+    name: Magical Athlete
+    year: 2025
+  - id: molly-house
+    name: Molly House
+    year: 2025
+  - id: vantage
+    name: Vantage
+    year: 2025
+  - id: metal-gear-solid
+    name: "Metal Gear Solid: The Board Game"
+    year: 2025
+  - id: marvel-dice-throne-missions
+    name: Marvel Dice Throne Missions
+    year: 2025
+  - id: star-wars-battle-of-hoth
+    name: "Star Wars: Battle of Hoth"
+    year: 2025
+  - id: light-speed-arena
+    name: Light Speed Arena
+    year: 2025
+  - id: toy-battle
+    name: Toy Battle
+    year: 2025
+  - id: fliptoons
+    name: Fliptoons
+    year: 2025
+  - id: moon-colony-bloodbath
+    name: Moon Colony Bloodbath
+    year: 2025

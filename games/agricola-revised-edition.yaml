@@ -1,0 +1,64 @@
+id: agricola-revised-edition
+name: "Agricola (Revised Edition)"
+alternate_names:
+  - "Agricola"
+year: 2016
+
+# Relationships
+game_family: agricola
+edition: revised
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Hand Management
+  - Resource Management
+  - Engine Building
+  - Card Drafting
+  - Variable Setup
+  - Euro
+  - Cult Classic
+  - Agriculture
+  - Medieval
+  - Uwe Rosenberg
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Lookout Games
+  - Mayfair Games
+artist:
+  - Klemens Franz
+playtime_minutes: 120
+min_playtime: 30
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Agricola (Revised Edition) is a worker placement game set in 17th-century Central Europe where players develop modest wooden farms into thriving agricultural estates over 14 rounds. Each round, players send family members to claim action spaces — plowing fields, collecting resources, building rooms, raising livestock, and baking bread — but must feed their growing family at regular harvest intervals or suffer penalty begging tokens. The Revised Edition streamlines the original 2007 classic with a curated deck of 96 occupation and minor improvement cards (reduced from 300+), shaped wooden resource tokens, and a modular puzzle-piece board that scales cleanly to 1–4 players. Scoring rewards a balanced farm: neglecting any category of development (fields, pastures, animals, rooms, or family members) results in negative points, pushing players toward comprehensive agricultural mastery rather than narrow specialization. The game is widely regarded as one of the defining worker placement titles and a landmark Euro design.
+
+upgrades: []
+
+plays_tracked:
+  total_plays: 0
+  configs: []

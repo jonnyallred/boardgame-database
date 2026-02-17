@@ -1,0 +1,68 @@
+id: concordia
+name: "Concordia"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Deck Building
+  - Card Drafting
+  - Route Building
+  - Set Collection
+  - Resource Management
+  - Network Building
+  - Economic
+  - Euro
+  - Historical
+  - Ancient
+  - Mac Gerdts
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Mac Gerdts
+publisher:
+  - PD-Verlag
+  - Rio Grande Games
+artist:
+  - Marina Fahrenbach
+  - Dominik Mayer
+  - Mac Gerdts
+playtime_minutes: 90
+min_playtime: 90
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Concordia is a peaceful strategy game of economic development set during the Roman Empire's era of prosperity. Players guide Roman dynasties by sending colonists to remote realms, developing trade networks, and building houses in cities across the ancient Mediterranean. The game features an elegant card-driven action system where players use personality cards representing Roman gods to take actions, and these same cards determine scoring at the end of the game. Rather than relying on dice or card luck, players must rely on strategic abilities and monitor opponents' objectives to outpace competitors. The game includes a double-sided board with Imperium (for 3-5 players) and Italia (for 2-4 players) maps, allowing for different spatial tensions at various player counts. Winner of the 2013 Meeples Choice Award and nominated for the 2014 Kennerspiel des Jahres, Concordia is celebrated for combining simple, accessible rules with deep strategic gameplay that rewards careful planning and tactical decision-making.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

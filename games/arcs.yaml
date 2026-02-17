@@ -1,0 +1,70 @@
+id: arcs
+name: "Arcs"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - arcs-the-blighted-reach
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Trick-taking
+  - Hand Management
+  - Area Control
+  - Dice Rolling
+  - Variable Setup
+  - Action Points
+  - Negotiation
+  - Take That
+  - Modular Board
+  - 4X
+  - Dudes on a Map
+  - Ameritrash
+  - Sci-Fi
+  - Space
+  - Cole Wehrle
+  - Leder Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Cole Wehrle
+publisher:
+  - Leder Games
+artist:
+  - Kyle Ferrin
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Arcs is a sharp sci-fi strategy game set in a dark yet silly space opera universe called the Reach. Using an innovative card-driven trick-taking system, players guide their factions through interstellar conflict, competing for points by fulfilling variable objectives that shift throughout the game. Rather than following traditional 4X formulas, Arcs creates strategic tension through tactical card play where action efficiency means taking the one pivotal action that swings momentum rather than maximizing total actions. Combat uses three types of custom engraved dice—blue for safe low damage, red for aggressive high-risk attacks, and orange for resource theft at significant risk—creating meaningful choices in galactic warfare. The base game includes optional asymmetric leader and lore cards for variable powers, a beautiful six-panel board, nearly one hundred wooden ships and agents, and over sixty pieces of unique artwork. Winner of multiple 2024 Golden Geek Awards including Best Wargame and Most Innovative, Arcs delivers the sweep of grand space opera in 60-90 minutes rather than marathon sessions, though opinions on the game remain notably divisive among the community.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

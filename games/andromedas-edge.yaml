@@ -1,0 +1,68 @@
+id: andromedas-edge
+name: "Andromeda's Edge"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 4  # Fierce
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Engine Building
+  - Tableau Building
+  - Hand Management
+  - Area Control
+  - Dice Rolling
+  - Resource Management
+  - Tech Tree
+  - Variable Setup
+  - Modular Board
+  - Sci-Fi
+  - Space
+  - 4X
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Luke Laurie
+  - Maximus Laurie
+publisher:
+  - Cardboard Alchemy
+  - Lucky Duck Games
+artist:
+  - Sergio Chaves
+playtime_minutes: 120
+min_playtime: 80
+max_playtime: 160
+min_age: 14
+
+# Description
+description: |
+  Andromeda's Edge is a heavy worker-placement and engine-building game set on the galactic frontier, where players lead desperate factions competing to build new civilizations. Each player commands a fleet of unique, upgradable starships that serve as workers, launching them onto a modular hexagonal map to gather resources, claim moons, and contest planets, then recalling them to activate powerful modules attached to a customizable starbase. Combat is resolved with dice when ships encounter raiders or rival factions, with even losses rewarding bold players through supremacy gains. Victory is determined by advancing across five progress tracks — Science, Industry, Commerce, Civilization, and Supremacy — alongside mid-game and end-game scoring. Designed by the creator of Dwellings of Eldervale, Andromeda's Edge earned a Golden Geek nomination for Heavy Game of the Year in 2024.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

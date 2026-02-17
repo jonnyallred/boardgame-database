@@ -1,0 +1,64 @@
+id: eternal-decks
+name: "Eternal Decks"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 3  # Strategy
+feel: 1  # Cooperative
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Hand Management
+  - Puzzle Solving
+  - Deck Building
+  - Set Collection
+  - Pattern Building
+  - Card Drafting
+  - Resource Management
+  - Euro
+  - Abstract
+  - Gateway
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2, 3, 4]
+
+# Metadata
+designer:
+  - Hiroaki Yamamoto
+publisher:
+  - Tricktakers Games
+artist:
+  - Shinmei Yamamoto
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 40
+min_age: 10
+
+# Description
+description: |
+  Eternal Decks is a fully cooperative puzzle game where players work together to complete stage objectives before any player runs out of playable actions. Starting with 5-card decks, participants acquire cards from eight unique Eternals (characters with specialized 8-card decks), building their hands while navigating increasingly complex placement restrictions. Each turn requires one action: play a card to the field following strict color and number adjacency rules, generate a jewel resource to negate negative effects, or share cards with teammates. The game features six stages with escalating difficulty levels (Beginner through Pro), each introducing unique objectives ranging from point collection and survival scenarios to labyrinth navigation and boss encounters. Communication is intentionally limited, requiring players to develop non-verbal cues and tactical timing. The art merges ancient and modern aesthetics with holographic elements inspired by 1980s collectibles, creating a visual metaphor for awakening as the black game board transforms into vibrant colors during play.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,78 @@
+id: spirit-island
+name: "Spirit Island"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - spirit-island-branch-and-claw
+  - spirit-island-jagged-earth
+  - spirit-island-feather-and-flame
+  - spirit-island-nature-incarnate
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 1  # Cooperative
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Area Control
+  - Hand Management
+  - Set Collection
+  - Simultaneous Action
+  - Variable Setup
+  - Modular Board
+  - Action Points
+  - Euro
+  - Fantasy
+  - Mythology
+  - Nature
+  - Greater Than Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2, 3, 4]
+
+# Metadata
+designer:
+  - R. Eric Reuss
+publisher:
+  - Greater Than Games
+artist:
+  - Jason Behnke
+  - Loic Belliau
+  - Rocky Hammer
+  - Sydni Kruger
+  - Nolan Nasser
+  - Jorge Ramos
+  - Moro Rogers
+  - Graham Sternberg
+  - Shane Tyree
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Spirit Island is a cooperative strategy game where players take on the roles of powerful spirits defending their island home from European colonial invaders. Each spirit possesses unique elemental powers and abilities that grow stronger over time, allowing players to use cards representing natural forces to drive back settlers, towns, and cities. The game features escalating difficulty as invaders intensify their colonization efforts while spirits simultaneously develop more powerful capabilities. Players must coordinate their actions, manage energy resources, and generate Fear among the colonizers to achieve victory either by eliminating all invader presence or frightening them into fleeing the island. With eight distinct spirits in the base game offering dramatically different playstyles, modular board setup, and variable difficulty through adversary and scenario options, Spirit Island provides deep strategic gameplay with exceptional replayability.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

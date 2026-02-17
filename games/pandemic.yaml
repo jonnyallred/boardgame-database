@@ -1,0 +1,66 @@
+id: pandemic
+name: "Pandemic"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: pandemic
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 2  # Tactics
+feel: 1  # Cooperative
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Set Collection
+  - Hand Management
+  - Action Points
+  - Variable Setup
+  - Gateway
+  - Family
+  - Matt Leacock
+  - Z-Man Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Matt Leacock
+publisher:
+  - Z-Man Games
+artist:
+  - Josh Cappel
+  - Christian Hanisch
+  - Régis Moulun
+  - Chris Quilliams
+  - Tom Thiel
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Pandemic is a cooperative board game where players work together as members of a disease control team fighting to stop four deadly diseases from wiping out humanity. Each player assumes one of seven specialized roles—such as Medic, Scientist, Researcher, or Operations Expert—each with unique abilities that must be strategically coordinated to discover all four cures before time runs out. Players travel between 48 cities on a world map, treating infections, sharing knowledge, and building research stations while managing limited actions and racing against escalating outbreaks. The game features an elegant infection mechanic where discarded infection cards are reshuffled and placed back on top of the deck, creating predictable yet intensifying pressure points. Winner of multiple awards and widely considered a modern classic, Pandemic helped popularize the cooperative board game genre with its accessible rules, scalable difficulty, and tense gameplay that works equally well at all player counts.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

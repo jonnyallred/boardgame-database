@@ -1,0 +1,61 @@
+id: nidavellir
+name: "Nidavellir"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Set Collection
+  - Card Drafting
+  - Hand Management
+  - Euro
+  - Family
+  - Fantasy
+  - Mythology
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Serge Laget
+publisher:
+  - GRRRE Games
+artist:
+  - Jean-Marie Minguez
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+# Description
+description: |
+  Set in the Norse mythological realm of Nidavellir, players take on the role of Elvaland who must recruit the best dwarven battalion to defend against the dragon Fafnir. The core mechanism revolves around bidding coins at three taverns each round to recruit dwarf warriors from five different classes: Blacksmith, Hunter, Warrior, Explorer, and Miner. Each class has unique scoring methods, and players compete for distinctions by having the majority of ranks in each class. The innovative coin upgrading system allows players to combine two coins from their pouch to create higher-value coins for future bids, though at the cost of discarding the higher of the two original coins. Once players complete a full army with one dwarf from each class, they can recruit powerful Heroes who provide special abilities and belong to multiple classes. The game features accessible rules that can be taught in five minutes, yet offers deep strategic decisions around bidding timing, coin management, and combo building that create meaningful player interaction and strategic depth.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

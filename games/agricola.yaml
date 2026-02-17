@@ -1,0 +1,62 @@
+id: agricola
+name: "Agricola"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: "agricola"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Hand Management
+  - Engine Building
+  - Set Collection
+  - Variable Setup
+  - Euro
+  - Agriculture
+  - Historical
+  - Uwe Rosenberg
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Lookout Games
+  - Z-Man Games
+artist:
+  - Klemens Franz
+playtime_minutes: 120
+min_playtime: 30
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Agricola is a landmark Euro game in which 1-5 players develop modest farmsteads into prosperous homesteads over 14 rounds, collecting resources, plowing and sowing fields, raising livestock, and expanding their farmhouses. Using worker placement, players compete for limited action spaces to gather wood, clay, reed, stone, and food, with the constant pressure of needing to feed their family at the end of each harvest phase or face begging penalties. The game features a beginner-friendly Family Variant and a full game with 302 Occupation and Minor Improvement cards that create enormous strategic variety and replayability across sessions. Scoring rewards balanced development — players are penalized for neglecting any aspect of their farm — creating deep tension between specialization and diversification. Winner of the Deutscher Spiele Preis 2008 and recognized by the Spiel des Jahres jury, Agricola is widely considered one of the defining titles of the worker placement genre.
+
+upgrades: []
+
+plays_tracked:
+  total_plays: 0
+  configs: []

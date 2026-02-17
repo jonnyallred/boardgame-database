@@ -1,0 +1,66 @@
+id: race-for-the-galaxy
+name: "Race for the Galaxy"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Hand Management
+  - Simultaneous Action
+  - Engine Building
+  - Set Collection
+  - Tableau Building
+  - Variable Player Powers
+  - Sci-Fi
+  - Space
+  - Civilization
+  - Euro
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Thomas Lehmann
+publisher:
+  - Rio Grande Games
+artist:
+  - Claus Stephan
+  - Martin Hoffmann
+  - Mirko Suzuki
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  Race for the Galaxy is a card-driven engine-building game where players build galactic civilizations through strategic card play representing worlds, technological developments, and social advancements. At the start of each round, all players simultaneously and secretly choose one of five phases (Explore, Develop, Settle, Consume, or Produce), with only the selected phases occurring and the chooser receiving a special bonus. Players manage a hand of multi-use cards that can be played for their function or discarded as currency to pay for other cards, creating tense decisions about resource allocation. Victory points come from three sources: worlds and developments in your tableau, and VP chips earned by consuming goods from production worlds. The game features a steep learning curve due to its extensive iconography and open-ended strategic paths, but rewards repeated play with deep tactical and strategic decisions. Originally conceived as a card game version of Puerto Rico, the game evolved into a space-themed experience with simultaneous action selection that plays quickly once mastered, with the two-player variant being particularly well-regarded for allowing each player to select two actions per round.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

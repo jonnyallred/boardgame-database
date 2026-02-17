@@ -1,0 +1,68 @@
+id: a-feast-for-odin
+name: "A Feast for Odin"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 3  # Polite
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Resource Management
+  - Action Points
+  - Set Collection
+  - Pattern Building
+  - Economic
+  - Drafting
+  - Euro
+  - Historical
+  - Medieval
+  - Maritime
+  - Agriculture
+  - Uwe Rosenberg
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Feuerland Spiele
+  - Z-Man Games
+artist:
+  - Dennis Lohausen
+playtime_minutes: 120
+min_playtime: 30
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  A Feast for Odin is an epic Viking saga told through an intricate worker placement and resource management system. Players lead Viking clans through various economic activities including hunting, whaling, raiding, pillaging, trading, and exploring new lands. At the heart of the game is a polyomino tile puzzle where players collect irregularly shaped tiles (representing goods like beans, milk, flax, and linen) and strategically place them on personal boards to cover negative point spaces and trigger income bonuses. The game features an enormous action board with 61 unique action spaces organized into four columns requiring increasing numbers of Vikings to activate, offering extraordinary strategic depth and multiple paths to victory. A Feast for Odin combines the worker placement of Agricola and Caverna with the resource conversion chains of Le Havre and the spatial puzzle elements of Patchwork, creating a masterful synthesis of Rosenberg's signature mechanics into one comprehensive Viking-themed experience. With robust solo mode support and an expansion (The Norwegians), the game provides exceptional replayability through varied strategies from animal breeding to craftsmanship to conquest.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

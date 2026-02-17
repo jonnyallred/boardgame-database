@@ -1,0 +1,73 @@
+id: earthborne-rangers
+name: "Earthborne Rangers"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 1  # Cooperative
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Deck Building
+  - Hand Management
+  - Campaign Mode
+  - Narrative Heavy
+  - Role Playing
+  - Variable Setup
+  - Modular Board
+  - Sci-Fi
+  - Nature
+  - Post-Apocalyptic
+  - Survival
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Andrew Fischer
+  - Brooks Flugaur-Leavitt
+  - Andrew Navaro
+  - Adam Sadler
+  - Brady Sadler
+publisher:
+  - Earthborne Games
+artist:
+  - Evan Simonet
+  - Jajang Sopandi
+  - Stephen Somers
+  - Allie Preswick
+  - Robert Laskey
+playtime_minutes: 150
+min_playtime: 60
+max_playtime: 240
+min_age: 12
+
+# Description
+description: |
+  Earthborne Rangers is a customizable cooperative adventure card game set in the wilderness of the far future, where monumental feats of science and technology have transformed Earth and saved it from destruction. Players take on the role of Rangers, protectors of a vast mountain valley who explore an open world filled with mysterious ruins, engaging characters, and wildlife both familiar and strange. You begin by building a deck that reflects your Ranger's personal history, interests, and personality, then augment it with improved equipment, refined skills, and memories of your journey as you progress through the branching narrative campaign. The game features deck construction mechanics where players craft their character before play sessions (similar to role-playing games), choosing aspects, background, specialization, and personality that grant access to specific card pools. Earthborne Rangers emphasizes exploration and ecological management through its "mechanical ecology" system, creating emergent interactions between beings and features that make the world feel alive. The campaign consists of a main storyline and numerous side stories, offering players the freedom to tread the critical path or strike off on their own to discover the Valley's secrets across 20-30 sessions totaling 30-40 hours of gameplay. Production prioritizes environmental sustainability with fully recyclable and compostable materials (except rulebook staples) and no plastic components.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

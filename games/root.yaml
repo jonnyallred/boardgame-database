@@ -1,0 +1,66 @@
+id: root
+name: "Root"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - root-the-riverfolk-expansion
+  - root-the-underworld-expansion
+  - root-the-marauder-expansion
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Asymmetric
+  - Hand Management
+  - Variable Setup
+  - Dudes on a Map
+  - Wargame
+  - Fantasy
+  - Animals
+  - Cole Wehrle
+  - Leder Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Cole Wehrle
+publisher:
+  - Leder Games
+artist:
+  - Kyle Ferrin
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+# Description
+description: |
+  Root is a radically asymmetric wargame set in a whimsical woodland where players compete for control and victory through fundamentally different mechanics. Each faction plays by unique rules and aims at different goals - the Marquise de Cat builds an industrial engine of sawmills and workshops, the Eyrie Dynasties expand through programmed action selection that risks collapse, the Woodland Alliance spreads sympathy to incite revolt, and the Vagabond quests alone to aid or hinder others. Players must understand not only their own faction's mechanics but also how every other faction operates in order to meaningfully oppose them, creating a complex political and economic warfare simulation. Despite its cute anthropomorphic art by Kyle Ferrin, Root delivers cutthroat competitive gameplay with high player interaction and conflict. Winner of the 2018 Golden Geek Board Game of the Year and named by The New York Times as one of the four best strategy board games, Root has spawned multiple expansions and a thriving competitive scene since its release.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

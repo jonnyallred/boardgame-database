@@ -1,0 +1,64 @@
+id: forest-shuffle
+name: "Forest Shuffle"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Hand Management
+  - Tableau Building
+  - Card Drafting
+  - Engine Building
+  - Euro
+  - Family
+  - Gateway
+  - Nature
+  - Animals
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Kosch
+publisher:
+  - Lookout Games
+artist:
+  - Toni Llobet
+  - Judit Piella
+playtime_minutes: 60
+min_playtime: 40
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Forest Shuffle is a tableau-building card game where players compete to create the most valuable and ecologically balanced forest habitat. Each turn players either draw two cards or play one card, maintaining a simple turn structure that belies surprisingly deep tactical considerations. The multifunctional cards feature either trees to plant in your forest or split animal/plant cards that attach to the four sides of tree cards, creating synergistic combinations. Players must carefully manage their hand since every card serves both as a potential play and as currency to pay for other cards, creating engaging decisions about when to pursue your own strategy versus denying valuable cards to opponents. Set collection drives scoring as different species reward various approaches - some cards favor diversity while others encourage specialization in particular tree types. The game features stunning nature illustrations by wildlife artist Toni Llobet and uses eco-friendly production as part of Lookout's GreenLine series. Winner of the 2024 Deutscher Spiele Preis, Forest Shuffle plays best with 2-3 players where the smaller card pool allows more strategic control.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

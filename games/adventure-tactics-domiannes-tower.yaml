@@ -1,0 +1,63 @@
+id: adventure-tactics-domiannes-tower
+name: "Adventure Tactics: Domianne's Tower"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: adventure-tactics
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 1  # Cooperative
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Deck Building
+  - Hand Management
+  - Action Points
+  - Modular Board
+  - Variable Setup
+  - Dungeon Crawler
+  - Fantasy
+  - Narrative Heavy
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Nicholas Yu
+publisher:
+  - Letiman Games
+artist:
+  - Jacob Croft
+  - Calico Maher
+  - Alisha Volkman
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Adventure Tactics: Domianne's Tower is an encounter-based, campaign-driven cooperative tactical combat game set in the kingdom of Astelia. Players choose from five starting classes (Archer, Cleric, Fighter, Rogue, Wizard) and fight through a branching campaign, leveling up after each encounter to unlock over 15 elite classes with new abilities, actions, and equipment. Each round uses initiative tokens to determine turn order, with heroes taking two actions per turn from their hand of class cards, while enemies are driven by a Boss AI deck that delivers unique and challenging behaviors. The game's deep class progression system allows for diverse character builds and meaningful strategic choices as players work together to overthrow the evil Queen Domianne.
+
+upgrades: []
+
+plays_tracked:
+  total_plays: 0
+  configs: []

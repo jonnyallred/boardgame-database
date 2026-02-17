@@ -1,0 +1,67 @@
+id: ticket-to-ride-legacy-legends-of-the-west
+name: "Ticket to Ride Legacy: Legends of the West"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Route Building
+  - Set Collection
+  - Hand Management
+  - Network Building
+  - Legacy
+  - Campaign Mode
+  - Trains
+  - Family
+  - Gateway
+  - Alan R. Moon
+  - Rob Daviau
+  - Matt Leacock
+  - Days of Wonder
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Alan R. Moon
+  - Rob Daviau
+  - Matt Leacock
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 60
+min_playtime: 20
+max_playtime: 90
+min_age: 10
+
+# Description
+description: |
+  Ticket to Ride Legacy: Legends of the West is a 12-game campaign that transforms the classic cross-country train adventure into an evolving legacy experience set during America's late 19th-century railroad boom. Players manage their own North American railway companies across a series of interconnected sessions, traveling from the East Coast westward while completing tickets, accumulating earnings, and outwitting rivals. As the story progresses, players open frontier boxes that unlock new rules, unique player roles, and narrative surprises, permanently changing the game components and creating a fully personalized copy by the campaign's end. The legacy format adds meaningful choices and escalating stakes to the familiar Ticket to Ride card-management mechanics, rewarding long-term planning across the entire campaign arc. Designed by the original creator Alan R. Moon alongside legacy pioneers Rob Daviau and Matt Leacock, the game is widely praised for breathing new life into one of the best-selling board games of all time.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

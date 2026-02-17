@@ -1,0 +1,49 @@
+source: "Board Game of the Year - 2022 Aggregated Rankings"
+url: "https://boardgameoftheyear.org/2022/rankings"
+fetched: 2026-02-16
+games:
+  - id: wonderlands-war
+    name: "Wonderland's War"
+    year: 2022
+  - id: endless-winter
+    name: "Endless Winter: Paleoamericans"
+    year: 2022
+  - id: heat
+    name: "Heat: Pedal to the Metal"
+    year: 2022
+  - id: foundations-of-rome
+    name: Foundations of Rome
+    year: 2022
+  - id: oathsworn
+    name: "Oathsworn: Into the Deepwood"
+    year: 2022
+  - id: planet-unknown
+    name: Planet Unknown
+    year: 2022
+  - id: wayfarers-of-the-south-tigris
+    name: Wayfarers of the South Tigris
+    year: 2022
+  - id: tiletum
+    name: Tiletum
+    year: 2022
+  - id: mosaic
+    name: "Mosaic: A Story of Civilization"
+    year: 2022
+  - id: carnegie
+    name: Carnegie
+    year: 2022
+  - id: guild-of-merchant-explorers
+    name: The Guild of Merchant Explorers
+    year: 2022
+  - id: ark-nova
+    name: Ark Nova
+    year: 2021
+  - id: flamecraft
+    name: Flamecraft
+    year: 2022
+  - id: ready-set-bet
+    name: Ready Set Bet
+    year: 2022
+  - id: revive
+    name: Revive
+    year: 2022

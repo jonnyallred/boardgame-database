@@ -1,0 +1,63 @@
+id: the-guild-of-merchant-explorers
+name: "The Guild of Merchant Explorers"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 0  # Solitary
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Network Building
+  - Route Building
+  - Pattern Building
+  - Simultaneous Action
+  - Set Collection
+  - Variable Setup
+  - Euro
+  - Family
+  - Gateway
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2, 3, 4]
+
+# Metadata
+designer:
+  - Matthew Dunstan
+  - Brett J. Gilbert
+publisher:
+  - Alderac Entertainment Group
+artist:
+  - Gerralt Landman
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 45
+min_age: 14
+
+# Description
+description: |
+  The Queen has commissioned The Guild of Merchant Explorers to venture across the kingdom of Tigomé, a flourishing realm whose maps haven't been updated in years. Players journey over diverse terrain—rough seas, majestic mountains, vast deserts, and lush grasslands—to establish trade routes between cities, climb discovery towers, and visit newly emerged villages. Using a clever flip-and-reveal mechanism, players simultaneously explore their personal maps based on terrain cards drawn each round, placing explorer cubes connected to established cities and building new settlements. The game features minimal direct player interaction, creating a meditative multiplayer solitaire experience where players race to complete shared objectives while pursuing individual investigation card goals. Over four eras, explorers can discover capsized ships for treasure, create linked networks between locations for bonus points, and strategically place villages to enable future expansion—with all cubes removed at era's end except cities, forcing careful long-term planning despite simple rules.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

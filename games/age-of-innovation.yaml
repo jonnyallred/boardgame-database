@@ -1,0 +1,67 @@
+id: age-of-innovation
+name: "Age of Innovation"
+alternate_names:
+  - "Age of Innovation: A Terra Mystica Game"
+year: 2023
+
+# Relationships
+game_family: terra-mystica
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Resource Management
+  - Tech Tree
+  - Variable Setup
+  - Network Building
+  - Hex Map
+  - Engine Building
+  - Economic
+  - Tableau Building
+  - Euro
+  - Civilization
+  - Fantasy
+  - Capstone Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Helge Ostertag
+publisher:
+  - Capstone Games
+  - Feuerland Spiele
+artist:
+  - Álvaro Calvo Escudero
+  - Lukas Siegmon
+playtime_minutes: 120
+min_playtime: 40
+max_playtime: 200
+min_age: 14
+
+# Description
+description: |
+  Age of Innovation is a standalone civilization and territory-building strategy game in the Terra Mystica universe, designed for 1-5 players. Each player leads one of twelve asymmetric factions, each tied to a specific terrain type, competing to terraform the hex-based map, erect buildings, and merge structures into cities. A new innovation system introduces books as an advanced resource, letting players research and unlock powerful abilities from a pool of 18 innovations, while school and palace upgrades offer further asymmetric development paths. The game retains Terra Mystica's signature tension between proximity (which grants economic bonuses from neighbors) and expansion (which requires space to grow), but layers in fresh complexity through competency tiles, palace bonuses, and a science track. With 12 factions, 17 palace abilities, variable faction-homeland combinations, and modular board setup, the game offers an enormous number of combinations for high replayability.
+
+upgrades: []
+
+plays_tracked:
+  total_plays: 0
+  configs: []

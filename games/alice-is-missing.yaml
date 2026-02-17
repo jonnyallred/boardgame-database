@@ -1,0 +1,58 @@
+id: alice-is-missing
+name: "Alice is Missing"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 1  # Cooperative
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Real-time
+  - Deduction
+  - Party
+  - Mystery
+
+# Player counts
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Spenser Starke
+publisher:
+  - Hunters Entertainment
+  - Renegade Game Studios
+artist:
+  - Julianne Griepp
+playtime_minutes: 90
+min_playtime: 90
+max_playtime: 120
+min_age: 16
+
+# Description
+description: |
+  Alice is Missing is a silent roleplaying game in which players investigate the disappearance of Alice Briarwood, a high school junior in the small coastal town of Silent Falls. The game is played entirely through text messages—players assume the roles of Alice's friends and family, and for the entire 90-minute session, all communication happens via a group chat on their phones, with no spoken words allowed. A soundtrack timer drives the pacing, with clue cards revealed at set intervals (every ten minutes) that push the narrative forward and introduce new suspects, locations, and discoveries. Players draw from searching decks when exploring locations on their own initiative, creating thousands of possible story combinations from the game's 72-card deck. The experience culminates in each player playing a pre-recorded voicemail for Alice, making for an emotionally resonant and uniquely immersive mystery.
+
+upgrades: []
+
+plays_tracked:
+  total_plays: 0
+  configs: []

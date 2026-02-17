@@ -1,0 +1,65 @@
+id: dune-imperium
+name: "Dune: Imperium"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: dune-imperium
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Worker Placement
+  - Hand Management
+  - Area Control
+  - Set Collection
+  - Engine Building
+  - Sci-Fi
+  - Space
+  - Euro
+  - Ameritrash
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3]
+
+# Metadata
+designer:
+  - Paul Dennen
+publisher:
+  - Dire Wolf Digital
+artist:
+  - Clay Brooks
+  - Raul Ramos
+  - Nate Storm
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Set in Frank Herbert's Dune universe, Dune: Imperium seamlessly blends deck-building and worker placement mechanics in a game of political intrigue and resource control on the desert planet Arrakis. Players assume roles as leaders from Great Houses of the Landsraad, using a starting deck of ten cards to send agents to board locations that provide spice, water, Solari currency, troop deployments, and alliances with four key factions: the Emperor, the Spacing Guild, the Bene Gesserit, and the Fremen. Each card serves dual purposes—enabling agent placement through icons and providing reveal-phase bonuses—creating a elegant tension between immediate tactical needs and long-term deck optimization. Victory comes through combat in the conflict phase, political influence with the factions, and strategic card acquisitions, with asymmetric leader abilities adding variability to each playthrough. Winner of the 2021 Dragon Award for Best Science Fiction or Fantasy Board Game, Dune: Imperium features premium components with stunning artwork that evokes the aesthetic of Denis Villeneuve's film adaptation while maintaining its own distinct visual identity.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

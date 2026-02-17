@@ -1,0 +1,68 @@
+id: earth
+name: "Earth"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Tableau Building
+  - Card Drafting
+  - Hand Management
+  - Simultaneous Action
+  - Set Collection
+  - Pattern Building
+  - Variable Setup
+  - Euro
+  - Family
+  - Nature
+  - Animals
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Maxime Tardif
+publisher:
+  - Inside Up Games
+artist:
+  - M81 Studio
+  - Conor McGoey
+  - Yulia Sozonik
+  - Kenneth Spond
+playtime_minutes: 67
+min_playtime: 45
+max_playtime: 90
+min_age: 13
+
+# Description
+description: |
+  Earth is an open-world engine builder where players cultivate a thriving ecosystem by strategically placing cards in a 4x4 tableau. Each turn, the active player chooses one of four actions (Plant, Compost, Water, or Grow), gaining a major benefit while all other players receive a minor benefit, creating constant engagement through simultaneous play. With over 364 unique cards featuring real-life nature photography, players build self-supporting engines of growth and supply, scoring points through diverse paths including attracting animals, playing expensive cards, adjacency bonuses, and filling their compost pile. The game features near-infinite replayability with over 25,000 possible starting setups, combining accessible rules with deep strategic possibilities. Winner of Best Board Game (European Style) at the 2023 UK Games Expo and Best Solo Game at the 2023 International Gamers Awards, Earth stands as one of the most acclaimed board games of 2023.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

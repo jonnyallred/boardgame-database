@@ -1,0 +1,145 @@
+source: "Shut Up & Sit Down - Recommended Games"
+url: "https://www.shutupandsitdown.com/games-category/susd-recommends/"
+fetched: 2026-02-16
+games:
+  - id: railroad-tiles
+    name: Railroad Tiles
+    year: 2025
+  - id: wroth
+    name: Wroth
+    year: 2025
+  - id: galactic-cruise
+    name: Galactic Cruise
+    year: 2025
+  - id: vantage
+    name: Vantage
+    year: 2025
+  - id: iliad
+    name: Iliad
+    year: 2025
+  - id: old-kings-crown
+    name: Old King's Crown
+    year: 2025
+  - id: fate-of-the-fellowship
+    name: "The Lord of the Rings: Fate of the Fellowship"
+    year: 2025
+  - id: moon-colony-bloodbath
+    name: Moon Colony Bloodbath
+    year: 2025
+  - id: slay-the-spire-board-game
+    name: "Slay the Spire: The Board Game"
+    year: 2024
+  - id: kelp
+    name: "Kelp: Shark vs Octopus"
+    year: 2023
+  - id: forest-shuffle
+    name: Forest Shuffle
+    year: 2023
+  - id: arcs
+    name: Arcs
+    year: 2024
+  - id: ra
+    name: Ra
+    year: 1999
+  - id: thunder-road-vendetta
+    name: "Thunder Road: Vendetta"
+    year: 2023
+  - id: galaxy-trucker
+    name: Galaxy Trucker
+    year: 2007
+  - id: sky-team
+    name: Sky Team
+    year: 2023
+  - id: return-to-dark-tower
+    name: Return to Dark Tower
+    year: 2022
+  - id: quest-for-el-dorado
+    name: The Quest for El Dorado
+    year: 2017
+  - id: dune-imperium
+    name: "Dune: Imperium"
+    year: 2020
+  - id: earthborne-rangers
+    name: Earthborne Rangers
+    year: 2023
+  - id: agricola
+    name: Agricola
+    year: 2007
+  - id: ticket-to-ride-legacy
+    name: "Ticket to Ride Legacy: Legends of the West"
+    year: 2023
+  - id: john-company-2e
+    name: "John Company: Second Edition"
+    year: 2022
+  - id: cat-in-the-box
+    name: "Cat in the Box: Deluxe Edition"
+    year: 2022
+  - id: so-clover
+    name: So Clover
+    year: 2021
+  - id: just-one
+    name: Just One
+    year: 2018
+  - id: undaunted-normandy
+    name: "Undaunted: Normandy"
+    year: 2019
+  - id: earth
+    name: Earth
+    year: 2023
+  - id: bohnanza
+    name: Bohnanza
+    year: 1997
+  - id: dorfromantik
+    name: Dorfromantik
+    year: 2022
+  - id: frosthaven
+    name: Frosthaven
+    year: 2023
+  - id: gloomhaven-jaws-of-the-lion
+    name: "Gloomhaven: Jaws of the Lion"
+    year: 2020
+  - id: for-sale
+    name: For Sale
+    year: 1997
+  - id: alice-is-missing
+    name: Alice is Missing
+    year: 2020
+  - id: heat
+    name: "Heat: Pedal to the Metal"
+    year: 2022
+  - id: scout
+    name: Scout
+    year: 2022
+  - id: living-forest
+    name: Living Forest
+    year: 2021
+  - id: root
+    name: Root
+    year: 2018
+  - id: spirit-island
+    name: Spirit Island
+    year: 2017
+  - id: guild-of-merchant-explorers
+    name: The Guild of Merchant Explorers
+    year: 2022
+  - id: akropolis
+    name: Akropolis
+    year: 2022
+  - id: cascadia
+    name: Cascadia
+    year: 2021
+  - id: daybreak
+    name: Daybreak
+    year: 2023
+  - id: eternal-decks
+    name: Eternal Decks
+    year: 2025
+  - id: dune-imperium-uprising
+    name: "Dune: Imperium Uprising"
+    year: 2023
+  - id: innovation
+    name: Innovation
+    year: 2010
+  - id: race-for-the-galaxy
+    name: Race for the Galaxy
+    year: 2007

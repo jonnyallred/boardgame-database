@@ -1,0 +1,49 @@
+source: "Board Game of the Year - 2023 Aggregated Rankings"
+url: "https://boardgameoftheyear.org/2023/rankings"
+fetched: 2026-02-16
+games:
+  - id: earth
+    name: Earth
+    year: 2023
+  - id: thunder-road-vendetta
+    name: "Thunder Road: Vendetta"
+    year: 2023
+  - id: the-white-castle
+    name: The White Castle
+    year: 2023
+  - id: voidfall
+    name: Voidfall
+    year: 2023
+  - id: sky-team
+    name: Sky Team
+    year: 2023
+  - id: apiary
+    name: Apiary
+    year: 2023
+  - id: hegemony
+    name: "Hegemony: Lead Your Class to Victory"
+    year: 2023
+  - id: darwins-journey
+    name: "Darwin's Journey"
+    year: 2023
+  - id: distilled
+    name: Distilled
+    year: 2023
+  - id: ticket-to-ride-legacy
+    name: "Ticket to Ride Legacy: Legends of the West"
+    year: 2023
+  - id: expeditions
+    name: Expeditions
+    year: 2023
+  - id: nucleum
+    name: Nucleum
+    year: 2023
+  - id: unmatched-tales-to-amaze
+    name: "Unmatched Adventures: Tales to Amaze"
+    year: 2023
+  - id: world-wonders
+    name: World Wonders
+    year: 2023
+  - id: barcelona
+    name: Barcelona
+    year: 2023

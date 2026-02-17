@@ -1,0 +1,63 @@
+id: apiary
+name: "Apiary"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Engine Building
+  - Tile Placement
+  - Resource Management
+  - Variable Setup
+  - Euro
+  - Stonemaier Games
+  - Space
+  - Animals
+  - Nature
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Connie Vogelmann
+publisher:
+  - Stonemaier Games
+artist:
+  - Kwanchai Moriya
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Apiary is a mid-weight euro worker-placement game set in a distant future where hyper-intelligent bees have mastered space travel. Each player controls one of 20 unique bee factions, each with special abilities, and must explore planets, gather resources, develop technologies, and create carvings before their bees enter hibernation. The core twist on classic worker placement is that bees grow stronger over time: rather than blocking spaces, placing a bee at an occupied location bumps the existing bee out, but that bee gains strength or generates income. As bees reach maximum strength they hibernate, leaving players with fewer but more powerful workers as the game progresses. Over the course of a single year's Flow, players score victory points through planet exploration, hive development, and faction-specific objectives, with the highest score winning.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

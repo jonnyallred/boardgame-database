@@ -1,0 +1,62 @@
+id: akropolis
+name: "Akropolis"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Drafting
+  - Abstract
+  - Euro
+  - Family
+  - Gateway
+  - Ancient
+  - City Building
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Jules Messaud
+publisher:
+  - Gigamic
+artist:
+  - Pauline Detraz
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  Akropolis is a tile-placement strategy game set in ancient Greece where players compete to build the most prestigious city. On each turn, players select hexagonal district tiles from a shared construction site — the first tile is always free, but passing over tiles costs one stone cube per tile skipped. Each tile shows one of five district types (housing, temples, markets, gardens, or barracks), and players must place them adjacent to their existing city. Scoring revolves around multiplying the number of each district type by the number of matching plaza stars a player has claimed, rewarding careful long-term planning. A key spatial element allows tiles to be placed on top of existing structures (covering at least two different tiles), with higher-level districts scoring bonus points — creating a literal Akropolis that rises above the city floor.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,63 @@
+id: slay-the-spire-the-board-game
+name: "Slay the Spire: The Board Game"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 1  # Cooperative
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Cooperative
+  - Hand Management
+  - Variable Setup
+  - Fantasy
+  - Dungeon Crawler
+  - Campaign Mode
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Gary Dworetsky
+  - Anthony Giovannetti
+  - Casey Yano
+publisher:
+  - Contention Games
+artist:
+  - Bruce Brenneise
+  - Anailis Dorta
+playtime_minutes: 90
+min_playtime: 30
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  A cooperative deckbuilding roguelike adventure where players control one of four unique characters (The Ironclad, The Silent, The Defect, or The Watcher) as they ascend through three acts of procedurally-generated dungeons toward the Heart of the Spire. Players start with basic attack and defense cards, gradually crafting powerful synergistic decks by adding new cards from encounters and merchant shops while removing weaker cards to maintain consistency. Each character features distinct mechanics, starting relics, and exclusive card pools that encourage different strategic approaches. The board game adaptation faithfully translates the digital roguelike's core tension while adding cooperative elements like shared defensive abilities and coordinated enemy targeting. With an Ascension system for scaling difficulty and the option to save progress between acts, it delivers the tactical card combat and run-based replayability of the acclaimed video game in a tabletop format.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

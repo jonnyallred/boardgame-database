@@ -1,0 +1,71 @@
+id: everdell
+name: "Everdell"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - pearlbrook
+  - spirecrest
+  - bellfaire
+  - newleaf
+  - mistwood
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Tableau Building
+  - Set Collection
+  - Card Drafting
+  - Resource Management
+  - Hand Management
+  - Engine Building
+  - Euro
+  - Family
+  - Fantasy
+  - Animals
+  - City Building
+  - Nature
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - James A. Wilson
+publisher:
+  - Starling Games
+artist:
+  - Andrew Bosley
+playtime_minutes: 60
+min_playtime: 40
+max_playtime: 80
+min_age: 13
+
+# Description
+description: |
+  Set in a vibrant woodland realm inspired by the Redwall book series, Everdell invites players to become forest animals building a thriving city over four seasons. Using worker placement and tableau building mechanics, players place woodland workers to gather resources (twigs, resin, pebbles, and berries) and spend them to construct buildings and recruit charming critters to populate their city. The game features a built-in tutorial structure that gently introduces complexity as players gain more workers each season, creating natural progression from simple early choices to rich strategic decisions. Everdell combines Andrew Bosley's whimsical yet realistic artwork with dynamic card synergies, special events, and indirect player interaction through competitive worker placement. The game shines with beautiful production quality including detailed cards and wooden components, offering excellent replayability through variable setup, random locations, and bonus objectives that encourage different strategic approaches each game.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

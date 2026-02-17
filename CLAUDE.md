@@ -93,7 +93,7 @@ The progress script unions all list files by `id`, deduplicates, and diffs again
 **Add a new game:**
 Use the `/add-game` skill to create new game entries. This skill handles web research, schema validation, and YAML creation automatically.
 
-When adding multiple games at once, launch parallel subagents using the `/add-game` skill — each subagent researches and creates one game file independently. This is the preferred workflow for batch additions.
+When adding multiple games at once, use the Task tool to launch parallel `general-purpose` subagents — one per game — all in a single message. Each subagent receives the full add-game instructions (from `SKILL.md`) and works independently. Do **not** use the Skill tool directly for batch additions; explicit Task subagents are faster and truly parallel. This is the preferred workflow for batch additions.
 
 **Manual alternative** (if needed):
 1. Create `games/{slug}.yaml` based on the template in schema.yaml

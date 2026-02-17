@@ -1,0 +1,64 @@
+id: the-quacks-of-quedlinburg
+name: "The Quacks of Quedlinburg"
+alternate_names:
+  - "Die Quacksalber von Quedlinburg"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 2  # Party
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Bag Building
+  - Press Your Luck
+  - Simultaneous Action
+  - Set Collection
+  - Hand Management
+  - Racing
+  - Euro
+  - Family
+  - Gateway
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Wolfgang Warsch
+publisher:
+  - Schmidt Spiele
+  - North Star Games
+artist:
+  - Dennis Lohausen
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  In The Quacks of Quedlinburg, players are charlatan doctors brewing potions by drawing ingredient chips from personal bags and placing them in their cauldrons. The core tension comes from the push-your-luck mechanic: pulling more ingredients increases your potion's potency and scoring potential, but drawing too many white cherry bomb chips causes your potion to explode, limiting your rewards. The game features simultaneous play across nine rounds, keeping all players engaged with zero downtime as everyone draws from their bags at the same time. After each round, players spend coins to purchase new ingredient chips with special abilities, gradually building their bags to reduce randomness and increase strategic control. Winner of the 2018 Kennerspiel des Jahres, the game balances accessible rules with meaningful decisions around risk management, ingredient selection, and timing. The catch-up mechanic (Rat Tail system) prevents runaway leaders while variable ingredient recipe books create diverse gameplay experiences across sessions.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

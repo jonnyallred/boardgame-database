@@ -1,0 +1,63 @@
+id: foundations-of-rome
+name: "Foundations of Rome"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Area Control
+  - Hand Management
+  - Economic
+  - Tableau Building
+  - Euro
+  - City Building
+  - Historical
+  - Ancient
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Emerson Matsuuchi
+publisher:
+  - Arcane Wonders
+artist:
+  - Stephen Gibson
+  - Damien Mammoliti
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 13
+
+# Description
+description: |
+  Foundations of Rome is a city-building board game where players take on the roles of competing architects expanding ancient Rome. Using an elegant three-action system, players purchase property lots from a competitive market, construct polyomino-shaped buildings on an alphanumeric grid, or collect income each turn. Buildings come in three strategic types: Commercial structures generate coins, Residential buildings boost population, and Civic monuments score points based on adjacent buildings regardless of ownership. The game features over 100 wonderfully detailed miniatures representing houses, shops, fountains, and temples, creating impressive table presence as the city gradually expands. Despite its simple ruleset that can be taught in minutes, the game offers surprising tactical depth through careful building placement and market timing, with the game concluding when all property spaces are purchased and final scoring determined by building types, quantity, positioning, and personal objectives.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

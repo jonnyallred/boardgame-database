@@ -1,0 +1,67 @@
+id: scythe
+name: "Scythe"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Area Control
+  - Resource Management
+  - Variable Setup
+  - Action Points
+  - Hand Management
+  - 4X
+  - Euro
+  - Dudes on a Map
+  - Sci-Fi
+  - Steampunk
+  - Post-Apocalyptic
+  - Jamey Stegmaier
+  - Stonemaier Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Jamey Stegmaier
+publisher:
+  - Stonemaier Games
+artist:
+  - Jakub Różalski
+playtime_minutes: 115
+min_playtime: 90
+max_playtime: 115
+min_age: 14
+
+# Description
+description: |
+  Set in an alternate-history 1920s Eastern Europe, Scythe places players in control of asymmetric factions vying for dominance in a dieselpunk world of giant mechs and industrialization. Each faction begins with unique abilities and starting positions on the modular board, creating distinct strategic paths through engine-building, territorial expansion, and resource management. Players use dual-purpose player boards to take actions like producing resources (wood, food, oil, metal), deploying mechs, building structures, and enlisting recruits, with each action creating synergies and unlocking bonuses. Combat exists but is costly and strategic rather than constant, as players balance military strength with popularity to maximize end-game scoring. The game ends when a player earns their sixth achievement from categories like deploying all mechs, building all structures, or winning combat, with final scoring based on coins, controlled territories, resources, and objective cards weighted by popularity level. Winner of numerous awards and critical acclaim, Scythe combines gorgeous artwork by Jakub Różalski with accessible yet deep strategic gameplay that rewards long-term planning and efficient engine construction.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

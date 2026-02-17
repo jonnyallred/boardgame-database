@@ -1,0 +1,68 @@
+id: dune-imperium-uprising
+name: "Dune: Imperium Uprising"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: dune-imperium
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - dune-imperium
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Worker Placement
+  - Hand Management
+  - Area Control
+  - Set Collection
+  - Engine Building
+  - Bluffing
+  - Sci-Fi
+  - Space
+  - Euro
+  - Ameritrash
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 6]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Paul Dennen
+publisher:
+  - Dire Wolf Digital
+artist:
+  - Clay Brooks
+  - Derek Herring
+  - Raul Ramos
+  - Nate Storm
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Dune: Imperium Uprising is a standalone sequel that deepens and intensifies the original's fusion of deck-building and worker placement mechanics. Set in Frank Herbert's Dune universe, this version introduces a spy system that breaks traditional worker placement restrictions, allowing players to place spies on board locations and later recall them to revisit already-occupied spaces. The game also adds sandworms as recruitable assets that boost combat power and conflict rewards, contract tiles for resource expansion, and objective cards that reward players for winning specific conflicts. With nine playable leaders of varying complexity, Uprising shifts the gameplay toward more explosive, combat-focused strategies while maintaining the political intrigue and faction management of its predecessor. The increased emphasis on deck building—with more frequent card drawing and trashing—creates a higher skill floor that rewards experienced players. Uprising is fully compatible with all previous Dune: Imperium expansions including Rise of Ix and Immortality, and features a unique six-player team mode where groups of three compete against each other. The game maintains high production values with plastic and wooden sandworm components, stunning artwork that captures the aesthetic of the Dune universe, and clean design that prioritizes gameplay clarity over excess.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
