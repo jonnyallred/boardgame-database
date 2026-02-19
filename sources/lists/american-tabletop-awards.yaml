@@ -1,0 +1,115 @@
+source: "American Tabletop Awards - Winners"
+url: "https://americantabletopawards.com/"
+fetched: 2026-02-18
+games:
+  - id: captain-flip
+    name: "Captain Flip"
+    year: 2024
+
+  - id: the-gang
+    name: "The Gang"
+    year: 2024
+
+  - id: lets-go-to-japan
+    name: "Let's Go! To Japan"
+    year: 2024
+
+  - id: fromage
+    name: "Fromage"
+    year: 2024
+
+  - id: blob-party
+    name: "Blob Party"
+    year: 2023
+
+  - id: sea-salt-and-paper
+    name: "Sea Salt & Paper"
+    year: 2022
+
+  - id: thunder-road-vendetta
+    name: "Thunder Road: Vendetta"
+    year: 2023
+
+  - id: the-white-castle
+    name: "The White Castle"
+    year: 2023
+
+  - id: boop
+    name: "boop."
+    year: 2022
+
+  - id: turing-machine
+    name: "Turing Machine"
+    year: 2022
+
+  - id: planet-unknown
+    name: "Planet Unknown"
+    year: 2022
+
+  - id: carnegie
+    name: "Carnegie"
+    year: 2022
+
+  - id: happy-city
+    name: "Happy City"
+    year: 2021
+
+  - id: cubitos
+    name: "Cubitos"
+    year: 2021
+
+  - id: cascadia
+    name: "Cascadia"
+    year: 2021
+
+  - id: lost-ruins-of-arnak
+    name: "Lost Ruins of Arnak"
+    year: 2020
+
+  - id: abandon-all-artichokes
+    name: "Abandon All Artichokes"
+    year: 2020
+
+  - id: the-crew-quest-for-planet-nine
+    name: "The Crew: The Quest for Planet Nine"
+    year: 2019
+
+  - id: calico
+    name: "Calico"
+    year: 2020
+
+  - id: dominations-road-to-civilization
+    name: "Dominations: Road to Civilization"
+    year: 2019
+
+  - id: draftosaurus
+    name: "Draftosaurus"
+    year: 2019
+
+  - id: shipshape
+    name: "ShipShape"
+    year: 2019
+
+  - id: wingspan
+    name: "Wingspan"
+    year: 2019
+
+  - id: the-taverns-of-tiefenthal
+    name: "The Taverns of Tiefenthal"
+    year: 2019
+
+  - id: catch-the-moon
+    name: "Catch the Moon"
+    year: 2017
+
+  - id: the-quacks-of-quedlinburg
+    name: "The Quacks of Quedlinburg"
+    year: 2018
+
+  - id: chronicles-of-crime
+    name: "Chronicles of Crime"
+    year: 2018
+
+  - id: root
+    name: "Root"
+    year: 2018

@@ -1,0 +1,49 @@
+source: "Board Game of the Year - 2025 Aggregated Rankings"
+url: "https://boardgameoftheyear.org/2025/rankings"
+fetched: 2026-02-18
+games:
+  - id: galactic-cruise
+    name: "Galactic Cruise"
+    year: 2025
+  - id: the-lord-of-the-rings-fate-of-the-fellowship
+    name: "The Lord of the Rings: Fate of the Fellowship"
+    year: 2025
+  - id: vantage
+    name: "Vantage"
+    year: 2025
+  - id: hot-streak
+    name: "Hot Streak"
+    year: 2025
+  - id: the-elder-scrolls-betrayal-of-the-second-era
+    name: "The Elder Scrolls: Betrayal of the Second Era"
+    year: 2025
+  - id: moon-colony-bloodbath
+    name: "Moon Colony Bloodbath"
+    year: 2025
+  - id: arydia-the-paths-we-dare-tread
+    name: "Arydia: The Paths We Dare Tread"
+    year: 2025
+  - id: speakeasy
+    name: "Speakeasy"
+    year: 2025
+  - id: tag-team
+    name: "Tag Team"
+    year: 2025
+  - id: toy-battle
+    name: "Toy Battle"
+    year: 2025
+  - id: luthier
+    name: "Luthier"
+    year: 2025
+  - id: take-time
+    name: "Take Time"
+    year: 2025
+  - id: zenith
+    name: "Zenith"
+    year: 2025
+  - id: eternal-decks
+    name: "Eternal Decks"
+    year: 2025
+  - id: the-old-kings-crown
+    name: "The Old King's Crown"
+    year: 2025

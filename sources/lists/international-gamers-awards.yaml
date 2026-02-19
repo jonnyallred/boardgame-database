@@ -1,0 +1,175 @@
+source: "International Gamers Awards - Winners"
+url: "https://www.internationalgamersawards.net/winners"
+fetched: 2026-02-18
+games:
+  - id: tikal
+    name: "Tikal"
+    year: 1999
+  - id: lost-cities
+    name: "Lost Cities"
+    year: 1999
+  - id: the-princes-of-florence
+    name: "The Princes of Florence"
+    year: 2000
+  - id: battle-cry
+    name: "Battle Cry"
+    year: 2000
+  - id: san-marco
+    name: "San Marco"
+    year: 2001
+  - id: dvonn
+    name: "Dvonn"
+    year: 2001
+  - id: puerto-rico
+    name: "Puerto Rico"
+    year: 2002
+  - id: age-of-steam
+    name: "Age of Steam"
+    year: 2002
+  - id: lord-of-the-rings-the-confrontation
+    name: "Lord of the Rings - The Confrontation"
+    year: 2002
+  - id: saint-petersburg
+    name: "Saint Petersburg"
+    year: 2004
+  - id: memoir-44
+    name: "Memoir '44"
+    year: 2004
+  - id: ticket-to-ride-europe
+    name: "Ticket to Ride Europe"
+    year: 2005
+  - id: war-of-the-ring
+    name: "War of the Ring"
+    year: 2004
+  - id: caylus
+    name: "Caylus"
+    year: 2005
+  - id: twilight-struggle
+    name: "Twilight Struggle"
+    year: 2005
+  - id: through-the-ages
+    name: "Through the Ages"
+    year: 2006
+  - id: mr-jack
+    name: "Mr. Jack"
+    year: 2006
+  - id: agricola
+    name: "Agricola"
+    year: 2007
+  - id: 1960-the-making-of-the-president
+    name: "1960: The Making of the President"
+    year: 2007
+  - id: le-havre
+    name: "Le Havre"
+    year: 2008
+  - id: day-and-night
+    name: "Day & Night"
+    year: 2008
+  - id: age-of-industry
+    name: "Age of Industry"
+    year: 2010
+  - id: campaign-manager-2008
+    name: "Campaign Manager 2008"
+    year: 2009
+  - id: 7-wonders
+    name: "7 Wonders"
+    year: 2010
+  - id: a-few-acres-of-snow
+    name: "A Few Acres of Snow"
+    year: 2011
+  - id: trajan
+    name: "Trajan"
+    year: 2011
+  - id: agricola-all-creatures-big-and-small
+    name: "Agricola All Creatures Big and Small"
+    year: 2012
+  - id: terra-mystica
+    name: "Terra Mystica"
+    year: 2012
+  - id: le-havre-the-inland-port
+    name: "Le Havre: The Inland Port"
+    year: 2012
+  - id: russian-railroads
+    name: "Russian Railroads"
+    year: 2013
+  - id: limes
+    name: "Limes"
+    year: 2014
+  - id: wir-sind-das-volk
+    name: "Wir sind das Volk"
+    year: 2014
+  - id: the-voyages-of-marco-polo
+    name: "Auf den Spuren von Marco Polo"
+    year: 2015
+  - id: mombasa
+    name: "Mombasa"
+    year: 2015
+  - id: 7-wonders-duel
+    name: "7 Wonders Duel"
+    year: 2015
+  - id: great-western-trail
+    name: "Great Western Trail"
+    year: 2016
+  - id: arkham-horror-the-card-game
+    name: "Arkham Horror: The Card Game"
+    year: 2016
+  - id: rajas-of-the-ganges
+    name: "Rajas of the Ganges"
+    year: 2017
+  - id: codenames-duet
+    name: "Codenames Duet"
+    year: 2017
+  - id: root
+    name: "Root"
+    year: 2018
+  - id: lincoln
+    name: "Lincoln"
+    year: 2018
+  - id: barrage
+    name: "Barrage"
+    year: 2019
+  - id: lost-ruins-of-arnak
+    name: "Lost Ruins of Arnak"
+    year: 2020
+  - id: my-city
+    name: "My City"
+    year: 2020
+  - id: under-falling-skies
+    name: "Under Falling Skies"
+    year: 2020
+  - id: carnegie
+    name: "Carnegie"
+    year: 2022
+  - id: ark-nova
+    name: "Ark Nova"
+    year: 2021
+  - id: cascadia
+    name: "Cascadia"
+    year: 2021
+  - id: revive
+    name: "Revive"
+    year: 2022
+  - id: oranienburger-kanal
+    name: "Oranienburger Kanal"
+    year: 2023
+  - id: earth
+    name: "Earth"
+    year: 2023
+  - id: nucleum
+    name: "Nucleum"
+    year: 2023
+  - id: sky-team
+    name: "Sky Team"
+    year: 2023
+  - id: imperium-horizons
+    name: "Imperium: Horizons"
+    year: 2024
+  - id: seti-search-for-extraterrestrial-intelligence
+    name: "SETI: Search for Extraterrestrial Intelligence"
+    year: 2024
+  - id: the-lord-of-the-rings-duel-for-middle-earth
+    name: "The Lord of the Rings: Duel for Middle-Earth"
+    year: 2024
+  - id: star-trek-captains-chair
+    name: "Star Trek: Captain's Chair"
+    year: 2025

@@ -3803,3 +3803,371 @@ entries:
     game_id: andromedas-edge
     url: "https://beastiegeeks.com/2024/10/01/andromedas-edge-review/"
     description: "Beastie Geeks review covering faction asymmetry, engine building, combat mechanics, and solo mode via Escalation expansion"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: barcelona
+    url: "https://boardanddice.com/product/barcelona/"
+    description: "Publisher product page with designer, artist, player count, playtime, mechanics, and game description"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: barcelona
+    url: "https://gamingtrend.com/reviews/barcelona-review-an-admirable-city-a-city-full-of-life-intense-a-port-open-to-the-past-and-future/"
+    description: "GamingTrend review with complexity assessment, solo mode details, and player count analysis"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: barcelona
+    url: "https://opinionatedgamers.com/2023/09/28/dale-yu-first-impressions-of-barcelona/"
+    description: "Opinionated Gamers first impressions with mechanics breakdown, best player count recommendations, and Essen 2023 coverage"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: barcelona
+    url: "https://www.meeplemountain.com/reviews/barcelona/"
+    description: "Meeple Mountain review with strategic depth, historical context, and rating"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cacao
+    url: "https://boardgamewikia.com/cacao/"
+    description: "Board Game Wikia entry with designer, artist, publishers, player count (2-4), playtime (45 min), age (8+), and mechanics overview"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cacao
+    url: "https://opinionatedgamers.com/2015/06/02/dale-yu-review-of-cacao/"
+    description: "Opinionated Gamers review with gameplay mechanics detail, player count, scoring methods, and designer confirmation (Phil Walker-Harding)"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cacao
+    url: "https://www.amazon.com/Z-Man-Games-ZM7580-Cacao/dp/B00W0J3Y1G"
+    description: "Amazon listing confirming Z-Man Games as publisher and basic game specifications"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cacao
+    url: "https://abacusspiele.de/produkt/cacao-1-erweiterung-chocolatl/"
+    description: "ABACUSSPIELE product page for Chocolatl expansion, confirming original publisher and expansion modules"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cacao
+    url: "https://www.gamenerdz.com/cacao-chocolatl-expansion"
+    description: "Gamenerdz retailer page for Chocolatl expansion with module descriptions"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cash-n-guns-second-edition
+    url: "https://shop.asmodee.com/repos-production/cash-n-guns/cash-n-guns-2nd-edition-cg02"
+    description: "Asmodee product page with player count, playtime, age, and publisher details"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cash-n-guns-second-edition
+    url: "https://www.amazon.com/Asmodee-Cash-N-Guns-2nd/dp/B00KU10OUU"
+    description: "Amazon listing confirming specs: 4-8 players, 30 min, age 10+, Repos Production"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cash-n-guns-second-edition
+    url: "https://www.ultraboardgames.com/cash-and-guns/index.php"
+    description: "UltraBoardGames fan site with designer, mechanics, player counts, and game overview"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cash-n-guns-second-edition
+    url: "https://cdn.1j1ju.com/medias/ac/4f/42-ca-h-n-guns-second-edition-rulebook.pdf"
+    description: "Official Second Edition rulebook confirming game flow, mechanics, and turn structure"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: blood-rage
+    url: "https://en.wikipedia.org/wiki/Blood_Rage_(board_game)"
+    description: "Wikipedia article with designer, publisher, year, mechanics, player count, playtime, min age, and awards information"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: blood-rage
+    url: "https://www.amazon.com/CMON-BLR001CMON-Blood-Rage/dp/B013TK5DFO"
+    description: "Amazon listing confirming player count (2-4), playtime (60-90 min), min age (14+), and publisher (CMON)"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: blood-rage
+    url: "https://collections.vam.ac.uk/item/O1655858/blood-rage-board-game-lang-eric-m/"
+    description: "V&A museum collection entry listing creative team: Adrian Smith, Mike McVey, Thierry Masson, Henning Ludvigsen, Eric M. Lang"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: blood-rage
+    url: "https://adrian-smith.artstation.com/albums/1298269"
+    description: "Adrian Smith's ArtStation portfolio confirming his role as concept artist and illustrator for Blood Rage"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: blood-rage
+    url: "https://www.shutupandsitdown.com/review-blood-rage/"
+    description: "Shut Up & Sit Down review covering strategic depth, best player counts, and gameplay assessment"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: blood-rage
+    url: "https://www.ultraboardgames.com/blood-rage/game-rules.php"
+    description: "Rules overview confirming core mechanics: card drafting, area control, hand management, rage resource system"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: bohnanza
+    url: "https://en.wikipedia.org/wiki/Bohnanza"
+    description: "Wikipedia article with designer, publisher, mechanics, player count, playtime, and expansions list"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: bohnanza
+    url: "https://www.riograndegames.com/games/bohnanza/"
+    description: "Rio Grande Games publisher page with player count (2-7), playtime (30-60 min), stock number, and key mechanics"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: bohnanza
+    url: "https://bumblingthroughdungeons.com/bohnanza-board-game-review/"
+    description: "Review with gameplay mechanics detail: hand order rule, trading phases, and social dynamics"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: bohnanza
+    url: "https://www.meeplemountain.com/boardgame/bohnanza/"
+    description: "Meeple Mountain game entry with age rating (12+), publishers, and category tags"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: carnegie
+    url: "https://www.quined.nl/carnegie/"
+    description: "Quined Games product page with designer (Xavier Georges), artist (Ian O'Toole), player count (1-4), playtime (90 min), and theme overview"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: carnegie
+    url: "https://everythingboardgames.com/2023/09/carnegie-review.html"
+    description: "EverythingBoardGames review covering core mechanics including follow action system, department tracks, and worker placement"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: carnegie
+    url: "https://www.meeplemountain.com/reviews/carnegie/"
+    description: "Meeple Mountain review with player count recommendations, playtime (90-120 min), age (12+), and gameplay analysis"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: carnegie
+    url: "https://talkingshelfspace.com/review-carnegie/"
+    description: "Talking Shelf Space first impressions covering Euro mechanics, strategic depth, and component quality"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: carnegie
+    url: "https://boardgameguys.com/carnegie/"
+    description: "Board Game Guys product entry with player count, playtime, mechanics list, and publisher info (Quined Games, Pegasus Spiele)"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cat-in-the-box-deluxe-edition
+    url: "https://beziergames.com/products/cat-in-the-box-deluxe-edition"
+    description: "Publisher product page confirming player count, price, and game overview"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cat-in-the-box-deluxe-edition
+    url: "https://www.dicetower.com/board-game/345972"
+    description: "Dice Tower game page with designer, publisher, player count, playtime, and min age"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cat-in-the-box-deluxe-edition
+    url: "https://opinionatedgamers.com/2022/10/03/cat-in-the-box-deluxe-edition/"
+    description: "Opinionated Gamers overview with mechanics, deluxe edition changes, and critical reception"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: civolution
+    url: "https://ipa-gameshop.com/en/expert-games/1900-civolution.html"
+    description: "Retailer product page with publisher (Deep Print Games), designer, artist (Dennis Lohausen), player count, playtime, and min age"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: civolution
+    url: "https://www.miniaturemarket.com/civolution-peg57822.html"
+    description: "Miniature Market listing with playtime range (90-180 min), player count, mechanics, and game description"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: civolution
+    url: "https://punchboard.co.uk/civolution-review/"
+    description: "Punchboard review covering dice placement mechanics, sandbox gameplay, resource management, and strategic depth"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: civolution
+    url: "https://www.meeplemountain.com/reviews/civolution/"
+    description: "Meeple Mountain review confirming Stefan Feld designer, civilization theme, and heavy euro classification"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: civolution
+    url: "https://theboardgamesite.com/civolution-review/"
+    description: "The Board Game Site review with mechanics list, playtime (2-3 hours), and gameplay description"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cat-in-the-box-deluxe-edition
+    url: "https://opinionatedgamers.com/2023/03/03/cat-in-the-box-deluxe-edition-game-review-by-chris-wray/"
+    description: "Chris Wray review with designer, playtime (20-40 min), min age (13+), and mechanics detail"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cat-in-the-box-deluxe-edition
+    url: "https://www.gamenerdz.com/cat-in-the-box-deluxe-edition"
+    description: "Gamenerdz retailer page confirming designer Muneyuki Yokouchi, artist Osamu Inoue, and specs"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: century-spice-road
+    url: "https://en.wikipedia.org/wiki/Century:_Spice_Road"
+    description: "Wikipedia article with designer (Emerson Matsuuchi), publisher (Plan B Games), player count (2-5), playtime (30-45 min), age (8+), and Century series overview"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: century-spice-road
+    url: "https://www.bigredbarrel.com/2017/06/21/review-century-spice-road/"
+    description: "Big Red Barrel review confirming artist (Fernanda Suárez), mechanics (engine building, card drafting, resource management), and game description"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: century-spice-road
+    url: "https://www.amazon.com/Exploration-Plan-Games-Multi-Colored-40000ENPBG/dp/B071DXCT5L"
+    description: "Amazon listing confirming player count (2-5), playtime (30-45 min), age (8+), and Plan B Games as publisher"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: century-spice-road
+    url: "https://opinionatedgamers.com/2017/04/24/century-spice-road-game-review-by-chris-wray/"
+    description: "Opinionated Gamers review with gameplay mechanics, player count recommendations, and Century series context"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: concordia-venus
+    url: "https://www.pd-verlag.de/Concordia-Venus/en"
+    description: "Publisher product page with player count, playtime, age, maps, component details, and standalone vs expansion status"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: concordia-venus
+    url: "https://theglassmeeple.com/concordia-venus/"
+    description: "Review detailing team play mechanics, best player counts, new personality cards, and compatibility with base Concordia"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: concordia-venus
+    url: "https://www.riograndegames.com/games/concordia-with-venus-expansion/"
+    description: "Rio Grande Games product page confirming publisher, designer Mac Gerdts, and game overview"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: concordia-venus
+    url: "https://boardgamewikia.com/concordia-venus/"
+    description: "Board Game Wikia entry with mechanics list, player count, and general game information"
+  - timestamp: "2026-02-18T12:00:00Z"
+    game_id: clank-catacombs
+    url: "https://www.direwolfdigital.com/clank-catacombs/"
+    description: "Official publisher product page confirming standalone status, player count, components, and publisher as Dire Wolf Digital"
+  - timestamp: "2026-02-18T12:00:00Z"
+    game_id: clank-catacombs
+    url: "https://news.direwolfdigital.com/clank-publishing-update/"
+    description: "Dire Wolf Digital publishing update confirming transfer of Clank! publishing from Renegade Game Studios to Dire Wolf Digital in 2022"
+  - timestamp: "2026-02-18T12:00:00Z"
+    game_id: clank-catacombs
+    url: "https://www.gamenerdz.com/clank-catacombs"
+    description: "Retailer page with designer (Paul Dennen), artists (Clay Brooks, Anika Burrell, Nate Storm, Dan Taylor), player count, playtime, and min age"
+  - timestamp: "2026-02-18T12:00:00Z"
+    game_id: clank-catacombs
+    url: "https://www.meeplemountain.com/reviews/clank-catacombs/"
+    description: "Meeple Mountain review providing gameplay overview, mechanics, and standalone status confirmation"
+  - timestamp: "2026-02-18T12:00:00Z"
+    game_id: clank-catacombs
+    url: "https://boardgameguys.com/clank-catacombs/"
+    description: "Board Game Guys overview with player count, playtime, min age, mechanics, and game family information"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: champions-of-midgard
+    url: "https://greyfoxgames.com/products/champions-of-midgard"
+    description: "Publisher product page with game overview, mechanics, and expansion details"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: champions-of-midgard
+    url: "https://www.gamenerdz.com/champions-of-midgard"
+    description: "Retailer listing with designer, artists (Victor Perez Corbella, Jose David Lanza Cebrian), player count (2-4), playtime (60-90 min), min age (10+), and mechanics"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: champions-of-midgard
+    url: "https://therewillbe.games/articles-boardgame-reviews/6868-champions-of-midgard-in-review"
+    description: "Review covering gameplay loop, worker placement mechanics, combat system, and best player count recommendations"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: champions-of-midgard
+    url: "https://therewillbe.games/articles-boardgame-reviews/6488-champions-of-midgard-the-dark-mountains-expansion-review"
+    description: "Expansion review detailing The Dark Mountains content, 5-player support, and Valhalla expansion overview"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: clank-a-deck-building-adventure
+    url: "https://www.direwolfdigital.com/clank/"
+    description: "Publisher product page with game overview, contents, mechanics, and expansions list"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: clank-a-deck-building-adventure
+    url: "https://www.meeplemountain.com/boardgame/clank-a-deck-building-adventure/"
+    description: "Meeple Mountain game listing with designer, artists, player count, playtime, age, and mechanics details"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: clank-a-deck-building-adventure
+    url: "https://www.boardgamebliss.com/products/clank"
+    description: "Retailer page with product specifications including player count and playtime"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: clank-a-deck-building-adventure
+    url: "https://makecraftgame.com/2024/03/29/clank/"
+    description: "Game overview page with mechanics, theme, and gameplay description"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: clank-a-deck-building-adventure
+    url: "https://renegadegamestudios.com/clank/"
+    description: "Renegade Game Studios brand page for Clank! product line"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: catan-junior
+    url: "https://www.catan.com/junior"
+    description: "Official CATAN product page confirming player count (2-4), playtime (30-40 min), and minimum age (6+)"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: catan-junior
+    url: "https://opinionatedgamers.com/2012/08/03/review-of-catan-junior/"
+    description: "Opinionated Gamers review with designer credits, publisher (Mayfair), mechanics description, and target audience"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: catan-junior
+    url: "https://www.ultraboardgames.com/catan/junior.php"
+    description: "UltraBoardGames page confirming 2007 publication year, Catan Studios publisher, and mechanics overview"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: catan-junior
+    url: "https://www.amazon.com/Civilization-Building-Strategy-Adventure-CATAN/dp/B007N0KZ64"
+    description: "Amazon listing confirming 2-4 players, 30-minute playtime, ages 6+, and designer Klaus Teuber"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: catan-junior
+    url: "https://birdseyemeeple.com/catan-junior-game-review/"
+    description: "Bird's Eye Meeple review with artist (Patricia Raubo) credits and gameplay mechanics details"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: corps-of-discovery
+    url: "https://offthepagegames.com/corpsofdiscovery/"
+    description: "Publisher landing page for Corps of Discovery confirming Off the Page Games as publisher and cooperative deduction mechanics"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: corps-of-discovery
+    url: "https://shop.offthepagegames.com/products/corps-of-discovery-a-game-set-in-the-world-of-manifest-destiny"
+    description: "Publisher store page confirming designers (Sen-Foong Lim and Jay Cormier), player count (1-4), and edition details"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: corps-of-discovery
+    url: "https://www.meeplemountain.com/reviews/corps-of-discovery/"
+    description: "Meeple Mountain review with player count (1-4), playtime (45-75 min), age (14+), and mechanics overview"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: corps-of-discovery
+    url: "https://opinionatedgamers.com/2025/06/26/dale-yu-review-of-corps-of-discovery/"
+    description: "Opinionated Gamers review by Dale Yu confirming mechanics, playtime, player count, and complexity assessment"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: corps-of-discovery
+    url: "https://www.geeksundergrace.com/tabletop/review-corps-of-discovery-a-game-set-in-the-world-of-manifest-destiny/"
+    description: "Geeks Under Grace review confirming artist Matthew Roberts, publisher, year 2025, and high complexity rating"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: corps-of-discovery
+    url: "https://comicbook.com/gaming/news/corps-of-discovery-board-game-based-on-manifest-destiny-comic-announced/"
+    description: "ComicBook.com announcement article confirming Manifest Destiny comic license, Kickstarter details, and designer background"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cthulhu-death-may-die
+    url: "https://www.cmon.com/product-line/cthulhu-death-may-die/"
+    description: "CMON publisher product line page listing all Cthulhu: Death May Die products and expansions"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cthulhu-death-may-die
+    url: "https://coopboardgames.com/cooperative-board-game-reviews/cthulhu-death-may-die-review/"
+    description: "Cooperative board games review with designer credits, player count, playtime, mechanics, and gameplay description"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cthulhu-death-may-die
+    url: "https://www.meeplemountain.com/reviews/cthulhu-death-may-die/"
+    description: "Meeple Mountain review confirming sanity mechanic, action economy, episode structure, and best player counts"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cthulhu-death-may-die
+    url: "https://www.amazon.com/Cthulu-Expansion-Mystery-Cooperative-Playtime/dp/B07Z7D443R"
+    description: "Amazon listing for Season 2 expansion confirming base game player count (1-5), playtime (90-120 min), and age rating"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cosmic-encounter
+    url: "https://www.amazon.com/Fantasy-Flight-Games-Cosmic-Encounter/dp/1589944968"
+    description: "Amazon listing confirming player count (3-5), playtime (1-2 hours), min age (14+), designers, and publisher"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cosmic-encounter
+    url: "https://en.wikipedia.org/wiki/Cosmic_Encounter"
+    description: "Wikipedia article covering game history, editions, mechanics, designers, and alien power system"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cosmic-encounter
+    url: "https://www.fantasyflightgames.com/en/products/cosmic-encounter/"
+    description: "Publisher product page for game overview and official description"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cosmic-encounter
+    url: "https://futurepastimes.com/cosmic-encounter-board-game"
+    description: "Future Pastimes review with mechanics, player count, playtime, and gameplay details"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: cosmic-encounter
+    url: "https://www.meeplemountain.com/reviews/cosmic-encounter/"
+    description: "Meeple Mountain review covering designers, mechanics, and game overview"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: dead-of-winter
+    url: "https://en.wikipedia.org/wiki/Dead_of_Winter:_A_Cross_Roads_Game"
+    description: "Wikipedia article covering designers, publisher, mechanics, expansions, and awards"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: dead-of-winter
+    url: "https://www.miniaturemarket.com/plddow01.html"
+    description: "Miniature Market product page with player count, playtime, min age, and game description"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: dead-of-winter
+    url: "https://www.blackgate.com/2014/10/29/game-review-dead-of-winter-plaid-hat-games/"
+    description: "Black Gate review with mechanics overview and gameplay description"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: dead-of-winter
+    url: "https://www.boardgamebliss.com/products/dead-of-winter-a-crossroads-game"
+    description: "Board Game Bliss listing with player count, playtime, artist credits, and expansion details"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: deception-murder-in-hong-kong
+    url: "https://greyfoxgames.com/products/deception-murder-in-hong-kong"
+    description: "Publisher product page with player count, playtime, components, and game overview"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: deception-murder-in-hong-kong
+    url: "https://www.shutupandsitdown.com/review-deception-murder-in-hong-kong/"
+    description: "Shut Up & Sit Down review with detailed mechanics, roles, and gameplay description"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: deception-murder-in-hong-kong
+    url: "https://www.meeplelikeus.co.uk/deception-murder-in-hong-kong-2014/"
+    description: "Meeple Like Us review with designer, player count, and mechanics analysis"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: deception-murder-in-hong-kong
+    url: "https://boardgameguys.com/deception-murder-in-hong-kong/"
+    description: "Board Game Guys listing with alternate names, artist credits, and original publisher details"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: darwins-journey
+    url: "https://thundergryph.com/product/darwins-journey/"
+    description: "Publisher product page confirming designers, artist (Paolo Voto), player count (1-4), playtime (30 min/player), min age (14+), year (2023), and core mechanics"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: darwins-journey
+    url: "https://www.meeplemountain.com/boardgame/darwins-journey/"
+    description: "Meeple Mountain game details page confirming designers, publishers, playtime (60-120 min), mechanics list, and thematic description"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: darwins-journey
+    url: "https://en.boardgamearena.com/gamepanel?game=darwinsjourney"
+    description: "Board Game Arena game panel confirming player count, recommended player count (2-4), mechanics, and designer credits"
+  - timestamp: "2026-02-18T00:00:00Z"
+    game_id: darwins-journey
+    url: "https://www.gamenerdz.com/darwins-journey"
+    description: "Game Nerdz retailer listing confirming player count (1-4), playtime (60-120 min), min age (14+), and game description"

@@ -1,0 +1,177 @@
+source: "Origins Awards - Board Game Winners"
+url: "https://www.originsawards.net/origins-award-winners"
+fetched: 2026-02-18
+games:
+  # 2009 Origins Awards ceremony (for 2008-release games)
+  - id: pandemic
+    name: "Pandemic"
+    year: 2008
+
+  # 2010 Origins Awards ceremony (for 2009-release games)
+  - id: are-you-the-traitor
+    name: "Are You the Traitor?"
+    year: 2007
+
+  # 2011 Origins Awards ceremony (for 2010-release games)
+  - id: castle-ravenloft
+    name: "Dungeons & Dragons: Castle Ravenloft Board Game"
+    year: 2010
+
+  - id: catan-histories-settlers-of-america
+    name: "Catan Histories: Settlers of America – Trails to Rails"
+    year: 2010
+
+  - id: zombie-dice
+    name: "Zombie Dice"
+    year: 2010
+
+  # 2013 Origins Awards ceremony (for 2012-release games)
+  - id: lords-of-waterdeep
+    name: "Lords of Waterdeep"
+    year: 2012
+
+  # 2014 Origins Awards ceremony (for 2013-release games)
+  - id: trains
+    name: "Trains"
+    year: 2013
+
+  - id: 1775-rebellion
+    name: "1775: Rebellion"
+    year: 2013
+
+  # 2015 Origins Awards ceremony (for 2014-release games)
+  - id: sheriff-of-nottingham
+    name: "Sheriff of Nottingham"
+    year: 2014
+
+  # 2016 Origins Awards ceremony (for 2015-release games)
+  - id: star-wars-imperial-assault
+    name: "Star Wars: Imperial Assault"
+    year: 2014
+
+  - id: codenames
+    name: "Codenames"
+    year: 2015
+
+  # 2017 Origins Awards ceremony (for 2016-release games)
+  - id: scythe
+    name: "Scythe"
+    year: 2016
+
+  - id: happy-salmon
+    name: "Happy Salmon"
+    year: 2016
+
+  # 2018 Origins Awards ceremony (for 2017-release games)
+  - id: gloomhaven
+    name: "Gloomhaven"
+    year: 2017
+
+  - id: azul
+    name: "Azul"
+    year: 2017
+
+  # 2019 Origins Awards ceremony (for 2018-release games)
+  - id: root
+    name: "Root"
+    year: 2018
+
+  - id: tea-dragon-society-card-game
+    name: "The Tea Dragon Society Card Game"
+    year: 2018
+
+  # 2020 Origins Awards ceremony (for 2019-release games)
+  - id: tiny-towns
+    name: "Tiny Towns"
+    year: 2019
+
+  - id: the-quacks-of-quedlinburg
+    name: "The Quacks of Quedlinburg"
+    year: 2018
+
+  - id: pandemic-fall-of-rome
+    name: "Pandemic: Fall of Rome"
+    year: 2018
+
+  # 2023 Origins Awards ceremony (for 2022-release games)
+  - id: boop
+    name: "boop."
+    year: 2022
+
+  - id: flamecraft
+    name: "Flamecraft"
+    year: 2022
+
+  - id: creature-comforts
+    name: "Creature Comforts"
+    year: 2022
+
+  - id: planet-unknown
+    name: "Planet Unknown"
+    year: 2022
+
+  - id: dead-reckoning
+    name: "Dead Reckoning"
+    year: 2022
+
+  - id: honk
+    name: "HONK!"
+    year: 2022
+
+  # 2024 Origins Awards ceremony (for 2022/2023-release games)
+  - id: sky-team
+    name: "Sky Team"
+    year: 2023
+
+  - id: wandering-towers
+    name: "Wandering Towers"
+    year: 2022
+
+  - id: leaf
+    name: "Leaf"
+    year: 2023
+
+  - id: freelancers-a-crossroads-game
+    name: "Freelancers: A Crossroads Game"
+    year: 2023
+
+  - id: dune-imperium-uprising
+    name: "Dune: Imperium – Uprising"
+    year: 2023
+
+  - id: smug-owls
+    name: "Smug Owls"
+    year: 2023
+
+  - id: legacy-of-yu
+    name: "Legacy of Yu"
+    year: 2022
+
+  - id: diced-veggies
+    name: "Diced Veggies"
+    year: 2023
+
+  - id: distilled
+    name: "Distilled"
+    year: 2023
+
+  # 2025 Origins Awards ceremony (for 2024-release games)
+  - id: marvel-united-multiverse
+    name: "Marvel United: Multiverse"
+    year: 2024
+
+  - id: seaside
+    name: "Seaside"
+    year: 2024
+
+  - id: flip-7
+    name: "Flip 7"
+    year: 2024
+
+  - id: endeavor-deep-sea
+    name: "Endeavor: Deep Sea"
+    year: 2024
+
+  - id: fromage
+    name: "Fromage"
+    year: 2024
