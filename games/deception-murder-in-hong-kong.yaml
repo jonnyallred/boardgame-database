@@ -1,0 +1,67 @@
+id: deception-murder-in-hong-kong
+name: "Deception: Murder in Hong Kong"
+alternate_names:
+  - "CS-Files"
+  - "犯罪現場"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 2  # Party
+
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Social Deduction
+  - Deduction
+  - Bluffing
+  - Traitor
+  - 1 vs Many
+  - Party
+  - Mystery
+
+# Player counts
+possible_counts: [4, 5, 6, 7, 8, 9, 10, 11, 12]
+true_counts: [6, 7, 8]
+
+# Metadata
+designer:
+  - Tobey Ho
+publisher:
+  - Grey Fox Games
+  - Jolly Thinkers
+artist:
+  - Marcin Adamski
+  - Ben Carre
+  - Tommy Ng
+  - Ari Wong
+playtime_minutes: 20
+min_playtime: 20
+max_playtime: 30
+min_age: 14
+
+# Description
+description: |
+  Deception: Murder in Hong Kong is a social deduction game in which players take on secret roles — the murderer, the forensic scientist, and investigators — in a tense murder mystery scenario. One player is secretly the murderer, who has chosen a weapon and key evidence; another player is the forensic scientist who knows the solution but can only communicate by placing plastic bullet markers on clue tiles. Investigators must interpret these abstract clues to identify both the murder weapon and the incriminating evidence, while the murderer (and optional accomplice) tries to mislead the discussion. Each player gets only one chance to officially accuse, making each declaration a high-stakes gamble. The game creates remarkable tension as players debate, theorize, and try to read hidden intentions across a single 20-minute round.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

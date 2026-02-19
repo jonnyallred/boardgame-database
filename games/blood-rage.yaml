@@ -1,0 +1,70 @@
+id: blood-rage
+name: "Blood Rage"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Area Control
+  - Hand Management
+  - Drafting
+  - Modular Board
+  - Variable Setup
+  - Take That
+  - Ameritrash
+  - Dudes on a Map
+  - Fantasy
+  - Mythology
+  - War
+  - Eric Lang
+  - CMON
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Eric M. Lang
+publisher:
+  - CMON Limited
+artist:
+  - Adrian Smith
+  - Henning Ludvigsen
+  - Mike McVey
+  - Thierry Masson
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Blood Rage is a Viking clan battle game set during Ragnarok, where players compete to earn the most glory before the world ends. Each of the game's three ages begins with a card draft, where players select from a hand of cards that grant new abilities, stat upgrades, monster recruits, and quest objectives, then pass the remainder to the next player. On their turns, players spend Rage (a finite action resource) to invade provinces, pillage villages, and clash with rival clans in direct battle resolved by playing combat cards. Crucially, dying in battle is not always bad — warriors who fall in combat may earn Valhalla glory — so players build strategies around whether to fight to win, fight to die gloriously, or avoid conflict entirely. The combination of drafting and area control creates highly interactive, asymmetric gameplay with beautiful high-quality miniatures that make it a standout production.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

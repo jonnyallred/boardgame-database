@@ -1,0 +1,65 @@
+id: clank-catacombs
+name: "Clank!: Catacombs"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: clank
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Tile Placement
+  - Press Your Luck
+  - Modular Board
+  - Variable Setup
+  - Bag Building
+  - Fantasy
+  - Dungeon Crawler
+  - Renegade Game Studios
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Paul Dennen
+publisher:
+  - Dire Wolf Digital
+artist:
+  - Clay Brooks
+  - Anika Burrell
+  - Nate Storm
+  - Dan Taylor
+playtime_minutes: 75
+min_playtime: 45
+max_playtime: 90
+min_age: 13
+
+# Description
+description: |
+  Clank!: Catacombs is a standalone deck-building adventure set in the ever-shifting catacombs of the skeletal dragon Umbrok Vessna. Rather than a static board, the dungeon map is constructed dynamically as players explore, with tiles drawn and laid in any orientation, ensuring every session creates a unique labyrinth of tunnels, portals, and wayshrines. Players improve their decks by purchasing cards from the Dungeon Row, gaining Skill, Swords, and movement while managing their Clank cubes—noise that fills the dragon bag and triggers increasingly lethal attacks. The goal is to descend deep enough to steal a valuable artifact and escape before the dragon's wrath (or a rival adventurer) ends your run. Fully compatible with cards from previous Clank! expansions, Catacombs delivers high replayability through its procedurally-generated dungeon and a rich deck of over 180 cards.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

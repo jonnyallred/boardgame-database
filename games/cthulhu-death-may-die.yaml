@@ -1,0 +1,69 @@
+id: cthulhu-death-may-die
+name: "Cthulhu: Death May Die"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 1  # Cooperative
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Action Points
+  - Modular Board
+  - Variable Setup
+  - Campaign Mode
+  - Narrative Heavy
+  - Ameritrash
+  - Dungeon Crawler
+  - Horror
+  - Cthulhu
+  - Mystery
+  - Eric Lang
+  - Rob Daviau
+  - CMON
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Rob Daviau
+  - Eric M. Lang
+publisher:
+  - CMON Limited
+artist:
+  - Marco Primo
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Cthulhu: Death May Die is a fully cooperative Lovecraftian horror game for 1-5 players in which a group of investigators deliberately summon an Elder God — only to fight it while it is weakest, before the ritual completes. Players choose one of several scenarios (episodes), each providing a unique map, objective, and set of monsters tied to a specific Elder God such as Cthulhu or Hastur. On each turn investigators spend three actions to move, fight cultists and monsters, pick up items, and disrupt the ritual; at the end of the round the Mythos deck spawns new threats and advances the doomsday clock. A distinctive sanity mechanic rewards investigators for going mad: reaching zero sanity unlocks powerful skill upgrades rather than eliminating a player, creating tension between embracing insanity and maintaining effectiveness. The game scales cleanly to all player counts through its Mythos deck design and offers high replayability through interchangeable Elder God, episode, and investigator combinations backed by lavish high-quality miniatures.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

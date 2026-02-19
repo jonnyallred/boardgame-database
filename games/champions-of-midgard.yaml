@@ -1,0 +1,68 @@
+id: champions-of-midgard
+name: "Champions of Midgard"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - champions-of-midgard-the-dark-mountains
+  - champions-of-midgard-valhalla
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Set Collection
+  - Resource Management
+  - Variable Setup
+  - Modular Board
+  - Euro
+  - Ameritrash
+  - Fantasy
+  - Medieval
+  - Mythology
+  - War
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Ole Steiness
+publisher:
+  - Grey Fox Games
+artist:
+  - Víctor Pérez Corbella
+  - Jose David Lanza Cebrian
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+# Description
+description: |
+  Champions of Midgard is a middleweight Viking-themed worker placement game in which players compete to become the new Jarl of a beleaguered Norse harbor town. Players place worker meeples on action spaces to gather resources—wood, food, gold, and favor—and recruit warriors in three classes (swordsmen, spearmen, and axemen) represented by custom dice. Each round, players must contend with trolls threatening the town, gaining shame tokens if no one steps up to fight, then optionally embark on sea voyages to battle draugr and monstrous creatures for glory. Combat is resolved by rolling dice pools against monster armor values, with journey cards introducing random complications like kraken encounters. After eight rounds, the player with the most glory—earned through slaying monsters, completing quests, and collecting powerful runes—is crowned the new Jarl.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

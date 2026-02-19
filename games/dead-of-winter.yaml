@@ -1,0 +1,71 @@
+id: dead-of-winter
+name: "Dead of Winter: A Crossroads Game"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: dead-of-winter
+edition: null
+base_game: null
+expansions:
+  - dead-of-winter-the-long-night
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 1  # Cooperative
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Traitor
+  - Dice Rolling
+  - Hand Management
+  - Variable Setup
+  - Modular Board
+  - Action Points
+  - Narrative Heavy
+  - Ameritrash
+  - Zombies
+  - Post-Apocalyptic
+  - Survival
+  - Horror
+  - Plaid Hat Games
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Jonathan Gilmour
+  - Isaac Vega
+publisher:
+  - Plaid Hat Games
+artist:
+  - Fernanda Suarez
+  - Peter Wocken
+  - David Richards
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Dead of Winter is a semi-cooperative survival game set in a frigid zombie apocalypse where players lead groups of survivors struggling to keep a fragile colony alive. Each player secretly pursues a personal objective alongside the shared colony goal, creating tension as players must decide whether to trust each other or suspect hidden betrayal. The game's signature Crossroads mechanic introduces story-driven decision cards read secretly by the player to the left, triggering dramatic narrative events based on actions taken during the round. Survivors must scavenge locations for supplies, fight off zombie hordes, manage morale, and address recurring crises that threaten to doom the colony. The interplay between cooperation, personal agendas, and potential traitors produces a tense psychological experience that emphasizes story and moral ambiguity over mechanical complexity.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

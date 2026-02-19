@@ -1,0 +1,65 @@
+id: carnegie
+name: "Carnegie"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Engine Building
+  - Network Building
+  - Resource Management
+  - Tech Tree
+  - Economic
+  - Route Building
+  - Euro
+  - Historical
+  - City Building
+  - Civilization
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Xavier Georges
+publisher:
+  - Quined Games
+  - Pegasus Spiele
+artist:
+  - Ian O'Toole
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Carnegie is a strategic Euro game for 1-4 players inspired by the life of Andrew Carnegie, the Scottish-American industrialist and philanthropist who built a vast steel and industrial empire across the United States. Players recruit employees into four corporate departments — Human Resources, Management, Construction, and R&D — and expand their businesses by building transport networks, producing goods, and donating to philanthropic causes to earn prestige. The game's central mechanic, reminiscent of Puerto Rico, is a "follow" action system: on each of 20 turns, the active player selects one department action and all other players must also take that action (or use limited action tokens to deviate), creating tense strategic decisions around timing and sequencing. With its interlocking department tracks, route-building across a map of the United States, and end-game scoring based on donations and completed connections, Carnegie rewards long-term planning and delivers a deeply satisfying economic engine over its fixed 20-round arc.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Master List — Board Game Database</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    /* Header */
+    header {
+      background: white;
+      border-radius: 12px;
+      padding: 24px 28px;
+      margin-bottom: 16px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 18px;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    h1 {
+      font-size: 28px;
+      color: #1f2937;
+    }
+
+    nav {
+      display: flex;
+      gap: 4px;
+    }
+
+    nav a {
+      padding: 8px 14px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      color: #6b7280;
+      transition: background 0.2s, color 0.2s;
+    }
+
+    nav a:hover {
+      background: #f3f4f6;
+      color: #374151;
+    }
+
+    nav a.active {
+      background: #2563eb;
+      color: white;
+    }
+
+    /* Progress */
+    .progress-section {
+      margin-bottom: 16px;
+    }
+
+    .progress-info {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 6px;
+      font-size: 14px;
+      color: #6b7280;
+    }
+
+    .progress-info .big {
+      font-size: 18px;
+      font-weight: 600;
+      color: #1f2937;
+    }
+
+    .progress-info .pct {
+      color: #10b981;
+      font-weight: 600;
+    }
+
+    .progress-bar {
+      height: 8px;
+      background: #e5e7eb;
+      border-radius: 4px;
+      overflow: hidden;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #10b981, #059669);
+      border-radius: 4px;
+      transition: width 0.5s ease;
+      width: 0%;
+    }
+
+    /* Controls */
+    .controls {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .search-input {
+      flex: 1;
+      min-width: 180px;
+      padding: 8px 12px;
+      border: 2px solid #e5e7eb;
+      border-radius: 8px;
+      font-size: 14px;
+      color: #374151;
+      transition: border-color 0.2s;
+    }
+
+    .search-input:focus {
+      outline: none;
+      border-color: #2563eb;
+    }
+
+    .filter-group {
+      display: flex;
+    }
+
+    .filter-btn {
+      padding: 8px 14px;
+      border: 2px solid #e5e7eb;
+      background: white;
+      cursor: pointer;
+      font-size: 13px;
+      font-weight: 500;
+      color: #6b7280;
+      transition: all 0.2s;
+    }
+
+    .filter-btn:first-child {
+      border-radius: 8px 0 0 8px;
+    }
+
+    .filter-btn:last-child {
+      border-radius: 0 8px 8px 0;
+    }
+
+    .filter-btn:not(:first-child) {
+      border-left: none;
+    }
+
+    .filter-btn.active {
+      background: #2563eb;
+      border-color: #2563eb;
+      color: white;
+      z-index: 1;
+    }
+
+    .filter-btn:hover:not(.active) {
+      background: #f9fafb;
+      color: #374151;
+    }
+
+    .sort-select {
+      padding: 8px 12px;
+      border: 2px solid #e5e7eb;
+      border-radius: 8px;
+      font-size: 13px;
+      color: #374151;
+      background: white;
+      cursor: pointer;
+    }
+
+    .sort-select:focus {
+      outline: none;
+      border-color: #2563eb;
+    }
+
+    .result-count {
+      font-size: 13px;
+      color: #9ca3af;
+      margin-top: 10px;
+    }
+
+    /* Game List */
+    .game-list {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .game-item {
+      background: white;
+      border-radius: 10px;
+      padding: 12px 16px;
+      display: flex;
+      align-items: flex-start;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+      border-left: 4px solid #d1d5db;
+      transition: box-shadow 0.15s, transform 0.15s;
+    }
+
+    .game-item:hover {
+      box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
+      transform: translateX(2px);
+    }
+
+    .game-item.researched {
+      border-left-color: #10b981;
+    }
+
+    .game-content {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .game-title-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 5px;
+    }
+
+    .game-name {
+      font-weight: 600;
+      font-size: 15px;
+      color: #1f2937;
+    }
+
+    .game-year {
+      font-size: 13px;
+      color: #9ca3af;
+    }
+
+    .nom-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      background: #dbeafe;
+      color: #1d4ed8;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 12px;
+    }
+
+    .done-badge {
+      background: #d1fae5;
+      color: #065f46;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 12px;
+    }
+
+    .sources-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+    }
+
+    .source-chip {
+      font-size: 11px;
+      padding: 2px 7px;
+      background: #f9fafb;
+      color: #6b7280;
+      border: 1px solid #e5e7eb;
+      border-radius: 4px;
+      white-space: nowrap;
+    }
+
+    /* Loading / empty states */
+    .state-message {
+      text-align: center;
+      padding: 60px 20px;
+      color: #9ca3af;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+
+    .state-message h2 {
+      color: #6b7280;
+      margin-bottom: 8px;
+    }
+
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 4px solid #e5e7eb;
+      border-top-color: #2563eb;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 16px;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    @media (max-width: 640px) {
+      header { padding: 16px 18px; }
+      h1 { font-size: 22px; }
+      .controls { gap: 6px; }
+      .search-input { min-width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="header-top">
+        <h1>🎲 Board Game Database</h1>
+        <nav>
+          <a href="/">Image Manager</a>
+          <a href="/master-list" class="active">Master List</a>
+        </nav>
+      </div>
+
+      <div class="progress-section">
+        <div class="progress-info">
+          <span>
+            <span class="big" id="researched-count">0</span>
+            <span> / </span>
+            <span class="big" id="total-count">0</span>
+            <span> games researched</span>
+          </span>
+          <span class="pct" id="pct-text">0%</span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-fill" id="progress-fill"></div>
+        </div>
+      </div>
+
+      <div class="controls">
+        <input
+          class="search-input"
+          id="search"
+          type="text"
+          placeholder="Search by name..."
+          autocomplete="off"
+        >
+        <div class="filter-group">
+          <button class="filter-btn active" data-filter="all">All</button>
+          <button class="filter-btn" data-filter="pending">Pending</button>
+          <button class="filter-btn" data-filter="done">Done</button>
+        </div>
+        <select class="sort-select" id="sort-select">
+          <option value="nominations">Most nominated</option>
+          <option value="alpha">A → Z</option>
+          <option value="year-desc">Newest first</option>
+          <option value="year-asc">Oldest first</option>
+        </select>
+      </div>
+
+      <div class="result-count" id="result-count">Loading…</div>
+    </header>
+
+    <div id="game-list" class="game-list">
+      <div class="state-message">
+        <div class="spinner"></div>
+        <p>Loading master list…</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let allGames = [];
+    let displayGames = [];
+
+    let searchQuery = '';
+    let statusFilter = 'all';
+    let sortBy = 'nominations';
+
+    const gameListEl = document.getElementById('game-list');
+    const searchEl = document.getElementById('search');
+    const sortEl = document.getElementById('sort-select');
+    const resultCountEl = document.getElementById('result-count');
+    const researchedEl = document.getElementById('researched-count');
+    const totalEl = document.getElementById('total-count');
+    const pctEl = document.getElementById('pct-text');
+    const fillEl = document.getElementById('progress-fill');
+
+    async function init() {
+      try {
+        const res = await fetch('/api/master-list');
+        if (!res.ok) throw new Error('Failed to load');
+        const data = await res.json();
+
+        allGames = data.games;
+
+        const pct = data.total > 0 ? Math.round((data.researched / data.total) * 100) : 0;
+        researchedEl.textContent = data.researched;
+        totalEl.textContent = data.total;
+        pctEl.textContent = pct + '%';
+        fillEl.style.width = pct + '%';
+
+        applyAndRender();
+      } catch (err) {
+        gameListEl.innerHTML = `
+          <div class="state-message">
+            <h2>Failed to load</h2>
+            <p>${err.message}</p>
+          </div>`;
+      }
+    }
+
+    function applyAndRender() {
+      let games = allGames.slice();
+
+      // Filter by status
+      if (statusFilter === 'done') {
+        games = games.filter(g => g.researched);
+      } else if (statusFilter === 'pending') {
+        games = games.filter(g => !g.researched);
+      }
+
+      // Filter by search
+      if (searchQuery) {
+        const q = searchQuery.toLowerCase();
+        games = games.filter(g => g.name.toLowerCase().includes(q));
+      }
+
+      // Sort
+      if (sortBy === 'nominations') {
+        games.sort((a, b) => b.source_count - a.source_count || a.name.localeCompare(b.name));
+      } else if (sortBy === 'alpha') {
+        games.sort((a, b) => a.name.localeCompare(b.name));
+      } else if (sortBy === 'year-desc') {
+        games.sort((a, b) => (b.year || 0) - (a.year || 0) || a.name.localeCompare(b.name));
+      } else if (sortBy === 'year-asc') {
+        games.sort((a, b) => (a.year || 0) - (b.year || 0) || a.name.localeCompare(b.name));
+      }
+
+      displayGames = games;
+
+      resultCountEl.textContent = `Showing ${games.length} game${games.length !== 1 ? 's' : ''}`;
+      renderList(games);
+    }
+
+    function renderList(games) {
+      if (games.length === 0) {
+        gameListEl.innerHTML = `
+          <div class="state-message">
+            <h2>No games found</h2>
+            <p>Try adjusting your search or filter</p>
+          </div>`;
+        return;
+      }
+
+      const fragment = document.createDocumentFragment();
+
+      for (const game of games) {
+        const item = document.createElement('div');
+        item.className = 'game-item' + (game.researched ? ' researched' : '');
+
+        const content = document.createElement('div');
+        content.className = 'game-content';
+
+        // Title row
+        const titleRow = document.createElement('div');
+        titleRow.className = 'game-title-row';
+
+        const name = document.createElement('span');
+        name.className = 'game-name';
+        name.textContent = game.name;
+        titleRow.appendChild(name);
+
+        if (game.year) {
+          const year = document.createElement('span');
+          year.className = 'game-year';
+          year.textContent = game.year;
+          titleRow.appendChild(year);
+        }
+
+        if (game.source_count > 1) {
+          const nomBadge = document.createElement('span');
+          nomBadge.className = 'nom-badge';
+          nomBadge.textContent = `★ ${game.source_count}`;
+          titleRow.appendChild(nomBadge);
+        }
+
+        if (game.researched) {
+          const doneBadge = document.createElement('span');
+          doneBadge.className = 'done-badge';
+          doneBadge.textContent = 'researched';
+          titleRow.appendChild(doneBadge);
+        }
+
+        content.appendChild(titleRow);
+
+        // Sources row
+        if (game.sources.length > 0) {
+          const sourcesRow = document.createElement('div');
+          sourcesRow.className = 'sources-row';
+
+          for (const src of game.sources) {
+            const chip = document.createElement('span');
+            chip.className = 'source-chip';
+            chip.textContent = src;
+            sourcesRow.appendChild(chip);
+          }
+
+          content.appendChild(sourcesRow);
+        }
+
+        item.appendChild(content);
+        fragment.appendChild(item);
+      }
+
+      gameListEl.innerHTML = '';
+      gameListEl.appendChild(fragment);
+    }
+
+    // Event listeners
+    searchEl.addEventListener('input', e => {
+      searchQuery = e.target.value.trim();
+      applyAndRender();
+    });
+
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        statusFilter = btn.dataset.filter;
+        applyAndRender();
+      });
+    });
+
+    sortEl.addEventListener('change', e => {
+      sortBy = e.target.value;
+      applyAndRender();
+    });
+
+    init();
+  </script>
+</body>
+</html>

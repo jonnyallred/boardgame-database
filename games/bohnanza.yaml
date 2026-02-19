@@ -1,0 +1,65 @@
+id: bohnanza
+name: "Bohnanza"
+alternate_names:
+  - "Bohnanza: The Bean Game"
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 4  # Fierce
+value: 1  # Bargain
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Trading
+  - Negotiation
+  - Euro
+  - Family
+  - Gateway
+  - Cult Classic
+  - Agriculture
+  - Uwe Rosenberg
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - AMIGO Spiele
+  - Rio Grande Games
+artist:
+  - Björn Pertoft
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  Bohnanza is a card game of bean farming, trading, and negotiation designed by Uwe Rosenberg. Players manage two (or three) bean fields, planting matching bean types to eventually harvest and sell them for coins. The game's signature twist is that cards in hand cannot be rearranged — they must be played in the order received — creating constant pressure to trade unwanted beans with other players. On each turn, the active player must plant the first card in hand, may trade and gift cards freely with opponents, then draws new cards; this cycle of forced planting and open negotiation makes every deal a tense social negotiation. Bohnanza is a beloved family and gateway classic, accessible in minutes yet surprisingly tactical due to its unique hand management constraint.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,63 @@
+id: darwins-journey
+name: "Darwin's Journey"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Set Collection
+  - Resource Management
+  - Engine Building
+  - Variable Setup
+  - Euro
+  - Historical
+  - Nature
+  - Simone Luciani
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Simone Luciani
+  - Nestore Mangone
+publisher:
+  - Thundergryph Games
+artist:
+  - Paolo Voto
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Darwin's Journey is a worker placement euro game in which players recall Charles Darwin's memories of his adventure through the Galapagos Islands, retracing the expedition that contributed to his theory of evolution. The game features an innovative worker progression system where each worker must study prerequisite disciplines before performing major actions—exploration, navigation, correspondence, and learning—represented by four types of wax seals. Over five rounds, players explore islands, gather specimens, send correspondence to universities, and contribute discoveries to museums in pursuit of victory points through both short- and long-term objectives. The modular board and variable setup ensure high replayability, while the deep interlocking action economy rewards careful long-term planning and efficient worker development.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

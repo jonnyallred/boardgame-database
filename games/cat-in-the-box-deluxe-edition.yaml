@@ -1,0 +1,61 @@
+id: cat-in-the-box-deluxe-edition
+name: "Cat in the Box: Deluxe Edition"
+alternate_names:
+  - "Cat in the Box"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Trick-taking
+  - Hand Management
+  - Auctions/Bidding
+  - Deduction
+  - Pattern Building
+  - Abstract
+  - Family
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Muneyuki Yokouchi
+publisher:
+  - Bezier Games
+artist:
+  - Osamu Inoue
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 13
+
+# Description
+description: |
+  Cat in the Box is a quantum-themed trick-taking card game built around a brilliantly clever twist: cards have no printed suit, and players declare which suit a card belongs to when they play it. Inspired by Schrödinger's Cat paradox, each card exists in a superposition of suits until the moment it hits the table. Players bid on how many tricks they expect to win, then carefully declare card suits while placing tokens on a shared community research board, earning bonus points for creating large connected groups of tokens. The catch: you cannot declare a suit for a card number that has already been declared in that suit, or you cause a paradox and suffer a penalty. The Deluxe Edition upgrades the original 2020 design with acrylic tokens, recessed player boards and research board, and expanded support for up to five players, making this cult-classic card game more accessible and tactile than ever.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

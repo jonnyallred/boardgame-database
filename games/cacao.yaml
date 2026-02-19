@@ -1,0 +1,65 @@
+id: cacao
+name: "Cacao"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - cacao-chocolatl
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Hand Management
+  - Set Collection
+  - Area Control
+  - Economic
+  - Family
+  - Gateway
+  - Euro
+  - Agriculture
+  - Phil Walker-Harding
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Phil Walker-Harding
+publisher:
+  - ABACUSSPIELE
+  - Z-Man Games
+artist:
+  - Claus Stephan
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  Cacao is a tile-placement game set in the jungles of Central America, where players take on the role of tribal chiefs cultivating and trading the precious "fruit of the gods." Each player has a personal deck of square worker tiles, with workers of varying numbers on each side, and on their turn places one tile adjacent to jungle tiles already in play—triggering immediate effects from neighboring cacao fields, markets, water wells, gold mines, and temples. A key innovation is the shared jungle board that expands dynamically during play: whenever two adjacent worker tiles create an empty space, a new jungle tile is added there, keeping the landscape in constant flux. Players earn gold by harvesting cacao and selling it at markets, collecting from gold mines, and jockeying for majority at temples, while managing their water supply to avoid end-game penalties. With simple rules and a compact playtime, Cacao delivers satisfying tactical decisions around tile placement timing and area competition, earning it the Spiel des Jahres recommendation in 2015.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

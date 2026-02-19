@@ -1,0 +1,75 @@
+id: cosmic-encounter
+name: "Cosmic Encounter"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: cosmic-encounter
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 4  # Fierce
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Negotiation
+  - Bluffing
+  - Hand Management
+  - Variable Setup
+  - Simultaneous Action
+  - Take That
+  - Ameritrash
+  - Cult Classic
+  - Sci-Fi
+  - Space
+  - Aliens
+  - Fantasy Flight Games
+
+# Player counts
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Bill Eberle
+  - Jack Kittredge
+  - Peter Olotka
+  - Bill Norton
+  - Kevin Wilson
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Andrew Navaro
+  - Brian Schomburg
+  - Felicia Cano
+  - Henning Ludvigsen
+  - Ryan Barger
+  - Sabe Lewellyn
+  - WiL Springer
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Cosmic Encounter is a landmark negotiation and combat game in which each player commands a unique alien civilization bent on establishing colonies in other players' solar systems. Each alien species possesses a special power that bends or breaks the rules of the game, creating an ever-shifting dynamic of alliances, betrayal, and bluffing. On their turn, the active player draws a destiny card to determine their target, then launches ships through the hyperspace gate before inviting others to ally on either side of the conflict. Both attacker and defender simultaneously play an encounter card — negotiate or attack — and the resolution can swing on the unexpected powers of any of the unique alien abilities in play. The first player to establish five colonies on foreign planets wins, rewarding bold play and savvy diplomacy in equal measure.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

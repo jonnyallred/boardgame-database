@@ -1,0 +1,62 @@
+id: cash-n-guns-second-edition
+name: "Ca$h 'n Guns (Second Edition)"
+alternate_names:
+  - "Cash 'n Guns (Second Edition)"
+  - "Kasa i Spluwy"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Bluffing
+  - Simultaneous Action
+  - Social Deduction
+  - Take That
+  - Hand Management
+  - Party
+  - Family
+
+# Player counts
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [6, 7, 8]
+
+# Metadata
+designer:
+  - Ludovic Maublanc
+publisher:
+  - Repos Production
+artist:
+  - John Kovalic
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  Ca$h 'n Guns is a raucous party game of bluffing and intimidation set in the aftermath of a gangland heist, where a group of criminals must divide their plunder without killing each other in the process. Each round, players simultaneously point foam pistols at their chosen targets, secretly holding either a loaded bullet card or a harmless click card, forcing opponents to decide whether to stand firm or chicken out and forfeit the round's loot. After eight rounds of brazen bluffing, backstabbing, and theatrical threats, the living player with the most valuable loot wins. Special power cards give each player a unique ability that can turn the tide, rewarding clever timing and psychological manipulation. With its foam gun components and escalating tension, Cash 'n Guns delivers chaotic, laugh-filled gameplay best experienced with a full table of six to eight players.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

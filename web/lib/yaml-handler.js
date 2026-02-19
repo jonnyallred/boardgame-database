@@ -4,8 +4,10 @@ const yaml = require('js-yaml');
 
 const GAMES_DIR = path.join(__dirname, '../../games');
 const IMAGES_DIR = path.join(__dirname, '../../images');
+const SOURCES_LISTS_DIR = path.join(__dirname, '../../sources/lists');
 
 let gamesCache = null;
+let masterListCache = null;
 
 /**
  * Load all game files from the games directory
@@ -140,15 +142,95 @@ async function getImageUrl(gameId) {
 }
 
 /**
+ * Load all source lists and return merged master list with research status
+ */
+async function loadMasterList() {
+  if (masterListCache) return masterListCache;
+
+  try {
+    const listFiles = fs.readdirSync(SOURCES_LISTS_DIR)
+      .filter(f => f.endsWith('.yaml'))
+      .sort();
+
+    const gameMap = new Map(); // id -> {id, name, year, sources: []}
+
+    for (const file of listFiles) {
+      try {
+        const filePath = path.join(SOURCES_LISTS_DIR, file);
+        const content = fs.readFileSync(filePath, 'utf8');
+        const listData = yaml.load(content);
+
+        if (!listData || !Array.isArray(listData.games)) continue;
+
+        const sourceName = listData.source || file;
+
+        for (const game of listData.games) {
+          if (!game.id) continue;
+
+          if (!gameMap.has(game.id)) {
+            gameMap.set(game.id, {
+              id: game.id,
+              name: game.name || game.id,
+              year: game.year || null,
+              sources: []
+            });
+          }
+
+          const entry = gameMap.get(game.id);
+          if (!entry.sources.includes(sourceName)) {
+            entry.sources.push(sourceName);
+          }
+        }
+      } catch (err) {
+        console.error(`Error loading source list ${file}:`, err.message);
+      }
+    }
+
+    // Check which games have been researched
+    const existingGameIds = new Set(
+      fs.readdirSync(GAMES_DIR)
+        .filter(f => f.endsWith('.yaml'))
+        .map(f => path.parse(f).name)
+    );
+
+    const games = Array.from(gameMap.values()).map(game => ({
+      ...game,
+      source_count: game.sources.length,
+      researched: existingGameIds.has(game.id)
+    }));
+
+    // Sort by source count desc, then name asc
+    games.sort((a, b) => {
+      if (b.source_count !== a.source_count) return b.source_count - a.source_count;
+      return a.name.localeCompare(b.name);
+    });
+
+    const result = {
+      total: games.length,
+      researched: games.filter(g => g.researched).length,
+      games
+    };
+
+    masterListCache = result;
+    return result;
+  } catch (err) {
+    console.error('Error loading master list:', err.message);
+    return { total: 0, researched: 0, games: [] };
+  }
+}
+
+/**
  * Clear the games cache (useful after file updates)
  */
 function clearCache() {
   gamesCache = null;
+  masterListCache = null;
 }
 
 module.exports = {
   loadAllGames,
   getGameById,
+  loadMasterList,
   checkImageExists,
   getExpectedImageFilename,
   getImageUrl,

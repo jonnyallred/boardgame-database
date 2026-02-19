@@ -199,6 +199,24 @@ app.get('/api/images/:filename', (req, res) => {
 });
 
 /**
+ * GET /api/master-list
+ * Return merged master list from all source lists with research status
+ */
+app.get('/api/master-list', async (req, res) => {
+  try {
+    const masterList = await yamlHandler.loadMasterList();
+    res.json(masterList);
+  } catch (err) {
+    console.error('Error fetching master list:', err);
+    res.status(500).json({
+      error: true,
+      message: 'Failed to load master list',
+      code: 'LOAD_ERROR'
+    });
+  }
+});
+
+/**
  * GET /api/health
  * Health check endpoint
  */
@@ -216,6 +234,14 @@ app.get('/api/health', async (req, res) => {
       error: err.message
     });
   }
+});
+
+/**
+ * GET /master-list
+ * Serve master list page
+ */
+app.get('/master-list', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'master-list.html'));
 });
 
 // ============ Error Handling ============

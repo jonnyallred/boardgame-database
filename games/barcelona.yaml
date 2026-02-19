@@ -1,0 +1,64 @@
+id: barcelona
+name: "Barcelona"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Engine Building
+  - Resource Management
+  - Set Collection
+  - Economic
+  - Variable Setup
+  - Euro
+  - City Building
+  - Historical
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Dani Garcia
+publisher:
+  - Board&Dice
+artist:
+  - Aleksander Zawada
+  - Zuzanna Kołakowska
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Barcelona is a Euro-style city-building game set in 19th-century Spain, where players take on the role of urban developers working to expand the city beyond its ancient walls into the famous Eixample district, following Ildefons Cerdà's revolutionary urban planning vision. On each turn, players place citizen tokens at intersections on the shared city map to claim actions, then use those citizens to construct residential buildings, develop tram lines, and build public services. The game features a multi-layered scoring system driven by a "Cerdà track" with three intermediate scoring phases before a final tally, rewarding players who balance building construction with unlocking multipliers on their personal boards. Players can also pursue Modernisme project tiles that function as customizable end-game bonus objectives, referencing Barcelona's iconic architectural movement. The game includes a solo mode featuring an automa opponent themed around the architect Antoni Gaudí, and supports variable-length games tied to citizen track progression.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

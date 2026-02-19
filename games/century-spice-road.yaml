@@ -1,0 +1,63 @@
+id: century-spice-road
+name: "Century: Spice Road"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: century
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - century-eastern-wonders
+  - century-a-new-world
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Engine Building
+  - Card Drafting
+  - Resource Management
+  - Set Collection
+  - Euro
+  - Family
+  - Gateway
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Emerson Matsuuchi
+publisher:
+  - Plan B Games
+artist:
+  - Fernanda Suárez
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  Century: Spice Road puts players in the role of caravan leaders traversing the famous Silk Road, acquiring and trading four types of spices — turmeric, saffron, cardamom, and cinnamon — represented by colored wooden cubes in increasing value. On each turn, players take one of four actions: rest (reclaim spent cards), play a merchant card (gain or upgrade spices), buy a new merchant card from the market row, or claim a point card by spending the required spices. The core engine-building mechanic centers on crafting a hand of merchant cards that efficiently generates and upgrades spices into higher-value ones, allowing increasingly powerful combinations over time. The first player to claim their fifth point card (sixth in 2–3 player games) triggers the final round, after which victory points are totaled. The game is part of the Century series — three standalone titles that can be combined together — and is widely praised as a polished, accessible gateway Euro with surprising strategic depth.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

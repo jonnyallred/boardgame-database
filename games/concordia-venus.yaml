@@ -1,0 +1,70 @@
+id: concordia-venus
+name: "Concordia Venus"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: concordia
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - concordia
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Deck Building
+  - Card Drafting
+  - Route Building
+  - Set Collection
+  - Resource Management
+  - Network Building
+  - Economic
+  - Teams
+  - Euro
+  - Historical
+  - Ancient
+  - Mac Gerdts
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Mac Gerdts
+publisher:
+  - PD-Verlag
+  - Rio Grande Games
+artist:
+  - Marina Fahrenbach
+  - Dominik Mayer
+  - Mac Gerdts
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Concordia Venus is a standalone reimplementation of Concordia set during the prosperous era of the Roman Empire, where players develop trade networks and colonize cities producing bricks, food, tools, wine, and cloth. The defining new feature is a team play mode in which two or three players form a partnership, sitting across from each other and coordinating actions — when one partner plays a card, both partners execute the action, requiring mutual understanding and synchronized planning. Four new personality cards (Praetor, Proconsul, Legatus, and Magister) enable the team mechanics while also supporting a classic individual play mode for 2-5 players. The game includes four map variants across two double-sided boards (Ionium/Hellas and Imperium/Cyprus), providing varied spatial challenges. Like the original Concordia, every card serves dual purpose — enabling actions during play and scoring victory points at the game's end — rewarding players who anticipate opponents' objectives and plan their card acquisitions carefully.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

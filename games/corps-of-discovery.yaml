@@ -1,0 +1,64 @@
+id: corps-of-discovery
+name: "Corps of Discovery: A Game Set in the World of Manifest Destiny"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 1  # Cooperative
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Deduction
+  - Modular Board
+  - Hand Management
+  - Resource Management
+  - Variable Setup
+  - Campaign Mode
+  - Historical
+  - Western
+  - Nature
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Jay Cormier
+  - Sen-Foong Lim
+publisher:
+  - Off the Page Games
+artist:
+  - Matthew Roberts
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+# Description
+description: |
+  Corps of Discovery is a cooperative deduction game set in the monster-filled world of the Manifest Destiny comic series, reimagining the 1804 Lewis and Clark expedition as a creature-hunting adventure across the Louisiana Purchase. Players work together to explore a hidden map using logical deduction, uncovering terrain by revealing tokens and inferring the locations of resources based on a set of spatial rules—water always borders wood, tipis always adjoin food sources, and monster tokens lurk in predictable patterns. Each day presents a crisis requiring specific resources to resolve, forcing the team to balance exploration, deduction, and tactical decision-making. The game ships with two distinct chapters—Fauna and Flora—each featuring its own mechanics, goals, and components, providing varied cooperative challenges. With multiple maps for replay and optional expansions, Corps of Discovery rewards careful reasoning and collaborative problem-solving over luck or random chance.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
