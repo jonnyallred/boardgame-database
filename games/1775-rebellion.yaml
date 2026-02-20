@@ -1,0 +1,64 @@
+id: 1775-rebellion
+name: "1775: Rebellion"
+alternate_names:
+  - "1775: Rebellion – The American Revolution"
+  - "1775 La Révolution Américaine"
+year: 2013
+
+# Relationships
+game_family: birth-of-america
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Dice Rolling
+  - Hand Management
+  - Variable Setup
+  - Teams
+  - Wargame
+  - Dudes on a Map
+  - Historical
+  - War
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+# Metadata
+designer:
+  - Beau Beckett
+  - Jeph Stahl
+publisher:
+  - Academy Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+# Description
+description: |
+  1775: Rebellion puts players in command of the major factions of the American Revolutionary War: British Redcoats and Loyalist Militia on one side, American Continental Army and Patriot Militia on the other, with French Regulars and German Hessians as allied forces that join the conflict. Each faction operates with its own dedicated deck of movement cards and custom combat dice, and turn order is determined by drawing faction markers randomly — keeping players from knowing who will act next and faithfully capturing the chaos of 18th-century warfare. Armies move across a large map of the original 13 colonies plus Nova Scotia, Quebec, and the Great Lakes, fighting to control territories by the end of the game; whichever side holds the most flag markers when the Treaty of Paris is signed wins. The game is designed for team play (2v2) at four players, though it also supports two or three players, and is praised for delivering an accessible wargame experience that non-wargamers can enjoy in roughly 90 minutes. Part of the Birth of America series alongside 1812: The Invasion of Canada and 1754: Conquest.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

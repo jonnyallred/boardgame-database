@@ -1,0 +1,63 @@
+id: fromage
+name: "Fromage"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Simultaneous Action
+  - Area Control
+  - Set Collection
+  - Resource Management
+  - Euro
+  - Family
+  - Food Theme
+  - Agriculture
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Matthew O'Malley
+  - Ben Rosset
+publisher:
+  - Road to Infamy Games
+artist:
+  - Pavel Zhovba
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 14
+
+# Description
+description: |
+  Fromage is a simultaneous worker placement game set in early 20th-century France, where players compete to become the most prestigious cheesemaker by running a thriving creamery and crafting exceptional artisan cheeses. The centerpiece is a circular board divided into four quadrants — the Bistro, the Fromagerie, the Festival, and the Villes — each offering distinct scoring opportunities for cheese pairings, shelf displays, foot traffic, and regional area control. Players simultaneously place their workers to gather resources and make cheese from the quadrant in front of them, then the board rotates like a cheese wheel, aging any cheese made and presenting each player with a fresh quadrant to work. The strength of each action determines how quickly workers become available again, creating an elegant cooldown system that rewards careful timing and anticipation of opponents' moves. Victory goes to the player who earns the most Prestige Points through strategic cheese sales and efficient creamery management.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

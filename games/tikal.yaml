@@ -1,0 +1,65 @@
+id: tikal
+name: "Tikal"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Action Points
+  - Tile Placement
+  - Area Control
+  - Set Collection
+  - Modular Board
+  - Euro
+  - Cult Classic
+  - Ancient
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - Ravensburger
+  - Rio Grande Games
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 90
+min_playtime: 90
+max_playtime: 120
+min_age: 10
+
+# Description
+description: |
+  Tikal is a Spiel des Jahres-winning exploration game set in the ancient Mayan jungles of Central America, where players lead competing archaeological expeditions to uncover temples and treasures. Each turn, a player draws and places a new hexagonal terrain tile, then spends a fixed allowance of ten action points on activities such as moving explorers, excavating temple levels, collecting treasures, and establishing base camps. Control of each temple is determined by majority of explorers at scoring rounds, which are triggered by special volcano tiles interspersed throughout the tile stack. Players must balance advancing deep into new territory against concentrating forces to hold valuable temple sites. Tikal won the triple crown of board gaming in 1999—the Spiel des Jahres, the Deutscher Spiele Preis, and the Games Magazine Award—and is the first entry in the Mask Trilogy alongside Java and Mexica.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

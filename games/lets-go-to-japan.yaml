@@ -1,0 +1,65 @@
+id: lets-go-to-japan
+name: "Let's Go! To Japan"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Drafting
+  - Hand Management
+  - Tableau Building
+  - Set Collection
+  - Simultaneous Action
+  - Family
+  - Euro
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Josh Wood
+publisher:
+  - Alderac Entertainment Group
+artist:
+  - Toshiyuki Hara
+  - Erica Ward
+  - Kailene Falls
+  - Magdelena Pruckner
+  - Hideshi Saiki
+  - On Yamamoto
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Let's Go! To Japan invites players to plan and experience their own dream vacation to Japan, bouncing between Tokyo and Kyoto across a week-long itinerary. Over thirteen rounds, players simultaneously draft beautifully illustrated activity cards drawn by Japan-based artists, strategically placing them across six days on their personal player board. Each day has a favorable condition — temples, food, nature, shopping, social, or happiness — and placing the right combination of cards earns bonus points and immediate rewards. Players manage train tokens to travel between cities and balance happiness against stress while competing to build the highest-scoring itinerary. Designed by Josh Wood and inspired by his pandemic-cancelled trip to Japan, the game supports solo play against a virtual travel agent as well as competitive play for up to four.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

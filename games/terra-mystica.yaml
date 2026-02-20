@@ -1,0 +1,72 @@
+id: terra-mystica
+name: "Terra Mystica"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: terra-mystica
+edition: null
+base_game: null
+expansions:
+  - terra-mystica-fire-and-ice
+  - terra-mystica-merchants-of-the-seas
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Resource Management
+  - Engine Building
+  - Hex Map
+  - Variable Setup
+  - Network Building
+  - Economic
+  - Tech Tree
+  - Tableau Building
+  - Euro
+  - Cult Classic
+  - Civilization
+  - Fantasy
+  - Capstone Games
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Jens Drögemüller
+  - Helge Ostertag
+publisher:
+  - Feuerland Spiele
+  - Z-Man Games
+  - Capstone Games
+artist:
+  - Dennis Lohausen
+playtime_minutes: 100
+min_playtime: 60
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Terra Mystica is a deep, no-luck strategy game in which 2-5 players each control one of 14 asymmetric fantasy factions, each bound to a specific terrain type on a hexagonal map. The central challenge is terraforming adjacent hexes into your faction's home terrain type, then constructing and upgrading a hierarchy of buildings to generate resources and expand your civilization. Players compete across six rounds, managing workers, gold, and a unique three-bowl power system that allows tokens to cycle into a spendable pool through proximity to opponents' structures. Four cult tracks offer a secondary scoring dimension, rewarding devotion to earth, fire, water, and air. With highly asymmetric factions, variable scoring tiles, and a full-information design that rewards long-term planning, Terra Mystica is considered one of the definitive heavy Euro games and won the 2013 Deutscher Spiele Preis.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

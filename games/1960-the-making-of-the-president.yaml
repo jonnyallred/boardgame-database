@@ -1,0 +1,62 @@
+id: 1960-the-making-of-the-president
+name: "1960: The Making of the President"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Area Control
+  - Card Drafting
+  - Wargame
+  - Historical
+  - Economic
+  - Negotiation
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Christian Leonhard
+  - Jason Matthews
+publisher:
+  - Z-Man Games
+artist:
+  - Rodger B. MacGowan
+  - Mark Simonitch
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  1960: The Making of the President is a card-driven strategy game for two players, each assuming the role of Kennedy or Nixon in the landmark 1960 U.S. presidential election. Players use campaign cards to deploy influence cubes across American states, dominate key political issues such as civil rights and foreign policy, and control media coverage to sway undecided voters. The game unfolds over nine turns representing the weeks of the campaign, culminating in televised debates and a final election day resolution using an Electoral College map of 1960. Cards can be played for their campaign point value or triggered as historical events, requiring players to weigh short-term gains against strategic positioning. Winner of the 2008 International Gamer Awards for Best Two-Player Strategy Game, 1960 is widely regarded as the definitive presidential election board game.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

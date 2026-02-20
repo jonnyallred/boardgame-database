@@ -1,0 +1,64 @@
+id: star-trek-captains-chair
+name: "Star Trek: Captain's Chair"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: star-trek-captains-chair
+edition: null
+base_game: null
+expansions:
+  - star-trek-captains-chair-to-boldly-go
+  - star-trek-captains-chair-second-contact
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Tableau Building
+  - Variable Setup
+  - Resource Management
+  - Sci-Fi
+  - Space
+
+# Player counts
+possible_counts: [1, 2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Nigel Buckle
+  - Dávid Turczi
+publisher:
+  - WizKids
+artist:
+  - Gong Studios
+  - Kurt Komoda
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Star Trek: Captain's Chair is an asymmetric deckbuilding game for one or two players in which each player commands an iconic captain from across the Star Trek universe. Six captains are available at launch—Jean-Luc Picard, Benjamin Sisko, Michael Burnham, Koloth, Sela, and Thy'lek Shran—each with a unique, pre-constructed deck reflecting their personality, allies, and tactics. Players compete by deploying ships and away teams to neutral locations, acquiring new cards from shared market pools, and racing to earn victory points through multiple paths including diplomacy, exploration, science, and military action. Designed by the creators of the Imperium series and Voidfall, the game streamlines that engine into a focused two-player duel while retaining deep keyword interactions and asymmetric captain abilities. A robust solo mode is also included, making the game accessible as a single-player challenge.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

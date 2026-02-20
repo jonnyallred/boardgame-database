@@ -1,0 +1,60 @@
+id: toy-battle
+name: "Toy Battle"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (10-15 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 4  # Fierce
+value: 1  # Bargain
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Area Control
+  - Hand Management
+  - Take That
+  - Family
+  - Filler
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Paolo Mori
+  - Alessandro Zucchini
+publisher:
+  - Repos Production
+artist:
+  - Paul Mafayon
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 15
+min_age: 8
+
+# Description
+description: |
+  Toy Battle is a fast-playing two-player tactical duel in which players deploy toy troops across whimsical battlefields—ranging from castle fields and volcanic jungles to space stations. Each turn a player either draws two troop tiles to their rack or plays one tile onto a board space orthogonally connected to their headquarters, triggering its special ability. Units have unique powers—soldiers call reinforcements, ducks defeat anything but lose to all, and robots attack from a distance—while a numerical superiority system means higher-numbered tiles capture lower ones. Victory comes by either placing a troop directly on the opponent's headquarters or controlling the most medal-bearing territories when troops run out. Eight interchangeable double-sided terrain boards keep every game fresh, and matches rarely exceed fifteen minutes.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

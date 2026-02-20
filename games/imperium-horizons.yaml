@@ -1,0 +1,69 @@
+id: imperium-horizons
+name: "Imperium: Horizons"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: imperium
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - imperium-classics
+  - imperium-legends
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Tableau Building
+  - Engine Building
+  - Resource Management
+  - Trading
+  - Variable Setup
+  - Card Drafting
+  - Euro
+  - Civilization
+  - Historical
+  - Ancient
+  - Osprey Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Nigel Buckle
+  - Dávid Turczi
+publisher:
+  - Osprey Games
+artist:
+  - Mihajlo Dimitrievski
+playtime_minutes: 90
+min_playtime: 40
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Imperium: Horizons is a standalone asymmetric civilization-building card game for 1-4 players in which each player leads one of fourteen historically-inspired peoples — from the Abbasids and Aksumites to the Inuit and Polynesians — charting their rise from barbarian beginnings to a thriving empire. Each civilization has a unique deck with a private market ensuring thematic accuracy, and players build their tableau by acquiring cards from a central market while managing expansion, scientific advancement, and cultural development. A central innovation is the new trade module, where Trade Route cards enable positive-sum economic interactions between players, replacing destructive take-that mechanics with cooperative wealth-generation opportunities. As a standalone product, Horizons includes a fully rewritten rulebook and quality-of-life improvements, while also offering nearly 50 replacement cards that integrate the trade module into Imperium: Classics and Imperium: Legends for owners of those sets.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

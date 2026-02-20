@@ -4171,3 +4171,543 @@ entries:
     game_id: darwins-journey
     url: "https://www.gamenerdz.com/darwins-journey"
     description: "Game Nerdz retailer listing confirming player count (1-4), playtime (60-120 min), min age (14+), and game description"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: toy-battle
+    url: "https://www.rprod.com/en/games/toy-battle"
+    description: "Publisher product page with designer, artist, player count, playtime, mechanics, and component details"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: toy-battle
+    url: "https://www.rprod.com/en/press/toy-battle"
+    description: "Publisher press page confirming May 2025 publication date, designers (Paolo Mori & Alessandro Zucchini), artist (Paul Mafayon)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: toy-battle
+    url: "https://store.asmodee.com/products/toy-battle"
+    description: "Asmodee store listing confirming year 2025, player count, playtime, min age, components, and price ($32.99)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: toy-battle
+    url: "https://www.amazon.com/Asmodee-Toy-Battle-Board-Game/dp/B0DWT9J5L3"
+    description: "Amazon listing confirming 2-player, 15-minute, age 8+ specifications and game description"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: toy-battle
+    url: "https://www.meeplemountain.com/reviews/toy-battle/"
+    description: "Meeple Mountain review (4.5/5) covering mechanics, strategic depth, Stratego comparison, and gameplay description"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: toy-battle
+    url: "https://www.geeksundergrace.com/tabletop/reviews-tabletop/review-toy-battle/"
+    description: "Geeks Under Grace review with detailed mechanics, tile abilities, and tile placement rules"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: toy-battle
+    url: "https://www.gamenerdz.com/toy-battle"
+    description: "Game Nerdz retailer listing confirming player count, playtime, min age, and price ($32.99)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: distilled
+    url: "https://paversongames.com/products/distilled-board-game-1"
+    description: "Publisher product page confirming year (2023), player count (1-5), playtime (30 min/player), min age (14+), and core mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: distilled
+    url: "https://paversongames.com/collections/distilled-game"
+    description: "Publisher collections page listing base game, expansions (Africa & Middle East, Cask Strength), and accessories"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: distilled
+    url: "https://www.amazon.com/Paverson-Games-Distilled-Spirited-Strategy/dp/B09M97MTGY"
+    description: "Amazon listing confirming player count (1-5) and minimum age (14+)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: distilled
+    url: "https://tabletopbellhop.com/game-reviews/distilled-board-game/"
+    description: "Tabletop Bellhop review providing designer (Dave Beck), mechanics, playtime breakdown by player count, and gameplay description"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: distilled
+    url: "https://www.meeplemountain.com/reviews/distilled/"
+    description: "Meeple Mountain review with gameplay overview, publisher details, and thematic description"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: distilled
+    url: "https://distilledgame.com/paverson-games/"
+    description: "Distilled game site confirming designer Dave Beck and artist Erik Evensen"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: distilled
+    url: "https://www.menomonieminute.com/post/board-game-renaissance-uw-stout-professor-puts-the-pieces-in-place-for-successful-game-design-busin"
+    description: "Profile article on Dave Beck confirming designer identity, Paverson Games history, and 50,000 copies sold"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: seaside
+    url: "https://www.hachetteboardgames.com/products/seaside"
+    description: "Publisher product page confirming player count (1-5), playtime (20 min), age (8+), price, awards, and mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: seaside
+    url: "https://nerdsonearth.com/2024/05/its-smooth-sailing-with-the-seaside-board-game-by-randolph/"
+    description: "Review article confirming designer Bryan Burgoyne, publisher Randolph, token types, and gameplay overview"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: seaside
+    url: "https://opinionatedgamers.com/2024/08/28/dale-yu-review-of-seaside/"
+    description: "Detailed review covering mechanics, token interactions (blue sea vs white seaside), solo mode, and complexity assessment"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: seaside
+    url: "https://www.boardgamequest.com/seaside-review/"
+    description: "Review with gameplay details, player count notes (tokens set aside below 5 players), and press-your-luck mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: seaside
+    url: "https://www.meeplemountain.com/reviews/seaside/"
+    description: "Meeple Mountain review (3.5/5) with description of portability and casual outdoor gameplay"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: seaside
+    url: "https://www.philibertnet.com/en/randolph/135433-littoral-2100001012649.html"
+    description: "French retailer page confirming alternate name Littoral (original French title)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: seaside
+    url: "https://www.cardhaus.com/seaside/"
+    description: "Cardhaus retailer listing confirming designer, publisher, player count, playtime, and age"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: star-trek-captains-chair
+    url: "https://shop.wizkids.com/products/star-trek-captains-chair"
+    description: "WizKids official product page with game description, captains list, contents, and price ($59.99)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: star-trek-captains-chair
+    url: "https://www.miniaturemarket.com/star-trek-captains-chair-wzk87601.html"
+    description: "Miniature Market retailer listing confirming 1-2 players, 60-120 min playtime, age 14+, and mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: star-trek-captains-chair
+    url: "https://blog.trekcore.com/2024/06/wizkids-announces-star-trek-captains-chair-card-game/"
+    description: "TrekCore announcement article from June 2024 confirming original announcement date and game overview"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: star-trek-captains-chair
+    url: "https://memory-alpha.fandom.com/wiki/Star_Trek:_Captain%27s_Chair_(WizKids)"
+    description: "Memory Alpha wiki page with designer credits (Nigel Buckle, Dávid Turczi), mechanics details, and 2025 Q1 release note"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: star-trek-captains-chair
+    url: "https://www.meeplemountain.com/reviews/star-trek-captains-chair/"
+    description: "Meeple Mountain review covering asymmetric deckbuilding mechanics, complexity, and strategic depth (4.5/5)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: star-trek-captains-chair
+    url: "https://www.boardgamequest.com/star-trek-captains-chair-review/"
+    description: "Board Game Quest review confirming 2024 release year, designers, player count, complexity, and #3 game of 2024"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: star-trek-captains-chair
+    url: "https://www.nobleknight.com/P/2148251065/Star-Trek---Captains-Chair"
+    description: "Noble Knight Games retailer listing confirming 2024 year, 1-2 players, 60-120 min, age 14+, designer credits"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: star-trek-captains-chair
+    url: "https://icv2.com/articles/news/view/59766/wizkids-announces-two-new-star-trek-captains-chair-expansions"
+    description: "ICv2 article announcing To Boldly Go and Second Contact expansions (December 2025 release) with base game specs"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: nucleum
+    url: "https://boardanddice.com/product/nucleum/"
+    description: "Publisher product page confirming designers (Luciani, Turczi), player count (1-4), playtime (60-150 min), min age (14+), expansions, and core mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: nucleum
+    url: "https://www.meeplemountain.com/reviews/nucleum/"
+    description: "Meeple Mountain review confirming publisher Board&Dice, 2023 release at SPIEL, player count, and complexity assessment"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: nucleum
+    url: "https://www.gamenerdz.com/nucleum"
+    description: "Game Nerdz retailer listing confirming player count (1-4), playtime (60-150 min), min age (14+), designers, artists (Andreas Resch, Piotr Sokołowski, Zbigniew Umgelter), and mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: nucleum
+    url: "https://opinionatedgamers.com/2023/12/22/larry-levy-first-impressions-of-nucleum/"
+    description: "Opinionated Gamers first impressions with mechanics detail, year 2023, best player count assessment (3-4, but 2 also good), and complexity notes"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: nucleum
+    url: "https://boardgamesland.com/nucleum-board-game-review/"
+    description: "BoardGamesLand review confirming designers, publisher, double-sided board for different player counts, and core resource/network mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: river-of-gold
+    url: "https://www.officedoggames.com/game/river-of-gold/"
+    description: "Publisher product page confirming designer Keith Piggott, player count (2-4), playtime (60-90 min), age (14+), and gameplay overview"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: river-of-gold
+    url: "https://www.officedoggames.com/announcements/announcing-river-of-gold/"
+    description: "Publisher announcement with artist Francesca Baerald credit, release date August 2024, and L5R universe details"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: river-of-gold
+    url: "https://opinionatedgamers.com/2024/07/30/dale-yu-review-of-river-of-gold/"
+    description: "Review confirming mechanics: dice rolling, area influence, contracts, ship movement, two-era structure"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: river-of-gold
+    url: "https://www.meeplemountain.com/reviews/river-of-gold/"
+    description: "Review detailing core turn structure: roll die, move ship, collect resources, and building placement mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: river-of-gold
+    url: "https://www.meeplemountain.com/boardgame/river-of-gold/"
+    description: "Meeple Mountain game page confirming publishers (Office Dog, Asmodee, White Goblin Games), player count, playtime, age, and mechanics list"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: river-of-gold
+    url: "https://www.boardgamequest.com/river-of-gold-review/"
+    description: "Board Game Quest review with gameplay description, dice rolling and area influence mechanics, Euro categorization"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: river-of-gold
+    url: "https://www.legendofthefiverings.com/river-of-gold-ships-august-2nd/"
+    description: "L5R official site confirming August 2 2024 release, four playable clans, and Patrons mini-expansion inclusion"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: river-of-gold
+    url: "https://www.asmodeena.com/en/news/2024/5/21/Asmodee-and-office-dog-games-announces-river-of-gold-boardgame/"
+    description: "Asmodee announcement page for River of Gold co-published with Office Dog Games"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: boop
+    url: "https://www.smirkanddagger.com/product-page/boop"
+    description: "Publisher product page — confirmed game name, publisher (Smirk & Laughter imprint of Smirk & Dagger), and product overview"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: boop
+    url: "https://tabletopbellhop.com/game-reviews/boop/"
+    description: "Review confirming designer (Scott Brady), publisher, year (2022), player count (2), playtime (15-30 min), min age (10+), Gekitai retheme, and artist (Curt Covert)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: boop
+    url: "https://www.nobleknight.com/P/2148022233/boop"
+    description: "Retailer listing confirming publisher (Smirk & Laughter), year (2022), player count (2), playtime (20-30 min), min age (10+)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: boop
+    url: "https://www.gamenerdz.com/boop"
+    description: "Retailer listing confirming designer (Scott Brady), artist (Curt Covert), player count (2), playtime (20-30 min), min age (10+), and mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: boop
+    url: "https://spritesanddice.com/reviews/pax-unplugged-spotlight-boop/"
+    description: "Review with gameplay description, mechanics detail, and community reception notes"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: boop
+    url: "https://www.amazon.com/Smirk-Dagger-BOOP-Adorable-Strategy/dp/B0BCHHDM3J"
+    description: "Amazon listing confirming publisher, player count, age range (10+), and retail price"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: the-gang
+    url: "https://store.thamesandkosmos.com/products/the-gang"
+    description: "Publisher product page confirming designers (John Cooper, Kory Heath), player count (3-6), playtime (20 min), min age (10+), and 2024 publication year"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: the-gang
+    url: "https://www.meeplemountain.com/reviews/the-gang/"
+    description: "Meeple Mountain review with gameplay overview, cooperative poker mechanics, and Gen Con 2024 debut details"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: the-gang
+    url: "https://www.boardgamequest.com/the-gang-review/"
+    description: "Board Game Quest review with best player count assessment (4-5), mechanics detail, and difficulty modes"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: the-gang
+    url: "https://www.wargamer.com/the-gang/board-game"
+    description: "Wargamer review confirming Golden Geek Award nomination (2024 Best Party Game) and gameplay overview"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: the-gang
+    url: "https://americantabletopawards.com/the-gang/"
+    description: "American Tabletop Awards page confirming 2025 winner in Casual Games category and Thames & Kosmos as publisher"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: the-gang
+    url: "https://www.dicetower.com/board-game/411567"
+    description: "Dice Tower game page confirming designers, publisher KOSMOS, 2024 year, 3-6 players, 20 min playtime, age 10+"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: the-gang
+    url: "https://opinionatedgamers.com/2024/08/03/dale-yu-first-impressions-of-the-gang/"
+    description: "Opinionated Gamers first impressions with designers (John Cooper, Kory Heath), mechanics detail, and player count notes"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: the-gang
+    url: "https://www.geeksundergrace.com/tabletop/review-the-gang/"
+    description: "Geeks Under Grace review confirming artist (Fiore GmbH), September 2024 publication, $15 MSRP, and cooperative mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: planet-unknown
+    url: "https://adamsapplegames.com/planetunknown/"
+    description: "Publisher product page with game overview, mechanics, player count, playtime, and Supermoon expansion info"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: planet-unknown
+    url: "https://www.meeplemountain.com/reviews/planet-unknown/"
+    description: "Meeple Mountain review with gameplay mechanics, theme, and player count details"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: planet-unknown
+    url: "https://www.meeplemountain.com/boardgame/planet-unknown/"
+    description: "Meeple Mountain game entry listing designers, artist, publishers, year, player count, playtime, and full mechanics list"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: planet-unknown
+    url: "https://www.miniaturemarket.com/ass1502.html"
+    description: "Miniature Market retailer page with player count, playtime, mechanics, and component details"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: planet-unknown
+    url: "https://boardgameguys.com/planet-unknown/"
+    description: "Board Game Guys entry confirming designers, publisher, year, player count, playtime, and mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: planet-unknown
+    url: "https://www.gamenerdz.com/planet-unknown"
+    description: "Game Nerdz retailer page confirming designers, artist, publisher, mechanics, and 2022 Origins Award Best Strategy Game"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: planet-unknown
+    url: "https://www.gamescape-north.com/planet-unknown.html"
+    description: "Gamescape North product page confirming playtime, min age, designer, complexity rating"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: planet-unknown
+    url: "https://adamsapplegames.com/planetunknown/supermoon/"
+    description: "Publisher page for Supermoon expansion confirming expansion exists for base game"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: galactic-cruise
+    url: "https://en.boardgamearena.com/gamepanel?game=galacticcruise"
+    description: "Board Game Arena page confirming designers (T.K. King, Dennis Northcott, Koltin Thompson), artist (Ian O'Toole), year 2025, player count (1-4), and key mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: galactic-cruise
+    url: "https://www.kinsonkeygames.com/galactic-cruise-landing"
+    description: "Publisher product page with game overview, mechanics, and expansion info"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: galactic-cruise
+    url: "https://boardgameshots.com/2025/06/03/galactic-cruise-board-game-review/"
+    description: "Board Game Shots review with mechanics detail, production quality, and player count recommendations (best at 3-4)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: galactic-cruise
+    url: "https://store.asmodee.com/products/galactic-cruise"
+    description: "Asmodee store page confirming min age (14), playtime (~2 hrs), and game description"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: galactic-cruise
+    url: "https://coopboardgames.com/cooperative-board-game-reviews/galactic-cruise"
+    description: "Review confirming competitive nature, mechanics, complexity rating 4/5, min age 14+, and best player count (3-4)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: galactic-cruise
+    url: "https://www.meeplemountain.com/interviews/six-questions-with-kinson-key-games/"
+    description: "Meeple Mountain interview with designers confirming full names and Ian O'Toole as artist"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: galactic-cruise
+    url: "https://www.nobleknight.com/P/2148297175/Galactic-Cruise"
+    description: "Noble Knight retailer listing confirming player count (1-4), playtime (90-150 min), and min age 14+"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: imperium-horizons
+    url: "https://www.ospreypublishing.com/us/imperium-horizons-9781472858368/"
+    description: "Publisher product page confirming designers (Nigel Buckle, Dávid Turczi), artist (Mihajlo Dimitrievski), player count (1-4), playtime (40 min/player), min age (14+), year (2024), and 14 civilizations"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: imperium-horizons
+    url: "https://www.ospreypublishing.com/us/osprey-blog/2024/imperium-horizons-design-diary/"
+    description: "Design diary covering core mechanics, trade module innovation, standalone status, new civilizations, and compatibility with Classics and Legends"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: imperium-horizons
+    url: "https://www.ospreypublishing.com/us/osprey-blog/2024/imperium-horizons-compatibility/"
+    description: "Osprey compatibility blog post explaining how Horizons integrates with Imperium: Classics and Legends via replacement cards"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: imperium-horizons
+    url: "https://www.boardgamequest.com/imperium-horizons-review/"
+    description: "Review confirming deck-building mechanics, trade routes system, 14 civilizations, best player count (2), and 4.5 star rating"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: imperium-horizons
+    url: "https://www.miniaturemarket.com/imperium-horizons-ospgam054.html"
+    description: "Retailer listing confirming player count (1-4), playtime (up to 180 min), min age (14+), SKU OSPGAM054, and component counts (550+ cards, 150+ tokens)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: lets-go-to-japan
+    url: "https://icv2.com/articles/news/view/53662/aeg-says-lets-go-to-japan"
+    description: "ICv2 news article confirming designer Josh Wood, publisher AEG, playtime 45 min, age 10+, Kickstarter funding details, and core mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: lets-go-to-japan
+    url: "https://boardgameguys.com/lets-go-to-japan/"
+    description: "Board Game Guys product page with player count (1-5 Kickstarter / 1-4 retail), mechanics, and theme details"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: lets-go-to-japan
+    url: "https://shelfgamer.com/reviews/lets-go-to-japan/"
+    description: "Shelf Gamer review with playtime (45-60 min), retail price ($50), mechanics overview, and gameplay description"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: lets-go-to-japan
+    url: "https://opinionatedgamers.com/2023/03/23/dale-yu-review-of-lets-go-to-japan/"
+    description: "Opinionated Gamers preview with mechanics detail and gameplay description"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: lets-go-to-japan
+    url: "https://www.meeplemountain.com/reviews/lets-go-to-japan/"
+    description: "Meeple Mountain review (3/5) with player count, age 10+, and strategic depth assessment"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: lets-go-to-japan
+    url: "https://alderacstore.com/lets-go-to-japan-retail-edition/"
+    description: "AEG official store page confirming retail edition player count (1-4) and game components"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: lets-go-to-japan
+    url: "https://www.amazon.com/AEG-Storytelling-Planning-Strategy-Experience/dp/B0CZBCPF53"
+    description: "Amazon US listing confirming 1-4 players, ages 10+, 45 minutes, and full components list"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: lets-go-to-japan
+    url: "https://gamingtrend.com/news/aeg-announces-its-latest-kickstarter-project-lets-go-to-japan/"
+    description: "Gaming Trend announcement article with designer credits, Japan-based artist team, and mechanics overview"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: terra-mystica
+    url: "https://en.wikipedia.org/wiki/Terra_Mystica"
+    description: "Wikipedia article confirming designers, year, publisher, player count, mechanics overview, and awards"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: terra-mystica
+    url: "https://grokipedia.com/page/Terra_Mystica"
+    description: "Grokipedia article with full details: artist (Dennis Lohausen), publishers, player count, playtime, expansions list, awards"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: terra-mystica
+    url: "https://www.feuerland-shop.de/en/collections/terra-mystica"
+    description: "Feuerland official shop confirming designers, player count, min age (12+), and playtime (~30 min per player)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: terra-mystica
+    url: "https://digidiced.com/terra-mystica-factions/"
+    description: "Digidiced digital edition page confirming 22 factions total (14 base + 8 Fire & Ice), game mechanics overview"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: terra-mystica
+    url: "https://opinionatedgamers.com/2015/02/18/mary-dimercurio-prasad-review-of-terra-mystica/"
+    description: "Opinionated Gamers review with strategic depth assessment, best player count observations (2-3 optimal), and complexity notes"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: terra-mystica
+    url: "https://bigbossbattle.com/terra-mystica-big-box-review/"
+    description: "Big Boss Battle review confirming designers, mechanics list, complexity level (medium-heavy), and component quality"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: terra-mystica
+    url: "https://islaythedragon.com/featured/interview-dennis-lohausen/"
+    description: "Interview with artist Dennis Lohausen confirming he illustrated Terra Mystica including faction art, company logo, and box design"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: terra-mystica
+    url: "https://www.amazon.com/Z-Man-Games-ZM7240-Terra-Mystica/dp/B00APPE4HK"
+    description: "Amazon listing confirming Z-Man Games as English publisher, player count (2-5), playtime (60-150 min), min age (12+)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: fromage
+    url: "https://www.allplay.com/board-games/fromage/"
+    description: "Publisher product page (AllPlay/R2i) with game overview, player count, playtime, and designer details"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: fromage
+    url: "https://boardgameguys.com/fromage/"
+    description: "Board Game Guys listing with mechanics, player count, playtime, min age, and year"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: fromage
+    url: "https://www.amazon.com/Fromage-Board-Game-Cheesemaking-Worker-Placement/dp/B0D6BDGBXC"
+    description: "Amazon product listing confirming 1-4 players, ages 14+, 30 minute playtime"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: fromage
+    url: "https://www.miniaturemarket.com/fromage-standard-edition-r2i-fromagese.html"
+    description: "Miniature Market listing with game description, mechanics, and Formaggio compatibility note"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: fromage
+    url: "https://spacebiff.com/2024/12/16/fromage/"
+    description: "Space-Biff review with detailed mechanics breakdown including rotating board quadrants and worker cooldown system"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: fromage
+    url: "https://boardgamebreakdown.com/fromage-review/"
+    description: "Board Game Breakdown review confirming designer Matthew O'Malley, publisher R2i Games, and core mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: fromage
+    url: "https://www.meeplemountain.com/reviews/fromage/"
+    description: "Meeple Mountain review with player count, playtime, and description of cheesemaking theme"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: fromage
+    url: "https://en.boardgamearena.com/gamepanel?game=fromage"
+    description: "Board Game Arena game panel confirming designers Matthew O'Malley and Ben Rosset, publisher Road To Infamy Games, 2024"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: 1960-the-making-of-the-president
+    url: "https://www.gmtgames.com/p-984-1960-the-making-of-the-president-3rd-printing.aspx"
+    description: "GMT Games product page confirming designers (Christian Leonhard, Jason Matthews), player count (2), mechanics, and reprint history"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: 1960-the-making-of-the-president
+    url: "https://theplayersaid.com/2017/07/26/review-1960-the-making-of-the-president-from-gmt-games/"
+    description: "The Players' Aid review detailing card-driven mechanics, hand management, area control, and gameplay phases"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: 1960-the-making-of-the-president
+    url: "https://www.geeksundergrace.com/tabletop/review-1960-the-making-of-the-president/"
+    description: "Geeks Under Grace review confirming original 2007 Z-Man Games release, GMT reprint 2017, playtime 90-120 min, and mechanics overview"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: 1960-the-making-of-the-president
+    url: "https://therewillbe.games/boardgames/7138-1960-making-of-the-president"
+    description: "There Will Be Games entry confirming designers, publisher, year 2007, player count (2), and genre"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: 1960-the-making-of-the-president
+    url: "https://en.lautapelit.fi/product/680/1960-making-of-the-president"
+    description: "Finnish retailer page confirming designers, player count (2), playtime (90-120 min), and min age (12+)"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: tikal
+    url: "https://opinionatedgamers.com/2015/08/28/sdj-re-reviews-21-tikal/"
+    description: "Opinionated Gamers re-review with designer, publisher, player count, playtime, mechanics, and Spiel des Jahres award context"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: tikal
+    url: "https://toppingthetable.com/boardgame-reviews/tikal-review/"
+    description: "Topping the Table review with mechanics, playtime, themes, and complexity assessment"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: tikal
+    url: "https://boardgameguys.com/tikal-2/"
+    description: "Board Game Guys overview with designer, publisher, player count, playtime, and action point mechanics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: tikal
+    url: "https://www.coolstuffinc.com/p/135958"
+    description: "Cool Stuff Inc retailer page with publisher (Rio Grande Games), player count, age, playtime, and mechanics list"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: tikal
+    url: "https://www.dicingwithdepth.com/2019/01/review-tikal-super-meeple-edition.html"
+    description: "Dicing with Depth review confirming original 1999 design details, complexity level, and strategic depth via action point system"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: tikal
+    url: "https://www.meeplemountain.com/boardgame/tikal/"
+    description: "Meeple Mountain game page confirming designers, publisher, year, player count, playtime, and Mask Trilogy membership"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: hot-streak
+    url: "https://www.cmyk.games/products/hot-streak"
+    description: "Publisher product page with full designer credits, player count, playtime, age, price, and component details"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: hot-streak
+    url: "https://opinionatedgamers.com/2025/05/16/dale-yu-review-of-hot-streak/"
+    description: "Dale Yu review covering mechanics, betting draft, card contribution system, and gameplay overview"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: hot-streak
+    url: "https://opinionatedgamers.com/2025/05/20/nathan-beeler-review-of-hot-streak/"
+    description: "Nathan Beeler review covering presentation, unique win condition (life outcome reading), and party dynamics"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: hot-streak
+    url: "https://store.asmodee.com/products/hot-streak"
+    description: "Asmodee retailer page confirming player count, playtime, age, component list, and pricing"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: hot-streak
+    url: "https://www.boardgamequest.com/hot-streak-review/"
+    description: "Board Game Quest review detailing card mechanics, race deck system, and production quality"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: hot-streak
+    url: "https://www.nobleknight.com/P/2148343140/Hot-Streak"
+    description: "Noble Knight retailer listing confirming 2025 publication year, player count 2-9, and 20-minute playtime"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: hot-streak
+    url: "https://store.boardgamebarrister.com/hot-streak/"
+    description: "Board Game Barrister listing with full designer and artist credits"
+  - timestamp: "2026-02-19T00:00:00Z"
+    game_id: hot-streak
+    url: "https://www.meeplemountain.com/reviews/hot-streak/"
+    description: "Meeple Mountain review confirming CMYK as publisher and gameplay details"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://www.academygames.com/pages/1775"
+    description: "Academy Games publisher page with game overview, factions, awards, and series information"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://www.amazon.com/Academy-Games-AYG-5375-1775/dp/B00F3CT6YG"
+    description: "Amazon product listing confirming 2-4 players, 60-120 min playtime"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://www.nobleknight.com/P/2147532034/Birth-of-America---1775-Rebellion"
+    description: "Noble Knight retailer page with designer credits, min age 10+, and series information"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://www.coolstuffinc.com/p/187570"
+    description: "CoolStuffInc product page confirming designers Jeph Stahl and Beau Beckett, age 10+"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://store.steampowered.com/app/422610/1775_Rebellion/"
+    description: "Steam digital version page with gameplay description and scenario information"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://www.academygames.com/collections/birth-of-america-series"
+    description: "Academy Games Birth of America series page confirming related games (1754, 1775, 1812)"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://jlnelson73.wordpress.com/2015/05/27/1775-rebellion-review/"
+    description: "Gaming Bits review with mechanics and component details"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: 1775-rebellion
+    url: "https://www.theboardgamefamily.com/2015/07/1775-rebellion-board-game-review/"
+    description: "Board Game Family review with gameplay and player count details"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: a-few-acres-of-snow
+    url: "https://www.ultraboardgames.com/a-few-acres-of-snow/"
+    description: "UltraBoardGames fan site confirming designer Martin Wallace, publisher Treefrog Games, 2 players, 60-120 min playtime, year 2011"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: a-few-acres-of-snow
+    url: "https://opinionatedgamers.com/2011/09/01/review-a-few-acres-of-snow/"
+    description: "Opinionated Gamers review confirming Treefrog Games publisher, 2011, deck-building wargame mechanics, 45-150 min range"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: a-few-acres-of-snow
+    url: "https://en.wikipedia.org/wiki/A_Few_Acres_of_Snow_(board_game)"
+    description: "Wikipedia article confirming Martin Wallace designer, Treefrog Games, 2011 publication, French and Indian War theme"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: terra-mystica
+    url: "https://en.wikipedia.org/wiki/Terra_Mystica"
+    description: "Wikipedia article on Terra Mystica confirming designers, 2012 publication year, Feuerland Spiele publisher, 2-5 players"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: terra-mystica
+    url: "https://www.feuerland-spiele.de/en/"
+    description: "Feuerland Spiele official site — original German publisher of Terra Mystica"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: terra-mystica
+    url: "https://www.amazon.com/Capstone-Games-Terra-Mystica-Expansion/dp/B09TWMLR4B"
+    description: "Amazon listing for Terra Mystica Big Box confirming expansions: Fire & Ice and Merchants of the Seas"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: terra-mystica
+    url: "https://www.amazon.com/Terra-Mystica-Fire-Ice-Expansion/dp/B00OZQPPIM"
+    description: "Amazon listing for Fire & Ice expansion confirming Z-Man Games publisher and 2-5 player count"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: terra-mystica
+    url: "https://capstone-games.com/products/terra-mystica-automa-solo-box/"
+    description: "Capstone Games official page for Terra Mystica Automa Solo Box — confirms Capstone as current NA publisher"

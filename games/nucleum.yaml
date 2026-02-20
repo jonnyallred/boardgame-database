@@ -1,0 +1,68 @@
+id: nucleum
+name: "Nucleum"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Network Building
+  - Route Building
+  - Hand Management
+  - Engine Building
+  - Tech Tree
+  - Resource Management
+  - Economic
+  - Action Points
+  - Variable Setup
+  - Euro
+  - Historical
+  - Simone Luciani
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Simone Luciani
+  - Dávid Turczi
+publisher:
+  - Board&Dice
+artist:
+  - Andreas Resch
+  - Piotr Sokołowski
+  - Zbigniew Umgelter
+playtime_minutes: 105
+min_playtime: 60
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Nucleum is a heavy euro game set in an alternate 19th-century Saxony, where players take on the roles of industrialists competing during an economic and technological revolution fueled by the invention of the Nucleum—a nuclear reactor powered by uranium. Players earn victory points by building networks of railways and urban buildings, powering cities with their industrial infrastructure, fulfilling contracts, and unlocking asymmetric technologies unique to each player. The core action system uses double-sided action tiles placed above the player board, with players choosing each turn to either activate a tile for one of its two actions (urbanize, industrialize, develop, contract, or energize), lay a tile as a railway link on the main board, or recharge their spent tiles. Gameplay is continuous with no distinct rounds, and randomized milestone goals create high variability between sessions. The game's interconnected systems of resource flow, network expansion, and technology development reward long-term strategic planning and careful optimization.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

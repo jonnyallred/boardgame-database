@@ -1,0 +1,60 @@
+id: river-of-gold
+name: "River of Gold"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Area Control
+  - Resource Management
+  - Economic
+  - Hand Management
+  - Euro
+  - Fantasy
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Keith Piggott
+publisher:
+  - Office Dog Games
+artist:
+  - Francesca Baerald
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  River of Gold is a competitive euro game set in the Legend of the Five Rings universe, where players take on the roles of merchant traders representing legendary samurai clans — Crab, Crane, Mantis, or Scorpion — vying for wealth and influence along Rokugan's fabled river. Each turn, players roll a die and use Divine Favor tokens to adjust their result, then take one of three actions: sail their ships downstream to collect coins and goods, invest in building trade ports, markets, or shrines, or fulfill customer contracts for rewards and end-game bonuses. The game progresses through two eras, with competition intensifying as building tiles grow scarce and players race to maximize area influence and contract points. Victory is determined by a combination of regional influence, completed contracts, and manor house bonuses, rewarding flexible strategies and opportunistic play. The game features a stunning embossed metallic gold game board illustrated by fantasy cartographer Francesca Baerald, and ships with a Patrons mini-expansion included.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

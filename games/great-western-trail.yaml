@@ -1,0 +1,75 @@
+id: great-western-trail
+name: "Great Western Trail"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: great-western-trail
+edition: null
+base_game: null
+expansions:
+  - great-western-trail-rails-to-the-north
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Engine Building
+  - Route Building
+  - Resource Management
+  - Variable Setup
+  - Modular Board
+  - Euro
+  - Western
+  - Historical
+  - Alexander Pfister
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Alexander Pfister
+publisher:
+  - eggertspiele
+  - Stronghold Games
+artist:
+  - Andreas Resch
+playtime_minutes: 113
+min_playtime: 75
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Great Western Trail places players in the roles of 19th-century cattle ranchers repeatedly
+  driving their herds from the grazing lands of Texas along the great trail to the railheads
+  of Kansas City, where the cattle are shipped east by train. On each turn players move their
+  cattleman along the trail, taking actions at buildings they pass—buying and selling cattle,
+  hiring workers (cowboys, craftsmen, or engineers), constructing private buildings, and
+  advancing their train network. The game's deck-building system underpins the cattle hand,
+  where players acquire new cattle cards and cull weaker ones to deliver ever-more-valuable
+  herds. Three distinct strategic paths—cattle breeding, infrastructure building, and train
+  advancement—interlock into a rich engine-building puzzle that rewards long-term planning
+  while demanding tactical adaptation to an ever-changing trail landscape.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,58 @@
+id: boop
+name: "boop."
+alternate_names:
+  - Gekitai
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Pattern Building
+  - Take That
+  - Abstract
+  - Filler
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Scott Brady
+publisher:
+  - Smirk & Laughter Games
+artist:
+  - Curt Covert
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  boop. is a two-player abstract strategy game in which players compete by placing kittens on a quilted 6x6 fabric board styled as a miniature bed. Each time a piece is placed, it "boops" all adjacent pieces one space away — friend and foe alike — creating a constantly shifting board state where short-term plans are easily disrupted. Line up three kittens in a row to graduate them into adult cats, then get three cats in a row to win. The game is a retheme of designer Scott Brady's earlier digital game Gekitai, adding the kitten-to-cat promotion mechanic. Despite its adorable appearance and simple rules, boop. rewards careful spatial reasoning and anticipation of your opponent's responses, earning it the 2023 Mensa Select award and the Origins 2023 Game of the Year.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

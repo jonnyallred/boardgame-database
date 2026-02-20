@@ -1,0 +1,61 @@
+id: a-few-acres-of-snow
+name: "A Few Acres of Snow"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Area Control
+  - Resource Management
+  - Historical
+  - War
+  - Wargame
+  - Martin Wallace
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Martin Wallace
+publisher:
+  - Treefrog Games
+artist:
+  - Peter Dennis
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  A Few Acres of Snow is a two-player deck-building wargame set during the French and Indian War, recreating the seventeenth and eighteenth century struggle between Britain and France for control of North America. Each player commands either the British or French forces, expanding their personal deck by capturing location cards that represent settlements and territories across a map of the continent. Cards serve multiple purposes — movement, combat, trade, and recruitment — forcing agonizing decisions each turn about which function to exploit. The game is named after Voltaire's sardonic consolation to Louis XV upon France's loss of Canada, describing it as merely "a few acres of snow." Though celebrated for its elegant fusion of deck-building with wargame territory control, the game is notable for the discovery of the "Halifax Hammer," a dominant British strategy subsequently patched in the 2nd edition by removing a key card from play.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

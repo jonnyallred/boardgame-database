@@ -1,0 +1,67 @@
+id: planet-unknown
+name: "Planet Unknown"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - planet-unknown-supermoon
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Drafting
+  - Engine Building
+  - Pattern Building
+  - Simultaneous Action
+  - Tech Tree
+  - Variable Setup
+  - Resource Management
+  - Network Building
+  - Modular Board
+  - Sci-Fi
+  - Space
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Ryan Lambert
+  - Adam Rehberg
+publisher:
+  - Adam's Apple Games
+artist:
+  - Yoma
+playtime_minutes: 70
+min_playtime: 60
+max_playtime: 80
+min_age: 10
+
+# Description
+description: |
+  Planet Unknown is a competitive polyomino tile-placement game in which players take on the roles of unique corporations racing to colonize newly discovered planets. Each round, players simultaneously draft dual-resource polyomino tiles from a central rotating space station (the Lazy S.U.S.A.N.), placing them on their personal asymmetric planet boards to fill gaps, activate engine tracks, and score points. The simultaneous play mechanism keeps downtime to near-zero regardless of player count, making a medium-weight strategy game feel brisk at 60-80 minutes even with six players. Asymmetric corporation boards with unique technology trees and seven interchangeable planet boards create 49 distinct player-board combinations, giving the game remarkable replayability. Winner of the 2022 Origins Award for Best Strategy Game and a 2023 Deutscher Spiele Preis nominee.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,61 @@
+id: the-gang
+name: "The Gang"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (10 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 1  # Cooperative
+value: 1  # Bargain
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Hand Management
+  - Bluffing
+  - Simultaneous Action
+  - Social Deduction
+  - Party
+  - Filler
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - John Cooper
+  - Kory Heath
+publisher:
+  - Thames & Kosmos
+artist:
+  - Fiore GmbH
+playtime_minutes: 20
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  The Gang is billed as the world's first cooperative poker game, in which players work together as thieves attempting to rob a bank by successfully predicting the ranking of everyone's poker hands. Using a Texas Hold'em structure with hole cards, flop, turn, and river, each player secretly selects a chip representing how strong they believe their hand is relative to the other players — without any spoken communication. If all players correctly assess the final rankings, the team opens a bank vault; three successful vaults wins, but three alarms means game over. The game scales in difficulty through basic, advanced, professional, and master thief modes, and earned the 2025 American Tabletop Awards in the Casual Games category for its approachable ruleset and novel cooperative twist on a classic card game.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

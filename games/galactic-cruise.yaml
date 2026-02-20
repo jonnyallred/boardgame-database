@@ -1,0 +1,63 @@
+id: galactic-cruise
+name: "Galactic Cruise"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Engine Building
+  - Tableau Building
+  - Variable Setup
+  - Euro
+  - Sci-Fi
+  - Space
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - T.K. King
+  - Dennis Northcott
+  - Koltin Thompson
+publisher:
+  - Kinson Key Games
+artist:
+  - Ian O'Toole
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Galactic Cruise is a heavy euro worker placement game for 1-4 players in which competitors take on roles as supervisors racing to become CEO of a luxury interstellar vacation company. Players build and launch space shuttles, recruit guests, develop technology, and grow their company network across a shared main board and individual player tableaux. A standout mechanic lets workers be placed on already-occupied spaces, bumping the existing worker and rewarding its owner with a funding bonus — creating meaningful interaction without direct conflict. Reputation tracks serve multiple purposes, reducing technology costs and providing emergency resource conversion. Designed by T.K. King, Dennis Northcott, and Koltin Thompson with art by Ian O'Toole, the game features premium dual-layer player boards and a retro-futuristic aesthetic.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

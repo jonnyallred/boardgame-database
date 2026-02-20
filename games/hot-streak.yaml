@@ -1,0 +1,62 @@
+id: hot-streak
+name: "Hot Streak"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (10 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 2  # Party
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Racing
+  - Press Your Luck
+  - Drafting
+  - Bluffing
+  - Party
+  - Family
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6, 7, 8, 9]
+true_counts: [5, 6, 7, 8, 9]
+
+# Metadata
+designer:
+  - Jon Perry
+  - Alex Hague
+  - James Nathan Spencer
+  - Justin Vickers
+publisher:
+  - CMYK
+artist:
+  - Cécile Gariépy
+playtime_minutes: 20
+min_playtime: 20
+max_playtime: 20
+min_age: 6
+
+# Description
+description: |
+  Hot Streak is a raucous betting and racing party game where players take on the roles of hard-luck gamblers wagering on the world's most off-brand mascots. Before each race, players snake-draft betting tickets, predicting which mascot will finish first, second, or third, while side bets offer higher-risk payouts. Each player secretly slips one card into the communal race deck, giving them a sliver of hidden influence over the chaotic outcome. Once the bets are locked, the race runs itself — cards move mascots forward, sideways, or toppling to the ground — while everyone cheers, boos, and screams. After three escalating rounds, the player with the most winnings claims a unique life-outcome reading from the rulebook rather than a conventional victory lap.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

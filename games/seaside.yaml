@@ -1,0 +1,63 @@
+id: seaside
+name: "Seaside"
+alternate_names:
+  - "Littoral"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (10 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Press Your Luck
+  - Bag Building
+  - Nature
+  - Animals
+  - Family
+  - Filler
+  - Gateway
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Bryan Burgoyne
+publisher:
+  - Randolph
+  - Hachette Boardgames
+artist:
+  - Fanny Saulnier
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 20
+min_age: 8
+
+# Description
+description: |
+  Seaside is a light and portable set-collection game designed for play anywhere — including the beach. Players take turns drawing double-sided wooden tokens from a canvas bag, choosing which face to reveal: the blue side sends a token to the communal "Sea" and may grant additional draws, while the white side places the token on a player's personal "Seaside" tableau for end-game scoring. Tokens depict seaside elements like shells, crabs, sandpipers, rocks, and waves, each interacting with others in the ecosystem to score points. The winner is the player who builds the tallest stack of scoring tokens. The game features eco-friendly, water-resistant wooden components and no plastic, making it a genuine travel and outdoor companion.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,78 @@
+id: distilled
+name: "Distilled"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Hand Management
+  - Set Collection
+  - Resource Management
+  - Simultaneous Action
+  - Press Your Luck
+  - Tableau Building
+  - Economic
+  - Euro
+  - Food Theme
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Dave Beck
+publisher:
+  - Paverson Games
+artist:
+  - Erik Evensen
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Distilled is a medium-weight thematic euro game in which players inherit a distillery and compete to earn the title of Master Distiller. Over seven rounds, players purchase ingredient cards, recipes, and distillery upgrades from a market, then simultaneously process their mash through a distinctive distillation mechanic — shuffling a deck, then removing the head and tail cards — to produce spirits like whisky, rum, baijiu, gin, and tequila. Aged spirits stored in barrels accumulate prestige points over time, rewarding long-term planning, while public milestones create competitive racing sub-goals. Asymmetric distiller identities give each player unique starting abilities and signature recipes, and a push-your-luck element allows failed batches to serve as catch-up opportunities. The game's mechanics integrate tightly with its distilling theme, making the system intuitive to learn despite its strategic depth.
+
+# Upgrades
+upgrades:
+  - name: Distilled Metal Coins
+    year: 2023
+    type: metal coins
+    publisher: Paverson Games
+    notes: Replacement metal coins for the cardboard currency
+  - name: Distilled Metal Recipe Cubes
+    year: 2023
+    type: metal tokens
+    publisher: Paverson Games
+    notes: Metal cubes to replace cardboard recipe markers
+  - name: Distilled Playmat
+    year: 2023
+    type: playmat
+    publisher: Paverson Games
+    notes: Neoprene playmat for the game
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
