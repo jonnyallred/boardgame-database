@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Show progress on detailed game entries vs source lists.
+"""Show progress on detailed game entries vs master list.
 
-Reads all YAML files in sources/lists/, unions game IDs across them,
-and diffs against games/ to show what's been researched and what's next.
+Reads master_list.csv (the canonical game catalog) and diffs against
+games/ to show what's been researched and what's next. Source lists in
+sources/lists/ are used as enrichment for prioritization.
 
 Usage:
     python3 scripts/progress.py        # stats + next 20 games
@@ -10,6 +11,7 @@ Usage:
     python3 scripts/progress.py 0      # stats only
 """
 
+import csv
 import glob
 import os
 import sys
@@ -17,17 +19,39 @@ import sys
 import yaml
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+MASTER_CSV = os.path.join(ROOT, "master_list.csv")
 LISTS_DIR = os.path.join(ROOT, "sources", "lists")
 GAMES_DIR = os.path.join(ROOT, "games")
 
 
-def load_all_lists():
-    """Load all source list files and return a unified game dict.
+def load_master_list():
+    """Load master_list.csv and return a dict keyed by lowercase name.
 
-    Returns dict keyed by game id:
-        {id: {"name": str, "year": int, "sources": [str, ...]}}
+    Returns: {lowercase_name: {"name": str, "year": str, "bgg_id": str}}
     """
     games = {}
+    if not os.path.isfile(MASTER_CSV):
+        return games
+    with open(MASTER_CSV) as f:
+        for row in csv.DictReader(f):
+            name = row["name"].strip()
+            key = name.lower()
+            if key not in games:
+                games[key] = {
+                    "name": name,
+                    "year": row.get("year", "") or "?",
+                    "bgg_id": row.get("bgg_id", ""),
+                    "sources": [],
+                }
+    return games
+
+
+def load_source_enrichment():
+    """Load source lists and return a dict of {lowercase_name: [source_names]}.
+
+    Used to enrich master list entries with provenance info for prioritization.
+    """
+    enrichment = {}
     list_files = sorted(glob.glob(os.path.join(LISTS_DIR, "*.yaml")))
     for path in list_files:
         with open(path) as f:
@@ -36,57 +60,45 @@ def load_all_lists():
             continue
         source_name = data.get("source", os.path.basename(path))
         for g in data["games"]:
-            gid = g.get("id")
-            if not gid:
+            name = g.get("name", "").strip()
+            if not name:
                 continue
-            if gid not in games:
-                games[gid] = {
-                    "name": g.get("name", gid),
-                    "year": g.get("year", "?"),
-                    "sources": [],
-                }
-            games[gid]["sources"].append(source_name)
-    return games
+            key = name.lower()
+            enrichment.setdefault(key, []).append(source_name)
+    return enrichment
 
 
 def load_existing():
-    """Return set of game IDs and dict of all names (including alternates) to IDs.
+    """Return set of lowercase names and count of game files.
 
-    Returns: (set of IDs, dict of {name: id})
+    Includes primary names and alternate_names from each game file.
+    Returns: (set of lowercase names, number of game files)
     """
-    existing_ids = set()
-    name_to_id = {}  # Maps all names (primary + alternates) to game ID
-
+    names = set()
+    file_count = 0
+    primary_names = set()
     if not os.path.isdir(GAMES_DIR):
-        return existing_ids, name_to_id
+        return names, file_count, primary_names
 
     for fname in os.listdir(GAMES_DIR):
         if not fname.endswith(".yaml"):
             continue
-
-        game_id = fname[:-5]
-        existing_ids.add(game_id)
-
-        # Load the game file to get name and alternate_names
+        file_count += 1
         game_path = os.path.join(GAMES_DIR, fname)
         try:
             with open(game_path) as f:
                 game_data = yaml.safe_load(f)
-
-            # Map primary name to ID
             if game_data and "name" in game_data:
-                name_to_id[game_data["name"].lower()] = game_id
-
-            # Map alternate names to ID
+                names.add(game_data["name"].lower())
+                primary_names.add(game_data["name"].lower())
             if game_data and "alternate_names" in game_data:
-                for alt_name in game_data.get("alternate_names", []):
-                    if alt_name:
-                        name_to_id[alt_name.lower()] = game_id
+                for alt in game_data.get("alternate_names", []):
+                    if alt:
+                        names.add(alt.lower())
         except Exception:
-            # If we can't read the file, just skip the name mapping
             pass
 
-    return existing_ids, name_to_id
+    return names, file_count, primary_names
 
 
 def main():
@@ -94,54 +106,58 @@ def main():
     if len(sys.argv) > 1:
         show_count = int(sys.argv[1])
 
-    all_games = load_all_lists()
-    existing_ids, name_to_id = load_existing()
-    total = len(all_games)
+    master = load_master_list()
+    total = len(master)
 
     if total == 0:
-        print("No source lists found in sources/lists/")
-        print("Add YAML files there to start tracking games.")
+        print("No games found in master_list.csv")
+        print("Run: python3 scripts/scrape_wikidata.py")
         return
 
-    # Check if game exists by ID or by name match
-    done_ids = set()
+    existing_names, num_entries, primary_names = load_existing()
+    enrichment = load_source_enrichment()
+
+    # Enrich master list with source info
+    for key, game in master.items():
+        game["sources"] = enrichment.get(key, [])
+
+    # Partition into done vs remaining
+    done = {}
     remaining = {}
-    for gid, g in all_games.items():
-        # Check if ID exists
-        if gid in existing_ids:
-            done_ids.add(gid)
-            continue
+    for key, game in master.items():
+        if key in existing_names:
+            done[key] = game
+        else:
+            remaining[key] = game
 
-        # Check if name matches any existing game (by primary or alternate name)
-        game_name_lower = g["name"].lower()
-        if game_name_lower in name_to_id:
-            done_ids.add(gid)
-            continue
+    # Orphans: game files whose primary name isn't in the master list
+    orphan_count = len(primary_names - set(master.keys()))
 
-        # Not found, add to remaining
-        remaining[gid] = g
+    num_sources = len(glob.glob(os.path.join(LISTS_DIR, "*.yaml")))
 
-    orphans = existing_ids - set(all_games.keys())
-
-    pct = len(done_ids) / total * 100 if total else 0
-    print(f"Progress: {len(done_ids)}/{total} ({pct:.1f}%)")
+    pct = len(done) / total * 100 if total else 0
+    print(f"Master list: {total} games")
+    print(f"Game entries: {num_entries} files")
+    if orphan_count:
+        print(f"  ({orphan_count} not in master list)")
+    print(f"Progress: {len(done)}/{total} ({pct:.1f}%)")
     print(f"Remaining: {len(remaining)}")
-    print(f"Sources: {len(glob.glob(os.path.join(LISTS_DIR, '*.yaml')))} list files")
-    if orphans:
-        print(f"Orphans: {len(orphans)} game files not in any source list")
+    if num_sources:
+        print(f"Source lists: {num_sources} files (used for prioritization)")
 
     if show_count > 0 and remaining:
-        # Sort by number of sources (most-nominated first), then alphabetically
+        # Sort: most source-list nominations first, then alphabetically
         sorted_remaining = sorted(
             remaining.items(),
-            key=lambda x: (-len(x[1]["sources"]), x[0]),
+            key=lambda x: (-len(x[1]["sources"]), x[1]["name"].lower()),
         )
         n = min(show_count, len(sorted_remaining))
         print(f"\nNext {n} games to add:")
         print("-" * 70)
-        for gid, g in sorted_remaining[:n]:
+        for key, g in sorted_remaining[:n]:
             sources = ", ".join(g["sources"])
-            print(f"  {g['name']} ({g['year']})  [{sources}]")
+            suffix = f"  [{sources}]" if sources else ""
+            print(f"  {g['name']} ({g['year']}){suffix}")
 
 
 if __name__ == "__main__":

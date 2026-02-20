@@ -7,8 +7,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 This is a **Board Game Database** - a curated collection of board games with detailed metadata, ratings, and categorization. The project stores data as YAML files rather than using a traditional database, making it easy to version control and maintain.
 
 **Key Stats:**
-- `sources/lists/`: One YAML file per source (article, award list, etc.) — the "want list"
+- `master_list.csv`: Canonical catalog of all known board games — the "want list" (source of truth)
 - `games/`: Individual YAML files with detailed research — the "done list"
+- `sources/lists/`: Award/article YAML files — enrichment for prioritization (not the source of truth)
 - `schema.yaml`: Complete data structure and validation rules
 - `publishers.yaml`: Publisher directory with press kit URLs and contacts
 - `images/sources.yaml`: Image provenance tracking (source, license, date)
@@ -84,9 +85,17 @@ Each game file (`games/{slug}.yaml`) contains:
 - `upgrades[]`: Optional custom components or accessories
 - `plays_tracked`: Play history tracking (total_plays and configs)
 
-### Source Lists
+### Master List (Source of Truth)
 
-Game nominations live in `sources/lists/`, one YAML file per source. Each file has:
+`master_list.csv` is the canonical catalog of all known board games. It is the source of truth for "what games exist" and drives progress tracking. CSV columns: `bgg_id`, `name`, `year`, `type`.
+
+Games are added to the master list from two sources:
+- **Wikidata scraper** (`scripts/scrape_wikidata.py`) — bulk discovery from Wikidata's public SPARQL endpoint
+- **Manual additions** — games from source lists, game entries, or other research that aren't already in Wikidata
+
+### Source Lists (Enrichment)
+
+Source lists in `sources/lists/` provide provenance and prioritization data. Each file represents an award list, article, or curated recommendation:
 
 ```yaml
 source: "Human-readable source name"
@@ -98,7 +107,7 @@ games:
     year: 2017
 ```
 
-The progress script unions all list files by `id`, deduplicates, and diffs against `games/` to show what's next. Games appearing in multiple sources are prioritized. See `sources/lists/README.md` for details.
+Source lists do **not** define the total game universe — `master_list.csv` does. Instead, they enrich the progress script's output: games appearing in more source lists are prioritized higher in the "next to add" queue. See `sources/lists/README.md` for details.
 
 ### Schema
 
@@ -145,6 +154,7 @@ The project uses YAML structure only—no linting tools are configured. When edi
 - Or use the `/progress` skill in Claude Code
 - `python3 scripts/progress.py 50` — show next 50 games
 - `python3 scripts/progress.py 0` — stats only
+- Progress is measured against `master_list.csv` (the source of truth)
 - Games appearing in more source lists are shown first (most-nominated = highest priority)
 
 **Image progress:**
@@ -183,10 +193,11 @@ Game year is the publication year of that specific edition, not the original des
 - `Brass: Lancashire (2007)` has `year: 2007`
 - `Brass: Birmingham (2018)` has `year: 2018`
 
-### Master List Scraping (Wikidata)
+### Master List & Wikidata Scraping
 
-`master_list.csv` is a bulk catalog of known board games, used for discovery and gap analysis. It is separate from the curated `sources/lists/` approach and does not drive game entry creation directly.
+`master_list.csv` is the **source of truth** for the game catalog. It contains all known board games and drives progress tracking. New games can be added to it from any source.
 
+**Populating from Wikidata:**
 ```bash
 pip install -r scripts/requirements.txt
 python3 scripts/scrape_wikidata.py           # fetch next 10,000 games
@@ -197,11 +208,14 @@ Queries Wikidata's free public SPARQL endpoint — no API key or registration ne
 Each run fetches 10,000 games. State is persisted in `wikidata_state.json`.
 CSV columns: `bgg_id`, `name`, `year`, `type`.
 
+**Adding games manually:** Append rows to `master_list.csv` with at minimum a `name`. Leave `bgg_id` empty if unknown.
+
 ## Architecture Notes
 
 **Tooling:**
-- `scripts/progress.py` and `scripts/image_manager.py` — progress and image tracking
-- `scripts/scrape_wikidata.py` — bulk catalog building via Wikidata SPARQL
+- `scripts/progress.py` — tracks game entries vs `master_list.csv`; uses `sources/lists/` for prioritization
+- `scripts/image_manager.py` — image coverage tracking
+- `scripts/scrape_wikidata.py` — populates `master_list.csv` from Wikidata SPARQL
 - `scripts/game_pipeline.py` — research pipeline used by the `game-researcher` agent: fetches URLs, strips HTML to clean text, caches in `pipeline_cache.db`. Returns clean text per source; the calling agent handles all structured data extraction. Use `--log SLUG` to auto-append provenance entries to `sources/research-log.yaml`.
 - `scripts/html_preprocessor.py` — HTML → clean text (Trafilatura + BS4 fallback), truncated to 3000 chars per source
 
