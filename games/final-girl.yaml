@@ -1,0 +1,66 @@
+id: final-girl
+name: "Final Girl"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - final-girl-once-upon-a-full-moon
+  - final-girl-happy-trails-horror
+  - final-girl-slaughter-in-the-grave
+  - final-girl-carnage-at-the-carnival
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (20-60 min)
+rules_complexity: 2  # Junior High - modular system with unique killer/location decks
+strategic_depth: 2  # Tactics - reactive decision-making against the killer
+feel: 0  # Solitary - solo only
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Deck Building
+  - Modular Board
+  - Variable Setup
+  - 1 vs Many
+  - Horror
+  - Survival
+
+# Player counts
+possible_counts: [1]
+true_counts: [1]
+
+# Metadata
+designer:
+  - Evan Derrick
+  - A.J. Porfirio
+publisher:
+  - Van Ryder Games
+playtime_minutes: 40
+min_playtime: 20
+max_playtime: 60
+min_age: 17
+
+# Description
+description: |
+  A solo horror survival game where you play the Final Girl trying to defeat
+  a supernatural killer before all other victims are eliminated. Each game
+  combines one killer box with one location box, creating unique scenarios from
+  a slasher movie universe. Manage your hand of action cards, roll dice to fight
+  or flee, and find items to gain an edge. The killer activates each round from
+  a dedicated deck, escalating tension toward a deadly final confrontation.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

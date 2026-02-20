@@ -1,0 +1,73 @@
+id: star-wars-imperial-assault
+name: "Star Wars: Imperial Assault"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - star-wars-imperial-assault-twin-shadows
+  - star-wars-imperial-assault-return-to-hoth
+  - star-wars-imperial-assault-the-bespin-gambit
+  - star-wars-imperial-assault-jabbas-realm
+  - star-wars-imperial-assault-heart-of-the-empire
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (60-120 min per session)
+rules_complexity: 3  # College - campaign rules plus skirmish mode
+strategic_depth: 3  # Strategy - tactical positioning and list building
+feel: 4  # Fierce - 1 vs Many, Imperial player vs Rebels
+value: 3  # Splurge - detailed plastic miniatures
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - 1 vs Many
+  - Dice Rolling
+  - Campaign Mode
+  - Modular Board
+  - Action Points
+  - Variable Setup
+  - Dungeon Crawler
+  - Ameritrash
+  - Sci-Fi
+  - Fantasy Flight Games
+  - Corey Konieczka
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Corey Konieczka
+  - Justin Kemppainen
+publisher:
+  - Fantasy Flight Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  A tactical dungeon-crawl campaign game set in the Star Wars universe, featuring
+  two distinct modes of play. In the campaign game, one player controls the Imperial
+  forces against 1-4 Rebel heroes in a series of linked narrative missions, while
+  a separate skirmish mode lets two players compete head-to-head with custom strike
+  teams. Players upgrade their heroes between missions, with the Imperial player
+  adapting strategy based on Rebel accomplishments. Packed with detailed plastic
+  miniatures and evocative Star Wars locations, it is heavily inspired by Descent.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

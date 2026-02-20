@@ -1,0 +1,67 @@
+id: splendor-duel
+name: "Splendor Duel"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~30 min)
+rules_complexity: 2  # Junior High - structured steps and mechanics
+strategic_depth: 3  # Strategy - long-term gem engine and card combos
+feel: 4  # Fierce - direct head-to-head competition
+value: 2  # Fair Deal - quality components for price
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Engine Building
+  - Tableau Building
+  - Pattern Building
+  - Take That
+  - Abstract
+  - Euro
+  - Bruno Cathala
+  - Asmodee
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Marc André
+  - Bruno Cathala
+publisher:
+  - Space Cowboys
+  - Asmodee
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+# Description
+description: |
+  A two-player gem-acquisition duel set in the Renaissance. Players take turns
+  claiming gem and gold tokens from a shared 5x5 grid, where only consecutive tokens
+  in a row may be taken, creating gaps that limit future options for both players.
+  Tokens fund the purchase of development cards that provide permanent gem bonuses
+  and victory points. Three separate win conditions — reaching 20 points, acquiring
+  10 crowns, or collecting 10 cards in a single color — create multiple paths to
+  victory and force constant adaptation.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

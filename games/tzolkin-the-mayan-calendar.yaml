@@ -1,0 +1,66 @@
+id: tzolkin-the-mayan-calendar
+name: "Tzolk'in: The Mayan Calendar"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - tzolkin-tribes-and-prophecies
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 3  # College - interlocking gear mechanic requires planning ahead
+strategic_depth: 4  # Master Plan - multi-turn optimization across interconnected gears
+feel: 3  # Polite - competitive with indirect blocking
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Variable Setup
+  - Euro
+  - Ancient
+  - Mythology
+  - Simone Luciani
+  - Daniele Tascini
+  - Czech Games Edition
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Simone Luciani
+  - Daniele Tascini
+publisher:
+  - Czech Games Edition
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 13
+
+# Description
+description: |
+  A worker placement game set in the Mayan civilization, driven by five
+  interlocking gears that rotate every round. Workers placed on earlier
+  (smaller) gear teeth yield fewer resources but free up sooner; those left
+  on longer gain compounding benefits as the gears turn. Players build
+  buildings, advance on tech tracks, and perform religious ceremonies to score
+  points. The gear mechanism creates a uniquely tangible sense of time and
+  planning depth.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

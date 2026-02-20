@@ -1,0 +1,65 @@
+id: the-gallerist
+name: "The Gallerist"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - the-gallerist-scoring-expansion
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-150 min)
+rules_complexity: 4  # PhD - intricate rules
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 4  # Fierce - cutthroat blocking and competition
+value: 3  # Splurge - high-quality art-themed components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Economic
+  - Set Collection
+  - Auctions/Bidding
+  - Tableau Building
+  - Euro
+  - Vital Lacerda
+  - Eagle-Gryphon Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Vital Lacerda
+publisher:
+  - Eagle-Gryphon Games
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 150
+min_age: 13
+
+# Description
+description: |
+  Run an art gallery in this complex economic game by Vital Lacerda. Discover
+  emerging artists, commission and display their works, promote them to increase
+  their value, then sell pieces to wealthy collectors for profit. Players compete
+  intensely over gallery space and artist reputation, with opponents able to use
+  your gallery's facilities when you're away. Balance short-term cash flow with
+  long-term artist development in this rich, deeply strategic euro game.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

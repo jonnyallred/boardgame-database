@@ -1,0 +1,75 @@
+id: kingdom-death-monster
+name: "Kingdom Death: Monster"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - kingdom-death-monster-dragon-king
+  - kingdom-death-monster-lion-god
+  - kingdom-death-monster-spidicules
+  - kingdom-death-monster-dung-beetle-knight
+  - kingdom-death-monster-gorm
+  - kingdom-death-monster-sunstalker
+  - kingdom-death-monster-flower-knight
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon - campaign spans dozens of sessions
+rules_complexity: 4  # PhD - intricate interleaved campaign rules
+strategic_depth: 4  # Master Plan - long-term settlement and survivor optimization
+feel: 1  # Cooperative - fully cooperative survival
+value: 4  # Heirloom - extraordinary luxury miniatures and production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Dice Rolling
+  - Resource Management
+  - Deck Building
+  - Variable Setup
+  - Narrative Heavy
+  - Cult Classic
+  - Horror
+  - Fantasy
+  - Survival
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Adam Poots
+publisher:
+  - Kingdom Death
+playtime_minutes: 150
+min_playtime: 60
+max_playtime: 180
+min_age: 18
+
+# Description
+description: |
+  A cooperative campaign game of survival horror set in a nightmarish world of
+  absolute darkness, where a small group of survivors must hunt monsters, craft
+  gear from their remains, and build up a settlement across a 30-lantern-year campaign.
+  Each session cycles through three phases: the hunt (a procedural journey), the showdown
+  (tactical grid combat against a unique monster), and the settlement phase (managing
+  resources, crafting, and the births and deaths of survivors). Famous for its
+  extraordinarily detailed resin miniatures, punishing difficulty, and the sense that
+  every campaign tells a unique story of triumph and tragedy.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

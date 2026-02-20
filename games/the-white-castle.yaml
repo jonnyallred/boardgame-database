@@ -1,0 +1,61 @@
+id: the-white-castle
+name: "The White Castle"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-80 min)
+rules_complexity: 2  # Junior High - clean euro with dice drafting layer
+strategic_depth: 3  # Strategy - efficient action sequencing and set collection
+feel: 3  # Polite - competitive with minimal direct conflict
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Resource Management
+  - Variable Setup
+  - Euro
+  - Medieval
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Isra C.
+  - Shei S.
+publisher:
+  - Devir
+playtime_minutes: 70
+min_playtime: 60
+max_playtime: 80
+min_age: 12
+
+# Description
+description: |
+  A dice-worker placement game set in feudal Japan at Himeji Castle. Draft dice
+  to deploy workers into three castle areas — gardens, bridge, and inner chambers
+  — each generating different actions and scoring opportunities. Manage resources
+  carefully to train lantern bearers, perform ceremonies, and advance samurai retainers.
+  Elegant, fast-playing, and visually striking, it distills worker placement to its
+  essential decisions in a tight 60-80 minute package.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

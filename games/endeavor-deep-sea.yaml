@@ -1,0 +1,66 @@
+id: endeavor-deep-sea
+name: "Endeavor: Deep Sea"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - endeavor-deep-sea-uncharted-waters
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-120 min)
+rules_complexity: 2  # Junior High - accessible mid-weight euro
+strategic_depth: 3  # Strategy - action chaining and tech track optimization
+feel: 3  # Polite - competitive with shared board pressure
+value: 2  # Fair Deal - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Action Points
+  - Tech Tree
+  - Resource Management
+  - Modular Board
+  - Variable Setup
+  - Nature
+  - Maritime
+  - Euro
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Carl de Visser
+  - Jarratt Gray
+publisher:
+  - Burnt Island Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+# Description
+description: |
+  Lead an independent ocean research institute to explore the deep sea and
+  protect fragile marine ecosystems. Players recruit field experts, explore dive
+  sites, publish ecological papers, and launch conservation efforts across a
+  modular underwater map. Actions chain together through a distinctive activation
+  system, and tech tracks unlock increasingly powerful options. Playable solo,
+  cooperatively, or competitively, with game length scaling to player count.
+  A Kennerspiel des Jahres nominee praised for its elegant design.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

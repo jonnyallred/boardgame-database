@@ -1,0 +1,66 @@
+id: clans-of-caledonia
+name: "Clans of Caledonia"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - clans-of-caledonia-industria
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (30-120 min depending on player count)
+rules_complexity: 3  # College - unique clan powers, export contracts, market dynamics
+strategic_depth: 4  # Master Plan - tight economic optimization with market interaction
+feel: 3  # Polite - competitive with indirect market interference
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Economic
+  - Trading
+  - Negotiation
+  - Modular Board
+  - Variable Setup
+  - Network Building
+  - Resource Management
+  - Euro
+  - Historical
+  - Agriculture
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Juma Al-JouJou
+publisher:
+  - Karma Games
+playtime_minutes: 75
+min_playtime: 30
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  A clan-based economic strategy game set in 19th-century Scotland. Each player
+  leads a unique Scottish clan with a special economic power and works to settle
+  the landscape, produce goods, and fulfill profitable export contracts. A shared
+  market tracks supply and demand — flooding it with a commodity drives its price
+  down, punishing both you and competitors. Export contracts scored throughout
+  the game create a tense, interconnected economy. Often compared to Terra Mystica
+  for its modular map and asymmetric faction design.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,61 @@
+id: pax-pamir-second-edition
+name: "Pax Pamir: Second Edition"
+year: 2019
+
+# Relationships
+game_family: pax-pamir
+edition: second-edition
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (75-120 min)
+rules_complexity: 3  # College - loyalty shifts, dominance checks, tableau interactions
+strategic_depth: 4  # Master Plan - read opponents, bet on winning coalition
+feel: 4  # Fierce - cutthroat betrayal and coalition politics
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Tableau Building
+  - Hand Management
+  - Area Control
+  - Historical
+  - Cole Wehrle
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Cole Wehrle
+publisher:
+  - Wehrlegig Games
+playtime_minutes: 90
+min_playtime: 45
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Play as power brokers in 19th-century Afghanistan during the Great Game
+  between British, Russian, and Afghan factions. Court cards to build a
+  tableau of tribes, armies, and infrastructure while pledging loyalty to
+  whichever colonial power seems poised to dominate. Dominance checks score
+  suddenly and brutally. Betray alliances, shift loyalties, and outmaneuver
+  rivals to be on the winning side when the dust settles. Wehrlegig's
+  production is sumptuous, with hand-illustrated cards and linen-finish quality.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

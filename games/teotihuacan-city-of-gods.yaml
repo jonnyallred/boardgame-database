@@ -1,0 +1,67 @@
+id: teotihuacan-city-of-gods
+name: "Teotihuacan: City of Gods"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - teotihuacan-expansion-period
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (90-120 min)
+rules_complexity: 3  # College - dice worker upgrade system is complex
+strategic_depth: 4  # Master Plan - pyramid construction and worker optimization
+feel: 3  # Polite - competitive with strong spatial tension
+value: 2  # Fair Deal - quality boards and components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Rondel
+  - Tile Placement
+  - Resource Management
+  - Variable Setup
+  - Historical
+  - Ancient
+  - Civilization
+  - Euro
+  - Daniele Tascini
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Daniele Tascini
+publisher:
+  - Board&Dice
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Build the great Pyramid of the Sun alongside rival civilizations in ancient Mexico.
+  Players control dice-based workers that grow stronger every time they move, and must
+  balance using their power now versus building it further. Each location on the circular
+  board offers a choice between taking an action with a worker upgrade, or accepting a
+  powerful bonus without upgrading. Construct pyramid levels, collect masks, and fulfill
+  ritual requirements to score the most points when the pyramid is complete. A deeply
+  strategic euro with an innovative worker-upgrade mechanism.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

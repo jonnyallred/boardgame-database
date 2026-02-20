@@ -1,0 +1,66 @@
+id: pandemic-legacy-season-2
+name: "Pandemic Legacy: Season 2"
+year: 2017
+
+# Relationships
+game_family: pandemic-legacy
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~60 min per session)
+rules_complexity: 3  # College - legacy mechanics, unique board state, hidden content
+strategic_depth: 3  # Strategy - long-term campaign decisions carry permanent weight
+feel: 1  # Cooperative - fully cooperative campaign
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Legacy
+  - Campaign Mode
+  - Hand Management
+  - Variable Setup
+  - Resource Management
+  - Survival
+  - Euro
+  - Matt Leacock
+  - Rob Daviau
+  - Z-Man Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Matt Leacock
+  - Rob Daviau
+publisher:
+  - Z-Man Games
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 75
+min_age: 14
+
+# Description
+description: |
+  Set 71 years after the collapse depicted in Season 1, humanity has retreated
+  to isolated haven cities surviving on supply drops. Players work together to
+  rediscover the lost world, establish supply lines, and find a cure for
+  the remaining diseases. Like its predecessor, every game permanently alters
+  the board, unlocks new content, and carries consequences forward. A more
+  narrative and exploration-focused campaign than Season 1.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

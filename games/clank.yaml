@@ -1,0 +1,64 @@
+id: clank
+name: "Clank!: A Deck-Building Adventure"
+year: 2016
+
+# Relationships
+game_family: clank
+edition: null
+base_game: null
+expansions:
+  - clank-sunken-treasures
+  - clank-the-mummy-s-curse
+  - clank-gold-and-silk
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 2  # Junior High - deck building with spatial dungeon movement
+strategic_depth: 3  # Strategy - risk management and timing of descent/ascent
+feel: 3  # Polite - competitive with noise-track take-that element
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Modular Board
+  - Press Your Luck
+  - Hand Management
+  - Take That
+  - Fantasy
+  - Dungeon Crawler
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Paul Dennen
+publisher:
+  - Renegade Game Studios
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 13
+
+# Description
+description: |
+  A deck-building dungeon delve where adventurers sneak into a dragon's lair
+  to steal valuable artifacts. Build your deck of movement, combat, and skill
+  cards while navigating a modular dungeon map. Every card that generates noise
+  adds Clank! cubes to the bag — when the dragon attacks, cubes drawn from
+  the bag deal damage. Race to grab the best loot and escape before the dragon
+  wakes up, balancing greed against survival.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

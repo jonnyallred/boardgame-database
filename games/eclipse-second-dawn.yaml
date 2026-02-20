@@ -1,0 +1,65 @@
+id: eclipse-second-dawn
+name: "Eclipse: Second Dawn for the Galaxy"
+year: 2020
+
+# Relationships
+game_family: eclipse
+edition: second-dawn
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 3  # College - several complex interconnected systems
+strategic_depth: 4  # Master Plan - tech, fleet, diplomacy optimization
+feel: 4  # Fierce - direct conflict, conquest
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - 4X
+  - Hex Map
+  - Tech Tree
+  - Area Control
+  - Resource Management
+  - Modular Board
+  - Sci-Fi
+  - Space
+  - CMON
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Touko Tahkokallio
+publisher:
+  - CMON
+  - Lautapelit.fi
+playtime_minutes: 150
+min_playtime: 90
+max_playtime: 200
+min_age: 14
+
+# Description
+description: |
+  Build a space empire, research technology, command fleets, and battle for
+  galactic dominance in this streamlined 4X epic. Each player controls a
+  unique alien species with asymmetric starting abilities. Explore hexagonal
+  sectors, colonize planets for resource income, and design custom ships by
+  slotting in tech components. Diplomacy is fragile and betrayal is rewarded.
+  The second edition overhauls the production with stunning miniatures and
+  quality components from CMON while refining rules from the 2011 original.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

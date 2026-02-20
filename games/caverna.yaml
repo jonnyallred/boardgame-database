@@ -1,0 +1,61 @@
+id: caverna
+name: "Caverna: The Cave Farmers"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3.5 hrs depending on player count)
+rules_complexity: 3  # College - large action space, many building types
+strategic_depth: 3  # Strategy - long-term engine planning
+feel: 3  # Polite - low direct conflict
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Agriculture
+  - Euro
+  - Uwe Rosenberg
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6, 7]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Lookout Games
+  - Mayfair Games
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 210
+min_age: 12
+
+# Description
+description: |
+  Uwe Rosenberg's sprawling worker placement game where dwarven families
+  build caves and farm simultaneously. Players dig rooms, cultivate fields,
+  raise animals, and go on expeditions to gather resources. Unlike Agricola,
+  there's no hand of cards to restrict options—anyone can do anything each
+  round, creating a more open sandbox feel with less starvation tension.
+  A massive array of cave rooms and furnishings provides enormous variety.
+  Best at lower player counts where the action space stays competitive.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

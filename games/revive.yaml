@@ -1,0 +1,63 @@
+id: revive
+name: "Revive"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (~90-120 min)
+rules_complexity: 3  # College - asymmetric factions, deck building, worker placement
+strategic_depth: 3  # Strategy - long-term faction engine development
+feel: 3  # Polite - competitive with some interaction
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Worker Placement
+  - Engine Building
+  - Campaign Mode
+  - Variable Setup
+  - Post-Apocalyptic
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Helge Meissner
+  - Ole Steiness
+  - Kristian Amundsen Ostby
+  - Lars Skaale Wermlund
+publisher:
+  - Aporta Games
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Rebuild civilization after an ice age catastrophe using asymmetric factions
+  with unique abilities and deck-building mechanics. Players spread across a
+  frozen map, gather resources, research technologies, and construct buildings
+  to awaken humanity. Each faction has its own starting deck and special powers,
+  creating radically different playstyles. Includes an optional campaign mode
+  with persistent unlocks.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

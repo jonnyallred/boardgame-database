@@ -1,0 +1,61 @@
+id: puerto-rico
+name: "Puerto Rico"
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~90 min)
+rules_complexity: 2  # Junior High - role selection system is intuitive once learned
+strategic_depth: 3  # Strategy - long-term building vs. shipping balance
+feel: 3  # Polite - competitive but indirect
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Engine Building
+  - Historical
+  - Euro
+  - Rio Grande Games
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Andreas Seyfarth
+publisher:
+  - Rio Grande Games
+  - Ravensburger
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Classic Euro role-selection game set in colonial Puerto Rico. Each round,
+  players take turns choosing roles (Mayor, Builder, Craftsman, Captain, etc.)
+  that activate for everyone but give the chooser a bonus. Produce goods with
+  colonists, construct buildings for special powers, and ship goods to Europe
+  for victory points. The tension between building an engine and shipping for
+  points is timeless. One of the most influential Euros ever designed.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

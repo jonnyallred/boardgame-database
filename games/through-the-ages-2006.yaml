@@ -1,0 +1,70 @@
+id: through-the-ages-2006
+name: "Through the Ages: A Story of Civilization"
+year: 2006
+
+# Relationships
+game_family: through-the-ages
+edition: "Original (2006)"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (180-360 min)
+rules_complexity: 4  # PhD - intricate rules
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 4  # Fierce - military aggression and card denial
+value: 2  # Fair Deal - cards and cardboard components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Hand Management
+  - Tech Tree
+  - Resource Management
+  - Engine Building
+  - Tableau Building
+  - Economic
+  - Civilization
+  - Historical
+  - Euro
+  - Vlaada Chvatil
+  - Czech Games Edition
+  - Eagle-Gryphon Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Vlaada Chvatil
+publisher:
+  - Czech Games Edition
+  - Eagle-Gryphon Games
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+# Description
+description: |
+  The original civilization card game in which players guide a nation from antiquity
+  to the modern era, drafting leaders, technologies, wonders, and military cards from
+  a shared row. Civil and military action points constrain what you can accomplish
+  each turn, forcing agonizing trade-offs between growth, production, science, and
+  culture. Military strength matters not just for attacking rivals but for defending
+  against political events. This 2006 edition was later revised into "Through the
+  Ages: A New Story of Civilization" in 2015 with streamlined rules and updated cards.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,65 @@
+id: great-western-trail-new-zealand
+name: "Great Western Trail: New Zealand"
+year: 2023
+
+# Relationships
+game_family: great-western-trail
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (75-150 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with indirect conflict
+value: 2  # Fair Deal - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Resource Management
+  - Route Building
+  - Set Collection
+  - Variable Setup
+  - Modular Board
+  - Euro
+  - Alexander Pfister
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Alexander Pfister
+publisher:
+  - Eggertspiele
+playtime_minutes: 112
+min_playtime: 75
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  The third standalone game in the Great Western Trail trilogy, transporting the
+  acclaimed formula to the sheep stations of New Zealand's South Island. Players
+  are runholders driving their flocks across vast pastures to shipping ports, using
+  the signature deck-building and hand management system of the series. New Zealand
+  introduces fresh mechanics including a unique worker progression system and
+  terrain-specific challenges that differentiate it from its predecessors. A complete
+  standalone game that forms the conclusion to Alexander Pfister's GWT trilogy.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

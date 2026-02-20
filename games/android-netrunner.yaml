@@ -1,0 +1,69 @@
+id: android-netrunner
+name: "Android: Netrunner"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~45-60 min)
+rules_complexity: 3  # College - asymmetric rules for each side
+strategic_depth: 4  # Master Plan - deep deckbuilding and bluffing
+feel: 4  # Fierce - deeply asymmetric, cutthroat rivalry
+value: 2  # Fair Deal - LCG card set
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Deck Building
+  - Bluffing
+  - Deduction
+  - Hidden Movement
+  - Take That
+  - Cult Classic
+  - Sci-Fi
+  - Cyberpunk
+  - Espionage
+  - Fantasy Flight Games
+  - Richard Garfield
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Richard Garfield
+  - Lukas Litzsinger
+publisher:
+  - Fantasy Flight Games
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  A deeply asymmetric two-player Living Card Game set in the dystopian Android
+  universe, pitting a powerful megacorporation against a daring hacker. The corporation
+  advances agendas hidden behind layers of ice (defensive programs), while the runner
+  probes and breaches servers to steal them before they can be scored. Bluffing,
+  resource management, and deckbuilding combine in a tense cat-and-mouse duel where
+  every card played carries multiple strategic implications. Originally designed by
+  Richard Garfield and revived by Fantasy Flight Games in 2012.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

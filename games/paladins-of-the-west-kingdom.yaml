@@ -1,0 +1,66 @@
+id: paladins-of-the-west-kingdom
+name: "Paladins of the West Kingdom"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - paladins-of-the-west-kingdom-city-of-crowns
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-120 min)
+rules_complexity: 3  # College - multi-phase turns, virtue tracks, unique paladin powers
+strategic_depth: 3  # Strategy - balancing multiple scoring paths and card combos
+feel: 3  # Polite - competitive with worker placement blocking
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Hand Management
+  - Resource Management
+  - Variable Setup
+  - Euro
+  - Historical
+  - Medieval
+  - Renegade Game Studios
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Shem Phillips
+  - S J MacDonald
+publisher:
+  - Garphill Games
+  - Renegade Game Studios
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Lead a band of paladins to defend a medieval kingdom from invaders while
+  building up your city through worker placement and hand management. Each
+  round players place workers at shared locations to gather resources, construct
+  buildings, and recruit townsfolk — but each worker also carries a card that
+  provides the action's benefits. Track three virtue tracks (strength, piety,
+  and influence) alongside silver and provisions to unlock powerful bonuses.
+  Part of the West Kingdom trilogy alongside Architects and Raiders.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,64 @@
+id: voidfall
+name: "Voidfall"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-240 min)
+rules_complexity: 4  # PhD - extremely complex euro 4X
+strategic_depth: 4  # Master Plan - multi-cycle optimization across sectors
+feel: 3  # Polite - competitive with negotiation elements
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Engine Building
+  - Tech Tree
+  - Resource Management
+  - Tableau Building
+  - Variable Setup
+  - 4X
+  - Space
+  - Sci-Fi
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Nigel Buckle
+  - David Turczi
+publisher:
+  - Mindclash Games
+playtime_minutes: 150
+min_playtime: 90
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  A Euro-style 4X space strategy game where players lead galactic houses
+  against the corrupting Voidborn threat. Actions are planned simultaneously
+  using action cards, removing downtime while maintaining strategic depth.
+  Players expand across a modular galaxy, develop technologies, and manage
+  influence and corruption. Supports competitive, cooperative, and solo modes
+  with identical rules, making it one of the most versatile heavy games released.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

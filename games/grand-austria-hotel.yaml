@@ -1,0 +1,64 @@
+id: grand-austria-hotel
+name: "Grand Austria Hotel"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (75-120 min)
+rules_complexity: 2  # Junior High - dice draft intuitive, room and staff nuances add depth
+strategic_depth: 3  # Strategy - guest management, staff combos, emperor track timing
+feel: 3  # Polite - competitive with indirect interaction
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Worker Placement
+  - Hand Management
+  - Euro
+  - Simone Luciani
+  - Daniele Tascini
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Simone Luciani
+  - Daniele Tascini
+publisher:
+  - Lookout Games
+  - Mayfair Games
+  - Osprey Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Run a hotel in fin de siècle Vienna as the Emperor's visit approaches.
+  Each round, roll dice and draft them to serve café guests, hire staff,
+  and prepare rooms. Dice showing different values unlock different actions—
+  high numbers mean more power but fewer options. Serve guests their preferred
+  food and drink, then move them into matching rooms to score points. Staff
+  cards chain powerful combos. Emperor track creates a looming deadline.
+  Elegant design from the Tzolk'in team with a wonderful Viennese atmosphere.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

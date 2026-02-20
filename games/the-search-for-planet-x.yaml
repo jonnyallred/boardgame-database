@@ -1,0 +1,64 @@
+id: the-search-for-planet-x
+name: "The Search for Planet X"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~60-75 min)
+rules_complexity: 2  # Junior High - structured deduction with app assistance
+strategic_depth: 3  # Strategy - logical deduction and action efficiency
+feel: 3  # Polite - competitive but low direct conflict
+value: 2  # Fair Deal - quality components, app required
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deduction
+  - Action Points
+  - Puzzle Solving
+  - Variable Setup
+  - Space
+  - Mystery
+  - Renegade Game Studios
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Ben Rosset
+  - Matthew O'Malley
+publisher:
+  - Renegade Game Studios
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 75
+min_age: 13
+
+# Description
+description: |
+  Players compete as astronomers racing to locate the mysterious Planet X lurking
+  at the edge of our solar system. A companion app generates a unique, randomized
+  puzzle each game; players spend action points to scan sectors, attend conferences,
+  and publish theories about the objects they discover. Logical deduction is key —
+  clues gained narrow down which sector hides Planet X, but opponents are watching
+  your every move. The first to correctly locate Planet X and publish their findings
+  wins.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

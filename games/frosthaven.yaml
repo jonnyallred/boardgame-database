@@ -1,0 +1,64 @@
+id: frosthaven
+name: "Frosthaven"
+year: 2022
+
+# Relationships
+game_family: gloomhaven
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs per session, campaign spans many sessions)
+rules_complexity: 4  # PhD - enormous rulebook, many systems
+strategic_depth: 4  # Master Plan - character builds, scenario tactics, town decisions
+feel: 1  # Cooperative - pure co-op
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Legacy
+  - Dungeon Crawler
+  - Fantasy
+  - Modular Board
+  - Hand Management
+  - Cephalofair Games
+  - Isaac Childres
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Isaac Childres
+publisher:
+  - Cephalofair Games
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  The massive sequel to Gloomhaven, set in a frozen northern outpost beset
+  by harsh winters and hostile forces. Players explore 100+ scenarios while
+  managing a developing town between adventures. New systems include seasonal
+  weather, loot crafting, building upgrades, and summer/winter scenario
+  cycles. Character classes are redesigned with fresh mechanics, and the
+  overland map adds exploration outside dungeons. Larger, deeper, and more
+  ambitious than Gloomhaven in every dimension.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

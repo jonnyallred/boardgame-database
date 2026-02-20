@@ -1,0 +1,63 @@
+id: five-tribes
+name: "Five Tribes: The Djinns of Naqala"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - five-tribes-the-artisans-of-naqala
+  - five-tribes-whims-of-the-sultan
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (40-80 min)
+rules_complexity: 2  # Junior High - mancala movement with multiple scoring paths
+strategic_depth: 3  # Strategy - planning meeple chains several moves ahead
+feel: 4  # Fierce - high take-that, block opponents' meeple moves
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Mancala
+  - Set Collection
+  - Auctions/Bidding
+  - Hand Management
+  - Take That
+  - Medieval
+  - Ancient
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Bruno Cathala
+publisher:
+  - Days of Wonder
+playtime_minutes: 60
+min_playtime: 40
+max_playtime: 80
+min_age: 13
+
+# Description
+description: |
+  Navigate the mythical land of Naqala by moving meeples across a grid of tiles
+  in a unique mancala-style mechanism. Pick up all meeples of one color from a
+  tile, move them one at a time across adjacent tiles, and drop the last meeple
+  to trigger that tile's action. Collect sets of colored meeples to hire djinns
+  with magical powers and score points through camels, goods, gold, and palm trees.
+  Turn order is determined by bidding, creating constant tension over key moves.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,69 @@
+id: eclipse-new-dawn
+name: "Eclipse: New Dawn for the Galaxy"
+year: 2011
+
+# Relationships
+game_family: eclipse
+edition: null
+base_game: null
+expansions:
+  - eclipse-rise-of-the-ancients
+  - eclipse-ship-pack-one
+  - eclipse-shadow-of-the-rift
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 3  # College - several complex interconnected systems
+strategic_depth: 4  # Master Plan - tech, fleet, diplomacy optimization
+feel: 4  # Fierce - direct conflict and conquest
+value: 3  # Splurge - substantial components for a 4X game
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - 4X
+  - Hex Map
+  - Tech Tree
+  - Area Control
+  - Resource Management
+  - Modular Board
+  - Sci-Fi
+  - Space
+  - Civilization
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Touko Tahkokallio
+publisher:
+  - Lautapelit.fi
+  - Asmodee
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Build a space empire across a modular hex galaxy in this acclaimed 4X classic.
+  Research technologies, design custom starships, colonize planets for resources,
+  and battle rival civilizations for galactic dominance. Each player manages an
+  economy on their player board to fund expansion and military development.
+  Diplomacy is possible but fragile, and the game rewards long-term planning
+  alongside opportunistic aggression. The original Eclipse that inspired its
+  streamlined reimplementation, Eclipse: Second Dawn for the Galaxy.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,61 @@
+id: scout
+name: "SCOUT"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~15 min)
+rules_complexity: 1  # Elementary - simple ladder-climbing with a twist
+strategic_depth: 2  # Tactics - hand management and timing decisions
+feel: 3  # Polite - competitive with hand-reading and timing pressure
+value: 1  # Bargain - tiny card game, enormous replayability
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Filler
+  - Party
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Kei Kajino
+publisher:
+  - Oink Games
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 9
+
+# Description
+description: |
+  A clever ladder-climbing card game where you cannot rearrange the cards dealt
+  to you — only rotate your entire hand to choose which end to play from. On your
+  turn, either play a stronger set of adjacent same or consecutive-valued cards to
+  beat the current table set, or "scout" by taking one card from the table set and
+  inserting it anywhere in your hand while giving the previous player a point.
+  The player who empties their hand first wins extra points. A compact filler with
+  surprising strategic depth.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,67 @@
+id: le-havre
+name: "Le Havre"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - le-havre-le-grand-hameau
+  - le-havre-the-inland-port
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-150 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with minimal direct conflict
+value: 2  # Fair Deal - quality boards and cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Economic
+  - Hand Management
+  - Engine Building
+  - Euro
+  - Historical
+  - Maritime
+  - Uwe Rosenberg
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Lookout Games
+  - Z-Man Games
+playtime_minutes: 90
+min_playtime: 30
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Develop the French harbor town of Le Havre by collecting resources, constructing
+  buildings, and building ships to score points and repay loans. On each turn,
+  distribute new goods to the harbor's offer spaces, then either take all goods of
+  one type or use a building for its action. Buildings may be owned by any player,
+  forcing clever decisions about when to build versus use existing structures. A
+  deep and rewarding economic engine game from the designer of Agricola.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

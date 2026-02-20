@@ -1,0 +1,72 @@
+id: maracaibo
+name: "Maracaibo"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - maracaibo-the-uprising
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (30-120 min, scales with player count)
+rules_complexity: 3  # College - several interlocking mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with indirect conflict
+value: 2  # Fair Deal - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Engine Building
+  - Area Control
+  - Route Building
+  - Tableau Building
+  - Card Drafting
+  - Resource Management
+  - Campaign Mode
+  - Rondel
+  - Euro
+  - Historical
+  - Pirates
+  - Maritime
+  - Alexander Pfister
+  - Capstone Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Alexander Pfister
+publisher:
+  - Capstone Games
+playtime_minutes: 90
+min_playtime: 30
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Set sail in the 17th-century Caribbean, vying for influence among three colonial
+  powers across four rounds of play. Players move their ships around a rondel-style
+  track of island ports, collecting goods, completing quests, and battling for area
+  control. A rich hand-management system lets you play cards for immediate effects or
+  install them as ongoing engines in your tableau. An optional story mode adds a
+  narrative campaign layer that unfolds over multiple plays without permanently altering
+  components, giving Maracaibo a unique legacy-like experience.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

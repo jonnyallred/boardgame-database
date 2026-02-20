@@ -1,0 +1,68 @@
+id: trickerion
+name: "Trickerion: Legends of Illusion"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - trickerion-dahlgaards-gifts
+  - trickerion-dahlgaards-academy
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-180 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 3  # Polite - competitive with indirect conflict
+value: 3  # Splurge - detailed steampunk components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Action Points
+  - Programmed Movement
+  - Simultaneous Action
+  - Tile Placement
+  - Economic
+  - Steampunk
+  - Euro
+  - Cult Classic
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Richard Amann
+  - Viktor Peter
+publisher:
+  - Mindclash Games
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Rival stage illusionists compete for fame and fortune in the Victorian steampunk
+  city of Magoria. Players simultaneously program their workers' movements through the
+  city each round, dispatching assistants to learn tricks, gather components, and
+  perform spectacular illusions at the theater. Tricks are assembled from component
+  cards at each magician's personal workshop board, then staged in a tile-placement
+  performance at the theater for fame points. With over 48 unique tricks across four
+  categories and highly asymmetric magician powers, no two games play alike.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

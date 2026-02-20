@@ -1,0 +1,64 @@
+id: blood-on-the-clocktower
+name: "Blood on the Clocktower"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min)
+rules_complexity: 2  # Junior High - role rules complex but game flow is simple
+strategic_depth: 3  # Strategy - information deduction, bluffing, and alliance forming
+feel: 4  # Fierce - social deduction with intense bluffing and betrayal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Social Deduction
+  - Bluffing
+  - Traitor
+  - Teams
+  - Deduction
+  - 1 vs Many
+  - Party
+  - Horror
+  - Mystery
+
+# Player counts
+possible_counts: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+true_counts: [8, 9, 10, 11, 12]
+
+# Metadata
+designer:
+  - Steven Medway
+publisher:
+  - The Pandemonium Institute
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 15
+
+# Description
+description: |
+  A social deduction game for large groups where villagers try to deduce and
+  eliminate the Demon hiding among them before it kills enough townsfolk to win.
+  Unlike similar games, dead players remain engaged by still voting and gathering
+  information, and a Storyteller moderates the game with significant narrative
+  latitude. Each of the unique character roles has special abilities that generate
+  information, create chaos, or manipulate the game state. Widely considered the
+  pinnacle of the social deduction genre.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

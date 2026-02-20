@@ -1,0 +1,64 @@
+id: pandemic-legacy-season-0
+name: "Pandemic Legacy: Season 0"
+year: 2020
+
+# Relationships
+game_family: pandemic-legacy
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-120 min per session)
+rules_complexity: 2  # Junior High - familiar Pandemic base with spy mechanics added
+strategic_depth: 3  # Strategy - mission planning, operative management, card optimization
+feel: 1  # Cooperative - fully co-op
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Legacy
+  - Campaign Mode
+  - Espionage
+  - Hand Management
+  - Z-Man Games
+  - Matt Leacock
+  - Rob Daviau
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Matt Leacock
+  - Rob Daviau
+publisher:
+  - Z-Man Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Cold War prequel set in 1962, before the events of Pandemic Legacy: Season 1.
+  Players are CIA operatives working to prevent Soviet bioweapon deployment.
+  Build a network of aliases and safe houses, gather intel, and complete covert
+  missions across 12 months of campaign play. Disguise mechanics let characters
+  assume different identities across cities. Maintains Pandemic's card-driven
+  tension while adding spy thriller flavor and legacy consequences that
+  permanently alter the world map and operative roster.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,64 @@
+id: on-mars
+name: "On Mars"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-4 hrs)
+rules_complexity: 4  # PhD - orbital/surface switching, intricate action chains
+strategic_depth: 4  # Master Plan - engine optimization across two phases
+feel: 3  # Polite - competitive but low direct conflict
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Engine Building
+  - Resource Management
+  - Action Points
+  - Sci-Fi
+  - Space
+  - Euro
+  - Vital Lacerda
+  - Eagle-Gryphon Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Vital Lacerda
+publisher:
+  - Eagle-Gryphon Games
+playtime_minutes: 150
+min_playtime: 90
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  Lacerda's dense masterpiece about colonizing Mars. Players alternate between
+  orbiting the planet (acquiring tech and supplies) and working on the surface
+  (constructing buildings and infrastructure). Actions in orbit affect what's
+  available on the surface and vice versa. Build a self-sustaining colony while
+  racing to complete missions, develop technologies, and maximize personal
+  objectives. Extraordinarily complex with punishing efficiency requirements—
+  a rewarding puzzle for players who love deep interlocking systems.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

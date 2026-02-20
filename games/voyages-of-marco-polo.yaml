@@ -1,0 +1,71 @@
+id: voyages-of-marco-polo
+name: "The Voyages of Marco Polo"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - voyages-of-marco-polo-agents-of-venice
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (40-100 min)
+rules_complexity: 2  # Junior High - structured steps and mechanics
+strategic_depth: 3  # Strategy - long-term route and contract planning
+feel: 3  # Polite - competitive with moderate interaction
+value: 2  # Fair Deal - quality components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Resource Management
+  - Route Building
+  - Set Collection
+  - Variable Setup
+  - Economic
+  - Historical
+  - Medieval
+  - Euro
+  - Simone Luciani
+  - Daniele Tascini
+  - Z-Man Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Simone Luciani
+  - Daniele Tascini
+publisher:
+  - Z-Man Games
+playtime_minutes: 70
+min_playtime: 40
+max_playtime: 100
+min_age: 12
+
+# Description
+description: |
+  Players trace the legendary routes of the Silk Road in just five rounds, rolling
+  their dice pools at the start of each turn and assigning them to city locations
+  on the map to gather resources, complete contracts, and travel across Asia. Each
+  player controls a unique character with a powerful asymmetric ability that shapes
+  their entire strategy. Collecting goods, fulfilling contracts, and reaching key
+  cities like Beijing all contribute to victory points. The tight five-round structure
+  creates intense, compressed decision-making with high replayability.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

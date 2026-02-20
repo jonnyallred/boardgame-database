@@ -1,0 +1,63 @@
+id: anachrony
+name: "Anachrony"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 3  # College - time travel borrowing, exosuit workers, faction asymmetry
+strategic_depth: 3  # Strategy - managing timelines, avoiding paradoxes, tech synergies
+feel: 3  # Polite - competitive with low direct conflict
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Engine Building
+  - Resource Management
+  - Tech Tree
+  - Sci-Fi
+  - Time Travel
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Dávid Turczi
+  - Richard Amann
+  - Viktor Peter
+publisher:
+  - Mindclash Games
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 15
+
+# Description
+description: |
+  Post-apocalyptic worker placement with a time travel twist. Players lead
+  asymmetric factions rebuilding civilization while deploying exosuit-wearing
+  workers to gather resources and construct wonders. The signature mechanic:
+  borrow resources from your future self to use now, then send resources back
+  in time to repay the debt or face a paradox. A ticking countdown ends the
+  game as an asteroid approaches. Outstanding production with exosuit miniatures
+  available. One of the deepest worker placement games available.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,69 @@
+id: mechs-vs-minions
+name: "Mechs vs. Minions"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min per mission)
+rules_complexity: 2  # Junior High - moderate rules with programming mechanic
+strategic_depth: 3  # Strategy - planning command queues ahead
+feel: 1  # Cooperative - fully cooperative team play
+value: 4  # Heirloom - exceptional production quality for the price
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Programmed Movement
+  - Campaign Mode
+  - Modular Board
+  - Dice Rolling
+  - Action Points
+  - Ameritrash
+  - Fantasy
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Chris Cantrell
+  - Rick Ernst
+  - Stone Librande
+  - Prashant Saraswat
+  - Nathan Tiras
+publisher:
+  - Riot Games
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  A fully cooperative campaign game set in the League of Legends universe, where
+  2-4 players pilot customized mechs through 10 escalating missions against waves
+  of minions. Each player programs their mech by slotting command cards into a
+  six-space queue that executes in order each round, requiring careful coordination
+  to avoid friendly fire and achieve mission objectives. Missions are self-contained
+  but form a connected narrative. Widely praised for exceptional production quality —
+  100 minion miniatures, four detailed mech figures — at a surprisingly accessible
+  price point.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

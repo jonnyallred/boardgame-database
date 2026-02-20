@@ -1,0 +1,61 @@
+id: fields-of-arle
+name: "Fields of Arle"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - fields-of-arle-tea-and-trade
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (60-120 min)
+rules_complexity: 3  # College - many action spaces, seasonal structure, complex scoring
+strategic_depth: 3  # Strategy - long-term farm and peat development
+feel: 3  # Polite - competitive but low direct conflict
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Set Collection
+  - Agriculture
+  - Euro
+
+# Player counts
+possible_counts: [1, 2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Feuerland Spiele
+  - Z-Man Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Build up a farming village in East Frisia across six seasons of worker placement.
+  Cultivate fields, raise animals, harvest peat, and construct buildings to score
+  points — all with just two workers shared between the players. The game alternates
+  between summer and winter phases, each offering different action spaces and
+  forcing tough choices about development priorities. Uwe Rosenberg's most beloved
+  two-player-focused design.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

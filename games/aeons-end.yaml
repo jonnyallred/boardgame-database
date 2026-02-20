@@ -1,0 +1,68 @@
+id: aeons-end
+name: "Aeon's End"
+year: 2016
+
+# Relationships
+game_family: aeons-end
+edition: null
+base_game: null
+expansions:
+  - aeons-end-war-eternal
+  - aeons-end-the-new-age
+  - aeons-end-legacy
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~60 min)
+rules_complexity: 2  # Junior High - cooperative with layered systems
+strategic_depth: 3  # Strategy - deck order management and spell combos
+feel: 1  # Cooperative - fully cooperative, no hidden traitor
+value: 2  # Fair Deal - solid card production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Cooperative
+  - Hand Management
+  - Variable Setup
+  - Fantasy
+  - Horror
+  - Cult Classic
+  - Greater Than Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Kevin Riley
+publisher:
+  - Indie Boards & Cards
+  - Greater Than Games
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  A fully cooperative deck-building game where breach mages defend the last
+  underground city of Gravehold against powerful nemeses. Unlike most deck
+  builders, you never shuffle your discard pile — the order you discard cards
+  determines the order you draw them, making every decision consequential.
+  Turn order is randomized each round, simulating the chaos of battle. Players
+  combine spells, gems, and relics in unique combinations tailored to each
+  breach mage's abilities to defeat escalating nemesis attacks.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

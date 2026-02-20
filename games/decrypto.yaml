@@ -1,0 +1,63 @@
+id: decrypto
+name: "Decrypto"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~30 min)
+rules_complexity: 1  # Elementary - simple setup and rules
+strategic_depth: 2  # Tactics - clue calibration and opponent reading
+feel: 2  # Party - light social fun
+value: 1  # Bargain - simple components, high replay
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Teams
+  - Word Play
+  - Deduction
+  - Bluffing
+  - Party
+  - Filler
+
+# Player counts
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 6, 8]
+
+# Metadata
+designer:
+  - Thomas Dagenais-Lespérance
+publisher:
+  - Le Scorpion Masqué
+  - Iello
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 12
+
+# Description
+description: |
+  Two teams compete to crack each other's secret codes while protecting their own.
+  Each team has a screen with four keywords numbered 1–4, visible only to their
+  own members. The active encryptor draws a code card showing three numbers and must
+  give clues precise enough for teammates to guess correctly — but vague enough that
+  rivals can't intercept them. Teams win by intercepting two of the opposing team's
+  transmissions before accumulating two miscommunication tokens. The game rewards
+  clever, consistent clue-giving and attentive listening across rounds.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

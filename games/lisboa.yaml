@@ -1,0 +1,63 @@
+id: lisboa
+name: "Lisboa"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-3 hrs)
+rules_complexity: 4  # PhD - dense action system, multiple overlapping tracks
+strategic_depth: 4  # Master Plan - action efficiency, noble network optimization
+feel: 3  # Polite - competitive but low direct conflict
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Action Points
+  - Hand Management
+  - Resource Management
+  - Economic
+  - Historical
+  - Euro
+  - Vital Lacerda
+  - Eagle-Gryphon Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Vital Lacerda
+publisher:
+  - Eagle-Gryphon Games
+playtime_minutes: 150
+min_playtime: 120
+max_playtime: 180
+min_age: 12
+
+# Description
+description: |
+  Rebuild Lisbon after the catastrophic 1755 earthquake under the guidance of
+  the Marquis of Pombal. Players play cards to take actions—constructing
+  buildings, serving nobles, managing the church and court, and rebuilding
+  the city grid. Each card has multiple uses, creating agonizing choices about
+  timing and efficiency. Noble networks unlock powerful chain actions. The city
+  physically reconstructs as the game progresses. Vital Lacerda's most
+  acclaimed work: breathtakingly complex, richly historical, and deeply satisfying.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

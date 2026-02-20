@@ -1,0 +1,60 @@
+id: obsession
+name: "Obsession"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (75-90 min)
+rules_complexity: 2  # Junior High - deck building and worker placement layers cleanly
+strategic_depth: 2  # Tactics - building and guest timing
+feel: 3  # Polite - competitive but low direct conflict
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Deck Building
+  - Tableau Building
+  - Historical
+  - Euro
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Dan Hallagan
+publisher:
+  - Kayenta Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Manage a Victorian English country estate, recruit staff, renovate buildings,
+  and host social events to climb the ranks of polite society. Each turn, select
+  an activity (croquet, cards, a dinner party), assign servants from your
+  personal deck, and invite gentry guests who reward reputation and resources.
+  Build your estate's amenities to unlock more prestigious events and attract
+  higher-status visitors. A charming Downton Abbey feel with tight deck-building
+  and worker placement decisions woven together elegantly.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

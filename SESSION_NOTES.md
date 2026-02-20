@@ -281,9 +281,32 @@ Full rating system implemented:
 
 ---
 
+## Session 7 - Wikidata Scraper & Additional Game Entries
+
+**Date:** February 19, 2026
+
+### What Was Accomplished
+
+- **Built Wikidata SPARQL scraper** (`scripts/scrape_wikidata.py`)
+  - Queries Wikidata's free public endpoint — no API key required
+  - Fetches 10,000 board games per run, resumable via `wikidata_state.json`
+  - Outputs to `master_list.csv` (columns: bgg_id, name, year, type)
+  - Also retained `scripts/scrape_bgg.py` (BGG XML API, now requires bearer token)
+  - BGG API now requires registration — Wikidata selected as alternative
+- **Added ~99 new game YAML entries** (covering BGG ranks ~51–118 range)
+  - Note: some of these overlap with existing entries on remote; remote versions preferred
+
+### Notes
+- `master_list.csv` is a bulk discovery catalog, separate from the `sources/lists/` workflow
+- The Wikidata scraper does not replace the award-source-list approach; it supplements it
+- Some game files added locally had parallel versions on remote; remote versions (more refined) were kept
+
+---
+
 ## File Counts
 - `sources/lists/*.yaml`: 4 source list files (75 unique games)
-- `games/*.yaml`: 20 detailed entries
+- `games/*.yaml`: 119+ detailed entries
+- `master_list.csv`: bulk Wikidata catalog (run scraper to populate)
 - Total categories defined: 70+
 - Designer tags available: 28
 - Publisher tags available: 22

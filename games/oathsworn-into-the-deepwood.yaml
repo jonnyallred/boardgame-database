@@ -1,0 +1,61 @@
+id: oathsworn-into-the-deepwood
+name: "Oathsworn: Into the Deepwood"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (2-4 hrs per session)
+rules_complexity: 3  # College - boss encounters, narrative choices, camp management
+strategic_depth: 3  # Strategy - character builds, encounter tactics, camp upgrades
+feel: 1  # Cooperative - fully co-op
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Dungeon Crawler
+  - Fantasy
+  - Narrative Heavy
+  - Dice Rolling
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Joseph Kluetmeier
+publisher:
+  - Shadowborne Games
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  Narrative dungeon crawler following a company of mercenaries in a dark
+  fantasy world. Each session blends story chapters—read aloud with branching
+  choices—with tactical boss battles featuring massive standee miniatures.
+  Enemies use behavior decks for unpredictable combat. Between missions, develop
+  your camp, craft weapons, and level up characters with interconnected ability
+  trees. A deeply written world with meaningful choices that carry across the
+  campaign. One of the most ambitious narrative dungeon crawlers ever made.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

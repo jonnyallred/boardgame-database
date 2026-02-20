@@ -1,0 +1,69 @@
+id: sleeping-gods
+name: "Sleeping Gods"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - sleeping-gods-tides-of-ruin
+  - sleeping-gods-dungeons
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon - campaign spanning 10-20 hours across multiple sessions
+rules_complexity: 3  # College - skill tree, items, crew management, encounter resolution
+strategic_depth: 3  # Strategy - long-term resource and crew management
+feel: 1  # Cooperative - fully cooperative campaign
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Hand Management
+  - Narrative Heavy
+  - Variable Setup
+  - Resource Management
+  - Puzzle Solving
+  - Ameritrash
+  - Fantasy
+  - Maritime
+  - Survival
+  - Red Raven Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Ryan Laukat
+publisher:
+  - Red Raven Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  A cooperative campaign game where players captain the steamship Manticore
+  through a strange, mythological world searching for totems to awaken the
+  sleeping gods. Navigate a massive atlas of interconnected locations, encounter
+  characters and creatures, manage your crew's skills and equipment, and fight
+  battles with a card-based action system. The full campaign spans 10-20 hours
+  across multiple sessions, with a storybook and illustrated atlas creating
+  a rich sense of exploration and discovery.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,64 @@
+id: wingspan-asia
+name: "Wingspan Asia"
+year: 2022
+
+# Relationships
+game_family: wingspan
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - wingspan
+  - wingspan-european-expansion
+  - wingspan-oceania-expansion
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (40-70 min)
+rules_complexity: 2  # Junior High - adds new mechanics on top of Wingspan
+strategic_depth: 3  # Strategy - engine optimization with new food/nesting rules
+feel: 3  # Polite - competitive with a Duet 2-player variant
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Card Drafting
+  - Hand Management
+  - Set Collection
+  - Tableau Building
+  - Animals
+  - Nature
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6, 7]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Elizabeth Hargrave
+publisher:
+  - Stonemaier Games
+playtime_minutes: 55
+min_playtime: 40
+max_playtime: 70
+min_age: 10
+
+# Description
+description: |
+  A standalone expansion to Wingspan featuring birds of Asia, playable alone
+  or combined with other Wingspan editions. Introduces the Duet mode, a head-to-head
+  variant for exactly two players using a shared map of terrain tiles. Also adds new
+  flock mechanics for large groups and swift-start cards to reduce setup time. The
+  170 unique Asian bird cards bring new engine combinations to the beloved Wingspan
+  system.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

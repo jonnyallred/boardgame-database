@@ -1,0 +1,66 @@
+id: dominant-species
+name: "Dominant Species"
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (120-240 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 4  # Master Plan - multi-move optimization
+feel: 4  # Fierce - cutthroat area control rivalry
+value: 3  # Splurge - quality GMT production
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Worker Placement
+  - Action Points
+  - Hex Map
+  - Modular Board
+  - Variable Setup
+  - Dudes on a Map
+  - Wargame
+  - Animals
+  - Nature
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Chad Jensen
+publisher:
+  - GMT Games
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  Players control one of six animal classes — mammals, reptiles, birds, amphibians,
+  arachnids, or insects — competing for survival as the planet slides into an Ice Age.
+  Each turn, players place action pawns on a shared action display to claim actions
+  like speciation, migration, glaciation, and competition, then execute them in strict
+  order. Species adapt by adding or removing elemental requirements, spread across a
+  hex-tile map, and drive rivals to extinction. The animal class best adapted when the
+  last glacier tile falls claims dominance.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

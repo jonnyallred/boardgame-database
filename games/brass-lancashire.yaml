@@ -1,0 +1,65 @@
+id: brass-lancashire
+name: "Brass: Lancashire"
+year: 2007
+
+# Relationships
+game_family: brass
+edition: lancashire
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~90-120 min)
+rules_complexity: 3  # College - two-era structure, hand management depth
+strategic_depth: 3  # Strategy - network planning, timing of eras
+feel: 3  # Polite - competitive but indirect
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Route Building
+  - Network Building
+  - Hand Management
+  - Economic
+  - Historical
+  - Trains
+  - Euro
+  - Martin Wallace
+  - Roxley Games
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+# Metadata
+designer:
+  - Martin Wallace
+publisher:
+  - Roxley Games
+  - Capstone Games
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  The original Brass set during the Industrial Revolution in Lancashire,
+  England. Players build cotton mills, canals, and rail lines across two
+  eras. In the Canal Era, only connected networks score; then everything
+  resets for the Rail Era with new rules and higher stakes. Hand management
+  drives all decisions - each card serves double duty as a location and an
+  action cost. Rawer and less forgiving than Birmingham, with a devoted
+  following who prefer its sharper edges.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,70 @@
+id: mansions-of-madness-second-edition
+name: "Mansions of Madness: Second Edition"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - mansions-of-madness-beyond-the-threshold
+  - mansions-of-madness-path-of-the-serpent
+  - mansions-of-madness-streets-of-arkham
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (120-180 min)
+rules_complexity: 3  # College - app-driven but many status effects and encounter rules
+strategic_depth: 2  # Tactics - reactive decision-making driven by scenario events
+feel: 1  # Cooperative - fully cooperative app-driven campaign
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Modular Board
+  - Narrative Heavy
+  - Puzzle Solving
+  - Variable Setup
+  - Ameritrash
+  - Dungeon Crawler
+  - Horror
+  - Cthulhu
+  - Mystery
+  - Fantasy Flight Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Nikki Valens
+publisher:
+  - Fantasy Flight Games
+playtime_minutes: 150
+min_playtime: 120
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  An app-driven cooperative adventure game set in the Arkham Horror universe.
+  Players explore haunted mansions and cursed locations, solving puzzles, fighting
+  monsters, and unraveling dark mysteries while a companion app manages the map
+  revelation, monster behavior, and narrative events. High-quality plastic miniatures
+  and immersive atmospheric storytelling make each scenario a unique experience.
+  The app eliminates the need for a game master while delivering complex, branching
+  narratives across multiple playable scenarios.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -162,9 +162,23 @@ Game year is the publication year of that specific edition, not the original des
 - `Brass: Lancashire (2007)` has `year: 2007`
 - `Brass: Birmingham (2018)` has `year: 2018`
 
+### Master List Scraping (Wikidata)
+
+`master_list.csv` is a bulk catalog of known board games, used for discovery and gap analysis. It is separate from the curated `sources/lists/` approach and does not drive game entry creation directly.
+
+```bash
+pip install -r scripts/requirements.txt
+python3 scripts/scrape_wikidata.py           # fetch next 10,000 games
+python3 scripts/scrape_wikidata.py --status  # check progress without fetching
+```
+
+Queries Wikidata's free public SPARQL endpoint — no API key or registration needed.
+Each run fetches 10,000 games. State is persisted in `wikidata_state.json`.
+CSV columns: `bgg_id`, `name`, `year`, `type`.
+
 ## Architecture Notes
 
-**No External Tools:** This project has no build process, testing framework, or linting—it's a pure data collection. Validation is manual against the schema.
+**Tooling:** `scripts/progress.py` and `scripts/image_manager.py` for tracking; `scripts/scrape_wikidata.py` for bulk catalog building. No build process or linting.
 
 **Git-Friendly:** YAML format with one game per file makes diffs, merges, and reviews straightforward.
 

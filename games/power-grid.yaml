@@ -1,0 +1,69 @@
+id: power-grid
+name: "Power Grid"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - power-grid-the-robots
+  - power-grid-recharged
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-150 min)
+rules_complexity: 3  # College - auction, network building, and resource market interact
+strategic_depth: 4  # Master Plan - deep economic optimization with market manipulation
+feel: 4  # Fierce - highly interactive, brutal balancing mechanic punishes leaders
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Network Building
+  - Route Building
+  - Economic
+  - Resource Management
+  - Trading
+  - Negotiation
+  - Euro
+  - Cult Classic
+  - City Building
+  - Friedemann Friese
+  - Rio Grande Games
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Friedemann Friese
+publisher:
+  - Rio Grande Games
+  - 2F-Spiele
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Compete to supply electricity to the most cities by building a power network
+  across a map of interconnected cities. Bid in auctions for power plant cards,
+  buy resources from a fluctuating market, and expand your network by purchasing
+  cities. The player powering the most cities wins — but the turn order mechanic
+  ensures leaders go last in auctions and city-buying, creating a tight and
+  punishing balancing act throughout. A multiplayer economic classic.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

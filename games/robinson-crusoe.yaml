@@ -1,0 +1,68 @@
+id: robinson-crusoe
+name: "Robinson Crusoe: Adventures on the Cursed Island"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - robinson-crusoe-mystery-tales
+  - robinson-crusoe-book-of-adventures
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (90-150 min)
+rules_complexity: 3  # College - several complex mechanics
+strategic_depth: 3  # Strategy - long-term survival planning
+feel: 1  # Cooperative - work together to survive
+value: 3  # Splurge - minis and detailed components
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Worker Placement
+  - Dice Rolling
+  - Modular Board
+  - Variable Setup
+  - Narrative Heavy
+  - Resource Management
+  - Action Points
+  - Survival
+  - Portal Games
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Ignacy Trzewiczek
+publisher:
+  - Portal Games
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Players are castaways stranded on a cursed island, working together to survive
+  its deadly weather, wild beasts, and mounting hardships. Each scenario presents a
+  unique goal — building a signal fire, rescuing a castaway, or escaping cannibals —
+  while the island itself fights back through a relentless event deck. Workers are
+  deployed each round to explore, gather, build, and hunt, but every action risks
+  injury or failure via dice rolls. The game is notorious for its punishing difficulty
+  and rich narrative atmosphere.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

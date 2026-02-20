@@ -1,0 +1,61 @@
+id: harmonies
+name: "Harmonies"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-45 min)
+rules_complexity: 1  # Elementary - simple token placement, readable scoring
+strategic_depth: 2  # Tactics - planning token arrangements and animal placement
+feel: 3  # Polite - competitive but low conflict
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Set Collection
+  - Nature
+  - Animals
+  - Family
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Mathieu Bossu
+publisher:
+  - Libellud
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Place colorful animal tokens and terrain tiles to create harmonious natural
+  ecosystems. Each round, draft tokens from a shared supply and arrange them
+  on your personal board. Animals score based on their habitat preferences—
+  bears want forests and mountains, herons need water adjacent to plains, and
+  so on. Animal cards reveal unique scoring patterns each game. Stunning
+  visual design and gentle complexity make this an outstanding gateway game
+  and a worthy successor to Cascadia's nature-drafting niche.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

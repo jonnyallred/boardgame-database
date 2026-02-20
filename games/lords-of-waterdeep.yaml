@@ -1,0 +1,66 @@
+id: lords-of-waterdeep
+name: "Lords of Waterdeep"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - lords-of-waterdeep-scoundrels-of-skullport
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~90 min)
+rules_complexity: 2  # Junior High - approachable worker placement
+strategic_depth: 3  # Strategy - quest optimization and agent placement
+feel: 3  # Polite - competitive with card-based interference
+value: 2  # Fair Deal - quality boards and cards
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Hand Management
+  - Set Collection
+  - Variable Setup
+  - Fantasy
+  - Medieval
+  - Euro
+  - Gateway
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Peter Lee
+  - Rodney Thompson
+publisher:
+  - Wizards of the Coast
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  A worker placement game set in the Dungeons & Dragons city of Waterdeep.
+  Players take the roles of masked Lords secretly vying for control of the city
+  by deploying agents to gather adventurers, collect gold, draw Intrigue cards,
+  and complete Quests worth victory points. Each Lord has a hidden identity with
+  bonus scoring conditions that reward specific quest types. Intrigue cards let
+  you meddle with opponents, adding a layer of take-that to an otherwise
+  approachable euro framework. An excellent gateway into heavier worker placement.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
