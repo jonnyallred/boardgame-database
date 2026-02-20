@@ -35,6 +35,14 @@ categories:
   - Historical
   - War
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Unique
+  - Agency
+
 # Player counts
 possible_counts: [2, 3, 4]
 true_counts: [2, 4]

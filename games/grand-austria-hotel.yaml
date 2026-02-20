@@ -14,6 +14,7 @@ length: 2  # Main Course (75-120 min)
 rules_complexity: 2  # Junior High - dice draft intuitive, room and staff nuances add depth
 strategic_depth: 3  # Strategy - guest management, staff combos, emperor track timing
 feel: 3  # Polite - competitive with indirect interaction
+value: null
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -27,6 +28,14 @@ categories:
   - Euro
   - Simone Luciani
   - Daniele Tascini
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Progress
+  - Complete
 
 # Player counts
 possible_counts: [2, 3, 4]

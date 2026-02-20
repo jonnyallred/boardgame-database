@@ -1,0 +1,76 @@
+id: blob-party
+name: "Blob Party"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (15 min)
+rules_complexity: 0  # Preschool - one core rule: match your answer with others
+strategic_depth: 1  # Basic - light social reading, no long-term planning
+feel: 1  # Cooperative - fully cooperative, work together to merge into one blob
+value: 1  # Bargain - $24.99 with clay blobs, dry erase cards, solid replay via word prompts
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Word Play
+  - Simultaneous Action
+  - Party
+  - Family
+  - Filler
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Connection
+  - Clever
+  - Lucky
+  - Tension
+
+# Player counts
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [5, 6, 7, 8]
+
+# Metadata
+designer:
+  - Pam Walls
+publisher:
+  - WizKids
+artist:
+  - Renee Lasater
+  - Anthony Lewis
+  - Dona Leppanen
+playtime_minutes: 15
+min_playtime: 15
+max_playtime: 20
+min_age: 8
+
+# Description
+description: |
+  Blob Party is a cooperative party game where players start as solo individuals
+  and must merge into one giant blob by giving matching answers to word prompts.
+  Each player receives a small lump of sculpting dough and a colored googly eye;
+  when two players write the same answer to a category-and-word card combination,
+  they physically combine their dough blobs and play as a team from then on.
+  The group has seven rounds to get every player into a single Mega Blob — winning
+  together or failing as a fragmented mass of clay. Winner of the American Tabletop
+  Awards Early Gamers category (2023).
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

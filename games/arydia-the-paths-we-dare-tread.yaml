@@ -1,0 +1,88 @@
+id: arydia-the-paths-we-dare-tread
+name: "Arydia: The Paths We Dare Tread"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (sessions of 1-2 hours; full campaign is 40+ hours)
+rules_complexity: 3  # College (multiple interlocking systems: exploration, combat, progression, role-play)
+strategic_depth: 3  # Strategy (long-term character building, open-world path planning)
+feel: 1  # Cooperative (pure co-op, GM-less, players work together)
+value: 4  # Heirloom (60+ pre-painted minis, multi-layer boards, luxury production at $240 all-in)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Fantasy
+  - Modular Board
+  - Narrative Heavy
+  - Variable Setup
+  - Action Points
+  - Dice Rolling
+  - Hand Management
+  - Role Playing
+  - Variable Player Powers
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Progress
+  - Wonder
+  - Connection
+  - Agency
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Cody Miller
+  - Ira Fay
+publisher:
+  - Far Off Games
+artist:
+  - Lina Cossette
+  - David Forest
+  - Philipp Ach
+  - Tess Anderson
+  - Kirk Hamilton
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Arydia: The Paths We Dare Tread is a GM-less cooperative open-world campaign
+  board game for 1-4 players set in the richly crafted fantasy world of Arydia.
+  Built on four pillars — Exploration, Progression, Combat, and Role-playing —
+  the game unfolds across many sessions as players traverse a unique, non-randomized
+  world map, uncovering locations, interacting with NPCs, and fighting monsters
+  through a tactical directional combat system. Characters grow in power by
+  collecting items, weapons, and skills, with an index-based save system enabling
+  easy setup and teardown between sessions. As a "green legacy" game, it offers
+  all the excitement of a legacy experience — sealed packages, hidden content,
+  branching narrative — while remaining fully resettable and replayable after
+  completion. Production includes 60+ pre-painted miniatures, 900+ cards, and
+  multi-layer world maps across a 40+ hour hand-crafted campaign.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

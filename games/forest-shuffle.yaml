@@ -34,6 +34,14 @@ categories:
   - Nature
   - Animals
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Progress
+  - Wonder
+  - Agency
+
 # Player counts
 possible_counts: [2, 3, 4, 5]
 true_counts: [2, 3]

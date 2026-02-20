@@ -1,0 +1,82 @@
+id: butterfly-garden
+name: "Butterfly Garden"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~30 min)
+rules_complexity: 1  # Elementary - simple tile placement, age 8+
+strategic_depth: 2  # Tactics - short-term path routing to guide butterflies to your flowerbeds
+feel: 3  # Polite - competitive but shared board with semi-collaborative butterfly movement
+value: 2  # Fair Deal - quality components at $39.95
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Route Building
+  - Network Building
+  - Pattern Building
+  - Abstract
+  - Family
+  - Gateway
+  - Nature
+  - Animals
+  - Reiner Knizia
+  - Capstone Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Wonder
+  - Agency
+  - Complete
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - Capstone Games
+  - Korea Boardgames
+artist:
+  - SALEIGN
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  A tile-laying path-builder in which players compete to guide rare butterflies
+  to their personal flowerbeds. Each turn, place a hex path tile on the shared
+  board and watch butterflies automatically slide as far as they can along newly
+  connected routes. Butterflies score 1-3 points depending on their rarity, and
+  players must cleverly route paths to claim the most valuable ones while
+  blocking rivals. Since no player owns any path, the board becomes a web of
+  shifting alliances and opportunistic redirects. A reimplementation of Knizia's
+  Indigo (2012) with a vibrant butterfly theme and streamlined presentation.
+  Best at 3-4 players where shared edge spaces create the richest tactical
+  tension.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

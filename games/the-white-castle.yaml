@@ -14,6 +14,7 @@ length: 2  # Main Course (60-80 min)
 rules_complexity: 2  # Junior High - clean euro with dice drafting layer
 strategic_depth: 3  # Strategy - efficient action sequencing and set collection
 feel: 3  # Polite - competitive with minimal direct conflict
+value: null
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -27,6 +28,14 @@ categories:
   - Variable Setup
   - Euro
   - Medieval
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Agency
+  - Progress
+  - Tension
+  - Wonder
 
 # Player counts
 possible_counts: [1, 2, 3, 4]

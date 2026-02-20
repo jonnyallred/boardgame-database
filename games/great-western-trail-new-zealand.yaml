@@ -32,6 +32,14 @@ categories:
   - Euro
   - Alexander Pfister
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Masterful
+  - Agency
+  - Clever
+  - Complete
+
 # Player counts
 possible_counts: [1, 2, 3, 4]
 true_counts: [2, 3]

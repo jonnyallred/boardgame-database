@@ -3,7 +3,7 @@ name: "Pandemic Legacy: Season 2"
 year: 2017
 
 # Relationships
-game_family: pandemic-legacy
+game_family: pandemic
 edition: null
 base_game: null
 expansions: []
@@ -14,6 +14,7 @@ length: 2  # Main Course (~60 min per session)
 rules_complexity: 3  # College - legacy mechanics, unique board state, hidden content
 strategic_depth: 3  # Strategy - long-term campaign decisions carry permanent weight
 feel: 1  # Cooperative - fully cooperative campaign
+value: null
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -32,6 +33,14 @@ categories:
   - Matt Leacock
   - Rob Daviau
   - Z-Man Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Tension
+  - Connection
+  - Dread
+  - Progress
 
 # Player counts
 possible_counts: [2, 3, 4]

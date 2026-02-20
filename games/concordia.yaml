@@ -4,7 +4,7 @@ alternate_names: []
 year: 2013
 
 # Relationships
-game_family: null
+game_family: concordia
 edition: null
 base_game: null
 expansions: []
@@ -35,6 +35,14 @@ categories:
   - Historical
   - Ancient
   - Mac Gerdts
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Agency
+  - Progress
+  - Masterful
+  - Complete
 
 # Player counts
 possible_counts: [2, 3, 4, 5]

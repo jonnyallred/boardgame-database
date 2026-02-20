@@ -1,0 +1,73 @@
+id: adas-dream
+name: "Ada's Dream"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Rondel
+  - Dice Rolling
+  - Engine Building
+  - Hand Management
+  - Area Control
+  - Tableau Building
+  - Tech Tree
+  - Variable Setup
+  - Euro
+  - Historical
+  - Steampunk
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Masterful
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Toni López
+publisher:
+  - Alley Cat Games
+  - Alderac Entertainment Group
+artist:
+  - Javier González Cava
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Ada's Dream is a dice rondel Euro game set in an alternate history of the 1850s, where Ada Lovelace survives to continue her collaboration with Charles Babbage on the Analytical Engine. Players compete to make the greatest contribution to the project over exactly 18 turns, taking dice from a six-pod Workshop Rondel and using them to build a personal 3x3 calculator-like grid called the Mill — placing numbered dice and mathematical operator gears to form calculations that score a large portion of final points. Beyond the rondel and Mill, players take actions across four locations: giving Lectures in London institutions to compete for area-control majorities, traveling the UK to visit universities along a route-building track, recruiting Partner cards (featuring Charles Babbage, Michael Faraday, and other Victorian luminaries) for a personal deck, and completing Assignments for Ada that unlock advanced actions. The game won the 2026 Diamant d'Or award for complex eurogames, and was Alley Cat Games' most successful crowdfunding campaign.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

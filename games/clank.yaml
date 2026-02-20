@@ -1,5 +1,6 @@
 id: clank
 name: "Clank!: A Deck-Building Adventure"
+alternate_names: []
 year: 2016
 
 # Relationships
@@ -17,6 +18,7 @@ length: 2  # Main Course (60-90 min)
 rules_complexity: 2  # Junior High - deck building with spatial dungeon movement
 strategic_depth: 3  # Strategy - risk management and timing of descent/ascent
 feel: 3  # Polite - competitive with noise-track take-that element
+value: 2  # Fair Deal
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -31,6 +33,15 @@ categories:
   - Take That
   - Fantasy
   - Dungeon Crawler
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Lucky
+  - Clever
+  - Discovery
+  - Progress
 
 # Player counts
 possible_counts: [2, 3, 4]
@@ -41,6 +52,10 @@ designer:
   - Paul Dennen
 publisher:
   - Renegade Game Studios
+artist:
+  - Rayph Beisner
+  - Raul Ramos
+  - Nate Storm
 playtime_minutes: 75
 min_playtime: 60
 max_playtime: 90

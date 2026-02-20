@@ -1,0 +1,81 @@
+id: cafe-baras
+name: "Café Baras"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~30 min)
+rules_complexity: 1  # Elementary - simple dual-use card choices, very teachable
+strategic_depth: 1  # Basic - light set collection and tableau optimization
+feel: 3  # Polite - competitive but low conflict, race to regulars
+value: 1  # Bargain - cardboard coins and card-only production at $20
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Tableau Building
+  - Set Collection
+  - Card Drafting
+  - Animals
+  - Food Theme
+  - Family
+  - Filler
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Complete
+  - Clever
+  - Connection
+  - Wonder
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Roberta Taylor
+publisher:
+  - Kids Table Board Games
+artist:
+  - Cindy Monroy
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+# Description
+description: |
+  Run a cozy capybara café and compete to earn the most loyal regulars. Each
+  turn you play one card from your hand, choosing whether to use its top portion
+  as a café feature—food, drink, or décor—paying its coin cost to place it in
+  your tableau, or to use the bottom portion as a customer order, cashing in
+  matching café items to earn coins. Satisfying a customer's full appetite
+  converts them into a Regular who scores bonus end-game points. Draw a
+  replacement card from the open marketplace after each action, keeping hand
+  size constant. The game ends when someone claims their third Regular and the
+  last Special Guest card. Score coins, café card values, Regulars, and Special
+  Guests—most points wins. Delightfully illustrated multi-use cards keep every
+  decision tight despite the gentle rules, making Café Baras a welcoming choice
+  for families and a strong filler between heavier games.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

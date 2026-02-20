@@ -16,6 +16,7 @@ length: 2  # Main Course (40-80 min)
 rules_complexity: 2  # Junior High - mancala movement with multiple scoring paths
 strategic_depth: 3  # Strategy - planning meeple chains several moves ahead
 feel: 4  # Fierce - high take-that, block opponents' meeple moves
+value: null
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -30,6 +31,14 @@ categories:
   - Take That
   - Medieval
   - Ancient
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Unique
 
 # Player counts
 possible_counts: [2, 3, 4]

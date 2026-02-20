@@ -38,6 +38,14 @@ categories:
   - Jamey Stegmaier
   - Stonemaier Games
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Powerful
+  - Unique
+  - Wonder
+  - Masterful
+
 # Player counts
 possible_counts: [1, 2, 3, 4, 5]
 true_counts: [3, 4, 5]

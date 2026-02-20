@@ -36,6 +36,14 @@ categories:
   - Aliens
   - Fantasy Flight Games
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Unique
+  - Persuasion
+  - Powerful
+  - Tension
+  - Humor
+
 # Player counts
 possible_counts: [3, 4, 5]
 true_counts: [4, 5]

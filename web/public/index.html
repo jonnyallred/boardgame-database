@@ -694,6 +694,12 @@
       color: #991b1b;
     }
 
+    .tag.evoke {
+      background: #fff7ed;
+      color: #c2410c;
+      border: 1px solid #fed7aa;
+    }
+
     .modal-list {
       font-size: 14px;
       color: #374151;
@@ -1254,6 +1260,30 @@
         content.appendChild(catSection);
       }
 
+      // Evokes
+      if (game.evokes && game.evokes.length > 0) {
+        const evokeSection = document.createElement('div');
+        evokeSection.className = 'modal-section';
+
+        const evokeTitle = document.createElement('div');
+        evokeTitle.className = 'modal-section-title';
+        evokeTitle.textContent = 'Evokes';
+
+        const evokeGrid = document.createElement('div');
+        evokeGrid.className = 'categories-grid';
+
+        game.evokes.forEach(evoke => {
+          const tag = document.createElement('span');
+          tag.className = 'tag evoke';
+          tag.textContent = evoke;
+          evokeGrid.appendChild(tag);
+        });
+
+        evokeSection.appendChild(evokeTitle);
+        evokeSection.appendChild(evokeGrid);
+        content.appendChild(evokeSection);
+      }
+
       // Additional Details
       const hasAdditionalDetails =
         game.game_family ||
@@ -1446,7 +1476,8 @@
           game.name,
           ...(game.designer || []),
           ...(game.publisher || []),
-          ...(game.categories || [])
+          ...(game.categories || []),
+          ...(game.evokes || [])
         ]
           .join(' ')
           .toLowerCase();
@@ -1546,6 +1577,15 @@
         categories.appendChild(tag);
       });
 
+      const evokes = document.createElement('div');
+      evokes.className = 'game-categories';
+      (game.evokes || []).forEach(evoke => {
+        const tag = document.createElement('span');
+        tag.className = 'tag evoke';
+        tag.textContent = evoke;
+        evokes.appendChild(tag);
+      });
+
       const actions = document.createElement('div');
       actions.className = 'game-actions';
       const uploadBtn = document.createElement('button');
@@ -1564,6 +1604,7 @@
       info.appendChild(name);
       info.appendChild(meta);
       info.appendChild(categories);
+      info.appendChild(evokes);
       info.appendChild(actions);
       actions.appendChild(uploadBtn);
       info.appendChild(fileInput);

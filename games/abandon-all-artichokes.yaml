@@ -1,0 +1,69 @@
+id: abandon-all-artichokes
+name: "Abandon All Artichokes"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 4  # Fierce (cutthroat — Take That card interactions, race to purge artichokes)
+value: 1  # Bargain (100-card tin, filler price)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Take That
+  - Set Collection
+  - Family
+  - Filler
+  - Gateway
+  - Food Theme
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Rivalry
+  - Lucky
+  - Tension
+  - Clever
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Emma Larkins
+publisher:
+  - Gamewright
+artist:
+  - Bonnie Pang
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 20
+min_age: 10
+
+# Description
+description: |
+  Abandon All Artichokes is a fast "deck-wrecker" card game in which players race to clear their personal decks of 10 artichoke cards before anyone else does. On each turn, a player drafts one vegetable card from a central Garden Row, plays as many cards from their hand as they legally can, then discards and redraws five cards. If the freshly drawn hand contains no artichokes at all, that player wins immediately. The ten vegetable varieties each carry a unique power — carrots compost artichokes, broccoli composting multiple at once, potatoes flip the deck top, and peas dump cards into opponents' decks — rewarding players who build synergistic combos while introducing meaningful Take That chaos. Simple enough for families with kids 10 and up, the game also serves as a charming introduction to deck-management concepts like deck thinning, card velocity, and timing.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

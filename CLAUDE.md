@@ -54,6 +54,27 @@ Each game file (`games/{slug}.yaml`) contains:
   - **Designers**: Reiner Knizia, Uwe Rosenberg, etc. (tags only, not names)
   - **Publishers**: Stonemaier Games, Fantasy Flight, etc. (tags only, not names)
 
+**Evokes (top 5):**
+- `evokes[]`: The top 5 feelings a game is designed to evoke, from 18 possible values:
+  - **Agency** — High player control, meaningful choices
+  - **Clever** — Combos, optimization, "aha" moments
+  - **Complete** — Set collection, filling objectives, finishing
+  - **Connection** — Shared experiences, bonding, cooperation
+  - **Creative** — Open-ended expression, sandbox design
+  - **Discovery** — Exploration, hidden content, reveals
+  - **Dread** — Horror, survival, looming threats
+  - **Humor** — Absurdity, designed-to-laugh moments
+  - **Lucky** — Press-your-luck, dice, draw-dependent thrills
+  - **Masterful** — High skill ceiling, improving over many plays
+  - **Mystery** — Piecing together clues, intrigue
+  - **Persuasion** — Dealmaking, convincing others, social influence
+  - **Powerful** — Escalation, dominance, asymmetric strength
+  - **Progress** — Engine building, tech trees, visible accumulation
+  - **Rivalry** — Direct competition, head-to-head contest
+  - **Tension** — Close scoring, hidden roles, nail-biting decisions
+  - **Unique** — Asymmetry, variable powers, every-session-different
+  - **Wonder** — Spectacle, beautiful emergence, awe
+
 **Player Information:**
 - `possible_counts[]`: Player counts supported by box rules
 - `true_counts[]`: Optimal/best player counts per community consensus
@@ -91,9 +112,9 @@ The progress script unions all list files by `id`, deduplicates, and diffs again
 ### File Operations
 
 **Add a new game:**
-Use the `/add-game` skill to create new game entries. This skill handles web research, schema validation, and YAML creation automatically.
+Use the `/add-game` skill (single game) or the `game-researcher` agent (one or many games). Both handle web research, schema validation, and YAML creation automatically.
 
-When adding multiple games at once, use the Task tool to launch parallel `general-purpose` subagents — one per game — all in a single message. Each subagent receives the full add-game instructions (from `SKILL.md`) and works independently. Do **not** use the Skill tool directly for batch additions; explicit Task subagents are faster and truly parallel. This is the preferred workflow for batch additions.
+When adding multiple games at once, use the Task tool to launch parallel `game-researcher` agents — one per game — all in a single message. Each agent works independently and in parallel. Do **not** use the Skill tool directly for batch additions.
 
 **Manual alternative** (if needed):
 1. Create `games/{slug}.yaml` based on the template in schema.yaml
@@ -178,7 +199,13 @@ CSV columns: `bgg_id`, `name`, `year`, `type`.
 
 ## Architecture Notes
 
-**Tooling:** `scripts/progress.py` and `scripts/image_manager.py` for tracking; `scripts/scrape_wikidata.py` for bulk catalog building. No build process or linting.
+**Tooling:**
+- `scripts/progress.py` and `scripts/image_manager.py` — progress and image tracking
+- `scripts/scrape_wikidata.py` — bulk catalog building via Wikidata SPARQL
+- `scripts/game_pipeline.py` — research pipeline used by the `game-researcher` agent: fetches URLs, strips HTML to clean text, caches in `pipeline_cache.db`. Returns clean text per source; the calling agent handles all structured data extraction. Use `--log SLUG` to auto-append provenance entries to `sources/research-log.yaml`.
+- `scripts/html_preprocessor.py` — HTML → clean text (Trafilatura + BS4 fallback), truncated to 3000 chars per source
+
+No build process or linting.
 
 **Git-Friendly:** YAML format with one game per file makes diffs, merges, and reviews straightforward.
 

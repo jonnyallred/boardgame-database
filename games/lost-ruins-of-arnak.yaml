@@ -36,6 +36,14 @@ categories:
   - Gateway
   - Czech Games Edition
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Progress
+  - Clever
+  - Agency
+  - Wonder
+
 # Player counts
 possible_counts: [1, 2, 3, 4]
 true_counts: [2, 3]

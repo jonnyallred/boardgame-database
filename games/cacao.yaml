@@ -35,6 +35,14 @@ categories:
   - Agriculture
   - Phil Walker-Harding
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Agency
+  - Tension
+
 # Player counts
 possible_counts: [2, 3, 4]
 true_counts: [2, 3, 4]

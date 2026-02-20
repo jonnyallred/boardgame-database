@@ -1,0 +1,77 @@
+id: are-you-the-traitor
+name: "Are You the Traitor?"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min, multiple quick rounds)
+rules_complexity: 1  # Elementary - simple role-assignment and accusation rules
+strategic_depth: 1  # Basic - limited decisions, mostly deduction and bluffing
+feel: 2  # Party - light social fun and deception
+
+value: 1  # Bargain - card-only product with solid replay value
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Social Deduction
+  - Traitor
+  - Bluffing
+  - Teams
+  - Party
+  - Filler
+  - Fantasy
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Persuasion
+  - Tension
+  - Humor
+  - Mystery
+  - Rivalry
+
+# Player counts
+possible_counts: [4, 5, 6, 7, 8, 9, 10]
+true_counts: [6, 7, 8]
+
+# Metadata
+designer:
+  - Andrew Looney
+publisher:
+  - Looney Labs
+artist:
+  - Dave Harrington
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 13
+
+# Description
+description: |
+  A secret-role deception game for 4-10 players set in a whimsical fantasy world
+  where a magical Key must reach the Good Wizard before the Evil Wizard can claim
+  it. Each player is dealt a role card — Key-Holder, Guard, Traitor, or Wizard —
+  and a second alignment card secretly determines whether the Wizard is Good or
+  Evil. Free-form discussion and social pressure drive each round until someone
+  makes an accusation: Guards try to catch the Traitor, the Key-Holder races to
+  find the Good Wizard, and the Evil Wizard seeks to identify the Key-Holder.
+  Winning team members collect Treasure cards worth 0-5 points, and the first
+  player to accumulate 10 points wins the game.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

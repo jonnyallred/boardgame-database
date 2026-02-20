@@ -14,6 +14,7 @@ length: 3  # Feast (2-3 hrs)
 rules_complexity: 3  # College - several complex interconnected systems
 strategic_depth: 4  # Master Plan - tech, fleet, diplomacy optimization
 feel: 4  # Fierce - direct conflict, conquest
+value: null
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -30,6 +31,14 @@ categories:
   - Sci-Fi
   - Space
   - CMON
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Powerful
+  - Discovery
+  - Agency
+  - Unique
+  - Rivalry
 
 # Player counts
 possible_counts: [2, 3, 4, 5, 6]

@@ -31,6 +31,14 @@ categories:
   - Gateway
   - No Math
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Connection
+  - Humor
+  - Tension
+  - Clever
+  - Lucky
+
 # Player counts
 possible_counts: [3, 4, 5, 6, 7]
 true_counts: [5, 6, 7]

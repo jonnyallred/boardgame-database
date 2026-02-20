@@ -1,0 +1,76 @@
+id: calico
+name: "Calico"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-45 min)
+rules_complexity: 1  # Elementary (simple rules, depth from spatial puzzle)
+strategic_depth: 2  # Tactics (short-term pattern positioning)
+feel: 3  # Polite (competitive, no direct player interference)
+value: 2  # Fair Deal (quality hex tiles and wooden cat tokens, $39.99 MSRP)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Drafting
+  - Pattern Building
+  - Set Collection
+  - Puzzle Solving
+  - Euro
+  - Family
+  - Gateway
+  - Animals
+  - Nature
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Complete
+  - Clever
+  - Wonder
+  - Agency
+  - Tension
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Kevin Russ
+publisher:
+  - Flatout Games
+  - Alderac Entertainment Group
+artist:
+  - Beth Sobel
+playtime_minutes: 38
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  Calico is a puzzly tile-laying game of quilts and cats, designed by Kevin Russ with artwork by Beth Sobel. Players compete to sew the coziest quilt by collecting and placing hexagonal patches of different colors and patterns onto their personal quilt boards. On each turn, a player selects one patch tile from their hand and places it on their board, then drafts a new tile from three available in a shared market.
+
+  Scoring comes from three sources: buttons (earned by creating groups of three or more adjacent tiles of the same color), cats (attracted when specific pattern arrangements matching each cat's preferences appear on the quilt), and design goals (three objective tiles placed face-up on each quilt at game start that reward surrounding a central tile with matching colors or patterns). The interaction between these three scoring paths creates a layered spatial puzzle that requires constant prioritization and trade-offs.
+
+  The game features a family-friendly mode for younger players and an accessible rule set that can be taught in minutes, while the combinatorial puzzle of balancing cat objectives, button groups, and design goals generates substantial replay variety. Winner of the American Tabletop Award (2020-2021) and praised for its tactile components and Beth Sobel's distinctive quilt-inspired artwork. Plays well across all counts, with 2-3 players offering the most competitive drafting tension without analysis paralysis.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,5 +1,6 @@
 id: the-crew-quest-for-planet-nine
 name: "The Crew: The Quest for Planet Nine"
+alternate_names: []
 year: 2019
 
 # Relationships
@@ -14,6 +15,7 @@ length: 1  # Appetizer (~20 min per mission)
 rules_complexity: 1  # Elementary - simple trick-taking with task cards
 strategic_depth: 2  # Tactics - mission-by-mission communication puzzle
 feel: 1  # Cooperative - fully cooperative, no competition
+value: 1  # Bargain
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -23,9 +25,19 @@ hotness: null
 categories:
   - Trick-taking
   - Cooperative
-  - Card Drafting
+  - Hand Management
   - Campaign Mode
+  - Family
+  - Gateway
   - Space
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Connection
+  - Clever
+  - Complete
+  - Mystery
 
 # Player counts
 possible_counts: [2, 3, 4, 5]
@@ -37,9 +49,11 @@ designer:
 publisher:
   - KOSMOS
   - Thames & Kosmos
+artist:
+  - Marco Armbruster
 playtime_minutes: 20
 min_playtime: 5
-max_playtime: 20
+max_playtime: 30
 min_age: 10
 
 # Description

@@ -36,6 +36,14 @@ categories:
   - Post-Apocalyptic
   - Survival
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Connection
+  - Progress
+  - Agency
+  - Wonder
+
 # Player counts
 possible_counts: [1, 2, 3, 4]
 true_counts: [1, 2]

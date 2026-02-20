@@ -1,0 +1,80 @@
+id: castle-combo
+name: "Castle Combo"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (15-25 min)
+rules_complexity: 1  # Elementary - icon-driven turns, teaches in minutes
+strategic_depth: 2  # Tactics - grid positioning and card synergies
+feel: 3  # Polite - competitive parallel tableau building, low direct conflict
+value: 1  # Bargain - compact card game with high replay
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tableau Building
+  - Card Drafting
+  - Hand Management
+  - Set Collection
+  - Medieval
+  - Family
+  - Filler
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Progress
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Grégory Grard
+  - Mathieu Roussel
+publisher:
+  - Pandasaurus Games
+  - Catch Up Games
+artist:
+  - Stéphane Escapa
+playtime_minutes: 22
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  Castle Combo is a fast tableau-building card game in which players recruit
+  characters from two open markets — a Castle row of nobles and a Village row
+  of peasants — arranging them into a personal 3×3 grid. A shared Messenger
+  pawn controls which market is active each turn, and spending Keys lets you
+  redirect it or refresh the available cards. Each character triggers an
+  immediate ability when placed and scores end-game points based on its grid
+  position and the shields present in its row, column, or neighborhood.
+  Balancing gold, keys, card adjacency, and shield-type sets makes every
+  placement count, delivering a deceptively strategic puzzle that resolves in
+  well under 30 minutes.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

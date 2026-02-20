@@ -31,6 +31,14 @@ categories:
   - Economic
   - Negotiation
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+  - Masterful
+
 # Player counts
 possible_counts: [2]
 true_counts: [2]

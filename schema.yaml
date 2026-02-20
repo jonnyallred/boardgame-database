@@ -124,6 +124,9 @@ categories:
     - Rondel
     - Mancala
     - Dexterity
+    - Asymmetric
+    - Variable Player Powers
+    - Events
 
   styles:
     - Euro
@@ -138,6 +141,7 @@ categories:
     - Dungeon Crawler
     - 4X
     - Dudes on a Map
+    - Role Playing
 
   themes:
     - Fantasy
@@ -231,6 +235,32 @@ categories:
     - Greater Than Games
 
 # =============================================================================
+# EVOKES (feelings a game is designed to evoke — pick top 5)
+# =============================================================================
+
+evokes:
+  description: "Top 5 feelings this game is designed to evoke"
+  values:
+    - Agency        # High player control, meaningful choices
+    - Clever        # Combos, optimization, "aha" moments
+    - Complete      # Set collection, filling objectives, finishing
+    - Connection    # Shared experiences, bonding, cooperation
+    - Creative      # Open-ended expression, sandbox design
+    - Discovery     # Exploration, hidden content, reveals
+    - Dread         # Horror, survival, looming threats
+    - Humor         # Absurdity, designed-to-laugh moments
+    - Lucky         # Press-your-luck, dice, draw-dependent thrills
+    - Masterful     # High skill ceiling, improving over many plays
+    - Mystery       # Piecing together clues, intrigue, "what does it mean?"
+    - Persuasion    # Dealmaking, convincing others, social influence
+    - Powerful      # Escalation, dominance, asymmetric strength
+    - Progress      # Engine building, tech trees, visible accumulation
+    - Rivalry       # Direct competition, head-to-head contest
+    - Tension       # Close scoring, hidden roles, nail-biting decisions
+    - Unique        # Asymmetry, variable powers, every-session-different
+    - Wonder        # Spectacle, beautiful emergence, awe
+
+# =============================================================================
 # PLAYER COUNTS
 # =============================================================================
 
@@ -270,6 +300,9 @@ template:
 
   # Tags
   categories: []              # From mechanics, styles, themes, designers, publishers
+
+  # Evokes (top 5 feelings this game is designed to evoke)
+  evokes: []
 
   # Player counts
   possible_counts: []

@@ -1,0 +1,88 @@
+id: burning-banners
+name: "Burning Banners: Rage of the Witch Queen"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (3 hrs) — scenarios range 30 min to 4+ hrs; mid-to-large scenarios run 2-4 hours
+rules_complexity: 3  # College — two rule tiers (Basic + Advanced), faction asymmetry, terrain interactions, blessings, magic
+strategic_depth: 3  # Strategy — long-term faction planning, scenario-driven army composition, multi-map campaigns
+feel: 4  # Fierce — cutthroat conquest wargame; kingdoms battle to eliminate rivals and capture territory
+value: 3  # Splurge — $95-119 MSRP; 240 hand-drawn counters, 4 mounted maps, 206 cards, dual-layer playmats
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hex Map
+  - Area Control
+  - Dice Rolling
+  - Variable Player Powers
+  - Asymmetric
+  - Variable Setup
+  - Campaign Mode
+  - Hand Management
+  - Teams
+  - Wargame
+  - Fantasy
+  - Medieval
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Powerful
+  - Tension
+  - Unique
+  - Agency
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Christopher Moeller
+publisher:
+  - Compass Games
+artist:
+  - Christopher Moeller
+playtime_minutes: 120
+min_playtime: 30
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  An asymmetric fantasy wargame set in the world of Kalar, where six kingdoms clash
+  across four hand-painted hex maps in a 12-year war. Players command one of six
+  factions — Goblins, Orcs, Army of the Night, Dwarfs, Fjordland, and Eastern Empire
+  — each with unique units, heroes, and win conditions. Deploy troops by spending
+  income, march across hex terrain, and resolve battles by rolling pools of dice
+  (hits on 5+, with critical explosion mechanics for dramatic moments).
+
+  Twenty-nine scenarios scale the conflict from quick two-kingdom skirmishes on a
+  single map to the full campaign chronicle spanning all four maps. A Basic rulebook
+  covers core movement, battle, and economic actions; the Advanced rules layer in
+  heroes, monsters, spell cards, faction blessing decks, and dungeon-exploration
+  side adventures. Christopher Moeller designed and hand-drew all maps, counters,
+  and artwork, giving the game a distinctive old-school fantasy illustration style
+  reminiscent of classic D&D sourcebooks. Best at 2-4 players; downtime grows
+  significantly at five or six.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

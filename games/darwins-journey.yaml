@@ -33,6 +33,14 @@ categories:
   - Nature
   - Simone Luciani
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Discovery
+  - Clever
+  - Agency
+  - Complete
+
 # Player counts
 possible_counts: [1, 2, 3, 4]
 true_counts: [2, 3]

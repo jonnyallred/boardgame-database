@@ -1,0 +1,81 @@
+id: age-of-industry
+name: "Age of Industry"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - age-of-industry-expansion-1-japan-and-minnesota
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~90-120 min)
+rules_complexity: 2  # Junior High/HS - streamlined Brass, ~15 min teach
+strategic_depth: 3  # Strategy - network planning, long-term economic positioning
+feel: 3  # Polite - competitive but indirect, typical Euro network-building tension
+value: 1  # Bargain - dated components (paper boards, plastic money), solid gameplay
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Network Building
+  - Route Building
+  - Economic
+  - Resource Management
+  - Action Points
+  - Historical
+  - Euro
+  - Martin Wallace
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Martin Wallace
+publisher:
+  - Treefrog Games
+artist:
+  - Peter Dennis
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Martin Wallace's streamlined redesign of Brass: Lancashire, set during the
+  Industrial Revolution. Players are tycoons competing to build the most
+  profitable network of cotton mills, factories, iron works, coal mines, ports,
+  and railway lines across a double-sided board featuring Germany and southern
+  New England. Unlike Brass, there is only a single railway era — the canal
+  period has been eliminated — and cards are color-coded to flexible regions
+  rather than specific cities, making it easier to execute plans. Only three of
+  the seven available actions require spending a card, loans are a free action,
+  and players always have face-up cards to choose from, resulting in a more
+  accessible experience that serves as an excellent gateway into the Brass
+  system.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

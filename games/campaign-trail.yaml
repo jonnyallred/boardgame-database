@@ -1,0 +1,71 @@
+id: campaign-trail
+name: Campaign Trail
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 2  # Junior High/High School
+strategic_depth: 2  # Tactics (short-term positioning)
+feel: 4  # Fierce (cutthroat rivalry)
+value: 2  # Fair Deal (quality boards/cards)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Area Control
+  - Variable Player Powers
+  - Resource Management
+  - Events
+  - Teams
+  - Historical
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+  - Persuasion
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - David Cornelius
+  - Jeff Cornelius
+  - Nathan Cornelius
+publisher:
+  - Grey Fox Games
+  - Cosmic Wombat Games
+artist:
+  - Christian Strain
+playtime_minutes: 115
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Campaign Trail is a card-driven political strategy game for 1-6 players in which participants compete to win the United States presidential election by accumulating electoral votes. Each player takes the role of a presidential candidate and uses a hand of multi-use action cards to travel across the country, fundraise, register voters, advertise in key states, hold campaign rallies, and trigger political events. Cards each offer a choice of four of the six available actions, requiring players to weigh their priorities each turn. The goal is to secure the most voters in enough states to claim a majority of electoral votes, with candidates deploying registered voter tokens onto the U.S. map using area majority mechanics. With four or more players, the game shifts to a team-based format with Republican and Democratic parties. Variable player powers via individual candidate cards and a robust debate mechanic add further strategic depth. A solo mode is included in the base game, with an advanced solo module sold separately. Originally funded via Kickstarter in 2016 by Cosmic Wombat Games, the game saw retail publication by Grey Fox Games in 2019.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

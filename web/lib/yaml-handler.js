@@ -39,6 +39,7 @@ async function loadAllGames() {
             designer: gameData.designer || [],
             publisher: gameData.publisher || [],
             categories: gameData.categories || [],
+            evokes: gameData.evokes || [],
             description: gameData.description,
             has_image: hasImage,
             playtime_minutes: gameData.playtime_minutes,

@@ -36,6 +36,14 @@ categories:
   - Euro
   - Ameritrash
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Clever
+  - Rivalry
+
 # Player counts
 possible_counts: [1, 2, 3, 4, 6]
 true_counts: [3, 4]

@@ -304,9 +304,12 @@ Full rating system implemented:
 ---
 
 ## File Counts
-- `sources/lists/*.yaml`: 4 source list files (75 unique games)
-- `games/*.yaml`: 119+ detailed entries
-- `master_list.csv`: bulk Wikidata catalog (run scraper to populate)
-- Total categories defined: 70+
+
+Run `python3 scripts/progress.py 0` for live stats. Snapshot as of February 2026:
+
+- `sources/lists/*.yaml`: 20 source list files (348 unique games)
+- `games/*.yaml`: 168 detailed entries (140 matched to source lists + 47 orphans)
+- `master_list.csv`: bulk Wikidata catalog (header only — run scraper to populate)
+- Total categories defined: 151
 - Designer tags available: 28
 - Publisher tags available: 22

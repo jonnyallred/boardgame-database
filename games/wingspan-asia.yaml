@@ -17,6 +17,7 @@ length: 2  # Main Course (40-70 min)
 rules_complexity: 2  # Junior High - adds new mechanics on top of Wingspan
 strategic_depth: 3  # Strategy - engine optimization with new food/nesting rules
 feel: 3  # Polite - competitive with a Duet 2-player variant
+value: null
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -31,6 +32,14 @@ categories:
   - Tableau Building
   - Animals
   - Nature
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Wonder
+  - Progress
+  - Unique
+  - Discovery
+  - Clever
 
 # Player counts
 possible_counts: [1, 2, 3, 4, 5, 6, 7]

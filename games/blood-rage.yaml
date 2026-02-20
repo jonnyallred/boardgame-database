@@ -38,6 +38,14 @@ categories:
   - Eric Lang
   - CMON
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Powerful
+  - Rivalry
+  - Clever
+  - Unique
+  - Agency
+
 # Player counts
 possible_counts: [2, 3, 4]
 true_counts: [3, 4]

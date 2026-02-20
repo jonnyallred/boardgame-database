@@ -31,6 +31,14 @@ categories:
   - Ameritrash
   - Fantasy
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Connection
+  - Tension
+  - Humor
+  - Progress
+
 # Player counts
 possible_counts: [2, 3, 4]
 true_counts: [3, 4]

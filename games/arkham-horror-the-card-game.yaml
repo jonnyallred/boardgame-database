@@ -1,0 +1,101 @@
+id: arkham-horror-the-card-game
+name: "Arkham Horror: The Card Game"
+alternate_names:
+  - "Arkham Horror LCG"
+year: 2016
+
+# Relationships
+game_family: arkham-horror
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course - 60-120 min per scenario
+rules_complexity: 3  # College - chaos bag skill tests, deckbuilding, campaign bookkeeping, multiple rulebooks
+strategic_depth: 3  # Strategy - long-term deck construction and campaign decision-making
+feel: 1  # Cooperative - fully cooperative team play against the game
+value: 2  # Fair Deal - quality card set at ~$45 MSRP for core set
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Deck Building
+  - Hand Management
+  - Campaign Mode
+  - Narrative Heavy
+  - Variable Player Powers
+  - Events
+  - Ameritrash
+  - Cult Classic
+  - Horror
+  - Cthulhu
+  - Mystery
+  - Fantasy Flight Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Dread
+  - Mystery
+  - Tension
+  - Discovery
+  - Connection
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Nate French
+  - Matthew Newman
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Christopher Hosch
+  - Ignacio Bazán Lazcano
+  - Henning Ludvigsen
+  - Mercedes Opheim
+  - Zoe Robinson
+  - Evan Simonet
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  A cooperative Living Card Game set in H.P. Lovecraft's Cthulhu Mythos, where one to four
+  investigators explore the shadowy streets of Arkham to unravel arcane conspiracies before
+  ancient evil overwhelms the world. Each player builds a 30-card deck around a chosen
+  investigator, drawing cards from five class archetypes (Guardian, Seeker, Rogue, Mystic,
+  Survivor) that define their strengths, weaknesses, and role in the group.
+
+  The core mechanic revolves around skill tests resolved by drawing tokens from a "chaos bag"
+  filled with modifiers ranging from benign boosts to catastrophic curses. Investigators
+  gather clues, fight monsters, and manage two threat tracks — health and sanity — as the
+  Mythos deck spawns enemies and crisis events each round.
+
+  Scenarios link together into narrative campaigns where choices carry forward: investigators
+  can be killed or driven insane, and trauma, story achievements, and earned experience points
+  persist between sessions, allowing players to upgrade their decks. The included "Night of
+  the Zealot" campaign spans three interconnected scenarios. Expansions vastly expand the
+  available campaigns, investigators, and player cards in the Living Card Game (fixed-
+  distribution, non-randomized) format.
+
+  The base core set supports 1-2 players fully; a second core set enables 3-4 players.
+  Community consensus favors 2-player and solo play as the optimal counts, where scenario
+  pacing and skill-test scaling feel best calibrated.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

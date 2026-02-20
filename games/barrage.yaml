@@ -1,0 +1,73 @@
+id: barrage
+name: "Barrage"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (1 hr)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 4  # Fierce
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Engine Building
+  - Economic
+  - Variable Player Powers
+  - Asymmetric
+  - Variable Setup
+  - Action Points
+  - Euro
+  - Historical
+  - Simone Luciani
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Clever
+  - Rivalry
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Tommaso Battista
+  - Simone Luciani
+publisher:
+  - Cranio Creations
+artist:
+  - Antonio De Luca
+playtime_minutes: 112
+min_playtime: 75
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Barrage is a heavy euro game of resource management and strategic placement set in the 1930s, where players represent rival international hydroelectric companies competing to harness the water power of a contested Alpine river system. Over five rounds, players construct dams to store water, build conduits to channel it downstream, and erect powerhouses to convert that flow into energy—earning victory points for each unit of energy produced each round. A central Construction Wheel governs resource availability: building materials are committed to the wheel and only returned when the wheel rotates, creating a tight planning puzzle that rewards players who sequence their actions efficiently. Each company board provides unique asymmetric bonuses, and each player draws a random Executive Officer card granting a further special power, giving every session a different strategic landscape. Players must also compete fiercely for action spaces and prime river basin locations, as blocking rivals and controlling key conduit routes can be just as decisive as optimizing your own engine.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

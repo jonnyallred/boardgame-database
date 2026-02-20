@@ -4711,3 +4711,450 @@ entries:
     game_id: terra-mystica
     url: "https://capstone-games.com/products/terra-mystica-automa-solo-box/"
     description: "Capstone Games official page for Terra Mystica Automa Solo Box — confirms Capstone as current NA publisher"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: abandon-all-artichokes
+    url: "https://gamewright.com/product/Abandon-All-Artichokes"
+    description: "Gamewright official product page — confirmed publisher, player count (2-4), age (10+), playtime (20 min), component count (100 cards)"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: abandon-all-artichokes
+    url: "https://opinionatedgamers.com/2020/09/26/dale-yu-review-of-abandon-all-artichokes/"
+    description: "Opinionated Gamers review — confirmed designer (Emma Larkins), publisher (Gamewright), deck-manager mechanic, 15-20 min playtime, turn structure details"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: abandon-all-artichokes
+    url: "https://www.meeplemountain.com/reviews/abandon-all-artichokes/"
+    description: "Meeple Mountain review — confirmed vegetable card powers, luck factor, family weight, deck-wrecker classification, Bonnie Pang as illustrator"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: abandon-all-artichokes
+    url: "https://www.emmalarkins.com/my-games"
+    description: "Emma Larkins official site — confirmed she is the designer; Bonnie Pang credited as illustrator/artist"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: age-of-industry
+    url: "https://www.meeplemountain.com/boardgame/age-of-industry/"
+    description: "Meeple Mountain game details — confirmed designer Martin Wallace, publisher Treefrog Games, year 2010, mechanics overview"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: age-of-industry
+    url: "https://www.meeplemountain.com/reviews/age-of-industry/"
+    description: "Meeple Mountain review — confirmed 3-5 players, single-era structure, hand management mechanics, expansion Japan and Minnesota, component quality notes"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: age-of-industry
+    url: "https://boardgameguys.com/age-of-industry/"
+    description: "Board Game Guys — confirmed 2-5 players, 120 min playtime, min age 13, component list, action count details"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: age-of-industry
+    url: "https://boardgame.tips/age-of-industry"
+    description: "BoardGame.tips — confirmed 2-5 players, 120 min, age 13+, award nomination details"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: age-of-industry
+    url: "https://www.nobleknight.com/P/2147435576/Age-of-Industry"
+    description: "Noble Knight Games — confirmed publisher Treefrog/Warfrog, physical product listing"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: adas-dream
+    url: "https://www.alleycatgames.com/adasdream"
+    description: "Alley Cat Games product page — confirmed 1-4 players, 90-120 min, age 14+, mechanics, theme, and gameplay description"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: adas-dream
+    url: "https://www.alderac.com/adas-dream/"
+    description: "AEG publisher page — confirmed player count, playtime, age, MSRP, and component list"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: adas-dream
+    url: "https://www.meeplemountain.com/reviews/adas-dream-first-take/"
+    description: "Meeple Mountain first take review — confirmed mechanics, teach time (~30 min), production quality, rondel and Mill details"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: adas-dream
+    url: "https://www.meeplemountain.com/boardgame/adas-dream/"
+    description: "Meeple Mountain game details page — confirmed year 2025 (in best of 2025 article), publisher, and description"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: adas-dream
+    url: "https://boardgamewire.com/index.php/2026/02/09/alley-cat-games-pivot-to-producing-more-high-complexity-games-rewarded-with-diamant-dor-win-for-adas-dream/"
+    description: "BoardGameWire — confirmed designer Toni López, 2026 Diamant d'Or win, Alley Cat Games publisher, Kickstarter crowdfunding details"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: adas-dream
+    url: "https://www.alleycatgames.com/product-page/adas-dream"
+    description: "Alley Cat Games product listing — confirmed Deluxe Kickstarter edition contents and expansions"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: agricola-all-creatures-big-and-small
+    url: "https://www.lookout-spiele.de/en/games/acbas.html"
+    description: "Lookout Spiele publisher page — confirmed designer (Uwe Rosenberg), year (2012), components, player count (2), and full game description"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: agricola-all-creatures-big-and-small
+    url: "https://boardgameencyclopedia.com/agricola-all-creatures-big-and-small-board-games-explained/"
+    description: "Board Game Encyclopedia — confirmed mechanics (worker placement, 8 rounds, 3 actions, 16 action spaces), setup, components, and theme details"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: agricola-all-creatures-big-and-small
+    url: "https://www.amazon.com/Asmodee-Agricola-All-Creatures-Small/dp/B07DY9K4WS"
+    description: "Amazon product listing — confirmed age 10+, 30 min average playtime, Lookout Games publisher"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: age-of-steam
+    url: "https://en.wikipedia.org/wiki/Age_of_Steam_(game)"
+    description: "Wikipedia — confirmed year 2002, designer Martin Wallace, publisher Warfrog Games on license from Winsome Games, player count 3-6, age 13+, playtime 2-3 hrs, 2003 International Gamers Award win, legal dispute history"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: age-of-steam
+    url: "https://www.meeplemountain.com/reviews/age-of-steam/"
+    description: "Meeple Mountain review — confirmed route building / goods delivery / bidding mechanics, Eagle-Gryphon Games publisher, cutthroat feel, Goods Growth dice mechanic, victory point formula, player elimination possibility"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: age-of-steam
+    url: "https://www.gamenerdz.com/age-of-steam-deluxe-edition"
+    description: "Game Nerdz retailer listing — confirmed Deluxe Edition details, player count, playtime range, and publisher Eagle-Gryphon Games"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: are-you-the-traitor
+    url: "https://www.looneylabs.com/games/are-you-traitor"
+    description: "Looney Labs publisher page — confirmed game name, gameplay description, roles (Key-Holder, Guard, Traitor, Wizard), player count (4-10), scoring to 10 points"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: are-you-the-traitor
+    url: "https://faq.looneylabs.com/other-card-board-games/aytt"
+    description: "Looney Labs FAQ — confirmed role mechanics, 4-player setup rules, and Magic Ring special card interactions"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: are-you-the-traitor
+    url: "https://en.wikipedia.org/wiki/Looney_Labs"
+    description: "Wikipedia Looney Labs article — confirmed publication year 2009 and publisher Looney Labs"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: are-you-the-traitor
+    url: "https://www.coolstuffinc.com/p/137845"
+    description: "CoolStuffInc retailer — confirmed designer Andrew Looney and 4-10 player count"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: are-you-the-traitor
+    url: "https://uberscifigeek.com/?p=4981"
+    description: "UberSciFiGeek press review — confirmed artist Dave Harrington, age 13+, free-form discussion gameplay, card quality details"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: are-you-the-traitor
+    url: "https://taogaming.wordpress.com/2009/06/23/are-you-the-traitor/"
+    description: "Tao of Gaming review (June 2009) — confirmed gameplay mechanics, round structure, role interactions, and quick playtime"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: barrage
+    url: "https://www.craniocreations.it/en/product/barrage"
+    description: "Cranio Creations publisher page — confirmed designers (Tommaso Battista, Simone Luciani), artist (Antonio De Luca), players 1-4, duration 90 min, age 13+"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: barrage
+    url: "https://www.meeplemountain.com/reviews/barrage/"
+    description: "Meeple Mountain review — confirmed publication year 2019, Cranio Creations publisher, Construction Wheel mechanic, worker placement gameplay, 5-round structure"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: barrage
+    url: "https://opinionatedgamers.com/2019/10/11/barrage-game-review-by-larry-levy/"
+    description: "Opinionated Gamers review — confirmed artist Antonio De Luca, playtime 75-150 min, 1-4 players, Simone Luciani and Tommaso Battista as designers"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: barrage
+    url: "https://en.boardgamearena.com/gamepanel?game=barrage"
+    description: "Board Game Arena panel — confirmed 1-4 players, 5-round gameplay structure, asymmetric company boards and Executive Officer cards"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: arydia-the-paths-we-dare-tread
+    url: "https://faroffgames.com/pages/arydia"
+    description: "Far Off Games publisher page — confirmed cooperative adventure game, 1-4 players, 60+ pre-painted minis, 900+ cards, 40+ hour campaign, Cody Miller designer"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: arydia-the-paths-we-dare-tread
+    url: "https://faroffgames.com/products/carton-arydia"
+    description: "Far Off Games product page — confirmed $240 all-in price point, luxury component list"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: arydia-the-paths-we-dare-tread
+    url: "https://impartialjudgement.com/2025/04/10/arydia-the-paths-we-dare-tread-a-journey-worth-taking/"
+    description: "Impartial Judgement review (April 2025) — confirmed Cody Miller designer, Far Off Games publisher, 1-4 players, tactical directional combat, modular map system, high-quality components"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: arydia-the-paths-we-dare-tread
+    url: "https://www.boardgamebliss.com/products/arydia-the-paths-we-dare-tread"
+    description: "Board Game Bliss retailer — confirmed green legacy designation, four design pillars: Exploration, Progression, Combat, Role-playing"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: arydia-the-paths-we-dare-tread
+    url: "https://www.gamesradar.com/tabletop-gaming/rpg-board-game-designers-revelation-was-searching-for-a-d-and-d-quick-start-guide-to-find-you-needed-to-pull-together-lots-of-different-pieces-in-order-to-play/"
+    description: "GamesRadar interview with Cody Miller — confirmed GM-less design philosophy, D&D and TTRPG inspirations, Far Off Games studio head"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: arydia-the-paths-we-dare-tread
+    url: "https://www.gameslore.com/acatalog/PR-Arydia-The-Paths-We-Dare-Tread-Board-Game.html"
+    description: "Gameslore retailer — confirmed green legacy reset mechanic, four pillars description, index-based save system"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: arydia-the-paths-we-dare-tread
+    url: "https://boardgameguys.com/arydia-the-paths-we-dare-tread/"
+    description: "Board Game Guys — confirmed 2024/2025 publication, artists Lina Cossette, David Forest, Philipp Ach, Tess Anderson, Kirk Hamilton; co-designer Ira Fay"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: arkham-horror-the-card-game
+    url: "https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/"
+    description: "Fantasy Flight Games product page — confirmed cooperative LCG, 2016 publication, Fantasy Flight Games publisher, Lovecraftian horror theme"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: arkham-horror-the-card-game
+    url: "https://arkhamhorrorlcg.fandom.com/wiki/Arkham_Horror:_The_Card_Game"
+    description: "Arkham Horror LCG Fandom wiki — confirmed 1-4 players, cooperative, five investigator classes, campaign structure with Night of the Zealot"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: arkham-horror-the-card-game
+    url: "https://www.amazon.com/Fantasy-Flight-Games-Arkham-Horror/dp/B01L3ZTXS0"
+    description: "Amazon product listing — confirmed 1-2 players, 1-2 hour playtime, ages 14+, cooperative mystery card game"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: arkham-horror-the-card-game
+    url: "https://thesolomeeple.com/2018/05/08/arkham-horror-the-card-game/"
+    description: "The Solo Meeple review — confirmed designers Nate French and Matthew Newman, 2016, 1-4 players, 1-2 hours, 30-card decks, chaos bag skill tests, campaign play"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: arkham-horror-the-card-game
+    url: "https://store.asmodee.com/products/arkham-horror-the-card-game-core-set"
+    description: "Asmodee North America store — confirmed $69.99 MSRP for original core set reprint, 1-4 players, 90 min, ages 14+, Fantasy Flight Games"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: arkham-horror-the-card-game
+    url: "https://www.orderofgamers.com/games/arkham-horror-the-card-game/"
+    description: "Esoteric Order of Gamers — confirmed 1-2 players, 60-120 min playtime, LCG mechanics with atmospheric scenarios"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: arkham-horror-the-card-game
+    url: "https://fantasticgames.com/blogs/news/arkham-horror-the-card-game-a-deep-dive-into-lovecraftian-madness"
+    description: "Fantastic Games blog — confirmed artists Christopher Hosch, Ignacio Bazán Lazcano, Henning Ludvigsen, Mercedes Opheim, Zoe Robinson, Evan Simonet; designers Nate French and Matthew Newman"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: blob-party
+    url: "https://wizkids.com/blob-party/"
+    description: "WizKids product page — confirmed publisher, MSRP $24.99, game components, cooperative word game mechanics"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: blob-party
+    url: "https://americantabletopawards.com/blob-party/"
+    description: "American Tabletop Awards — confirmed designer Pam Walls, publisher WizKids, Early Gamers winner 2023"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: blob-party
+    url: "https://www.gamenerdz.com/blob-party"
+    description: "Game Nerdz retailer — confirmed game description and components list"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: blob-party
+    url: "https://www.barnesandnoble.com/w/blob-party-by-pam-walls-wizkids/1146365726"
+    description: "Barnes & Noble — confirmed artists Renee Lasater, Anthony Lewis, Dona Leppanen; min age 8+"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: battle-cry
+    url: "https://en.wikipedia.org/wiki/Battle_Cry_(game)"
+    description: "Wikipedia — confirmed designer Richard Borg, publisher Avalon Hill, year 2000, 15 scenarios, Commands & Colors system, 2013 anniversary reprint"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: battle-cry
+    url: "https://icv2.com/articles/games/view/18760/avalon-hill-new--battle-cry"
+    description: "ICv2 — confirmed low-complexity introductory wargame, plastic minis, original 2000 release date"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: battle-cry
+    url: "https://islaythedragon.com/featured/lest-we-forget-a-duo-review-of-battle-cry-and-memoir-44/"
+    description: "Islay the Dragon — dual review confirming Commands & Colors mechanics: hex map, three sectors, command cards, custom dice, plastic minis"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: battle-cry
+    url: "https://taogaming.wordpress.com/2005/03/09/battle-cry-memoir-44/"
+    description: "Tao of Gaming — confirmed April 2000 release, ~30 min per game, Richard Borg designer, tense fog-of-war feel"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: battle-cry
+    url: "https://tametheboardgame.com/2014/03/10/battle-cry/"
+    description: "Tame the Board Game review — confirmed 2 players, game components list (infantry, cavalry, artillery, command cards, terrain tiles, dice)"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: battle-cry
+    url: "https://www.commandsandcolors.net/battlecry/"
+    description: "Commands and Colors fan site — confirmed Battle Cry is part of the Commands & Colors game system by Richard Borg"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: burning-banners
+    url: "https://www.meeplemountain.com/boardgame/burning-banners/"
+    description: "Meeple Mountain game details page — confirmed designer/artist Christopher Moeller, publisher Compass Games, year 2024, 2-6 players, 60 min, age 14+, hex wargame mechanics"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: burning-banners
+    url: "https://www.meeplemountain.com/reviews/burning-banners/"
+    description: "Meeple Mountain review — confirmed fantasy hex-and-counter wargame, four mounted maps, six factions, 29 scenarios, Basic and Advanced rule tiers"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: burning-banners
+    url: "https://www.nobleknight.com/P/2148137776/Burning-Banners---Rage-of-the-Witch-Queen"
+    description: "Noble Knight Games listing — confirmed designer Christopher Moeller, publisher Compass Games, year 2024, 2-6 players, 60 min, age 14+, $95.00 MSRP"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: burning-banners
+    url: "https://www.boardgamequest.com/burning-banners-review/"
+    description: "Board Game Quest review — confirmed 2-6 players, optimal 2-3, hex movement, dice combat, campaign scenarios, moderate-to-high complexity"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: burning-banners
+    url: "https://playerelimination.com/2024/08/26/a-burning-banners-rage-of-the-witch-king-review/"
+    description: "Player Elimination review — confirmed 2-6 players, optimal 3-4, playtime 2-4 hours, Basic/Advanced rules, heroes/magic/dungeons in Advanced mode, dice explosion mechanic"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: burning-banners
+    url: "https://theboardgameschronicle.com/2025/02/02/review-burning-banners/"
+    description: "The Boardgames Chronicle review — confirmed 2-6 players, optimal 2 or 4 (2v2), 30 min to 4+ hours depending on scenario, six asymmetric factions with unique win conditions"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: burning-banners
+    url: "https://www.miniaturemarket.com/burning-banners-rage-witch-queen-cpa5001.html"
+    description: "Miniature Market listing — confirmed 2-6 players, 60 min, age 14+, $119 MSRP, 2162 counters, 4 mounted maps, 206 cards, 6 dual-layer playmats, Compass Games"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: butterfly-garden
+    url: "https://opinionatedgamers.com/2025/01/29/dale-yu-review-of-butterfly-garden/"
+    description: "Opinionated Gamers review — confirmed designer Reiner Knizia, publisher Korea Board Games / Capstone Games, 2-4 players, 30 min, age 8+, reimplementation of Indigo (2012), optimal 4 players for shared edge dynamics"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: butterfly-garden
+    url: "https://www.miniaturemarket.com/butterfly-garden-csgbfg01.html"
+    description: "Miniature Market listing — confirmed 2-4 players, 30 min or less, age 8+, Capstone Games, $39.95 MSRP (on sale $31.99)"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: butterfly-garden
+    url: "https://icv2.com/articles/news/view/58850/collect-rare-butterflies-reiner-knizias-butterfly-garden"
+    description: "ICv2 news — confirmed Reiner Knizia designer, Capstone Games publisher, 2-4 players, 30 min, age 8+, $39.95 MSRP, retail release March 2025, reimplementation of Indigo (2012)"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: butterfly-garden
+    url: "https://capstone-games.com/products/butterfly-garden"
+    description: "Capstone Games official product page — confirmed publisher, SKU BFG01, $39.95 MSRP, tile path-laying gameplay description"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: butterfly-garden
+    url: "https://www.geeksundergrace.com/tabletop/review-butterfly-garden/"
+    description: "Geeks Under Grace review — confirmed designer Reiner Knizia, artist SALEIGN, publisher Capstone Games, 2-4 players, 30 min, 2025, hex tile path mechanics, butterfly scoring 1-3 points by color, 7/10 rating"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: butterfly-garden
+    url: "https://www.gamenerdz.com/butterfly-garden-preorder"
+    description: "Game Nerdz listing — confirmed designer Reiner Knizia, artist SALEIGN, publisher Korea Boardgames, 2-4 players, age 8+, $39.95 MSRP, mechanics: Hexagon Grid, Network and Route Building, Point to Point Movement, Tile Placement"
+
+- game_id: calico
+  date: "2026-02-20"
+  urls:
+    - url: "https://www.alderac.com/calico/"
+      note: "AEG publisher page — confirmed designer Kevin Russ, artist Beth Sobel, publisher Flatout Games + AEG, 1-4 players, 30-45 min, ages 8+"
+    - url: "https://alderacstore.com/calico/"
+      note: "AEG store listing — confirmed 1-4 players, 30-45 min, $39.99 MSRP, ages 8+"
+    - url: "https://www.gamenerdz.com/calico"
+      note: "GameNerdz listing — confirmed mechanics: Enclosure, End Game Bonuses, Hexagon Grid, Open Drafting, Pattern Building, Set Collection, Tile Placement; designer Kevin Russ; Flatout Games publisher"
+    - url: "https://americantabletopawards.com/calico/"
+      note: "American Tabletop Awards — confirmed winner 2020-2021 award cycle; designer Kevin Russ; publisher Flatout Games"
+    - url: "https://opinionatedgamers.com/2021/01/07/calico-game-review-by-brandon-kempf/"
+      note: "Opinionated Gamers review — confirmed mechanics, complexity, tile drafting system, puzzle nature of gameplay, replayability"
+    - url: "https://frontlinegaming.org/2023/06/15/board-game-review-calico/"
+      note: "Frontline Gaming review — confirmed 30-45 min playtime, accessible complexity with strategic depth, hexagonal tile mechanics"
+    - url: "https://www.miniaturemarket.com/aeg6210.html"
+      note: "Miniature Market listing — confirmed AEG publisher, 1-4 players, 30-45 min, $39.99 MSRP"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: cafe-baras
+    url: "https://www.meeplemountain.com/reviews/cafe-baras/"
+    description: "Meeple Mountain review — confirmed designer Roberta Taylor, artist Cindy Monroy, publisher KTBG, 2024, 2-4 players, age 8+, 30 min, hand management + tableau building + open drafting, 4/5 rating"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: cafe-baras
+    url: "https://oneboardfamily.com/cafe-baras-review/"
+    description: "One Board Family review — confirmed designer Roberta Taylor, artist Cindy Monroy, publisher KTBG, 2024, 2-4 players, ~30 min, hand management + set collection mechanics, game-end trigger via Regulars"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: cafe-baras
+    url: "https://nerdologists.com/2024/08/cafe-baras-drink-your-capybara-coffee/"
+    description: "Nerdologists review — confirmed KTBG publisher, lightweight tableau-building, ends when 3rd regular claimed, B+/A casual grade, 30 min playtime"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: cafe-baras
+    url: "https://www.kidstablebg.com/product-page/caf%C3%A9-baras-20usd"
+    description: "KTBG official product page — confirmed $20 USD MSRP, designer Roberta Taylor, artist Cindy Monroy, 2-4 players, 30 min, 83 café cards + 12 Special Guest cards + coin tokens"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: cafe-baras
+    url: "https://www.boardgames.ca/cafe-baras.html"
+    description: "Boardgames.ca listing — confirmed KTBG publisher, $27.95 CAD retail price, SKU 210000047468"
+
+- game_id: campaign-manager-2008
+  date: "2026-02-20"
+  sources:
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: campaign-manager-2008
+    url: "https://www.nobleknight.com/P/2147424095/Campaign-Manager-2008"
+    description: "Noble Knight Games listing — confirmed 2 players, 50 min, age 10+, designer Leonhard/Matthews, publisher Z-Man Games, year 2009"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: campaign-manager-2008
+    url: "https://dicetower.com/board-game/46255"
+    description: "Dice Tower listing — confirmed 2 players, 30-45 min, age 13, year 2009, publishers Gen-X Games and Z-Man Games, card-driven gameplay with negative campaign dice"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: campaign-manager-2008
+    url: "https://dailyworkerplacement.com/2020/10/30/you-should-really-play-digital-edition-campaign-manager-2008/"
+    description: "Daily Worker Placement review — confirmed artist Josh Cappel, 2 players, <1 hr, 20 swing states/4 active at once, 45-card pool with 15-card draft, 270 electoral votes to win"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: campaign-manager-2008
+    url: "https://www.boardgamereviewsbyjosh.com/2012/10/campaign-manager-2008-review.html"
+    description: "Board Game Reviews by Josh — confirmed Christian Leonhard and Jason Matthews designers, Z-Man Games publisher, deck drafting mechanic, negative campaigning with dice, rated 8/10"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: campaign-manager-2008
+    url: "https://www.coolstuffinc.com/p/139316"
+    description: "Cool Stuff Inc listing — confirmed 2 players, 30-48 min, age 13+, Z-Man Games, components: 90 campaign strategy cards, 20 breaking news cards, 20 battleground state tiles, Going Negative die"
+
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: captain-flip
+    url: "https://en.boardgamearena.com/gamepanel?game=captainflip"
+    description: "Board Game Arena panel — confirmed designers Remo Conzadori & Paolo Mori, artist Jonathan Aucomte, publisher PlayPunk, 2024, 2-5 players, tile placement + press your luck mechanics"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: captain-flip
+    url: "https://www.meeplemountain.com/boardgame/captain-flip/"
+    description: "Meeple Mountain game detail page — confirmed designer Paolo Mori & Remo Conzadori, artist Jonathan Aucomte, publishers Game Harbor/MIPL/PlayPunk, 2024, 2-5 players, age 8+, 20 min, mechanics: tile placement, press your luck, bag draw"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: captain-flip
+    url: "https://www.meeplemountain.com/reviews/captain-flip/"
+    description: "Meeple Mountain review — confirmed PlayPunk publisher, 2-5 players, 20 min, pirate theme, tile placement + press your luck, 5.0/5 review score"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: captain-flip
+    url: "https://whatsericplaying.com/2024/06/24/captain-flip/"
+    description: "What's Eric Playing review — confirmed PlayPunk/Flat River Group, 2-5 players, 20 min, character tile abilities (Monkey, Gunner, Parrot), press your luck with 3-Gunner instant loss rule, 9/10 rating after 94+ plays"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: captain-flip
+    url: "https://www.miniaturemarket.com/captain-flip-plpcf38082.html"
+    description: "Miniature Market retail listing — confirmed $29.99 MSRP, 2-5 players, age 8+, tile placement + push your luck + memory + multiple maps mechanics"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: captain-flip
+    url: "https://www.geeksundergrace.com/tabletop/review-captain-flip/"
+    description: "Geeks Under Grace review — confirmed Paolo Mori & Remo Conzadori designers, artist Jonathan Aucomte, PlayPunk/Flat River Group publisher, 2024, 2-5 players, 15-30 min, $29.99, Spiel des Jahres 2024 nominee, 8/10 rating, 4 player boards"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: captain-flip
+    url: "https://www.amazon.com/PlayPunk-Captain-Recruit-Collect-Family-Friendly/dp/B0CVQPF7T5"
+    description: "Amazon listing — confirmed PlayPunk, 2-5 players, ages 8+, 20 min, pirate theme, $29.99 MSRP"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: campaign-trail
+    url: "https://www.dicetower.com/board-game/129294"
+    description: "Dice Tower listing — confirmed year 2019, designers David/Jeff/Nathan Cornelius, publishers Grey Fox Games & Cosmic Wombat Games, 1-6 players, 115 min playtime, age 12+"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: campaign-trail
+    url: "https://www.miniaturemarket.com/gfx12595.html"
+    description: "Miniature Market listing — confirmed Grey Fox Games publisher, 1-6 players, 120 min max, age 14+, card-driven area control mechanics, $48.99-$69.99 MSRP"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: campaign-trail
+    url: "https://www.cardhaus.com/campaign-trail-standard-2nd-edition/"
+    description: "Card Haus listing — confirmed designers David/Jeff/Nathan Cornelius, Grey Fox Games publisher, 1-6 players, 115 min, age 12+, card-driven political strategy"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: campaign-trail
+    url: "https://tabletopia.com/games/campaign-trail-second-edition"
+    description: "Tabletopia listing — confirmed designers David/Jeff/Nathan Cornelius, publishers Grey Fox Games and Cosmic Wombat Games, artist Chris Strain (Christian Strain), 1-8 players, 1-1.75 hr playtime, age 10+"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: campaign-trail
+    url: "https://www.kicktraq.com/projects/152730994/campaign-trail-second-edition-and-green-party-expansion/"
+    description: "Kicktraq — confirmed second edition Grey Fox Games Kickstarter (Oct 2020), originally published by Cosmic Wombat Games via 2016 Kickstarter; 1-8 players with Green Party expansion"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: campaign-trail
+    url: "https://www.leagueofgamemakers.com/on-the-campaign-trail-with-campaign-trail/"
+    description: "League of Gamemakers — confirmed Cosmic Wombat Games (original publisher), designers Jeff/Nathan Cornelius, multi-use card mechanics, area control, political campaign theme"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: campaign-trail
+    url: "https://greyfoxgames.com/collections/campaign-trail"
+    description: "Grey Fox Games official — confirmed publisher, confirmed Deluxe Edition at $99.99, expansions include Dirty Politics Module ($9.99) and Advanced Solo Module ($11.99)"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: castle-combo
+    url: "https://opinionatedgamers.com/2024/12/09/dale-yu-review-of-castle-combo/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: castle-combo
+    url: "https://pandasaurusgames.com/products/castle-combo"
+    description: "Publisher product page — pandasaurusgames.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: castle-combo
+    url: "https://www.amazon.com/Pandasaurus-Games-Castle-Combo-Card/dp/B0DHWGS11S"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: castle-combo
+    url: "https://www.meeplemountain.com/boardgame/castle-combo/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: castle-combo
+    url: "https://www.meeplemountain.com/reviews/castle-combo/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: castle-ravenloft
+    url: "https://en.wikipedia.org/wiki/Castle_Ravenloft_(board_game)"
+    description: "Wikipedia article - confirmed publisher (Wizards of the Coast), year (2010), player count (1-5), components, awards (Origins Best Board Game 2010, ENnie Gold)"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: castle-ravenloft
+    url: "https://www.amazon.com/Dungeons-Dragons-Castle-Ravenloft-Board/dp/0786955570"
+    description: "Amazon product page - confirmed publisher, current price (~$58.66), in-stock status"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: castle-ravenloft
+    url: "https://www.boardgamereviewsbyjosh.com/2010/11/castle-ravenloft-review.html"
+    description: "Review - confirmed 1-5 players, cooperative dungeon crawl mechanics, MSRP $60, scenario-based play, D&D 4.0 rules adaptation"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: castle-ravenloft
+    url: "https://www.nobleknight.com/P/2147434903/Castle-Ravenloft"
+    description: "Noble Knight Games - confirmed game exists in D&D Adventure System series, grading/condition info only"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: castle-combo
+    url: "https://opinionatedgamers.com/2024/12/09/dale-yu-review-of-castle-combo/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: castle-combo
+    url: "https://pandasaurusgames.com/products/castle-combo"
+    description: "Publisher product page — pandasaurusgames.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: castle-combo
+    url: "https://www.amazon.com/Pandasaurus-Games-Castle-Combo-Card/dp/B0DHWGS11S"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: castle-combo
+    url: "https://www.meeplemountain.com/boardgame/castle-combo/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: castle-combo
+    url: "https://www.meeplemountain.com/reviews/castle-combo/"
+    description: "Game information page — meeplemountain.com"

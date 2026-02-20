@@ -37,6 +37,14 @@ categories:
   - Matt Leacock
   - Days of Wonder
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Complete
+  - Progress
+  - Tension
+  - Connection
+
 # Player counts
 possible_counts: [2, 3, 4, 5]
 true_counts: [3, 4]

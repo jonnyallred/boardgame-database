@@ -15,6 +15,7 @@ length: 3  # Feast (90-120 min)
 rules_complexity: 3  # College - multi-phase turns, virtue tracks, unique paladin powers
 strategic_depth: 3  # Strategy - balancing multiple scoring paths and card combos
 feel: 3  # Polite - competitive with worker placement blocking
+value: null
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -30,6 +31,14 @@ categories:
   - Historical
   - Medieval
   - Renegade Game Studios
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Rivalry
 
 # Player counts
 possible_counts: [1, 2, 3, 4]

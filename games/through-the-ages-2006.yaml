@@ -36,6 +36,14 @@ categories:
   - Czech Games Edition
   - Eagle-Gryphon Games
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Masterful
+  - Powerful
+  - Tension
+  - Agency
+
 # Player counts
 possible_counts: [2, 3, 4]
 true_counts: [2, 3, 4]

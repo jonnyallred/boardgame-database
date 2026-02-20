@@ -14,6 +14,7 @@ length: 3  # Feast (2-4 hrs per session)
 rules_complexity: 3  # College - boss encounters, narrative choices, camp management
 strategic_depth: 3  # Strategy - character builds, encounter tactics, camp upgrades
 feel: 1  # Cooperative - fully co-op
+value: null
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -27,6 +28,14 @@ categories:
   - Fantasy
   - Narrative Heavy
   - Dice Rolling
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Connection
+  - Tension
+  - Progress
+  - Wonder
 
 # Player counts
 possible_counts: [1, 2, 3, 4]

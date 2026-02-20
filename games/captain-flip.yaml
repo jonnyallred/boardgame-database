@@ -1,0 +1,83 @@
+id: captain-flip
+name: "Captain Flip"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~20 min)
+rules_complexity: 1  # Elementary — draw, flip or keep, place; basic character icons
+strategic_depth: 1  # Basic — short-term tile placement decisions, limited planning horizon
+feel: 3  # Polite — competitive coin-collection but low direct conflict
+value: 2  # Fair Deal — quality tiles, 4 player boards, $29.99 MSRP
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Press Your Luck
+  - Bag Building
+  - Variable Setup
+  - Pirates
+  - Family
+  - Filler
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Complete
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Remo Conzadori
+  - Paolo Mori
+publisher:
+  - PlayPunk
+  - Flat River Group
+artist:
+  - Jonathan Aucomte
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  Hoist your flag and recruit the finest pirate crew on the seven seas. Each
+  turn, draw a tile from the bag and decide: keep it as-is, or flip it to reveal
+  the other side — then drop it into any column on your personal board, Connect
+  4-style. Nine distinct pirate characters populate the tiles, each with a unique
+  ability: Monkeys flip adjacent tiles, Gunners reward coins, Parrots let you
+  draw again, and so on. Beware — collecting three Gunners triggers an instant
+  loss. The game ends when any player completes four columns; the pirate with the
+  most coins wins.
+
+  With four different player boards offering varied tactical approaches and zero
+  setup time, Captain Flip delivers snappy, luck-infused fun in under 20 minutes.
+  A Spiel des Jahres 2024 nominee praised for its accessible rules, charming
+  pirate art, and the delicious tension of every bag draw.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

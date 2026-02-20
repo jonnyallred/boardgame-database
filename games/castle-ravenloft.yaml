@@ -1,0 +1,86 @@
+id: castle-ravenloft
+name: "Dungeons & Dragons: Castle Ravenloft Board Game"
+alternate_names:
+  - "Castle Ravenloft Board Game"
+year: 2010
+
+# Relationships
+game_family: dnd-adventure-system
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - wrath-of-ashardalon
+  - legend-of-drizzt
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (60-90 min per scenario)
+rules_complexity: 2  # Junior High/HS - multiple mechanics but streamlined D&D
+strategic_depth: 2  # Tactics - short-term positioning and monster management
+feel: 1  # Cooperative - pure co-op, no traitors
+value: 3  # Splurge - 40 plastic miniatures, interlocking dungeon tiles
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Dungeon Crawler
+  - Tile Placement
+  - Modular Board
+  - Dice Rolling
+  - Variable Player Powers
+  - Hand Management
+  - Fantasy
+  - Horror
+  - Ameritrash
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Tension
+  - Dread
+  - Connection
+  - Powerful
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Peter Lee
+  - Rob Heinsoo
+  - Mike Mearls
+  - Bill Slavicsek
+publisher:
+  - Wizards of the Coast
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Castle Ravenloft Board Game is the first entry in the Dungeons & Dragons
+  Adventure System series, a cooperative dungeon crawl for 1-5 players set
+  in the gothic horror realm of Barovia. Players choose from five iconic D&D
+  heroes — Dragonborn Fighter, Human Rogue, Dwarf Cleric, Eladrin Wizard,
+  and Human Ranger — and work together to complete one of thirteen scenarios
+  deep inside the vampire Count Strahd's cursed castle. Each turn, players
+  activate their hero using power cards and dice rolls, then draw from
+  encounter and monster decks that continuously spawn new threats onto the
+  modular tile board. The game won the Origins Award for Best Board Game of
+  2010 and the ENnie Gold Award for Best RPG Related Product, praised for
+  delivering a D&D dungeon crawl experience without a Dungeon Master.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

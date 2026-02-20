@@ -1,0 +1,69 @@
+id: campaign-manager-2008
+name: Campaign Manager 2008
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-50 min)
+rules_complexity: 2  # Junior High/High School (structured steps and mechanics)
+strategic_depth: 2  # Tactics (short-term positioning — card play and swing state control)
+feel: 4  # Fierce (cutthroat 2-player direct competition)
+value: 2  # Fair Deal (quality cards and state tiles)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Hand Management
+  - Area Control
+  - Dice Rolling
+  - Variable Setup
+  - Historical
+  - Filler
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+  - Unique
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Christian Leonhard
+  - Jason Matthews
+publisher:
+  - Z-Man Games
+artist:
+  - Josh Cappel
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 50
+min_age: 13
+
+# Description
+description: |
+  Campaign Manager 2008 is a two-player card-driven strategy game in which one player manages Barack Obama's campaign and the other steers John McCain's, competing to accumulate 270 electoral votes in the 2008 U.S. presidential election. Before the game begins, both players draft their 15-card strategy decks from a shared pool of 45 campaign strategy cards, cycling through groups of three and choosing one to keep — giving each game a distinct deck composition. During play, four battleground state tiles are active at a time, each featuring two issue tracks (economy and national security) populated by voter demographic tokens. On their turn, a player either plays a card to place influence on an issue in one of the active states, or draws up to their hand limit of five. Controlling all tokens on an issue claims that state's electoral votes; a replacement state is then drawn. Players may also play powerful "going negative" attack cards that can backfire — a die roll determines whether the attack lands or rebounds to benefit the opponent. The game shares its design pedigree with 1960: The Making of the President by the same designers, offering a faster-playing, more accessible take on the U.S. presidential campaign duel format.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

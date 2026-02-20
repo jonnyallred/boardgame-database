@@ -1,0 +1,81 @@
+id: battle-cry
+name: "Battle Cry"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30-45 min per scenario)
+rules_complexity: 1  # Elementary — low-complexity introductory wargame, teach in minutes
+strategic_depth: 2  # Tactics — card-driven flanking decisions, short-term positioning
+feel: 4  # Fierce — pure 2-player head-to-head rivalry
+value: 2  # Fair Deal — quality plastic minis, modular board, 15 scenarios
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hex Map
+  - Hand Management
+  - Dice Rolling
+  - Modular Board
+  - Variable Setup
+  - Area Control
+  - Wargame
+  - Dudes on a Map
+  - Gateway
+  - Historical
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Agency
+  - Powerful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Richard Borg
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Battle Cry is a two-player wargame that recreates fifteen battles from the
+  American Civil War using Richard Borg's Commands & Colors system. Players
+  command Union or Confederate forces — infantry, cavalry, artillery, and
+  generals — arranged on a modular hex map with scenario-specific terrain tiles.
+  On each turn, a player plays one Command Card to activate units in a chosen
+  flank (left, center, or right), then rolls custom dice where rolled icons
+  matching the defender's unit type remove figures. The first player to capture
+  the required number of victory banners wins. Accessible enough for beginners
+  yet tense for experienced wargamers, Battle Cry won the 2001 International
+  Gamers Award for General Strategy and spawned the wider Commands & Colors
+  system, including Memoir '44 and Commands & Colors: Ancients.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

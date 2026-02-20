@@ -14,6 +14,7 @@ length: 2  # Main Course (60-90 min)
 rules_complexity: 2  # Junior High - role rules complex but game flow is simple
 strategic_depth: 3  # Strategy - information deduction, bluffing, and alliance forming
 feel: 4  # Fierce - social deduction with intense bluffing and betrayal
+value: null
 
 # Personal ratings (leave null until rated)
 affinity: null
@@ -30,6 +31,14 @@ categories:
   - Party
   - Horror
   - Mystery
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Persuasion
+  - Mystery
+  - Dread
+  - Unique
 
 # Player counts
 possible_counts: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]

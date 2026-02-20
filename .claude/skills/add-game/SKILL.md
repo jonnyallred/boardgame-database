@@ -5,7 +5,7 @@ argument-hint: "[game name]"
 disable-model-invocation: false
 context: fork
 model: sonnet
-allowed-tools: Read, Write, Glob, Grep, WebSearch, WebFetch, Bash(ls *)
+allowed-tools: Read, Write, Glob, Grep, WebSearch, Bash(ls *), Bash(python3 scripts/game_pipeline.py *)
 ---
 
 # Add Board Game Entry
@@ -20,6 +20,7 @@ Designers: {list}
 Players: {possible_counts}, best at {true_counts}
 Ratings: length={n} complexity={n} depth={n} feel={n} value={n}
 Categories: {all tags applied}
+Evokes: {top 5 feelings}
 Sources: {number of URLs logged}
 ```
 
@@ -28,20 +29,23 @@ If the file already exists, respond with only: `Skipped — {slug}.yaml already 
 ## Steps
 
 1. **Check for duplicates** — Search existing games by name (including alternate_names) to avoid duplicates. Read all game files in `games/` and check if the game name matches any existing `name` or `alternate_names` field.
-2. **Search the web** for the game using publisher sites, Wikipedia, retailers, and review sites. **DO NOT use boardgamegeek.com** — use `blocked_domains: ["boardgamegeek.com"]` on all WebSearch calls.
-3. **Read the schema** at `schema.yaml` for valid category values and rating scale definitions.
-4. **Read an existing game** (e.g., `games/azul.yaml`) as a formatting reference.
-5. **Create the YAML file** at `games/{slug}.yaml` following the exact format below.
-6. **Log sources** — append all URLs consulted to `sources/research-log.yaml` (see Source Logging below).
+2. **Read the schema** at `schema.yaml` for valid category values and rating scale definitions.
+3. **Read an existing game** (e.g., `games/azul.yaml`) as a formatting reference.
+4. **Collect URLs** via WebSearch (≤ 3 calls). Target publisher site, Wikipedia, and one retailer or review site. **DO NOT use boardgamegeek.com** — use `blocked_domains: ["boardgamegeek.com"]` on all WebSearch calls. Do not call WebFetch — the pipeline handles fetching.
+5. **Run the pipeline** with the collected URLs:
+   ```bash
+   python3 scripts/game_pipeline.py "Game Name" --urls url1 url2 url3
+   ```
+   This fetches each URL, strips HTML, and returns clean source text as JSON. The output contains `game_name` and a `sources` array, each with `url`, `source_type`, and `text`. Read the clean text from each source to extract all game metadata yourself.
+6. **Create the YAML file** at `games/{slug}.yaml` following the exact format below. Populate all fields by reading the pipeline's clean text output and using your knowledge and the schema.
+7. **Log sources** — append all URLs consulted to `sources/research-log.yaml` (see Source Logging below).
 
-## Preferred Sources (in priority order)
+## Preferred URL Targets (pass to pipeline in this priority order)
 
 1. **Publisher product pages** (e.g., stonemaier-games.com, fantasyflightgames.com)
 2. **Wikipedia** game articles
 3. **Retailer pages** (Amazon, Miniature Market, Gamenerdz, etc.)
 4. **Review sites** (Dice Tower, Shut Up & Sit Down, Ars Technica)
-5. **Rules PDFs** from publisher sites
-6. **Designer/studio blogs and interviews**
 
 **Blocked sources:** Do NOT use boardgamegeek.com for any research.
 
@@ -58,6 +62,7 @@ Gather all of the following from the preferred sources above:
 - Whether it's part of a game family, has expansions, or is an expansion itself
 - Artist(s) / illustrator(s)
 - A concise description of the game (3-5 sentences covering theme and key mechanics)
+- **Top 5 evokes** — the most prominent feelings the game is designed to evoke (from the 18 values in schema.yaml)
 
 ## Rating Guidelines
 
@@ -129,6 +134,10 @@ hotness: null
 categories:
   - {Mechanic/Style/Theme from schema.yaml ONLY}
 
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - {Feeling from schema.yaml evokes list}
+
 # Player counts
 possible_counts: [{supported counts}]
 true_counts: [{best counts}]
@@ -162,6 +171,7 @@ plays_tracked:
 
 - **Check for duplicates first** — Read existing game files and check if the game name matches any `name` or `alternate_names` field. If found, skip creation.
 - **Only use categories that exist in `schema.yaml`**. Do not invent new tags.
+- **`evokes` must have exactly 5 values** from the 18 options in `schema.yaml`. Pick the top 5 feelings the game is most designed to evoke. Consider the game's core mechanics, theme, and player experience.
 - **`affinity` and `hotness` must be `null`** — these are personal ratings.
 - **`alternate_names`** — List any other titles for the same game (translations, regional names). Use an empty list `[]` if none.
 - **Slug/ID must match the filename** (lowercase, hyphen-separated).

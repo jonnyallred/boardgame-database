@@ -1,0 +1,70 @@
+id: agricola-all-creatures-big-and-small
+name: "Agricola: All Creatures Big and Small"
+alternate_names:
+  - "Agricola: Alle Kreatur groß und klein"
+year: 2012
+
+# Relationships
+game_family: agricola
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Junior High/HS
+strategic_depth: 2  # Tactics
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Tile Placement
+  - Engine Building
+  - Euro
+  - Agriculture
+  - Animals
+  - Uwe Rosenberg
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Progress
+  - Agency
+  - Rivalry
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Lookout Games
+artist:
+  - Klemens Franz
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+# Description
+description: |
+  Agricola: All Creatures Big and Small strips Uwe Rosenberg's acclaimed farming game down to its animal husbandry core, creating a tight two-player duel lasting around 30 minutes. Each player begins with a modest 3x2 farm board and competes over eight rounds to expand pastures, construct buildings, and accumulate the most valuable livestock — horses, cows, sheep, and pigs. On each turn, players place workers to claim one of sixteen shared action spaces, gathering wood, reeds, and stone to build fences and special buildings, then fill their growing pastures with animals that breed and multiply. Four standard buildings and four special buildings offer unique abilities and end-game scoring bonuses, while the option to expand the player board introduces a pleasing spatial puzzle element. The player who earns the most victory points from enclosed pasture space, animal variety and quantity, and buildings wins — making every action choice a critical trade-off between infrastructure and livestock.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []
