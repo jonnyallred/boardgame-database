@@ -1,0 +1,83 @@
+id: elfenland
+name: "Elfenland"
+year: 1998
+
+# Relationships
+game_family: elfenland
+edition: null
+base_game: null
+expansions:
+  - elfengold
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Route Building
+  - Card Drafting
+  - Set Collection
+  - Fantasy
+  - Family
+  - Euro
+  - Gateway
+  - Alan R. Moon
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Discovery
+  - Progress
+  - Rivalry
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Alan R. Moon
+publisher:
+  - Rio Grande Games
+artist:
+  - Doris Matthäus
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+# Description
+description: |
+  Elfenland is a fantasy route-building game set in the magical land of Elfenland, winner
+  of the 1998 Spiel des Jahres award. Players are young elves who must complete a rite of
+  passage by visiting as many of the twenty famous towns as possible in just four rounds,
+  then return to their home city.
+
+  Each round, players draw transportation cards and take turns placing transportation tokens
+  (dragons, unicorns, giant pigs, troll wagons, elfcycles, magic clouds, rafts, and ferries)
+  on the roads between cities. Different terrain types require different modes of transport,
+  and each transportation type costs a specific set of matching cards to use. Crucially, once
+  a token is placed on a road segment, all players may use it — so clever placement can help
+  you while also benefiting rivals.
+
+  The tension lies in hand management: players must plan efficient routes across the map
+  while dealing with the cards available to them and the transport tokens others place. The
+  player who visits the most towns wins; ties are broken by cards remaining in hand.
+
+  Originally based on Moon's earlier four-hour game Elfenroads (White Wind, 1992), Elfenland
+  streamlines the experience into an accessible, beautifully illustrated family game. An
+  expansion, Elfengold, adds economic and bidding elements.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,84 @@
+id: origin-story
+name: "Origin Story"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Trick-taking
+  - Tableau Building
+  - Hand Management
+  - Family
+  - Party
+  - Superheroes
+  - Jamey Stegmaier
+  - Stonemaier Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Powerful
+  - Progress
+  - Tension
+  - Unique
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Jamey Stegmaier
+  - Pete Wissinger
+publisher:
+  - Stonemaier Games
+artist:
+  - Clémentine Campardou
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  Origin Story is a trick-taking game with tableau-building elements for 1-5 players, published
+  by Stonemaier Games in 2025. Players craft a superhero or supervillain over five rounds,
+  weaving together a character's backstory, gadgets, allies, and grudge against an archenemy,
+  culminating in the unleashing of an ultimate ability.
+
+  Each round, players set their alignment — hero or villain — simultaneously and secretly. Heroes
+  aim to win as many tricks as possible, scoring one victory point per trick at round's end.
+  Villains pursue the opposite goal: winning zero tricks earns them four victory points. Cards
+  are divided into four suits (brains, love, speed, and strength), with the highest love card
+  automatically trumping cards of any other suit.
+
+  Each round, players choose one of three drawn story cards to add to their character's tableau,
+  unlocking permanent powers that compound across rounds and make the character feel increasingly
+  capable. Round three introduces a one-off event card that temporarily changes the scoring or
+  rules. In round five, each player reveals a previously secret superhero card, gaining its
+  special benefit to close out the game.
+
+  Illustrated by Clémentine Campardou (known for Wyrmspan), Origin Story blends the familiarity
+  of trick-taking with the satisfying arc of building a superhero narrative, making it accessible
+  as a family game while offering meaningful strategic decisions around alignment, card play, and
+  ability development.
+
+# Upgrades
+upgrades: []

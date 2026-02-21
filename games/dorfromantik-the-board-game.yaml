@@ -1,0 +1,81 @@
+id: dorfromantik-the-board-game
+name: "Dorfromantik: The Board Game"
+year: 2022
+
+# Relationships
+game_family: dorfromantik
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~60-90 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light tactics
+feel: 1  # Cooperative, low friction
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Cooperative
+  - Puzzle Solving
+  - Campaign Mode
+  - Set Collection
+  - Modular Board
+  - Variable Setup
+  - Family
+  - Euro
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Complete
+  - Wonder
+  - Progress
+  - Clever
+  - Connection
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [1, 2, 3, 4]
+
+# Metadata
+designer:
+  - Lukas Zach
+  - Michael Palm
+publisher:
+  - Pegasus Spiele
+artist:
+  - Michaela Kienle
+playtime_minutes: 70
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+# Description
+description: |
+  Dorfromantik: The Board Game is a cooperative puzzle game adapted from the acclaimed
+  video game by Toukana Interactive. Players work together, taking turns drawing and
+  placing hexagonal landscape tiles to build an ever-expanding countryside of wheat
+  fields, forests, villages, meadows, rivers, and railways. The goal is to score as
+  many points as possible by fulfilling task tokens — completing enclosed regions of
+  the required size — with the group sharing a single collective score.
+
+  The game ships with a basic standalone mode and a rich campaign system. In campaign
+  play, players unlock small sealed boxes as their scores cross thresholds, gradually
+  adding new tile types, special tiles, and scoring rules that increase the complexity
+  and replayability across many sessions. Completing tasks rewards the group with bonus
+  tiles, helping extend the draw pile and push for a higher score.
+
+  Winner of the 2023 Spiel des Jahres (Game of the Year), Dorfromantik earned wide
+  praise for its calm, contemplative atmosphere, accessibility for non-gamers, and the
+  satisfying tension of fitting tiles together perfectly. It plays equally well solo or
+  with a full table, making it an ideal gateway and family title.
+
+# Upgrades
+upgrades: []

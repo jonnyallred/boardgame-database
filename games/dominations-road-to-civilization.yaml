@@ -1,0 +1,82 @@
+id: dominations-road-to-civilization
+name: "Dominations: Road to Civilization"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate competition
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Tech Tree
+  - Set Collection
+  - Resource Management
+  - Engine Building
+  - Hand Management
+  - Euro
+  - Civilization
+  - Ancient
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Masterful
+  - Tension
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Olivier Melison
+  - Eric Dubus
+publisher:
+  - Holy Grail Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Dominations: Road to Civilization is a civilization-building game played over three ages,
+  each consisting of five rounds. Players take on the role of a primitive tribe and develop
+  it into a nation whose influence echoes through the ages.
+
+  The core mechanism revolves around placing triangular dominoes (camp tiles), where each
+  corner bears one of six knowledge symbols: Government, Religion, Art, Trade, Science, and
+  Craftsmanship. Placing tiles generates knowledge in those domains, and players must
+  carefully consider tile placement to maximize their knowledge income while expanding their
+  territory.
+
+  Knowledge is spent to construct Cities and Monuments on the board, and to acquire Mastery
+  Cards — a tech tree of permanent effects that define the civilization's unique development
+  path. Each age unlocks more powerful Mastery Cards, creating a sense of escalating
+  progression throughout the game.
+
+  The game rewards long-term planning and optimization across multiple interconnected
+  systems. Players must balance tile placement for knowledge generation, investment in the
+  Mastery Card tree, and competition for monuments and cities. The puzzle of balancing all
+  components simultaneously is considered the game's greatest strength by reviewers.
+
+# Upgrades
+upgrades: []

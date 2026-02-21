@@ -1,0 +1,83 @@
+id: enchanted-forest
+name: "Enchanted Forest"
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (30 min)
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Family
+  - Fantasy
+  - Medieval
+  - Ravensburger
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Lucky
+  - Mystery
+  - Wonder
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+# Metadata
+designer:
+  - Alex Randolph
+  - Michel Matschoss
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+# Description
+description: |
+  Enchanted Forest (known as Sagaland in Germany) is a fairy tale memory and race game
+  that won the Spiel des Jahres award in 1982. Designed by Alex Randolph and Michel
+  Matschoss, it has sold over 3 million copies worldwide.
+
+  Players start in a village and race through an enchanted forest toward a castle. The
+  king is seeking an heir, and the first player to correctly identify three magical
+  treasures hidden beneath the forest's trees wins the crown. On each turn, players
+  roll two dice and move that many spaces through the forest, moving each die's result
+  separately and choosing their own path. When a player lands on a tree space, they
+  secretly peek at the fairy tale symbol hidden underneath it — symbols like Cinderella's
+  slipper, a magic lamp, Rumpelstiltskin's spinning wheel, and more.
+
+  When a player reaches the castle, the king reveals which treasure he seeks. Players
+  who believe they know where that treasure is hidden in the forest may announce it and
+  race back to that tree to reveal it. If correct, they score a point (a turret on the
+  castle); if wrong, they are sent back to the village. The winner is the first to
+  correctly identify three treasures.
+
+  The core tension of the game is pure memory: players must recall which symbols they
+  peeked at and where, while also watching opponents' movements to infer what they might
+  know. The roll-and-move mechanic keeps the game accessible for young players, while
+  the memory element creates genuine suspense regardless of age. Originally published
+  as Sagaland by Ravensburger in 1981, the game was released in English as Enchanted
+  Forest the following year and remains in print today.
+
+# Upgrades
+upgrades: []

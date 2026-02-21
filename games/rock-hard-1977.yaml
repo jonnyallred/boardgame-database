@@ -1,0 +1,82 @@
+id: rock-hard-1977
+name: "Rock Hard: 1977"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (45-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Action Points
+  - Hand Management
+  - Variable Player Powers
+  - Economic
+  - Euro
+  - Ameritrash
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Rivalry
+  - Tension
+  - Lucky
+  - Powerful
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Jackie Fox
+publisher:
+  - Devir Games
+artist:
+  - Jennifer Giner
+playtime_minutes: 68
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Rock Hard: 1977 is a worker placement game designed by Jackie Fox, the former
+  bassist of the legendary rock band The Runaways. Players take on the roles of
+  aspiring rock stars in 1977 America, racing to accumulate the most Fame points
+  before the year ends. The game unfolds over 9 rounds, each representing a month
+  from April through December 1977.
+
+  Each player manages a personal player board styled like a guitar amplifier,
+  featuring dials tracking three key stats — Chops, Songs, and Reputation —
+  all of which go up to 11. Through worker placement actions, players pursue
+  gigs, record deals, and music industry connections to boost their Fame.
+
+  A distinctive "candy" mechanic adds press-your-luck tension: taking a candy
+  card grants an immediate bonus action ("sugar rush"), but raises a Cravings
+  dial. If a die roll exceeds the Cravings level, the player crashes and must
+  spend their next turn recovering, missing a day's action. This risk-reward
+  system captures the excess and unpredictability of the 70s rock lifestyle.
+
+  Rock Hard: 1977 was a breakout hit at Gen Con 2024 — selling out on its first
+  day — and was named one of Smithsonian Magazine's best board games of 2024.
+  The game draws heavily on Fox's own experiences in the music industry, blending
+  authentic thematic flavour with tight Euro-style decision making.
+
+# Upgrades
+upgrades: []

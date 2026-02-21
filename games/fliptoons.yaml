@@ -1,0 +1,77 @@
+id: fliptoons
+name: "FlipToons"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - fliptoons-big-button
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (15-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Set Collection
+  - Press Your Luck
+  - Family
+  - Gateway
+  - Filler
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Lucky
+  - Progress
+  - Rivalry
+  - Humor
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Jordy Adan
+  - Renato Simoes
+publisher:
+  - Thunderworks Games
+artist:
+  - Diego Sa
+playtime_minutes: 22
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  FlipToons is a fast-playing small-box deck-building card game set in the animated world of Flip Valley,
+  where players compete as rival talent agents assembling the perfect cast for the next great cartoon show.
+  The game blends classic deck-building with a distinctive flip mechanic: on your turn, you shuffle your
+  personal deck and flip cards into a six-card grid (two rows of three columns), then score fame points
+  based on the characters and combinations that land face-up.
+
+  Fame points are the currency of the game — spend them to recruit colorful new character cards from a
+  shared market row or pay to purge weak cards from your deck. Once any player crosses 30 fame points,
+  everyone takes one final turn and performs a climactic Final Flip; the player with the highest total
+  wins. The grid-based scoring creates satisfying push-your-luck moments, as the random flip order means
+  even a well-built deck can produce unexpected results. The nostalgic cartoon art style and quick play
+  time make FlipToons an accessible entry point for deck-building newcomers while offering enough
+  optimization for experienced players. A free Big Button mini-expansion was included with copies purchased
+  directly from the publisher.
+
+# Upgrades
+upgrades: []

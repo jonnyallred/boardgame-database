@@ -1,0 +1,85 @@
+id: keltis
+name: "Keltis"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Route Building
+  - Family
+  - Gateway
+  - Euro
+  - Reiner Knizia
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Tension
+  - Complete
+  - Rivalry
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - Kosmos
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Keltis is a multi-player board game designed by Reiner Knizia that won the
+  Spiel des Jahres (Game of the Year) award in 2008. It is thematically set
+  among ancient Celtic stone paths and expands the mechanics of Knizia's
+  two-player card game Lost Cities into a 2-4 player board game experience.
+  In the US it was published as Lost Cities: The Board Game.
+
+  Each player has a hand of cards showing one of five colors/symbols and a
+  number from 0-10 (each value appearing twice). On their turn, a player plays
+  a card from their hand to one of the five colored paths, then draws a card
+  from the draw pile or from one of the face-up discard piles. Cards played to
+  a path must follow in ascending or descending order — players must commit to
+  a direction once the second card is placed. Playing a card advances one of
+  the player's tokens along the corresponding stone path on the board.
+
+  Scoring is path-based: advancing fewer than 4 steps on a path yields negative
+  points, while 4 or more steps earn positive points. Each player has one taller
+  "doubling" token whose path score is counted twice. Bonus points are awarded
+  for collecting wishing stones (found on certain path spaces) and landing on
+  special bonus squares. The game ends when any player has advanced all five of
+  their tokens, or when the draw pile is exhausted.
+
+  The family-friendly rules, quick play time, and meaningful decisions about
+  which cards to play and which to discard made Keltis a popular gateway game
+  and a worthy Spiel des Jahres winner.
+
+# Upgrades
+upgrades: []

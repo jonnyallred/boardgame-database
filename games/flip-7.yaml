@@ -1,0 +1,80 @@
+id: flip-7
+name: "Flip 7"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20 min)
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Press Your Luck
+  - Hand Management
+  - Set Collection
+  - Party
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+# Player counts
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+true_counts: [4, 5, 6, 7, 8]
+
+# Metadata
+designer:
+  - Eric Olsen
+publisher:
+  - The Op Games
+artist:
+  - O'Neil Mabile
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+# Description
+description: |
+  Flip 7 is a fast-playing press-your-luck card game for 3 to 18 players. The deck
+  contains numbered cards from 1 to 12, with each number appearing as many times as
+  its face value (one 1, two 2s, three 3s, and so on), plus a set of action and
+  modifier cards.
+
+  Each round, the active player flips over cards one at a time, adding them to their
+  row. If a number comes up that they already have in their row, they bust and score
+  zero for the round. At any point a player may choose to stop and bank their current
+  total. The trick: the deck is shared, so every card you flip changes the odds for
+  everyone else. If you manage to collect exactly 7 unique numbered cards, you
+  immediately end the round and earn a 15-point bonus on top of your total.
+
+  Players race to be the first to reach 200 points across multiple rounds. Action
+  cards can freeze opponents, steal cards, or force other players to flip. The game
+  plays in about 20 minutes and is easy to learn in minutes, making it a strong
+  opener or closer for any game night.
+
+  Flip 7 won the Origins Award for Best Card Game (2025) and the Golden Geek Award
+  for Best Party Game, and was nominated for the Spiel des Jahres. It spent over
+  10 weeks atop bestseller charts and quickly became one of the breakout hits of 2024.
+
+# Upgrades
+upgrades: []

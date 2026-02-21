@@ -1,0 +1,83 @@
+id: meadow
+name: "Meadow"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - meadow-downstream
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Drafting
+  - Card Drafting
+  - Set Collection
+  - Hand Management
+  - Tableau Building
+  - Euro
+  - Family
+  - Gateway
+  - Nature
+  - Animals
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Complete
+  - Discovery
+  - Wonder
+  - Clever
+  - Progress
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Klemens Kalicki
+publisher:
+  - Rebel Studio
+artist:
+  - Karolina Kijak
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+# Description
+description: |
+  Meadow is a nature-themed card drafting and set collection game for 1-4 players in which
+  participants take the role of wanderers observing the natural world. Players stroll through
+  picturesque surroundings, collecting ground cards (animal life habitats), observation cards
+  (specific plants and animals), landscape cards, and discovery cards to build their personal
+  meadow tableau.
+
+  On each turn a player selects a card from a central board arranged by cardinal directions
+  (North, South, East, West decks), then plays a card from their hand onto one of their tableau
+  columns. Cards cascade in columns, with only the topmost card's icons remaining active as
+  prerequisites for future placements. Path tokens limit access to card slots, creating a
+  worker-placement-like tension as the round progresses.
+
+  The game features 184 cards illustrated in stunning hand-painted watercolors by Karolina Kijak,
+  each depicting a real species or landscape. Players score points for observed species, fulfilled
+  landscape objectives, and souvenirs collected during their journey. The player who best captures
+  the richness of nature and accumulates the most points wins the title of keenest nature observer.
+  Meadow is widely praised for stimulating genuine curiosity about the natural world while
+  delivering satisfying strategic depth through its card interaction systems.
+
+# Upgrades
+upgrades: []

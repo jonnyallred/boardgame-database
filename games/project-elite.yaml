@@ -1,0 +1,85 @@
+id: project-elite
+name: "Project: ELITE"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~45 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 2  # Moderate cooperative pressure
+value: 3  # Premium (miniature-heavy CMON production)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Real-time
+  - Variable Player Powers
+  - Modular Board
+  - Sci-Fi
+  - Aliens
+  - Ameritrash
+  - CMON
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Dread
+  - Connection
+  - Powerful
+  - Lucky
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Konstantinos Kokkinis
+  - Marco Portugal
+  - Sotirios Tsantilas
+publisher:
+  - CMON
+  - Artipia Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  Project: ELITE is a fully cooperative real-time board game for 1-6 players in which
+  a squad of elite soldiers must defend Earth against a relentless alien invasion. This
+  2020 edition was co-published by CMON and Artipia Games, reimagining the 2015 original
+  from Drawlab Entertainment with new content and higher production values including
+  detailed miniatures.
+
+  Each game is divided into up to eight rounds. When the timer starts, all players
+  simultaneously grab their action dice and roll them furiously, spending results to move
+  their characters across a modular board, attack nearby aliens with weapons, search for
+  items, and complete mission objectives. Crucially, some die faces show an Alien Face
+  result, which advances the enemy horde whenever a player is forced to commit it. Between
+  frantic two-minute sprints, aliens spawn and march closer to their goals, ratcheting up
+  the pressure with each passing round.
+
+  The game includes five distinct missions with varied objectives — setting explosives,
+  capturing aliens, gathering intelligence — and players choose from several asymmetric
+  hero roles, each with unique abilities. The simultaneous real-time play creates natural
+  moments of chaos and teamwork, making every session memorable. Project: ELITE strikes a
+  balance between accessibility and intensity: the rules are easy to learn but the game
+  demands rapid communication and quick decisions under pressure.
+
+# Upgrades
+upgrades: []

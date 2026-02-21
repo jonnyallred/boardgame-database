@@ -1,0 +1,84 @@
+id: lord-of-the-rings-the-confrontation
+name: "Lord of the Rings: The Confrontation"
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hidden Movement
+  - Bluffing
+  - Hand Management
+  - Asymmetric
+  - Variable Player Powers
+  - 1 vs Many
+  - Fantasy
+  - Lord of the Rings
+  - Reiner Knizia
+  - Fantasy Flight Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Mystery
+  - Masterful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 9
+
+# Description
+description: |
+  Lord of the Rings: The Confrontation is an asymmetric two-player game in which one player
+  controls the Fellowship of the Ring and the other commands the forces of Sauron. Inspired
+  by Stratego, the game adds substantial depth through hidden identities, character-specific
+  abilities, and a card-based combat system.
+
+  Each side fields nine characters whose identities remain hidden from the opponent, placed
+  in plastic stands on a map of Middle-earth. On their turn, a player moves a piece forward;
+  if it enters a space occupied by an enemy, combat is triggered. Both players secretly
+  select a combat card, then reveal simultaneously — cards can boost strength, cancel the
+  enemy's card, or produce special effects that override raw power.
+
+  The Fellowship player wins by guiding Frodo across the map into Mordor. The Shadow player
+  wins by eliminating Frodo or by moving three of their characters into the Shire. Each
+  character has a unique special ability (Gandalf defeats any enemy he retreats from,
+  Balrog kills any Fellowship character it fights), so bluffing about which piece is which
+  is central to victory.
+
+  Designed by Reiner Knizia and published by Fantasy Flight Games, the game is widely
+  regarded as one of the finest two-player abstracts built on a thematic chassis — a
+  worthy successor to Stratego with meaningful decisions and dramatic swings throughout
+  its brief playing time.
+
+# Upgrades
+upgrades: []

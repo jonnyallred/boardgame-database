@@ -1,0 +1,83 @@
+id: its-a-wonderful-world
+name: "It's a Wonderful World"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Engine Building
+  - Resource Management
+  - Hand Management
+  - Set Collection
+  - Tableau Building
+  - Euro
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Frederic Guerard
+publisher:
+  - Lucky Duck Games
+artist:
+  - Anthony Wolff
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  It's a Wonderful World is a card drafting and engine building game for 1-5 players
+  in which each player leads a rapidly expanding Empire competing to generate the most
+  victory points over 4 rounds.
+
+  Each round, players receive a hand of 7 Development cards and draft them one at a
+  time, passing the remainder to a neighbor (direction alternates each round). After
+  drafting, each player decides which cards to recycle immediately for a bonus resource
+  and which to place in their construction area. Cards in the construction area must be
+  completed by accumulating the required resources across production phases before they
+  can score. Completed cards add to a player's ongoing resource engine — producing
+  Materials, Energy, Science, Gold, or Exploration tokens each round — or grant
+  end-game victory points.
+
+  The tension in every draft pick comes from choosing between cards that feed your
+  current engine strategy, cards that could be quickly recycled for needed resources,
+  and cards that would be helpful to your opponents. Over four tightly paced rounds,
+  players race to complete ambitious projects and outproduce their rivals.
+
+  The game won the Tric Trac d'Or 2019 and received a nomination for the As d'Or Expert
+  in January 2020. It plays well solo and shines most at 3-5 players; the solo mode
+  uses a simulated drafting mechanism to preserve the full experience.
+
+# Upgrades
+upgrades: []

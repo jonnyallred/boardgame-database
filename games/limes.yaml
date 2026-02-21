@@ -1,0 +1,81 @@
+id: limes
+name: "Limes"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~20 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Set Collection
+  - Pattern Building
+  - Hand Management
+  - Abstract
+  - Family
+  - Historical
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Progress
+  - Tension
+  - Rivalry
+
+# Player counts
+possible_counts: [1, 2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Martyn F.
+publisher:
+  - Abacusspiele
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 20
+min_age: 8
+
+# Description
+description: |
+  Limes is a compact 1-2 player tile-laying game set two thousand years ago on the borders of
+  the Roman Empire. Players simultaneously build their own 4x4 grids of landscape tiles,
+  growing grain, catching fish, chopping wood, and staffing watchtowers to guard against
+  barbarian raids and fires.
+
+  Each round, one tile is revealed from the shared deck and both players must place an
+  identical copy of that tile into their personal tableau, adjacent to or touching a corner
+  of an already-played card. Optionally, a player may also place or move one of their worker
+  figures onto a tile. The game always runs exactly 16 rounds, ending when each player has
+  completed a full 4x4 square of landscape cards.
+
+  Scoring rewards players for creating large contiguous areas of matching terrain types,
+  with worker placement multiplying the value of completed regions. The simultaneous play
+  means both players face exactly the same sequence of tiles but must make independent
+  spatial decisions about where to place each one — creating a tense puzzle in which the
+  same hand of tiles can produce vastly different outcomes.
+
+  Limes won the 2014 Kinderspielexperten "8-to-13-year-olds" award and was nominated for
+  the 2014 International Gamers Award in the two-player category. It is based on the
+  designer's earlier game Cities, sharing the same core system but with entirely different
+  scoring. A solo variant is also included.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,89 @@
+id: isle-of-skye-from-chieftain-to-king
+name: "Isle of Skye: From Chieftain to King"
+year: 2015
+
+# Relationships
+game_family: isle-of-skye
+edition: null
+base_game: null
+expansions:
+  - isle-of-skye-journeyman
+  - isle-of-skye-druids
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-50 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Auctions/Bidding
+  - Set Collection
+  - Variable Setup
+  - Modular Board
+  - Euro
+  - Family
+  - Gateway
+  - Alexander Pfister
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Complete
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Alexander Pfister
+  - Andreas Pelikan
+publisher:
+  - Lookout Games
+artist:
+  - Klemens Franz
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 50
+min_age: 8
+
+# Description
+description: |
+  Isle of Skye: From Chieftain to King is a tile-laying game for 2-5 players where
+  each player is the chieftain of a Scottish clan, building their own kingdom on the
+  legendary Isle of Skye. Players draw landscape tiles each round and must decide
+  which to keep and at what price to sell to opponents.
+
+  The game's central mechanic is its pricing and auction system: each round, players
+  draw three tiles and place them behind their player screen. One tile is secretly
+  marked for discard, and the other two receive prices set by the owning player. The
+  catch — if another player doesn't buy a priced tile, the owner must pay that price
+  themselves. This creates tense bluffing decisions: price a tile high and risk being
+  stuck paying for it, or price it low and invite rivals to snap it up cheaply.
+
+  A key driver of replayability is the scoring tile system. The game includes 16
+  different scoring tiles representing various conditions (complete landscapes,
+  whiskey barrels, lighthouses, animal groups, and more), but only 4 are chosen per
+  game. Each is assigned a letter (A through D), and different letters score during
+  different rounds — meaning point conditions escalate in importance as the game
+  progresses. Players must read the active scoring conditions and adapt their
+  tile-buying strategy accordingly, making every game feel distinct.
+
+  Winner of the 2016 Kennerspiel des Jahres, the game is praised for elegantly
+  combining tile-laying with an accessible economic auction mechanism that creates
+  genuine strategic tension without excessive complexity.
+
+# Upgrades
+upgrades: []

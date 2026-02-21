@@ -1,0 +1,78 @@
+id: qwirkle
+name: "Qwirkle"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Set Collection
+  - Hand Management
+  - Abstract
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Rivalry
+  - Tension
+  - Lucky
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Susan McKinley Ross
+publisher:
+  - MindWare
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 6
+
+# Description
+description: |
+  Qwirkle is an abstract tile-placement game in which players score points by building
+  and extending lines of tiles that share a common attribute — either color or shape —
+  with no duplicates allowed within a single line. The game includes 108 durable wooden
+  tiles, each displaying one of six shapes (circle, square, diamond, star, clover, or
+  cross) in one of six colors (red, orange, yellow, green, blue, or purple).
+
+  On each turn a player places one or more tiles from their hand onto the grid, provided
+  all placements extend valid lines. Every tile in every line touched scores one point.
+  Completing a full line of six tiles earns a "Qwirkle" bonus of six additional points.
+  Players may also exchange tiles from their hand instead of placing, then draw back up
+  to six tiles. The game ends when the bag is empty and one player has played their last
+  tile, earning a bonus for going out.
+
+  Designed by Susan McKinley Ross and originally published in 2006 by MindWare, Qwirkle
+  won the prestigious Spiel des Jahres (German Game of the Year) award in 2011 and has
+  sold over seven million copies worldwide. Its combination of a simple ruleset, colorful
+  components, and meaningful strategic decisions makes it an enduring family favorite and
+  a widely recommended gateway game.
+
+# Upgrades
+upgrades: []

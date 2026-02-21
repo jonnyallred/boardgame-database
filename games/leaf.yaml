@@ -1,0 +1,76 @@
+id: leaf
+name: "Leaf"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light social feel
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Set Collection
+  - Hand Management
+  - Pattern Building
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Complete
+  - Wonder
+  - Discovery
+  - Connection
+  - Clever
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Tim Eisner
+publisher:
+  - Weird City Games
+artist:
+  - Angela Rizza
+playtime_minutes: 38
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+# Description
+description: |
+  Leaf is a cozy nature-themed tile-laying game in which players embody the
+  spirit of the wind, guiding falling autumn leaves across the forest floor.
+  On each turn, players draft leaf tiles from a central display and place them
+  onto their personal forest floor, creating a growing spatial puzzle. Each
+  leaf tile section is colour-coded: orange areas grant sunshine tokens used
+  to advance the season and collect acorns; green areas let you draw animal
+  cards worth end-game points; brown areas let you grow mushrooms; yellow
+  areas let you draw more leaf cards; and purple areas advance your squirrel
+  up a scoring tree. When a player places a leaf tile adjacent to a mushroom
+  token belonging to another player, that player earns a bonus, providing
+  light interaction without confrontation. The game ends when the season track
+  is exhausted. Players score points from animals, mushrooms, acorns, and
+  squirrel position. A well-regarded solo mode is included. Leaf won the
+  Origins Award for Best Light Strategy Game and is praised for its accessible
+  rules, beautiful artwork, and eco-conscious production using paper bands
+  instead of shrink wrap.
+
+# Upgrades
+upgrades: []

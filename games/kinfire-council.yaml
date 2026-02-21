@@ -1,0 +1,80 @@
+id: kinfire-council
+name: "Kinfire Council"
+year: 2025
+
+# Relationships
+game_family: kinfire-chronicles
+edition: null
+base_game: null
+expansions:
+  - kinfire-council-the-winds-of-change
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90-120 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Auctions/Bidding
+  - Area Control
+  - Variable Setup
+  - Economic
+  - Action Points
+  - Euro
+  - Fantasy
+  - City Building
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Agency
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Kevin Wilson
+publisher:
+  - Incredible Dream Studios
+artist: []
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Kinfire Council is a competitive worker placement and political strategy game set in the
+  Kinfire Chronicles universe. Players are members of the Council tasked with rebuilding
+  the great city of Din'Lux and defending it from the dangers of the Starless Nights.
+
+  Each round, players send workers to collect resources, upgrade buildings, and construct
+  Kinfire lighthouses while the Cult of Altan schemes against them. Players vote on
+  important city policies (Decrees), arrest cultists, and dispatch their personal Seeker
+  to thwart threats. The city evolves dynamically as districts are upgraded, decrees pass
+  or fail, and new threats emerge — making each session play out differently.
+
+  Designed by Kevin Wilson (Arkham Horror, Descent), Kinfire Council blends layered
+  Euro-style resource management with meaningful player interaction and political
+  negotiation. The voting system creates organic diplomacy as players maneuver to pass
+  decrees that benefit their own strategy while blocking rivals. The game accommodates
+  up to six players and completes within two hours, making it one of the more accessible
+  heavy euros at higher player counts.
+
+# Upgrades
+upgrades: []

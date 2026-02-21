@@ -1,0 +1,86 @@
+id: hadara
+name: "Hadara"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Tableau Building
+  - Set Collection
+  - Engine Building
+  - Resource Management
+  - Hand Management
+  - Euro
+  - Family
+  - Civilization
+  - Historical
+  - Z-Man Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Rivalry
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Benjamin Schwer
+publisher:
+  - Z-Man Games
+artist:
+  - Lukas Siegmon
+playtime_minutes: 52
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Hadara is a civilization card-drafting game in which players guide the growth
+  of their own civilization across three epochs. A central rotating dial
+  determines which card decks are available each round, and players take turns
+  selecting cards to add to their tableau, representing the diverse peoples,
+  leaders, and achievements of cultures from around the world and throughout
+  history.
+
+  Each card belongs to one of five colors representing different aspects of
+  civilization: food supply, income, culture, military strength, and a fifth
+  wild category. Players must balance all five tracks simultaneously, as food
+  limits how many cards can be kept, income funds card purchases, culture
+  generates victory points, and military provides end-game scoring bonuses.
+  Cards not chosen can be sold for coins rather than drafted.
+
+  At the end of each epoch, players score based on their lowest-value track
+  (encouraging balanced development), then a new epoch begins with more
+  powerful cards becoming available. The game rewards careful tableau
+  construction and hand management while remaining accessible enough for
+  family play. Originally published in Germany by Hans im Glück, it received
+  widespread praise for distilling civilization-building into an elegant,
+  under-an-hour experience.
+
+# Upgrades
+upgrades: []

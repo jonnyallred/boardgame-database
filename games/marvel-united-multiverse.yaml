@@ -1,0 +1,78 @@
+id: marvel-united-multiverse
+name: "Marvel United: Multiverse"
+year: 2024
+
+# Relationships
+game_family: marvel-united
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~45 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Hand Management
+  - Modular Board
+  - Variable Player Powers
+  - Card Drafting
+  - Asymmetric
+  - Family
+  - Superheroes
+  - Marvel
+  - Eric Lang
+  - CMON
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Connection
+  - Powerful
+  - Tension
+  - Clever
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Andrea Chiarvesio
+  - Eric M. Lang
+publisher:
+  - CMON
+artist: []
+playtime_minutes: 45
+min_playtime: 40
+max_playtime: 50
+min_age: 14
+
+# Description
+description: |
+  Marvel United: Multiverse is a standalone cooperative board game and sequel to Marvel United
+  (2020), published by CMON. Players take on the roles of iconic Marvel heroes working together
+  to stop a powerful villain whose master plan is revealed through a unique card-driven system.
+
+  Each villain unveils their plan through cards that trigger escalating effects and threats across
+  modular locations. Heroes choose cards from their individual decks to perform actions and
+  superpowers, and crucially, hero cards chain together — the card played by one hero creates
+  follow-up opportunities for the next, encouraging tight teamwork and combo-building.
+
+  Multiverse introduces the Commander Solo Mode for single-player play, new equipment cards,
+  and a roster of heroes and villains spanning the wider Marvel multiverse. It is compatible
+  with components from the original Marvel United and its expansions. The game features
+  highly detailed miniatures and plays in approximately 40-50 minutes.
+
+# Upgrades
+upgrades: []

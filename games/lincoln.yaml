@@ -1,0 +1,88 @@
+id: lincoln
+name: "Lincoln"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Card Drafting
+  - Wargame
+  - Historical
+  - War
+  - Martin Wallace
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Martin Wallace
+publisher:
+  - PSC Games
+  - Worthington Publishing
+artist: []
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Lincoln is a two-player card-driven strategy wargame set in the American
+  Civil War, designed by Martin Wallace. Players refight the entire war at a
+  strategic level in under two hours, with one player commanding the Union and
+  the other the Confederacy.
+
+  The game's signature mechanic is "deck destruction" — the inverse of deck
+  building. Each side has its own asymmetric card deck reflecting the
+  historical strengths and weaknesses of that faction. As the game progresses,
+  players must choose which powerful cards to permanently burn (remove from
+  the game) to fund actions like building units and providing leadership in
+  battle, while weaker cards cycle through a discard pile that is reshuffled
+  two or three times per game.
+
+  Asymmetry is built into the game's core: the Union player always draws six
+  cards per turn, and their deck grows stronger over time as they commit
+  resources. The Confederate deck degrades — the Union's blockade track
+  reduces the Confederate hand size from 5 down to 4 and eventually 3,
+  simulating the South's declining capacity as the war drags on. There are no
+  dice; all outcomes are driven by card play.
+
+  Area movement and area control determine territorial dominance, with key
+  regions of the Civil War map contested through strategic maneuvering and
+  battle. The game is considered an accessible entry point into card-driven
+  wargames, blending historical tension with streamlined, fast-playing
+  mechanics.
+
+# Upgrades
+upgrades: []

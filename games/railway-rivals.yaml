@@ -1,0 +1,85 @@
+id: railway-rivals
+name: "Railway Rivals"
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Tactics
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Route Building
+  - Network Building
+  - Dice Rolling
+  - Racing
+  - Hex Map
+  - Modular Board
+  - Variable Setup
+  - Historical
+  - Trains
+  - Euro
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Progress
+  - Tension
+  - Clever
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - David Watts
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+# Description
+description: |
+  Railway Rivals is a railroad route-building game originally designed by David Watts, a
+  geography teacher from Wales, and first published in 1973 by Rostherne Games. The Schmidt
+  Spiele edition, published as Dampfross, won the Spiel des Jahres award in Germany in 1984
+  — seven of the eight jurors ranked it first that year.
+
+  The game is played in two distinct phases. In the building phase, players take turns drawing
+  railway track directly onto the board (using washable fine-tip markers on laminated surfaces
+  in early editions, or dry-erase on later boards). Each turn a player rolls dice to determine
+  how much track they may lay. Building through difficult terrain such as hills and mountains
+  costs additional movement, while connecting to other players' networks requires paying them
+  a fee. Players earn bonuses for being the first to connect major cities to their rail network.
+
+  In the racing phase, two cities are selected at random each round and players race trains
+  along their networks between those cities. The shortest viable route on a player's own track
+  wins the race and earns money. Players may also run over rival track by paying tolls, so
+  having well-connected coverage is critical.
+
+  The game was notable for its innovative use of a writable, reusable map board and its many
+  interchangeable map expansions covering regions across Britain, Europe, North America, and
+  Asia. The German edition Dampfross was also published by Laurin-Verlag (1992) and later
+  Queen Games. A UK mass-market edition was published by Games Workshop in 1985.
+
+# Upgrades
+upgrades: []

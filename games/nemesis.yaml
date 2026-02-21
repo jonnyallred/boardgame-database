@@ -1,0 +1,94 @@
+id: nemesis
+name: "Nemesis"
+year: 2018
+
+# Relationships
+game_family: nemesis
+edition: null
+base_game: null
+expansions:
+  - nemesis-lockdown
+  - nemesis-aftermath
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (1-3 hours)
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Traitor
+  - Asymmetric
+  - Variable Player Powers
+  - Hand Management
+  - Modular Board
+  - Action Points
+  - Hidden Movement
+  - Events
+  - Narrative Heavy
+  - Ameritrash
+  - Sci-Fi
+  - Horror
+  - Space
+  - Survival
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Dread
+  - Tension
+  - Unique
+  - Discovery
+  - Rivalry
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Adam Kwapiński
+publisher:
+  - Awaken Realms
+artist:
+  - Piotr Słaby
+  - Patryk Szymański
+  - Mariusz Gandzel
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Nemesis is a semi-cooperative sci-fi survival horror game for 1-5 players set aboard
+  the spaceship Nemesis. Players wake from hibernation to find the ship overrun by
+  terrifying alien creatures called Intruders. Each player controls an asymmetric
+  character with unique abilities and draws two objective cards at the start — one
+  personal, one corporate — choosing one to pursue after the first Intruder appears.
+  Because objectives are hidden and may conflict with other players' goals, trust is
+  never guaranteed.
+
+  Players must explore a modular ship board, scavenge for resources, complete repairs,
+  and find a way back to Earth — all while evading or fighting increasingly dangerous
+  Intruders that grow stronger as the game progresses. The alien encounter system uses
+  a noise-tracking mechanic: making too much noise draws Intruders to your location,
+  creating a constant tension between speed and stealth.
+
+  The game can end with all players winning, some winning, or everyone losing. Solo
+  and fully cooperative modes are also available. Nemesis is heavily inspired by the
+  Alien film franchise, delivering a cinematic atmosphere of dread and paranoia through
+  its high-quality miniatures, emergent storytelling, and player-driven narrative.
+  It was funded via Kickstarter in 2018 and became one of the landmark releases for
+  Awaken Realms.
+
+# Upgrades
+upgrades: []

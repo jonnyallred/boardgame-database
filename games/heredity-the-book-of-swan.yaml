@@ -1,0 +1,84 @@
+id: heredity-the-book-of-swan
+name: "Heredity: The Book of Swan"
+year: 2023
+
+# Relationships
+game_family: heredity
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (150 min per session, 12-15 hours total campaign)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 1  # Light (fully cooperative)
+value: 3  # Premium (rich narrative campaign)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Narrative Heavy
+  - Action Points
+  - Hand Management
+  - Variable Setup
+  - Simultaneous Action
+  - Ameritrash
+  - Post-Apocalyptic
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Connection
+  - Discovery
+  - Tension
+  - Progress
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Jérôme Cance
+  - Laurent Kobel
+publisher:
+  - Blackrock Games
+artist:
+  - Tania Sanchez-Fortun
+  - Aurelien Delauzun
+  - Florian de Gesincourt
+playtime_minutes: 150
+min_playtime: 120
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Heredity: The Book of Swan is a cooperative, narrative-driven campaign game for 1-4 players
+  set in a post-apocalyptic world. Players take on the roles of a family surviving across a
+  five-chapter campaign totaling 12-15 hours of total playtime. Swan is a central non-playable
+  character around whom the story revolves.
+
+  Each player character has three action tokens, and the group collectively decides in what
+  order to deploy them. Rather than traditional turn-based play, the game uses a dynamic
+  timeline system — a sequence of cards that evolves as actions are taken. Players can see
+  upcoming events on the timeline and plan accordingly, and some actions can even reorder
+  future events. Characters act by placing tokens on their body cards (head, torso, legs)
+  to talk to NPCs, explore areas, move, fight, or acquire better equipment.
+
+  A karma deck evolves throughout the campaign, influencing outcomes and multiple possible
+  endings. The game delivers a branching, non-linear narrative without the need for a
+  companion app. Praised for its graphic novel-style illustrations and its emotionally resonant
+  storytelling, Heredity offers a refreshingly compact and accessible package for a narrative
+  campaign game. Published in France by Darucat/Blackrock Games and distributed internationally
+  by Asmodee.
+
+# Upgrades
+upgrades: []

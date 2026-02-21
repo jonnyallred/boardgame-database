@@ -1,0 +1,83 @@
+id: iliad
+name: "Iliad"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Bluffing
+  - Card Drafting
+  - Family
+  - Ancient
+  - Mythology
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Lucky
+  - Powerful
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Dominique Ehrhard
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Iliad is a competitive card game for 2 to 6 players inspired by Homer's battle epic of
+  the Trojan War. Players take on the roles of heroes vying to besiege Troy and claim glory,
+  racing to be the first to accumulate 12 victory points (15 in a two-player game).
+
+  The game is divided into rounds called "sieges." Each round, an Oracle card is revealed
+  to set the conditions of that siege, and Victory cards are turned face-up to show what
+  glory is at stake. Players then take turns playing Army cards from their hands, competing
+  to achieve the highest total score and claim the Victory cards on offer.
+
+  The deck consists of 75 Army cards representing different troop types — Archers, Hoplites,
+  Chariots, Elephants, Ballistae, Catapults, Harrows, and Trojan Horses — each with
+  strengths and weaknesses in a rock-paper-scissors style combat system. Attacks also cost
+  the attacking unit, so timing and card management are crucial.
+
+  In games with three or more players, Hero cards (featuring figures like Patroclus and
+  Achilles) are available: a player who passes their turn on a siege may claim the
+  highest-value hero available, adding that hero's strength to their army — a risk-reward
+  decision between competing for the current siege versus banking a powerful hero for later.
+
+  Designed by Dominique Ehrhard and published by Asmodée in 2006, Iliad offers elegant,
+  fast-playing card game action with strong production values and a light mythological theme.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,92 @@
+id: massive-darkness-2-hellscape
+name: "Massive Darkness 2: Hellscape"
+year: 2022
+
+# Relationships
+game_family: massive-darkness
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 1  # Cooperative / Light competitive feel
+value: 3  # Premium (miniatures game)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Dungeon Crawler
+  - Dice Rolling
+  - Bag Building
+  - Rondel
+  - Press Your Luck
+  - Resource Management
+  - Campaign Mode
+  - Variable Player Powers
+  - Modular Board
+  - Variable Setup
+  - Fantasy
+  - Ameritrash
+  - CMON
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Powerful
+  - Discovery
+  - Progress
+  - Tension
+  - Unique
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Alex Olteanu
+  - Marco Portugal
+publisher:
+  - CMON
+artist:
+  - Edouard Guiton
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Massive Darkness 2: Hellscape is a cooperative dungeon-crawling miniatures game for 1 to 6
+  players in which heroes descend into a demon-infested underworld, battling monsters and
+  collecting loot across 10 included scenarios. A complete redesign of the original Massive
+  Darkness, the game incorporates multiple distinct mechanisms drawn from across the hobby —
+  push-your-luck, rondel, bag-building, and resource management — each tied to a different
+  hero class to give every character a genuinely unique play style.
+
+  Each round follows four phases: Hero Phase (3 actions per hero), Enemy Phase, Level Up
+  Phase, and Darkness Phase. Heroes fight on light and shadow tiles, with positional bonuses
+  reflecting the game's thematic tension between light and dark. As heroes gain experience
+  they unlock new abilities, while monsters simultaneously grow more powerful at level
+  milestones. The Darkness Phase spawns reinforcements and new treasures, maintaining
+  pressure without acting as a strict timer.
+
+  Hero classes include the Rogue (draws tokens from a personal bag), the Berserker (builds
+  rage from damage taken), the Ranger (manages a deck of arrow cards with burst potential),
+  and the Mage (rotates an action wheel to sequence spells). Custom skill cards and a
+  deep equipment system mean loadouts differ substantially between sessions.
+
+  Components include 62 detailed enemy miniatures, 8 double-sided dungeon tiles, over 250
+  item and monster cards, 18 dice, and a cloth loot bag. CMON has released additional free
+  scenarios for download. The game was originally funded through Kickstarter and delivered
+  in 2022.
+
+# Upgrades
+upgrades: []

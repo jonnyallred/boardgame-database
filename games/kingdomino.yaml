@@ -1,0 +1,81 @@
+id: kingdomino
+name: "Kingdomino"
+year: 2017
+
+# Relationships
+game_family: kingdomino
+edition: null
+base_game: null
+expansions:
+  - queendomino
+  - kingdomino-age-of-giants
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (15-20 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Drafting
+  - Set Collection
+  - Pattern Building
+  - Abstract
+  - Family
+  - Gateway
+  - Bruno Cathala
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Rivalry
+  - Progress
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Bruno Cathala
+publisher:
+  - Blue Orange Games
+artist:
+  - Cyril Bouquet
+playtime_minutes: 18
+min_playtime: 15
+max_playtime: 20
+min_age: 8
+
+# Description
+description: |
+  Kingdomino is a fast, elegant tile-placement game that won the 2017 Spiel des Jahres
+  award. Players act as kings building a 5x5 kingdom by selecting and placing double-sided
+  landscape tiles — each half showing one of six terrain types (wheat fields, forests,
+  lakes, grasslands, swamps, or mountains) and possibly one or more crowns.
+
+  Each round, players draft tiles from a face-up row, with turn order determined by the
+  value of the tile chosen: grabbing a high-value tile with lots of crowns means going
+  last in the next round, while taking a poor tile grants first pick. Players must place
+  their chosen tile so that at least one side connects to a matching terrain type already
+  in their kingdom (or to the central castle).
+
+  Scoring is calculated at game end: for each contiguous region of matching terrain, multiply
+  the number of tiles in that region by the number of crowns in it. The player with the
+  highest total wins. The straightforward rules belie surprisingly tense decisions about
+  blocking opponents, optimizing one's own grid, and managing turn-order trade-offs. Its
+  domino-inspired design, short playtime, and elegant drafting mechanism make it a modern
+  gateway classic.
+
+# Upgrades
+upgrades: []

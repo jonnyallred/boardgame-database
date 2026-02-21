@@ -1,0 +1,83 @@
+id: freelancers-a-crossroads-game
+name: "Freelancers: A Crossroads Game"
+year: 2023
+
+# Relationships
+game_family: crossroads
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 2  # Moderate cooperative
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Narrative Heavy
+  - Variable Player Powers
+  - Asymmetric
+  - Hand Management
+  - Dice Rolling
+  - Fantasy
+  - Plaid Hat Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Humor
+  - Progress
+  - Unique
+  - Wonder
+
+# Player counts
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Donald Shults
+publisher:
+  - Plaid Hat Games
+artist:
+  - Allison Carl
+  - Chris Bryan
+  - Karl Stjernberg
+  - Sam Mameli
+  - Sean McCoy
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Freelancers: A Crossroads Game condenses the fantasy RPG campaign experience into a
+  single night of fun and mayhem. Set in a post-human world where a broken gig economy
+  has left adventurers scrambling for work, players create freelancers by mixing and
+  matching species and job combinations, then venture into ruins, brave the wilds, and
+  slay hideous creatures in pursuit of loot.
+
+  The game is fully app-assisted — a companion app handles all the storytelling with
+  fully-voiced, branching narrative, eliminating the need for a game master. Five
+  replayable campaigns each cram the full arc of an RPG session into one sitting.
+  Players gain experience, skills, gold, and followers as they make choices along
+  hundreds of branching story paths.
+
+  Mechanically, characters grow by making decisions that unlock new skills tied to
+  bigger and better dice, increasing the chance of succeeding skill checks. The game
+  won Best Thematic Game of 2023 and is the third entry in Plaid Hat Games' Crossroads
+  series, following Forgotten Waters and Dead of Winter.
+
+# Upgrades
+upgrades: []

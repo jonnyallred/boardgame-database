@@ -1,0 +1,76 @@
+id: dvonn
+name: "DVONN"
+year: 2001
+
+# Relationships
+game_family: gipf-project
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Abstract
+  - Hex Map
+  - Area Control
+  - Puzzle Solving
+  - Modular Board
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Wonder
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Kris Burm
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 13
+
+# Description
+description: |
+  DVONN is a two-player abstract strategy game and the fourth title in the acclaimed GIPF Project series,
+  designed by Kris Burm and published in 2001. It is played on an elongated hexagonal board with 49 spaces.
+
+  The game unfolds in two phases. In the placement phase, players alternate placing the three neutral
+  red DVONN pieces and then their own 23 white or 23 black pieces onto the board. In the movement
+  phase, stacks of pieces are moved: a stack of height n must move exactly n spaces in a straight line
+  and must land on another piece or stack. The top piece of a stack determines who controls it.
+
+  The defining mechanic is connectivity: after every move, any piece or stack that is not connected
+  (via a chain of adjacent stacks) to at least one DVONN piece is immediately removed from the board.
+  This means players must constantly balance offensive stack-building against the risk of cutting off
+  their own pieces from the vital DVONN pieces. The game ends when no more legal moves can be made,
+  and the player controlling the most pieces (by total stack height) wins.
+
+  DVONN won the 2002 International Gamers Award and the Games magazine Game of the Year Award in 2003,
+  and was selected as a Mensa Select game. It is widely regarded as one of the finest pure abstract
+  strategy games ever designed, praised for its elegant rules that produce extraordinarily deep and
+  tense play.
+
+# Upgrades
+upgrades: []

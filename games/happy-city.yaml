@@ -1,0 +1,78 @@
+id: happy-city
+name: "Happy City"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tableau Building
+  - Hand Management
+  - Set Collection
+  - Engine Building
+  - Card Drafting
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Complete
+  - Progress
+  - Clever
+  - Wonder
+  - Lucky
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Toshiki Sato
+  - Airu Sato
+publisher:
+  - Gamewright
+artist:
+  - Makoto Takami
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  Happy City is a light card-drafting and tableau-building game in which 2-5 players compete
+  to build the happiest city. Each player begins with a single building — the Happy Market —
+  and over the course of the game purchases additional building cards from a shared marketplace,
+  adding up to nine more cards to grow their city.
+
+  Building cards provide one of two resources: citizens (population) or hearts (happiness).
+  At game end, a player's score is the product of their total citizens multiplied by their
+  total hearts — a simple multiplication that rewards balance. A player who focuses purely
+  on population or happiness will score far less than one who develops both in tandem. The
+  game ends as soon as one player adds their tenth card to their city.
+
+  The game includes a family version and an advanced expert version, the latter featuring
+  bonus buildings and greater interaction between players. Happy City was originally published
+  in French by Cocktail Games and received an English-language release from Gamewright in 2021.
+  It is praised as an accessible, fast-playing gateway game that can also gently introduce
+  younger players to multiplication concepts.
+
+# Upgrades
+upgrades: []

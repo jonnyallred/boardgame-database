@@ -1,0 +1,75 @@
+id: honk
+name: "HONK!"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (15-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Hand Management
+  - Variable Setup
+  - Family
+  - Gateway
+  - Filler
+  - Animals
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Lucky
+  - Humor
+  - Connection
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Matthew West
+publisher:
+  - Sinister Fish Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+# Description
+description: |
+  HONK! is a competitive goose-feeding set collection game for 2-5 players in which
+  everyone races to collect the most eggs from a gaggle of escaped geese. On their
+  turn a player either takes two different food cards or spends food cards to claim
+  one goose — each of the eight goose breeds requires a specific combination of food
+  symbols printed on it.
+
+  The first goose of a breed earns one egg; a second of the same breed earns two
+  eggs; a third earns three, rewarding players who focus their collection. Geese at
+  the bottom of the draw pile hide golden eggs worth 1-3 bonus points, creating
+  hidden victory points and a timing incentive to push for rarer cards early.
+
+  Designed as a low-luck gateway title for younger players (ages 5+), the game
+  features chunky cardboard geese and a charming, accessible ruleset that introduces
+  set collection and hand management concepts without heavy math or reading. HONK!
+  won the 2022 Origins Award for Best Family Game.
+
+# Upgrades
+upgrades: []

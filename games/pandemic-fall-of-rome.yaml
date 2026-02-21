@@ -1,0 +1,85 @@
+id: pandemic-fall-of-rome
+name: "Pandemic: Fall of Rome"
+year: 2018
+
+# Relationships
+game_family: pandemic
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 1  # Light (cooperative, no player conflict)
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Hand Management
+  - Set Collection
+  - Dice Rolling
+  - Variable Player Powers
+  - Action Points
+  - Historical
+  - War
+  - Matt Leacock
+  - Z-Man Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Connection
+  - Progress
+  - Dread
+  - Agency
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Matt Leacock
+  - Paolo Mori
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 52
+min_playtime: 45
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Pandemic: Fall of Rome is a cooperative board game for 1-5 players set in
+  the waning years of the Western Roman Empire, around 395 AD. Players take
+  on specialized roles and work together to prevent five invading barbarian
+  tribes — including the Visigoths, Vandals, Saxons, Franks, and Huns — from
+  overwhelming the Empire before they can be brought under control.
+
+  The game retains Pandemic's core loop of crisis management: players must
+  race across a point-to-point map of the Roman world, managing an ever-
+  growing tide of barbarian incursions while spending limited actions each
+  turn. Unlike classic Pandemic, the threat here is military rather than
+  epidemiological. Players recruit Roman legions, fortify cities, and engage
+  barbarians in dice-based combat. Each tribe has its own color-coded cards,
+  and players must collect matching sets to forge alliances — converting
+  barbarians into Roman soldiers who then fight for you.
+
+  Victory requires subduing all five tribes either through alliance or
+  elimination before the Roman Empire collapses. Defeat can come from the
+  loss of too many cities, the depletion of the barbarian supply (an
+  overrun), or exhausting the player card deck. A solitaire mode and multiple
+  difficulty levels, including the challenging "Roma Caput Mundi" variant,
+  extend replayability.
+
+# Upgrades
+upgrades: []

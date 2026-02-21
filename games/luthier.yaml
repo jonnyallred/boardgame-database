@@ -1,0 +1,85 @@
+id: luthier
+name: "Luthier"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90-150 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Auctions/Bidding
+  - Hand Management
+  - Resource Management
+  - Tableau Building
+  - Variable Player Powers
+  - Euro
+  - Historical
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Masterful
+  - Progress
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Dave Beck
+  - Abraham Burson
+publisher:
+  - Paverson Games
+artist:
+  - Guillaume Tavernier
+  - Vincent Dutrait
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Luthier transports players to the height of classical music in Western Europe,
+  where the art of the instrument was upheld equally by skilled craftspeople, noble
+  patrons, virtuoso performers, and famous composers such as Bach, Beethoven, and Mozart.
+
+  Using a novel combination of hidden bidding and worker placement, players manage
+  resources to craft over 22 distinct musical instruments in their workshops, while
+  courting actual historic patrons through an ever-changing personal tableau of actions
+  and bonuses. Workers represent members of the player's family, each a chip numbered
+  1 through 5 denoting their skill level. Players begin with three workers (levels 1, 3,
+  and 5) and acquire their level 2 and 4 workers during play.
+
+  Over six rounds, players bid their workers to claim action locations — gaining or
+  repairing instruments, wooing patrons, performing in concerts, or trading at market —
+  while racing to claim first-chair positions in the grand orchestra. Skill tracks unlock
+  specialized worker abilities and bonuses, and multiple paths to victory reward
+  instrument building, performances, apprentice training, workshop expansion, and
+  overall reputation as a master instrument maker.
+
+  Designed by Dave Beck and Abraham Burson (with over a decade of development) and
+  published by Paverson Games in 2025, Luthier quickly appeared on numerous end-of-year
+  top-ten lists for its elegant integration of bidding tension and Euro-style engine building.
+
+# Upgrades
+upgrades: []

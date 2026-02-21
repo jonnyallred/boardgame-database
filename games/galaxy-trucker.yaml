@@ -1,0 +1,85 @@
+id: galaxy-trucker
+name: "Galaxy Trucker"
+year: 2021
+
+# Relationships
+game_family: galaxy-trucker
+edition: "Second Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 2  # Moderate
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Real-time
+  - Tile Placement
+  - Simultaneous Action
+  - Variable Player Powers
+  - Modular Board
+  - Family
+  - Sci-Fi
+  - Space
+  - Vlaada Chvatil
+  - Czech Games Edition
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Tension
+  - Clever
+  - Lucky
+  - Unique
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Vlaada Chvatil
+publisher:
+  - Czech Games Edition
+artist:
+  - Radim Pech
+  - Tomáš Kučerovský
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 8
+
+# Description
+description: |
+  Galaxy Trucker is a chaotic, fast-paced science fiction game in which players
+  simultaneously build their own spaceships by grabbing component tiles from a
+  central warehouse in real time — using only one hand at a time. Players race
+  to construct their ships before a timer expires, snapping together engines,
+  guns, crew quarters, cargo holds, and shields in any configuration they choose.
+
+  Once building ends, players embark on a shared journey through space, flipping
+  adventure cards that reveal pirates, meteor showers, abandoned vessels, smugglers,
+  and lucrative cargo opportunities. Ships that were poorly built fall apart under
+  fire or lose components to cosmic hazards, while well-constructed vessels sail
+  through and claim riches. The goal is to end the game with the most credits,
+  earned by delivering cargo, winning battles, arriving first, and simply surviving
+  in better shape than your rivals.
+
+  The Second Edition (2021) consolidates the original 2007 game with content from
+  the Anniversary Edition expansion, adding new tiles, a revised rulebook, and
+  refreshed graphic design while keeping the beloved frantic building phase and
+  gleefully punishing adventure sequence intact. Galaxy Trucker is widely celebrated
+  for its humor, accessible real-time mechanics, and the schadenfreude of watching
+  carefully built ships get obliterated.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,86 @@
+id: kingdom-builder
+name: "Kingdom Builder"
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Modular Board
+  - Variable Setup
+  - Hand Management
+  - Set Collection
+  - Variable Player Powers
+  - Euro
+  - Family
+  - Gateway
+  - Medieval
+  - Donald X. Vaccarino
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Unique
+  - Tension
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Donald X. Vaccarino
+publisher:
+  - Queen Games
+artist:
+  - Oliver Schlemmer
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Kingdom Builder is a strategic territory-building game in which players compete
+  to earn the most gold by settling the landscape of a modular kingdom. On each
+  turn, a player draws a single terrain card and must place exactly three settlement
+  tokens on matching terrain hexes — and always adjacent to existing settlements
+  if possible. This deceptively simple placement rule drives most of the game's
+  tactical tension.
+
+  Each game uses four of eight double-sided board sections arranged randomly,
+  and three of ten scoring cards are drawn to define how gold is earned — rewarding
+  connected settlements, settlements adjacent to water, largest groups, or other
+  goals. Players also collect special action tiles by placing next to locations
+  such as castles, taverns, and oases, granting one-time or recurring powers like
+  moving a token, placing an extra piece, or bypassing terrain restrictions.
+
+  The combination of randomised boards and rotating scoring objectives gives
+  Kingdom Builder exceptional replayability. It won the Spiel des Jahres award
+  in 2012, with the jury praising its clever variable victory conditions and the
+  way its simple building mechanic reveals deeper strategic layers after a few
+  plays. The game rewards players who can read the board state, plan routes
+  efficiently, and adapt their strategy to the three hidden-until-setup scoring
+  criteria.
+
+# Upgrades
+upgrades: []

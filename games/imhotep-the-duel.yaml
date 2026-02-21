@@ -1,0 +1,82 @@
+id: imhotep-the-duel
+name: "Imhotep: The Duel"
+year: 2018
+
+# Relationships
+game_family: imhotep
+edition: null
+base_game: imhotep
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~20-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Drafting
+  - Tile Placement
+  - Hand Management
+  - Abstract
+  - Euro
+  - Family
+  - Gateway
+  - Phil Walker-Harding
+  - Ancient
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Complete
+  - Agency
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Phil Walker-Harding
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  Imhotep: The Duel is a standalone 2-player version of the Spiel des Jahres-nominated
+  Imhotep: Builder of Egypt (2016). Players take on the roles of Nefertiti and Akhenaten,
+  competing to build the most glorious monuments in ancient Egypt.
+
+  Each round, players place their meeples on a 3x3 grid bordered by boats on two sides.
+  A meeple's position on the grid determines which boats it is aligned with. When two or
+  more workers are aligned with a boat, either player may unload it, distributing the
+  stone tiles aboard to players according to their workers' positions in the line. Workers
+  are then cleared from the board.
+
+  Collected tiles are placed onto one of four monument boards — pyramid, obelisk, burial
+  chamber, or temple — each scoring points differently. A fifth set of tokens provides
+  bonus actions. After three rounds, players total their fame points across all monuments,
+  and the player with the most points wins.
+
+  The game distills the feel of the original Imhotep into a tight 20-30 minute duel,
+  requiring players to anticipate their opponent's boat unloading choices and carefully
+  position their meeples to claim the most valuable tiles. It received a "Recommended"
+  nomination from the Spiel des Jahres jury in 2019.
+
+# Upgrades
+upgrades: []

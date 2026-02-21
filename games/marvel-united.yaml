@@ -1,0 +1,88 @@
+id: marvel-united
+name: "Marvel United"
+year: 2020
+
+# Relationships
+game_family: marvel-united
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~40 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light cooperative
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Hand Management
+  - Action Points
+  - Modular Board
+  - Variable Player Powers
+  - Tableau Building
+  - Family
+  - Gateway
+  - Ameritrash
+  - Marvel
+  - Superheroes
+  - Eric Lang
+  - CMON
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Connection
+  - Powerful
+  - Tension
+  - Progress
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Eric Lang
+  - Andrea Chiarvesio
+publisher:
+  - CMON
+artist:
+  - Edouard Guiton
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 50
+min_age: 14
+
+# Description
+description: |
+  Marvel United is a fast-paced cooperative game for 1-4 players in which heroes work together
+  to thwart a supervillain's master plan. Each player controls an iconic Marvel hero — such as
+  Captain America, Iron Man, or Black Widow — each with their own unique deck of cards.
+
+  The game's signature mechanic is the Storyline: on your turn you play a card from your hand,
+  but you also activate the icons on the card played by the previous hero. This chaining effect
+  rewards coordination and creates satisfying combos as heroes build off each other's actions.
+  Actions include moving around the modular city board, defeating Thug enemies, rescuing
+  trapped Civilians, and using powerful Hero-specific abilities.
+
+  Every three hero card plays, the Villain activates — drawing a card from their own deck that
+  triggers a threat, spawns enemies, or advances their sinister scheme. This self-balancing
+  mechanism works elegantly across all player counts. Players win by defeating the Villain
+  directly; they lose if too many Civilians are captured, all Heroes are KO'd, or the Villain's
+  master plan completes.
+
+  Originally funded through a highly successful Kickstarter campaign in 2019, Marvel United
+  launched at retail in 2020. The game is notable for its bold chibi-style miniatures sculpted
+  by Edouard Guiton and its accessible ruleset that makes it approachable for families and new
+  gamers while retaining enough variety through hero and villain combinations to reward repeat play.
+
+# Upgrades
+upgrades: []

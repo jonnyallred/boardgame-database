@@ -1,0 +1,98 @@
+id: mosaic-a-story-of-civilization
+name: "Mosaic: A Story of Civilization"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Action Points
+  - Area Control
+  - Card Drafting
+  - Engine Building
+  - Hand Management
+  - Resource Management
+  - Tech Tree
+  - Variable Player Powers
+  - Modular Board
+  - Euro
+  - Civilization
+  - Ancient
+  - Historical
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Powerful
+  - Rivalry
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Glenn Drover
+publisher:
+  - Forbidden Games
+artist:
+  - Annie Stegg
+  - Carl King
+  - Erica Rossi
+  - Hendrik Noak
+  - Jacoby O'Connor
+  - Jared Blando
+  - Jessica Riola
+playtime_minutes: 105
+min_playtime: 60
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Mosaic: A Story of Civilization is a competitive civilization-building game for 1-6 players
+  in which each player leads an ancient civilization from humble beginnings through to a
+  sprawling empire. Designed by Glenn Drover (Age of Empires III: The Age of Discovery,
+  Railways of the World), the game distills civ-building into a streamlined action-selection
+  framework that keeps games under two hours.
+
+  At the start of each game, players choose one of nine asymmetric Leaders, each granting
+  unique starting bonuses and special powers that shape their strategic approach. On each
+  turn, a player selects one of eight available actions: Work (produce ideas, food, or
+  stone), Population (pay food to grow your people), Build (construct cities, towns, or
+  projects), Military (recruit units and assert dominance on the board), Technology
+  (research cards that unlock powerful ongoing effects), Wonders (erect monumental
+  structures for big end-game points), Achievement (claim civilization achievement tiles),
+  or Golden Age (trigger an era-scoring event).
+
+  The game is played across a modular map of seven regions representing the ancient
+  Mediterranean world. Players expand their civilization through city and town placement,
+  compete for area control, and develop technology trees that generate engine-like combos
+  and synergies. Victory points are earned through multiple paths: technologies, golden
+  age tiles, civilization achievements, wonders, and military presence, allowing players
+  to pursue different strategic goals within the same game.
+
+  Mosaic was funded on Kickstarter and released commercially in 2022. It is notable for
+  delivering a full civilization-game experience — exploration, expansion, exploitation,
+  and extermination — without the multi-hour commitment typical of the genre.
+
+# Upgrades
+upgrades: []

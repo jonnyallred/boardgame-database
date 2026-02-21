@@ -1,0 +1,96 @@
+id: return-to-dark-tower
+name: "Return to Dark Tower"
+year: 2022
+
+# Relationships
+game_family: dark-tower
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (90-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Mostly cooperative
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Engine Building
+  - Resource Management
+  - Variable Player Powers
+  - Modular Board
+  - Campaign Mode
+  - Fantasy
+  - Ameritrash
+  - Isaac Childres
+  - Rob Daviau
+  - Restoration Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Dread
+  - Discovery
+  - Powerful
+  - Tension
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Isaac Childres
+  - Rob Daviau
+  - Noah Cohen
+  - Brian Neff
+  - Justin D. Jacobson
+publisher:
+  - Restoration Games
+artist:
+  - JJ Ariosa
+  - James Bousema
+  - Tim Burrell-Saward
+  - Lindsay Daviau
+  - Hakan Diniz
+  - Chad Hoverter
+  - Garrett Kaida
+  - Qistina Khalidah
+  - Jason D. Kingsley
+playtime_minutes: 110
+min_playtime: 90
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Return to Dark Tower is a cooperative fantasy adventure game for 1-4 players and a
+  reimagining of the classic 1981 Milton Bradley game Dark Tower. Players take on the
+  roles of heroes ruling over kingdoms that surround a towering, Bluetooth-enabled
+  electronic centrepiece connected to a companion app.
+
+  Each game begins with heroes gathering resources, cleansing corrupted buildings, defeating
+  monsters, and completing quests to build up their strength and refine their abilities.
+  The Tower — imposing, motorised, and driven by the app — dispenses skull tokens and
+  corruption across the realm, which players must work together to manage. As the game
+  progresses, the enemy lurking within the Tower is revealed and players must coordinate
+  for a dramatic final assault.
+
+  The game blends traditional Euro-style engine building and resource management with
+  app-driven narrative events, random encounters, and a physical tower that physically
+  rotates and drops skull tokens into the board's quadrants. Each hero has unique
+  abilities and a personal deck that evolves through play. The app tracks game state,
+  narrates events, and manages the adversary's behaviour, providing a different experience
+  each session. Designed by Isaac Childres (Gloomhaven) and Rob Daviau (Pandemic Legacy),
+  Return to Dark Tower launched via Kickstarter in 2020 and was delivered to backers in 2022.
+
+# Upgrades
+upgrades: []

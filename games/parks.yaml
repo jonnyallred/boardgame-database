@@ -1,0 +1,83 @@
+id: parks
+name: "PARKS"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - parks-nightfall
+  - parks-memories
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light competition
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Hand Management
+  - Resource Management
+  - Modular Board
+  - Variable Setup
+  - Family
+  - Euro
+  - Gateway
+  - Nature
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Wonder
+  - Discovery
+  - Complete
+  - Progress
+  - Clever
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Henry Audubon
+publisher:
+  - Keymaster Games
+artist:
+  - Fifty-Nine Parks Print Series Artists
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  PARKS is a beautifully illustrated board game in which players take on the role of
+  two hikers trekking through iconic US National Park trails across four seasons of
+  the year. Each season, a new randomly-arranged trail is set up, and players move
+  their hikers along it, collecting memories (resources) from the sites they visit —
+  mountains, forests, wildlife, and unique park features.
+
+  Players use their gathered memories to visit National Parks, take photos, purchase
+  gear from the camp store, and acquire canteens to make their hikers more efficient.
+  The trail has a key constraint: two hikers cannot share the same space, so players
+  must carefully time their movement — moving quickly risks missing resources while
+  moving slowly may cede the best park cards to opponents.
+
+  The game features 48 National Park cards illustrated by 35 renowned artists from
+  the Fifty-Nine Parks Print Series, plus 102 wooden resource tokens including
+  wildlife tokens shaped like 12 iconic National Park animals. The nature theme and
+  gorgeous artwork give PARKS a calm, contemplative feel despite the underlying
+  resource-management strategy. It won Best Game from a Small Publisher and Best
+  Family Game in Board Game Quest's 2019 awards.
+
+# Upgrades
+upgrades: []

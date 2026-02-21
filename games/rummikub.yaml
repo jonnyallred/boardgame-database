@@ -1,0 +1,80 @@
+id: rummikub
+name: "Rummikub"
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Hand Management
+  - Tile Placement
+  - Family
+  - Abstract
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Lucky
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Ephraim Hertzano
+publisher:
+  - Pressman Toy Corporation
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 7
+
+# Description
+description: |
+  Rummikub is a tile-based game that blends the hand management of rummy with a shared
+  tabletop puzzle. Players draw tiles numbered 1-13 in four colors (106 tiles total: 104
+  numbered tiles plus two jokers) and race to empty their racks by forming valid sets on
+  the table.
+
+  On each turn a player may add tiles to existing sets, rearrange tiles already on the
+  table into new configurations, or draw a tile as a penalty. The key twist is
+  manipulation: players can split runs, swap tiles between groups, and restructure the
+  entire tableau as long as every set on the table remains valid at the end of the turn.
+  This "rummying" of the shared layout is what distinguishes the game from straight card
+  rummy and gives it its name.
+
+  An initial meld of at least 30 points is required before a player may begin adding to
+  the table. The first player to play all of their tiles wins; remaining players score
+  negative points equal to the tiles left on their rack. Jokers are wild but score 30
+  penalty points if left in hand.
+
+  Designed by Ephraim Hertzano in the 1940s and first manufactured in Israel by his
+  family company Lemada Light Industries, Rummikub spread internationally in the 1970s
+  and won the prestigious Spiel des Jahres (Game of the Year) award in 1980, cementing
+  its status as one of the best-selling tile games of all time.
+
+# Upgrades
+upgrades: []

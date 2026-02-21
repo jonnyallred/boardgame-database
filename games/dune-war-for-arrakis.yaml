@@ -1,0 +1,91 @@
+id: dune-war-for-arrakis
+name: "Dune: War for Arrakis"
+year: 2024
+
+# Relationships
+game_family: dune
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (120 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Dice Rolling
+  - Hand Management
+  - Modular Board
+  - Resource Management
+  - Action Points
+  - Dudes on a Map
+  - Ameritrash
+  - Wargame
+  - Sci-Fi
+  - CMON
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Unique
+  - Discovery
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Marco Maggi
+  - Francesco Nepitello
+publisher:
+  - CMON
+artist:
+  - Henning Ludvigsen
+  - Stefano Moroni
+  - Paolo Parente
+  - Steve Prescott
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Dune: War for Arrakis is a highly asymmetric strategy miniatures game for 1-4 players,
+  set during the Desert War depicted in the latter half of Frank Herbert's original 1965
+  Dune novel. Designed by Marco Maggi and Francesco Nepitello, the team behind War of the
+  Ring, the game recreates the desperate guerrilla conflict between House Atreides and House
+  Harkonnen for control of the spice planet Arrakis.
+
+  Players take command of radically different factions: the Harkonnen must dominate the
+  planet by maintaining spice production and advancing their Supremacy track, principally
+  by destroying Fremen Sietches; the Atreides and their Fremen allies must survive, grow,
+  and ultimately strike decisive blows against the occupiers. Each faction has unique units
+  — including Sardaukar, Fedaykin, and the legendary Paul Muad'Dib — and very different
+  win conditions, playstyles, and card decks.
+
+  The core system uses action dice to generate options each round, combined with numerous
+  event cards that give each game a different flavour. Combat is resolved quickly with
+  unit dice and shields, while leaders like Duncan Idaho and Stilgar add shields or bonus
+  hits. The deep desert lurks as a constant threat: Sandworms can swallow harvesters whole,
+  and survival in the open sands demands careful planning. The game supports solo and
+  cooperative play against an automa system, and includes over 100 detailed miniatures
+  representing the iconic characters and troops of Arrakis.
+
+# Upgrades
+upgrades: []

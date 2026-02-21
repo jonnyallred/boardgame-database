@@ -1,0 +1,75 @@
+id: for-sale
+name: "For Sale"
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Hand Management
+  - Bluffing
+  - Simultaneous Action
+  - Set Collection
+  - Family
+  - Filler
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Stefan Dorra
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  For Sale is a quick, classic bidding card game about buying and selling real estate.
+  The game unfolds in two distinct phases. In the first phase, players bid in open
+  auctions to acquire property cards numbered 1 to 30, each representing a different
+  piece of real estate — from a cardboard box to a space station. Players must either
+  raise the bid or drop out, taking the lowest available property when they pass and
+  losing half their bid (rounded down). In the second phase, players simultaneously
+  reveal one of their acquired property cards face-down to compete for a spread of
+  currency cards ranging from $0 to $15,000. The player who reveals the highest-valued
+  property card takes the highest-value currency card, and so on down the line.
+
+  Originally published in 1997 by Ravensburger/FX Schmid, For Sale has been reprinted
+  in numerous editions and is widely regarded as one of the finest and most elegant
+  filler games ever designed. It is praised for being easy to teach, playing in under
+  30 minutes, and rewarding bluffing, timing, and hand management despite its simplicity.
+
+# Upgrades
+upgrades: []

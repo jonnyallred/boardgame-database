@@ -1,0 +1,81 @@
+id: hare-and-tortoise
+name: "Hare and Tortoise"
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate — resource management and positioning depth
+feel: 2  # Moderate — friendly but positional competition
+
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Racing
+  - Hand Management
+  - Resource Management
+  - Press Your Luck
+  - Economic
+  - Family
+  - Euro
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Progress
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - David Parlett
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Hare and Tortoise is a racing game with a sharp twist: instead of rolling dice to move,
+  players pay carrots (units of energy) to advance along the track. The further you move in
+  a single turn, the more carrots it costs — moving one space costs 1 carrot, but moving
+  ten spaces costs 55. You start with 65 carrots, just enough to plod home one square at
+  a time, or to sprint in a few costly bursts.
+
+  Scattered along the track are special squares: hare squares (draw a card — could be good
+  or bad), tortoise squares (move backward to gain carrots), lettuce squares (rest to lose
+  a lettuce card), and number squares (gain carrots based on your position in the race).
+  To finish, you must arrive at the home square with no more than 10 carrots remaining and
+  all three of your lettuce cards discarded. Timing when to sprint, when to hold back, and
+  how to manage your lettuce obligations is the heart of the game.
+
+  Designed by David Parlett and first published in Britain by Intellect Games in 1974,
+  Hare and Tortoise became the inaugural winner of the Spiel des Jahres award in 1979
+  when Ravensburger released the German edition as "Hase und Igel". It has since sold
+  millions of copies in over a dozen languages. The game is celebrated as a pioneering
+  design that replaced pure luck with resource management in a racing context, making it
+  one of the earliest and most enduring examples of the Euro game philosophy.
+
+# Upgrades
+upgrades: []

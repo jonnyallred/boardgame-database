@@ -1,0 +1,90 @@
+id: innovation
+name: "Innovation"
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - innovation-echoes-of-the-past
+  - innovation-figures-in-the-sand
+  - innovation-cities-of-destiny
+  - innovation-artifacts-of-history
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (~75 min)
+rules_complexity: 3  # Complex (many unique card powers)
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Tableau Building
+  - Set Collection
+  - Engine Building
+  - Variable Player Powers
+  - Take That
+  - Tech Tree
+  - Civilization
+  - Cult Classic
+  - Carl Chudyk
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Powerful
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Carl Chudyk
+publisher:
+  - Asmadi Games
+artist:
+  - Anders Olausson
+  - Robin Olausson
+  - Cara Judd
+  - Christophe Swal
+  - Cyril Van Der Haegen
+playtime_minutes: 75
+min_playtime: 45
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Innovation is a civilization-building card game in which players race through ten ages
+  of human history, from the Stone Age through the Modern Era, using cards that represent
+  humanity's great ideas, technologies, and inventions. Each card belongs to an age and
+  carries a unique Dogma effect that can help build your society, score achievements, or
+  attack opponents.
+
+  The central mechanic is "splaying" — fanning out your tableau of cards in a direction
+  (left, right, or up) to expose additional resource icons on cards beneath the top one.
+  Controlling more icons than opponents lets you execute powerful Demand effects that
+  force them to give up cards or resources. Players win by claiming Achievements, earned
+  either by accumulating score points and accessing high-age cards, or by meeting special
+  card conditions.
+
+  Innovation is renowned for its wild card interactions, chaotic swings, and deeply
+  asymmetric play. Each of the 105 cards has a completely unique effect, making the game
+  a dense puzzle of combos and counter-plays. It won the 2010 Golden Geek Award for Best
+  Card Game and is considered a cult classic for players who enjoy high-complexity card
+  games with emergent, unpredictable gameplay.
+
+# Upgrades
+upgrades: []

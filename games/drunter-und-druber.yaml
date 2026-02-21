@@ -1,0 +1,81 @@
+id: drunter-und-druber
+name: "Drunter und Drüber"
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Simultaneous Action
+  - Bluffing
+  - Hand Management
+  - Family
+  - Party
+  - City Building
+  - Klaus Teuber
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Tension
+  - Clever
+  - Lucky
+  - Rivalry
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Klaus Teuber
+publisher:
+  - Hans im Glück
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 9
+
+# Description
+description: |
+  Drunter und Drüber (also published in English as "Wacky Wacky West" by Mayfair Games)
+  is a tile-placement game with hidden objectives and a clever voting mechanism. It won the
+  prestigious Spiel des Jahres award in 1991 and also the Deutscher Spiele Preis that same year.
+
+  Players take on the roles of townspeople in the fabled German city of Schilda, which burned
+  down and must be rebuilt. Each player is secretly assigned one of six types of buildings
+  (appearing five times each on the board) that they want to preserve. On their turn, players
+  place a tile — streets, rivers, or town walls — that can extend across the board, potentially
+  covering and demolishing buildings in the process.
+
+  When a tile placement would cover an outbuilding (a building that belongs to one of the secret
+  goal types), a vote is triggered. Players use voting cards — ranging from triple votes to double
+  votes, single votes, abstentions, and the special "Jeeiin" wild card — to collectively decide
+  whether to allow the tile or reject it. Each player must balance voting to protect their own
+  secret building type while not revealing too much about which type they hold.
+
+  The player who manages to preserve the most of their secret building type at the end of the
+  game wins. The combination of secret objectives, tactical tile placement, and the bluffing-
+  rich voting phase creates a highly interactive, laugh-filled experience that remains accessible
+  to casual and family players while offering meaningful decisions throughout.
+
+# Upgrades
+upgrades: []

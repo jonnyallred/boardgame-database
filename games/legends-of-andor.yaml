@@ -1,0 +1,87 @@
+id: legends-of-andor
+name: "Legends of Andor"
+year: 2012
+
+# Alternate titles
+alternate_names:
+  - "Die Legenden von Andor"
+
+# Relationships
+game_family: legends-of-andor
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (~90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 1  # Light (fully cooperative)
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Campaign Mode
+  - Variable Player Powers
+  - Action Points
+  - Modular Board
+  - Fantasy
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Tension
+  - Progress
+  - Connection
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Michael Menzel
+publisher:
+  - Kosmos
+  - Thames & Kosmos
+artist:
+  - Michael Menzel
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+# Description
+description: |
+  Legends of Andor is a cooperative fantasy adventure board game in which two to four
+  players take on the roles of heroes — a dwarf, an archer, a wizard, and a warrior —
+  defending the realm of Andor from invading monster hordes. Each hero has unique
+  abilities, and players must coordinate carefully to both complete story-driven quests
+  and keep enemies from overwhelming the land's castles.
+
+  The game unfolds across five distinct legend scenarios (plus a sixth player-created
+  scenario), each telling a chapter of Andor's ongoing story. A clever narrative
+  framework reveals new rules and plot elements only as they become relevant, easing new
+  players into the game without front-loading the full rulebook. Enemy creatures advance
+  automatically each round via a fate track, creating constant pressure: heroes who
+  spend too much time fighting may neglect critical quest objectives, making time
+  management as important as combat prowess.
+
+  Designed and illustrated entirely by Michael Menzel, Legends of Andor won the
+  Kennerspiel des Jahres 2013 (Connoisseur Game of the Year in Germany) as well as
+  multiple European game-of-the-year awards that same year, including Spain's Juego del
+  Ano 2013 and France's As d'or 2013. Originally published in German as Die Legenden
+  von Andor in 2012, it has since spawned several expansions and sequels, becoming a
+  landmark in accessible cooperative adventure gaming.
+
+# Upgrades
+upgrades: []

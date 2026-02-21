@@ -1,0 +1,84 @@
+id: power-grid-the-card-game
+name: "Power Grid: The Card Game"
+year: 2016
+
+# Relationships
+game_family: power-grid
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (60 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Hand Management
+  - Set Collection
+  - Resource Management
+  - Economic
+  - Euro
+  - Family
+  - Friedemann Friese
+  - Rio Grande Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Progress
+  - Masterful
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Friedemann Friese
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  Power Grid: The Card Game is a streamlined card game adaptation of the popular
+  Power Grid board game, designed by Friedemann Friese and published by Rio Grande
+  Games in 2016. Players take on the roles of CEOs of power companies competing to
+  produce the most electricity by the end of the game.
+
+  The game captures the core tension and tactics of its board game predecessors
+  (Power Grid Recharged and Power Grid Deluxe) without requiring the large map
+  boards. Players bid in auctions to acquire power plant cards, then purchase
+  resource cards — coal, oil, garbage, uranium, or renewables — to fuel their
+  plants and generate electricity. Turn order is carefully managed, as leading
+  players go last in auctions but first in resource purchasing, creating a constant
+  push-pull dynamic.
+
+  Gameplay proceeds through a series of rounds in which a row of power plants is
+  available for auction. After acquiring plants, players stock up on resources and
+  tally their power output. The market depletes as the game progresses, ramping up
+  tension as high-value plants and scarce resources become contested. The player
+  who generates the most electricity when the deck runs out wins.
+
+  The card game format compresses a full Power Grid experience into roughly 60
+  minutes while preserving the economic decision-making and interactive resource
+  competition that fans of the original enjoy.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,76 @@
+id: light-speed-arena
+name: "Light Speed: Arena"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~15 min)
+rules_complexity: 1  # Simple (app handles scoring complexity)
+strategic_depth: 2  # Moderate (real-time positional tactics)
+feel: 3  # Competitive (simultaneous race to outmaneuver opponents)
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Simultaneous Action
+  - Real-time
+  - Area Control
+  - Sci-Fi
+  - Space
+  - Family
+  - Filler
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Lucky
+  - Unique
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Leonardo Alese
+  - James Ernest
+  - Tom Jolly
+  - Emanuele Santellani
+publisher:
+  - Tablescope
+artist: []
+playtime_minutes: 15
+min_playtime: 15
+max_playtime: 20
+min_age: 8
+
+# Description
+description: |
+  Light Speed: Arena is a real-time simultaneous tile placement game set in a futuristic
+  space combat arena. In each 10-second round, all players simultaneously place one
+  spaceship tile anywhere on the shared battlefield — positioning their ships' weapons
+  and shields to deal maximum damage to opponents while protecting their own fleet.
+  After 8 rounds of frantic placement, players use the companion app's Scan & Play
+  feature: they photograph the table and the app automatically detects every tile's
+  position and orientation, then plays out the battle and calculates scores. Points
+  are earned by destroying enemy ships, collecting minerals from asteroid tiles, and
+  impressing in-game sponsors. The game supports 2-4 players out of the box and
+  expands to 6 with expansions. Funded via Kickstarter in 2024 and distributed at
+  retail by Ares Games, Light Speed: Arena is notable for its "Scan & Play" mechanic
+  that eliminates manual bookkeeping and delivers a complete combat resolution in seconds.
+
+# Upgrades
+upgrades: []

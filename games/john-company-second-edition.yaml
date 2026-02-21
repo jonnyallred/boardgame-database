@@ -1,0 +1,94 @@
+id: john-company-second-edition
+name: "John Company: Second Edition"
+year: 2022
+
+# Relationships
+game_family: john-company
+edition: "Second Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (2-4 hours)
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive with heavy negotiation
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Negotiation
+  - Trading
+  - Economic
+  - Resource Management
+  - Variable Player Powers
+  - Hand Management
+  - Auctions/Bidding
+  - Action Points
+  - Asymmetric
+  - Events
+  - Historical
+  - Wargame
+  - Euro
+  - Cole Wehrle
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Rivalry
+  - Persuasion
+  - Agency
+  - Unique
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Cole Wehrle
+publisher:
+  - Wehrlegig Games
+artist:
+  - Cole Wehrle
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  John Company: Second Edition is a semi-cooperative negotiation game simulating
+  the internal politics and economic machinations of the British East India Company
+  from roughly 1710 to 1857. Designed by Cole Wehrle and published by Wehrlegig
+  Games in 2022, it is a ground-up redesign of the 2017 first edition following
+  extensive playtesting and community feedback.
+
+  Players each control a family of ambitious British aristocrats seeking to build
+  personal wealth and prestige by placing family members into Company roles —
+  administrators, military commanders, and merchants — while the Company itself
+  must remain solvent enough to continue operations on the Indian subcontinent.
+  The tension between personal enrichment and collective responsibility is central
+  to the experience: players must negotiate, bribe, and bargain with one another
+  to steer the Company's fate, yet each is ultimately trying to retire their family
+  members with the most accumulated prestige.
+
+  One player each round serves as the Chairman, proposing Company operations and
+  calling votes; another may serve as Prime Minister, shaping legislation that can
+  dramatically alter the game's rules and economy. Crises regularly erupt across
+  India, requiring military responses that drain the Company's treasury and test
+  diplomatic resolve among the players.
+
+  The game covers the full arc of the Company's history through a series of
+  scenarios of varying length, from shorter introductory scenarios to a full
+  campaign spanning the Company's rise and fall. John Company was named one of the
+  best games of 2022 by Smithsonian magazine and was nominated for four Golden
+  Geek Awards including Most Innovative and Best Heavy Game.
+
+# Upgrades
+upgrades: []

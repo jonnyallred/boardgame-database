@@ -1,0 +1,90 @@
+id: mombasa
+name: "Mombasa"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (75-150 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Simultaneous Action
+  - Area Control
+  - Economic
+  - Variable Player Powers
+  - Card Drafting
+  - Euro
+  - Alexander Pfister
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+  - Masterful
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Alexander Pfister
+publisher:
+  - Capstone Games
+artist:
+  - Klemens Franz
+  - Andreas Resch
+playtime_minutes: 110
+min_playtime: 75
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Mombasa is a heavy economic Euro game in which 2-4 players compete to
+  build the most profitable portfolio by acquiring shares in four historical
+  trading companies based in Mombasa, Cape Town, Saint-Louis, and Cairo, then
+  expanding those companies' trading posts across the African continent.
+
+  The game's signature mechanic is its segmented deck-building hand system.
+  Each round, players simultaneously select action cards from their hand and
+  place them face-down. Cards are then revealed and executed, driving actions
+  such as expanding company networks on the map, gaining income from chartered
+  routes, acquiring new cards, and buying or selling shares. After each round,
+  players do not reclaim their entire hand; instead, a unique rotating-display
+  mechanic means you pick up only one of several "resting piles" of previously
+  played cards. Planning which cards you will have available in future turns is
+  a central strategic challenge.
+
+  A parallel track involves a book-keeping mechanic where players advance
+  markers along income tracks for each company in which they hold shares,
+  generating compounding returns over the game's seven rounds. Diamonds and
+  other bonus resources add further scoring paths. After seven rounds the
+  player with the highest total value — shares, books, diamonds, and cash —
+  wins.
+
+  Mombasa won the Deutscher Spielepreis in 2016 and received a Kennerspiel
+  des Jahres recommendation the same year. It was later reimplemented as
+  Skymines (2022), which retains the core hand management system in a
+  science-fiction setting.
+
+# Upgrades
+upgrades: []

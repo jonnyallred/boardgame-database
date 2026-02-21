@@ -1,0 +1,82 @@
+id: le-havre-the-inland-port
+name: "Le Havre: The Inland Port"
+year: 2012
+
+# Relationships
+game_family: le-havre
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~30 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Resource Management
+  - Hand Management
+  - Economic
+  - Tableau Building
+  - Action Points
+  - Rondel
+  - Euro
+  - Family
+  - Uwe Rosenberg
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+  - Masterful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Lookout Games
+artist:
+  - Klemens Franz
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+# Description
+description: |
+  Le Havre: The Inland Port is a dedicated two-player game by Uwe Rosenberg that distills
+  the port-building theme of the original Le Havre into a compact 30-minute experience.
+  Players compete as harbour masters trying to construct the most profitable port by making
+  clever use of 31 shared building tiles over 12 rounds.
+
+  The central mechanism combines a resource wheel (borrowed from Rosenberg's Ora et Labora)
+  with a building-use system. Each round, both players simultaneously choose one of the
+  available buildings to use. When a building is used, it delivers resources based on its
+  current position on the wheel — the longer a building sits unused, the more powerful its
+  action becomes. However, buildings that go unused too long must be sold to the market at
+  half value, creating constant pressure to act before your opponent beats you to it.
+
+  Most buildings allow players to convert or accumulate resources on their personal warehouse
+  boards, which have strict capacity limits — forcing careful optimisation of when and how
+  to fill or empty storage. Players must balance building their economic engine against
+  denying useful buildings to their opponent.
+
+  The game won the International Gamers Award for Best 2-Player Strategy Game and is widely
+  praised as an accessible gateway into Rosenberg's heavier euro designs.
+
+# Upgrades
+upgrades: []

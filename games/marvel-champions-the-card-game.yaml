@@ -1,0 +1,92 @@
+id: marvel-champions-the-card-game
+name: "Marvel Champions: The Card Game"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (45-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 0  # Solitary/Cooperative (no competition between players)
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Deck Building
+  - Hand Management
+  - Variable Player Powers
+  - Card Drafting
+  - Modular Board
+  - Asymmetric
+  - Ameritrash
+  - Superheroes
+  - Marvel
+  - Fantasy Flight Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Powerful
+  - Tension
+  - Progress
+  - Unique
+  - Connection
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Michael Boggs
+  - Nate French
+  - Caleb Grace
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Zezhou Chen
+playtime_minutes: 67
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Marvel Champions: The Card Game is a cooperative Living Card Game (LCG) in which
+  one to four players each control a Marvel superhero and work together to stop a
+  villain from completing a nefarious scheme. Each hero is represented by a 40-50
+  card pre-built deck that can be customized with one of five aspect decks (Justice,
+  Aggression, Protection, Leadership, or Basic cards), allowing players to tailor
+  their hero to a preferred play style.
+
+  On each player's turn they may flip between their hero and alter-ego identity —
+  the alter-ego side allows recovery and special abilities tied to civilian life,
+  while the hero side enables attacks and thwarting the villain's scheme. Players
+  spend resources from their hand to play events, allies, supports, and upgrades,
+  then discard remaining cards to pay for others, creating constant hand-management
+  tension.
+
+  The villain deck drives an automated threat system: if the scheme advances too far
+  before the villain is defeated, the players lose. Modular encounter sets let players
+  swap in different side schemes, hazards, and minion configurations to vary every
+  session. The core set includes five heroes (Iron Man, Spider-Man, Captain Marvel,
+  She-Hulk, Black Panther) and three villains (Rhino, Klaw, Ultron), with hundreds
+  of expansions adding heroes, villains, and campaigns released under the LCG model
+  (no randomized packs — every card is known in advance).
+
+  Marvel Champions won Board Game Quest's 2019 Cooperative Game of the Year and
+  has become one of the most expansive LCG ecosystems in the hobby, praised for
+  its accessibility to new players and deep deckbuilding for veterans.
+
+# Upgrades
+upgrades: []

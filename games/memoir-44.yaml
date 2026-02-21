@@ -1,0 +1,85 @@
+id: memoir-44
+name: "Memoir '44"
+year: 2004
+
+# Relationships
+game_family: memoir-44
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Hand Management
+  - Modular Board
+  - Variable Setup
+  - Card Drafting
+  - Wargame
+  - Historical
+  - War
+  - Days of Wonder
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Lucky
+  - Rivalry
+  - Powerful
+  - Discovery
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Richard Borg
+publisher:
+  - Days of Wonder
+artist:
+  - Julien Delval
+  - Henry Leku
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Memoir '44 is a two-player WWII wargame using Richard Borg's Command and Colors
+  system, published by Days of Wonder in 2004. Players command Allied or Axis forces
+  across historically grounded scenarios based on famous battles from the European
+  theatre, including D-Day landings, Operation Market Garden, and the Battle of the
+  Bulge.
+
+  Gameplay is driven by a hand of Command Cards that determine which sections of
+  the hex board a player may activate — left flank, center, or right — and how many
+  units can be ordered. Players roll custom battle dice whose icons resolve combat,
+  making every engagement fast and punchy. Infantry, armor, and artillery units each
+  have distinct movement and combat rules, while terrain like hedgerows, rivers, and
+  towns creates tactical friction true to the historical settings.
+
+  Scenarios are set up from a scenario booklet and played on a double-sided board,
+  giving the game a modular, replayable structure. Victory is earned by capturing
+  enemy medal objectives or eliminating opposing units. The game supports team play
+  and larger Overlord scenarios (requiring two copies) for up to eight players.
+  A deep catalog of expansions covers the Pacific, Eastern Front, Mediterranean,
+  and other theatres. Memoir '44 won the 2004 International Gamers Award for General
+  Strategy (2-player category).
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,79 @@
+id: lost-cities
+name: "Lost Cities"
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Press Your Luck
+  - Card Drafting
+  - Abstract
+  - Filler
+  - Gateway
+  - Reiner Knizia
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Complete
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+# Description
+description: |
+  Lost Cities is a 2-player card game in which players mount expeditions to five ancient
+  locations: the Himalayas, the Brazilian rainforest, the Egyptian desert, an ancient volcano
+  site, and the lost realm beneath the sea. The 60-card deck is divided into five color-coded
+  suits, each containing cards numbered 2 through 10 and three wager/investment cards.
+
+  On each turn a player plays or discards one card, then draws one card from either the deck
+  or any discard pile. Cards in an expedition must be placed in ascending numerical order, so
+  players must commit early and build upward. Beginning an expedition costs 20 points; played
+  number cards contribute their face value. Wager cards, played before any numbered card in
+  an expedition, multiply the final score (or loss) for that expedition by 2x, 3x, or 4x.
+
+  The key tension is deciding which expeditions to start: starting too many spreads your hand
+  thin, while skipping a promising suit means leaving points on the table. The game ends when
+  the draw deck is exhausted, and three rounds are typically played with a final score tally.
+
+  Lost Cities won the 1999 Meeples' Choice Award and the 2000 International Gamers Award. It
+  is widely regarded as one of the finest two-player games ever designed and a classic
+  introduction to hobby gaming for couples and non-gamers.
+
+# Upgrades
+upgrades: []

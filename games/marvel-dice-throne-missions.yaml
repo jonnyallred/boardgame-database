@@ -1,0 +1,77 @@
+id: marvel-dice-throne-missions
+name: "Marvel Dice Throne Missions"
+year: 2025
+
+# Relationships
+game_family: dice-throne
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-75 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Variable Player Powers
+  - Modular Board
+  - Campaign Mode
+  - Asymmetric
+  - Ameritrash
+  - Superheroes
+  - Marvel
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Powerful
+  - Tension
+  - Connection
+  - Discovery
+  - Unique
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Gavan Brown
+  - Nate Chatellier
+publisher:
+  - Roxley Games
+artist: []
+playtime_minutes: 50
+min_playtime: 30
+max_playtime: 75
+min_age: 8
+
+# Description
+description: |
+  Marvel Dice Throne Missions is a cooperative expansion for the Dice Throne system that
+  pits 1-4 heroes against iconic villains from the Marvel Universe. Players choose their
+  heroes from any Dice Throne set — Marvel or otherwise — and work together across a series
+  of double-sided mission maps, each presenting unique objectives and escalating challenges.
+
+  Scenarios chain together into a narrative arc, with each mission providing objectives
+  that culminate in a climactic boss battle showdown. Progress is tracked on a universal
+  perks sheet, allowing players to carry improvements forward between sessions without
+  locking in specific heroes. The cooperative format requires players to coordinate dice
+  rolls, card play, and hero abilities to overcome increasingly dangerous villain encounters.
+
+  The game is not standalone and requires at least one Dice Throne hero set per player.
+  It is compatible with all existing Dice Throne characters, making it a versatile
+  cooperative layer for the entire Dice Throne ecosystem.
+
+# Upgrades
+upgrades: []

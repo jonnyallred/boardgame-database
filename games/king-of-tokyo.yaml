@@ -1,0 +1,72 @@
+id: king-of-tokyo
+name: "King of Tokyo"
+year: 2011
+
+# Relationships
+game_family: king-of-tokyo
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Card Drafting
+  - Press Your Luck
+  - Take That
+  - Set Collection
+  - Variable Player Powers
+  - Ameritrash
+  - Family
+  - Party
+  - Richard Garfield
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Powerful
+  - Rivalry
+  - Tension
+  - Humor
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Richard Garfield
+publisher:
+  - IELLO
+artist:
+  - Benjamin Raynal
+  - Regis Torres
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+# Description
+description: |
+  King of Tokyo is a dice-driven monster brawl for 2-6 players in which each player controls a giant kaiju creature — mutant monsters, gigantic robots, and alien beings — all competing to become the undisputed King of Tokyo.
+
+  On your turn, you roll six custom dice up to three times (Yahtzee-style), keeping whichever results you like. Die faces show energy bolts, lightning bolts (victory points), hearts (healing), claws (attacks), and numbers 1-3. Rolling three-of-a-kind on the number faces scores points, while claw results deal damage to other monsters. The monster inside Tokyo gains bonus victory points at the start of each turn but takes all incoming damage from outside attackers and cannot heal.
+
+  Victory comes one of two ways: be the first to reach 20 victory points, or be the last monster standing. Between turns, players spend energy tokens to purchase power cards from a shared market, granting persistent abilities, one-shot bonuses, and special dice effects that dramatically alter strategies.
+
+  Designed by Richard Garfield (creator of Magic: The Gathering) and published by IELLO in 2011, the game is known for its fast pace, accessible rules, and chaotic fun. A second edition with updated artwork was released in 2016. The game spawned a series including King of New York and various expansions.
+
+# Upgrades
+upgrades: []

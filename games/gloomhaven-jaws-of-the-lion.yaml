@@ -1,0 +1,88 @@
+id: gloomhaven-jaws-of-the-lion
+name: "Gloomhaven: Jaws of the Lion"
+year: 2020
+
+# Relationships
+game_family: gloomhaven
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - gloomhaven
+
+# Ratings (0-4 scale)
+length: 3  # Long (90-120 min per scenario)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 1  # Cooperative
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Hand Management
+  - Campaign Mode
+  - Modular Board
+  - Variable Player Powers
+  - Dungeon Crawler
+  - Narrative Heavy
+  - Action Points
+  - Fantasy
+  - Isaac Childres
+  - Cephalofair Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Tension
+  - Powerful
+  - Discovery
+  - Masterful
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Isaac Childres
+publisher:
+  - Cephalofair Games
+artist:
+  - Alexandr Elichev
+  - Josh T. McDowell
+  - Biboun
+playtime_minutes: 105
+min_playtime: 60
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Gloomhaven: Jaws of the Lion is a standalone cooperative dungeon-crawling campaign game
+  set in the world of Gloomhaven, serving as both a prequel to the original game and a
+  more accessible entry point into the series. Designed by Isaac Childres and published
+  by Cephalofair Games in 2020, it features 25 scenarios and four new character classes:
+  the Valrath Red Guard (tank and crowd control), the Inox Hatchet (ranged damage dealer),
+  the Human Voidwarden (support and mind-control), and the Quatryl Demolitionist (melee
+  damage and obstacle manipulation).
+
+  Players choose two cards from their hand each round, selecting the top action of one
+  card and the bottom action of the other, granting movement, attacks, heals, and special
+  abilities. Randomization is handled by a shuffled attack modifier deck rather than dice,
+  rewarding consistent play and deck management. Enemies activate via AI behavior decks,
+  creating tactical puzzles each scenario.
+
+  The game introduces new players gradually: the first five scenarios serve as an
+  integrated tutorial, incrementally revealing rules instead of front-loading a full
+  rulebook. Characters gain experience, unlock perks, and acquire items between scenarios,
+  providing a satisfying sense of progression across the campaign. The four characters
+  are also compatible with the original Gloomhaven game. Jaws of the Lion was initially
+  released as a Target exclusive in July 2020 before a worldwide general release.
+
+# Upgrades
+upgrades: []

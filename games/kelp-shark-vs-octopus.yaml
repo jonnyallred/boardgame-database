@@ -1,0 +1,86 @@
+id: kelp-shark-vs-octopus
+name: "Kelp: Shark vs Octopus"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (40-60 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 4  # Fierce (direct head-to-head asymmetric confrontation)
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Asymmetric
+  - Variable Player Powers
+  - Deck Building
+  - Bag Building
+  - Hidden Movement
+  - Bluffing
+  - 1 vs Many
+  - Deduction
+  - Hand Management
+  - Animals
+  - Nature
+  - Maritime
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Rivalry
+  - Unique
+  - Mystery
+  - Clever
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Carl Robinson
+publisher:
+  - Wonderbow Games
+artist:
+  - Weberson Santiago
+  - Sönke Schmidt
+playtime_minutes: 50
+min_playtime: 40
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Kelp: Shark vs Octopus is a strictly 2-player asymmetric game set in a South African
+  kelp forest, inspired by the Netflix documentary "My Octopus Teacher." One player
+  controls the Pyjama Shark and the other plays as the Common Octopus, each with
+  completely different mechanics, components, and win conditions.
+
+  The Octopus player uses a deck-building system, playing cards to sneak around the
+  board while managing hidden and revealed position tokens — channeling the creature's
+  remarkable camouflage and deception abilities. The Octopus wins by either surviving
+  until the Shark exhausts all 7 of its dice, or by collecting and consuming all four
+  seafood tiles.
+
+  The Shark player rolls dice to patrol the kelp forest and hunt down the elusive
+  Octopus, using special abilities to mitigate luck and narrow the search. The Shark
+  wins by successfully attacking the Octopus before its dice pool runs out.
+
+  The sharp asymmetry in both components and strategy creates a tense hide-and-seek
+  dynamic where each player must think entirely differently. The game blends deck
+  building, bag building, hidden movement, bluffing, and deduction into a compact
+  40-60 minute head-to-head experience.
+
+# Upgrades
+upgrades: []

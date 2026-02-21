@@ -1,0 +1,81 @@
+id: machi-koro
+name: "Machi Koro"
+year: 2012
+
+# Relationships
+game_family: machi-koro
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Engine Building
+  - Card Drafting
+  - Set Collection
+  - Family
+  - Gateway
+  - City Building
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Progress
+  - Clever
+  - Rivalry
+  - Humor
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Masao Suganuma
+publisher:
+  - Pandasaurus Games
+artist:
+  - Noboru Hotta
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+# Description
+description: |
+  Machi Koro is a fast-paced city-building dice game in which each player is
+  a newly elected mayor tasked with developing a thriving city before their
+  rivals. Players take turns rolling one or two dice and collecting coins from
+  establishments whose activation numbers match the roll — some establishments
+  activate on any player's turn, others only on your own. Coins are then spent
+  to purchase new establishments from a central market, building up an
+  ever-more-profitable engine, and to construct four landmark buildings that
+  are the key to victory.
+
+  Establishments are color-coded by activation type: blue cards activate on
+  anyone's roll, green cards activate only on the active player's roll, red
+  cards steal coins from the active player, and purple cards trigger powerful
+  once-per-turn effects. The first player to complete all four of their
+  landmarks wins the game.
+
+  Originally published in Japan by Grounding, Inc. in 2012, Machi Koro went
+  on to win multiple awards and was translated into over a dozen languages.
+  The US edition was published by Pandasaurus Games. The game features a
+  playful, colorful art style and is beloved as an approachable gateway game
+  for families and new players.
+
+# Upgrades
+upgrades: []

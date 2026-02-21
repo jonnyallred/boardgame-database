@@ -1,0 +1,86 @@
+id: paleo
+name: "Paleo"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - paleo-a-new-beginning
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (45-75 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 1  # Light (cooperative, no direct conflict)
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Card Drafting
+  - Hand Management
+  - Modular Board
+  - Variable Setup
+  - Variable Player Powers
+  - Press Your Luck
+  - Resource Management
+  - Family
+  - Euro
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Discovery
+  - Connection
+  - Progress
+  - Dread
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Peter Rustemeyer
+publisher:
+  - Hans im Glück
+  - Z-Man Games
+artist:
+  - Dominik Mayer
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+# Description
+description: |
+  Paleo is a cooperative survival game set in the Stone Age, designed by Peter
+  Rustemeyer and winner of the 2021 Kennerspiel des Jahres. Players work together
+  as a tribe of prehistoric humans striving to survive and ultimately complete a
+  cave painting — the game's central victory condition.
+
+  Each player manages a small group of tribe members, each with their own skill
+  and life points. On each turn, players simultaneously choose from face-down
+  cards that reveal their contents only when committed to — a key tension mechanic
+  that forces players to weigh risk versus reward. Cards may offer food, resources,
+  crafted tools, or trigger dangers such as injuries, predators, or starvation.
+
+  The game is built around 10 modular card sets that can be mixed and matched to
+  vary the experience, difficulty, and narrative. Players lose if they accumulate
+  five skull tokens — earned when tribe members die or go unfed. Victory comes
+  from collecting all five cave painting tokens before the tribe is wiped out.
+
+  Paleo is notable for its elegant risk-communication system: card backs hint at
+  possible rewards and dangers without revealing them fully, creating genuine
+  dilemmas each round. A solo mode is included. The first expansion, Paleo: A New
+  Beginning, adds new modules and further story content.
+
+# Upgrades
+upgrades: []

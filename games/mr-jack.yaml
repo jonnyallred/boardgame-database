@@ -1,0 +1,80 @@
+id: mr-jack
+name: "Mr. Jack"
+year: 2006
+
+# Relationships
+game_family: mr-jack
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deduction
+  - Hidden Movement
+  - Asymmetric
+  - Variable Player Powers
+  - Hex Map
+  - Mystery
+  - Historical
+  - Bruno Cathala
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Mystery
+  - Tension
+  - Rivalry
+  - Clever
+  - Masterful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Bruno Cathala
+  - Ludovic Maublanc
+publisher:
+  - Hurrican
+artist:
+  - Pierô
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 9
+
+# Description
+description: |
+  Mr. Jack is an asymmetric 2-player deduction game set in London's Whitechapel
+  district in 1889. One player secretly plays as Jack the Ripper, disguised as
+  one of eight investigators gathered to hunt him down. The other player controls
+  all eight characters, trying to deduce which one is Jack before he escapes.
+
+  Each round, players alternate activating characters — moving them around the
+  hexagonal board and using their unique special abilities. After each round, Jack
+  must announce whether he is in the light (adjacent to a lit lamp post or visible
+  to another character) or in the dark. This information, combined with which
+  characters were moved and where, allows the investigator to systematically
+  eliminate suspects.
+
+  Jack wins by slipping out one of the four exits from the district or by keeping
+  his identity hidden for all eight rounds. The investigator wins by correctly
+  identifying and arresting Jack in a single accusation, or by blocking all exits.
+  The asymmetric information and the tension of each reveal make the game a tense,
+  clever cat-and-mouse thriller.
+
+# Upgrades
+upgrades: []

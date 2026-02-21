@@ -1,0 +1,82 @@
+id: fort
+name: "Fort"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (20-40 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Family
+  - Gateway
+  - Leder Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Connection
+  - Humor
+  - Rivalry
+  - Progress
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Grant Rodiek
+publisher:
+  - Leder Games
+artist:
+  - Kyle Ferrin
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+# Description
+description: |
+  Fort is a deck-building card game for 2-4 players set in the world of childhood summers,
+  where players compete to grow their circle of friends, collect pizza and toys, and build
+  the coolest fort on the block.
+
+  The game's central twist on the deckbuilding formula is a "follow the leader" mechanic:
+  when a player takes an action, other players may follow along by discarding a matching
+  card from their hand. Cards are organized by suit (crowns, skateboards, glue, books,
+  and shovels), and playing multiple cards of the same suit amplifies the action's power.
+  Each card has a public action (which others can follow) and a private action (for the
+  active player only).
+
+  Crucially, cards left unplayed in a hand at the end of a turn are vulnerable — opponents
+  can recruit those neglected kids into their own decks. This creates constant pressure to
+  use your cards wisely and keep your friends close. Players score victory points by
+  constructing their fort and accumulating resources, and the game ends when a player
+  completes their fort or the kid deck is exhausted.
+
+  Fort was rethemed from the 2018 game SPQF (also by Rodiek), which featured forest animals
+  in an Ancient Rome setting. It was nominated at the 2021 SXSW Gaming Awards for Tabletop
+  Game of the Year. Kyle Ferrin's distinctive whimsical art gives the game a charming,
+  nostalgic feel consistent with other Leder Games titles.
+
+# Upgrades
+upgrades: []

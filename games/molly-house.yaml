@@ -1,0 +1,86 @@
+id: molly-house
+name: "Molly House"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Card Drafting
+  - Dice Rolling
+  - Set Collection
+  - Press Your Luck
+  - Competitive
+  - Historical
+  - Cole Wehrle
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Connection
+  - Tension
+  - Lucky
+  - Rivalry
+  - Unique
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Jo Kelly
+  - Cole Wehrle
+  - Ricky Royal
+publisher:
+  - Wehrlegig Games
+artist:
+  - Rachel Ford
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Molly House is a competitive card and dice game set in 18th-century London,
+  where players inhabit the hidden world of molly houses — secret gathering
+  places for queer communities seeking companionship, celebration, and survival
+  in a society that persecuted them. The Society for the Reformation of Manners
+  looms as an ever-present threat, and players must balance joy against the risk
+  of exposure.
+
+  Each turn players move their pawn across the board to action spaces, then
+  draft and play hand cards representing vices, desires, and encounters. The
+  central activity is hosting festivities at the Molly House: players take turns
+  contributing cards from their hands until everyone passes, then the strongest
+  poker-style hand is assembled and players score Joy points for cards they
+  contributed. Desire cards played to your personal board gain multipliers from
+  matching Molly cards, rewarding careful suit management.
+
+  A Joy Track functions as the victory point meter, while an Evidence pile
+  tracks the threat of raid and persecution — dice rolls determine how threats
+  spread, adding an element of press-your-luck tension. The game blends luck
+  with meaningful card play decisions, evoking a sense of fragile community
+  and celebration under duress. Designed by Jo Kelly, Cole Wehrle, and Ricky
+  Royal, Molly House is notable for its rich historical theme and its frank
+  engagement with LGBTQ+ history.
+
+# Upgrades
+upgrades: []

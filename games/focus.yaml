@@ -1,0 +1,75 @@
+id: focus
+name: "Focus"
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Abstract
+  - Area Control
+  - Mancala
+  - Puzzle Solving
+  - Asymmetric
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+# Metadata
+designer:
+  - Sid Sackson
+publisher:
+  - Kosmos
+artist: []
+playtime_minutes: 35
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  Focus (also known as Domination or Dominio) is an abstract strategy board game designed
+  by Sid Sackson and first published by Kosmos in 1964. It won the Spiel des Jahres in 1981
+  and the Essen Feather award that same year, bringing it widespread recognition in Germany.
+  The game was later reprinted by Milton Bradley under the name Domination in 1982.
+
+  Players move stacks of pieces on a distinctive board — a checkerboard with the three corner
+  squares removed from each corner, forming a cross-like shape. A stack may move a number of
+  spaces equal to the number of pieces in it. Players may only move a stack topped by one of
+  their own pieces. When stacks merge and exceed five pieces, pieces are removed from the bottom:
+  a player's own removed pieces are held in reserve and may be re-entered onto the board on a
+  future turn, while opponents' removed pieces are captured permanently. The last player able to
+  move wins.
+
+  The game rewards deep tactical thinking: controlling stacks, building tall towers for greater
+  mobility, and managing your reserve pieces. It was first featured in Martin Gardner's
+  Mathematical Games column in Scientific American in October 1963, and later included in
+  Sackson's landmark compendium A Gamut of Games.
+
+# Upgrades
+upgrades: []

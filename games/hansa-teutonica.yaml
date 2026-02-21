@@ -1,0 +1,85 @@
+id: hansa-teutonica
+name: "Hansa Teutonica"
+year: 2009
+
+# Relationships
+game_family: hansa-teutonica
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (45-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Network Building
+  - Route Building
+  - Area Control
+  - Action Points
+  - Resource Management
+  - Variable Player Powers
+  - Euro
+  - Medieval
+  - Economic
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Progress
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Andreas Steding
+publisher:
+  - Argentum Verlag
+artist:
+  - Andreas Resch
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Hansa Teutonica is a midweight Euro strategy game set in the medieval trading network
+  of the Hanseatic League — the powerful merchant alliance that dominated Northern
+  European commerce from the 13th to 17th centuries. Players compete to establish
+  trading posts across a map of German and Baltic cities by placing traders (cubes)
+  and merchants (discs) on the routes connecting them.
+
+  On their turn, players take two actions (expandable through upgrades): placing tokens
+  on roads, moving tokens already on the board, displacing rival tokens by bumping them
+  off routes, or claiming completed routes to found new offices in cities. Cities grant
+  powerful bonuses — extra actions, more traders, greater movement — and improving these
+  skills is central to the game's engine-building feel.
+
+  Victory points flow from multiple sources: controlling entire trade routes, establishing
+  offices in key cities, collecting bonus markers on roads, and having other players pass
+  through cities where you hold an office. This multiplicity of scoring paths creates
+  constant tension, as players must balance their own development against blocking
+  opponents' most profitable connections.
+
+  The game won the 2010 International Gamers Award and is widely regarded as a classic
+  of the network-building genre. A Big Box edition published by Z-Man Games in 2020
+  includes the base game plus the Britannia and East map expansions.
+
+# Upgrades
+upgrades: []

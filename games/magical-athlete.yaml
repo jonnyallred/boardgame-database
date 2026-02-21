@@ -1,0 +1,79 @@
+id: magical-athlete
+name: "Magical Athlete"
+year: 2025
+
+# Relationships
+game_family: null
+edition: "2025 CMYK Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Racing
+  - Drafting
+  - Variable Player Powers
+  - Asymmetric
+  - Take That
+  - Party
+  - Family
+  - Richard Garfield
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+  - Unique
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Takashi Ishida
+  - Richard Garfield
+publisher:
+  - CMYK
+artist:
+  - Angela Kirkwood
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 45
+min_age: 6
+
+# Description
+description: |
+  Magical Athlete is a chaotic fantasy racing game in which players recruit teams
+  of wildly mismatched competitors — Centaurs, Eggs, Rocket Scientists, and more
+  — each with a deeply unfair, game-breaking special power. On each turn, players
+  roll a die and move their chosen racer, then activate that racer's unique
+  ability, which can teleport, swap positions, skip opponents, or otherwise upend
+  the race entirely. Players run four separate races over the course of the game,
+  earning points based on finishing position, with the highest total winning.
+
+  The game was originally designed by Takashi Ishida and released in 2003 by
+  Z-Man Games, where it became a cult classic admired for its anarchic spirit
+  despite modest production values. This 2025 edition from CMYK was refined by
+  Richard Garfield and features vibrant new artwork by Angela Kirkwood, along
+  with 10 newly designed characters added to the original roster. The result is
+  a raucous party experience driven by escalating chaos, laughter, and the
+  constant threat that someone's special power will completely overturn the
+  standings on the last stretch of the track.
+
+# Upgrades
+upgrades: []

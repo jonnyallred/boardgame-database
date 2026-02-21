@@ -1,0 +1,82 @@
+id: furnace
+name: "Furnace"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Auctions/Bidding
+  - Card Drafting
+  - Resource Management
+  - Economic
+  - Euro
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Ivan Lashin
+publisher:
+  - Hobby World
+artist:
+  - Oleg Yurkov
+playtime_minutes: 50
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  Furnace is an engine-building card game set in the 19th century industrial
+  revolution, where players compete as capitalists building corporate empires
+  by acquiring companies and processing resources into money.
+
+  The game is played over four rounds, each with two phases. In the Auction
+  phase, 6-8 company cards are laid out and players take turns placing
+  numbered discs on them. No two discs of the same value or color may share
+  a card. The player with the highest disc wins the card and adds it to their
+  engine; players with lower discs instead receive compensation — resources
+  or processing uses equal to their disc value. This creates an elegant
+  tension: losing a bid deliberately can be just as rewarding as winning.
+
+  In the Production phase, players activate their company cards once each to
+  extract raw resources (coal, oil), process them into more valuable goods,
+  and ultimately convert everything into money. Some cards can also be
+  upgraded for more powerful future production.
+
+  After four rounds, the player with the most money wins. Furnace is praised
+  for its innovative auction compensation mechanic, which ensures players
+  are never completely shut out of any round. The engine-building is
+  streamlined and accessible, making it a strong gateway into the genre.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,81 @@
+id: res-arcana
+name: "Res Arcana"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - res-arcana-lux-et-tenebrae
+  - res-arcana-perlae-imperii
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Hand Management
+  - Set Collection
+  - Drafting
+  - Card Drafting
+  - Resource Management
+  - Tableau Building
+  - Euro
+  - Fantasy
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Masterful
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Tom Lehmann
+publisher:
+  - Sand Castle Games
+artist:
+  - Julien Delval
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  Res Arcana is a tight engine-building card game in which 2-4 alchemical mages compete to
+  accumulate victory points through mastery of magical essences and arcane artifacts. Each
+  player drafts an 8-card micro-deck from a shared pool of 40 unique artifact cards, selects
+  a mage with a special power, and chooses a magic item at the start of each game — ensuring
+  high variability across sessions.
+
+  Gameplay centers on five mystical essences — Gold, Life, Calm, Death, and Elan — which fuel
+  artifact abilities. On their turn, players may place an artifact from their hand, claim a
+  Monument or Place of Power, use a power on a played component, discard a card for essence,
+  or pass (trading in their magic item and drawing a card). The first player to reach 10 or
+  more victory points triggers a final scoring check; the player with the most points wins.
+
+  A typical game runs 4-6 rounds and rewards tight resource management and combo-building with
+  a compact set of cards. The game was recommended by the Spiel des Jahres jury in 2019.
+  Expansions include Lux et Tenebrae (adds Demons and Scrolls, fifth-player support) and
+  Perlae Imperii (adds Pearl essence and raises the victory threshold to 13 points).
+
+# Upgrades
+upgrades: []

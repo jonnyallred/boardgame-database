@@ -1,0 +1,82 @@
+id: niagara
+name: "Niagara"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - niagara-spirits-of-niagara
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Simultaneous Action
+  - Hand Management
+  - Racing
+  - Family
+  - Gateway
+  - Dexterity
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Lucky
+  - Rivalry
+  - Wonder
+  - Clever
+
+# Player counts
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Thomas Liesching
+publisher:
+  - Rio Grande Games
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 38
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  Niagara is a German-style family game set on the river above the famous waterfall.
+  Players paddle their canoes up and down the river collecting coloured gems and racing
+  them back to shore before being swept over the falls. The board features an innovative
+  three-dimensional waterfall built into the game box — a hinged flap hangs over the box
+  edge to represent the drop — and the river is simulated by clear plastic discs that
+  slide along a grooved surface, flowing downstream each round.
+
+  Each turn, players simultaneously choose a paddle tile from their hand (numbered 1-5)
+  to move their canoes. After all paddles are revealed, the river currents are calculated:
+  the sum of all paddles played determines how many disc spaces the river advances toward
+  the waterfall. Playing high-numbered paddles lets you move more spaces but also pushes
+  the river faster, threatening every canoe on the water. Gems rest on the river discs
+  and drift along with them, while canoes that go over the falls lose their cargo.
+
+  Players can collect gems from river spaces and carry them back to shore, or steal gems
+  directly from rivals' canoes. Victory goes to the first player to bring ashore four
+  gems of the same colour, one gem of each of the five colours, or seven gems in total.
+  The constant tension between moving efficiently and controlling the river speed — since
+  every paddle you play affects the whole table — gives the game its signature nail-biting
+  quality. Winner of the 2005 Spiel des Jahres.
+
+# Upgrades
+upgrades: []

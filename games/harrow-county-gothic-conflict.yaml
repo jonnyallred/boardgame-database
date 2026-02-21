@@ -1,0 +1,81 @@
+id: harrow-county-gothic-conflict
+name: "Harrow County: The Game of Gothic Conflict"
+year: 2024
+
+# Relationships
+game_family: harrow-county
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (under 1 hour)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Asymmetric
+  - Variable Player Powers
+  - Area Control
+  - Network Building
+  - Route Building
+  - Hex Map
+  - Drafting
+  - Action Points
+  - 1 vs Many
+  - Horror
+  - Fantasy
+  - Ameritrash
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Powerful
+  - Unique
+  - Dread
+  - Rivalry
+
+# Player counts
+possible_counts: [1, 2, 3]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Jay Cormier
+  - Shad Miller
+publisher:
+  - Off The Page Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+# Description
+description: |
+  Harrow County: The Game of Gothic Conflict is an asymmetric strategy game for 1-3 players
+  inspired by the Harrow County comic series by Cullen Bunn and Tyler Crook. Each player
+  controls a faction — witches, ghosts, or other dark forces — each with radically different
+  objectives: protect, destroy, rule, or infect the cursed land of Harrow County.
+
+  Players alternate selecting from four shared actions each round (move, spawn, strengthen,
+  and faction-specific abilities) using mason jar tokens that limit each player to three
+  choices per round, creating tight action economy decisions. Combat is resolved through a
+  cube tower built directly into the game box, providing a thematic chit-pull system where
+  units that fall through are eliminated while others are held back for future battles.
+
+  The game blends route building and network control on a hex grid with king-of-the-hill
+  scoring, rewarding presence in key locations. A solo mode and a reduced-rules introductory
+  variant are included. The Fair Folk expansion adds additional factions and scales the game
+  to four players.
+
+# Upgrades
+upgrades: []

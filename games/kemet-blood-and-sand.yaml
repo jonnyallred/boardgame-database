@@ -1,0 +1,92 @@
+id: kemet-blood-and-sand
+name: "Kemet: Blood and Sand"
+year: 2021
+
+# Relationships
+game_family: kemet
+edition: "Blood and Sand (Revised)"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Action Points
+  - Variable Player Powers
+  - Asymmetric
+  - Drafting
+  - Take That
+  - Ameritrash
+  - Dudes on a Map
+  - Ancient
+  - Mythology
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Agency
+  - Unique
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Jacques Bariot
+  - Guillaume Montiage
+publisher:
+  - Matagot
+artist:
+  - Dimitri Bielak
+  - Nicolas Fructus
+  - Emile Denis
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Kemet: Blood and Sand is a revised and updated edition of the original Kemet (2012),
+  published by Matagot in 2021. Players take on the roles of Egyptian gods commanding
+  armies across a modular desert map, competing to accumulate victory points through
+  battle, temple control, and divine power upgrades.
+
+  Each turn, players take actions from a fixed pool — moving troops, building pyramid
+  levels, recruiting units, and acquiring Power Tiles. The Power Tile market is the
+  strategic heart of the game: four color-coded tracks (red, blue, white, black) offer
+  a wide range of asymmetric abilities, mythological creatures, and combat bonuses that
+  players combine to create powerful synergies. Reaching higher pyramid levels unlocks
+  stronger tiles, and each color represents a distinct strategic philosophy.
+
+  Combat is card-driven and fast-playing: both attacker and defender secretly choose a
+  battle card, then reveal simultaneously. Defeated units retreat rather than being
+  eliminated, keeping armies relevant throughout the game. The revised edition streamlines
+  the original rules, rebalances Power Tiles, incorporates content from the Ta-Seti
+  expansion (as a built-in fourth tile set), and introduces a dedicated turn order and
+  victory point tracking board, Veteran Tokens, and updated victory conditions.
+
+  Kemet: Blood and Sand rewards aggression — players score points primarily by winning
+  battles and holding temples — making it one of the most openly confrontational area
+  control games in the hobby. Games play to a fixed victory point threshold (typically
+  8-9 points) and can end rapidly once a leader emerges, ensuring tight tension
+  throughout.
+
+# Upgrades
+upgrades: []

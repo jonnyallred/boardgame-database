@@ -1,0 +1,72 @@
+id: dominion
+name: "Dominion"
+alternate_names:
+  - "Dominion (First Edition)"
+  - "Dominion 1st Edition"
+year: 2008
+
+# Relationships
+game_family: dominion
+edition: "First Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (30 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Set Collection
+  - Card Drafting
+  - Engine Building
+  - Euro
+  - Gateway
+  - Family
+  - Cult Classic
+  - Donald X. Vaccarino
+  - Rio Grande Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Masterful
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Donald X. Vaccarino
+publisher:
+  - Rio Grande Games
+artist:
+  - Matthias Catrein
+  - Julien Delval
+  - Radosław Jaszczuk
+  - Tomasz Jedruszek
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 13
+
+# Description
+description: |
+  Dominion is the game that invented the deck-building genre when it was published in 2008. Designed by Donald X. Vaccarino and published by Rio Grande Games, it won the Spiel des Jahres, Deutscher Spiele Preis, Origins Award, Diana Jones Award, and Mensa Select — an unprecedented sweep that cemented its place in board game history. Each player begins with an identical ten-card starting deck of basic Copper (treasure) and Estate (victory point) cards. On each turn, a player plays Action cards, uses Treasure cards to purchase new cards from the central Supply, then discards their entire hand and draws five new cards. Purchased cards are shuffled into the deck and will be drawn in future turns, gradually improving its power and efficiency. Each game is built from 10 of the 25 included Kingdom card types, creating enormous variety across plays. Players race to accumulate Province cards — the highest-value Victory cards — before the Supply runs out, at which point the player with the most Victory points wins. Though the rules are straightforward, Dominion rewards deep strategic thinking: knowing when to buy Victory cards (which clutter a deck) versus continuing to build engine power is a key tension. The first edition includes 500 cards and supports 2 to 4 players. It was later superseded by the Second Edition (2016), which refined card text, improved layout, and swapped six original Kingdom cards for new designs.
+
+# Upgrades
+upgrades: []

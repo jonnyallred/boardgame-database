@@ -3,6 +3,22 @@
 # Appended to by /add-game sub-agents
 
 entries:
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pictures
+    url: "https://en.wikipedia.org/wiki/Pictures_(board_game)"
+    description: "Wikipedia article on Pictures board game"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pictures
+    url: "https://www.pd-verlag.de/Pictures/en"
+    description: "PD-Verlag official product page for Pictures"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pictures
+    url: "https://www.meeplemountain.com/reviews/pictures/"
+    description: "Meeple Mountain review of Pictures"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pictures
+    url: "https://www.spiel-des-jahres.de/en/the-winners-2020/"
+    description: "Spiel des Jahres 2020 winners announcement"
   - timestamp: "2026-02-20T00:00:00Z"
     game_id: creature-comforts
     url: "https://www.kidstablebg.com/post/creature-comforts-the-story-of-the-game"
@@ -5478,3 +5494,1327 @@ entries:
     game_id: detective-club
     url: "https://www.ultraboardgames.com/detective-club/game-rules.php"
     description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dominations-road-to-civilization
+    url: "https://americantabletopawards.com/dominations/"
+    description: "Game information page — americantabletopawards.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dominations-road-to-civilization
+    url: "https://www.boardgamequest.com/dominations-road-to-civilization-review/"
+    description: "Review or reference article — boardgamequest.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dominations-road-to-civilization
+    url: "https://www.dicetower.com/board-game/250881"
+    description: "Review or reference article — dicetower.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: clank-a-deck-building-adventure
+    url: "https://www.direwolfdigital.com/clank/"
+    description: "Game information page — direwolfdigital.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: clank-a-deck-building-adventure
+    url: "https://www.meeplemountain.com/reviews/clank/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: clank-a-deck-building-adventure
+    url: "https://www.whatboardgame.com/post/clank-a-deck-building-adventure-board-game-review"
+    description: "Game information page — whatboardgame.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dominion
+    url: "https://en.wikipedia.org/wiki/Dominion_(card_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dominion
+    url: "https://www.riograndegames.com/games/dominion1stedition/"
+    description: "Game information page — riograndegames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dominion
+    url: "https://www.ultraboardgames.com/dominion/game-rules.php"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: drunter-und-druber
+    url: "https://en.wikipedia.org/wiki/Drunter_und_Dr%C3%BCber"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: drunter-und-druber
+    url: "https://opinionatedgamers.com/2015/07/08/sdj-re-reviews-13-drunter-und-druber-a-k-a-wacky-wacky-west/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: drunter-und-druber
+    url: "https://www.geekyhobbies.com/wacky-wacky-west-board-game-review/"
+    description: "Game information page — geekyhobbies.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dorfromantik-the-board-game
+    url: "https://en.wikipedia.org/wiki/Dorfromantik_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dorfromantik-the-board-game
+    url: "https://www.dicetower.com/board-game/370591"
+    description: "Review or reference article — dicetower.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dorfromantik-the-board-game
+    url: "https://www.meeplemountain.com/reviews/dorfromantik-the-board-game/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dune-war-for-arrakis
+    url: "https://store.asmodee.com/products/dune-war-for-arrakis"
+    description: "Publisher product page — store.asmodee.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dune-war-for-arrakis
+    url: "https://www.nerdly.co.uk/2024/04/18/dune-war-for-arrakis-board-game-review/"
+    description: "Game information page — nerdly.co.uk"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: draftosaurus
+    url: "https://thetabletopfamily.com/draftosaurus-review/"
+    description: "Game information page — thetabletopfamily.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: draftosaurus
+    url: "https://ultraboardgames.com/draftosaurus/game-rules.php"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: draftosaurus
+    url: "https://www.meeplemountain.com/reviews/draftosaurus/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dvonn
+    url: "https://en.wikipedia.org/wiki/DVONN"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dvonn
+    url: "https://www.meeplemountain.com/reviews/dvonn/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dvonn
+    url: "https://www.riograndegames.com/games/dvonn/"
+    description: "Game information page — riograndegames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: elfenland
+    url: "https://boardgameguys.com/elfenland/"
+    description: "Game information page — boardgameguys.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: elfenland
+    url: "https://en.wikipedia.org/wiki/Elfenland"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: elfenland
+    url: "https://www.geekyhobbies.com/elfenland-board-game-review-and-rules/"
+    description: "Game information page — geekyhobbies.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dwellings-of-eldervale
+    url: "https://opinionatedgamers.com/2020/12/04/alan-how-review-of-dwellings-of-eldervale/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dwellings-of-eldervale
+    url: "https://tabletopgamesblog.com/2022/02/19/dwellings-of-eldervale-saturday-review/"
+    description: "Game information page — tabletopgamesblog.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: dwellings-of-eldervale
+    url: "https://www.boardgamequest.com/dwellings-of-eldervale-review/"
+    description: "Review or reference article — boardgamequest.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: endless-winter-paleoamericans
+    url: "https://fantasiaboardgames.com/product/endless-winter-paleoamericans-big-box/"
+    description: "Game information page — fantasiaboardgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: endless-winter-paleoamericans
+    url: "https://www.meeplemountain.com/reviews/endless-winter-paleoamericans/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: endless-winter-paleoamericans
+    url: "https://www.thestartplayer.com/review-endless-winter-paleoamericans-all-expansions/"
+    description: "Game information page — thestartplayer.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: enchanted-forest
+    url: "https://en.wikipedia.org/wiki/Enchanted_Forest_(game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: enchanted-forest
+    url: "https://opinionatedgamers.com/2015/05/22/sdj-re-reviews-3-sagaland-a-k-a-enchanted-forest/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: enchanted-forest
+    url: "https://www.ravensburger.us/en-US/products/games/games-for-kids/enchanted-forest-22292"
+    description: "Game information page — ravensburger.us"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: einfach-genial-3d
+    url: "https://en.wikipedia.org/wiki/Ingenious_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: einfach-genial-3d
+    url: "https://www.meeplemountain.com/boardgame/einfach-genial-3d/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: einfach-genial-3d
+    url: "https://www.meeplemountain.com/reviews/einfach-genial-3d/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: exit-the-game
+    url: "https://store.thamesandkosmos.com/collections/exit-the-game"
+    description: "Game information page — store.thamesandkosmos.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: exit-the-game
+    url: "https://www.meeplemountain.com/reviews/exit-the-game-mega-review-puzzling-out/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: exit-the-game
+    url: "https://www.mojo-nation.com/inka-markus-brand-origins-escape-room-inspired-exit-game-series/"
+    description: "Game information page — mojo-nation.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: flip-7
+    url: "https://boardgamewire.com/index.php/2025/06/23/flip-7-continues-awards-run-with-origin-award-victory-fromage-and-endeavor-deep-sea-also-among-winners/"
+    description: "Game information page — boardgamewire.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: flip-7
+    url: "https://theop.games/products/flip-7"
+    description: "Game information page — theop.games"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: flip-7
+    url: "https://www.geekyhobbies.com/flip-7-rules/"
+    description: "Game information page — geekyhobbies.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: fliptoons
+    url: "https://geekdad.com/2025/07/find-fame-in-fliptoons/"
+    description: "Game information page — geekdad.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: fliptoons
+    url: "https://thunderworksgames.com/products/fliptoons-game"
+    description: "Game information page — thunderworksgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: fliptoons
+    url: "https://whatsericplaying.com/2025/10/13/fliptoons/"
+    description: "Game information page — whatsericplaying.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: expeditions
+    url: "https://en.wikipedia.org/wiki/Expeditions_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: expeditions
+    url: "https://stonemaiergames.com/games/expeditions/"
+    description: "Publisher product page — stonemaiergames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: expeditions
+    url: "https://www.meeplemountain.com/reviews/expeditions/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: federation
+    url: "https://www.amazon.com/Eagle-Gryphon-Games-Federation-Deluxe-Edition/dp/B0D5ZT1BKV"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: federation
+    url: "https://www.eagle-gryphon.com/products/federation-deluxe-edition"
+    description: "Game information page — eagle-gryphon.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: federation
+    url: "https://www.meeplemountain.com/reviews/federation/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: fort
+    url: "https://ledergames.com/products/fort"
+    description: "Game information page — ledergames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: fort
+    url: "https://opinionatedgamers.com/2020/09/18/fort-game-review-by-brandon-kempf/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: fort
+    url: "https://www.meeplemountain.com/reviews/fort/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: for-sale
+    url: "https://theboardgamedialogue.com/for-sale/"
+    description: "Game information page — theboardgamedialogue.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: for-sale
+    url: "https://www.dicetower.com/board-game/172"
+    description: "Review or reference article — dicetower.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: for-sale
+    url: "https://www.eagle-gryphon.com/products/for-sale"
+    description: "Game information page — eagle-gryphon.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: focus
+    url: "https://en.wikipedia.org/wiki/Focus_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: focus
+    url: "https://gambiter.com/tabletop/Focus_game.html"
+    description: "Game information page — gambiter.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: focus
+    url: "https://opinionatedgamers.com/2015/05/19/sdj-re-reviews-3-focus-a-k-a-domination/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: galaxy-trucker
+    url: "https://en.wikipedia.org/wiki/Galaxy_Trucker"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: galaxy-trucker
+    url: "https://everythingboardgames.com/2021/11/galaxy-trucker-review.html"
+    description: "Game information page — everythingboardgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: galaxy-trucker
+    url: "https://www.czechgames.com/games/galaxy-trucker"
+    description: "Game information page — czechgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: freelancers-a-crossroads-game
+    url: "https://www.freelancersgame.com/"
+    description: "Game information page — freelancersgame.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: freelancers-a-crossroads-game
+    url: "https://www.meeplemountain.com/reviews/freelancers-a-crossroads-game/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: freelancers-a-crossroads-game
+    url: "https://www.plaidhatgames.com/board-games/freelancers-crossroads-game/"
+    description: "Publisher product page — plaidhatgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: furnace
+    url: "https://www.arcanewonders.com/product/furnace/"
+    description: "Game information page — arcanewonders.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: furnace
+    url: "https://www.boardgamequest.com/furnace-review/"
+    description: "Review or reference article — boardgamequest.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: furnace
+    url: "https://www.nerdly.co.uk/2021/10/14/furnace-board-game-review/"
+    description: "Game information page — nerdly.co.uk"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: gloomhaven-jaws-of-the-lion
+    url: "https://cephalofair.com/products/gloomhaven-jaws-of-the-lion"
+    description: "Game information page — cephalofair.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: gloomhaven-jaws-of-the-lion
+    url: "https://en.wikipedia.org/wiki/Gloomhaven"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: gloomhaven-jaws-of-the-lion
+    url: "https://www.shutupandsitdown.com/games/gloomhaven-jaws-of-the-lion/"
+    description: "Review or reference article — shutupandsitdown.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: gaia-project
+    url: "https://digidiced.com/gaiaproject/"
+    description: "Game information page — digidiced.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: gaia-project
+    url: "https://www.dicetower.com/board-game/220308"
+    description: "Review or reference article — dicetower.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hadara
+    url: "https://criticalcardboard.com/?p=2663"
+    description: "Game information page — criticalcardboard.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hadara
+    url: "https://opinionatedgamers.com/2019/07/22/hadara-game-review-by-brandon-kempf/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hadara
+    url: "https://www.zmangames.com/game/hadara/"
+    description: "Publisher product page — zmangames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hansa-teutonica
+    url: "https://boardgameguys.com/hansa-teutonica/"
+    description: "Game information page — boardgameguys.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hansa-teutonica
+    url: "https://en.wikipedia.org/wiki/Hansa_Teutonica"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hansa-teutonica
+    url: "https://www.meeplemountain.com/reviews/hansa-teutonica-big-box/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: happy-salmon
+    url: "https://opinionatedgamers.com/2016/07/26/dale-yu-review-of-happy-salmon/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: happy-salmon
+    url: "https://www.explodingkittens.com/products/happy-salmon"
+    description: "Game information page — explodingkittens.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: happy-salmon
+    url: "https://www.geekyhobbies.com/happy-salmon-rules/"
+    description: "Game information page — geekyhobbies.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hare-and-tortoise
+    url: "https://en.wikipedia.org/wiki/Hare_and_Tortoise"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hare-and-tortoise
+    url: "https://www.meeplemountain.com/reviews/hare-and-tortoise/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hare-and-tortoise
+    url: "https://www.parlettgames.uk/haretort/"
+    description: "Game information page — parlettgames.uk"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: happy-city
+    url: "https://www.cocktailgames.com/en/game/happy-city/"
+    description: "Game information page — cocktailgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: happy-city
+    url: "https://www.geekyhobbies.com/how-to-play-happy-city-board-game-rules-and-instructions/"
+    description: "Game information page — geekyhobbies.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: happy-city
+    url: "https://www.meeplemountain.com/reviews/happy-city/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hanabi
+    url: "https://en.wikipedia.org/wiki/Hanabi_(card_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hanabi
+    url: "https://rnrgames.com/hanabi"
+    description: "Game information page — rnrgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hanabi
+    url: "https://www.spiel-des-jahres.de/en/games/hanabi/"
+    description: "Game information page — spiel-des-jahres.de"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: harrow-county-gothic-conflict
+    url: "https://offthepagegames.com/harrow-county-the-official-board-game-by-off-the-page-games/"
+    description: "Game information page — offthepagegames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: harrow-county-gothic-conflict
+    url: "https://www.meeplemountain.com/reviews/harrow-county-the-game-of-gothic-conflict/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: heredity-the-book-of-swan
+    url: "https://store.asmodee.com/products/heredity"
+    description: "Publisher product page — store.asmodee.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: heredity-the-book-of-swan
+    url: "https://www.meeplemountain.com/reviews/heredity-the-book-of-swan/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: heredity-the-book-of-swan
+    url: "https://www.miniaturemarket.com/heredity-book-swan-her001en.html"
+    description: "Retailer product listing — miniaturemarket.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: iliad
+    url: "https://bitewinggames.com/iliad/"
+    description: "Game information page — bitewinggames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: iliad
+    url: "https://www.allplay.com/board-games/iliad"
+    description: "Game information page — allplay.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: iliad
+    url: "https://www.ancientworldmagazine.com/reviews/iliad-2006-card-game-dominique-ehrhard/"
+    description: "Game information page — ancientworldmagazine.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: honk
+    url: "https://bigbossbattle.com/honk-board-game-review/"
+    description: "Game information page — bigbossbattle.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: honk
+    url: "https://sinisterfish.com/product/honk/"
+    description: "Game information page — sinisterfish.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: honk
+    url: "https://www.miniaturemarket.com/sif00060.html"
+    description: "Retailer product listing — miniaturemarket.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hive
+    url: "https://en.wikipedia.org/wiki/Hive_(game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hive
+    url: "https://www.discoverwildlife.com/reviews/hive-board-game-expansions-versions"
+    description: "Game information page — discoverwildlife.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: hive
+    url: "https://www.gen42.com/product/hive/"
+    description: "Game information page — gen42.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: isle-of-skye-from-chieftain-to-king
+    url: "https://en.wikipedia.org/wiki/Isle_of_Skye:_From_Chieftain_to_King"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: isle-of-skye-from-chieftain-to-king
+    url: "https://www.lookout-spiele.de/en/games/isleofskye.html"
+    description: "Game information page — lookout-spiele.de"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: isle-of-skye-from-chieftain-to-king
+    url: "https://www.meeplemountain.com/reviews/isle-of-skye-from-chieftain-to-king/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: istanbul
+    url: "https://en.wikipedia.org/wiki/Istanbul_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: istanbul
+    url: "https://www.boardgamequest.com/istanbul-board-game-review/"
+    description: "Review or reference article — boardgamequest.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: istanbul
+    url: "https://www.meeplemountain.com/reviews/istanbul/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: john-company-second-edition
+    url: "https://en.wikipedia.org/wiki/John_Company_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: john-company-second-edition
+    url: "https://talkingshelfspace.com/review-john-company-second-edition/"
+    description: "Game information page — talkingshelfspace.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: john-company-second-edition
+    url: "https://wehrlegig.com/products/john-company-second-edition"
+    description: "Game information page — wehrlegig.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: kelp-shark-vs-octopus
+    url: "https://wonderbowgames.com/products/kelp-shark-vs-octopus"
+    description: "Game information page — wonderbowgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: kelp-shark-vs-octopus
+    url: "https://www.meeplemountain.com/reviews/kelp/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: innovation
+    url: "https://en.boardgamearena.com/gamepanel?game=innovation"
+    description: "Game information page — en.boardgamearena.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: innovation
+    url: "https://www.backerkit.com/c/projects/asmadi-games/innovation-ultimate"
+    description: "Game information page — backerkit.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: innovation
+    url: "https://www.geekyhobbies.com/innovation-card-game-review-and-rules/"
+    description: "Game information page — geekyhobbies.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: kinfire-council
+    url: "https://kinfirechronicles.com/products/kinfire-council-preorder"
+    description: "Game information page — kinfirechronicles.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: kinfire-council
+    url: "https://www.boardgamequest.com/kinfire-council-review/"
+    description: "Review or reference article — boardgamequest.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: kinfire-council
+    url: "https://www.meeplemountain.com/reviews/kinfire-council/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: keltis
+    url: "https://en.wikipedia.org/wiki/Keltis"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: keltis
+    url: "https://opinionatedgamers.com/2015/11/23/sdj-re-reviews-30-keltis/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: keltis
+    url: "https://www.meeplemountain.com/reviews/keltis/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: its-a-wonderful-world
+    url: "https://www.laboitedejeu.fr/en/its-a-wonderful-world/"
+    description: "Game information page — laboitedejeu.fr"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: its-a-wonderful-world
+    url: "https://www.meeplemountain.com/reviews/its-a-wonderful-world/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: king-of-tokyo
+    url: "https://en.wikipedia.org/wiki/King_of_Tokyo"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: king-of-tokyo
+    url: "https://iellogames.com/games/king-of-tokyo/"
+    description: "Game information page — iellogames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: king-of-tokyo
+    url: "https://www.miniaturemarket.com/iel51314.html"
+    description: "Retailer product listing — miniaturemarket.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: kemet-blood-and-sand
+    url: "https://tabletopping.games/2021/12/05/kemet-blood-and-sand/"
+    description: "Game information page — tabletopping.games"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: kemet-blood-and-sand
+    url: "https://www.amazon.com/Revised-Strategy-Players-Playtime-Matagot/dp/B096L3HRFQ"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: kemet-blood-and-sand
+    url: "https://www.meeplemountain.com/reviews/kemet-blood-and-sand/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: kingdom-builder
+    url: "https://en.wikipedia.org/wiki/Kingdom_Builder"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: kingdom-builder
+    url: "https://www.meeplemountain.com/reviews/kingdom-builder/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: kingdom-builder
+    url: "https://www.spiel-des-jahres.de/en/games/kingdom-builder/"
+    description: "Game information page — spiel-des-jahres.de"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: kingdomino
+    url: "https://blog.blueorangegames.com/interview-bruno-cathala/"
+    description: "Game information page — blog.blueorangegames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: kingdomino
+    url: "https://en.wikipedia.org/wiki/Kingdomino"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: kingdomino
+    url: "https://www.geekyhobbies.com/kingdomino-board-game-review-and-rules/"
+    description: "Game information page — geekyhobbies.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: le-havre-the-inland-port
+    url: "https://en.wikipedia.org/wiki/Le_Havre_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: le-havre-the-inland-port
+    url: "https://tabletopgamesblog.com/2018/10/20/le-havre-the-inland-port/"
+    description: "Game information page — tabletopgamesblog.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: le-havre-the-inland-port
+    url: "https://www.lookout-spiele.de/en/games/inlandport.html"
+    description: "Game information page — lookout-spiele.de"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: drunter-und-druber
+    url: "https://en.wikipedia.org/wiki/Drunter_und_Dr%C3%BCber"
+    description: "Wikipedia article with designer, publisher, year, mechanics, and awards"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: drunter-und-druber
+    url: "https://opinionatedgamers.com/2015/07/08/sdj-re-reviews-13-drunter-und-druber-a-k-a-wacky-wacky-west/"
+    description: "Opinionated Gamers SdJ re-review of Drunter und Drüber / Wacky Wacky West"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: drunter-und-druber
+    url: "https://www.geekyhobbies.com/wacky-wacky-west-board-game-review/"
+    description: "Geeky Hobbies rules overview and review of Wacky Wacky West"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: legacy-of-yu
+    url: "https://garphill.com/game-store/legacy-of-yu"
+    description: "Game information page — garphill.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: legacy-of-yu
+    url: "https://www.meeplemountain.com/reviews/legacy-of-yu/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: legacy-of-yu
+    url: "https://www.solomygames.com/legacy-of-yu-game-review/"
+    description: "Game information page — solomygames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: leaf
+    url: "https://geekdad.com/2024/03/reaping-the-rewards-leaf/"
+    description: "Game information page — geekdad.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: leaf
+    url: "https://www.meeplemountain.com/reviews/leaf/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: federation
+    url: "https://www.eagle-gryphon.com/products/federation-deluxe-edition"
+    description: "Publisher product page — eagle-gryphon.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: federation
+    url: "https://www.meeplemountain.com/reviews/federation/"
+    description: "Game review — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: federation
+    url: "https://www.amazon.com/Eagle-Gryphon-Games-Federation-Deluxe-Edition/dp/B0D5ZT1BKV"
+    description: "Retailer listing — amazon.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: light-speed-arena
+    url: "https://lightspeedarena.com/"
+    description: "Game information page — lightspeedarena.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: light-speed-arena
+    url: "https://opinionatedgamers.com/2025/11/16/dale-yu-review-of-light-speed-arena/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: light-speed-arena
+    url: "https://www.boardgamequest.com/light-speed-arena-review/"
+    description: "Review or reference article — boardgamequest.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: legends-of-andor
+    url: "http://legendsofandor.com/"
+    description: "Game information page — legendsofandor.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: legends-of-andor
+    url: "https://www.spiel-des-jahres.de/spiele/die-legenden-von-andor/"
+    description: "Game information page — spiel-des-jahres.de"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: limes
+    url: "https://board-game-rules.com/boardgames/limes/"
+    description: "Game information page — board-game-rules.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: draftosaurus
+    url: "https://thetabletopfamily.com/draftosaurus-review/"
+    description: "The Tabletop Family review with mechanics, player count, and playtime details"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: draftosaurus
+    url: "https://www.meeplemountain.com/reviews/draftosaurus/"
+    description: "Meeple Mountain review with gameplay overview and scoring details"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: draftosaurus
+    url: "https://ultraboardgames.com/draftosaurus/game-rules.php"
+    description: "Official rules reference for Draftosaurus"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: lincoln
+    url: "https://theplayersaid.com/2018/12/06/until-successful-or-till-i-die-or-am-conquered-a-review-of-lincoln-from-worthington-psc-games/"
+    description: "Game information page — theplayersaid.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: lincoln
+    url: "https://www.nerdly.co.uk/2018/04/26/lincoln-board-game-review/"
+    description: "Game information page — nerdly.co.uk"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: lincoln
+    url: "https://www.ultraboardgames.com/lincoln/game-rules.php"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: lord-of-the-rings-the-confrontation
+    url: "https://en.wikipedia.org/wiki/Lord_of_the_Rings_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: lord-of-the-rings-the-confrontation
+    url: "https://www.geekyhobbies.com/lord-of-the-rings-the-confrontation-board-game-review/"
+    description: "Game information page — geekyhobbies.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: imhotep-the-duel
+    url: "https://thamesandkosmos.com/manuals/full/694272_Imhotep_DUEL_Manual.pdf"
+    description: "Game information page — thamesandkosmos.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: imhotep-the-duel
+    url: "https://www.boardgamequest.com/imhotep-the-duel-review/"
+    description: "Review or reference article — boardgamequest.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: imhotep-the-duel
+    url: "https://www.philwalkerharding.com/imhotep-the-duel"
+    description: "Game information page — philwalkerharding.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: lost-cities
+    url: "https://en.wikipedia.org/wiki/Lost_Cities"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: lost-cities
+    url: "https://opinionatedgamers.com/2015/12/04/lost-cities/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: luthier
+    url: "https://luthiergame.com/"
+    description: "Game information page — luthiergame.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: luthier
+    url: "https://opinionatedgamers.com/2025/10/20/larry-levy-first-impressions-of-luthier-2/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: luthier
+    url: "https://www.meeplemountain.com/reviews/luthier/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: elfenland
+    url: "https://en.wikipedia.org/wiki/Elfenland"
+    description: "Wikipedia article on Elfenland"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: elfenland
+    url: "https://www.geekyhobbies.com/elfenland-board-game-review-and-rules/"
+    description: "Geeky Hobbies review and rules summary for Elfenland"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: elfenland
+    url: "https://boardgameguys.com/elfenland/"
+    description: "Board Game Guys overview of Elfenland"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: lowenherz
+    url: "http://gamecabinet.com/reviews/LowenHerz.html"
+    description: "Game information page — gamecabinet.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: lowenherz
+    url: "https://boardgameguys.com/lowenherz/"
+    description: "Game information page — boardgameguys.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: lowenherz
+    url: "https://en.wikipedia.org/wiki/L%C3%B6wenherz"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: magical-athlete
+    url: "https://playerelimination.com/2025/09/16/going-the-distance-a-magical-athlete-review/"
+    description: "Game information page — playerelimination.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: magical-athlete
+    url: "https://www.cmyk.games/products/magical-athlete"
+    description: "Game information page — cmyk.games"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: magical-athlete
+    url: "https://www.meeplemountain.com/reviews/magical-athlete/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: machi-koro
+    url: "https://en.wikipedia.org/wiki/Machi_Koro"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: machi-koro
+    url: "https://pandasaurusgames.com/products/machi-koro"
+    description: "Publisher product page — pandasaurusgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: machi-koro
+    url: "https://www.dicetower.com/board-game/143884"
+    description: "Review or reference article — dicetower.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-champions-the-card-game
+    url: "https://en.wikipedia.org/wiki/Marvel_Champions:_The_Card_Game"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-champions-the-card-game
+    url: "https://www.meeplemountain.com/reviews/marvel-champions-the-card-game/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: manhattan
+    url: "https://boardgameguys.com/manhattan/"
+    description: "Game information page — boardgameguys.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: manhattan
+    url: "https://en.wikipedia.org/wiki/Manhattan_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: manhattan
+    url: "https://www.spiel-des-jahres.de/1994-manhattan-von-andreas-seyfarth/"
+    description: "Game information page — spiel-des-jahres.de"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-united-multiverse
+    url: "https://www.amazon.com/CMON-Marvel-United-Multiverse-Cooperative/dp/B0D5RZL1L6"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-dice-throne
+    url: "https://tabletopbellhop.com/game-reviews/marvel-dice-throne/"
+    description: "Game information page — tabletopbellhop.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-dice-throne
+    url: "https://www.boardgamequest.com/marvel-dice-throne-review/"
+    description: "Review or reference article — boardgamequest.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-dice-throne
+    url: "https://www.everythingboardgames.com/2022/11/marvel-dice-throne-review.html"
+    description: "Game information page — everythingboardgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-dice-throne-missions
+    url: "https://gamewardbound.com/marvel-dice-throne-missions-first-impressions/"
+    description: "Game information page — gamewardbound.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-dice-throne-missions
+    url: "https://offtheshelfgames.com/dice-throne-missions-marvel"
+    description: "Game information page — offtheshelfgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-dice-throne-missions
+    url: "https://shop.dicethrone.com/products/marvel-dice-throne-missions-1"
+    description: "Game information page — shop.dicethrone.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-united
+    url: "https://www.meeplemountain.com/reviews/marvel-united/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-united
+    url: "https://www.ultraboardgames.com/marvel-united/game-rules.php"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: massive-darkness-2-hellscape
+    url: "https://www.amazon.com/Darkness-Hellscape-Miniatures-Cooperative-CMON/dp/B09KC7978S"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: meadow
+    url: "https://www.meeplemountain.com/reviews/meadow/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: meadow
+    url: "https://www.nerdly.co.uk/2021/09/07/meadow-board-game-review/"
+    description: "Game information page — nerdly.co.uk"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: meadow
+    url: "https://www.rebelstudio.eu/games/meadow-1414.html"
+    description: "Game information page — rebelstudio.eu"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: memoir-44
+    url: "https://en.wikipedia.org/wiki/Memoir_%2744"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: memoir-44
+    url: "https://www.daysofwonder.com/game/memoir44/"
+    description: "Publisher product page — daysofwonder.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: memoir-44
+    url: "https://www.meeplemountain.com/reviews/memoir-44/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: metal-gear-solid-the-board-game
+    url: "https://metalgear.fandom.com/wiki/Metal_Gear_Solid:_The_Board_Game"
+    description: "Game information page — metalgear.fandom.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: metal-gear-solid-the-board-game
+    url: "https://www.meeplemountain.com/reviews/metal-gear-solid-the-board-game/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: molly-house
+    url: "https://tabletopgamesblog.com/2025/05/24/molly-house-saturday-review/"
+    description: "Game information page — tabletopgamesblog.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: molly-house
+    url: "https://wehrlegig.com/products/molly-house"
+    description: "Game information page — wehrlegig.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: molly-house
+    url: "https://www.wargamer.com/molly-house/cole-wehrle-controversial"
+    description: "Game information page — wargamer.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: massive-darkness-2-hellscape
+    url: "https://boardgame.de/reviews/massivedarkness2.html"
+    description: "Game information page — boardgame.de"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: massive-darkness-2-hellscape
+    url: "https://www.amazon.com/Darkness-Hellscape-Miniatures-Cooperative-CMON/dp/B09KC7978S"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: massive-darkness-2-hellscape
+    url: "https://www.geeksundergrace.com/tabletop/review-massive-darkness-2-hellscape/"
+    description: "Game information page — geeksundergrace.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mombasa
+    url: "https://en.wikipedia.org/wiki/Mombasa_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mombasa
+    url: "https://rnrgames.com/mombasa"
+    description: "Game information page — rnrgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mombasa
+    url: "https://www.shutupandsitdown.com/review-mombasa/"
+    description: "Review or reference article — shutupandsitdown.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mississippi-queen
+    url: "https://en.wikipedia.org/wiki/Mississippi_Queen_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mississippi-queen
+    url: "https://tabletoptogether.com/2020/03/06/review-mississippi-queen/"
+    description: "Game information page — tabletoptogether.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mississippi-queen
+    url: "https://www.tlamagames.com/en/board-games/mississippi-queen/"
+    description: "Game information page — tlamagames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: my-city
+    url: "https://store.thamesandkosmos.com/products/my-city"
+    description: "Game information page — store.thamesandkosmos.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: my-city
+    url: "https://www.meeplemountain.com/reviews/my-city/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mosaic-a-story-of-civilization
+    url: "https://everythingboardgames.com/2023/01/mosaic-review.html"
+    description: "Game information page — everythingboardgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mosaic-a-story-of-civilization
+    url: "https://www.meeplemountain.com/reviews/mosaic-a-story-of-civilization-game-review/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mosaic-a-story-of-civilization
+    url: "https://www.miniaturemarket.com/frb1800.html"
+    description: "Retailer product listing — miniaturemarket.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mr-jack
+    url: "https://www.brunocathala.com/mr-jack/"
+    description: "Game information page — brunocathala.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mr-jack
+    url: "https://www.dicetower.com/board-game/21763"
+    description: "Review or reference article — dicetower.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mr-jack
+    url: "https://www.meeplemountain.com/boardgame/mr-jack/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mysterium
+    url: "https://en.wikipedia.org/wiki/Mysterium_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mysterium
+    url: "https://opinionatedgamers.com/2015/08/18/review-of-mysterium-libellud-asmodee-english-edition/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mysterium
+    url: "https://www.libellud.com/en/our-games/mysterium/"
+    description: "Game information page — libellud.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: nemesis
+    url: "https://awakenrealms.com/games/awaken-realms/nemesis"
+    description: "Game information page — awakenrealms.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: nemesis
+    url: "https://coopboardgames.com/cooperative-board-game-reviews/nemesis/"
+    description: "Game information page — coopboardgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: nemesis
+    url: "https://en.wikipedia.org/wiki/Nemesis_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: heredity-the-book-of-swan
+    url: "https://www.meeplemountain.com/reviews/heredity-the-book-of-swan/"
+    description: "Meeple Mountain review covering mechanics, timeline system, and campaign structure"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: heredity-the-book-of-swan
+    url: "https://store.asmodee.com/products/heredity"
+    description: "Asmodee North America product page for Heredity: The Book of Swan"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: heredity-the-book-of-swan
+    url: "https://www.miniaturemarket.com/heredity-book-swan-her001en.html"
+    description: "Miniature Market retailer listing with SKU HER001EN and pricing"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: origin-story
+    url: "https://stonemaiergames.com/games/origin-story/"
+    description: "Publisher product page — stonemaiergames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: origin-story
+    url: "https://www.amazon.com/Stonemaier-Games-Trick-Taking-Superheroes-Supervillains/dp/B0FTPX6DG2"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: origin-story
+    url: "https://www.boardgamequest.com/origin-story-review/"
+    description: "Review or reference article — boardgamequest.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pandemic-fall-of-rome
+    url: "https://www.meeplemountain.com/boardgame/pandemic-fall-of-rome/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pandemic-fall-of-rome
+    url: "https://www.ultraboardgames.com/pandemic/fall-of-rome.php"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pandemic-fall-of-rome
+    url: "https://www.zmangames.com/game/pandemic-fall-of-rome/"
+    description: "Publisher product page — zmangames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: oranienburger-kanal
+    url: "https://gamewardbound.com/oranienburger-kanal-solo-first-impressions/"
+    description: "Game information page — gamewardbound.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: oranienburger-kanal
+    url: "https://www.meeplemountain.com/reviews/oranienburger-kanal/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: old-kings-crown
+    url: "https://www.board-game.co.uk/the-old-kings-crown/"
+    description: "Game information page — board-game.co.uk"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: old-kings-crown
+    url: "https://www.eerieidolgames.com/"
+    description: "Game information page — eerieidolgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: old-kings-crown
+    url: "https://www.wargamer.com/the-old-kings-crown/board-game-review"
+    description: "Game information page — wargamer.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: parks
+    url: "https://en.wikipedia.org/wiki/Parks_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: parks
+    url: "https://www.boardgamequest.com/parks-review/"
+    description: "Review or reference article — boardgamequest.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: paleo
+    url: "https://www.hans-im-glueck.de/en/game/paleo/"
+    description: "Game information page — hans-im-glueck.de"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: paleo
+    url: "https://www.spiel-des-jahres.de/en/games/paleo/"
+    description: "Game information page — spiel-des-jahres.de"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: paleo
+    url: "https://www.zmangames.com/game/paleo/"
+    description: "Publisher product page — zmangames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: power-grid-the-card-game
+    url: "https://en.wikipedia.org/wiki/Power_Grid"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: power-grid-the-card-game
+    url: "https://www.miniaturemarket.com/rio536.html"
+    description: "Retailer product listing — miniaturemarket.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: power-grid-the-card-game
+    url: "https://www.riograndegames.com/games/power-grid-card-game/"
+    description: "Game information page — riograndegames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pictures
+    url: "https://en.wikipedia.org/wiki/Pictures_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pictures
+    url: "https://www.meeplemountain.com/reviews/pictures/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pictures
+    url: "https://www.pd-verlag.de/Pictures/en"
+    description: "Game information page — pd-verlag.de"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: istanbul
+    url: "https://en.wikipedia.org/wiki/Istanbul_(board_game)"
+    description: "Wikipedia article on Istanbul board game — designer, year, awards, mechanics, expansions"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: istanbul
+    url: "https://www.meeplemountain.com/reviews/istanbul/"
+    description: "Meeple Mountain review of Istanbul — gameplay analysis, rating 4.5/5"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: istanbul
+    url: "https://www.boardgamequest.com/istanbul-board-game-review/"
+    description: "Board Game Quest review of Istanbul — mechanics and player experience"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: project-elite
+    url: "https://coopboardgames.com/cooperative-board-game-reviews/project-elite-review/"
+    description: "Game information page — coopboardgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: qwirkle
+    url: "https://en.wikipedia.org/wiki/Qwirkle"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: qwirkle
+    url: "https://qwirklegame.com/"
+    description: "Game information page — qwirklegame.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: qwirkle
+    url: "https://www.boardgamecentral.com/news/2011-spiel-des-jahres-qwirkle.html/"
+    description: "Game information page — boardgamecentral.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pitchcar
+    url: "https://en.ferti-games.com/pitchcar"
+    description: "Game information page — en.ferti-games.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pitchcar
+    url: "https://www.eagle-gryphon.com/products/pitchcar"
+    description: "Game information page — eagle-gryphon.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pitchcar
+    url: "https://www.ultraboardgames.com/pitchcar/"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: niagara
+    url: "https://en.wikipedia.org/wiki/Niagara_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: niagara
+    url: "https://gambiter.com/tabletop/Niagara_game.html"
+    description: "Game information page — gambiter.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: niagara
+    url: "https://www.zoch-verlag.com/zoch_en/categories/family-games/niagara-601124900-en.html"
+    description: "Game information page — zoch-verlag.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: railroad-tiles
+    url: "https://horribleguild.com/us/product/railroad-tiles/"
+    description: "Game information page — horribleguild.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: railroad-tiles
+    url: "https://www.meeplemountain.com/reviews/railroad-tiles/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: railway-rivals
+    url: "http://www.gamecabinet.com/sumo/Issue16.17.18/Rival.html"
+    description: "Game information page — gamecabinet.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: railway-rivals
+    url: "https://en.wikipedia.org/wiki/Railway_Rivals"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: railway-rivals
+    url: "https://opinionatedgamers.com/2015/06/02/sdj-re-reviews-6-dampfross-a-k-a-railway-rivals/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: honk
+    url: "https://sinisterfish.com/product/honk/"
+    description: "Sinister Fish Games publisher product page with game details and mechanics"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: honk
+    url: "https://www.miniaturemarket.com/sif00060.html"
+    description: "Miniature Market retailer listing with player count, playtime, and age details"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: honk
+    url: "https://bigbossbattle.com/honk-board-game-review/"
+    description: "Big Boss Battle review with mechanics overview and player experience assessment"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: honk
+    url: "https://www.dicetower.com/video/honk-review-goose-loose"
+    description: "Dice Tower video review of HONK!"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: return-to-dark-tower
+    url: "https://en.wikipedia.org/wiki/Return_to_Dark_Tower"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: return-to-dark-tower
+    url: "https://restorationgames.com/return-to-dark-tower/"
+    description: "Game information page — restorationgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: return-to-dark-tower
+    url: "https://www.dicetower.com/board-game/256680"
+    description: "Review or reference article — dicetower.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: riftforce
+    url: "https://capstone-games.com/products/riftforce"
+    description: "Publisher product page — capstone-games.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: riftforce
+    url: "https://spacebiff.com/2021/10/26/riftforce/"
+    description: "Game information page — spacebiff.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: rajas-of-the-ganges
+    url: "https://www.board-game.co.uk/rajas-of-the-ganges-review/"
+    description: "Game information page — board-game.co.uk"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: rajas-of-the-ganges
+    url: "https://www.meeplemountain.com/reviews/rajas-of-the-ganges/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: rajas-of-the-ganges
+    url: "https://www.ultraboardgames.com/rajas-of-the-ganges/game-rules.php"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: res-arcana
+    url: "https://therewillbe.games/articles-boardgame-reviews/6661-res-arcana-review"
+    description: "Game information page — therewillbe.games"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: res-arcana
+    url: "https://www.miniaturemarket.com/asmres01.html"
+    description: "Retailer product listing — miniaturemarket.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: res-arcana
+    url: "https://www.sandcastle-games.com/"
+    description: "Game information page — sandcastle-games.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: russian-railroads
+    url: "https://en.wikipedia.org/wiki/Russian_Railroads"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: russian-railroads
+    url: "https://opinionatedgamers.com/2014/07/14/russian-railroads/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: russian-railroads
+    url: "https://www.meeplemountain.com/reviews/russian-railroads/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: rock-hard-1977
+    url: "https://devirgames.com/rock-hard"
+    description: "Game information page — devirgames.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: rock-hard-1977
+    url: "https://en.wikipedia.org/wiki/Rock_Hard:_1977"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: rock-hard-1977
+    url: "https://www.meeplemountain.com/reviews/rock-hard-1977/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: sagrada
+    url: "https://en.wikipedia.org/wiki/Sagrada_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: sagrada
+    url: "https://floodgate.games/products/sagrada"
+    description: "Game information page — floodgate.games"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: sagrada
+    url: "https://tabletopgamesblog.com/2022/08/06/sagrada-saturday-review/"
+    description: "Game information page — tabletopgamesblog.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: rummikub
+    url: "https://en.wikipedia.org/wiki/Rummikub"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: rummikub
+    url: "https://oneboardfamily.com/time-machine-rummikub/"
+    description: "Game information page — oneboardfamily.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: rummikub
+    url: "https://www.geekyhobbies.com/rummikub-board-game-review-and-rules/"
+    description: "Game information page — geekyhobbies.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-united-multiverse
+    url: "https://www.cmon.com/products/marvel-united-multiverse/"
+    description: "Publisher product page — cmon.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-united-multiverse
+    url: "https://www.geeky-gadgets.com/marvel-united-multiverse-20-01-2023/"
+    description: "Game overview article — geeky-gadgets.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-dice-throne-missions
+    url: "https://shop.dicethrone.com/products/marvel-dice-throne-missions-1"
+    description: "Official Dice Throne store product page for Marvel Dice Throne Missions"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-dice-throne-missions
+    url: "https://gamewardbound.com/marvel-dice-throne-missions-first-impressions/"
+    description: "First impressions review of Marvel Dice Throne Missions"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-dice-throne-missions
+    url: "https://offtheshelfgames.com/dice-throne-missions-marvel"
+    description: "Off The Shelf Games listing for Marvel Dice Throne Missions"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: marvel-dice-throne-missions
+    url: "https://www.kickstarter.com/projects/dicethrone/dice-throne-x-men-marvel-co-op-missions"
+    description: "Kickstarter campaign page for Dice Throne X-Men and Marvel Co-op Missions"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: molly-house
+    url: "https://wehrlegig.com/products/molly-house"
+    description: "Publisher product page — wehrlegig.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: molly-house
+    url: "https://tabletopgamesblog.com/2025/05/24/molly-house-saturday-review/"
+    description: "Saturday Review — tabletopgamesblog.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: molly-house
+    url: "https://www.wargamer.com/molly-house/cole-wehrle-controversial"
+    description: "Designer interview on Wargamer — wargamer.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mr-jack
+    url: "https://www.brunocathala.com/mr-jack/"
+    description: "Designer's official page for Mr. Jack — brunocathala.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mr-jack
+    url: "https://www.dicetower.com/board-game/21763"
+    description: "Game overview and reviews — dicetower.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: mr-jack
+    url: "https://www.meeplemountain.com/boardgame/mr-jack/"
+    description: "Game details page — meeplemountain.com"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pitchcar
+    url: "https://en.ferti-games.com/pitchcar"
+    description: "Official Ferti publisher page for PitchCar"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pitchcar
+    url: "https://www.eagle-gryphon.com/products/pitchcar"
+    description: "Eagle-Gryphon Games North America distributor product page"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: pitchcar
+    url: "https://www.ultraboardgames.com/pitchcar/"
+    description: "UltraBoardGames fan reference page with rules overview"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: rock-hard-1977
+    url: "https://en.wikipedia.org/wiki/Rock_Hard:_1977"
+    description: "Wikipedia article with game overview, designer background, and mechanics"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: rock-hard-1977
+    url: "https://devirgames.com/rock-hard"
+    description: "Publisher product page — Devir Games"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: rock-hard-1977
+    url: "https://www.meeplemountain.com/reviews/rock-hard-1977/"
+    description: "Meeple Mountain review — Gen Con 2024 breakout, worker placement details"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: rock-hard-1977
+    url: "https://www.amazon.com/Devir-Rock-Hard-70s-Themed-Placement/dp/B0D2PDF34N"
+    description: "Amazon listing confirming player count, playtime, and age rating"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: railway-rivals
+    url: "https://en.wikipedia.org/wiki/Railway_Rivals"
+    description: "Wikipedia article with designer, publisher history, mechanics, and Spiel des Jahres details"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: railway-rivals
+    url: "https://opinionatedgamers.com/2015/06/02/sdj-re-reviews-6-dampfross-a-k-a-railway-rivals/"
+    description: "Opinionated Gamers retrospective review of Dampfross/Railway Rivals"
+  - timestamp: "2026-02-21T00:00:00Z"
+    game_id: railway-rivals
+    url: "http://www.gamecabinet.com/sumo/Issue16.17.18/Rival.html"
+    description: "Game Cabinet article on the full publishing history and map editions of Railway Rivals"

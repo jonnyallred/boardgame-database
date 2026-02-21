@@ -1,0 +1,86 @@
+id: my-city
+name: "My City"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min per episode)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Legacy
+  - Simultaneous Action
+  - Variable Setup
+  - Puzzle Solving
+  - Family
+  - Euro
+  - Reiner Knizia
+  - City Building
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Complete
+  - Clever
+  - Tension
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - KOSMOS
+artist:
+  - Brigitte Dürr
+  - Oliver Freudenreich
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  My City is a legacy tile-placement game for 2-4 players designed by Reiner Knizia,
+  published by KOSMOS in 2020. It earned a Spiel des Jahres nomination and was Knizia's
+  first foray into legacy game design.
+
+  Each player has their own personal board depicting a landscape split by a river, and
+  a set of 24 polyomino tiles in eight different Tetris-like shapes. Play is fully
+  simultaneous: each round a card is drawn from a shared deck revealing which tile shape
+  everyone must place, so there is no downtime or waiting. Tiles must be placed
+  adjacently on the grid, and scoring incentivizes covering trees, avoiding bare rocks,
+  and building along the river's edge.
+
+  The game unfolds across 24 episodes grouped into chapters, each introducing new rules,
+  stickers, and permanent changes to individual player boards as the city grows from its
+  preindustrial origins through industrialization. Decisions made in one session carry
+  forward, giving each player's city a unique history. For groups who prefer non-legacy
+  play, the double-sided game board includes an eternal mode for repeatable, standalone
+  sessions without any permanent changes.
+
+  The streamlined simultaneous-play format and gentle rules complexity make My City
+  accessible to families and casual gamers, while the evolving challenge of fitting
+  tiles into an increasingly developed and stickered board provides satisfying
+  spatial puzzle-solving throughout the campaign.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,80 @@
+id: federation
+name: "Federation"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate competition
+
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Area Control
+  - Voting
+  - Variable Setup
+  - Hand Management
+  - Euro
+  - Sci-Fi
+  - Eagle-Gryphon Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Agency
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Dimitri Perrier
+  - Matthieu Verdier
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Federation is a sci-fi euro game in which each player leads a fledgling interplanetary government
+  vying to join one of the powerful galactic federations. Over the course of five game years, players
+  must prove their worth through diplomatic influence and economic development, impressing the
+  bureaucrats who control access to federation membership.
+
+  The game's signature mechanic is a double-sided worker placement system: each time you place a
+  worker, you must choose which side faces up, determining whether that worker votes in favor of
+  legislation beneficial to your cause or contributes funding to local improvement projects. At the
+  end of each year, votes are tallied and the winning legislation grants points to players with the
+  highest influence in the relevant area. This creates a constant push-and-pull between short-term
+  resource gains and long-term political positioning.
+
+  Players compete for area majority across different sectors, manage influence tracks, and pursue
+  end-game bonus objectives, all while watching the legislative outcomes shift based on collective
+  worker placement decisions. The interactive nature of the voting mechanic ensures that player
+  choices are deeply intertwined, making Federation a notably social euro experience despite its
+  relatively clean rule set.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,87 @@
+id: sagrada
+name: "Sagrada"
+year: 2017
+
+# Relationships
+game_family: sagrada
+edition: null
+base_game: null
+expansions:
+  - sagrada-5-6-player-expansion
+  - sagrada-artisans
+  - sagrada-panorama
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Drafting
+  - Dice Rolling
+  - Pattern Building
+  - Set Collection
+  - Hand Management
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Masterful
+  - Tension
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Adrian Adamescu
+  - Daryl Andrews
+publisher:
+  - Floodgate Games
+artist:
+  - Conor McGoey
+playtime_minutes: 40
+min_playtime: 20
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Sagrada is a dice-drafting and placement game in which players compete as
+  artisans crafting the stained glass windows of the Sagrada Familia cathedral
+  in Barcelona. Each player works on a personal 4x5 grid window panel, placing
+  dice that represent colored glass pieces according to strict placement rules:
+  no two dice of the same color or the same number may be placed orthogonally
+  adjacent to each other, and each space on the window may carry a color or
+  shade restriction that must be honored.
+
+  Each round, a pool of dice is rolled and players take turns drafting one die
+  to place in their window. Players may spend Favor tokens to activate Tool
+  Cards that bend the normal rules in useful ways — re-rolling dice, moving
+  placed pieces, or changing a die's value. At the end of ten rounds, players
+  score points based on their Private Objective (favoring specific die colors
+  and values), shared Public Objectives (patterns of color or shade across the
+  window), remaining Favor tokens, and penalties for empty spaces.
+
+  The game also features a solo mode in which a single player races to complete
+  their window against a card-driven timer. Sagrada is praised for its
+  accessibility, beautiful table presence, and the satisfying tension between
+  pursuing objectives and working around placement constraints. It was included
+  in Wirecutter's Best Board Games list and featured in Ars Technica's 2019
+  gift guide.
+
+# Upgrades
+upgrades: []

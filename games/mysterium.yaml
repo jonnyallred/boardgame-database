@@ -1,0 +1,88 @@
+id: mysterium
+name: "Mysterium"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - mysterium-hidden-signs
+  - mysterium-secrets-and-lies
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~42 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light social
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Deduction
+  - Hand Management
+  - Social Deduction
+  - Party
+  - Family
+  - Mystery
+  - Horror
+  - Asmodee
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Mystery
+  - Connection
+  - Wonder
+  - Tension
+  - Discovery
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Oleksandr Nevskiy
+  - Oleg Sidorenko
+publisher:
+  - Libellud
+artist:
+  - Igor Buriakov
+  - Oleksandr Nevskiy
+playtime_minutes: 42
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Mysterium is a cooperative deduction game set in a haunted mansion where one player
+  takes the role of a ghost who was murdered under mysterious circumstances. Unable to
+  speak, the ghost communicates with the other players — a group of psychic mediums —
+  solely through illustrated dream vision cards depicting surreal imagery of people,
+  places, and objects.
+
+  Each medium must identify the correct suspect, location, and murder weapon associated
+  with their character by interpreting the dream cards the ghost sends them each round.
+  The ghost knows which cards to send but cannot speak or gesture, only deal cards from
+  their hand. Mediums discuss their interpretations openly and vote on which possibility
+  the ghost is pointing to.
+
+  The game unfolds over seven rounds (representing hours of a seance). In the final
+  phase, all mediums who correctly identified their clues receive a final vision pointing
+  to the true culprit, and the group votes together on who committed the crime.
+
+  Mysterium draws frequent comparisons to Dixit (for its dream-like artwork and
+  communication through imagery) and Clue (for its murder mystery deduction structure),
+  blending the two into a unique cooperative experience. The game was originally
+  designed in Ukraine and published by Igames before Libellud acquired the rights and
+  produced the widely distributed 2015 edition with new artwork.
+
+# Upgrades
+upgrades: []

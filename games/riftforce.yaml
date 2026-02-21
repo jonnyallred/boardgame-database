@@ -1,0 +1,82 @@
+id: riftforce
+name: "Riftforce"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - riftforce-beyond
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (20-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Card Drafting
+  - Area Control
+  - Variable Player Powers
+  - Asymmetric
+  - Take That
+  - Set Collection
+  - Euro
+  - Filler
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Unique
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Carlo Bortolini
+publisher:
+  - Capstone Games
+artist:
+  - Miguel Coimbra
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  Riftforce is a sharp two-player card dueling game in which each player drafts four of ten
+  available guilds — each representing a different elemental faction with a unique special
+  power — to forge their own asymmetric alliance before battle begins. The ten guilds offer
+  210 unique four-guild combinations per player, ensuring high replayability and fresh
+  matchups every game.
+
+  Both players deploy their guild's elementals along five neutral Rift locations that form
+  the battlefield between them. On each turn, a player must choose one of three actions:
+  play cards from hand to strengthen their position at locations along the Rift, spend
+  matching cards to activate powerful elemental attacks and combos, or draw cards to
+  replenish their options. The interplay between deploying for board presence and spending
+  cards for attacks is the central tension of the game.
+
+  Players score Riftforce points by destroying their opponent's elementals and by
+  controlling Rift locations. The first player to accumulate 12 Riftforce wins — though
+  their opponent may get one final turn to ensure equal opportunities. The game was
+  nominated for the 2021 Kennerspiel des Jahres and praised for hiding surprising strategic
+  depth beneath simple rules.
+
+# Upgrades
+upgrades: []

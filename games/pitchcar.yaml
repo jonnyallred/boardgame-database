@@ -1,0 +1,76 @@
+id: pitchcar
+name: "PitchCar"
+year: 1995
+
+# Relationships
+game_family: pitchcar
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30 min)
+rules_complexity: 0  # Preschool — learn in seconds
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 3  # Premium (wooden components, high price point)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dexterity
+  - Racing
+  - Modular Board
+  - Variable Setup
+  - Family
+  - Party
+  - Eagle-Gryphon Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Jean du Poël
+publisher:
+  - Ferti
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+# Description
+description: |
+  PitchCar is a dexterity racing game in which players flick wooden disc "cars"
+  around a modular wooden track they assemble before the race. The base set
+  includes 16 wooden track pieces — straights and curves — that can be combined
+  into a wide variety of circuit layouts totalling roughly 3.9 metres in length.
+  Each player places their car at the start and takes turns flicking it with a
+  finger; any car that flies off the track must be returned to its previous
+  position. The first player to complete the agreed number of laps wins.
+
+  Originally designed by Jean du Poël and published in France by Ferti in 1995,
+  the game is renowned for its beautiful all-wood construction. It supports 2–8
+  players and is accessible to children as young as 6, making it one of the most
+  universally enjoyed dexterity games. Nine expansions add tight curves,
+  crossroads, jumps, loops, long straights, and other track elements, greatly
+  expanding the possible circuit designs. Eagle-Gryphon Games distributes the
+  game in North America.
+
+# Upgrades
+upgrades: []

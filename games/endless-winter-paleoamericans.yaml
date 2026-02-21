@@ -1,0 +1,83 @@
+id: endless-winter-paleoamericans
+name: "Endless Winter: Paleoamericans"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Deck Building
+  - Area Control
+  - Set Collection
+  - Tile Placement
+  - Hand Management
+  - Variable Setup
+  - Variable Player Powers
+  - Euro
+  - Historical
+  - Ancient
+  - Nature
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Discovery
+  - Tension
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Stan Kordonskiy
+publisher:
+  - Fantasia Games
+artist:
+  - Mihajlo Dimitrievski
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Endless Winter: Paleoamericans is a euro-style strategy game set in North America around
+  10,000 BCE, where players guide the development of their tribes across several generations —
+  from nomadic hunter-gatherers to prosperous tribal societies. Tribes migrate and settle new
+  lands, establish cultural traditions, hunt paleolithic megafauna, and build everlasting
+  megalithic structures.
+
+  The game combines worker placement and deck building in an interwoven way: each round,
+  players send tribe members to action spaces and pay for those actions by playing cards and
+  spending resources. Tribe cards grant additional labor, while Culture cards provide unique
+  ongoing effects and combo potential. Additional systems include area influence on a modular
+  hex-tile map, set collection of animal hunt cards, and tile placement puzzles for building
+  megaliths.
+
+  Known for synthesizing many beloved euro mechanisms into a cohesive, combo-rich experience,
+  Endless Winter rewards players who build efficient engines while offering enough accessible
+  systems to feel manageable from the start. Higher player counts can introduce downtime as
+  players construct elaborate turns. A robust solo mode designed by Drake Villareal is included.
+
+# Upgrades
+upgrades: []

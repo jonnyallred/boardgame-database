@@ -1,0 +1,77 @@
+id: mississippi-queen
+name: "Mississippi Queen"
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - mississippi-queen-the-black-rose
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Racing
+  - Modular Board
+  - Resource Management
+  - Action Points
+  - Variable Setup
+  - Family
+  - Euro
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Rivalry
+  - Progress
+
+# Player counts
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Werner Hodel
+publisher:
+  - Rio Grande Games
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Mississippi Queen is a riverboat racing game in which 3 to 5 players captain paddle steamers
+  competing to be the first to reach New Orleans. The river is revealed tile by tile as the
+  steamboats move downstream, so no one knows what twists and turns lie ahead.
+
+  Each turn, a player may increase or decrease their speed by 1 for free; further adjustments
+  cost coal. Managing a limited coal supply is the heart of the game — going too fast makes it
+  impossible to navigate sharp bends, while falling behind means rivals collect passengers first.
+  Players must stop at two passenger docks along the river, picking up one passenger each time,
+  and be the first to arrive at the final dock with both passengers aboard and a speed of exactly 1.
+
+  The modular hex-tile river board creates a different race course every game, ensuring high
+  replayability. Mississippi Queen won the Spiel des Jahres award in 1997, praised for its elegant
+  blend of accessible rules and meaningful decisions around speed and resource management. The
+  Black Rose expansion adds a sixth player and a pirate ship that can steal passengers, adding
+  a chaotic but fun layer of interaction.
+
+# Upgrades
+upgrades: []

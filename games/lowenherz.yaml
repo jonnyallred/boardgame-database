@@ -1,0 +1,87 @@
+id: lowenherz
+name: "Löwenherz"
+year: 1997
+
+# Relationships
+game_family: lowenherz
+edition: "1997 original"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (~90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Auctions/Bidding
+  - Negotiation
+  - Modular Board
+  - Hand Management
+  - Variable Setup
+  - Euro
+  - Wargame
+  - Historical
+  - Medieval
+  - Klaus Teuber
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+  - Powerful
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Klaus Teuber
+publisher:
+  - Goldsieber
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Löwenherz (German for "Lionheart") is a territory-control game set in medieval Europe, designed
+  by Klaus Teuber and published by Goldsieber in 1997. It won the Deutscher Spiele Preis in 1997
+  and was nominated for the Spiel des Jahres, making it one of Teuber's most acclaimed designs
+  alongside The Settlers of Catan and Entdecker.
+
+  Players take on the roles of rival regents seeking to claim and control land in a fragmented
+  kingdom. The game is played on a modular board assembled from smaller tiles, creating a different
+  map each session. Each player begins with castles, knights, and a starting manor surrounded by
+  walls. The goal is to enclose additional territories with walls, with each enclosed region
+  scoring points based on its size and the castles it contains.
+
+  The heart of the game is its card-driven action system. Each round, an action card is revealed
+  showing three possible actions — such as building walls, moving knights, gaining money, or
+  attacking — and players simultaneously bid or negotiate to claim their preferred action. When
+  two or more players select the same action, they must negotiate, with one player potentially
+  compensating the other to resolve the conflict. This creates a rich layer of diplomacy and
+  deal-making alongside the spatial puzzle of territory enclosure.
+
+  The card deck is cleverly structured so that the types of actions available shift as the game
+  progresses: early cards favour economic development while later cards introduce more aggressive
+  military options. This pacing rewards players who understand the arc of the game. A 2003 revised
+  edition titled Domaine (published in German as Löwenherz: Der König kehrt zurück by Kosmos and
+  in English by Mayfair Games) streamlined the design and won the Schweizer Spielepreis.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,80 @@
+id: pictures
+name: "Pictures"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~30 min)
+rules_complexity: 0  # Preschool-simple
+strategic_depth: 0  # Reflex/creative
+feel: 2  # Moderate social
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Simultaneous Action
+  - Pattern Building
+  - Party
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Creative
+  - Connection
+  - Wonder
+  - Clever
+
+# Player counts
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Christian Stöhr
+  - Daniela Stöhr
+publisher:
+  - PD-Verlag
+  - Rio Grande Games
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+# Description
+description: |
+  Pictures is a creative party game in which players simultaneously attempt to
+  recreate a secret photograph using one of five very different sets of components:
+  shoelaces, wooden sticks and stones, colored cubes, icon cards, or building
+  blocks. A 4x4 grid of photo cards is laid out on the table, and each player
+  draws a coordinate chip from a bag indicating which photo they must represent.
+  Using only their assigned set of materials, they build or arrange an
+  abstract representation of the image, then all players try to guess which
+  photo each other person depicted.
+
+  Players score points both for correctly guessing others' pictures and for
+  having their own picture guessed. The game lasts five rounds, rotating
+  through all material sets so every player experiences each one. The
+  constraint of working with unconventional, limited materials is the heart
+  of the design — a shoelace can suggest a horizon, a road, or a smile, while
+  a handful of stones can become a mountain range or a face.
+
+  Pictures won the 2020 Spiel des Jahres award, praised by the jury for its
+  elegance, accessibility, and the way it sparks creativity and laughter
+  across all types of players. Its simultaneous play keeps everyone engaged
+  throughout and eliminates downtime entirely.
+
+# Upgrades
+upgrades: []

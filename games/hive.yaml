@@ -1,0 +1,81 @@
+id: hive
+name: "Hive"
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - hive-pocket
+  - hive-mosquito
+  - hive-ladybug
+  - hive-pillbug
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~20 min)
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Abstract
+  - Pattern Building
+  - Puzzle Solving
+  - No Math
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - John Yianni
+publisher:
+  - Gen42 Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 9
+
+# Description
+description: |
+  Hive is a two-player abstract strategy game in which players take turns placing and
+  moving hexagonal tiles depicting insects to trap the opponent's Queen Bee. The game
+  requires no board — pieces are played onto any flat surface, forming the "hive" as
+  they are placed. Each player controls 11 tiles in contrasting colors, each depicting
+  one of five insect types: the Queen Bee, Soldier Ant, Grasshopper, Spider, and Beetle.
+
+  Every insect moves differently: the Queen Bee slides one space, the Beetle can crawl
+  on top of the hive to block movement and capture spaces, the Grasshopper leaps over
+  connected pieces to the first vacant space beyond, the Spider moves exactly three
+  spaces along the hive's edge, and the Soldier Ant can move to any position around
+  the hive. The critical constraint is the "One Hive Rule" — no piece may move if
+  doing so would split the hive into two disconnected groups.
+
+  Players must place their Queen Bee within their first four turns, after which it
+  becomes the key target. Whoever completely surrounds the opponent's Queen Bee first
+  wins. Hive won the Mensa Select award and is celebrated for its portability (no
+  board required), fast setup, and deep tactical interplay despite its concise ruleset.
+  Expansions add new insect pieces — the Mosquito, Ladybug, and Pillbug — each
+  introducing additional movement abilities that further enrich the strategic options.
+
+# Upgrades
+upgrades: []

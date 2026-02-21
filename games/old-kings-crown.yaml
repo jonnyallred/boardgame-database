@@ -1,0 +1,87 @@
+id: old-kings-crown
+name: "The Old King's Crown"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - old-kings-crown-songs-of-home
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Hand Management
+  - Simultaneous Action
+  - Bluffing
+  - Auctions/Bidding
+  - Asymmetric
+  - Variable Player Powers
+  - Card Drafting
+  - Medieval
+  - Fantasy
+  - Euro
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Masterful
+  - Powerful
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Pablo Clark
+publisher:
+  - Eerie Idol Games
+artist:
+  - Pablo Clark
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  The Old King's Crown is a card-driven area control game of strategy, bluffing,
+  and intrigue set in an ancient, crumbling kingdom. Players take on the roles of
+  rival heirs to a vacant throne, commanding one of four asymmetric factions: the
+  aristocratic Nobility, the aggressive Clans, the scheming Uprising, or the
+  cultish Gathering.
+
+  Each round, players move their Herald to locations on the modular board, staking
+  a claim. They then simultaneously select cards from their hand and place them
+  face-down onto contested regions. When revealed, these cards trigger powerful
+  effects that can eliminate opponents' cards, flank into adjacent regions, or
+  alter the outcome of clashes in surprising ways. Winning regions earns influence
+  and resources, while acquiring Kingdom Cards through a clever bidding system
+  provides persistent effects that reshape a player's strategy.
+
+  While all factions begin with mechanically identical starter decks, each can
+  invest lore into faction-specific upgrade cards that unlock distinct playstyles
+  and combo chains. The first player to reach the influence threshold for their
+  player count and hold it at the end of a round wins. A robust solo mode, designed
+  by Richard Wilkins (Pax Pamir 2nd Edition, Oath), is included. The Songs of Home
+  expansion adds new factions and neutral Kingdom cards.
+
+# Upgrades
+upgrades: []

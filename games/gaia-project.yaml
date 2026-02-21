@@ -1,0 +1,89 @@
+id: gaia-project
+name: "Gaia Project"
+year: 2017
+
+# Relationships
+game_family: terra-mystica
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (60-150 min)
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Variable Player Powers
+  - Tech Tree
+  - Network Building
+  - Resource Management
+  - Modular Board
+  - Variable Setup
+  - Action Points
+  - Hex Map
+  - Euro
+  - Sci-Fi
+  - Space
+  - Civilization
+  - Capstone Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Masterful
+  - Rivalry
+  - Clever
+  - Powerful
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Helge Ostertag
+  - Jens Drögemüller
+publisher:
+  - Feuerland Spiele
+  - Capstone Games
+artist:
+  - Dennis Lohausen
+playtime_minutes: 100
+min_playtime: 60
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Gaia Project is a deep strategic successor to Terra Mystica, transporting its
+  asymmetric faction-building gameplay into a science-fiction galaxy setting. Fourteen
+  distinct alien factions vie for control of a modular hex-grid galaxy, each bound to
+  a specific planet type and requiring terraforming to colonize new worlds.
+
+  Players expand their civilization by building mines, trading posts, research labs,
+  academies, and planetary institutes across the galaxy. A key innovation over Terra
+  Mystica is the multi-track research board, where players advance along six technology
+  tracks — Terraforming, Navigation, Artificial Intelligence, Gaiaforming, Economy, and
+  Science — unlocking powerful upgrades and bonuses. Gaiaforming allows certain factions
+  to convert barren Transdimensional planets into habitable Gaia worlds.
+
+  Power management through three power bowls remains central to the game, alongside a
+  rich economy of ore, credits, and knowledge. Players score points via round bonuses,
+  end-game scoring tiles, research track milestones, federation tokens, and the final
+  tally of structures, research levels, and alliances. With highly asymmetric faction
+  abilities, a modular board with variable setup, and interlocking systems, Gaia Project
+  rewards deep strategic planning and repeated plays. It is widely considered one of
+  the most strategically complex Eurogames ever published.
+
+# Upgrades
+upgrades: []

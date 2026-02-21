@@ -1,0 +1,76 @@
+id: einfach-genial-3d
+name: "Einfach Genial 3D"
+year: 2024
+
+# Relationships
+game_family: ingenious
+edition: 3D
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-40 min)
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Abstract
+  - Pattern Building
+  - Set Collection
+  - Reiner Knizia
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - Kosmos
+artist: []
+playtime_minutes: 35
+min_playtime: 30
+max_playtime: 40
+min_age: 8
+
+# Description
+description: |
+  Einfach Genial 3D is a 3D reimagining of Reiner Knizia's award-winning abstract
+  game Ingenious (Einfach Genial). Players take turns placing colored domino-style
+  hex tiles onto a compact triangular board, scoring points for each matching color
+  in a straight line extending from the newly placed tile in up to five directions.
+  The key scoring rule remains: a player's final score is determined by their
+  lowest-scoring color, so balanced play across all six colors is essential.
+
+  The defining innovation is vertical stacking. Tiles are physically designed so
+  they cannot rest flush on a single tile beneath them — a new piece must bridge
+  two existing tiles to build upward. This creates a genuine three-dimensional
+  puzzle: every placement must account for both the flat scoring lines and the
+  emerging topography of the board. The board is roughly one-quarter the size of
+  the original Ingenious board, and players draw from a hand of five tiles (rather
+  than seven), keeping the game tight and decision-dense.
+
+  Reviewers have praised Einfach Genial 3D as the most strategically demanding
+  version of the Ingenious system, offering fresh depth for fans of the original
+  while remaining accessible to newcomers. A full game plays in 30–40 minutes.
+
+# Upgrades
+upgrades: []

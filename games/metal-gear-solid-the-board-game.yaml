@@ -1,0 +1,93 @@
+id: metal-gear-solid-the-board-game
+name: "Metal Gear Solid: The Board Game"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 1  # Light (mostly cooperative)
+value: 3  # Premium (miniatures game)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Action Points
+  - Variable Player Powers
+  - Asymmetric
+  - Modular Board
+  - Hidden Movement
+  - Narrative Heavy
+  - Espionage
+  - CMON
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Masterful
+  - Discovery
+  - Powerful
+  - Mystery
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Emerson Matsuuchi
+publisher:
+  - CMON
+artist:
+  - Jose David Lanza Cebrian
+  - Marco Checchetto
+  - Fabio de Castro
+  - Max Duarte
+  - Julia Ferrari
+  - Mathieu Harlaut
+  - Saeed Jalabi
+  - Sebastian Koziner
+  - Kenneth Loh
+  - Henning Ludvigsen
+  - Aragorn Marks
+  - Francesco Orru
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Metal Gear Solid: The Board Game is a cooperative stealth miniatures game for 1-4 players
+  that faithfully adapts Konami's iconic video game franchise. Players take on the roles of
+  Solid Snake, Meryl, Gray Fox, and Otacon — each with unique asymmetric abilities — as they
+  infiltrate the Shadow Moses nuclear facility across 14 campaign missions that follow the
+  original game's story beat-for-beat.
+
+  The core gameplay revolves around stealth. Guards patrol in semi-predictable patterns driven
+  by an AI behavior card deck, and players must use cover, line-of-sight mechanics, and
+  character-specific skills to avoid detection. Snake specializes in stealth takedowns, Meryl
+  can disguise herself to slip past guards unnoticed, Gray Fox starts with his High-Frequency
+  Blade, and Otacon brings a unique Hack deck. Being spotted triggers an alert state that
+  dramatically increases the danger, forcing players to adapt on the fly.
+
+  Action points govern each player's turn, creating a tight tactical puzzle each round. The
+  game also includes 6 standalone VR Missions for quicker play sessions. Originally developed
+  by IDW Games and cancelled in 2021, the project was revived by CMON and released in
+  January 2025, earning praise for its faithful adaptation of the video game's tension and
+  stealth-focused mechanics.
+
+# Upgrades
+upgrades: []

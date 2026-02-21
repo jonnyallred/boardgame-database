@@ -1,0 +1,85 @@
+id: railroad-tiles
+name: "Railroad Tiles"
+year: 2025
+
+# Relationships
+game_family: railroad-ink
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Drafting
+  - Pattern Building
+  - Route Building
+  - Set Collection
+  - Euro
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Progress
+  - Tension
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Hjalmar Hach
+  - Lorenzo Silva
+publisher:
+  - Horrible Guild
+artist:
+  - Francesco de Benedittis
+  - Marta Tranquilli
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 35
+min_age: 8
+
+# Description
+description: |
+  Railroad Tiles is a tile placement game and spiritual successor to the Railroad Ink
+  roll-and-write series, published by Horrible Guild in 2025. Designed by Hjalmar Hach
+  and Lorenzo Silva, it converts the pen-and-paper formula into a tactile drafting and
+  tile-laying experience for 1-4 players.
+
+  The game is played over eight rounds. At the start of each round, players draft tiles
+  from a communal pool, selecting from route tiles that depict roads, railways, and
+  connections. Once drafted, each player places their chosen tiles in front of them,
+  building a personal grid of interlocking routes and trying to form the most efficient
+  network possible.
+
+  Scoring rewards connections: the more pieces of the same type a new tile connects to,
+  the more points it generates. Players can also populate their landscapes by placing
+  cars, trains, or travelers on tiles that have free space, adding additional scoring
+  opportunities. End-game bonuses reward arranging tiles into a solid rectangle without
+  gaps and building clusters of three or more adjacent city tiles.
+
+  Railroad Tiles adds a layer of interactivity over Railroad Ink through the shared
+  drafting pool, meaning players compete for the same tiles rather than all working
+  from an identical draw. This makes it a slightly more competitive and interactive
+  experience while retaining the accessible, breezy feel of the original series.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,75 @@
+id: happy-salmon
+name: "Happy Salmon"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (under 5 minutes)
+rules_complexity: 0  # Preschool - essentially no rules to learn
+strategic_depth: 0  # Reflex - pure speed and chaos
+feel: 3  # Competitive - race to empty your hand
+value: 1  # Budget - very affordable
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Real-time
+  - Hand Management
+  - Simultaneous Action
+  - Party
+  - Family
+  - Filler
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Connection
+  - Rivalry
+
+# Player counts
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Ken Gruhl
+  - Quentin Weir
+publisher:
+  - North Star Games
+artist: []
+playtime_minutes: 2
+min_playtime: 1
+max_playtime: 5
+min_age: 6
+
+# Description
+description: |
+  Happy Salmon is an ultra-fast, chaotic real-time card game where everyone
+  plays simultaneously — there are no turns. Each player holds a deck of cards,
+  each showing one of four actions: High Five, Pound It (fist bump), Switcheroo
+  (swap places), or Happy Salmon (a forearm-to-forearm fish-flopping gesture).
+  On the count of three, all players flip their decks face up and immediately
+  start shouting out their top card's action, frantically searching for a
+  partner doing the same action. When two players match, they perform the
+  action together and both discard that card, revealing the next. The first
+  player to discard their entire hand wins.
+
+  A full game lasts under two minutes, making it an ideal icebreaker or
+  between-game palate cleanser. Originally published by North Star Games in
+  2016, it was later acquired and republished by Exploding Kittens with an
+  expanded player count of up to 8. The game was designed by Ken Gruhl and
+  Quentin Weir and has become a staple party game for all ages.
+
+# Upgrades
+upgrades: []

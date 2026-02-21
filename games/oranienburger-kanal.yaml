@@ -1,0 +1,83 @@
+id: oranienburger-kanal
+name: "Oranienburger Kanal"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (45-90 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Hand Management
+  - Network Building
+  - Resource Management
+  - Route Building
+  - Engine Building
+  - Variable Player Powers
+  - Cooperative
+  - Euro
+  - Historical
+  - Uwe Rosenberg
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Masterful
+  - Complete
+  - Tension
+
+# Player counts
+possible_counts: [1, 2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Spielworxx
+artist: []
+playtime_minutes: 67
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Oranienburger Kanal is a 1-2 player strategy game set during the industrialization of 19th-century
+  Brandenburg, Germany. The Oranienburg Canal — built between 1832 and 1837 to bypass difficult
+  stretches of the Havel River — became a hub for mills and industries, and players take on the role
+  of developers shaping this historical region.
+
+  Players build new industries represented by cards, each with a unique ability that activates under
+  specific conditions. A structure fires its ability once when it is fully surrounded by routes
+  (pathways, streets, railways, and canals), and again when connected to at least two neighboring
+  structures via bridges. This dual-activation system rewards careful spatial planning and creates a
+  satisfying engine-building loop.
+
+  Through worker placement and resource management, players erect buildings, lay infrastructure, and
+  construct bridges to connect their industrial network. Bridges are the critical linchpin — a
+  well-timed bridge placement can chain multiple activations and unlock powerful combos. At the end
+  of the game, the player with the most valuable industrial area and strongest infrastructure wins.
+
+  The game also features a full solo mode. Oranienburger Kanal won the International Gamers Award
+  in 2023 in the two-player category, praised for its elegant interlocking systems and the way it
+  captures Rosenberg's signature puzzle-like design sensibility.
+
+# Upgrades
+upgrades: []

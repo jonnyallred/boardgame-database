@@ -1,0 +1,82 @@
+id: draftosaurus
+name: "Draftosaurus"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~15 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Drafting
+  - Set Collection
+  - Simultaneous Action
+  - Dice Rolling
+  - Tile Placement
+  - Family
+  - Gateway
+  - Party
+  - Antoine Bauza
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Lucky
+  - Humor
+  - Rivalry
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Antoine Bauza
+  - Corentin Lebrat
+  - Ludovic Maublanc
+  - Theo Riviere
+publisher:
+  - Ankama
+artist:
+  - Jrecall
+playtime_minutes: 15
+min_playtime: 15
+max_playtime: 20
+min_age: 8
+
+# Description
+description: |
+  Draftosaurus is a fast and playful dinosaur drafting game for 2-5 players. Each round,
+  players draw six dinosaur meeples from a bag and simultaneously draft one at a time,
+  passing the remainder to the next player. The twist: one player rolls a placement die
+  each turn, restricting where all other players may place their chosen dinosaur in their
+  personal zoo board — only the die roller is free to place anywhere.
+
+  Each player's zoo board is divided into themed enclosures with unique scoring rules:
+  some score for matching species, others for mixed groups, pairs, or single specimens
+  flanked by T-Rex tokens. Placed dinosaurs score at game end based on the conditions
+  of whichever pen they occupy.
+
+  The game plays over two rounds (four rounds at 2 players), making a typical session
+  last about 15 minutes. Draftosaurus is notable for its tactile dinosaur meeples, its
+  highly accessible rules, and its ability to introduce the drafting mechanic to new
+  players in the most charming possible format. Designed by a four-person team including
+  Antoine Bauza, it won the As d'Or — Jeu de l'Année (France) in 2020.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,82 @@
+id: exit-the-game
+name: "EXIT: The Game"
+year: 2016
+
+# Relationships
+game_family: exit-the-game
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (60-90 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light cooperative
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Deduction
+  - Party
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Mystery
+  - Tension
+  - Connection
+  - Discovery
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - KOSMOS
+artist:
+  - Silvia Christoph
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  EXIT: The Game is an award-winning series of escape room games in a box,
+  designed by husband-and-wife duo Inka and Markus Brand. First published by
+  KOSMOS in Germany in 2016 (and in English by Thames & Kosmos), the series
+  won the prestigious Kennerspiel des Jahres award in 2017.
+
+  Players work together to solve a series of interlocking riddles, puzzles,
+  and logic challenges, racing against the clock to "escape" before time runs
+  out. The game is played with a deck of cards, a code dial, and a booklet of
+  puzzles — no app required. Each correct solution reveals the next clue,
+  building toward a final escape.
+
+  A distinctive feature of the series is that many titles are intentionally
+  destructive: players may be required to cut, fold, or write on components
+  as part of solving puzzles, making each copy a single-use experience. The
+  faster the group escapes and the fewer hints they use, the higher their
+  final score.
+
+  Each title in the series features a different setting and difficulty level,
+  ranging from "Beginner" to "Expert." Popular entries include The Abandoned
+  Cabin, The Secret Lab, The Pharaoh's Tomb, and dozens more. The series is
+  widely credited with popularizing the at-home escape room genre in tabletop
+  gaming.
+
+# Upgrades
+upgrades: []

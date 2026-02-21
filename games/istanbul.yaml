@@ -1,0 +1,90 @@
+id: istanbul
+name: "Istanbul"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - istanbul-mocha-and-baksheesh
+  - istanbul-letters-and-seals
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (40-60 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Modular Board
+  - Variable Setup
+  - Set Collection
+  - Resource Management
+  - Route Building
+  - Hand Management
+  - Economic
+  - Euro
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Rüdiger Dorn
+publisher:
+  - Pegasus Spiele
+artist:
+  - Andreas Resch
+playtime_minutes: 50
+min_playtime: 40
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Istanbul is a Euro-style strategy game set in the bustling bazaar of Istanbul,
+  where players take the role of merchants racing to be the first to collect five
+  rubies. Each merchant has a team of four assistants who must be dispatched across
+  a 4x4 grid of location tiles — and then retrieved — to enable actions at each
+  destination.
+
+  On their turn, players move their merchant (and any remaining stack of assistants)
+  to an adjacent or diagonal tile. If no assistant is already there, they drop one
+  off and immediately take the location's action — filling their wheelbarrow with
+  goods, expanding wheelbarrow capacity, buying or trading goods for rubies, or
+  gaining special abilities. If one of their assistants is already at a tile, they
+  pick it back up and still take the action, but now they have one more assistant
+  in their stack.
+
+  This push-pull mechanic of deploying and recovering assistants creates a spatial
+  puzzle: players need to plan efficient routes around the bazaar to always have an
+  assistant available when needed, while also racing rivals to the most valuable
+  locations. The modular board ensures high replay value — tiles are shuffled and
+  laid out differently each game.
+
+  Istanbul won the Kennerspiel des Jahres (Connoisseur's Game of the Year) in 2014
+  and the Deutscher Spiele Preis the same year. It has been praised for its elegant
+  blend of accessibility and strategic depth, with each decision carrying meaningful
+  consequences without overwhelming new players.
+
+# Upgrades
+upgrades: []

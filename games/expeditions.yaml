@@ -1,0 +1,86 @@
+id: expeditions
+name: "Expeditions"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - expeditions-gears-of-corruption
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (~90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 2  # Moderate (competitive but no direct conflict)
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Hand Management
+  - Card Drafting
+  - Modular Board
+  - Variable Player Powers
+  - Euro
+  - Historical
+  - Steampunk
+  - Jamey Stegmaier
+  - Stonemaier Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Discovery
+  - Clever
+  - Masterful
+  - Tension
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Jamey Stegmaier
+publisher:
+  - Stonemaier Games
+artist:
+  - Jakub Rozalski
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Expeditions is a competitive, card-driven engine-building game of exploration set in an
+  alternate history 1920s Siberia. A massive meteorite has crashed near the Tunguska River,
+  releasing ancient corruption across the land. Players command dieselpunk mechs and animal
+  companions, venturing into the wilderness to defeat corruption and claim the spoils of the
+  expedition for personal profit.
+
+  A standalone sequel to Scythe, Expeditions shares the same richly illustrated world by
+  artist Jakub Rozalski but introduces a completely different ruleset. Each turn, players
+  choose two of three core actions — Move, Gather, and Play — with the constraint that no
+  action can be repeated from the previous turn. Playing cards from hand adds them to an
+  active row, generating resources and abilities. Taking a rest turn forfeits actions but
+  allows reclaiming all played cards, enabling powerful multi-action turns on the following
+  round.
+
+  Players build engines through workers, items, meteorites, and quests that augment their
+  mech's capabilities. The hexagonal modular board reveals new location tiles as mechs
+  explore, and spending power and guile allows players to vanquish corruption tokens worth
+  victory points. Unlike Scythe, Expeditions features no direct player conflict — competition
+  is indirect through map positioning and resource contention. The game scales well from solo
+  play to five players, though the community consensus is that three or four players provides
+  the best experience.
+
+# Upgrades
+upgrades: []

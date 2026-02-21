@@ -1,0 +1,83 @@
+id: legacy-of-yu
+name: "Legacy of Yu"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min per session)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 0  # Solitary (solo only)
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Hand Management
+  - Campaign Mode
+  - Legacy
+  - Variable Setup
+  - Variable Player Powers
+  - Narrative Heavy
+  - Cooperative
+  - Historical
+  - Ancient
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Tension
+  - Discovery
+  - Masterful
+  - Agency
+
+# Player counts
+possible_counts: [1]
+true_counts: [1]
+
+# Metadata
+designer:
+  - Shem Phillips
+publisher:
+  - Renegade Game Studios
+artist:
+  - Sam Phillips
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+# Description
+description: |
+  Legacy of Yu is a fully-resettable solo campaign game set in ancient China during
+  the reign of Emperor Yao. Players step into the role of Yu the Great, the legendary
+  hero of the Xia Dynasty tasked with building canals to redirect the catastrophic
+  floods of the Yellow River while simultaneously defending a growing village against
+  encroaching barbarian tribes.
+
+  The campaign ends when you accumulate either seven wins or seven losses across
+  individual game sessions. Each session adds new story elements and gameplay
+  components, with a self-balancing difficulty system that makes the game harder
+  after victories and slightly easier after defeats. Unlike traditional legacy games,
+  all components are fully resettable — nothing is destroyed — allowing the entire
+  campaign to be replayed, though branching narrative choices and randomized elements
+  ensure subsequent playthroughs feel distinct.
+
+  Core gameplay revolves around worker placement on a modular board, hand management
+  of townsfolk cards for resource generation, and making difficult decisions under
+  mounting pressure from both floods and barbarian raids. The game was designed
+  exclusively for solo play and was originally funded via Kickstarter before receiving
+  wide retail distribution through Renegade Game Studios.
+
+# Upgrades
+upgrades: []

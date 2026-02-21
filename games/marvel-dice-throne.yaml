@@ -1,0 +1,86 @@
+id: marvel-dice-throne
+name: "Marvel Dice Throne"
+year: 2022
+
+# Relationships
+game_family: dice-throne
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (20-40 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Hand Management
+  - Press Your Luck
+  - Variable Player Powers
+  - Asymmetric
+  - Take That
+  - Simultaneous Action
+  - Family
+  - Ameritrash
+  - Marvel
+  - Superheroes
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Powerful
+  - Rivalry
+  - Tension
+  - Unique
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Gavan Brown
+  - Nate Chatellier
+  - Manny Trembley
+publisher:
+  - Roxley Games
+  - The Op
+artist:
+  - Damien Mammoliti
+  - Shane Bogardus
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+# Description
+description: |
+  Marvel Dice Throne is a fast-playing dice and card dueling game in which each
+  player takes the role of one of eight Marvel heroes — Black Panther, Captain
+  Marvel, Black Widow, Scarlet Witch, Loki, Thor, Doctor Strange, or Miles
+  Morales Spider-Man — each with a unique set of five custom dice and a
+  dedicated deck of ability cards.
+
+  Often described as "Yahtzee meets Magic: The Gathering," players take turns
+  rolling and re-rolling their hero's dice, trying to hit specific combinations
+  that trigger attacks and special abilities. Combat points earned each round
+  can be spent on cards that grant permanent hero upgrades, apply status effects
+  to opponents, or manipulate dice results, providing meaningful decisions that
+  layer atop the luck of the roll.
+
+  The game supports multiple formats: 1v1, 2v2, 3v3, 2v2v2, or free-for-all,
+  with each hero box sold separately or in multi-hero sets. Because each hero
+  plays completely differently, the game rewards learning the distinct rhythm of
+  your chosen character while adapting to your opponent's capabilities.
+
+# Upgrades
+upgrades: []

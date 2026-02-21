@@ -1,0 +1,73 @@
+id: russian-railroads
+name: "Russian Railroads"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (90-120 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Engine Building
+  - Route Building
+  - Network Building
+  - Resource Management
+  - Variable Player Powers
+  - Euro
+  - Economic
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Helmut Ohley
+  - Leonhard Orgler
+publisher:
+  - Hans im Glück
+  - Z-Man Games
+artist:
+  - Klemens Franz
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Russian Railroads is a heavy Euro worker placement game set in the era of Russian railway expansion under Tsar Alexander II. Players take on the roles of railway magnates competing to build the most impressive rail network across the Russian Empire.
+
+  Each player manages their own board depicting three rail lines: the massive Trans-Siberian Railroad and two smaller lines connecting Moscow to St. Petersburg and Kiev. Over six or seven rounds, players advance their railways by placing girders (I-beam shaped cubes) along tracks, upgrading locomotives, hiring engineers, and establishing factories that generate ongoing bonuses.
+
+  The central action board features worker placement spaces with a clever variable cost mechanism: the first player to claim a space pays fewer workers than subsequent players. A rotating cast of engineer cards introduces temporary action spaces each round, keeping the game fresh and requiring players to adapt their strategies. At the end of each round, players score victory points based on how far their railways have advanced and how powerful their locomotives are.
+
+  The engine-building elements are central to the game's appeal — early investments in factories, engineers, and industrialization pay off exponentially in later rounds as players optimize their production chains. The game rewards long-term planning while creating meaningful tension as players race to claim key action spaces before their opponents.
+
+  Russian Railroads won the Deutscher Spiele Preis in 2014 and the International Gamers Award, cementing its status as one of the defining heavy Euro games of its era. A standalone expansion, German Railroads (2014), added new maps and mechanics. The game was later republished in a revised edition as Ultimate Railroads by Z-Man Games.
+
+# Upgrades
+upgrades: []
