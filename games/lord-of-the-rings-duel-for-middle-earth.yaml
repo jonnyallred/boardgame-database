@@ -1,0 +1,84 @@
+id: lord-of-the-rings-duel-for-middle-earth
+name: "The Lord of the Rings: Duel for Middle-earth"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Hand Management
+  - Set Collection
+  - Asymmetric
+  - Variable Player Powers
+  - 1 vs Many
+  - Euro
+  - Family
+  - Antoine Bauza
+  - Bruno Cathala
+  - Fantasy
+  - Lord of the Rings
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Wonder
+  - Agency
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Antoine Bauza
+  - Bruno Cathala
+publisher:
+  - Asmodee
+artist:
+  - Vincent Dutrait
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  The Lord of the Rings: Duel for Middle-earth is a two-player card-driven game in which
+  one player embodies the Fellowship of the Ring, seeking to protect the free peoples and
+  destroy the One Ring, while the other plays as Sauron, attempting to capture Frodo and
+  Sam and overwhelm Middle-earth with his evil hordes.
+
+  Designed by Antoine Bauza and Bruno Cathala and illustrated by Vincent Dutrait, the game
+  draws spiritual inspiration from 7 Wonders Duel, adapting its competitive card-tableau
+  structure to Tolkien's lore. A game unfolds over three successive chapters. On each turn,
+  players strengthen Skills by building chapter cards, advance on the Quest of the Ring
+  track, rally Races of Middle-earth as allies, place Units in regions across the map, or
+  execute special Maneuvers.
+
+  There are three paths to victory: completing the Quest of the Ring (destroying or seizing
+  the One Ring at Mount Doom), sealing alliances with six Races of Middle-earth, or
+  dominating Middle-earth through military presence. The asymmetric factions give each side
+  distinct objectives and card types, ensuring the two roles feel meaningfully different.
+  Vincent Dutrait's painting-style artwork immerses players in Tolkien's world throughout.
+
+# Upgrades
+upgrades: []

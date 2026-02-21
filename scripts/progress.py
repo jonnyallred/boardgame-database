@@ -14,6 +14,7 @@ Usage:
 import csv
 import glob
 import os
+import re
 import sys
 
 import yaml
@@ -22,6 +23,16 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MASTER_CSV = os.path.join(ROOT, "master_list.csv")
 LISTS_DIR = os.path.join(ROOT, "sources", "lists")
 GAMES_DIR = os.path.join(ROOT, "games")
+
+
+def slugify(name):
+    """Convert a game name to a slug for fuzzy matching.
+
+    E.g. "7 Wonders: Duel" -> "7-wonders-duel"
+    """
+    s = name.lower()
+    s = re.sub(r"[^a-z0-9]+", "-", s)
+    return s.strip("-")
 
 
 def load_master_list():
@@ -69,28 +80,27 @@ def load_source_enrichment():
 
 
 def load_existing():
-    """Return set of lowercase names and count of game files.
+    """Return matching data for all existing game entries.
 
-    Includes primary names and alternate_names from each game file.
-    Returns: (set of lowercase names, number of game files)
+    Returns: (set of lowercase names, set of file slugs, number of game files)
     """
     names = set()
+    slugs = set()
     file_count = 0
-    primary_names = set()
     if not os.path.isdir(GAMES_DIR):
-        return names, file_count, primary_names
+        return names, slugs, file_count
 
     for fname in os.listdir(GAMES_DIR):
         if not fname.endswith(".yaml"):
             continue
         file_count += 1
+        slugs.add(fname[:-5])
         game_path = os.path.join(GAMES_DIR, fname)
         try:
             with open(game_path) as f:
                 game_data = yaml.safe_load(f)
             if game_data and "name" in game_data:
                 names.add(game_data["name"].lower())
-                primary_names.add(game_data["name"].lower())
             if game_data and "alternate_names" in game_data:
                 for alt in game_data.get("alternate_names", []):
                     if alt:
@@ -98,7 +108,7 @@ def load_existing():
         except Exception:
             pass
 
-    return names, file_count, primary_names
+    return names, slugs, file_count
 
 
 def main():
@@ -114,24 +124,25 @@ def main():
         print("Run: python3 scripts/scrape_wikidata.py")
         return
 
-    existing_names, num_entries, primary_names = load_existing()
+    existing_names, existing_slugs, num_entries = load_existing()
     enrichment = load_source_enrichment()
 
     # Enrich master list with source info
     for key, game in master.items():
         game["sources"] = enrichment.get(key, [])
 
-    # Partition into done vs remaining
+    # Partition into done vs remaining (match by name OR slug)
     done = {}
     remaining = {}
     for key, game in master.items():
-        if key in existing_names:
+        if key in existing_names or slugify(game["name"]) in existing_slugs:
             done[key] = game
         else:
             remaining[key] = game
 
-    # Orphans: game files whose primary name isn't in the master list
-    orphan_count = len(primary_names - set(master.keys()))
+    # Orphans: game file slugs not matching any master list entry
+    master_slugs = {slugify(g["name"]) for g in master.values()}
+    orphan_count = len(existing_slugs - master_slugs)
 
     num_sources = len(glob.glob(os.path.join(LISTS_DIR, "*.yaml")))
 

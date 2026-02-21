@@ -1,0 +1,89 @@
+id: elder-scrolls-betrayal-of-the-second-era
+name: "The Elder Scrolls: Betrayal of the Second Era"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (multi-session campaign, ~2-3 hrs per session)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 1  # Light (cooperative)
+value: 4  # Heirloom (premium production, $224+)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Dice Rolling
+  - Narrative Heavy
+  - Variable Player Powers
+  - Hand Management
+  - Action Points
+  - Dungeon Crawler
+  - Fantasy
+  - Medieval
+  - Chip Theory Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Progress
+  - Powerful
+  - Unique
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2, 3, 4]
+
+# Metadata
+designer:
+  - Josh J. Carlson
+  - Michael Gernes
+  - Logan Giannini
+  - Ryan Howard
+  - Salem Scott
+  - Josh Wielgus
+publisher:
+  - Chip Theory Games
+artist: []
+playtime_minutes: 150
+min_playtime: 120
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  The Elder Scrolls: Betrayal of the Second Era is a cooperative adventure game for 1-4 players
+  set in Tamriel during the tumultuous Second Era. War rages across the continent, cults scheme
+  in the shadows, and a powerful Wood Elf aims to reshape Tamriel forever.
+
+  Players embark on a campaign as agents from one of Tamriel's many guilds, completing quests
+  across three connected sessions while journeying, battling, and delving in diverse provinces
+  of a continent in conflict. Character building is central to the experience: players develop
+  and advance their chosen adventurer by spending experience points, with skill lines tied to
+  Stamina or Magicka stats determining what dice they roll in combat.
+
+  The game is a strategy game of combat and character-building. Skills are the dice adventurers
+  roll during battle — each skill belongs to a skill line, and each line's corresponding stat
+  limits how many skill dice can be rolled per engage action. Items include multiple subtypes
+  such as armor (with standard and overtax abilities triggered during engagement) and weapons
+  that interact directly with skills. An intense endgame session awaits after the campaign's
+  three connected sessions.
+
+  Published by Chip Theory Games, known for high-production-value neoprene and chip-based
+  components, this is their flagship licensed title bringing the beloved Elder Scrolls
+  franchise to the tabletop in a rich, world-spanning campaign.
+
+# Upgrades
+upgrades: []

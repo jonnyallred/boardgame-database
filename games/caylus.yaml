@@ -1,0 +1,83 @@
+id: caylus
+name: "Caylus"
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (60-180 min)
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Economic
+  - Action Points
+  - Variable Setup
+  - Euro
+  - Cult Classic
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Progress
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - William Attia
+publisher:
+  - Ystari Games
+  - Rio Grande Games
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+# Description
+description: |
+  Caylus is a seminal worker placement strategy game set in medieval France, designed by
+  William Attia and first published in 2005 by Ystari Games (France) and Rio Grande Games
+  (North America). Players compete to earn prestige by constructing buildings in the village
+  of Caylus and contributing to the construction of the King's castle.
+
+  The game is notable for its near-absence of random elements. The only randomness occurs
+  at setup: the initial placement of six neutral buildings (yielding 720 possible starting
+  configurations) and the initial turn order. Players manage five resource types — food,
+  wood, cloth, stone, and gold — placing workers on buildings to gather materials, erect
+  new structures, or contribute castle sections in exchange for prestige points.
+
+  Two key mechanisms set Caylus apart: the Provost and the Bailiff. The Provost marker
+  determines which workers on the road actually get to activate; players can spend money to
+  push the Provost forward or back, blocking opponents or protecting their own placements.
+  The Bailiff advances along the road each round, triggering castle-construction phases and
+  ultimately ending the game. Controlling the pace of the Bailiff — and therefore the
+  length of the game — is a central strategic lever.
+
+  Caylus is widely credited as one of the games that defined and popularized the worker
+  placement genre. It won the Deutscher Spiele Preis in 2006 and was voted the best game
+  at the 2005 Essen Spiel fair by Fairplay Magazine. A card-game spin-off, Caylus Magna
+  Carta, was released in 2007.
+
+# Upgrades
+upgrades: []

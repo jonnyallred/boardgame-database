@@ -30,3 +30,40 @@
 
 ## Food Theme Games
 - Distilled (2023) — spirits/distilling theme → uses `Food Theme` category tag
+
+## Invalid Category Tags (Common Mistakes)
+- "Agriculture" is NOT a valid tag — use `Nature` for farming/animal themes
+- "Animals" is NOT a valid tag — use `Nature` for animal-themed games
+- Always verify every tag against Valid Categories before writing the file
+
+## Publisher Naming
+- Lookout Spiele (German name) = Lookout Games (English) — use "Lookout Games" in publisher field
+
+## Workflow: File Already Exists
+- Always check if games/{slug}.yaml exists before writing (use ls or Glob)
+- If file exists and is mostly complete, just fix invalid tags rather than rewriting
+- plays_tracked field: leave as-is in existing files; do NOT add it to new entries
+
+## Agricola Game Family
+- game_family: "agricola" links: agricola.yaml, agricola-revised-edition.yaml, agricola-all-creatures-big-and-small.yaml
+- Agricola: All Creatures Big and Small is a standalone 2-player spinoff (not expansion), year 2012, Lookout Games
+
+## German-Origin Euro Games
+- Hans im Glück is original German publisher for many Euro games (Carcassonne, Marco Polo, etc.)
+- Include both original German publisher + English publisher in `publisher` field
+- Hans im Glück is NOT in schema categories — don't add as a tag
+- German alternate titles go in `alternate_names[]`, not the slug (use English title for slug)
+
+## Simone Luciani + Daniele Tascini
+- Frequent co-designers (Marco Polo series, Grand Austria Hotel, etc.)
+- Both have valid designer category tags in schema.yaml
+
+## Party Game Patterns
+- Party games: rules_complexity 0-1, strategic_depth 0-1, length 0-1
+- Bluffing/social games evoke: Humor, Tension, Rivalry, Lucky, Persuasion
+- true_counts for party games often skew toward higher player counts (more = merrier)
+
+## Repos Production
+- French/Belgian publisher (Brussels), NOT in schema.yaml categories list
+- Published: Ca$h 'n Guns, Just One, So Clover!, 7 Wonders, Concept
+- Slug for Ca$h 'n Guns: `cash-n-guns` (special chars stripped)

@@ -1,0 +1,76 @@
+id: catch-the-moon
+name: "Catch the Moon"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (<30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dexterity
+  - Family
+  - Party
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Humor
+  - Wonder
+  - Lucky
+  - Connection
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+# Metadata
+designer:
+  - Fabien Riffaud
+  - Juan Rodriguez
+publisher:
+  - Bombyx
+artist:
+  - Emmanuel Malin
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  Catch the Moon is a dexterity stacking game in which players cooperate
+  and compete to build a delicate tower of wooden ladders reaching ever
+  higher toward the moon. On each turn, a player rolls a custom die that
+  dictates exactly how their ladder must be placed: touching one other
+  ladder, touching two other ladders, or positioned at the very highest
+  point of the current structure.
+
+  If a ladder falls during placement, the moon "cries" — the active player
+  takes a raindrop token as a penalty. When all ladders have been placed or
+  all raindrop tokens have been claimed, the game ends and the player with
+  the fewest raindrops wins. The game also includes rules for a fully
+  cooperative variant.
+
+  The production is charming and tactile: a solid plastic cloud base,
+  wooden ladders, and a decorative moon figure combine to create an
+  eye-catching table presence. Its simple rules and short playtime make it
+  an excellent gateway game and a crowd-pleaser across age groups.
+
+# Upgrades
+upgrades: []

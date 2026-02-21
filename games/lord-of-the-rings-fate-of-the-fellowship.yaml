@@ -1,0 +1,82 @@
+id: lord-of-the-rings-fate-of-the-fellowship
+name: "The Lord of the Rings: Fate of the Fellowship"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 0  # Cooperative (Solitary)
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Hand Management
+  - Variable Player Powers
+  - Modular Board
+  - Variable Setup
+  - Action Points
+  - Set Collection
+  - Euro
+  - Family
+  - Fantasy
+  - Lord of the Rings
+  - Matt Leacock
+  - Z-Man Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Connection
+  - Tension
+  - Progress
+  - Discovery
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Matt Leacock
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  The Lord of the Rings: Fate of the Fellowship is a cooperative board game for 1-5 players
+  designed by Matt Leacock, published by Z-Man Games in 2025. Each player controls two of 13
+  possible characters from the Fellowship (plus a few allies), lending their unique abilities
+  to protect Frodo, battle enemies in pivotal locations, and evade the menacing Nazgul.
+
+  On your turn you take up to four actions with one hero and one action with the other.
+  Players must coordinate their movements and abilities carefully to complete objectives
+  before Sauron's forces overwhelm them. A shared Hope tracker represents the Fellowship's
+  morale — if rising Despair drives it to zero, the players lose immediately.
+
+  The game features 24 different objectives, 14 event cards, and 13 playable characters,
+  ensuring high replayability with fresh strategic challenges every session. Set collection
+  is central to the design: gathering matching card sets is required for key actions, and
+  cards can be traded between characters sharing a location. The game includes a dedicated
+  solo mode and is considered Matt Leacock's most mechanically rich Pandemic System design
+  to date.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,79 @@
+id: crossbows-and-catapults
+name: "Crossbows & Catapults: Fortress War"
+year: 2024
+
+# Relationships
+game_family: crossbows-and-catapults
+edition: "2024 Restoration Games"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (20-40 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dexterity
+  - Variable Player Powers
+  - Take That
+  - Family
+  - Party
+  - Restoration Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Tension
+  - Powerful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Rob Daviau
+  - Noah Cohen
+  - Justin D. Jacobson
+  - Brian Neff
+  - Stephen Baker
+publisher:
+  - Restoration Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 7
+
+# Description
+description: |
+  Crossbows & Catapults: Fortress War is Restoration Games' 2024 revival of the beloved
+  1983 classic, funded via Kickstarter with nearly $1 million in backer support. Two players
+  face off in a kinetic siege battle: each builds their own castle from colorful plastic
+  blocks, then takes turns launching discs at the opponent's fortifications using spring-powered
+  crossbows and catapults.
+
+  Unlike the original rubber-band-based weapons, the 2024 edition features re-engineered
+  artillery pieces driven by springs and levers for more consistent and durable performance.
+  The Fortress War version adds an asymmetric tactics card deck, letting players take special
+  actions and recruit Mercenary miniatures with unique abilities, adding strategic variety
+  to the physical challenge.
+
+  The goal is to knock all of the opponent's regular soldiers off the field. Blocks and walls
+  tumble satisfyingly with each well-aimed shot. The game emphasizes kinetic fun and nostalgia
+  while the added card layer gives players meaningful choices beyond pure dexterity. Published
+  in partnership with Goliath Games and released at retail in fall 2024.
+
+# Upgrades
+upgrades: []

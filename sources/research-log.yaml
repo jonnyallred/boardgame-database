@@ -3,6 +3,34 @@
 # Appended to by /add-game sub-agents
 
 entries:
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: creature-comforts
+    url: "https://www.kidstablebg.com/post/creature-comforts-the-story-of-the-game"
+    description: "Publisher blog post about Creature Comforts design story"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: creature-comforts
+    url: "https://www.meeplemountain.com/reviews/creature-comforts/"
+    description: "Meeple Mountain review with mechanics and gameplay details"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: creature-comforts
+    url: "https://www.amazon.com/Kids-Table-Board-Gaming-Creature/dp/B09QMS3QMG"
+    description: "Amazon listing with player count, playtime, and age information"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: creature-comforts
+    url: "https://www.gameosity.com/2022/06/29/creature-comforts-review/"
+    description: "Gameosity review with gameplay overview and player experience"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: catan-histories-settlers-of-america-trails-to-rails
+    url: "https://en.wikipedia.org/wiki/Settlers_of_America:_Trails_to_Rails"
+    description: "Wikipedia article with designer, publisher, publication year, and mechanics overview"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: catan-histories-settlers-of-america-trails-to-rails
+    url: "https://www.catan.com/settlers-america"
+    description: "Official Catan publisher page with player count, playtime, age rating, and game description"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: catan-histories-settlers-of-america-trails-to-rails
+    url: "https://www.boardgamereviewsbyjosh.com/2010/11/catan-histories-settlers-of-america.html"
+    description: "Board Game Reviews by Josh — detailed rules explanation and gameplay mechanics"
   - timestamp: "2026-02-15T00:00:00Z"
     game_id: 1775-rebellion
     url: "https://www.academygames.com/pages/1775"
@@ -5158,3 +5186,295 @@ entries:
     game_id: castle-combo
     url: "https://www.meeplemountain.com/reviews/castle-combo/"
     description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: seti
+    url: "https://czechgames.com/en/seti/"
+    description: "Game information page — czechgames.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: seti
+    url: "https://en.wikipedia.org/wiki/SETI:_Search_for_Extraterrestrial_Intelligence"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: seti
+    url: "https://www.meeplemountain.com/reviews/seti-search-for-extraterrestrial-intelligence/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: elder-scrolls-betrayal-of-the-second-era
+    url: "https://chiptheorygames.com/products/the-elder-scrolls-betrayal-of-the-second-era"
+    description: "Game information page — chiptheorygames.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: elder-scrolls-betrayal-of-the-second-era
+    url: "https://stidjenplayssolo.wordpress.com/2025/04/17/the-elder-scrolls-betrayal-of-the-second-era-a-solo-review/"
+    description: "Game information page — stidjenplayssolo.wordpress.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: lord-of-the-rings-duel-for-middle-earth
+    url: "https://www.asmodee.co.uk/blogs/news/experience-the-clash-of-good-and-evil-in-the-lord-of-the-rings-duel-for-middle-earth"
+    description: "Publisher product page — asmodee.co.uk"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: lord-of-the-rings-duel-for-middle-earth
+    url: "https://www.boardgamequest.com/the-lord-of-the-rings-duel-for-middle-earth-review/"
+    description: "Review or reference article — boardgamequest.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: lord-of-the-rings-duel-for-middle-earth
+    url: "https://www.rprod.com/en/games/duel-for-middle-earth"
+    description: "Game information page — rprod.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: lord-of-the-rings-duel-for-middle-earth
+    url: "https://www.barnesandnoble.com/w/lord-of-the-rings-duel-for-middle-earth-by-antoine-bauza-and-bruno-cathala-repos-production/1146366040"
+    description: "Barnes & Noble listing confirming designers Antoine Bauza and Bruno Cathala, publisher Repos Production"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: lord-of-the-rings-duel-for-middle-earth
+    url: "https://store.asmodee.com/products/the-lord-of-the-rings-duel-for-middle-earth"
+    description: "Asmodee North America store page with game details and specifications"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: lord-of-the-rings-fate-of-the-fellowship
+    url: "https://coopgestalt.com/2025/08/30/an-epic-struggle-a-review-of-lord-of-the-rings-fate-of-the-fellowship/"
+    description: "Game information page — coopgestalt.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: lord-of-the-rings-fate-of-the-fellowship
+    url: "https://www.leacock.com/the-lord-of-the-rings-fate-of-the-fellowship/"
+    description: "Game information page — leacock.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: lord-of-the-rings-fate-of-the-fellowship
+    url: "https://www.zmangames.com/game/the-lord-of-the-rings-fate-of-the-fellowship/"
+    description: "Publisher product page — zmangames.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: burning-banners
+    url: "https://www.meeplemountain.com/reviews/burning-banners/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: burning-banners
+    url: "https://www.miniaturemarket.com/burning-banners-rage-witch-queen-cpa5001.html"
+    description: "Retailer product listing — miniaturemarket.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: agricola-all-creatures-big-and-small
+    url: "https://boardgameencyclopedia.com/agricola-all-creatures-big-and-small-board-games-explained/"
+    description: "Game information page — boardgameencyclopedia.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: agricola-all-creatures-big-and-small
+    url: "https://www.lookout-spiele.de/en/games/acbas.html"
+    description: "Game information page — lookout-spiele.de"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: agricola-all-creatures-big-and-small
+    url: "https://www.meeplemountain.com/reviews/agricola-all-creatures-big-and-small/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: voyages-of-marco-polo
+    url: "https://opinionatedgamers.com/2015/07/24/review-of-the-voyages-of-marco-polo/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: voyages-of-marco-polo
+    url: "https://ultraboardgames.com/the-voyages-of-marco-polo"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: caylus
+    url: "https://en.wikipedia.org/wiki/Caylus_(game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: caylus
+    url: "https://gambiter.com/tabletop/Caylus.html"
+    description: "Game information page — gambiter.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: catan-histories-settlers-of-america-trails-to-rails
+    url: "https://en.wikipedia.org/wiki/Settlers_of_America:_Trails_to_Rails"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: catan-histories-settlers-of-america-trails-to-rails
+    url: "https://www.boardgamereviewsbyjosh.com/2010/11/catan-histories-settlers-of-america.html"
+    description: "Game information page — boardgamereviewsbyjosh.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: catan-histories-settlers-of-america-trails-to-rails
+    url: "https://www.catan.com/settlers-america"
+    description: "Game information page — catan.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: catch-the-moon
+    url: "https://store.thamesandkosmos.com/products/catch-the-moon-2l"
+    description: "Game information page — store.thamesandkosmos.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: catch-the-moon
+    url: "https://studiobombyx.com/en/jeu/catch-the-moon/"
+    description: "Game information page — studiobombyx.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: catch-the-moon
+    url: "https://tabletopbellhop.com/game-reviews/catch-the-moon/"
+    description: "Game information page — tabletopbellhop.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: burning-banners
+    url: "https://playerelimination.com/2024/08/26/a-burning-banners-rage-of-the-witch-king-review/"
+    description: "Game information page — playerelimination.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: burning-banners
+    url: "https://www.boardgamequest.com/burning-banners-review/"
+    description: "Review or reference article — boardgamequest.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: burning-banners
+    url: "https://www.meeplemountain.com/reviews/burning-banners/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: burning-banners
+    url: "https://www.miniaturemarket.com/burning-banners-rage-witch-queen-cpa5001.html"
+    description: "Retailer product listing — miniaturemarket.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: voyages-of-marco-polo
+    url: "https://de.wikipedia.org/wiki/Auf_den_Spuren_von_Marco_Polo"
+    description: "Review or reference article — de.wikipedia.org"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: voyages-of-marco-polo
+    url: "https://herebebooksandgames.com/products/voyages-of-marco-polo"
+    description: "Game information page — herebebooksandgames.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: voyages-of-marco-polo
+    url: "https://www.thegamesteward.com/products/the-voyages-of-marco-polo-board-game"
+    description: "Game information page — thegamesteward.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: cash-n-guns
+    url: "https://www.miniaturemarket.com/asm2736.html"
+    description: "Retailer product listing — miniaturemarket.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: cash-n-guns
+    url: "https://www.rprod.com/en/games/cashn-guns-second-edition"
+    description: "Game information page — rprod.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: cash-n-guns
+    url: "https://www.ultraboardgames.com/cash-and-guns/game-rules.php"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: codenames-duet
+    url: "https://coopboardgames.com/cooperative-board-game-reviews/codenames-duet-review/"
+    description: "Game information page — coopboardgames.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: codenames-duet
+    url: "https://en.wikipedia.org/wiki/Codenames_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: codenames-duet
+    url: "https://www.czechgames.com/games/codenames-duet"
+    description: "Game information page — czechgames.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: clank
+    url: "https://www.direwolfdigital.com/clank/"
+    description: "Game information page — direwolfdigital.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: clank
+    url: "https://www.meeplemountain.com/reviews/clank/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: clank
+    url: "https://www.whatboardgame.com/post/clank-a-deck-building-adventure-board-game-review"
+    description: "Game information page — whatboardgame.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: chronicles-of-crime
+    url: "https://boardgamewikia.com/chronicles-of-crime/"
+    description: "Game information page — boardgamewikia.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: chronicles-of-crime
+    url: "https://coopboardgames.com/cooperative-board-game-reviews/chronicles-of-crime-review/"
+    description: "Game information page — coopboardgames.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: chronicles-of-crime
+    url: "https://luckyduckgames.com/usa/game/1-chronicles-of-crime"
+    description: "Game information page — luckyduckgames.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: day-and-night
+    url: "https://www.coolstuffinc.com/p/138122"
+    description: "Retailer product listing — coolstuffinc.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: day-and-night
+    url: "https://www.internationalgamersawards.net/winners/2009-winners"
+    description: "Game information page — internationalgamersawards.net"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: creature-comforts
+    url: "https://www.amazon.com/Kids-Table-Board-Gaming-Creature/dp/B09QMS3QMG"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: creature-comforts
+    url: "https://www.kidstablebg.com/post/creature-comforts-the-story-of-the-game"
+    description: "Game information page — kidstablebg.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: creature-comforts
+    url: "https://www.meeplemountain.com/reviews/creature-comforts/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: dead-reckoning
+    url: "https://boardgamewikia.com/dead-reckoning"
+    description: "Game information page — boardgamewikia.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: dead-reckoning
+    url: "https://opinionatedgamers.com/2022/08/09/dale-yu-review-of-dead-reckoning/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: dead-reckoning
+    url: "https://www.alderac.com/2022/04/08/dead-reckoning-faq/"
+    description: "Publisher product page — alderac.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: cubitos
+    url: "https://www.alderac.com/cubitos/"
+    description: "Publisher product page — alderac.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: cubitos
+    url: "https://www.meeplemountain.com/reviews/cubitos/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: cubitos
+    url: "https://www.miniaturemarket.com/aeg7084.html"
+    description: "Retailer product listing — miniaturemarket.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: diced-veggies
+    url: "https://icv2.com/articles/news/view/57193/origins-award-winners-announced"
+    description: "Game information page — icv2.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: diced-veggies
+    url: "https://shelfgamer.com/reviews/diced-veggies/"
+    description: "Game information page — shelfgamer.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: diced-veggies
+    url: "https://www.thefamilygamers.com/diced-veggies/"
+    description: "Game information page — thefamilygamers.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: crossbows-and-catapults
+    url: "https://restorationgames.com/shop/crossbows-catapults-fortress-war/"
+    description: "Game information page — restorationgames.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: crossbows-and-catapults
+    url: "https://toybook.com/exclusive-goliath-restoration-games-relaunch-80s-classic-crossbows-catapults-in-2024/"
+    description: "Game information page — toybook.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: crossbows-and-catapults
+    url: "https://www.meeplemountain.com/reviews/crossbows-and-catapults/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: diced-veggies
+    url: "https://en.boardgamearena.com/gamepanel?game=dicedveggies"
+    description: "Game information page — en.boardgamearena.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: diced-veggies
+    url: "https://gamingtrend.com/news/ktbg-announces-diced-veggies-a-game-designed-by-kids-but-fun-for-all-ages/"
+    description: "Game information page — gamingtrend.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: diced-veggies
+    url: "https://icv2.com/articles/news/view/57193/origins-award-winners-announced"
+    description: "Game information page — icv2.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: diced-veggies
+    url: "https://shelfgamer.com/reviews/diced-veggies/"
+    description: "Game information page — shelfgamer.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: diced-veggies
+    url: "https://www.amazon.com/KTBG-Diced-Veggies-Party-Board/dp/B0CDJKN8NR"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: diced-veggies
+    url: "https://www.thefamilygamers.com/diced-veggies/"
+    description: "Game information page — thefamilygamers.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: detective-club
+    url: "https://www.blueorangegames.com/webroot/img/games/old_games_rules/us/DetectiveClub_rules_us.pdf"
+    description: "Game information page — blueorangegames.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: detective-club
+    url: "https://www.shutupandsitdown.com/games/detective-club/"
+    description: "Review or reference article — shutupandsitdown.com"
+  - timestamp: "2026-02-20T00:00:00Z"
+    game_id: detective-club
+    url: "https://www.ultraboardgames.com/detective-club/game-rules.php"
+    description: "Game information page — ultraboardgames.com"

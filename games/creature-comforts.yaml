@@ -1,0 +1,83 @@
+id: creature-comforts
+name: "Creature Comforts"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Worker Placement
+  - Set Collection
+  - Resource Management
+  - Hand Management
+  - Press Your Luck
+  - Variable Setup
+  - Euro
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Connection
+  - Progress
+  - Lucky
+  - Complete
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Roberta Taylor
+publisher:
+  - Kids Table Board Gaming
+artist:
+  - Shawna J.C. Tenney
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Creature Comforts is a cozy dice-placement worker placement game in which players
+  control a family of forest animals preparing their dens for winter. Over three
+  seasons — Spring, Summer, and Fall — players send family members out to locations
+  across the village and forest to gather supplies and trade for comfort items.
+
+  At the start of each round, players roll their two private Family dice, then the
+  central Village dice pool is revealed. Players place their four Workers at
+  available locations, and then in turn order use a combination of their personal
+  Family dice and the shared Village dice to activate those Workers and collect
+  resources. Because players commit to locations before seeing all dice results,
+  there is a satisfying push-your-luck tension: if your dice don't meet a location's
+  requirement, you gain a Lesson token instead — a minor compensation that helps
+  you plan better next time.
+
+  Gathered resources are spent on Comfort cards that improve your den and score
+  end-game points. A rotating Traveller at the Inn offers bonus objectives each
+  round. The family that builds the most comfortable, well-stocked den when winter
+  arrives wins. The game supports solo play through an automa system and scales
+  smoothly from 1 to 5 players.
+
+# Upgrades
+upgrades: []

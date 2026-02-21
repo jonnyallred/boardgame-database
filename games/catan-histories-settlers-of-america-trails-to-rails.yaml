@@ -1,0 +1,85 @@
+id: catan-histories-settlers-of-america-trails-to-rails
+name: "Catan Histories: Settlers of America – Trails to Rails"
+year: 2010
+
+# Relationships
+game_family: catan
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90-150 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hex Map
+  - Modular Board
+  - Variable Setup
+  - Resource Management
+  - Route Building
+  - Network Building
+  - Set Collection
+  - Trading
+  - Dice Rolling
+  - Euro
+  - Family
+  - Historical
+  - Trains
+  - Klaus Teuber
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Rivalry
+  - Discovery
+  - Tension
+  - Complete
+
+# Player counts
+possible_counts: [3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Klaus Teuber
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Catan Histories: Settlers of America – Trails to Rails is a standalone game in the Catan
+  family set in 19th-century America. Players guide wagon trains of settlers westward across
+  a hex-tile map of the United States, founding new cities as they push toward the Pacific.
+  All settlements begin on the East Coast, and as the game progresses the resource-producing
+  hexes follow the frontier westward, making Eastern cities progressively less valuable.
+
+  Resources include brick, cattle, coal, grain, and lumber, collected by rolling two dice
+  each turn. Unlike standard Catan, players cannot build settlements directly — instead they
+  build settlers and pay grain to move them overland to claim new city sites. There are no
+  upgrades to cities; expansion is achieved purely through geographic spread.
+
+  A second layer of gameplay involves railroad construction and train movement. Players lay
+  rail links and move trains to deliver goods to opponents' cities. Gold is earned by using
+  your own or others' rail networks. The first player to deliver 8 goods to other players'
+  cities (10 in a 3-player game) wins, making this a race game rather than a points game.
+
+  The game was the first Catan-series title released exclusively in English, and the third
+  entry in the Catan Histories line. It won the Origins Award in 2010.
+
+# Upgrades
+upgrades: []

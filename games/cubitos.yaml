@@ -1,0 +1,80 @@
+id: cubitos
+name: "Cubitos"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Bag Building
+  - Press Your Luck
+  - Racing
+  - Engine Building
+  - Variable Setup
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Tension
+  - Progress
+  - Rivalry
+  - Clever
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - John D. Clair
+publisher:
+  - Alderac Entertainment Group
+artist: []
+playtime_minutes: 38
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+# Description
+description: |
+  Cubitos is a dice-building racing game in which players take on the role of competitors
+  in the annual Cube Cup. Each player has a runner on the racetrack and a pool of dice
+  representing their support team. On each turn, players simultaneously roll their dice,
+  moving successful results to an Active Zone, and deciding whether to press their luck
+  and keep rolling or bank their results.
+
+  Players start with nine dice — seven light grey cubes showing money and two dark grey
+  cubes showing money and movement points (feet). Credits earned from money faces allow
+  players to purchase new dice from a shared market of eight different colored dice types,
+  each with seven possible ability cards. This creates enormous variability across games.
+  Upgraded dice grant special powers such as swapping out dice from reserve, generating
+  bonus movement, or even interfering with opponents.
+
+  Movement feet on dice advance a player's runner around one of four different racetrack
+  maps, and the first player to cross the finish line wins. The simultaneous rolling
+  mechanism keeps everyone engaged throughout, while the press-your-luck element — if you
+  roll only blank faces (busted), you lose all unbanked results — creates constant tension.
+  The modular dice card system ensures high replayability with a huge variety of possible
+  ability combinations each game.
+
+# Upgrades
+upgrades: []

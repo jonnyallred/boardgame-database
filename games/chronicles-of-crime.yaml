@@ -1,0 +1,82 @@
+id: chronicles-of-crime
+name: "Chronicles of Crime"
+year: 2018
+
+# Relationships
+game_family: chronicles-of-crime
+edition: null
+base_game: null
+expansions:
+  - chronicles-of-crime-1900
+  - chronicles-of-crime-2400
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 1  # Simple — app guides most of the complexity
+strategic_depth: 2  # Moderate — deductive reasoning and case management
+feel: 1  # Light cooperative — mostly collaborative discussion
+value: 2  # Standard retail price
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Deduction
+  - Narrative Heavy
+  - Mystery
+  - Variable Setup
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Mystery
+  - Discovery
+  - Tension
+  - Connection
+  - Clever
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - David Cicurel
+publisher:
+  - Lucky Duck Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Chronicles of Crime is an award-winning cooperative game of criminal investigation
+  that blends a physical board game with a free companion app and an optional Virtual
+  Reality mode. Published by Lucky Duck Games in 2018, the game was designed by David
+  Cicurel and funded through Kickstarter.
+
+  Players work together as a team of investigators trying to solve a series of criminal
+  cases. Each component — locations, suspects, items, and witnesses — carries a unique
+  QR code. Players scan these codes with the app to interrogate characters, examine crime
+  scenes, and gather forensic evidence. The app then narrates what the characters say or
+  what is found at each location, driving the investigation forward.
+
+  The base game includes one tutorial case and five interconnected scenarios that form a
+  larger story arc. Additional free cases can be downloaded directly through the app.
+  Specialist cards (doctor, scientist, criminologist, hacker) can be consulted for expert
+  analysis of specific evidence types. Sessions conclude when players feel ready to accuse
+  a suspect, with their score determined by the time elapsed and any mistakes made.
+
+  A standout feature is the optional VR mode: players can slip their phone into a cardboard
+  viewer to explore crime scenes in 360-degree virtual reality. The game won multiple awards
+  including the As d'Or at the Festival International des Jeux de Cannes 2019.
+
+# Upgrades
+upgrades: []

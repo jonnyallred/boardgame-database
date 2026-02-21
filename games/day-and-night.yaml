@@ -1,0 +1,71 @@
+id: day-and-night
+name: "Day & Night"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Abstract
+  - Asymmetric
+  - Variable Player Powers
+  - Fantasy
+  - Tile Placement
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Masterful
+  - Tension
+  - Clever
+  - Unique
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Sebastiaan van den Roovaart
+  - Valentijn Eekels
+publisher:
+  - Mystics
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Day & Night is an asymmetric 2-player abstract strategy game set in a fantasy world
+  where Lady Day and Lady Night duel for the right to remain in their celestial palace.
+  Each player commands a unique side — Day or Night — with distinct powers and mechanics,
+  racing to build two Temples and honor the gods to enforce justice.
+
+  The game won the International Gamers Award in 2009 in the 2-Player category. Players
+  alternate turns taking actions with their asymmetric pieces, managing area control on
+  a shared board where the interplay of Day and Night forces creates the central tension.
+  The thematic duality of the two sides is reflected in genuinely different play styles,
+  making it a compelling head-to-head contest for players who enjoy deep positional thinking
+  in a compact package.
+
+# Upgrades
+upgrades: []

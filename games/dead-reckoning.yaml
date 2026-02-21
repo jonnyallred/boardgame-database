@@ -1,0 +1,95 @@
+id: dead-reckoning
+name: "Dead Reckoning"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (~90-150 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - 4X
+  - Area Control
+  - Hand Management
+  - Engine Building
+  - Variable Player Powers
+  - Modular Board
+  - Variable Setup
+  - Asymmetric
+  - Resource Management
+  - Action Points
+  - Dudes on a Map
+  - Ameritrash
+  - Pirates
+  - Maritime
+  - Exploration
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Powerful
+  - Progress
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - John D. Clair
+publisher:
+  - Alderac Entertainment Group
+artist:
+  - Bartlomiej Gaweł
+  - Alexey Kot
+  - Kwanchai Moriya
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Dead Reckoning is a 4X swashbuckling adventure game set in a Caribbean-esque archipelago where
+  players command a privateer vessel and crew, sailing the high seas in pursuit of fame, fortune,
+  and dominance. Designed by John D. Clair and published by AEG in 2022, the game blends the
+  publisher's signature Card Crafting System with sweeping exploration, territory control, and
+  naval combat.
+
+  Each player begins the game with the same hand of 12 sailor cards that remain in hand for the
+  entire game. The Card Crafting System allows players to upgrade individual cards by sleeving
+  enhancement cards together, permanently improving crew members in ways that compound into
+  powerful engines. Rather than drawing and discarding, players craft and customize, giving the
+  game a distinctive feel compared to traditional deck builders.
+
+  The game board is built from modular hex tiles representing islands, open sea, and ports,
+  creating a different map each session. Players explore uncharted regions, establish and fortify
+  outposts on resource-rich islands, run trading routes, hunt for buried treasure, and engage in
+  ship-to-ship combat resolved through a unique cube tower mechanism. Crew cards and ship
+  upgrades influence combat outcomes, rewarding strategic fleet development.
+
+  Victory goes to the player who amasses the most treasure. Multiple viable strategies exist:
+  aggressive piracy against opponents, peaceful exploration and cartography, merchant trading
+  with developed infrastructure, or hybrid approaches. No single path to victory dominates,
+  encouraging replayability and table diversity. A solo mode is included using an automa system.
+  Expansions include the "Letters of Marque" and "Port of Call" Sagas, as well as the "Deep
+  Legends" expansion.
+
+# Upgrades
+upgrades: []

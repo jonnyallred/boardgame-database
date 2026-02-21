@@ -1,0 +1,88 @@
+id: cash-n-guns
+name: "Ca$h 'n Guns"
+year: 2014
+
+# Relationships
+game_family: null
+edition: "Second Edition"
+base_game: null
+expansions:
+  - cash-n-guns-more-cash-n-more-guns
+  - cash-n-guns-team-spirit
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Bluffing
+  - Simultaneous Action
+  - Social Deduction
+  - Hand Management
+  - Party
+  - Family
+  - Humor
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Lucky
+  - Persuasion
+
+# Player counts
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [6, 7, 8]
+
+# Metadata
+designer:
+  - Ludovic Maublanc
+publisher:
+  - Repos Production
+artist:
+  - Gérald Guerlais
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+# Description
+description: |
+  Ca$h 'n Guns is a party game of bluffing and gangsters in which players
+  are criminals dividing up loot after a heist — at gunpoint. Each player
+  wields a foam pistol and a hand of ammo cards, some of which are real
+  Bang! cards and some of which are harmless Click! bluffs.
+
+  Each round, a Godfather calls out the steps of the standoff. All players
+  simultaneously aim their foam guns at another player of their choice.
+  Before cards are revealed, players may choose to chicken out, avoiding
+  harm but forfeiting their share of that round's loot — at the cost of a
+  Chicken token that reduces final winnings. Players who hold firm reveal
+  their cards simultaneously: Bang! cards wound targets, while Click! cards
+  are exposed as bluffs. A wounded player sits out the loot split and gains
+  a bandage; accumulating too many bandages eliminates a player entirely.
+
+  Survivors split the loot — diamonds, paintings, and cash — that was laid
+  out at the round's start. The Godfather role passes each round, granting
+  special abilities like redirecting gunfire. After eight rounds, the player
+  with the most money wins.
+
+  This second edition (2014) adds new loot types and a revised Godfather
+  mechanic compared to the 2005 original. The game shines with larger groups
+  and rewards reading opponents, calling bluffs, and knowing when to back
+  down. Its foam gun components make it instantly accessible and visually
+  striking on the table.
+
+# Upgrades
+upgrades: []

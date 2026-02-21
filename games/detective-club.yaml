@@ -1,0 +1,79 @@
+id: detective-club
+name: "Detective Club"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~30-45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive/Social
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Social Deduction
+  - Bluffing
+  - Hand Management
+  - Deduction
+  - Party
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Mystery
+  - Tension
+  - Humor
+  - Clever
+  - Rivalry
+
+# Player counts
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [5, 6, 7]
+
+# Metadata
+designer:
+  - Oleksandr Nevskiy
+publisher:
+  - Blue Orange Games
+artist: []
+playtime_minutes: 35
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  Detective Club is a social deduction party game for 4-8 players in which each
+  round one player acts as the Informer, secretly writing a clue word into most
+  players' notebooks — all except one person, the Conspirator. Every player then
+  plays two illustrated cards from their hand and offers a brief explanation of
+  how their cards relate to the secret word. The Conspirator, who does not know
+  the word, must bluff convincingly while picking up on context clues from the
+  others' explanations.
+
+  After all cards are played, players discuss the round and vote on who they
+  believe the Conspirator is. Detectives who correctly identify the Conspirator
+  score 3 points. If the Conspirator escapes detection (fewer than 2 votes
+  against them), both the Conspirator and the Informer earn points instead.
+  Games last several rounds until scores are tallied.
+
+  Designed by Oleksandr Nevskiy — also known for co-designing Mysterium —
+  Detective Club blends the creative card-association of picture-based party
+  games with the social pressure of hidden-role deduction. Its simple ruleset
+  and broad illustrated card deck make it highly accessible for casual groups
+  and families.
+
+# Upgrades
+upgrades: []

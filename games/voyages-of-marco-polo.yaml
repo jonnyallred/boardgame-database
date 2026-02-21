@@ -1,5 +1,7 @@
 id: voyages-of-marco-polo
 name: "The Voyages of Marco Polo"
+alternate_names:
+  - "Auf den Spuren von Marco Polo"
 year: 2015
 
 # Relationships
@@ -54,6 +56,7 @@ designer:
   - Simone Luciani
   - Daniele Tascini
 publisher:
+  - Hans im Glück
   - Z-Man Games
 playtime_minutes: 70
 min_playtime: 40

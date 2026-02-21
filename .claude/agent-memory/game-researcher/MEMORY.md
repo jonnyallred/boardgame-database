@@ -174,3 +174,122 @@
 - nobleknight.com is reliable for Compass Games titles (year, price, player count)
 - playerelimination.com is a useful wargame-focused review site
 - theboardgameschronicle.com is a reliable review source for wargames and heavy euros
+
+## Chip Theory Games Notes
+- Chip Theory Games IS in schema.yaml publishers list — apply "Chip Theory Games" tag
+- chiptheorygames.com/products/{slug} is primary source for designer credits and pricing
+- Known for premium neoprene/poker chip components; prices $100-$250+
+- Multi-designer teams common (4-6 co-designers on Elder Scrolls)
+- Gamefound (gamefound.com) is useful for their campaign update posts with mechanic details
+
+## Licensed Video Game IP Slugs
+- Drop "The" from start of slug only if it's a standalone article
+- "The Elder Scrolls: Betrayal of the Second Era" → elder-scrolls-betrayal-of-the-second-era
+  (kept "elder-scrolls" prefix, dropped leading "The", subtitle included in full)
+- Colon+space in titles → hyphen in slug, drop colon
+
+## Campaign Game Ratings
+- Multi-session campaign cooperative games: length=4 (Marathon), feel=1 (Light/cooperative)
+- Premium licensed games with $200+ price: value=4 (Heirloom)
+- true_counts = all possible_counts for fully cooperative games (any count is "optimal")
+
+## Rating Calibration Examples (continued)
+- Elder Scrolls: Betrayal of the Second Era (2025): length=4, complexity=3, depth=3, feel=1, value=4
+  (3-session ~2-3 hr/session cooperative campaign, complex skill/dice systems, $224+ premium production)
+- The Lord of the Rings: Fate of the Fellowship (2025): length=2, complexity=2, depth=2, feel=0, value=3
+  (60-120 min medium cooperative, moderate Pandemic-system rules, tactical coordination, pure co-op, Z-Man premium box)
+
+## Z-Man Games Notes
+- Z-Man Games IS in schema.yaml publishers list — apply "Z-Man Games" tag in categories
+- Matt Leacock IS in schema.yaml designers list — apply "Matt Leacock" tag in categories
+- Pandemic System games: feel=0 (Cooperative/Solitary), true_counts covers all player counts (any is "optimal" for co-op)
+
+## Lord of the Rings Theme
+- "Lord of the Rings" is a valid theme tag in schema.yaml categories
+- "Fantasy" is also appropriate as a companion theme tag
+
+## Bombyx (Studio Bombyx) Publisher Notes
+- Bombyx is NOT in schema.yaml publishers list — no publisher tag applies
+- studiobombyx.com is the official publisher site; product pages often return CSS noise from pipeline
+- Thames & Kosmos distributes Bombyx games in North America; list "Bombyx" as primary publisher name
+- store.thamesandkosmos.com pages often return mostly CSS/font boilerplate — low pipeline value
+
+## Dexterity Games Rating Pattern
+- length=0 (Snack) for games under 30 min
+- rules_complexity=1 (Simple) for games with a single die-roll placement rule
+- strategic_depth=1 (Light) for pure dexterity with minimal planning
+- true_counts skews toward larger groups (more fun with more people for social dexterity games)
+- Catch the Moon (2017): length=0, complexity=1, depth=1, feel=2, value=2
+  (15-30 min, elementary ladder-placement rules, 1-6 players best with groups, $30-40 fair deal)
+
+## Ystari Games Notes
+- Ystari Games is NOT in schema.yaml publishers list — no publisher category tag applies
+- Rio Grande Games IS in schema.yaml publishers list — apply "Rio Grande Games" tag when they are the English publisher
+- gambiter.com is a clean secondary source for box specs (player count, age, playtime, mechanics)
+- bombardgames.com returns 403 errors — exclude from pipeline URL lists
+
+## AEG (Alderac Entertainment Group) Publisher Notes
+- AEG is NOT in schema.yaml publishers list — no publisher tag applies
+- alderac.com/{game-slug} is the official publisher product page
+- AEG publishes accessible family/gateway games (Cubitos, Smash Up, Tiny Towns, etc.)
+
+## Dice-Building Racing Game Pattern (Cubitos)
+- Cubitos (2021): length=1, complexity=1, depth=2, feel=2, value=2
+  (30-45 min short, elementary press-your-luck rules, moderate dice-pool engine decisions, moderate competitive racing, $48 fair deal)
+- Designer: John D. Clair; Publisher: AEG
+- Use tags: Dice Rolling, Bag Building, Press Your Luck, Racing, Engine Building, Variable Setup, Family, Gateway
+
+## Classic Euro Worker Placement Ratings (2000s era)
+- Caylus (2005): length=3, complexity=3, depth=4, feel=2, value=3
+  (60-180 min long game; complex interlocking Provost/Bailiff systems; master-plan strategic depth; politely competitive but heavy analysis; premium out-of-print production)
+- Near-absent randomness games: omit Dice Rolling tag; use Variable Setup only if board setup IS randomized
+- "Cult Classic" style tag is appropriate for genre-defining games (Caylus defined worker placement)
+
+## Obscure/Small Publisher Games (2000s era)
+- Small publisher games (Mystics, etc.) often have very limited web presence — pipeline may yield mostly JS noise
+- For obscure 2-player abstract games: eBay listings are useful for year and publisher confirmation
+- IGA winners page (internationalgamersawards.net/winners/{year}-winners) often returns JS noise — search results are more useful
+- Day & Night (2008): 2-player abstract strategy by van den Roovaart & Eekels, published by Mystics
+  Won IGA 2009 (2-player category); asymmetric Lady Day vs Lady Night dueling for temple placement
+
+## Restoration Games Notes
+- Restoration Games IS in schema.yaml publishers list — apply "Restoration Games" tag in categories
+- restorationgames.com/shop/{slug} is the primary source, but often returns CSS noise — rely on search summaries
+- For revival editions: use the revival year in `year:`, set `edition:` to "YYYY Restoration Games"
+- Use game_family when reviving a named series (e.g., game_family: crossbows-and-catapults)
+- Crossbows & Catapults: Fortress War (2024): 2-player dexterity siege game, 20-40 min, ages 7+
+  Designers: Stephen Baker (original), Noah Cohen, Rob Daviau, Justin D. Jacobson, Brian Neff
+  Filed under slug: crossbows-and-catapults (drop "Fortress War" subtitle from slug)
+  length=1, complexity=1, depth=1, feel=3, value=2
+
+## Blue Orange Games Publisher Notes
+- Blue Orange Games is NOT in schema.yaml publishers list — no publisher tag applies
+- blueorangegames.com hosts PDF rulebooks for their games
+- Detective Club (2018): Designer Oleksandr Nevskiy (also co-designed Mysterium)
+- Social deduction party games: feel=3 (Competitive), length=1 (Short)
+- Detective Club: length=1, complexity=1, depth=1, feel=3, value=2
+  (30-45 min short party game, elementary rules, light deduction decisions, social competition, ~$35 fair deal)
+
+## Lucky Duck Games Notes
+- Lucky Duck Games is NOT in schema.yaml publishers list — no publisher tag applies
+- luckyduckgames.com is the official site but is very JS-heavy (pipeline yields mostly JSON/script noise)
+- boardgamewikia.com and coopboardgames.com are good alternatives for Lucky Duck games
+- Chronicles of Crime (2018): app-integrated QR code mystery game, designer David Cicurel
+- Won As d'Or at Festival International des Jeux de Cannes 2019
+
+## App-Integrated Mystery/Investigation Games
+- Valid tags: Cooperative, Deduction, Narrative Heavy, Mystery, Variable Setup, Family, Gateway
+- Do NOT use "Storytelling" or "Time Track" — not in valid categories list
+- App drives most rules complexity; rate rules_complexity=1 despite apparent sophistication
+- For QR-scan investigation games: feel=1 (Light cooperative)
+
+## Kids Table Board Gaming (KTBG) Notes
+- KTBG is NOT in schema.yaml publishers list — no publisher tag applies
+- Based in Toronto, Ontario, Canada; focus on games playable across full family age range
+- Diced Veggies (2023): premiered Gen Con 2023; won Origins Award 2024 Best Children's & Family Board Game
+- gamingtrend.com/news/ and thefamilygamers.com are useful sources for KTBG releases
+
+## Origins Awards Notes
+- Origins Award year is the ceremony year (announced at Origins Game Fair), not the game publication year
+- Diced Veggies published 2023, won "Origins Award 2024" (ceremony held June 2024)
+- icv2.com/articles/news/ is reliable for Origins Award winner coverage

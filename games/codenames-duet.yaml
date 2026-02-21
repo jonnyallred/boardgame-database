@@ -1,0 +1,83 @@
+id: codenames-duet
+name: "Codenames: Duet"
+year: 2017
+
+# Relationships
+game_family: codenames
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (15-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light (fully cooperative)
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Word Play
+  - Deduction
+  - Social Deduction
+  - Party
+  - Family
+  - Gateway
+  - Vlaada Chvatil
+  - Czech Games Edition
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Connection
+  - Tension
+  - Clever
+  - Mystery
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Vlaada Chvátil
+  - Scot Eaton
+publisher:
+  - Czech Games Edition
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 11
+
+# Description
+description: |
+  Codenames: Duet is a fully cooperative word deduction game designed primarily for two
+  players, spun off from the hit party game Codenames. Players work together as a pair
+  of secret agents trying to identify all 15 of their contacts hidden among 25 word cards
+  laid out in a 5x5 grid — without stumbling into any assassins.
+
+  The core twist is asymmetric information: each player holds one side of a double-sided
+  key card, so neither player can see the complete picture. Three of each player's nine
+  green agent squares overlap with the other player's, meaning some words are safe for
+  both sides and some are agents for one player but bystanders (or assassins) for the
+  other. Players alternate giving one-word clues linked to a number, guiding their partner
+  to tap the correct words. An incorrect guess on an assassin ends the game immediately
+  in defeat.
+
+  The game is played over a limited number of turns (9 by default, extendable to 11 for
+  beginners), creating a tight time pressure that demands concise, creative cluing. A
+  campaign mode with missions of increasing difficulty adds long-term replay value. The
+  game can also be played cooperatively in larger groups split into two teams.
+
+  Codenames: Duet won the 2018 Origins Award for Best Family Game and is widely praised
+  as one of the best two-player cooperative games for couples and casual gamers.
+
+# Upgrades
+upgrades: []
