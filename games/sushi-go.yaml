@@ -1,0 +1,72 @@
+id: sushi-go
+name: "Sushi Go!"
+year: 2013
+
+# Relationships
+game_family: sushi-go
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20 min)
+rules_complexity: 0  # Very simple
+strategic_depth: 1  # Light
+feel: 1  # Light friendly
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Drafting
+  - Set Collection
+  - Card Drafting
+  - Hand Management
+  - Family
+  - Party
+  - Filler
+  - Gateway
+  - Food Theme
+  - Phil Walker-Harding
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Humor
+  - Rivalry
+  - Lucky
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Phil Walker-Harding
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 20
+min_age: 8
+
+# Description
+description: |
+  Sushi Go! is a lightning-fast card drafting game for 2-5 players in which you pick and pass
+  sushi dishes to assemble the most delicious meal. Each round, players simultaneously choose
+  one card from their hand, reveal it, then pass the remaining hand to the next player. Maki
+  rolls score based on who has the most; sashimi must be collected in threes; nigiri triples
+  in value when paired with wasabi; and pudding cards score at the very end of the game based
+  on totals across all rounds. Designed by Phil Walker-Harding and originally self-published
+  in 2013 before Gamewright picked it up, Sushi Go! is one of the most accessible card drafting
+  games ever made. Its friendly sushi-themed artwork, simple rules, and tight 15-20 minute
+  playtime make it an ideal gateway game and family favorite.
+
+# Upgrades
+upgrades: []

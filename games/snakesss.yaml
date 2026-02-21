@@ -1,0 +1,67 @@
+id: snakesss
+name: "Snakesss!"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light bluffing
+feel: 3  # Competitive/social
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Social Deduction
+  - Traitor
+  - Bluffing
+  - Party
+  - Family
+  - Phil Walker-Harding
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Tension
+  - Mystery
+  - Rivalry
+  - Lucky
+
+# Player counts
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [6, 7, 8]
+
+# Metadata
+designer:
+  - Phil Walker-Harding
+publisher:
+  - Big Potato Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 12
+
+# Description
+description: |
+  Snakesss! is a social deduction trivia game for 4-8 players designed by Phil Walker-Harding
+  (creator of Sushi Go!). At the start of each round, players are secretly assigned roles: most
+  are ordinary humans, but one or more become Snakes, and one is the Mongoose of Truth. Only
+  the Snakes get to see the correct answer to the trivia question. After a brief discussion
+  period where Snakes try to mislead others, everyone simultaneously votes on their chosen
+  answer. Humans score points for guessing correctly, Snakes score by leading humans astray,
+  and the Mongoose scores by identifying who the Snakes are. The game includes over 120
+  question cards and delivers a quick, chaotic blend of trivia and deception.
+
+# Upgrades
+upgrades: []

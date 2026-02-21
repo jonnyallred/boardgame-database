@@ -1,0 +1,73 @@
+id: princes-of-florence
+name: "The Princes of Florence"
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Worker Placement
+  - Set Collection
+  - Euro
+  - Historical
+  - Medieval
+  - Wolfgang Kramer
+  - Rio Grande Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Wolfgang Kramer
+  - Richard Ulrich
+  - Jens Christopher Ulrich
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 100
+min_age: 12
+
+# Description
+description: |
+  The Princes of Florence is a classic Euro game for 2-5 players set in Renaissance Florence,
+  where players compete as Medici-like patrons seeking to attract the greatest artists, scientists,
+  and thinkers to their court. Over seven rounds, players alternate between an auction phase
+  (bidding for jesters, builders, prestige cards, freedoms, and unique landscapes) and an action
+  phase (constructing buildings and commissioning works). Each artist in your court has requirements
+  that must be satisfied to complete a masterwork and score prestige points. The tension arises from
+  the strict economy — you only have three actions per round and limited florins — forcing agonizing
+  trade-offs between acquiring what you need at auction versus what your opponents want to deny you.
+  Originally published by Alea in 2000, The Princes of Florence is considered a landmark of the
+  golden age of Euro game design and remains highly regarded for its elegant depth.
+
+# Upgrades
+upgrades: []

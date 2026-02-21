@@ -1,0 +1,77 @@
+id: under-falling-skies
+name: "Under Falling Skies"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Cooperative
+  - Puzzle Solving
+  - Campaign Mode
+  - Sci-Fi
+  - Aliens
+  - Czech Games Edition
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Dread
+  - Progress
+  - Tension
+  - Clever
+  - Discovery
+
+# Player counts
+possible_counts: [1]
+true_counts: [1]
+
+# Metadata
+designer:
+  - Tomáš Uhlíř
+publisher:
+  - Czech Games Edition
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 12
+
+# Description
+description: |
+  Under Falling Skies is a solo dice-placement game published by Czech Games Edition in
+  2020, designed by Tomáš Uhlíř. The game originated from a 9-card print-and-play
+  prototype that won multiple categories in BGG's 2019 Print and Play Design Contest —
+  including Best Solitaire Game, Most Thematic Game, and Best Overall Game — before
+  CGE developed it into a full retail product for Essen 2020.
+
+  Players defend a besieged city against an alien invasion across a multi-mission
+  campaign. Each mission features a unique city layout with different buildings providing
+  special abilities. On each turn, the player rolls a pool of dice and assigns each to a
+  column of the city board — the die's value determines which row it can occupy, and both
+  placement and value trigger different building effects.
+
+  The aliens descend each round, and the die placed in the highest column slows their
+  mothership's advance, but lower values in that column mean fewer actions. This tension
+  between fighting off the enemy and powering base defenses drives every decision.
+  Under Falling Skies packs remarkable depth into a solo experience that plays in under
+  45 minutes.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,72 @@
+id: taj-mahal
+name: "Taj Mahal"
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Hand Management
+  - Set Collection
+  - Area Control
+  - Euro
+  - Historical
+  - Ancient
+  - Reiner Knizia
+  - Rio Grande Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Taj Mahal is an award-winning auction and area control game for 2-5 players designed by
+  Reiner Knizia, set in 18th century India during the Mughal Empire. Over 12 rounds, players
+  compete to influence the most powerful princes across different provinces of India. Each round
+  features a simultaneous card-based auction using five types of influence cards representing
+  different power types: politicians, elephants, viziers, palaces, and princesses. The player
+  who wins each category gains control of provinces and collects goods, while connections
+  between adjacent provinces multiply their value. The central tension is knowing when to
+  commit cards to compete for a province's prizes and when to gracefully withdraw to conserve
+  resources for future rounds. Taj Mahal won the Deutscher Spiele Preis in 2000 and remains
+  a beloved classic of strategic euro design.
+
+# Upgrades
+upgrades: []

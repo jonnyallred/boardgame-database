@@ -1,0 +1,75 @@
+id: silver-and-gold
+name: "Silver & Gold"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~20 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Roll & Write
+  - Set Collection
+  - Pattern Building
+  - Family
+  - Filler
+  - Gateway
+  - Maritime
+  - Phil Walker-Harding
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Complete
+  - Clever
+  - Lucky
+  - Progress
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Phil Walker-Harding
+publisher:
+  - Pandasaurus Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+# Description
+description: |
+  Silver & Gold is a flip-and-write game published by Pandasaurus Games in 2019, designed by Phil
+  Walker-Harding (Sushi Go!, Imhotep, Bärenpark). Rather than dice, the game uses a deck of cards
+  that reveal Tetris-style polyomino shapes each round, which all players simultaneously mark on their
+  individual island treasure map cards using dry-erase markers.
+
+  Each player has a hand of island cards — double-sided, wipeable map cards — and tries to fill them
+  completely to score points and move on to new islands. When a shape card is flipped, every player
+  places X marks matching that shape anywhere on their current island. Completing an island scores
+  points plus any bonuses shown (palm trees for extra points, anchors for extra drawings, coins for
+  immediate points). A special red X on each card provides a bonus for the player who covers it first.
+
+  Silver & Gold is praised for its satisfying puzzle-solving feel, near-zero downtime (everyone plays
+  simultaneously), and elegant elegance — all the satisfying polyomino-fitting joy of a spatial puzzle
+  in a 20-minute filler package.
+
+# Upgrades
+upgrades: []

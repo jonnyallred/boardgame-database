@@ -1,0 +1,72 @@
+id: thurn-and-taxis
+name: "Thurn and Taxis"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate competition
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Route Building
+  - Network Building
+  - Hand Management
+  - Set Collection
+  - Euro
+  - Historical
+  - Rio Grande Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Tension
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Andreas Seyfarth
+  - Karen Seyfarth
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Thurn and Taxis is a route-building game for 2-4 players designed by Andreas and Karen Seyfarth,
+  winner of the 2006 Spiel des Jahres. Set in 18th century Bavaria and the Holy Roman Empire,
+  players build postal route networks to connect cities across a map of Central Europe,
+  representing the historical Thurn und Taxis family who operated a real postal empire. Each
+  turn, players draw route cards, extend their postal routes by connecting adjacent cities, and
+  eventually complete and score routes of increasing length. Completed routes earn post office
+  tokens placed across the map, and bonuses are awarded for covering entire regions or building
+  the longest networks. The game rewards efficient planning and timing — routes must be at least
+  three cities long to score, and knowing when to complete a short route versus extending further
+  for a bigger payoff is the central strategic tension. Its clean mechanics and accessible
+  theme make it a perennial gateway Euro recommendation.
+
+# Upgrades
+upgrades: []

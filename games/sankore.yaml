@@ -1,0 +1,90 @@
+id: sankore
+name: "Sankoré: The Pride of Mansa Musa"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (150-180 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Tech Tree
+  - Action Points
+  - Engine Building
+  - Variable Player Powers
+  - Asymmetric
+  - Euro
+  - Historical
+  - Osprey Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Masterful
+  - Clever
+  - Wonder
+  - Agency
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Fabio Lopiano
+  - Mandela Fernandez-Grandon
+publisher:
+  - Osprey Games
+artist:
+  - Ian O'Toole
+playtime_minutes: 165
+min_playtime: 150
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Sankoré: The Pride of Mansa Musa is a mid-to-heavy weight eurogame for 1-4
+  players set in 14th-century Timbuktu, at the height of the Mali Empire's
+  power. Tasked by the legendary Emperor Mansa Musa with spreading knowledge
+  throughout West Africa, each player manages a prestigious school within the
+  renowned Sankoré Madrasa — one of the great universities of the medieval world.
+
+  Players compete to advance knowledge across four academic disciplines:
+  theology, law, mathematics, and astronomy. Core actions revolve around
+  enrolling and graduating pupils, teaching classes, expanding the school's
+  curriculum, and filling the great library with books. Each discipline has its
+  own track, and advancing along them unlocks more powerful capabilities and
+  scoring opportunities, creating a rich engine-building experience.
+
+  The game features point-to-point movement, resource management, and tech
+  tracks that give each player a unique development arc. Components include a
+  main board, four player boards, over 260 wooden pieces, and more than 190
+  tokens, reflecting the game's depth and scope. A dedicated solo mode pits
+  the player against an automated distinguished scholar with its own behavior
+  system.
+
+  Designed by Fabio Lopiano and Mandela Fernandez-Grandon with artwork by Ian
+  O'Toole and published by Osprey Games in 2024, Sankoré is notable for its
+  rich historical theme spotlighting Islamic West African scholarship — a
+  rarely explored setting in modern board gaming — combined with a satisfying
+  and densely interconnected euro engine.
+
+# Upgrades
+upgrades: []

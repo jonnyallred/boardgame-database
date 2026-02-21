@@ -1,0 +1,75 @@
+id: trains
+name: "Trains"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Network Building
+  - Route Building
+  - Hand Management
+  - Euro
+  - Trains
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Masterful
+  - Progress
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Hisashi Hayashi
+publisher:
+  - Alderac Entertainment Group
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  Trains is a deck-building board game designed by Hisashi Hayashi and published by
+  Alderac Entertainment Group in 2013. It blends the familiar mechanics of deck building
+  (à la Dominion) with physical track-laying on a modular board map, creating a hybrid
+  that gives spatial weight to card purchases.
+
+  Players start with a small set of cards and build increasingly effective decks to
+  place stations and lay rail across maps of Japanese cities including Osaka and Tokyo.
+  Laying track on the board generates Waste cards that clog decks — forcing players to
+  balance efficient card-playing with physical network expansion on the map.
+
+  The interplay between deck construction and board presence is the game's signature:
+  optimal card combos mean little without strategic rail placement, and vice versa.
+  Cards are purchased from a shared market using Train tokens, with various card types
+  enabling different rail and station placement options. For 2-4 players in 30-60 minutes,
+  Trains offers a satisfying middle ground between pure deck builders and train route games.
+
+# Upgrades
+upgrades: []

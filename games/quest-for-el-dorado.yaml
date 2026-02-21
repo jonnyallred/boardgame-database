@@ -1,0 +1,71 @@
+id: quest-for-el-dorado
+name: "The Quest for El Dorado"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Friendly competition
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Racing
+  - Modular Board
+  - Hand Management
+  - Euro
+  - Family
+  - Gateway
+  - Reiner Knizia
+  - Ravensburger
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Discovery
+  - Tension
+  - Lucky
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  The Quest for El Dorado is a deck-building race game for 2-4 players designed by Reiner Knizia
+  and published by Ravensburger. Players lead expeditions through a modular jungle map, using their
+  card deck to move through colored terrain hexes — green jungle requires machete cards, blue water
+  requires paddle cards, and yellow desert requires coin cards. Each turn, players play cards from
+  their hand to move their explorer across the board, then may purchase new, more powerful cards
+  to add to their deck. The first player to break through all terrain barriers and reach the golden
+  city of El Dorado wins. The modular board offers over 100,000 possible layouts, and the streamlined
+  deck-building mechanics make it one of the most accessible games in the genre. It was nominated
+  for the 2017 Spiel des Jahres and praised for elegantly merging racing and deck building.
+
+# Upgrades
+upgrades: []

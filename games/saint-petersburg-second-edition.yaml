@@ -1,0 +1,71 @@
+id: saint-petersburg-second-edition
+name: "Saint Petersburg (Second Edition)"
+year: 2014
+
+# Relationships
+game_family: saint-petersburg
+edition: second
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Set Collection
+  - Hand Management
+  - Euro
+  - Economic
+  - Rio Grande Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Michael Tummelhofer
+publisher:
+  - Hans im Glück
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+# Description
+description: |
+  Saint Petersburg (Second Edition) is a revised and expanded version of the 2004 Eurogame classic,
+  funded via a successful 2014 crowdfunding campaign on the German platform Spieleschmiede. This edition
+  features brand-new artwork for all cards, rebalanced card values, and includes The Market expansion
+  which adds a fifth player option and a new scoring mechanism.
+
+  As in the original, players draft cards representing Craftsmen, Buildings, Aristocrats, and Exchange
+  cards. Craftsmen produce income each round, Buildings grant points or bonuses, and Aristocrats score
+  based on the sets collected at game end. The fundamental tension of timing — buy early for advantage or
+  wait for cards to become cheaper — remains central. The Market expansion introduces market stalls as an
+  additional card type, providing new strategic paths and accommodating a fifth player. The second edition
+  stands as the definitive version of one of the landmark Eurogames of the early 2000s.
+
+# Upgrades
+upgrades: []

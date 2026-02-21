@@ -1,0 +1,72 @@
+id: take-time
+name: "Take Time"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light cooperative
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Set Collection
+  - Pattern Building
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Connection
+  - Progress
+  - Tension
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Alexi Povesian
+  - Julien Prothière
+publisher:
+  - Libellud
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Take Time is a cooperative puzzle card game published by Libellud in October 2025.
+  Players work together to strategically place 12 Solar and Lunar cards face down around
+  a clock face, passing 40 increasingly challenging tests across 10 chapters.
+
+  The game challenges teams to coordinate their card placement without revealing the
+  cards' faces, building a shared mental model of what's been placed where. The clock
+  structure creates a distinctive spatial puzzle, as timing and position both matter.
+
+  Designed for 1-4 players ages 10 and up, Take Time offers a gentle cooperative
+  experience with escalating difficulty through its chapter structure, making it
+  accessible to families and casual groups while still providing satisfying puzzle-
+  solving challenges.
+
+# Upgrades
+upgrades: []

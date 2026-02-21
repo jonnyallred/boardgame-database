@@ -1,0 +1,78 @@
+id: thunderstone-quest
+name: "Thunderstone Quest"
+year: 2018
+
+# Relationships
+game_family: thunderstone
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light cooperative
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Cooperative
+  - Campaign Mode
+  - Dice Rolling
+  - Hand Management
+  - Variable Setup
+  - Fantasy
+  - Dungeon Crawler
+  - Ameritrash
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Masterful
+  - Progress
+  - Powerful
+  - Tension
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Mark Wootton
+  - Bryan Reese
+publisher:
+  - Alderac Entertainment Group
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Thunderstone Quest is a deck-building dungeon crawler published by Alderac Entertainment
+  Group in 2018, a reimagining of the original Thunderstone series. Players form parties
+  of heroes, equip them with weapons, spells, and magic items, and send them into a
+  redesigned modular dungeon to fight terrifying monsters.
+
+  The dungeon system features a significant overhaul, dramatically increasing variability
+  and complexity. When a player ventures into the dungeon, they must map out their path
+  and choose which monsters to fight, with bonus card draws and penalties creating a
+  press-your-luck feel. Guardian Keys hidden throughout the dungeon lead to a climactic
+  Final Battle when a complete set is uncovered.
+
+  Thunderstone Quest introduces campaign play with a series of pre-set dungeon tiles,
+  monsters, heroes, and support cards, each accompanied by a story booklet that narrates
+  progress through interconnected mini-adventures. The game supports 1-4 players and
+  features high replayability through its modular setup.
+
+# Upgrades
+upgrades: []

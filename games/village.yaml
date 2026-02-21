@@ -1,0 +1,79 @@
+id: village
+name: "Village"
+year: 2011
+
+# Relationships
+game_family: village
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Action Points
+  - Variable Setup
+  - Euro
+  - Medieval
+  - Historical
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Progress
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - Eggertspiele
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Village is a euro strategy game designed by Inka and Markus Brand, published by
+  Eggertspiele in 2011. It won both the Kennerspiel des Jahres and Deutscher Spiele Preis
+  in 2012. Set in a medieval village, players manage families across multiple generations,
+  pursuing different paths to prestige and victory.
+
+  Players can farm, craft goods, travel to foreign cities, participate in church politics,
+  or seek election to the village council — each path yielding different point-scoring
+  opportunities. The game's signature mechanic involves the passage of time: older family
+  members eventually die, and players must decide when to let them pass in order to make
+  room for new generations. Deceased villagers who have achieved notable things are
+  commemorated in the Village Chronicle, awarding end-game points.
+
+  This elegant integration of death as a game mechanism creates genuinely touching
+  moments alongside the competition. Resource management flows through colored cubes
+  acquired from a central market, where earlier buyers get first choice but later buyers
+  can take from multiple positions. Village is celebrated for its thematic integration,
+  strategic variety, and emotional resonance.
+
+# Upgrades
+upgrades: []

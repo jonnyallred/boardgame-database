@@ -1,0 +1,71 @@
+id: taverns-of-tiefenthal
+name: "The Taverns of Tiefenthal"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate competition
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Dice Rolling
+  - Drafting
+  - Engine Building
+  - Resource Management
+  - Euro
+  - Medieval
+  - Historical
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Lucky
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Wolfgang Warsch
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+# Description
+description: |
+  The Taverns of Tiefenthal is a deck-building dice-drafting game for 2-4 players designed by
+  Wolfgang Warsch (The Mind, The Quacks of Quedlinburg). Players take the role of tavern owners
+  in the small village of Tiefenthal, competing to build the most successful establishment over
+  eight rounds. Each round, players draft dice to attract patrons (earning coins and points),
+  buy new cards to strengthen their deck, and upgrade their tavern with new rooms and features.
+  The modular expansion system built into the base game introduces additional rule modules
+  that can be added incrementally, allowing the game to grow in complexity as players become
+  more experienced. The deck-building and dice-drafting mechanisms interweave elegantly, with
+  the quality of your card deck directly affecting the power of your dice placements. Published
+  by Schmidt Spiele, it received widespread acclaim for its layered but approachable design.
+
+# Upgrades
+upgrades: []

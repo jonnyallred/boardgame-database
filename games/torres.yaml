@@ -1,0 +1,78 @@
+id: torres
+name: "Torres"
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Action Points
+  - Area Control
+  - Tile Placement
+  - Hand Management
+  - Abstract
+  - Euro
+  - Medieval
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Masterful
+  - Powerful
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Torres is an award-winning abstract strategy game designed by Wolfgang Kramer and
+  Michael Kiesling, originally published by F.X. Schmid in 1999 with an English edition
+  from Rio Grande Games. It won the Spiel des Jahres that year alongside a second-place
+  finish at the Deutscher Spiele Preis.
+
+  Players are medieval knights building and competing to occupy the highest levels of
+  growing castles. The three-dimensional board evolves as players spend their five action
+  points each turn to expand castle footprints, stack additional castle blocks upward, or
+  move knights between towers. Only one knight can occupy the highest level of any castle
+  at scoring time, so control of the tallest positions is fiercely contested.
+
+  The joy of Torres lies in the tactical efficiency of those five action points — choosing
+  when to build, when to climb, and when to block opponents. A hand of action cards
+  provides additional special abilities each round. Clean rules mask surprisingly deep
+  positional play that has made this Kiesling-Kramer collaboration a lasting classic.
+
+# Upgrades
+upgrades: []

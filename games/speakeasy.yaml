@@ -1,0 +1,75 @@
+id: speakeasy
+name: "Speakeasy"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (50-180 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Hand Management
+  - Worker Placement
+  - Resource Management
+  - Euro
+  - Historical
+  - Vital Lacerda
+  - Eagle-Gryphon Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Masterful
+  - Powerful
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Vital Lacerda
+publisher:
+  - Eagle-Gryphon Games
+artist:
+  - Ian O'Toole
+playtime_minutes: 115
+min_playtime: 50
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Speakeasy transports players to 1920s Manhattan during Prohibition, where Lucky Luciano
+  and other mobsters control the city's underground. Players take on the roles of rival
+  mobsters, managing and operating their own speakeasy empire across four rounds representing
+  the 13 years of Prohibition.
+
+  Players manage a hand of operation cards throughout the game, with player boards tracking
+  VIP, party, still, fleet, and strength levels. The game features area majority and
+  influence mechanics combined with pick-up and deliver elements. As each round progresses,
+  new mobsters enter the city while police presence grows, increasing pressure on all players.
+
+  Designed by Vital Lacerda and illustrated by Ian O'Toole, Speakeasy is a heavy euro
+  experience with deep strategic planning and rich historical theming. The goal is to
+  accumulate the most money and become the most successful mobster in Manhattan.
+
+# Upgrades
+upgrades: []

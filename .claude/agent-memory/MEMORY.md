@@ -67,3 +67,27 @@
 - French/Belgian publisher (Brussels), NOT in schema.yaml categories list
 - Published: Ca$h 'n Guns, Just One, So Clover!, 7 Wonders, Concept
 - Slug for Ca$h 'n Guns: `cash-n-guns` (special chars stripped)
+
+## Invalid Category Tags (additional)
+- "Adventure" is NOT valid — use "Ameritrash" or "Fantasy" for adventure-style games
+- "Star Wars" is NOT a valid theme tag — use "Sci-Fi" instead
+- "Animals" is NOT valid — confirmed again
+
+## Publisher Tags (valid in categories)
+- Eagle-Gryphon Games: valid tag
+- Chip Theory Games: valid tag
+- Days of Wonder: valid tag
+- Osprey Games: valid tag
+- Czech Games Edition: valid tag
+- Orange Nebula: NOT in schema — omit from categories
+- Le Scorpion Masqué: NOT in schema — omit from categories (also spelled "Scorpion Masque")
+
+## Non-English Title Slugs
+- Use original language for slug if that is the primary title: "um-reifenbreite" (not English translation)
+- Alternate/English names go in alternate_names[]
+
+## Efficient Batch Research Workflow (20 games)
+- Run 8-10 parallel WebSearch calls (2 games per call) to gather all data first
+- Then create all YAML files in parallel Write calls
+- Skip pipeline when WebSearch gives sufficient detail
+- This approach completes 20 games in ~15 total tool calls

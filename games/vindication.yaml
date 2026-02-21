@@ -1,0 +1,78 @@
+id: vindication
+name: "Vindication"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Resource Management
+  - Modular Board
+  - Variable Player Powers
+  - Asymmetric
+  - Set Collection
+  - Ameritrash
+  - Fantasy
+  - Adventure
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Masterful
+  - Powerful
+  - Progress
+  - Unique
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Marc Neidlinger
+publisher:
+  - Orange Nebula
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Vindication is a strategic fantasy adventure board game designed by Marc Neidlinger and
+  published by Orange Nebula in 2018. Players take on the roles of disgraced individuals
+  washed ashore on a mysterious island, seeking to transform themselves through deeds of
+  heroism and earn vindication.
+
+  The game features a modular board built from tile draws, creating a fresh island layout
+  each play. Players spend influence — the game's central currency — to gain companions,
+  unlock character traits, discover mysterious relics, control map regions, and defeat
+  horrific monsters. An attribute system tracks growth across multiple character
+  dimensions as players accumulate Honor, the scoring currency.
+
+  The emergent combo potential from companions, relics, and traits creates highly varied
+  gameplay, with each path to Honor remaining viable. Vindication supports 1-5 players
+  with a dedicated solo mode and has spawned several expansions. Known for exceptional
+  component quality and a thematically rich redemption narrative, it is a fan favorite
+  among those who appreciate sandbox-style exploration with strategic depth.
+
+# Upgrades
+upgrades: []

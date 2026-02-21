@@ -1,0 +1,80 @@
+id: twilight-struggle
+name: "Twilight Struggle"
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (3+ hours)
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 4  # Fierce (pure 2-player confrontation)
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Hand Management
+  - Events
+  - Card Drafting
+  - Wargame
+  - Historical
+  - Cult Classic
+  - Espionage
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Dread
+  - Masterful
+  - Rivalry
+  - Tension
+  - Unique
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Ananda Gupta
+  - Jason Matthews
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  Twilight Struggle: The Cold War, 1945-1989 is a two-player card-driven strategy game
+  designed by Ananda Gupta and Jason Matthews, published by GMT Games in 2005. Players
+  represent the United States and Soviet Union in their decades-long ideological and
+  geopolitical struggle for global influence.
+
+  The game uses a card-driven mechanism where each card represents a historical event
+  from the Cold War. When played, a card can either trigger its event (which may benefit
+  either side regardless of who plays it) or be used for Operations points to place
+  influence, conduct coups, or advance on the Space Race track. This dual-use system
+  creates agonizing decisions: playing an opponent's powerful event to gain ops points,
+  or holding it to deny them the event?
+
+  Play is divided into three phases — Early War, Mid War, and Late War — each adding new
+  cards reflecting historical developments. Victory is tracked via a Defcon track (nuclear
+  war ends the game immediately) and a global influence scoring system. Once ranked the
+  number one game on BoardGameGeek, Twilight Struggle is widely considered one of the
+  greatest two-player games ever designed, beloved for its historical authenticity and
+  the relentless pressure it places on both players.
+
+# Upgrades
+upgrades: []

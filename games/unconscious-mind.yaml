@@ -1,0 +1,78 @@
+id: unconscious-mind
+name: "Unconscious Mind"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Engine Building
+  - Rondel
+  - Set Collection
+  - Tableau Building
+  - Euro
+  - Historical
+  - Mystery
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Discovery
+  - Mystery
+  - Progress
+  - Tension
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Dávid Turczi
+  - Konstantinos Kokkinis
+publisher:
+  - Fantasia Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Unconscious Mind is a euro-style board game published by Fantasia Games in 2024, set in
+  the early days of Freudian psychoanalysis. Players become psychoanalysts competing for
+  recognition in Sigmund Freud's inner circle, delving into clients' unconscious minds to
+  bring healing and earn prestige in the city of Vienna.
+
+  The game features an innovative multi-rondel system combined with worker placement and
+  cascading effects. On each turn, players may place one or two Ideas (workers) on a
+  central Meeting Table to access a variety of actions — adding tiles to their player
+  board, drafting and playing cards, and moving around Vienna. The placement of Ideas also
+  determines how far to advance the personal rondel's inkpot, activating a row or column
+  of tile effects on the player board.
+
+  This interplay between the shared table placement and personal rondel advancement
+  creates satisfying combo chains and strategic depth. The game includes a well-designed
+  solo mode and supports 1-4 players. Unconscious Mind earned praise for its thematic
+  integration and the elegant tension between its multiple interconnected systems.
+
+# Upgrades
+upgrades: []

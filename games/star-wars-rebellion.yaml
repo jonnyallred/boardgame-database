@@ -1,0 +1,73 @@
+id: star-wars-rebellion
+name: "Star Wars: Rebellion"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (3-4 hours)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 4  # Fierce asymmetric conflict
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Hidden Movement
+  - Action Points
+  - 1 vs Many
+  - Wargame
+  - Ameritrash
+  - Sci-Fi
+  - Space
+  - Fantasy Flight Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Powerful
+  - Dread
+  - Unique
+  - Rivalry
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Corey Konieczka
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 300
+min_age: 14
+
+# Description
+description: |
+  Star Wars: Rebellion is a grand asymmetric 2-4 player wargame depicting the Galactic Civil
+  War between the Galactic Empire and the Rebel Alliance. One to two players control the massive
+  resources of the Empire, seeking to crush the Rebellion by subjugating planets and hunting
+  down the hidden Rebel base. The other side commands the scrappy Rebels, using guerrilla tactics,
+  diplomatic missions, and sabotage to build sympathy and survive until public support swings their
+  way. The game features hidden movement (the Rebel base remains secret), leader deployment for
+  missions across a sprawling 32-planet board, and cinematic combat using custom dice. With over
+  150 plastic miniatures including Star Destroyers, AT-ATs, and X-Wings, the game delivers an
+  epic scope that captures the feel of the original Star Wars trilogy.
+
+# Upgrades
+upgrades: []

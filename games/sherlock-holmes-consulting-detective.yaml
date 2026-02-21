@@ -1,0 +1,75 @@
+id: sherlock-holmes-consulting-detective
+name: "Sherlock Holmes: Consulting Detective"
+year: 1985
+
+# Relationships
+game_family: sherlock-holmes-consulting-detective
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (~90 min per case)
+rules_complexity: 1  # Simple rules, complex solving
+strategic_depth: 3  # Deep
+feel: 1  # Light social
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Deduction
+  - Narrative Heavy
+  - Puzzle Solving
+  - Mystery
+  - Historical
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Mystery
+  - Clever
+  - Tension
+  - Discovery
+  - Masterful
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Raymond Edwards
+  - Suzanne Goldberg
+  - Gary Grady
+publisher:
+  - Space Cowboys
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Sherlock Holmes: Consulting Detective is a cooperative deduction game originally published by Sleuth
+  Productions in 1981, winning the Spiel des Jahres in 1985. The game is currently published by Space
+  Cowboys (an Asmodee label), which began releasing new standalone case collections starting in 2016.
+
+  The game has no board, no dice, no tokens — only booklets of case text, detailed maps of Victorian
+  London, replica newspapers, and a directory of addresses. Players are assigned a mystery to solve:
+  they choose which leads to pursue by selecting numbered entries to read aloud from the casebook, visiting
+  locations, interviewing suspects, and piecing together clues from newspapers. Once satisfied, players
+  answer a series of questions about the case, then read Holmes's own solution. Points are awarded based
+  on how efficiently players solved the case compared to the great detective himself.
+
+  Multiple standalone volumes exist, including The Thames Murders & Other Cases, Carlton House & Queen's
+  Park, and others. Each set contains 10 fully self-contained mysteries. The game is celebrated for its
+  rich narrative immersion and the genuine intellectual satisfaction of cracking a well-constructed mystery.
+
+# Upgrades
+upgrades: []

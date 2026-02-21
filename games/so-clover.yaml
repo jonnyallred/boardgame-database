@@ -1,0 +1,74 @@
+id: so-clover
+name: "So Clover!"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light cooperative
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Word Play
+  - Party
+  - Family
+  - Filler
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Connection
+  - Clever
+  - Humor
+  - Tension
+  - Complete
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - François Romain
+publisher:
+  - Repos Production
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+# Description
+description: |
+  So Clover! is a cooperative word-association party game published by Repos Production in June 2021,
+  designed by François Romain. The game was a 2022 Spiel des Jahres Recommended title and won the 2021
+  Golden Geek Best Party Game award.
+
+  Each player receives a clover-shaped pad divided into four sections, and places four keyword cards
+  in the corners so that two keywords share each leaf. Secretly, players write one clue word on each
+  leaf that connects both keywords adjacent to it. Once all players have written their clues, the pads
+  are shuffled and the group works together to deduce which keywords belong to which clover, using the
+  recorded clue words as guides. Teams score based on how many keywords are correctly identified across
+  all players' clovers, aiming to improve their score from game to game on the Table of Legends.
+
+  So Clover! is celebrated for being simultaneously simple, creative, and deeply satisfying. Unlike many
+  word games, it plays fully cooperatively with no traitor or competitive element, making it accessible
+  and welcoming for all groups. The challenge of writing a clue that bridges two potentially unrelated
+  words creates wonderful "aha!" moments and playful discussion.
+
+# Upgrades
+upgrades: []

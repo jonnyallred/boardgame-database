@@ -1,0 +1,73 @@
+id: tiny-towns
+name: "Tiny Towns"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate competition
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Pattern Building
+  - Puzzle Solving
+  - Resource Management
+  - Simultaneous Action
+  - Variable Player Powers
+  - Euro
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Agency
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Peter McPherson
+publisher:
+  - Alderac Entertainment Group
+artist:
+  - Gong Studios
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  Tiny Towns is a spatial puzzle game for 1-6 players in which each player builds a tiny
+  settlement on a personal 4x4 grid. On each turn, the active player names a resource type,
+  and every player must place that resource cube anywhere on their grid. When a player arranges
+  the correct pattern of resource cubes matching a building's blueprint, they remove those cubes
+  and replace them with a building — but buildings can never be moved, and any cubes that cannot
+  be placed are lost. The challenge is that you must accept resources even when they don't fit
+  your plans, making efficiency and spatial foresight critical. Each player also chooses one
+  unique Monument that scores differently, adding asymmetric objectives. The game ends when no
+  player can place any more buildings, and the player with the most victory points from buildings
+  and empty spaces wins. Published by AEG, Tiny Towns is praised for its elegant rules,
+  satisfying spatial puzzle, and remarkably different experience at each player count.
+
+# Upgrades
+upgrades: []

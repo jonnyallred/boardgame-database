@@ -1,0 +1,74 @@
+id: shipshape
+name: "ShipShape"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Set Collection
+  - Simultaneous Action
+  - Puzzle Solving
+  - Family
+  - Pirates
+  - Rob Daviau
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Complete
+  - Lucky
+  - Humor
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Rob Daviau
+publisher:
+  - Calliope Games
+artist:
+  - Dhaniels Castillo
+  - Andrew Hepworth
+  - Ben Wootten
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+# Description
+description: |
+  ShipShape is a light bidding and spatial puzzle game published by Calliope Games in 2019, designed by
+  Rob Daviau. Players are pirate captains competing to fill their ship holds with the most valuable haul
+  of treasure, cannons, and contraband over three voyages.
+
+  Each round, players simultaneously select one of their numbered Crew cards (1-10) as a bid, then reveal
+  them simultaneously. In descending bid order, players claim Crate tiles from the central stack — but
+  higher bidders get first pick of the available tiles. The real puzzle comes from arranging foam-core
+  Crate tiles in your ship's hold: tiles have cut-out windows that let lower layers show through, meaning
+  only what is visible at game end scores. Strategic stacking and careful placement are key to maximizing
+  your score. ShipShape delivers a satisfying combination of auction tension, spatial reasoning, and the
+  tactile pleasure of assembling a physical 3D stack in a compact, family-friendly package.
+
+# Upgrades
+upgrades: []

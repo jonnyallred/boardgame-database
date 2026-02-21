@@ -1,0 +1,81 @@
+id: undaunted-normandy
+name: "Undaunted: Normandy"
+year: 2019
+
+# Relationships
+game_family: undaunted
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-75 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 4  # Fierce (head-to-head wargame)
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hex Map
+  - Variable Setup
+  - Hand Management
+  - Campaign Mode
+  - Wargame
+  - Historical
+  - War
+  - Osprey Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Masterful
+  - Powerful
+  - Rivalry
+  - Tension
+  - Unique
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Trevor Benjamin
+  - David Thompson
+publisher:
+  - Osprey Games
+artist:
+  - Roland MacDonald
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+# Description
+description: |
+  Undaunted: Normandy is a two-player deck-building wargame designed by Trevor Benjamin
+  and David Thompson, published by Osprey Games in 2019. It won the BoardGameGeek Game
+  of the Year award and is widely acclaimed for combining accessible deckbuilding
+  mechanics with genuine tactical depth.
+
+  Players lead American or German forces through 12 scenarios depicting the 30th Infantry
+  Division's campaign from Omaha Beach to Mortain. Each unit on the board corresponds
+  directly to cards in the player's deck — the game's signature mechanic is casualty
+  representation: when a unit is successfully attacked, its cards are removed from the
+  deck, and if no cards remain, the unit is eliminated from the board.
+
+  This elegant connection between deck state and board presence creates fog of war and
+  command-and-control tension organically. Players use multi-use cards for either
+  movement, combat, or reinforcement, adding hand management decisions to the tactical
+  positioning puzzle. The progressive campaign tells a coherent historical story while
+  each scenario plays in under 75 minutes, making Undaunted: Normandy an ideal entry
+  point for wargaming and a standout in the deck-building genre.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,74 @@
+id: star-wars-battle-of-hoth
+name: "Star Wars: Battle of Hoth"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - 1 vs Many
+  - Hex Map
+  - Modular Board
+  - Variable Setup
+  - Wargame
+  - Sci-Fi
+  - Star Wars
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Unique
+  - Wonder
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Richard Borg
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+# Description
+description: |
+  Star Wars: Battle of Hoth is a fast-paced miniatures battle board game recreating the
+  iconic battle from Star Wars: The Empire Strikes Back. Using the Command & Colors game
+  system designed by Richard Borg, one player commands the ferocious Imperial army while
+  the other leads the courageous Rebel forces on the ice planet Hoth.
+
+  Each side has three distinct unit types: both sides field infantry, the Rebel Alliance
+  commands snowspeeders and artillery turrets, while the Empire deploys probe droids and
+  the dreaded AT-AT walkers. Players choose Command Cards each turn to activate units,
+  then decide how to move and attack across the battlefield.
+
+  The game includes 17 scenarios spanning the full battle, with optional Leader Cards
+  featuring 6 iconic Star Wars characters. Two multi-scenario campaigns allow for extended
+  play. Published by Days of Wonder and distributed by Asmodee, the game captures the
+  heroic and desperate feel of the famous Hoth retreat in an accessible tactical format.
+
+# Upgrades
+upgrades: []

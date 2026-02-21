@@ -1,0 +1,71 @@
+id: tea-dragon-society-card-game
+name: "The Tea Dragon Society Card Game"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary/gentle cooperative feel
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Drafting
+  - Cooperative
+  - Fantasy
+  - Family
+  - Renegade Game Studios
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Wonder
+  - Connection
+  - Complete
+  - Discovery
+  - Clever
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Kay Merkel
+publisher:
+  - Renegade Game Studios
+artist:
+  - Katie O'Neill
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  The Tea Dragon Society Card Game is a gentle fantasy card game for 2-4 players based on the
+  award-winning graphic novel series by Katie O'Neill. Players nurture adorable tea dragons
+  throughout the seasons of a year, collecting memory cards and building relationships with
+  their companions. On each turn, players tend to tea dragons by playing season cards to grow
+  them, harvest the tea they produce, and collect memories tied to those teas. The game is
+  cooperative in spirit but competitive in scoring, with players earning points for the memories
+  they collect and the dragons they care for. The artwork by graphic novelist Katie O'Neill gives
+  the game a warm, illustrated-book aesthetic that makes it stand out on any game table. It
+  appeals especially to fans of the source material and those seeking a relaxed, low-conflict
+  gaming experience with beautiful production values.
+
+# Upgrades
+upgrades: []

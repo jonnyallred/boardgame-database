@@ -1,0 +1,80 @@
+id: ticket-to-ride-europe
+name: "Ticket to Ride: Europe"
+year: 2005
+
+# Relationships
+game_family: ticket-to-ride
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Route Building
+  - Card Drafting
+  - Hand Management
+  - Euro
+  - Family
+  - Gateway
+  - Historical
+  - Alan R. Moon
+  - Days of Wonder
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Complete
+  - Progress
+  - Rivalry
+  - Tension
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Alan R. Moon
+publisher:
+  - Days of Wonder
+artist:
+  - Julien Delval
+  - Cyrille Daujean
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Ticket to Ride: Europe is a standalone expansion to the award-winning Ticket to Ride
+  series, designed by Alan R. Moon and published by Days of Wonder in 2005. Players
+  collect cards of various train car types and use them to claim railway routes connecting
+  cities across a beautifully illustrated map of Europe.
+
+  The Europe map introduces several new gameplay elements not found in the original:
+  Tunnels add risk to mountain crossings as players must reveal extra cards; Ferries
+  require locomotive wildcards to claim; and Train Stations allow players to use
+  opponents' routes to complete their destination tickets. These additions give the game
+  a slightly more complex and strategic feel than the base game.
+
+  Players secretly hold destination tickets showing city pairs to connect, earning points
+  for completed routes and losing points for uncompleted ones. The game plays in 30-60
+  minutes for 2-5 players ages 8 and up, making it an ideal gateway game and a staple
+  of family game nights worldwide.
+
+# Upgrades
+upgrades: []

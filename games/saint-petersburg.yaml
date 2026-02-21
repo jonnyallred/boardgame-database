@@ -1,0 +1,72 @@
+id: saint-petersburg
+name: "Saint Petersburg"
+year: 2004
+
+# Relationships
+game_family: saint-petersburg
+edition: first
+base_game: null
+expansions:
+  - saint-petersburg-second-edition
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Set Collection
+  - Hand Management
+  - Euro
+  - Economic
+  - Rio Grande Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Michael Tummelhofer
+publisher:
+  - Hans im Glück
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+# Description
+description: |
+  Saint Petersburg is a card-drafting and set collection Eurogame set in the Russian city of the same name
+  during the reign of Peter the Great. Designed by Michael Tummelhofer (a pseudonym representing the
+  collaborative work of Bernd Brunnhofer, Jay Tummelson, and Michael Bruinsma), the game was published by
+  Hans im Glück in 2004 and won both the Deutscher Spiele Preis and International Gamers Award that year.
+
+  Each round, players draft cards from four different decks representing Craftsmen, Buildings, Aristocrats,
+  and Exchange cards. Craftsmen generate rubbles (income) each round, Buildings provide victory points
+  immediately or ongoing bonuses, and Aristocrats score points at game end based on sets. The clever tension
+  lies in the timing: cards on the market become cheaper the longer they sit, so players must balance buying
+  early for advantage versus waiting for a better price. The game ends when any deck is exhausted, rewarding
+  players who build efficient engines across all three card types.
+
+# Upgrades
+upgrades: []

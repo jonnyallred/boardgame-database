@@ -123,7 +123,9 @@ Source lists do **not** define the total game universe — `master_list.csv` doe
 **Add a new game:**
 Use the `/add-game` skill (single game) or the `game-researcher` agent (one or many games). Both handle web research, schema validation, and YAML creation automatically.
 
-When adding multiple games at once, use the Task tool to launch parallel `game-researcher` agents — one per game — all in a single message. Each agent works independently and in parallel. Do **not** use the Skill tool directly for batch additions.
+When adding multiple games at once, split the list into **chunks of 20** and launch one `game-researcher` agent per chunk — all in parallel via the Task tool. Each agent receives a numbered list and processes them sequentially within the batch.
+
+Example: 50 games → 3 agents (20 + 20 + 10), launched in a single message. Do **not** use the Skill tool directly for batch additions.
 
 **Manual alternative** (if needed):
 1. Create `games/{slug}.yaml` based on the template in schema.yaml

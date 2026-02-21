@@ -1,0 +1,78 @@
+id: trajan
+name: "Trajan"
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Mancala
+  - Worker Placement
+  - Set Collection
+  - Action Points
+  - Variable Setup
+  - Euro
+  - Ancient
+  - Stefan Feld
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Masterful
+  - Progress
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Stefan Feld
+publisher:
+  - Capstone Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Trajan is a heavy euro game designed by Stefan Feld, originally published in 2011 by
+  Ammonit Spieleverlag and later by Capstone Games. Set in ancient Rome around 110 AD,
+  players compete to score victory points by seizing opportunities across six distinct
+  tactical areas: building, trading, the forum, military, the Senate, and placing
+  special Trajan tiles.
+
+  The game's defining feature is its mancala-style action selection mechanism. Each player
+  has a personal rondel of six bowls containing colored pieces; on each turn, a player
+  scoops pieces from one bowl and distributes them one per bowl clockwise, then takes the
+  action of the bowl where the last piece lands. If the pieces in that bowl match the
+  colors shown on an adjacent Trajan tile, the player also triggers that tile's bonus.
+
+  Planning ahead in this mancala system — setting up future turns while denying opponents
+  opportunities — is the game's central challenge. Trajan tiles are placed at game start
+  and acquired through play, allowing players to customize their action chains. A favorite
+  among fans of deep euro designs, Trajan is widely regarded as one of Stefan Feld's
+  finest works.
+
+# Upgrades
+upgrades: []

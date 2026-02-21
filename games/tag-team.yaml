@@ -1,0 +1,74 @@
+id: tag-team
+name: "Tag Team"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (15 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Hand Management
+  - Take That
+  - Variable Player Powers
+  - Asymmetric
+  - Filler
+  - Party
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Lucky
+  - Rivalry
+  - Tension
+  - Unique
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Gricha German
+  - Corentin Lebrat
+publisher:
+  - Le Scorpion Masqué
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 10
+
+# Description
+description: |
+  Tag Team is a lightning-fast fighting card game for exactly two players, inspired by
+  classic arcade fighting games. Players each choose a team of two asymmetric characters
+  from 12 included in the box and battle it out in about 15 minutes.
+
+  The game combines auto-battler mechanics with deck building in a unique way: players
+  start with a deck of only two cards, and combat unfolds automatically by flipping cards
+  one at a time and applying their effects. At the end of each round, players strategically
+  add new cards to program their deck — crucially, without reordering the cards already
+  present — creating a puzzle-like planning element.
+
+  With open drafting and card play conflict resolution at its core, Tag Team is available
+  on Board Game Arena for online play. Its speed, asymmetric characters, and clever
+  deck-building twist make it a standout two-player filler.
+
+# Upgrades
+upgrades: []

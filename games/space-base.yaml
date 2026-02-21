@@ -1,0 +1,71 @@
+id: space-base
+name: "Space Base"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate engine building
+feel: 2  # Moderate competition
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Engine Building
+  - Tableau Building
+  - Set Collection
+  - Sci-Fi
+  - Space
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Lucky
+  - Clever
+  - Tension
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - John D. Clair
+publisher:
+  - Alderac Entertainment Group
+artist:
+  - Chris Walton
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+# Description
+description: |
+  Space Base is a dice-rolling engine-building game for 2-5 players set in a sci-fi universe
+  of space stations and starships. On your turn, you roll two dice and every player activates
+  ships in their base corresponding to either die individually or their combined sum. Each ship
+  card has three zones: a blue active zone (triggers on your own roll), a green passive zone
+  (triggers on any roll), and a red deployed zone (triggers only on opponents' rolls). As you
+  purchase and add ships, your engine grows more powerful, generating credits, income, and
+  victory points each round. The first player to reach 40 points triggers the final round.
+  With everyone engaged on every roll, Space Base eliminates downtime while rewarding clever
+  ship purchases and strategic tableau-building decisions.
+
+# Upgrades
+upgrades: []

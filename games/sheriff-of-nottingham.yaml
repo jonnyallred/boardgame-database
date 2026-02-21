@@ -1,0 +1,73 @@
+id: sheriff-of-nottingham
+name: "Sheriff of Nottingham"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Bluffing
+  - Hand Management
+  - Set Collection
+  - Negotiation
+  - Party
+  - Family
+  - Medieval
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Tension
+  - Persuasion
+  - Rivalry
+  - Lucky
+
+# Player counts
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Sergio Halaban
+  - André Zatz
+  - Bryan Pope
+publisher:
+  - Arcane Wonders
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+# Description
+description: |
+  Sheriff of Nottingham is a fast-paced bluffing and negotiation card game published by Arcane Wonders in
+  2014, designed by Sergio Halaban, André Zatz, and Bryan Pope. Set in the world of Robin Hood, players are
+  merchants attempting to bring goods through the city gates — legally or otherwise — while one player
+  rotates as the Sheriff, deciding who to inspect and who to let through.
+
+  On their turn, each merchant declares the contents of their pouch (always claiming to carry only legal
+  goods) and hands it sealed to the Sheriff. The Sheriff must decide: trust the merchant and let them pass,
+  or pay a penalty to inspect. If contraband is found, the merchant pays; if not, the Sheriff pays. Bribery
+  and negotiation are encouraged, leading to deals, bluffs, and betrayals. The rotating sheriff role keeps
+  everyone involved in the tension even out of their turn. Sheriff of Nottingham is a beloved social game
+  known for the raucous table talk and memorable moments it generates.
+
+# Upgrades
+upgrades: []

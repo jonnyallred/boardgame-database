@@ -1,0 +1,75 @@
+id: sea-salt-and-paper
+name: "Sea Salt & Paper"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~15 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Press Your Luck
+  - Card Drafting
+  - Filler
+  - Family
+  - Maritime
+  - Bruno Cathala
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Tension
+  - Clever
+  - Complete
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Bruno Cathala
+  - Théo Rivière
+publisher:
+  - Bombyx
+artist:
+  - Lucien Derainne
+  - Pierre-Yves Gallard
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+# Description
+description: |
+  Sea Salt & Paper is a quick and gorgeous hand management and set collection card game published by
+  Bombyx in 2022, designed by Bruno Cathala and Théo Rivière with striking origami-inspired artwork by
+  Lucien Derainne and Pierre-Yves Gallard. The game was distributed in North America by Pandasaurus Games.
+
+  Each turn, players either draw two cards and keep one (discarding the other face-up), or take the top
+  card from one of the discard piles and activate its special ability. Maritime creatures — fish, crabs,
+  squids, sailors, sharks, mermaids — form sets that score points. When a player reaches seven or more
+  points, they may end the round by calling "Stop!" and scoring, or boldly declare "Last Chance!" — betting
+  they will outscore all opponents before points are tallied. This press-your-luck moment creates nail-biting
+  decisions. Sea Salt & Paper won the 2023 As d'Or — Jeu de l'Année (France) and earned considerable praise
+  for delivering surprising strategic depth in a compact, beautifully presented package.
+
+# Upgrades
+upgrades: []

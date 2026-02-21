@@ -1,0 +1,73 @@
+id: journeys-in-middle-earth
+name: "The Lord of the Rings: Journeys in Middle-Earth"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min per session)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Cooperative (Solitary side)
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Modular Board
+  - Hand Management
+  - Variable Player Powers
+  - Narrative Heavy
+  - Fantasy
+  - Lord of the Rings
+  - Fantasy Flight Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Wonder
+  - Tension
+  - Progress
+  - Connection
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Nathan I. Hajek
+  - Grace Holdinghaus
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  The Lord of the Rings: Journeys in Middle-Earth is a fully cooperative, app-supported
+  dungeon-crawl style adventure game for 1-5 players set in Tolkien's beloved world. Players
+  choose iconic heroes such as Bilbo, Aragorn, Legolas, or Gimli, each with unique skill decks
+  that replace dice rolls entirely — cards drawn from your personal deck determine success and
+  failure on skill tests. The companion app controls enemy behavior, tracks campaign progress,
+  generates the story, and reveals new map tiles as players explore. Each hero has a role (Guardian,
+  Burglar, Pathfinder, etc.) shaping their deck-building options over the campaign. Between
+  sessions, heroes level up and customize their skill decks, creating a persistent narrative
+  arc across a multi-scenario campaign. The game delivers the scope and feel of a grand
+  Middle-Earth adventure with manageable complexity and excellent solo play.
+
+# Upgrades
+upgrades: []

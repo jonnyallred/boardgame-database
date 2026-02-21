@@ -1,0 +1,78 @@
+id: tiletum
+name: "Tiletum"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-100 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Worker Placement
+  - Resource Management
+  - Route Building
+  - Set Collection
+  - Euro
+  - Historical
+  - Simone Luciani
+  - Daniele Tascini
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Masterful
+  - Progress
+  - Rivalry
+  - Tension
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Simone Luciani
+  - Daniele Tascini
+publisher:
+  - Board&Dice
+artist: []
+playtime_minutes: 80
+min_playtime: 60
+max_playtime: 100
+min_age: 14
+
+# Description
+description: |
+  Tiletum is a heavy euro game designed by Simone Luciani and Daniele Tascini, published
+  by Board&Dice in 2022. Set during the early Renaissance in Europe, players take on the
+  roles of wealthy merchants traveling from the city of Tiletum (modern-day Tielt, Belgium)
+  to Venice, pursuing trade and prestige.
+
+  The game's core mechanism is innovative dice management: dice serve a dual function,
+  providing both resources and actions. Crucially, the power of an action is inversely
+  proportional to the die value — using a low-value die grants a more powerful action but
+  fewer resources, while a high-value die yields more resources but a weaker action.
+
+  Players travel to cities to acquire wool and iron trade contracts, establish trade houses,
+  collect resources, invest in cathedral construction, gain noble family favor, participate
+  in fairs, and recruit notable persons. This multi-path scoring system and the elegant
+  tension of the dice mechanic make Tiletum a standout in the designer duo's acclaimed
+  catalog.
+
+# Upgrades
+upgrades: []

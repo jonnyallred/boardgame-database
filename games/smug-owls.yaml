@@ -1,0 +1,66 @@
+id: smug-owls
+name: "Smug Owls"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (15-20 min)
+rules_complexity: 0  # Preschool simple
+strategic_depth: 0  # Reflex/social
+feel: 2  # Moderate party energy
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Party
+  - Word Play
+  - Social Deduction
+  - Puzzle Solving
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Humor
+  - Rivalry
+  - Tension
+  - Lucky
+
+# Player counts
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+true_counts: [6, 7, 8]
+
+# Metadata
+designer:
+  - Grace Kendall
+  - Mike Belsole
+publisher:
+  - Runaway Parade Games
+artist: []
+playtime_minutes: 18
+min_playtime: 15
+max_playtime: 20
+min_age: 14
+
+# Description
+description: |
+  Smug Owls is a fast-paced riddle-crafting party game for 3-15 players. Each round, a
+  magic deck generates a never-before-seen riddle by flipping cards from different stacks
+  to form a "What is..." prompt. All players simultaneously race to come up with an answer
+  to the riddle — the catch being that the last player to think of an answer becomes the
+  Smug Owl (the judge) for that round. The four or more players who answered in time then
+  share their answers, and the Smug Owl picks their favorite. The game plays through eight
+  rounds, and the player whose answers are most frequently selected wins. Named one of the
+  best games of 2023 by Polygon, Smug Owls rewards creativity, wordplay, and quick thinking.
+
+# Upgrades
+upgrades: []

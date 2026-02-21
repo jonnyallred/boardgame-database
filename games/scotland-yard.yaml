@@ -1,0 +1,77 @@
+id: scotland-yard
+name: "Scotland Yard"
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (~45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hidden Movement
+  - Cooperative
+  - 1 vs Many
+  - Deduction
+  - Asymmetric
+  - Family
+  - Mystery
+  - Ravensburger
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Mystery
+  - Dread
+  - Rivalry
+  - Clever
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Manfred Burggraf
+  - Dorothy Garrels
+  - Wolf Hörmann
+  - Fritz Ifland
+  - Werner Scheerer
+  - Werner Schlegel
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Scotland Yard is a classic hidden movement board game published by Ravensburger in 1983, where one
+  player takes the role of the elusive criminal Mr. X while the remaining players cooperate as Scotland
+  Yard detectives trying to capture him on the streets of London. The game won the prestigious Spiel des
+  Jahres in 1983 — one of the earliest games to incorporate both cooperative and asymmetric play.
+
+  Mr. X moves secretly around the London map using taxi, bus, and underground tokens, occasionally
+  surfacing to reveal his location before vanishing again. Detectives must pool their deduction and
+  coordinate their movements to corner him. While the detectives can always see which mode of transport
+  Mr. X uses, his exact position is only revealed periodically, creating mounting tension as both sides
+  try to outmaneuver each other. Scotland Yard is considered a pioneering design in the hidden movement
+  genre and remains a beloved family strategy classic.
+
+# Upgrades
+upgrades: []

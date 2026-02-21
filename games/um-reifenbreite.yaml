@@ -1,0 +1,78 @@
+id: um-reifenbreite
+name: "Um Reifenbreite"
+alternate_names:
+  - "Homas Tour"
+  - "By the Width of a Tire"
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate competitive
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Hand Management
+  - Racing
+  - Events
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Tension
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Rob Bontenbal
+publisher:
+  - Jumbo
+artist: []
+playtime_minutes: 50
+min_playtime: 40
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Um Reifenbreite ("By the Width of a Tire") is a cycling race board game designed by
+  Rob Bontenbal, published by Jumbo in 1992. It won the Spiel des Jahres award that same
+  year. The game traces its origins to Homas Tour, first published in 1979, which was
+  later refined and relaunched as Um Reifenbreite.
+
+  Players manage cycling teams of four riders racing along famous Tour de France-style
+  routes. The game combines dice rolling for movement with card play that simulates
+  tactical abilities like pushing to the front of the peloton or climbing mountain stages.
+  Random event cards add unpredictable moments that evoke the drama of real professional
+  cycling.
+
+  The blend of luck and light tactical decisions captures the spirit of team cycling,
+  where riders must sacrifice for team leaders and timing a sprint matters as much as
+  raw speed. Um Reifenbreite is an accessible family racing game elevated by its
+  thematic authenticity, and remains one of the most beloved Spiel des Jahres winners
+  of the early 1990s.
+
+# Upgrades
+upgrades: []

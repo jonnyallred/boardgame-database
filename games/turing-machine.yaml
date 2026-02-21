@@ -1,0 +1,77 @@
+id: turing-machine
+name: "Turing Machine"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary/parallel
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deduction
+  - Puzzle Solving
+  - No Math
+  - Cooperative
+  - Abstract
+  - Family
+  - Espionage
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Discovery
+  - Mystery
+  - Tension
+  - Unique
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2, 3, 4]
+
+# Metadata
+designer:
+  - Fabien Gridel
+  - Yoann Levet
+publisher:
+  - Le Scorpion Masqué
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 14
+
+# Description
+description: |
+  Turing Machine is a unique deduction game published by Le Scorpion Masqué in 2022,
+  designed by Fabien Gridel and Yoann Levet. Players use a physical analog computer made
+  of perforated punch cards to discover a secret three-digit code, evoking the spirit of
+  early computing and wartime cryptography.
+
+  Each round, players create a proposal — a three-digit code — using punch cards and test
+  it against up to three Verifier cards drawn from the box. The Verifier cards reveal
+  whether the proposed code meets hidden criteria without revealing the criteria themselves.
+  By systematically narrowing possibilities through logical deduction, players race to be
+  the first to identify the exact secret code.
+
+  The game can be played solo, cooperatively, or competitively with up to four players.
+  The punch card mechanism is entirely novel — no apps or electronics required — and
+  creates an elegant analog computing experience. With hundreds of available puzzles
+  across varying difficulty levels, Turing Machine offers exceptional replay value in a
+  compact, quick-playing format.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,78 @@
+id: too-many-bones
+name: "Too Many Bones"
+year: 2017
+
+# Relationships
+game_family: too-many-bones
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (90-180 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 1  # Cooperative
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Bag Building
+  - Variable Player Powers
+  - Asymmetric
+  - Campaign Mode
+  - Fantasy
+  - Dungeon Crawler
+  - Chip Theory Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Masterful
+  - Powerful
+  - Progress
+  - Tension
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Josh J. Carlson
+  - Adam Carlson
+publisher:
+  - Chip Theory Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+# Description
+description: |
+  Too Many Bones is a critically acclaimed dice-builder RPG published by Chip Theory Games
+  in 2017, designed by brothers Josh and Adam Carlson. Players assemble a party of
+  Gearlocs — unique characters each with 21 custom dice representing their skills and
+  abilities — and journey to face the fierce Tyrants of Ebonheart.
+
+  Combat takes place on a 4x4 Battle Mat where Gearlocs and Baddies move, attack, and
+  defend in tactical skirmish encounters. The game features a cooperative experience where
+  players explore dozens of skills and hundreds of dice combinations as their adventure
+  moves between encounters and battles.
+
+  Known for its exceptional component quality, Too Many Bones features 136 custom dice,
+  edge-stitched neoprene mats, PVC cards, and high-quality chips — all manufactured by
+  Chip Theory Games directly. Each Gearloc has completely unique gameplay mechanics,
+  providing deep asymmetry and high replayability. The game rewards multiple plays as
+  players learn to build optimal skill combinations against ever-changing Tyrant encounters.
+
+# Upgrades
+upgrades: []

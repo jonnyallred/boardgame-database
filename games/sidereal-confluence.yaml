@@ -1,0 +1,78 @@
+id: sidereal-confluence
+name: "Sidereal Confluence"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (~3 hours)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate (despite competition, trading feels collaborative)
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Trading
+  - Negotiation
+  - Engine Building
+  - Simultaneous Action
+  - Asymmetric
+  - Variable Player Powers
+  - Economic
+  - Tech Tree
+  - Sci-Fi
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Persuasion
+  - Unique
+  - Wonder
+
+# Player counts
+possible_counts: [4, 5, 6, 7, 8, 9]
+true_counts: [5, 6, 7]
+
+# Metadata
+designer:
+  - TauCeti Deichmann
+publisher:
+  - WizKids
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  Sidereal Confluence: Trading and Negotiation in the Elysian Quadrant is a grand trading and negotiation
+  game for 4-9 players published by WizKids in 2017, designed by TauCeti Deichmann. Each player controls
+  one of nine unique and asymmetric alien races, each with its own card deck representing technologies
+  to research and converter cards that transform one set of resources into another.
+
+  The core mechanic is simultaneous, free-form trading: all players negotiate openly at the same time,
+  making deals to acquire the resource cubes their own economy needs but cannot produce alone. No race
+  is self-sufficient — every civilization must trade to thrive. Turns are divided into a frenetic
+  trading phase (where everything happens at once, keeping downtime minimal) and a production phase where
+  converters activate and resources flow. Technology research allows races to upgrade their converters
+  and score victory points.
+
+  Inspired by Avalon Hill's Advanced Civilization and Sid Sackson's Bazaar, Sidereal Confluence occupies
+  a unique niche: technically competitive, it plays with a deeply collaborative feel during trading as
+  mutually beneficial deals dominate. A remastered edition was later published with updated components.
+  The game is celebrated by enthusiasts as a singular, demanding experience unlike any other.
+
+# Upgrades
+upgrades: []
