@@ -1,149 +1,95 @@
 # Game Researcher Agent Memory
 
 ## Key Sources for Board Game Research
-- Publisher websites are usually the best source for exact year, player count, playtime, and age
-- Tabletop Bellhop (tabletopbellhop.com) gives reliable designer credits and mechanic breakdowns
-- Meeple Mountain (meeplemountain.com) provides solid overview and publisher confirmation
-- Menomonieminute.com has profiles on indie designers (e.g. Dave Beck of Paverson Games)
+- Publisher websites: best for exact year, player count, playtime, age
+- Wikipedia: most reliable single source — always include first
+- Meeple Mountain (meeplemountain.com): solid overviews and publisher confirmation
+- Board Game Quest (boardgamequest.com): reliable reviews
+- Tabletop Bellhop (tabletopbellhop.com): designer credits and mechanic breakdowns
+- Dice Tower (dicetower.com): reviews and news
+- Opinionated Gamers (opinionatedgamers.com): detailed reviews
+- Tric Trac (us.trictrac.net): French game coverage
 
 ## Slug Formatting
 - Lowercase, hyphen-separated: `distilled`, `ark-nova`, `pandemic-legacy-season-1`
-- No special characters or punctuation in slugs
-
-## Paverson Games
-- Publisher of Distilled (2023), indie studio in Wisconsin
-- Designer: Dave Beck (UW-Stout professor)
-- Artist: Erik Evensen
-- NOT in schema.yaml publishers list
-
-## Research Log Caution
-- The research-log.yaml file may be modified by other parallel agents between reads and writes
-- Always re-read the file (or at least the tail) immediately before editing to get the current last entry
-- Use the exact last entry text as the old_string anchor for Edit to avoid conflicts
+- Ampersand → "and": "Heaven & Ale" → `heaven-and-ale`
+- French ampersand can use "et": "Donjons & Dominos" → `donjons-et-dominos`
+- Accented chars stripped: "Drüber" → "druber"
+- Parenthetical editions kept: "Fury of Dracula (Third Edition)" → `fury-of-dracula-third-edition`
+- Punctuation stripped: "Hey, That's My Fish!" → `hey-thats-my-fish`
+- Non-English titles: use original language for slug if that's the primary title (e.g., `um-reifenbreite`)
 
 ## Common Mechanic Mappings
-- "Push-your-luck" or "mitigate-your-luck" → `Press Your Luck` (schema tag)
-- "Simultaneous action selection" → `Simultaneous Action` (schema tag)
-- "Card drafting from market" → `Hand Management` + `Drafting` (check context)
-- "Tableau expansion" → `Tableau Building` (schema tag)
-- "Engine building" → `Engine Building` (schema tag)
+- "Push-your-luck" → `Press Your Luck`
+- "Simultaneous action selection" → `Simultaneous Action`
+- "Card drafting from market" → `Hand Management` + `Drafting`
+- "Tableau expansion" → `Tableau Building`
 
-## Food Theme Games
-- Distilled (2023) — spirits/distilling theme → uses `Food Theme` category tag
+## Valid Tags — Common Mistakes
+- `Agriculture` IS valid (theme tag — confirmed in schema)
+- `Animals` IS valid (theme tag — confirmed in schema)
+- `Pirates` IS valid (theme tag)
+- `Dudes on a Map` IS valid (style tag)
+- `Maritime` IS valid (theme tag)
+- "Adventure" is NOT valid — use "Ameritrash" or "Fantasy"
+- "Star Wars" is NOT valid — use "Sci-Fi"
+- "Educational" is NOT valid
 
-## Invalid Category Tags (Common Mistakes)
-- "Agriculture" is NOT a valid tag — use `Nature` for farming/animal themes
-- "Animals" is NOT a valid tag — use `Nature` for animal-themed games
-- Always verify every tag against Valid Categories before writing the file
+## Publisher Tags — In Schema
+Eagle-Gryphon Games, Chip Theory Games, Days of Wonder, Osprey Games, Czech Games Edition, Fantasy Flight Games, Portal Games, Plaid Hat Games, Capstone Games, Stonemaier Games, Leder Games, CMON, Z-Man Games, Rio Grande Games, Ravensburger, Asmodee, Cephalofair Games, Roxley Games, Renegade Game Studios, Red Raven Games, Greater Than Games, Restoration Games
 
-## CRITICAL: Valid Tags Confirmed in Schema
-The system prompt includes the complete valid tags list. Key ones that feel like they should exist but DO:
-- `Agriculture`, `Animals` are NOT valid — use `Nature`
-- `Pirates` IS valid (maritime pirate theme)
-- `Dudes on a Map` IS valid (area-control wargame style)
-- `Days of Wonder` IS a valid publisher tag
-- `Fantasy Flight Games` IS a valid publisher tag
-- `Portal Games` IS a valid publisher tag
-- `Plaid Hat Games` IS a valid publisher tag
-- `Capstone Games` IS a valid publisher tag
+## Publishers NOT in Schema (omit from categories)
+Repos Production, Orange Nebula, Le Scorpion Masqué, WizKids, Runaway Parade Games, Big Potato Games, Schmidt Spiele, Gamewright, AEG, Mayfair Games, Level 99 Games, Treefrog Games, Academy Games, Pandasaurus Games, Vesuvius Media, Alley Cat Games, Mighty Boards, Ludically, dlp games, Calliope Games, Space Cowboys, Arcane Wonders, Randolph, Hans im Glück
 
-## Game Family Slugs for Common Series
-- COIN Series (GMT): game_family: coin-series
-- Axis & Allies variants: game_family: axis-and-allies
-- BattleLore editions: game_family: battlelore
-- Arkham Horror editions: game_family: arkham-horror
-- Antike games: game_family: antike
-- 51st State editions: game_family: 51st-state
-- Bang! games: game_family: bang
+## Game Family Slugs
+- COIN Series: `coin-series`
+- Catan: `catan`
+- Axis & Allies: `axis-and-allies`
+- BattleLore: `battlelore`
+- Arkham Horror: `arkham-horror`
+- Antike: `antike`
+- 51st State: `51st-state`
+- Bang!: `bang`
+- Agricola: `agricola`
+- Summoner Wars: `summoner-wars`
+- Viticulture: `viticulture`
+- Sushi Go: `sushi-go`
+- War of the Ring: `war-of-the-ring`
+- Saint Petersburg: `saint-petersburg`
+- South Tigris: `south-tigris`
+- 18xx: `18xx`
+- 7 Wonders: `7-wonders`
 
-## Publisher Naming
-- Lookout Spiele (German name) = Lookout Games (English) — use "Lookout Games" in publisher field
+## Research Log
+- The pipeline's `--log` flag handles all research-log.yaml appending automatically
+- Do NOT manually read or append to sources/research-log.yaml
 
-## Workflow: File Already Exists
-- Always check if games/{slug}.yaml exists before writing (use ls or Glob)
-- If file exists and is mostly complete, just fix invalid tags rather than rewriting
-- plays_tracked field: leave as-is in existing files; do NOT add it to new entries
-
-## Agricola Game Family
-- game_family: "agricola" links: agricola.yaml, agricola-revised-edition.yaml, agricola-all-creatures-big-and-small.yaml
-- Agricola: All Creatures Big and Small is a standalone 2-player spinoff (not expansion), year 2012, Lookout Games
-
-## German-Origin Euro Games
-- Hans im Glück is original German publisher for many Euro games (Carcassonne, Marco Polo, etc.)
-- Include both original German publisher + English publisher in `publisher` field
-- Hans im Glück is NOT in schema categories — don't add as a tag
-- German alternate titles go in `alternate_names[]`, not the slug (use English title for slug)
-
-## Simone Luciani + Daniele Tascini
-- Frequent co-designers (Marco Polo series, Grand Austria Hotel, etc.)
-- Both have valid designer category tags in schema.yaml
+## Pipeline Notes
+- Some URLs return empty (JS-heavy SPAs, Shopify stores)
+- Always have 3 candidate URLs ready
+- Wikipedia is the most reliable — always include first
+- Skip pipeline when WebSearch gives sufficient detail — direct Write is faster
 
 ## Party Game Patterns
-- Party games: rules_complexity 0-1, strategic_depth 0-1, length 0-1
-- Bluffing/social games evoke: Humor, Tension, Rivalry, Lucky, Persuasion
-- true_counts for party games often skew toward higher player counts (more = merrier)
+- rules_complexity 0-1, strategic_depth 0-1, length 0-1
+- Evokes: Humor, Tension, Rivalry, Lucky, Persuasion
+- true_counts skew toward higher player counts
 
-## Repos Production
-- French/Belgian publisher (Brussels), NOT in schema.yaml categories list
-- Published: Ca$h 'n Guns, Just One, So Clover!, 7 Wonders, Concept
-- Slug for Ca$h 'n Guns: `cash-n-guns` (special chars stripped)
+## German-Origin Euro Games
+- Include both original German publisher + English publisher in `publisher` field
+- Hans im Glück NOT in schema categories
+- German alternate titles go in `alternate_names[]`, use English title for slug
 
-## Invalid Category Tags (additional)
-- "Adventure" is NOT valid — use "Ameritrash" or "Fantasy" for adventure-style games
-- "Star Wars" is NOT a valid theme tag — use "Sci-Fi" instead
-- "Animals" is NOT valid — confirmed again
+## Handling Multiple Editions
+- Create separate files, link via `game_family`
+- Original: `edition: first`; Second: `edition: second`
+- Only use `expansions[]` for genuine expansions, not if 2nd ed fully replaces 1st
 
-## Publisher Tags (valid in categories)
-- Eagle-Gryphon Games: valid tag
-- Chip Theory Games: valid tag
-- Days of Wonder: valid tag
-- Osprey Games: valid tag
-- Czech Games Edition: valid tag
-- Orange Nebula: NOT in schema — omit from categories
-- Le Scorpion Masqué: NOT in schema — omit from categories (also spelled "Scorpion Masque")
+## Evokes Field — Common Mistake
+- "Puzzle Solving" is a CATEGORY tag, NOT a valid evoke
+- Valid evokes: Agency, Clever, Complete, Connection, Creative, Discovery, Dread, Humor, Lucky, Masterful, Mystery, Persuasion, Powerful, Progress, Rivalry, Tension, Unique, Wonder
 
-## Non-English Title Slugs
-- Use original language for slug if that is the primary title: "um-reifenbreite" (not English translation)
-- Alternate/English names go in alternate_names[]
-
-## Efficient Batch Research Workflow (20 games)
-- Run 8-10 parallel WebSearch calls (2 games per call) to gather all data first
-- Then create all YAML files in parallel Write calls
+## Batch Workflow (up to 50 games)
+- WebSearch 2-3 queries per batch of ~3 games, then Write YAML directly
 - Skip pipeline when WebSearch gives sufficient detail
-- This approach completes 20 games in ~15 total tool calls
-
-## Pipeline Limitation
-- Pipeline often returns raw JavaScript from Wikipedia - the HTML preprocessor may fail on JS-heavy pages
-- Better to use WebSearch directly for data and write YAML from gathered knowledge
-
-## Confirmed Invalid Category Tags
-- "Adventure" is NOT valid
-- "Animals" is NOT valid — use `Nature`
-- "Agriculture" is NOT valid — use `Nature` or `Agriculture` (wait, Agriculture IS in the valid list)
-- "Educational" is NOT valid
-- "Competition" is NOT an evoke — avoid it
-
-## Agriculture Tag Correction
-- `Agriculture` IS a valid theme tag in the schema — confirmed in agent instructions
-
-## Slug Edge Cases
-- Ampersand in title: "Heaven & Ale" → `heaven-and-ale`; "Donjons & Dominos" → `donjons-et-dominos`
-- French game title with ampersand can use "et" (French "and")
-- Accented chars stripped: "Drüber" → "druber"
-- Parenthetical editions: "Fury of Dracula (Third Edition)" → `fury-of-dracula-third-edition`
-- "Hey, That's My Fish!" → `hey-thats-my-fish` (punctuation stripped)
-
-## Obscure/Problematic Games
-- Dune Express (2009): print-and-play game, not commercial release — write minimal entry
-- Doodletown (2022): very obscure, limited info available — write minimal entry
-- Clash Royale: The Card Game: mobile game; physical version exists published by Ravensburger
-
-## Good Non-BGG Sources
-- Meeple Mountain: meeplemountain.com
-- Board Game Quest: boardgamequest.com
-- Opinionated Gamers: opinionatedgamers.com
-- Board Game Bliss: boardgamebliss.com
-- Dice Tower: dicetower.com
-- Tric Trac (French): us.trictrac.net
-- Board Game Guys: boardgameguys.com
-- Tabletop Bellhop: tabletopbellhop.com
+- For 50 games: ~70 total tool calls typical
