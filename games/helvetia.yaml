@@ -1,0 +1,60 @@
+id: helvetia
+name: "Helvetia"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Resource Management
+  - Engine Building
+  - Euro
+  - Agriculture
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Agency
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Matthias Cramer
+publisher:
+  - Kosmos
+artist: []
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 12
+
+description: |
+  Helvetia is a production chain game set in the Swiss Alps where players manage villages that
+  produce essential goods from wood and bricks to cheese and beer. Workers (literally called
+  villagers) grow up to help the farm, and the game features a unique marriage mechanic where
+  villagers from different players' villages can wed, creating shared bonds and obligations.
+  Players build new homes, bring culture to their village, and sell goods at market. The game
+  rewards building efficient production chains that convert basic resources into valuable finished
+  goods. Raising livestock, cultivating fields, and expanding village infrastructure creates a
+  satisfying economic simulation set against the backdrop of Alpine pastoral life.
+
+upgrades: []

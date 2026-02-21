@@ -1,0 +1,72 @@
+id: elysium
+name: "Elysium"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Set Collection
+  - Hand Management
+  - Euro
+  - Mythology
+  - Ancient
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Complete
+  - Clever
+  - Agency
+  - Progress
+  - Rivalry
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Matthew Dunstan
+  - Brett J. Gilbert
+publisher:
+  - Space Cowboys
+artist:
+  - Naïade
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Elysium is a card drafting and set collection game published by Space Cowboys in 2015
+  set in ancient Greek mythology. Players compete to recruit legendary demigods and heroes
+  into their service, building powerful card combinations in the mortal realm before
+  transferring them to Elysium for scoring. Cards belong to one of eight families (each
+  associated with a Greek god), and each family has unique abilities and scoring conditions.
+  The key strategic tension lies in timing transfers: cards score only once moved to
+  Elysium, but they lose their active abilities. Players must also collect columns
+  (matching card levels) and domains (matching card families) to qualify for specific
+  scoring conditions at game end. With five different family combinations active each
+  game, Elysium offers significant variability and rewards players who master its
+  interconnected card synergies.
+
+# Upgrades
+upgrades: []

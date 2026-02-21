@@ -1,0 +1,71 @@
+id: forbidden-island
+name: "Forbidden Island"
+year: 2010
+
+# Relationships
+game_family: forbidden
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Cooperative
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Action Points
+  - Variable Player Powers
+  - Modular Board
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Connection
+  - Dread
+  - Complete
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Matt Leacock
+publisher:
+  - Gamewright
+artist:
+  - C. B. Canga
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+# Description
+description: |
+  Forbidden Island is a cooperative tile-based adventure game designed by Matt Leacock
+  and published by Gamewright in 2010. Players work together as a team of adventurers
+  collecting four sacred treasures from a sinking island before it floods completely.
+  Each turn, players take up to three actions — moving, shoring up flooded tiles, trading
+  treasure cards, or capturing a treasure — and then draw cards that may flood or sink
+  island tiles. Special role cards grant each player unique abilities to help the team
+  survive. The island sinks progressively as cards are drawn, and players lose if any
+  treasure location sinks before its treasure is captured, or if the helicopter pad or
+  certain key tiles are lost. Forbidden Island is celebrated as an excellent introductory
+  cooperative game: quick, tense, and accessible to players of all ages. It introduced
+  many gamers to the cooperative genre.
+
+# Upgrades
+upgrades: []

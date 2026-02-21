@@ -1,0 +1,84 @@
+id: arkham-horror-third-edition
+name: "Arkham Horror (Third Edition)"
+alternate_names:
+  - "Arkham Horror 3rd Edition"
+year: 2018
+
+# Relationships
+game_family: arkham-horror
+edition: third
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (~3 hr)
+rules_complexity: 3  # College
+strategic_depth: 2  # Tactics
+feel: 1  # Cooperative
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Modular Board
+  - Variable Player Powers
+  - Dice Rolling
+  - Narrative Heavy
+  - Campaign Mode
+  - Horror
+  - Cthulhu
+  - Mystery
+  - Fantasy Flight Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Dread
+  - Tension
+  - Discovery
+  - Connection
+  - Mystery
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Richard Launius
+  - Nikki Valens
+  - Kevin Wilson
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Anders Finér
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  Arkham Horror (Third Edition) is a cooperative investigation game for one to
+  six players set in the eerie Massachusetts town of 1926 Arkham, where eldritch
+  horrors from beyond threaten to tear open the fabric of reality. Players take
+  on the roles of investigators with unique abilities, exploring the city's
+  modular hexagonal neighborhoods across a series of branching narrative
+  scenarios. Each investigator can perform two actions per turn — moving, fighting
+  monsters, gathering clues, or acquiring items — while the Monster Phase closes in
+  with fresh threats. Four standalone scenarios in the base game each reshape the
+  board layout and introduce new stakes. Compared to the second edition, the third
+  significantly streamlines rules and leans harder into narrative, making it more
+  accessible while retaining the cosmic horror tension the series is known for.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

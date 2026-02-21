@@ -1,0 +1,77 @@
+id: viticulture-essential-edition
+name: "Viticulture Essential Edition"
+year: 2015
+
+# Relationships
+game_family: viticulture
+edition: essential
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Hand Management
+  - Set Collection
+  - Variable Player Powers
+  - Euro
+  - Agriculture
+  - Stonemaier Games
+  - Jamey Stegmaier
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Complete
+  - Agency
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Jamey Stegmaier
+  - Alan Stone
+publisher:
+  - Stonemaier Games
+artist:
+  - Jacqui Davis
+  - Beth Sobel
+playtime_minutes: 90
+min_playtime: 45
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Viticulture Essential Edition is the definitive version of Stonemaier Games'
+  beloved winery worker-placement game, incorporating the best elements from the
+  Tuscany expansion into the base game. Players manage a Tuscan vineyard through
+  the seasons — planting vines, harvesting grapes, aging wine in cellars, and
+  fulfilling orders.
+
+  The Essential Edition adds the popular Visitor cards (Summer and Winter
+  visitors with unique one-time effects), the Automa solo mode, and refined
+  wake-up order mechanics that let players trade going-order priority for bonus
+  resources. The result is a more polished, strategically rich experience than
+  the original Viticulture, with greater replayability through variable visitor
+  cards and special worker options. Widely considered one of the best
+  entry-level Euro games and a Stonemaier staple.
+
+# Upgrades
+upgrades: []

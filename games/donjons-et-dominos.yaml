@@ -1,0 +1,62 @@
+id: donjons-et-dominos
+name: "Donjons & Dominos"
+alternate_names:
+  - Donjons et Dominos
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Tile Placement
+  - Narrative Heavy
+  - Dungeon Crawler
+  - Fantasy
+  - Puzzle Solving
+
+evokes:
+  - Discovery
+  - Tension
+  - Connection
+  - Agency
+  - Lucky
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer:
+  - Romaric Briand
+publisher:
+  - La Cellule
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Donjons & Dominos is a cooperative dungeon-exploration game that uses a standard set of 28
+  dominoes to create its dungeons — the spots on each domino represent different dungeon elements.
+  Players explore the dungeon tile by tile, encountering monsters, finding treasures, and
+  navigating the rogue-like layout revealed through domino placement. The game includes two
+  booklets: a rules booklet and a scenarios booklet, plus character cards, treasure cards,
+  and exploration cards. Designed by Romaric Briand as a project for his children during
+  lockdown and self-published in 2022 through La Cellule, Donjons & Dominos offers an
+  accessible and creative approach to dungeon crawling using everyday components.
+
+upgrades: []

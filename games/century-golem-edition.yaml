@@ -1,0 +1,64 @@
+id: century-golem-edition
+name: "Century: Golem Edition"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: century
+edition: "Golem Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Engine Building
+  - Set Collection
+  - Resource Management
+  - Drafting
+  - Euro
+  - Fantasy
+  - Gateway
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Emerson Matsuuchi
+publisher:
+  - Plan B Games
+artist: []
+playtime_minutes: 38
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+description: |
+  Century: Golem Edition is a re-themed version of Century: Spice Road, set in the fantasy world
+  of Caravania where players are caravan leaders trading crystals to golems across enchanted lands.
+  Each turn, players perform one of four actions: establish a trade route (play a card), make a
+  trade or harvest crystals (use a card), fulfill a demand (meet a golem card's crystal requirements
+  for points), or rest (reclaim played cards). Players build an engine of trading cards that
+  convert one type of crystal into others, working toward the most valuable golem point cards.
+  The game's beautiful golem artwork and crystal components replace the original's spice theme
+  while preserving the elegant card-play and resource conversion mechanics. An excellent gateway
+  to Euro games for families and new players.
+
+upgrades: []

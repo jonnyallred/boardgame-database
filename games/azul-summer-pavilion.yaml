@@ -1,0 +1,81 @@
+id: azul-summer-pavilion
+name: "Azul: Summer Pavilion"
+year: 2019
+
+# Relationships
+game_family: azul
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Drafting
+  - Set Collection
+  - Pattern Building
+  - Abstract
+  - Euro
+  - Family
+  - Gateway
+  - Michael Kiesling
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Rivalry
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Michael Kiesling
+publisher:
+  - Plan B Games
+  - Next Move Games
+artist:
+  - Philippe Guérin
+  - Chris Quilliams
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  Azul: Summer Pavilion is the third game in the Azul series by Michael Kiesling,
+  set in the Portuguese royal summer pavilion. King Manuel I has commissioned the
+  most beautiful pavilion in the world, and players must decorate it with the finest
+  tiles available.
+
+  Like its predecessors, Summer Pavilion centers on drafting colorful tiles from
+  shared factory displays and placing them onto a personal player board. The key
+  difference is the player board: each of the six rounds focuses on one of six
+  colored star patterns, and players must collect the correct combination of tiles
+  to complete the stars on their pavilion.
+
+  Wild tiles (representing the color of that round's featured star) add flexibility
+  to tile collection, while the pattern-completion scoring rewards players for
+  filling complete sections. Summer Pavilion is generally considered the most
+  forgiving of the Azul games, with less harsh penalties for unplaced tiles, making
+  it a popular entry point and standalone addition to the series.
+
+# Upgrades
+upgrades: []

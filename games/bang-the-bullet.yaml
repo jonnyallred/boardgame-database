@@ -1,0 +1,79 @@
+id: bang-the-bullet
+name: "BANG! The Bullet!"
+alternate_names:
+  - "Bang! The Bullet!"
+  - "La Pallottola!"
+year: 2007
+
+# Relationships
+game_family: bang
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Social Deduction
+  - Traitor
+  - Variable Player Powers
+  - Take That
+  - Party
+  - Western
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Mystery
+  - Humor
+  - Rivalry
+  - Unique
+
+# Player counts
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [6, 7]
+
+# Metadata
+designer:
+  - Emiliano Sciarra
+publisher:
+  - dV Giochi
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+# Description
+description: |
+  BANG! The Bullet is the deluxe all-in-one edition of the classic BANG! card
+  game, containing the base game plus five expansions in a stylized bullet-shaped
+  tin. The Wild West hidden-role game casts three to eight players as the Sheriff,
+  Deputies, Outlaws, and a Renegade — but only the Sheriff is publicly revealed
+  at the start. Players use cards representing weapons and special actions to
+  shoot at targets in range, with Outlaws trying to eliminate the Sheriff and
+  Deputies protecting him while the Renegade waits to be the last one standing.
+  Role secrecy creates constant deduction and misdirection as players try to
+  identify friends and enemies. The Bullet edition debuted at Essen 2007 and
+  received nominations for Best Card Game and Best Party Game at the Golden Geek
+  Awards.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

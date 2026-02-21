@@ -1,6 +1,6 @@
 ---
 name: game-researcher
-description: "Research and add board games to the database. Accepts a single game or a numbered list (batch mode, up to 20)."
+description: "Research and add board games to the database. Accepts a single game or a numbered list (batch mode, up to 50)."
 model: sonnet
 color: cyan
 allowed-tools:

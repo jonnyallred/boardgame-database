@@ -1,0 +1,62 @@
+id: dice-forge-rebellion
+name: "Dice Forge: Rebellion"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: dice-forge
+edition: null
+base_game: dice-forge
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Bag Building
+  - Drafting
+  - Card Drafting
+  - Euro
+  - Fantasy
+
+evokes:
+  - Progress
+  - Clever
+  - Unique
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Régis Bonnessée
+publisher:
+  - Libellud
+artist: []
+playtime_minutes: 45
+min_playtime: 40
+max_playtime: 60
+min_age: 9
+
+description: |
+  Dice Forge: Rebellion is an expansion for Dice Forge that requires the base game to play.
+  Designed by Régis Bonnessée, it adds two optional modules — the Labyrinth of the Goddess
+  and the Revolt of the Titans — each with alternative starting setups and new mechanics
+  responding to player requests for more player interaction and combination possibilities.
+  The expansion includes 120 new Heroic feat cards and new divine die faces that expand
+  the custom die modification at the core of Dice Forge. Players who felt the base game
+  needed more variation in the card market or more ways to interact with opponents will find
+  both modules address these concerns while maintaining the elegant die-forging central mechanic.
+  The two modules can also be combined for a more complex experience.
+
+upgrades: []

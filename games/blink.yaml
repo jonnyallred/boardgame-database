@@ -1,0 +1,78 @@
+id: blink
+name: "Blink"
+alternate_names:
+  - "Reinhard Staupe's Blink"
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~2 min)
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 4  # Fierce
+value: 0  # Impulse
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Real-time
+  - No Math
+  - Pattern Building
+  - Family
+  - Filler
+  - Party
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Rivalry
+  - Agency
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Reinhard Staupe
+publisher:
+  - Out of the Box Publishing
+  - Mattel
+artist: []
+playtime_minutes: 2
+min_playtime: 1
+max_playtime: 5
+min_age: 7
+
+# Description
+description: |
+  Blink is a lightning-fast two-player card game designed by Reinhard Staupe and
+  marketed as the world's fastest game. Both players simultaneously play cards
+  from their 30-card hand onto two central discard piles; a card may be played
+  if it matches the top card of a pile by color, shape, or count. There are no
+  turns — both players play as fast as they can. The first player to empty their
+  hand wins. With 60 cards depicting six shapes in five colors and five quantities
+  (1-5 symbols), every game takes under five minutes and requires lightning
+  reflexes and quick pattern recognition rather than strategic planning. The
+  simple premise makes it universally accessible while providing genuinely
+  competitive intensity.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

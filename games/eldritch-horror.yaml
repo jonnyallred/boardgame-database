@@ -1,0 +1,74 @@
+id: eldritch-horror
+name: "Eldritch Horror"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (2-4 hours)
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 1  # Cooperative
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Dice Rolling
+  - Variable Player Powers
+  - Modular Board
+  - Cthulhu
+  - Horror
+  - Fantasy Flight Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Dread
+  - Tension
+  - Discovery
+  - Connection
+  - Mystery
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5, 6]
+
+# Metadata
+designer:
+  - Corey Konieczka
+  - Nikki Valens
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Various
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  Eldritch Horror is a cooperative Lovecraftian adventure game published by Fantasy Flight
+  Games in 2013. Players take on the roles of investigators traveling the globe to close
+  dimensional gates and gather clues to prevent an Ancient One from awakening and ending
+  the world. The game features a world map spanning multiple continents, with investigators
+  moving between cities and wilderness locations to battle monsters, solve mysteries, and
+  collect artifacts. Three mystery cards must be solved before the Ancient One awakens,
+  but the Doom Track steadily ticks down as crises and gate spawns accumulate. Each Ancient
+  One provides unique win conditions, encounter decks vary by location type, and the
+  investigator roster offers wildly different abilities and backstories. Eldritch Horror
+  streamlines many mechanisms from Arkham Horror into a more accessible global adventure
+  while retaining the tense, narrative-rich Cthulhu atmosphere.
+
+# Upgrades
+upgrades: []

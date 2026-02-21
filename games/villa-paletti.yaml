@@ -1,0 +1,68 @@
+id: villa-paletti
+name: "Villa Paletti"
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20-30 min)
+rules_complexity: 0  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dexterity
+  - Family
+  - Party
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Rivalry
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Bill Payne
+publisher:
+  - Zoch Verlag
+  - Rio Grande Games
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 7
+
+# Description
+description: |
+  Villa Paletti is a dexterity stacking game and winner of the Spiel des Jahres
+  2002. Players take turns carefully removing pillars from the lower stories of
+  a colorful palazzo and placing them on the highest story, slowly building a
+  precarious tower. If the floor above collapses when you remove a pillar, you
+  lose the round.
+
+  The game uses color-coded scoring pillars — the thicker and rarer the pillar
+  you place on top, the more points you score. The tension comes from the
+  delicate physical act of removing pillars without toppling the structure, as
+  the tower grows increasingly unstable with each round. A wonderfully tactile
+  and accessible game for families and mixed groups.
+
+# Upgrades
+upgrades: []

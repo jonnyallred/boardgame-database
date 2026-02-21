@@ -1,0 +1,79 @@
+id: 1812-the-invasion-of-canada
+name: "1812: The Invasion of Canada"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~120 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Dice Rolling
+  - Hand Management
+  - Teams
+  - Variable Player Powers
+  - Wargame
+  - Historical
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Unique
+  - Connection
+  - Rivalry
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [5]
+
+# Metadata
+designer:
+  - Beau Beckett
+  - Jeph Stahl
+publisher:
+  - Academy Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  1812: The Invasion of Canada recreates the War of 1812 with up to five players
+  commanding three British factions (Redcoats, Canadian Militia, and Native
+  Americans) or two American factions (Regulars and Militia), each represented
+  by distinctively colored wooden cubes. The two sides cooperate within their
+  alliances to control key towns and forts across the northern frontier. Each
+  faction has its own deck of event, movement, and truce cards, and turn order
+  within each round is determined by random draw — creating uncertainty that
+  mirrors the fog of war. Combat uses faction-specific dice with different symbols
+  for attack, retreat, and casualties. The game ends when a truce card is played
+  by a faction that controls its key objectives, rewarding both tactical
+  battlefield coordination and strategic objective prioritization.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

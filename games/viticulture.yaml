@@ -1,0 +1,74 @@
+id: viticulture
+name: "Viticulture"
+year: 2013
+
+# Relationships
+game_family: viticulture
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Hand Management
+  - Set Collection
+  - Euro
+  - Agriculture
+  - Stonemaier Games
+  - Jamey Stegmaier
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Complete
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Jamey Stegmaier
+  - Alan Stone
+publisher:
+  - Stonemaier Games
+artist:
+  - Jacqui Davis
+  - Beth Sobel
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Viticulture is a worker-placement game set in the rolling hills of Tuscany
+  where players build and manage their own winery. Each player starts with a
+  small plot of land, a farmhouse, and a cellar, and must plant vines, harvest
+  grapes, make wine, and fulfill orders to earn victory points.
+
+  The game uses a seasonal structure — spring, summer, fall, and winter — with
+  different worker-placement actions available each season. A clever wake-up
+  order mechanic lets players choose when to act each year, balancing going
+  early (fewer choices) versus going late (bonus benefits). Viticulture was
+  Stonemaier Games' debut title, later refined into the Essential Edition (2015)
+  with the Tuscany expansion content integrated.
+
+# Upgrades
+upgrades: []

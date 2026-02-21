@@ -1,0 +1,63 @@
+id: guild-ball
+name: "Guild Ball"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Variable Player Powers
+  - Dice Rolling
+  - Asymmetric
+  - Teams
+  - Historical
+  - Medieval
+
+evokes:
+  - Rivalry
+  - Masterful
+  - Tension
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mat Hart
+  - Richard Loxam
+publisher:
+  - Steamforged Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Guild Ball is a tabletop miniature sports game set in a pseudo-historical fantasy world where
+  medieval guilds compete in brutal mob football. Each player commands a team of six players
+  drawn from different guilds — Brewers, Blacksmiths, Butchers, and many more — each with
+  unique stats and special abilities on their character cards. Teams combine tactical positioning,
+  resource management through momentum, and strategic use of special abilities to score goals
+  and take out opponents. The game blends sports strategy with miniature wargame depth, rewarding
+  mastery of individual guild synergies and adaptive in-game decision-making. Originally crowdfunded
+  in 2014 and released in 2015, Guild Ball attracted a devoted competitive community with regular
+  tournaments and an evolving roster of playable guilds.
+
+upgrades: []

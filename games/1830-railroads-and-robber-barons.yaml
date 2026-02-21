@@ -1,0 +1,77 @@
+id: 1830-railroads-and-robber-barons
+name: "1830: The Game of Railroads and Robber Barons"
+year: 1986
+
+# Relationships
+game_family: 18xx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (4-8 hours)
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 4  # Fierce
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Economic
+  - Network Building
+  - Route Building
+  - Auctions/Bidding
+  - Trading
+  - Historical
+  - Wargame
+  - Trains
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Masterful
+  - Rivalry
+  - Powerful
+  - Tension
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Francis Tresham
+publisher:
+  - Avalon Hill
+  - Mayfair Games
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+# Description
+description: |
+  1830: The Game of Railroads and Robber Barons is the defining entry in the
+  18XX series of stock market and railroad network games, designed by Francis
+  Tresham and set during the Gilded Age of American railroading. Players act as
+  investors buying and selling shares in railroad companies, and as directors
+  operating those companies to build track networks and run profitable train
+  routes.
+
+  The game features two intertwined systems: a stock market where players
+  manipulate share prices through strategic buying and selling, and a map phase
+  where railroad presidents build routes, purchase trains, and collect revenue
+  for shareholders. Directors can deliberately drain their companies to enrich
+  themselves personally, creating a cutthroat atmosphere. 1830 is notorious for
+  its complexity, punishing learning curve, and the depth of economic and
+  political scheming it enables. It is widely considered one of the greatest
+  board games ever designed and the progenitor of an entire genre.
+
+# Upgrades
+upgrades: []

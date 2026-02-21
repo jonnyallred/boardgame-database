@@ -1,0 +1,66 @@
+id: euthia-torment-of-resurrection
+name: "Euthia: Torment of Resurrection"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Resource Management
+  - Variable Player Powers
+  - Asymmetric
+  - Cooperative
+  - Campaign Mode
+  - Fantasy
+
+evokes:
+  - Discovery
+  - Powerful
+  - Progress
+  - Agency
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2, 3]
+
+designer:
+  - Markéta Bláhová
+  - Tadeáš Spousta
+  - Tomáš Holek
+publisher:
+  - DIEA Games
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 240
+min_age: 14
+
+description: |
+  Euthia: Torment of Resurrection is an open-world fantasy RPG board game inspired by classic
+  video games. Players take on the roles of one of up to eight unique heroes, each with different
+  playstyles, branching ability paths, and specialist weapons. The game features procedurally
+  generated hexagonal maps ensuring every session is different. Heroes explore the world,
+  fight enemies, and grow in power from fledgling to legend. A notable feature is the resurrection
+  mechanic — defeated players return to play rather than being eliminated, keeping everyone
+  engaged. The game supports competitive, cooperative, and solo modes, and scenarios range from
+  one to four hours. Its combination of deep character customization, exploration, and tactical
+  combat positions it as a premium experience for fans of RPG-style board gaming.
+
+upgrades: []

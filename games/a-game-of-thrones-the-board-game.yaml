@@ -1,0 +1,84 @@
+id: a-game-of-thrones-the-board-game
+name: "A Game of Thrones: The Board Game"
+alternate_names:
+  - "A Game of Thrones: The Board Game (Second Edition)"
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (~3 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Negotiation
+  - Hand Management
+  - Simultaneous Action
+  - Variable Player Powers
+  - Asymmetric
+  - Fantasy
+  - Medieval
+  - War
+  - Wargame
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Persuasion
+  - Unique
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [6]
+
+# Metadata
+designer:
+  - Christian T. Petersen
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Andrew Navaro
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  A Game of Thrones: The Board Game puts three to six players in command of
+  the Great Houses of Westeros — Stark, Lannister, Baratheon, Tyrell, Martell,
+  and Greyjoy — all vying to plant their banner on the Iron Throne. Each round
+  opens with a bidding phase for influence on three tracks — Iron Throne,
+  Fiefdoms, and King's Court — granting tiebreaking priority, combat boosts,
+  and support token control. Players simultaneously and secretly choose order
+  tokens for each territory they control, then resolve raids, marches, and
+  consolidations. Combat is resolved through hand-management of House cards,
+  each representing a named character with unique abilities. Diplomatic treachery
+  is baked in: players can agree to support each other in battles, but those
+  agreements are never binding. The first player to control seven castles and
+  strongholds wins, creating a tense race that rewards shifting alliances and
+  calculated betrayals.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

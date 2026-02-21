@@ -1,0 +1,65 @@
+id: carson-city
+name: "Carson City"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Area Control
+  - Dice Rolling
+  - Variable Player Powers
+  - Asymmetric
+  - Euro
+  - Western
+  - City Building
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Xavier Georges
+publisher:
+  - Quined Games
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Carson City is a worker placement game with a wild west theme where players compete to build
+  and control the most lucrative properties in a rapidly expanding frontier town. Players
+  simultaneously choose from seven available characters that provide unique advantages, then
+  place cowboys on action spots to claim land, construct buildings, earn money, or score points.
+  Unlike most worker placement games, if an opponent's cowboy already occupies a desired space,
+  you can challenge them to a duel resolved by dice. This confrontational element makes territory
+  selection tense and strategic — knowing which spots are worth fighting for adds a layer
+  of psychological play. The SimCity-like emergence of the town board creates visual storytelling
+  as buildings develop organically around available space.
+
+upgrades: []

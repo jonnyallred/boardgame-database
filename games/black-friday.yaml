@@ -1,0 +1,78 @@
+id: black-friday
+name: "Black Friday"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~60 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Economic
+  - Trading
+  - Press Your Luck
+  - Set Collection
+  - Euro
+  - Friedemann Friese
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Lucky
+  - Clever
+  - Rivalry
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Friedemann Friese
+publisher:
+  - Kosmos
+  - Rio Grande Games
+artist:
+  - Harald Lieske
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+# Description
+description: |
+  Black Friday plunges two to five players into a frantic stock market where
+  they must accumulate as much gold as possible before the inevitable crash.
+  Players earn cash by cleverly buying and selling shares across multiple
+  commodity tracks, attempting to manipulate market prices to their advantage
+  before dumping positions. The central tension is the looming collapse: the
+  M.I.B.S. (minimally intelligent broker service) acts as an autonomous opponent
+  that accelerates the market's decline. Timing the exit — knowing when to convert
+  paper wealth into gold — is the game's defining challenge. Black Friday was
+  the first entry in Friedemann Friese's Freitag Project, a series of games
+  designed exclusively on Fridays; the volatile market dynamics and push-your-luck
+  timing make it a distinctive economic filler.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

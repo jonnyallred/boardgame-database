@@ -1,0 +1,69 @@
+id: heroscape
+name: "Heroscape Master Set: Rise of the Valkyrie"
+alternate_names:
+  - Heroscape
+year: 2004
+
+# Relationships
+game_family: heroscape
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Modular Board
+  - Variable Player Powers
+  - Asymmetric
+  - Fantasy
+  - Sci-Fi
+  - Wargame
+  - Rob Daviau
+
+evokes:
+  - Powerful
+  - Wonder
+  - Rivalry
+  - Tension
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Craig Van Ness
+  - Rob Daviau
+  - Stephen Baker
+publisher:
+  - Hasbro
+  - Milton Bradley
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 8
+
+description: |
+  Heroscape is a pre-painted miniature wargame featuring a stunning 3D modular terrain system
+  made from interlocking hexagonal tiles. Players construct custom battlefields using terrain
+  pieces representing mountains, water, grasslands, and ruins, then command armies drawn from
+  across time and space — from medieval knights and samurai to futuristic soldiers and dragons.
+  Combat uses custom dice with skulls for attack and shields for defense. Each unit has unique
+  stats and special abilities on their army cards, creating deep asymmetric gameplay. The original
+  master set includes 30 pre-painted figures and 85 terrain pieces, with hundreds of expansion
+  figures released over the game's lifespan. Heroscape gained a devoted following for combining
+  accessible rules with rich tactical depth and spectacular table presence.
+
+upgrades: []

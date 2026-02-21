@@ -1,0 +1,64 @@
+id: hedgehog-roll
+name: "Hedgehog Roll"
+alternate_names:
+  - Speedy Roll
+  - Roulapik
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dexterity
+  - Racing
+  - Modular Board
+  - Animals
+  - Family
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Tension
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Urtis Šulinskas
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 4
+
+description: |
+  Hedgehog Roll is a delightful cooperative dexterity game where players roll a fuzzy hedgehog
+  ball across a field, collecting leaves, flowers, and pine cones that stick to its velcro-like
+  surface. Moving the hedgehog forward one space for each item collected, players race to get
+  their hedgehog home before the fox catches up. The game can be played cooperatively — working
+  together to outrun the fox — or competitively, racing to be first to reach home. The physical
+  act of rolling the fuzzy ball and watching items stick to it creates genuine delight, especially
+  for young children. Simple enough for preschoolers yet charming enough for family play,
+  Hedgehog Roll won multiple awards for its innovative use of tactile components and approachable
+  cooperative mechanics.
+
+upgrades: []

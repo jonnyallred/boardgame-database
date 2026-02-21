@@ -1,0 +1,60 @@
+id: highly-suspect
+name: "Highly Suspect"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Deduction
+  - Racing
+  - Family
+  - Mystery
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Discovery
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Manfred Ludwig
+publisher:
+  - HABA
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Highly Suspect is a children's detective dexterity game by HABA where 2-4 detectives chase
+  a crook hiding in a park. The game features a tiltable board: tilting the board in any
+  direction causes all detective pieces and the crook piece to slide in that direction until
+  they hit an obstacle. Players take turns tilting the board to maneuver their detective toward
+  the crook's location while predicting how the crook will move. The simple tilting mechanic
+  creates intuitive physical gameplay that children can immediately understand. The detective
+  theme and the interactive board that reacts to tilting create a unique tactile experience
+  that makes spatial thinking accessible for young players.
+
+upgrades: []

@@ -1,0 +1,72 @@
+id: ethnos
+name: "Ethnos"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Hand Management
+  - Set Collection
+  - Card Drafting
+  - Euro
+  - Family
+  - Fantasy
+  - CMON
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Paolo Mori
+publisher:
+  - CMON
+artist:
+  - Various
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+# Description
+description: |
+  Ethnos is an area control and set collection game published by CMON in 2017. Players
+  collect cards representing twelve fantasy races — including Giants, Merfolk, Wizards,
+  Trolls, and more — and form bands of creatures to claim control of regions on the map
+  for glory points. On their turn, players either draw a card from the line or play a
+  band: a set of cards sharing a race or a color. When a band is played, its leader
+  determines a special power while the rest of the cards are discarded to the table for
+  opponents to pick up. Control markers placed in regions score at the end of each of
+  the three ages based on territory majority. The deceptively simple rules mask deep
+  decisions about when to play bands, which races to collect, and when to sacrifice
+  earlier plays to reset the card market.
+
+# Upgrades
+upgrades: []

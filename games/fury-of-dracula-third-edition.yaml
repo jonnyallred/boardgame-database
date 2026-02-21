@@ -1,0 +1,68 @@
+id: fury-of-dracula-third-edition
+name: "Fury of Dracula (Third Edition)"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: fury-of-dracula
+edition: "Third Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Hidden Movement
+  - Deduction
+  - Asymmetric
+  - Variable Player Powers
+  - Hand Management
+  - Ameritrash
+  - Horror
+  - Vampires
+  - Fantasy Flight Games
+
+evokes:
+  - Dread
+  - Tension
+  - Masterful
+  - Mystery
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [5]
+
+designer:
+  - Kevin Wilson
+  - Frank Brooks
+  - Stephen Hand
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Fury of Dracula (Third Edition) is an asymmetric hidden movement game set in Victorian-era Europe,
+  based on Bram Stoker's novel. One player controls Count Dracula as he travels secretly across
+  Europe, spreading his vampiric influence and creating new vampires, while one to four hunters
+  work together to track him down. Dracula moves in secret using a separate board, placing
+  encounter cards along his trail, and can only be caught when hunters reach his current location.
+  Hunters must manage their resources, travel across the continent, and use deduction to narrow
+  down Dracula's position before he accumulates enough influence to win. Combat uses simultaneous
+  card play, making confrontations tense and unpredictable. The third edition streamlined rules
+  from earlier editions and added rumor tokens to allow Dracula to mislead the hunters.
+
+upgrades: []

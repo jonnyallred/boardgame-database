@@ -1,0 +1,62 @@
+id: caravan
+name: "Caravan"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Action Points
+  - Resource Management
+  - Trading
+  - Route Building
+  - Take That
+  - Euro
+  - Historical
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Joe Huber
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Caravan is a pick-up and deliver game set in the deserts of Western Africa where players trade
+  goods between eight cities arranged on a 7x7 abstract grid. Each city desires a single specific
+  commodity, and players compete to fulfill these demands for points. Turn order grants varying
+  action counts — earlier players get fewer actions, later players more — creating a natural catch-up
+  mechanism. Players can collect goods, move caravans, steal from rivals, or block routes.
+  With more players, the stealing and blocking interactions intensify. The game's elegant action
+  economy and competitive delivery mechanics pack surprising strategic depth into a concise playing
+  time, making it an excellent midweight trading game from Rio Grande Games.
+
+upgrades: []

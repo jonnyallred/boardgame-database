@@ -1,0 +1,63 @@
+id: horizon-zero-dawn-the-board-game
+name: "Horizon Zero Dawn: The Board Game"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deck Building
+  - Action Points
+  - Variable Player Powers
+  - Sci-Fi
+  - Post-Apocalyptic
+
+evokes:
+  - Discovery
+  - Powerful
+  - Tension
+  - Progress
+  - Connection
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Sherwin Matthews
+publisher:
+  - Steamforged Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Horizon Zero Dawn: The Board Game is a semi-cooperative tactical action game based on the
+  acclaimed video game franchise. Players take the roles of hunters in a world reclaimed by
+  nature, where robotic machines roam the wilderness. The core gameplay combines deck building
+  with tactical positioning as players hunt increasingly powerful machines across modular map
+  tiles. Each hunter has a unique deck of ability cards and can acquire new skills as they
+  progress. Combat is resolved through card play and targeted strike mechanics that allow
+  players to target specific machine components for strategic advantages. Players work together
+  to hunt machines, but compete individually for glory. Funded via Kickstarter in 2018 and
+  released in 2020, the game features detailed miniatures from the iconic machine creatures
+  of the video game.
+
+upgrades: []

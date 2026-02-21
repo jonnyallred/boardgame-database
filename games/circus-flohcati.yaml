@@ -1,0 +1,62 @@
+id: circus-flohcati
+name: "Circus Flohcati"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Press Your Luck
+  - Take That
+  - Card Drafting
+  - Filler
+  - Reiner Knizia
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Clever
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Amigo Spiele
+  - Rio Grande Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 25
+min_age: 8
+
+description: |
+  Circus Flohcati is a light press-your-luck and set-collection card game by Reiner Knizia themed
+  around a quirky flea circus. Ten types of acts — each valued 0 to 7 — form the deck. On your
+  turn, flip face-down cards one at a time to add to a face-up display, then take one for your hand.
+  But if you reveal a card matching any already-displayed color, your turn immediately ends with
+  nothing. Collecting sets of 10 different act types earns a bonus; the highest-value set claims
+  a valuable gala card. Occasional action cards trigger theft or other disruptions. The push-your-luck
+  mechanism is simple enough for children yet punishing enough to create real tension, making this
+  a beloved filler that plays quickly and rewards knowing when to stop.
+
+upgrades: []

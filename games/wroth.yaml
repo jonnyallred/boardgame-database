@@ -1,0 +1,74 @@
+id: wroth
+name: "Wroth"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short-Medium (60-70 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Area Control
+  - Drafting
+  - Asymmetric
+  - Variable Player Powers
+  - Cooperative
+  - Fantasy
+  - Chip Theory Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+  - Unique
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Manny Trembley
+publisher:
+  - Chip Theory Games
+artist:
+  - Manny Trembley
+playtime_minutes: 65
+min_playtime: 60
+max_playtime: 70
+min_age: 14
+
+# Description
+description: |
+  Wroth is an asymmetric dice-drafting area control game from Chip Theory Games,
+  set on the island of Wroth where cultural factions vie for dominance of the
+  Drudgeon Peninsula. Each round, a pool of custom dice — equal to twice the
+  player count plus one — is rolled and drafted one at a time, with die faces
+  representing different actions such as moving units, attacking, or activating
+  special powers.
+
+  Each faction has unique abilities and once-per-game powers that reward
+  different playstyles. The game supports competitive, cooperative, and solo
+  modes, and is notable for its quick setup, accessible teach time (~10 minutes),
+  and distinctive trippy art aesthetic. Chip Theory Games' neoprene-and-chip
+  component style makes it compact despite its strategic depth.
+
+# Upgrades
+upgrades: []

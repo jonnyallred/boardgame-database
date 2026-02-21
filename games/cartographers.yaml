@@ -1,0 +1,78 @@
+id: cartographers
+name: "Cartographers: A Roll Player Tale"
+alternate_names:
+  - "Cartographers"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~40 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 2  # Party
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Roll & Write
+  - Simultaneous Action
+  - Pattern Building
+  - Variable Setup
+  - Fantasy
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Tension
+  - Discovery
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Jordy Adan
+publisher:
+  - Thunderworks Games
+artist:
+  - Josh Emrich
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+# Description
+description: |
+  Cartographers: A Roll Player Tale is a flip-and-write game for one to over a
+  hundred players in which Queen Gimnax charges each player with mapping the
+  northern reaches of the realm. Each round, a Explore card is revealed showing
+  one or two polyomino terrain shapes — forests, farmland, villages, rivers, or
+  wastelands — that every player simultaneously draws onto their personal map
+  sheet. Four changing seasons bring different scoring edicts rewarding different
+  land configurations, while Ambush cards introduce monster shapes that players
+  must place on a neighbor's map to inflict negative points. The game was
+  nominated for the 2020 Kennerspiel des Jahres for its tactical depth,
+  replayability through variable edict combinations, and elegant accessibility.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

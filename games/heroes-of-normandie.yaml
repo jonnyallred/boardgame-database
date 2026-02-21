@@ -1,0 +1,65 @@
+id: heroes-of-normandie
+name: "Heroes of Normandie"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Dice Rolling
+  - Variable Player Powers
+  - Hand Management
+  - Simultaneous Action
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Yann Quéré
+  - Clem Quéré
+publisher:
+  - Devil Pig Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Heroes of Normandie is a fast-paced WW2 strategy wargame inspired by Hollywood war movies.
+  Two players command opposing armies — Americans versus Germans — across modular board tiles
+  representing the Normandy countryside. The game uses a unique action queue system where players
+  simultaneously plan their units' actions, then reveal and resolve them. Hand management of
+  order cards adds tactical depth as players try to anticipate opponent moves and adapt their
+  plans. Units have special abilities represented on their cards, allowing historical heroes and
+  specialized troops to turn the tide of battle. The game's comic book art style and accessible
+  rules make WW2 tactical combat approachable without sacrificing the strategic decisions that
+  wargame enthusiasts love.
+
+upgrades: []

@@ -1,0 +1,64 @@
+id: caylus-1303
+name: "Caylus 1303"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: caylus
+edition: "1303"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Resource Management
+  - Economic
+  - Variable Player Powers
+  - Euro
+  - Historical
+  - Medieval
+
+evokes:
+  - Clever
+  - Masterful
+  - Progress
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - William Attia
+publisher:
+  - Space Cowboys
+  - Asmodee
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Caylus 1303 is a modernized reimagining of the classic worker placement game Caylus, streamlined
+  for faster and more intense play. Players compete as master builders serving the King, placing
+  workers in buildings along a road to gather resources, deliver them to the castle, or construct
+  new buildings. The classic Caylus mechanisms have been refined and modernized: hidden victory
+  points, variable player powers, and a tighter action economy create a more dynamic game than
+  its predecessor. The provost — a position that advances or retreats based on player actions —
+  still determines which buildings activate each round, creating strategic tension around when
+  to advance or block the provost. A worthy successor for both fans of original Caylus and
+  newcomers to worker placement games.
+
+upgrades: []

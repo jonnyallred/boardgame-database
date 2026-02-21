@@ -1,0 +1,78 @@
+id: 13-dead-end-drive
+name: "13 Dead End Drive"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~45 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 3  # Polite
+value: 1  # Bargain
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Bluffing
+  - Deduction
+  - Take That
+  - Variable Player Powers
+  - Mystery
+  - Horror
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Tension
+  - Mystery
+  - Clever
+  - Rivalry
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Michael Marra
+  - David Wyman
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  13 Dead End Drive is a darkly humorous murder-mystery board game published by
+  Milton Bradley in 1993, set in a Victorian mansion after a wealthy old woman's
+  death triggers a frantic battle for her inheritance. Each player secretly
+  controls one or more of the twelve heir characters and must eliminate rivals
+  using five strategically placed mansion traps — a chandelier, a fireplace, a
+  suit of armor, a bookcase, and a lion's head — while keeping their own heirs
+  alive. Portrait cards determine which character is currently the favorite heir,
+  shifting the target. The hidden identity element means players must deduce which
+  characters belong to which opponents before springing traps. With its 3D mansion
+  board and genuinely chaotic gameplay, it became a beloved family game classic
+  that has been reprinted by Winning Moves Games.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

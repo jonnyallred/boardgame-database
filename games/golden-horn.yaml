@@ -1,0 +1,62 @@
+id: golden-horn
+name: "Golden Horn"
+alternate_names:
+  - Golden Horn: Von Venedig nach Konstantinopel
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Trading
+  - Route Building
+  - Resource Management
+  - Euro
+  - Historical
+  - Maritime
+
+evokes:
+  - Discovery
+  - Clever
+  - Progress
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Leo Colovini
+publisher:
+  - Piatnik
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Golden Horn is a trading and sailing game designed by Leo Colovini, set in the historic waters
+  between Venice and Constantinople along the famous Golden Horn waterway. Players sail their
+  ships across the Mediterranean, dealing with pirates and filling their warehouses with valuable
+  goods. The game won the Austrian Game of the Year award in 2013 for its elegant design and
+  accessible gameplay. Players plan sailing routes, collect goods at various ports, and fulfill
+  trade demands for profit. The pirate threat adds an element of risk management, as traveling
+  valuable cargo routes means potential losses to pirates. Colovini's design captures the romance
+  of medieval maritime trade in a compact, family-friendly package.
+
+upgrades: []

@@ -1,0 +1,66 @@
+id: dragons-gold
+name: "Dragon's Gold"
+alternate_names:
+  - Dragon's Gold
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Real-time
+  - Bluffing
+  - Set Collection
+  - Trading
+  - Party
+  - Fantasy
+
+evokes:
+  - Humor
+  - Persuasion
+  - Tension
+  - Lucky
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Bruno Faidutti
+publisher:
+  - Jeux Descartes
+  - IDW Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Dragon's Gold is a frenetic real-time negotiation game by Bruno Faidutti where adventuring
+  parties attack dragons and then must divide up the spoils — which proves far more difficult
+  than slaying the beast. Each player controls a team of dragon hunters (knights, a thief, and a
+  wizard), and only groups with sufficient combined strength can defeat each dragon. Once a dragon
+  falls, players who participated have 30 seconds to negotiate how to split the treasure. No deal?
+  Nobody gets anything. The game's brilliant tension comes from the bluffing and bartering as
+  players exaggerate their contributions and make urgent trade offers under time pressure.
+  Set collection drives scoring as players try to accumulate matching sets of treasure types.
+  Dragon's Gold captures the chaos and comedy of loot distribution in a surprisingly short,
+  highly replayable package.
+
+upgrades: []

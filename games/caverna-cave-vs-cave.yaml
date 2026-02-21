@@ -1,0 +1,61 @@
+id: caverna-cave-vs-cave
+name: "Caverna: Cave vs Cave"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: caverna
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Resource Management
+  - Euro
+  - Uwe Rosenberg
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Tension
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Mayfair Games
+  - Lookout Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 12
+
+description: |
+  Caverna: Cave vs Cave is a streamlined two-player variant of Uwe Rosenberg's popular Caverna:
+  The Cave Farmers. Players start with two dwarves and a small mountain excavation, competing
+  to build the most prosperous cave community in eight rounds. Dwarves double in number over
+  the course of the game, new cave spaces are excavated, and buildings and rooms are constructed.
+  Resources are gathered and converted into improvements that earn victory points at game end.
+  The smaller scope compared to the original Caverna makes it more approachable for two-player
+  sessions, playing in 20-40 minutes while retaining the satisfying cave-building progression
+  that fans love. An excellent gateway into Rosenberg's style of worker placement games.
+
+upgrades: []

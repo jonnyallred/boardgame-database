@@ -1,0 +1,73 @@
+id: zombie-dice
+name: "Zombie Dice"
+year: 2010
+
+# Relationships
+game_family: zombie-dice
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (10-20 min)
+rules_complexity: 0  # Preschool-simple
+strategic_depth: 0  # Reflex/luck
+feel: 1  # Light
+value: 0  # Impulse
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Party
+  - Filler
+  - Zombies
+  - Horror
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5, 6]
+
+# Metadata
+designer:
+  - Steve Jackson
+publisher:
+  - Steve Jackson Games
+artist:
+  - Alex Fernandez
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 10
+
+# Description
+description: |
+  Zombie Dice is a fast, addictive press-your-luck dice game from Steve Jackson
+  Games, winner of the Origins Award for Best Family, Party or Children's Game
+  of 2010. Players are zombies trying to eat more brains than their undead
+  rivals. On your turn, pull three of the 13 custom dice from the cup and roll
+  them — brains score points, shotgun blasts push you toward elimination, and
+  runners can be rerolled.
+
+  You may stop and bank your brains at any time, or keep rolling for more —
+  adding new dice to the mix each time. Three shotgun blasts in a turn and you
+  lose all your brains for that round. The first player to 13 brains wins.
+  Plays in 10-20 minutes and can be taught in a single round, making it ideal
+  for warming up game nights or filling short time windows. Multiple expansions
+  add character dice with special rules.
+
+# Upgrades
+upgrades: []

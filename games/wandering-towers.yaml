@@ -1,0 +1,74 @@
+id: wandering-towers
+name: "Wandering Towers"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Racing
+  - Modular Board
+  - Family
+  - Fantasy
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Humor
+  - Lucky
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Michael Kiesling
+  - Wolfgang Kramer
+publisher:
+  - Capstone Games
+  - ABACUSSPIELE
+artist:
+  - Michael Menzel
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+# Description
+description: |
+  Wandering Towers is a whimsical race game by the celebrated design duo
+  Wolfgang Kramer and Michael Kiesling. Players move their wizard meeples
+  and large tower pieces around a ring of 16 spaces, trying to be first to
+  guide their wizards into Ravenskeep, the central tower destination.
+
+  On each turn, a player plays two of three cards from their hand indicating
+  how many spaces to move a wizard or tower forward clockwise. When a moving
+  tower overtakes a wizard, that wizard gets trapped inside and a potion bottle
+  is filled. Filled potions grant bonus actions and are part of the win
+  condition. The towering 3D components create a visually striking and
+  tactilely satisfying game that plays well across a wide age range.
+
+# Upgrades
+upgrades: []

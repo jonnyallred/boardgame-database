@@ -1,0 +1,64 @@
+id: dragon-eclipse
+name: "Dragon Eclipse"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deck Building
+  - Campaign Mode
+  - Hex Map
+  - Variable Player Powers
+  - Fantasy
+
+evokes:
+  - Discovery
+  - Progress
+  - Connection
+  - Wonder
+  - Tension
+
+possible_counts: [1, 2]
+true_counts: [1, 2]
+
+designer:
+  - Andrzej Betkiewicz
+  - Kamil Cieśla
+  - Wojciech Frelich
+publisher:
+  - Awaken Realms
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Dragon Eclipse is a cooperative campaign game set in a colorful universe inhabited by mystlings —
+  element-wielding creatures. Players take on the role of Tamers who befriend and train mystlings,
+  building bonds and developing their companions' powers across a campaign. The game combines
+  creature-taming mechanics with tactical hex-based combat, light exploration, and deck construction.
+  Card-driven mechanics resolve conflicts and narrative choices. In addition to the main cooperative
+  campaign, the game supports competitive PvP play and a challenging Roguelite mode, making it
+  highly replayable. Published by Awaken Realms (Tainted Grail, Nemesis) with their characteristic
+  high production quality, Dragon Eclipse is designed to appeal to both veteran gamers and newcomers
+  to the cooperative adventure genre.
+
+upgrades: []

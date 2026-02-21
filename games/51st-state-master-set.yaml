@@ -1,0 +1,75 @@
+id: 51st-state-master-set
+name: "51st State: Master Set"
+year: 2016
+
+# Relationships
+game_family: 51st-state
+edition: master-set
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Card Drafting
+  - Engine Building
+  - Post-Apocalyptic
+  - Euro
+  - Variable Player Powers
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Agency
+  - Powerful
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Ignacy Trzewiczek
+publisher:
+  - Portal Games
+artist:
+  - Mateusz Bielski
+  - Tomasz Jedruszek
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  51st State: Master Set is the definitive edition of Portal Games' post-apocalyptic
+  card game, set in a world where the United States has collapsed and new powers vie
+  for control of the ruins. Players lead one of four factions trying to build a new
+  nation — the 51st State — from the rubble of the old world.
+
+  The game's central mechanic revolves around the versatility of every card: each
+  location can be razed for an immediate burst of resources, dealt with for recurring
+  income, or built to provide a powerful ongoing ability. This three-way choice creates
+  rich decisions every turn as players manage their hand, develop their engine, and
+  compete for dominance.
+
+  The Master Set consolidates 88 cards from the original base game with 50 cards each
+  from the New Era and Winter expansions, all rebalanced for a cohesive experience.
+  It also introduced solo and two-player modes alongside the full multiplayer game.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,73 @@
+id: aqualin
+name: "Aqualin"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~20 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 4  # Fierce
+value: 1  # Bargain
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Abstract
+  - Tile Placement
+  - Set Collection
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Marcello Bertocchi
+publisher:
+  - KOSMOS
+artist:
+  - Sophie Rekasowski
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+# Description
+description: |
+  Aqualin is a two-player abstract strategy game played on a 6×6 reef grid with
+  36 acrylic tiles depicting six sea creatures in six different colors. Each turn,
+  a player selects one of the six available stones and places it on an empty space,
+  then optionally moves one adjacent stone before or after placement to form
+  groups. The twist: one player scores points for grouping stones by color, while
+  the other scores for grouping by creature type. Both players are placing the
+  same stones and neither can add new pieces without potentially helping the
+  opponent. Larger connected groups score more points, and the player with the most
+  points when the board is full wins. This elegant shared-resource tension makes
+  Aqualin a satisfying abstract game that plays in under half an hour.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

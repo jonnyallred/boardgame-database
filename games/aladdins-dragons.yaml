@@ -1,0 +1,79 @@
+id: aladdins-dragons
+name: "Aladdin's Dragons"
+alternate_names:
+  - "Morgenland"
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~90 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Simultaneous Action
+  - Set Collection
+  - Worker Placement
+  - Fantasy
+  - Medieval
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Richard Breese
+publisher:
+  - Hans im Glück
+  - Rio Grande Games
+  - 999 Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 10
+
+# Description
+description: |
+  Aladdin's Dragons is an area-majority bidding game in which three to six
+  players vie to collect valuable magical artifacts from the Caliph's treasure
+  chamber. The board is divided into three zones: a resource-gathering lower
+  section, a central area with powerful special-action spaces, and an upper
+  artifact market. Each turn, players simultaneously and secretly distribute
+  numbered bidding tokens face-down across board locations. The tokens are then
+  revealed and resolved — higher bids win resources, access to actions, or the
+  artifacts themselves. Special actions let players cast spells, block opponents,
+  or trade resources. The game ends when all artifacts have been sold; the player
+  who accumulated the most artifacts wins. Aladdin's Dragons won the Games
+  Magazine Game of the Year award in 2001.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

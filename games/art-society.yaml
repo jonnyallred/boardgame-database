@@ -1,0 +1,81 @@
+id: art-society
+name: "Art Society"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~45 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 2  # Party
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Tile Placement
+  - Pattern Building
+  - Set Collection
+  - Euro
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Complete
+  - Clever
+  - Rivalry
+  - Agency
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Mitch Wallace
+publisher:
+  - Mighty Boards
+artist:
+  - Veronica Grassi
+  - Max Kosek
+  - Angelica Regni
+  - Sofia Rossi
+  - Doris Shermadhi
+  - Giacomo Vichi
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Art Society immerses two to four players in the competitive world of high-end
+  art collecting, where the goal is to build the most prestigious private gallery.
+  Each round, players bid at auctions to acquire artwork tiles representing real
+  and inspired masterpieces. After winning pieces, players arrange them on their
+  personal drawing-room wall, scoring points for matching styles, colors, and
+  patterns in adjacent placements. The dual challenge of bidding smart and
+  arranging strategically makes the game deceptively engaging for its short
+  playtime. Barnes & Noble recognized Art Society as its 2023 Game of the Year,
+  and the game's lavishly illustrated artwork makes it as visually appealing as
+  the collections players assemble.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

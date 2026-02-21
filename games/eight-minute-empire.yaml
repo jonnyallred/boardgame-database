@@ -1,0 +1,71 @@
+id: eight-minute-empire
+name: "Eight-Minute Empire"
+year: 2012
+
+# Relationships
+game_family: eight-minute-empire
+edition: null
+base_game: null
+expansions:
+  - eight-minute-empire-legends
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (8-20 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate competitive
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Card Drafting
+  - Set Collection
+  - Filler
+  - Gateway
+  - Abstract
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Ryan Laukat
+publisher:
+  - Red Raven Games
+artist:
+  - Ryan Laukat
+playtime_minutes: 15
+min_playtime: 8
+max_playtime: 20
+min_age: 13
+
+# Description
+description: |
+  Eight-Minute Empire is a compact area control card game designed and illustrated by Ryan
+  Laukat, published by Red Raven Games in 2012. Players take turns selecting one of six
+  available action cards, paying the listed coin cost and immediately executing the action:
+  placing or moving armies, building cities, and collecting sets of goods. The card chosen
+  also adds to each player's hand for end-game set collection scoring. After all cards are
+  purchased or the deck runs out, players score for area control across the map's regions
+  and islands, plus bonus points for card set majorities. The game packs meaningful
+  strategic decisions about area control, card timing, and set collection into a tiny
+  footprint that plays in under 20 minutes. Its elegant design makes it a go-to filler
+  or travel game for experienced gamers.
+
+# Upgrades
+upgrades: []

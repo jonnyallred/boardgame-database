@@ -1,0 +1,75 @@
+id: dungeon-lords
+name: "Dungeon Lords"
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (2-3 hours)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Programmed Movement
+  - Hand Management
+  - Resource Management
+  - Euro
+  - Fantasy
+  - Humor
+  - Vlaada Chvatil
+  - Czech Games Edition
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Clever
+  - Agency
+  - Tension
+  - Masterful
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Vlaada Chvatil
+publisher:
+  - Czech Games Edition
+artist:
+  - David Cochard
+  - Milan Vavron
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 13
+
+# Description
+description: |
+  Dungeon Lords is a darkly humorous worker placement game designed by Vlaada Chvatil
+  and published by Czech Games Edition in 2009. Players take on the role of dungeon
+  lords competing to build the most impressive underground lair filled with monsters,
+  traps, and evil minions. Each year is divided into seasons: during the dungeon-building
+  phase, players secretly select actions on programming cards — mining tunnels, hiring
+  monsters, acquiring spells, and collecting gold — while managing food, imps, and space.
+  At year's end, adventuring parties invade each dungeon, and players must defend against
+  increasingly powerful heroes. Scoring rewards evil deeds, trap placements, and defeated
+  heroes. The simultaneous action selection creates kingmaking tensions as players try
+  to predict and counter each other's plans. The game's rich humor, clever mechanics,
+  and elaborate ruleset make it a favorite among experienced gamers.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,78 @@
+id: arborea
+name: "Arborea"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~90 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 3  # Strategy
+feel: 2  # Party
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Variable Player Powers
+  - Engine Building
+  - Pattern Building
+  - Euro
+  - Nature
+  - Animals
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Wonder
+  - Progress
+  - Clever
+  - Complete
+  - Agency
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Dani Garcia
+publisher:
+  - Alley Cat Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Arborea is a worker-placement game in which players take the roles of Patron
+  Spirits guiding villagers to heal and restore a mystical ecosystem. Workers are
+  placed on shared Pilgrimage action tracks that physically advance all workers
+  on them together, creating a timing-based tension where acting earlier yields
+  less reward but secures priority. The game's signature mechanic is the personal
+  Ecosystem board: players overlay terrain cards with six-square habitat tiles,
+  stacking and layering them to create diverse habitats. Creatures scored at the
+  intersections of four habitat squares provide the majority of victory points,
+  with different species rewarding different adjacency combinations. The visual
+  tableau of overlapping terrain creates a genuinely beautiful and ever-evolving
+  personal landscape.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

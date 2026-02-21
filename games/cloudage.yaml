@@ -1,0 +1,65 @@
+id: cloudage
+name: "CloudAge"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Engine Building
+  - Resource Management
+  - Campaign Mode
+  - Sci-Fi
+  - Post-Apocalyptic
+  - Alexander Pfister
+  - Capstone Games
+
+evokes:
+  - Progress
+  - Discovery
+  - Clever
+  - Agency
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Alexander Pfister
+  - Arno Steinwender
+publisher:
+  - Capstone Games
+artist: []
+playtime_minutes: 80
+min_playtime: 60
+max_playtime: 100
+min_age: 14
+
+description: |
+  CloudAge is a dystopian engine-building game co-designed by Alexander Pfister where players
+  travel through a dark future in airships above dried-up landscapes. Players visit cities,
+  battle Cloud militia, and develop their engines through an innovative card-sleeving system —
+  sleeving cards together combines their resource-gathering capabilities in a new form of
+  resource management. The game mixes deck building, resource management, and engine building
+  across a campaign structure with connected scenarios. Players must balance expanding their
+  airship's capabilities against immediate tactical needs in a world where the sky is a
+  contested frontier. Pfister brings his signature mixture of tight action efficiency and
+  emergent engine complexity to this post-apocalyptic adventure game.
+
+upgrades: []

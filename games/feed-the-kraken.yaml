@@ -1,0 +1,71 @@
+id: feed-the-kraken
+name: "Feed the Kraken"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Social Deduction
+  - Traitor
+  - Bluffing
+  - Teams
+  - Party
+  - Pirates
+  - Maritime
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Mystery
+  - Humor
+  - Persuasion
+  - Rivalry
+
+# Player counts
+possible_counts: [5, 6, 7, 8, 9, 10, 11]
+true_counts: [7, 8, 9, 10]
+
+# Metadata
+designer:
+  - Probably Something Entertainment
+publisher:
+  - Spielworxx
+artist:
+  - Various
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+# Description
+description: |
+  Feed the Kraken is a social deduction game published by Spielworxx in 2022 for 5-11
+  players. Players are crew members aboard a pirate ship, divided into three secret factions:
+  loyal Pirates who want to reach port, Cultists who want to summon the Kraken, and the
+  lone Pirate Captain who may secretly be a Cultist sympathizer. Each round, the ship's
+  navigator is chosen, who then selects a helmsman to steer the ship. Vote cards determine
+  the ship's direction, and majority voting resolves ties. The Cultists aim to steer the
+  ship into the Kraken's territory while appearing loyal. Various role cards grant special
+  abilities that help players investigate, manipulate, and deduce hidden identities.
+  Betrayals, accusations, and clever misdirection define the experience, making it an
+  engaging social game with strong nautical flavor.
+
+# Upgrades
+upgrades: []

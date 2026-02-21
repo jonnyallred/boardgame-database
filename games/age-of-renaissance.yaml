@@ -1,0 +1,80 @@
+id: age-of-renaissance
+name: "Age of Renaissance"
+alternate_names: []
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (~4 hr)
+rules_complexity: 3  # College
+strategic_depth: 4  # Master Plan
+feel: 4  # Fierce
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Tech Tree
+  - Economic
+  - Auctions/Bidding
+  - Hand Management
+  - Civilization
+  - Historical
+  - Medieval
+  - Wargame
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Powerful
+  - Rivalry
+  - Tension
+  - Agency
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Don Greenwood
+  - Jared Scarborough
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+# Description
+description: |
+  Age of Renaissance is a civilization-building game set in the European
+  Renaissance, serving as a sequel to the classic Avalon Hill game Civilization.
+  Three to six players each control one of the great commercial capitals of
+  Europe — Venice, Genoa, Barcelona, London, Paris, or Hamburg — competing to
+  gain prestige through technological advancement while keeping their misery
+  index low. Players expand territory, accumulate trade cards representing
+  commodities, and bid for the right to advance on tech trees covering areas
+  like religion, exploration, arts, and commerce. A deck of event cards introduces
+  historical crises including plagues, famines, and religious strife. The game
+  won the Origins Award for Best Pre-20th Century Board Game of 1996 and is
+  prized for its rich historical simulation and deep strategic web.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

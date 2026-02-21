@@ -1,0 +1,62 @@
+id: hawaii
+name: "Hawaii"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Variable Setup
+  - Euro
+  - Nature
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Greg Daigle
+publisher:
+  - Hans im Glück
+  - Rio Grande Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 10
+
+description: |
+  Hawaii is a worker placement and tile placement game where players take on the roles of chiefs
+  competing to build the most prosperous Polynesian villages. Players use their chieftain pieces
+  to travel around the board purchasing island tiles — beaches, grasslands, and forest — and
+  adding them to their growing archipelago. Tiles must connect in valid ways and certain tile
+  combinations unlock scoring bonuses. Additional island tiles can be explored as the game
+  progresses, offering different resource combinations. The game features a variable market
+  where tile prices change based on demand, creating strategic purchasing decisions. Points
+  are earned through village expansion, collecting cultural artifacts, and completing territory
+  objectives, with the most prosperous chief winning at game end.
+
+upgrades: []

@@ -1,0 +1,71 @@
+id: abalone
+name: "Abalone"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Abstract
+  - Hex Map
+  - Take That
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Masterful
+  - Tension
+  - Clever
+  - Agency
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Michel Lalet
+  - Laurent Lévi
+publisher:
+  - Abalone SA
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 7
+
+# Description
+description: |
+  Abalone is a two-player abstract strategy game played on a hexagonal board
+  with 14 black and 14 white marbles. Players take turns pushing one to three
+  of their marbles in a straight line, using the "sumito" rule to push opponent
+  marbles off the edge when they outnumber them in that line. The first player
+  to push six of their opponent's marbles off the board wins. Simple to learn
+  but deep in strategic possibility, Abalone rewards pattern recognition and
+  forward planning, and has sold over 4.5 million copies since its 1990 debut.
+  It received one of the first Mensa Select awards the year of its publication.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,64 @@
+id: castles-of-mad-king-ludwig
+name: "Castles of Mad King Ludwig"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Auctions/Bidding
+  - Set Collection
+  - Variable Setup
+  - Euro
+  - Family
+  - Historical
+  - City Building
+
+evokes:
+  - Creative
+  - Progress
+  - Clever
+  - Complete
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Ted Alspach
+publisher:
+  - Bézier Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  Castles of Mad King Ludwig is a tile-placing game where 1-4 players act as master builders
+  constructing extravagant, personalized castles for the eccentric King Ludwig II of Bavaria.
+  Players take turns as the Master Builder, setting prices for a selection of room tiles and
+  then letting opponents buy what they want — with the Master Builder claiming whatever remains.
+  Room tiles include sleeping chambers, throne rooms, gardens, hallways, and utility rooms that
+  combine to fulfill secret King's Favors for bonus points. Connecting rooms in efficient layouts
+  maximizes bonuses while special bonus cards reward specific combinations. The rotating Master
+  Builder role creates a pricing puzzle — price rooms high enough to profit when opponents buy
+  them, but risk overpaying for the remainder. Winner of the Mensa Mind Games award.
+
+upgrades: []

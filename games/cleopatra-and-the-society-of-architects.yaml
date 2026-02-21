@@ -1,0 +1,67 @@
+id: cleopatra-and-the-society-of-architects
+name: "Cleopatra and the Society of Architects"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Resource Management
+  - Auctions/Bidding
+  - Bluffing
+  - Euro
+  - Historical
+  - Ancient
+  - Days of Wonder
+  - Bruno Cathala
+
+evokes:
+  - Progress
+  - Wonder
+  - Tension
+  - Clever
+  - Rivalry
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Bruno Cathala
+  - Ludovic Maublanc
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 8
+
+description: |
+  Cleopatra and the Society of Architects is a card-drafting and building game published by Days
+  of Wonder where 3-5 players compete to become the richest architect to survive the construction
+  of Cleopatra's palace. Players collect resource cards to build pieces of an impressive 3D
+  palace — columns, sphinxes, obelisks, doors, and architectural decorations — earning talents
+  for each contribution. The key tension comes from corruption: using special character cards gains
+  powerful advantages but adds corruption amulets to your personal stash. At each round's end,
+  players secretly bid talents to the gods; the highest bidder sheds corruption while lowest
+  bidders gain more. At game end, the most corrupt player is fed to Cleopatra's crocodile —
+  eliminated regardless of their wealth. The actual 3D palace constructed during play creates
+  a spectacular table presence unique in the hobby.
+
+upgrades: []

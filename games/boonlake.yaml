@@ -1,0 +1,81 @@
+id: boonlake
+name: "Boonlake"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~90 min)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 2  # Party
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Engine Building
+  - Tile Placement
+  - Resource Management
+  - Variable Player Powers
+  - Euro
+  - Western
+  - Agriculture
+  - Alexander Pfister
+  - Capstone Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Discovery
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Alexander Pfister
+publisher:
+  - dlp games
+  - Capstone Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 150
+min_age: 14
+
+# Description
+description: |
+  Boonlake sends one to four pioneer players to settle the untamed shores of a
+  fictional American lake region, building homes, raising cattle, and developing
+  infrastructure in an undiscovered landscape. Players place tiles to expand the
+  lake terrain, construct settlements, and link their growing territory to the
+  emerging network of roads and rivers. Alexander Pfister's signature interlocking
+  action systems reward long-term planning: cattle ranching generates ongoing
+  income, while building developments unlock escalating bonuses. A card-driven
+  action mechanism (similar to Pfister's Great Western Trail) paces players through
+  decision trees where the order and timing of actions ripples across multiple
+  future turns. Both competitive and solo modes are supported, with a modular board
+  ensuring high replayability.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

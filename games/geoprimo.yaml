@@ -1,0 +1,56 @@
+id: geoprimo
+name: "Geoprimo"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Set Collection
+  - Family
+
+evokes:
+  - Discovery
+  - Lucky
+  - Rivalry
+  - Wonder
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Geoprimo is an educational geography game featuring 42 famous world landmarks and sights
+  displayed on a puzzle map of the world, including iconic locations like the Colosseum, the
+  Statue of Liberty, and the Pyramids. Players answer geography questions correctly to grab
+  continent puzzle pieces, earning chips for correct answers. The competitive trivia format
+  rewards players who can identify world landmarks and their geographic locations. As players
+  collect continent pieces, the world map is gradually assembled, providing a visual learning
+  element alongside the quiz competition. Designed as an accessible family game to make
+  geography learning engaging and fun across age groups.
+
+upgrades: []

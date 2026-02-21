@@ -1,0 +1,77 @@
+id: bunny-kingdom
+name: "Bunny Kingdom"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~50 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Area Control
+  - Set Collection
+  - Hand Management
+  - Euro
+  - Fantasy
+  - Animals
+  - Richard Garfield
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Rivalry
+  - Agency
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Richard Garfield
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 50
+min_playtime: 40
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  Bunny Kingdom is a card-drafting area-control game designed by Richard Garfield
+  in which two to four bunnies compete to establish the most powerful fiefdoms
+  across a 100-square grid. Over four rounds, players draft cards and use them to
+  claim territories, build cities, harvest resources, and fulfill secret Parchment
+  scoring objectives. Each fiefdom scores points equal to its city count multiplied
+  by its distinct resource types, incentivizing both breadth and depth of
+  development. Territory cards correspond directly to squares on the board, while
+  Building and Parchment cards provide construction options and bonus scoring
+  conditions. Drafting tension arises from balancing immediate territory grabs
+  against the need to set up future scoring combos and deny opponents key cards.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,71 @@
+id: flash-point-fire-rescue
+name: "Flash Point: Fire Rescue"
+year: 2011
+
+# Relationships
+game_family: flash-point-fire-rescue
+edition: null
+base_game: null
+expansions:
+  - flash-point-fire-rescue-tragic-events
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Cooperative
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Action Points
+  - Variable Player Powers
+  - Modular Board
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Connection
+  - Dread
+  - Agency
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+# Metadata
+designer:
+  - Kevin Lanzig
+publisher:
+  - Indie Boards and Cards
+artist:
+  - Victor Perez Corbella
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Flash Point: Fire Rescue is a cooperative firefighting game published by Indie Boards and
+  Cards in 2011. Players take on specialized roles — Cadet, Driver/Operator, Paramedic,
+  Rescue Specialist, and others — each with unique action abilities, working together to
+  rescue survivors from a burning building before it is consumed by flames. Each turn,
+  players spend action points to move through the building, clear smoke, chop through walls,
+  fight fires, and carry victims to safety. After each player's turn, the fire spreads
+  through a dice-driven mechanism that can cause explosions and structural damage. Players
+  lose if the building collapses or too many victims perish. The game features two difficulty
+  modes (family and expert), making it accessible to new cooperative gamers. It is frequently
+  praised as an excellent entry-level cooperative game with real tension.
+
+# Upgrades
+upgrades: []

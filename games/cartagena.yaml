@@ -1,0 +1,77 @@
+id: cartagena
+name: "Cartagena"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 3  # Polite
+value: 1  # Bargain
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Modular Board
+  - Racing
+  - Pirates
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Lucky
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Leo Colovini
+publisher:
+  - Venice Connection
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+# Description
+description: |
+  Cartagena is a pirate escape game themed on the 1672 jailbreak from the
+  fortress of Cartagena. Two to five players each control six pirate pawns racing
+  through a winding underground tunnel to reach the getaway sloop at the harbor.
+  On a turn, a player plays a card from their hand to advance one pirate forward
+  to the next empty space matching the card's symbol — or moves a pirate backward
+  to the nearest occupied space to draw cards (one or two depending on how many
+  pirates are already there). This elegant push-pull between advancing pirates
+  and drawing cards creates clever tension. The modular board, composed of six
+  double-sided tiles each with a different arrangement of six symbols, ensures
+  the tunnel layout changes every game. The first player to get all six pirates
+  onto the waiting ship wins.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

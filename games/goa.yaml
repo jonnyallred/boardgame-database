@@ -1,0 +1,63 @@
+id: goa
+name: "Goa"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Tech Tree
+  - Resource Management
+  - Set Collection
+  - Euro
+  - Historical
+  - Rio Grande Games
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Rüdiger Dorn
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  Goa is a strategy game set at the beginning of the 16th century where players control competing
+  spice trading companies vying for dominance. The game uniquely combines an interactive auction
+  mechanism with solo management of plantations and fleet infrastructure. Players nominate tiles
+  for auction — items other players want — earning money, then spend winnings to develop their
+  own trading empire across five technology tracks: ships, plantations, colonists, spices, and
+  expedition speed. Upgrading tracks unlocks more powerful actions and resources. The tension
+  comes from always having one action fewer than you need, forcing tight prioritization each round.
+  Players race to be first to reach the top levels in multiple tracks while balancing their
+  income from selling spices overseas.
+
+upgrades: []

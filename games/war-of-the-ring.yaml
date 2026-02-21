@@ -1,0 +1,82 @@
+id: war-of-the-ring
+name: "War of the Ring"
+year: 2004
+
+# Relationships
+game_family: war-of-the-ring
+edition: first
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (3-4+ hours)
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 4  # Fierce
+value: 4  # Heirloom
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - 1 vs Many
+  - Wargame
+  - Ameritrash
+  - Fantasy
+  - Lord of the Rings
+  - Narrative Heavy
+  - Fantasy Flight Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Powerful
+  - Dread
+  - Discovery
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Roberto Di Meglio
+  - Marco Maggi
+  - Francesco Nepitello
+publisher:
+  - Fantasy Flight Games
+  - Ares Games
+artist:
+  - John Howe
+  - Fabio Maiorana
+playtime_minutes: 180
+min_playtime: 150
+max_playtime: 240
+min_age: 13
+
+# Description
+description: |
+  War of the Ring is an epic asymmetric wargame set in J.R.R. Tolkien's Middle-
+  earth during the events of The Lord of the Rings. One player controls the Free
+  Peoples — Gondor, Rohan, the Elves, the North, and the Dwarves — while the
+  other commands Sauron's Shadow armies. The game captures both the grand
+  military conflict and the secret Fellowship mission simultaneously.
+
+  Each round, players roll action dice that determine which types of actions
+  they may take: moving armies, recruiting troops, playing event cards, or
+  advancing characters. The Shadow wins by military conquest (capturing enough
+  Free Peoples cities) or corrupting the Ring-bearers, while the Free Peoples
+  can win militarily or by destroying the One Ring in Mount Doom. The game
+  is renowned for its fidelity to the source material and its capacity to tell
+  dramatic stories through play, though it demands a significant time commitment.
+
+# Upgrades
+upgrades: []

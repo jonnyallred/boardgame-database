@@ -1,0 +1,76 @@
+id: 7-wonders-architects
+name: "7 Wonders: Architects"
+year: 2021
+
+# Relationships
+game_family: 7-wonders
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (25 min)
+rules_complexity: 0  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Set Collection
+  - Engine Building
+  - Ancient
+  - Civilization
+  - Family
+  - Gateway
+  - Antoine Bauza
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Complete
+  - Clever
+  - Wonder
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Antoine Bauza
+publisher:
+  - Repos Production
+  - Asmodee
+artist:
+  - Etienne Hebinger
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  7 Wonders: Architects is a standalone, streamlined reimagining of the classic
+  7 Wonders card game, designed specifically for families and new players.
+  Players each build one of the Seven Wonders of the ancient world — the
+  Pyramids, the Colossus, the Lighthouse, and others — by collecting resource
+  cards, science cards, military cards, and more.
+
+  On each turn, a player takes one of the three face-up cards from the central
+  display. Cards provide resources to construct wonder stages, trigger progress
+  tokens, or contribute to military conflicts. When a player completes their
+  seventh wonder stage, the game ends and points are tallied. With no hand
+  drafting, simplified scoring, and a 25-minute playtime, Architects strips
+  away 7 Wonders' complexity while retaining its thematic appeal and the
+  satisfying arc of building a civilization-defining monument.
+
+# Upgrades
+upgrades: []

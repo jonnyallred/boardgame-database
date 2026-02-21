@@ -1,0 +1,79 @@
+id: abyss
+name: "Abyss"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Auctions/Bidding
+  - Press Your Luck
+  - Fantasy
+  - Euro
+  - Bruno Cathala
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Bruno Cathala
+  - Charles Chevallier
+publisher:
+  - Asmodee
+  - Bombyx
+artist:
+  - Xavier Collette
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  Abyss is a visually striking fantasy card game in which players compete to claim
+  the throne of the underwater kingdom. To win, players must accumulate Influence
+  points by recruiting powerful Lords, controlling key Locations, and earning favor
+  from the Council of Allies.
+
+  The game proceeds through three interconnected phases: exploring the Abyss to
+  gather Allies (with a push-your-luck bidding mechanic where other players can
+  purchase Allies before you do), using those Allies to recruit influential Lords,
+  and spending Lords to control underwater territories. Each phase feeds into the
+  next in a satisfying loop.
+
+  The push-your-luck element in exploring gives Abyss its tension: do you keep
+  drawing Allies hoping to collect a valuable set, or cash out before someone else
+  buys what you've revealed? Designed by Bruno Cathala and Charles Chevallier,
+  Abyss is celebrated for its gorgeous artwork by Xavier Collette and its
+  accessible yet layered gameplay.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,81 @@
+id: ad-astra
+name: "Ad Astra"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~60 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Programmed Movement
+  - Simultaneous Action
+  - Variable Player Powers
+  - Resource Management
+  - Trading
+  - Sci-Fi
+  - Space
+  - Euro
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Discovery
+  - Tension
+  - Agency
+  - Progress
+
+# Player counts
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Bruno Faidutti
+  - Serge Laget
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Justin Albers
+  - Kieran Yanner
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+# Description
+description: |
+  Ad Astra transports three to five players into a distant future where divergent
+  human sub-races compete to colonize the galaxy. The game's central mechanic is
+  a hybrid of variable role selection and action programming: each round, players
+  simultaneously place action cards face-down on a shared planning board, then
+  reveal and resolve them in order. Everyone benefits when any player's chosen
+  phase is resolved, creating the Puerto Rico-style dynamic Faidutti has cited
+  as inspiration. Players explore modular star systems, extract resources from
+  planets, build factories and colonies, and haul goods via spaceships. Ancient
+  alien technologies discovered during exploration can swing the balance of power.
+  The intersection of simultaneous programming with shared-benefit phase
+  resolution makes Ad Astra distinctive in the space-civilization genre.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

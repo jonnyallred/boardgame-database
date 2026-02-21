@@ -1,0 +1,63 @@
+id: formidable-foes
+name: "Formidable Foes"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Action Points
+  - Press Your Luck
+  - Dungeon Crawler
+  - Fantasy
+  - Friedemann Friese
+  - Rio Grande Games
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Discovery
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Friedemann Friese
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Formidable Foes is a light-hearted dungeon exploration game by Friedemann Friese where players
+  take the roles of competing heroes accumulating treasure from monster-infested dungeons. Heroes
+  explore the dungeon map, fight monsters, and collect gold — but the competition isn't against
+  monsters, it's against other players to become the richest. On each turn, players choose to
+  move twice, move once and fight a monster, or collect power tokens that improve dice rolls.
+  Combat uses dice rolling with power tokens providing modifiers to improve odds. The real
+  tension comes from race-to-riches dynamics as players grab available loot before rivals reach
+  it. A lighthearted take on dungeon crawling that prioritizes accessible fun over strategic
+  depth.
+
+upgrades: []

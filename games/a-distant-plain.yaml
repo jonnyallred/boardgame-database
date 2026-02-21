@@ -1,0 +1,81 @@
+id: a-distant-plain
+name: "A Distant Plain"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: coin-series
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (~6+ hr)
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 4  # Fierce
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Events
+  - Campaign Mode
+  - Wargame
+  - Historical
+  - War
+  - Dudes on a Map
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Unique
+  - Rivalry
+  - Agency
+  - Clever
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Volko Ruhnke
+  - Brian Train
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+# Description
+description: |
+  A Distant Plain is the third volume in Volko Ruhnke's acclaimed COIN (COunter-
+  INsurgency) Series, modeling the complex multi-faction struggle in Afghanistan
+  co-designed with simulation veteran Brian Train. Four deeply asymmetric factions
+  — Coalition, Government, Taliban, and Warlords — each pursue entirely different
+  objectives using unique action sets, making genuine four-player sessions
+  especially tense. Coalition and Government must cooperate to stabilize the
+  country despite competing visions, while the Taliban wages guerrilla insurgency
+  and the Warlords exploit chaos for profit. The event card deck drives historical
+  narrative including Pakistani posture mechanics, evolving tactics, and technology
+  shifts. Like other COIN titles, it supports solitaire and two-player play through
+  a bot system. Demanding to learn but among the most asymmetric and thematically
+  resonant wargames available.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,65 @@
+id: hoity-toity
+name: "Hoity Toity"
+alternate_names:
+  - Adel Verpflichtet
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Set Collection
+  - Simultaneous Action
+  - Social Deduction
+  - Family
+  - Gateway
+  - Klaus Teuber
+
+evokes:
+  - Humor
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - F.X. Schmid
+  - Avalon Hill
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Hoity Toity (Adel Verpflichtet in German) is a Spiel des Jahres 1990 winner about eccentric
+  antique collectors competing to build the most impressive collection. Each round, all players
+  secretly and simultaneously select a destination card: either the Auction House to bid on
+  new antiques, or the Castle to display their collection and potentially steal from rivals —
+  or catch thieves with the detective. This simultaneous decision creates delightful bluffing
+  dilemmas as players try to predict each other's choices. Winning antiques requires both
+  successful auction bidding and protecting your collection from theft. The game rewards
+  reading opponents and timing bold moves, wrapped in a whimsical upper-class theme that
+  perfectly captures the absurdity of high-society collecting.
+
+upgrades: []

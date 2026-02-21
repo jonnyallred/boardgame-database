@@ -1,0 +1,71 @@
+id: fog-of-love
+name: "Fog of Love"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Narrative Heavy
+  - Cooperative
+  - Hand Management
+  - Variable Player Powers
+  - Role Playing
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Connection
+  - Mystery
+  - Agency
+  - Tension
+  - Unique
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Jacob Jaskov
+publisher:
+  - Hush Hush Projects
+artist:
+  - Kwanchai Moriya
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 150
+min_age: 17
+
+# Description
+description: |
+  Fog of Love is a narrative two-player game about falling in love published by Hush Hush
+  Projects in 2017. Each player creates a character and together they experience a romantic
+  comedy that evolves through scenario chapters. On each turn, players play scene cards from
+  their hands that describe situations, and characters respond in ways that reflect their
+  personalities, desires, and goals — some of which are kept secret. Characters have traits
+  that are shaped by decisions throughout the story, and each player has hidden objectives
+  (their "destiny") that define what kind of relationship outcome they're rooting for. The
+  game can end with a happily-ever-after, a bittersweet parting, or anything in between.
+  Fog of Love is widely celebrated for its innovative approach to storytelling, its emotional
+  resonance, and its ability to generate meaningful shared experiences that feel genuinely
+  personal and surprising.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,63 @@
+id: de-vulgari-eloquentia
+name: "De Vulgari Eloquentia"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Action Points
+  - Set Collection
+  - Resource Management
+  - Variable Setup
+  - Euro
+  - Historical
+  - Medieval
+
+evokes:
+  - Progress
+  - Clever
+  - Masterful
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Mario Papini
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  De Vulgari Eloquentia is a historical strategy game set in late medieval Italy where players
+  participate in creating the Volgare — the vernacular language spoken by common people, derived
+  from various regional Italian dialects. Players use action points to read manuscripts, travel
+  between cities, improve social status (becoming bankers, climbing church hierarchies), and
+  spread specific dialects. The game features a track movement system for social advancement and
+  variable turn order based on player stats. Victory goes to the player who accumulates the most
+  Volgare points through their scholarly and political activities. The unusual theme of linguistic
+  unification combined with social climbing mechanics creates a distinctive Euro experience that
+  rewards careful planning and efficient use of limited actions.
+
+upgrades: []

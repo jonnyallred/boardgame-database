@@ -1,0 +1,74 @@
+id: descent-legends-of-the-dark
+name: "Descent: Legends of the Dark"
+year: 2021
+
+# Relationships
+game_family: descent
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (2-4 hours per session)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 1  # Cooperative
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dungeon Crawler
+  - Cooperative
+  - Dice Rolling
+  - Variable Player Powers
+  - Campaign Mode
+  - Legacy
+  - Narrative Heavy
+  - Fantasy
+  - Fantasy Flight Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Progress
+  - Powerful
+  - Wonder
+  - Tension
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Kara Centell-Dunk
+  - Nathan Hajek
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Various
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Descent: Legends of the Dark is the third major entry in the Descent franchise, published
+  by Fantasy Flight Games in 2021. Unlike its predecessors, this fully cooperative campaign
+  game uses a companion app to serve as the dungeon master, replacing the Overlord player
+  role and allowing all players to cooperate against the game itself. Players explore
+  modular 3D dungeon tiles, fight monsters, and make narrative choices across a sprawling
+  campaign set in the Terrinoth universe. Each hero has unique abilities, and characters
+  develop through skill trees and equipment upgrades between sessions. The app manages
+  enemy AI, story branching, and session continuity, enabling rich narrative experiences
+  without a dedicated game master. The game is notable for its extraordinary production
+  value, including over 40 detailed miniatures and layered 3D terrain tiles.
+
+# Upgrades
+upgrades: []

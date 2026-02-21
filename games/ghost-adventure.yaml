@@ -1,0 +1,63 @@
+id: ghost-adventure
+name: "Ghost Adventure"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dexterity
+  - Real-time
+  - Puzzle Solving
+  - Family
+
+evokes:
+  - Connection
+  - Tension
+  - Humor
+  - Wonder
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Wlad Watine
+publisher:
+  - Buzzy Games
+artist:
+  - Jules Dubost
+  - Yann Valéani
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Ghost Adventure is a cooperative dexterity game where players use a spinning top to navigate
+  through haunted missions. Players stand around the table and take turns tilting interconnected
+  boards to guide the spinning top along prescribed routes, marking objectives and jumping between
+  board levels — all before the top stops spinning. Missions require completing a set path within
+  four spins, with players coordinating their tilts to keep the top moving and on course. The
+  game includes 56 different missions across eight double-sided boards showing different worlds,
+  offering significant variety. Ghost Adventure is designed to be played standing, creating an
+  active, physical cooperative experience unlike most tabletop games. An ideal family activity
+  that combines skill, communication, and delightful chaos.
+
+upgrades: []

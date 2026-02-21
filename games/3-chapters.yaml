@@ -1,0 +1,76 @@
+id: 3-chapters
+name: "3 Chapters"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 3  # Polite
+value: 1  # Bargain
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Trick-taking
+  - Drafting
+  - Hand Management
+  - Card Drafting
+  - Fantasy
+  - Family
+  - Filler
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Complete
+  - Lucky
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Joe Hout
+publisher:
+  - Amigo
+artist: []
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 35
+min_age: 10
+
+# Description
+description: |
+  3 Chapters is a fairy-tale trick-taking game that unfolds across three distinct
+  mini-games in a single session. In Chapter 1, players draft their hand from
+  eight beautifully illustrated companion cards, selecting one and passing the
+  rest in a strategic selection round. Chapter 2 is a trick-taking contest where
+  the highest card wins two points, but additional bonuses come from matching
+  special skills on cards. Chapter 3 evaluates the value and attributes of the
+  cards remaining in each player's final hand. The three-chapter structure gives
+  the game a storybook arc and ensures that card selection in Chapter 1 has
+  meaningful consequences in both subsequent phases, rewarding players who can
+  see multiple steps ahead.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

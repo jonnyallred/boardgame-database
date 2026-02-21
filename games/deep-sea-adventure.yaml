@@ -1,0 +1,68 @@
+id: deep-sea-adventure
+name: "Deep Sea Adventure"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Push Your Luck
+  - Abstract
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Clever
+  - Rivalry
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+# Metadata
+designer:
+  - Oink Games
+publisher:
+  - Oink Games
+artist:
+  - Jun Sasaki
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+# Description
+description: |
+  Deep Sea Adventure is a press-your-luck game published by Oink Games in which players
+  share a single submarine and compete to collect the most valuable treasure from the ocean
+  floor. Players take turns rolling dice to move their diver deeper into the ocean, picking
+  up treasure tokens. However, the submarine uses a shared oxygen supply, and every piece
+  of treasure held by any diver reduces the oxygen consumption each turn. Players must
+  decide when to turn back before the oxygen runs out — anyone still in the water when
+  oxygen reaches zero loses all their collected treasure. Treasure is only scored if the
+  diver returns safely to the submarine. The tension escalates as divers grab more loot
+  but risk losing everything, making each decision a nail-biting gamble.
+
+# Upgrades
+upgrades: []

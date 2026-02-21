@@ -1,0 +1,79 @@
+id: belratti
+name: "Belratti"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~30 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 1  # Cooperative
+value: 1  # Bargain
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Deduction
+  - Hand Management
+  - Party
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Connection
+  - Tension
+  - Clever
+  - Mystery
+  - Humor
+
+# Player counts
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Michael Loth
+publisher:
+  - Cheat Publishing
+  - KOSMOS
+artist:
+  - Vipin Alex Jacob
+  - Gaël Lannurien
+  - Natàlia Romero
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  Belratti is a cooperative deduction game themed around outsmarting a notorious
+  art forger. Players split into two teams: painters and museum directors. The
+  museum directors reveal two picture cards defining the visual theme of an
+  upcoming exhibition. Painters then silently select matching cards from their
+  individual decks — but four forgeries (representing the infamous Belratti) are
+  secretly shuffled into the exhibition submissions. The museum directors must
+  identify which submitted cards are genuine and which are the forger's fakes.
+  The challenge lies in painters communicating theme through card selection without
+  speaking, while museum directors develop intuition for what was intentionally
+  chosen versus randomly inserted. Recommended for the 2019 Spiel des Jahres and
+  winner of the 2018 Fairplay À la carte award.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

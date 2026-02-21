@@ -1,0 +1,81 @@
+id: antike-duellum
+name: "Antike Duellum"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: antike
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~75 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Rondel
+  - Area Control
+  - Route Building
+  - Resource Management
+  - Tech Tree
+  - Civilization
+  - Ancient
+  - Euro
+  - Mac Gerdts
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Clever
+  - Tension
+  - Agency
+  - Powerful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Mac Gerdts
+publisher:
+  - PD-Verlag
+  - Rio Grande Games
+artist:
+  - Mac Gerdts
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Antike Duellum is a two-player reimagining of Mac Gerdts' Antike, distilling
+  the civilization-building rondel game into a tight head-to-head duel. Two
+  historical scenarios frame the conflict: the Punic Wars (Rome vs. Carthago) and
+  the Persian Wars (Greeks vs. Persians). Both players share the same rondel
+  action selector, choosing how far to advance their marker to take actions like
+  building cities, training legions, sailing galleys, or researching technologies.
+  Combat remains deterministic — no dice, units simply cancel each other —
+  maintaining pure strategic focus. The victory condition mirrors Antike: collect
+  nine ancient personages through military and scientific achievements. The
+  two-player format creates sharper tension than the multi-player original, with
+  every rondel decision potentially telegraphing strategy to an attentive opponent.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

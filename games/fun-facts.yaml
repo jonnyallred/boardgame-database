@@ -1,0 +1,70 @@
+id: fun-facts
+name: "Fun Facts"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20-30 min)
+rules_complexity: 0  # Preschool simple
+strategic_depth: 0  # No strategy
+feel: 2  # Moderate social
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Party
+  - Social Deduction
+  - Teams
+  - No Math
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Connection
+  - Wonder
+  - Tension
+  - Complete
+
+# Player counts
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [5, 6, 7, 8]
+
+# Metadata
+designer:
+  - Kasper Lapp
+publisher:
+  - Repos Production
+artist:
+  - Various
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+# Description
+description: |
+  Fun Facts is a party game published by Repos Production in 2022 in which players write
+  personal answers to numerical questions on transparent paddles and then collaboratively
+  order them from lowest to highest — without revealing their actual numbers. Each round,
+  a question is read aloud, such as "How many times a year do you eat pizza?" or "How
+  tall is your tallest relative in centimeters?" Each player secretly writes their answer
+  on a numbered paddle. Players then discuss and debate the correct order, placing their
+  paddles in sequence. Answers are revealed simultaneously, and the group scores points
+  for each correctly placed answer. Fun Facts generates laughter, surprising revelations,
+  and intimate moments of learning new things about friends and family, making it an
+  ideal icebreaker or party game for mixed groups.
+
+# Upgrades
+upgrades: []

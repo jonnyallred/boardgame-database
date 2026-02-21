@@ -1,0 +1,63 @@
+id: doodle-dungeon
+name: "Doodle Dungeon"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Drafting
+  - Card Drafting
+  - Hand Management
+  - Dungeon Crawler
+  - Fantasy
+
+evokes:
+  - Creative
+  - Clever
+  - Humor
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Ulrich Blum
+publisher:
+  - Pegasus Spiele
+artist:
+  - John Kovalic
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  Doodle Dungeon is a draft-and-draw dungeon design game where players take on the roles of
+  Dungeon Masters creating their own dungeons to confound an adventuring hero. Players draft
+  cards to draw dungeon elements — rooms, corridors, traps, monsters, and treasures — onto
+  their personal dungeon blueprints. Once construction is complete, players send their hero into
+  opponents' dungeons, tracing a path through the dungeon to try to reach the treasure. The
+  dungeon with the most effective layout — making it hard for heroes to succeed while still
+  earning treasure placement bonuses — wins. The reverse-dungeon-crawl concept, combined with
+  John Kovalic's charming artwork (Munchkin fame), creates an accessible and entertaining
+  alternative to traditional dungeon crawlers.
+
+upgrades: []

@@ -1,0 +1,79 @@
+id: asara
+name: "Asara"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~50 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Area Control
+  - Euro
+  - Family
+  - Fantasy
+  - Michael Kiesling
+  - Wolfgang Kramer
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Complete
+  - Clever
+  - Rivalry
+  - Agency
+  - Progress
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Asara challenges two to four rival architects to build the tallest towers for
+  the Caliph of the legendary city of Asara. Players hold a hand of colored
+  cards, playing one per turn to claim an action space — acquiring tower pieces,
+  earning money, or assembling tower sections. Each tower requires a base and top
+  at minimum, with optional windows, shields, and middle sections adding height
+  and points. The game runs over four rounds with scoring each year for tower
+  count and ornamentation, plus a final tally rewarding the tallest towers of
+  each color and overall. The color-locking rule (you can only add to a tower
+  in the color of the card you played) creates interesting hand management tension.
+  Nominated for the 2011 Spiel des Jahres, Asara is an accessible family game
+  with genuine strategic teeth.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

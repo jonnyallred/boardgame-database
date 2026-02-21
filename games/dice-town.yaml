@@ -1,0 +1,69 @@
+id: dice-town
+name: "Dice Town"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Set Collection
+  - Family
+  - Western
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Tension
+  - Clever
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Antoine Bauza
+  - Corentin Lebrat
+publisher:
+  - Matagot
+artist:
+  - Various
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Dice Town is a Western-themed press-your-luck game designed by Antoine Bauza and Corentin
+  Lebrat, published by Matagot in 2008. Players roll five custom dice — each showing playing
+  card symbols (Ace through 9) — in a Yahtzee-style fashion, keeping results they want and
+  rerolling others up to three times. Each die face earns specific abilities or resources:
+  Aces control the bank, Kings grant gold nuggets, Queens provide property, Jacks allow
+  theft, and numbered cards score at the Doc's office. Higher counts of a kept symbol beat
+  competing players for that action. The game captures Wild West flavor with a charming
+  cartoon art style, and its fast pace and simple rules make it accessible to families
+  while the bluffing and probability decisions keep it interesting for experienced gamers.
+
+# Upgrades
+upgrades: []

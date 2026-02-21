@@ -1,0 +1,62 @@
+id: heads-of-state
+name: "Heads of State"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Auctions/Bidding
+  - Take That
+  - Euro
+  - Historical
+  - Medieval
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Powerful
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Peter Hawes
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 12
+
+description: |
+  Heads of State is a set-collection card game where players collect sets of cards — including
+  gold, troops, titles, castles, and church ranks — to raise noble families in four European
+  kingdoms: England, France, Spain, and the German States. Players compete to place their nobles
+  in provinces across these countries and earn victory points through multiple paths: first noble
+  in the most provinces, dominating a single country, achieving the full set of noble ranks,
+  or having the most nobles of each rank at game end. Treachery cards allow players to remove
+  opponents' nobles through historical methods — the guillotine, the Inquisition, the axeman,
+  the gallows, and assassination. The blend of competitive placement with treacherous take-that
+  mechanics creates a tense game of dynastic ambition.
+
+upgrades: []

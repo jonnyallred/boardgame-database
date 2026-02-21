@@ -1,0 +1,71 @@
+id: forbidden-desert
+name: "Forbidden Desert"
+year: 2013
+
+# Relationships
+game_family: forbidden
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Cooperative
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Action Points
+  - Variable Player Powers
+  - Modular Board
+  - Family
+  - Gateway
+  - Adventure
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Connection
+  - Dread
+  - Agency
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Matt Leacock
+publisher:
+  - Gamewright
+artist:
+  - C. B. Canga
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Forbidden Desert is a cooperative survival game designed by Matt Leacock and published
+  by Gamewright in 2013. Players are a team of adventurers stranded in a shifting desert
+  after their aircraft crashes, racing to uncover the parts of an ancient flying machine
+  before dying of thirst or being buried by a relentless sandstorm. The desert is made
+  of 24 tiles that shift with the wind, continuously burying tiles under sand markers.
+  Players have a shared water supply that drains as the storm rages and as players move
+  across the desert. Each character has a special role with unique abilities. Players must
+  excavate tiles to discover the four machine parts, managing water, sand levels, and
+  the storm track simultaneously. Forbidden Desert builds on Forbidden Island's formula
+  with a more challenging experience and clever tile-flip mechanics for locating parts.
+
+# Upgrades
+upgrades: []

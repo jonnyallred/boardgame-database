@@ -1,0 +1,61 @@
+id: factory-fun
+name: "Factory Fun"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Real-time
+  - Economic
+  - Euro
+  - Simultaneous Action
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Complete
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Corné van Moorsel
+publisher:
+  - Cwali
+  - Z-Man Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Factory Fun is a real-time tile-laying puzzle game where players simultaneously race to grab
+  factory machine tiles and fit them into their personal factory layout. Each machine tile has
+  colored input and output pipes that must connect properly to other machines or reservoirs —
+  connecting outputs to inputs of matching colors creates more valuable products and earns more
+  money. Players grab tiles as fast as they can from a central supply, but must immediately
+  decide whether and how to fit them into their factory. Poorly planned connections cost money
+  to fix. The simultaneous play creates frantic urgency as players race to claim the best
+  machines before opponents grab them, while also solving their personal spatial puzzle.
+
+upgrades: []

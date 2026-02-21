@@ -1,0 +1,70 @@
+id: destinies
+name: "Destinies"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Cooperative (solo or co-op)
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Dice Rolling
+  - Variable Player Powers
+  - Modular Board
+  - Fantasy
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Mystery
+  - Progress
+  - Tension
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3]
+true_counts: [1, 2, 3]
+
+# Metadata
+designer:
+  - Filip Neduk
+publisher:
+  - Lucky Duck Games
+artist:
+  - Various
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Destinies is an app-driven narrative adventure game published by Lucky Duck Games in 2021.
+  Players explore a richly detailed medieval fantasy world, each pursuing their own secret
+  destiny objective while working within a shared story. The companion app serves as the
+  game master, managing an interactive map, enemy AI, story events, and context-sensitive
+  dialogue. Players examine objects by scanning them with the app's camera, uncovering
+  hidden information and story branches. Dice rolls are used for skill checks and combat,
+  with character abilities providing meaningful modifiers. Each scenario tells a standalone
+  story with multiple branching paths and endings, offering high replayability. The game
+  is praised for its immersive storytelling, beautiful miniatures, and innovative use of
+  augmented reality elements through the app.
+
+# Upgrades
+upgrades: []

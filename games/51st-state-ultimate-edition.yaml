@@ -1,0 +1,79 @@
+id: 51st-state-ultimate-edition
+name: "51st State: Ultimate Edition"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: 51st-state
+edition: ultimate
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~75 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Drafting
+  - Card Drafting
+  - Engine Building
+  - Variable Player Powers
+  - Post-Apocalyptic
+  - Euro
+  - Ameritrash
+  - Portal Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Powerful
+  - Complete
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Ignacy Trzewiczek
+publisher:
+  - Portal Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  51st State: Ultimate Edition is the definitive all-in-one package for Ignacy
+  Trzewiczek's post-apocalyptic card-engine game, bundling the base game with six
+  expansions: New Era, Winter, Scavengers, Allies, Moloch, and No Man's Land.
+  Set in a devastated America where new nation-states battle for supremacy, each
+  player builds an engine from multi-use location cards: any card can be played
+  to its face (building a permanent location), razed for immediate resources, or
+  used to forge a deal for recurring production. Managing the tension between
+  building a long-term engine and fueling short-term needs is the game's
+  strategic core. Variable player factions with asymmetric starting states ensure
+  each game plays differently. The Ultimate Edition consolidates years of
+  expansion content into a streamlined package with refined components.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,73 @@
+id: welcome-to
+name: "Welcome To..."
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (25-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary (simultaneous)
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Roll & Write
+  - Simultaneous Action
+  - Set Collection
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Progress
+  - Lucky
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+# Metadata
+designer:
+  - Benoit Turpin
+publisher:
+  - Blue Orange Games
+  - Deep Print Games
+artist:
+  - Anne Heidsieck
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  Welcome To... is a "flip-and-write" game (sometimes called a "roll and write"
+  without dice) where players simultaneously fill in a scoresheet to build their
+  ideal American suburb from the 1950s. Three card combinations are revealed
+  each round, each pairing a house number with a special action. Every player
+  must choose one combination and write the number into a house on their street,
+  keeping numbers in ascending order from left to right.
+
+  Special actions let players build parks, pools, and picket fences, or add
+  real estate agents who multiply scoring opportunities. With all players working
+  simultaneously and no player interaction, Welcome To... scales effortlessly to
+  any group size and can even be played via newsletter or broadcast. It's one
+  of the defining gateway flip-and-write games and remains extremely popular for
+  its approachability and satisfying puzzle feel.
+
+# Upgrades
+upgrades: []

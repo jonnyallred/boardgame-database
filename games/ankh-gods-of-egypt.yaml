@@ -1,0 +1,80 @@
+id: ankh-gods-of-egypt
+name: "Ankh: Gods of Egypt"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Mythology
+  - Ancient
+  - Ameritrash
+  - CMON
+  - Eric Lang
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Powerful
+  - Rivalry
+  - Agency
+  - Tension
+  - Unique
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Eric Lang
+publisher:
+  - CMON
+artist:
+  - Nicolas Fructus
+  - Mizar Ilustracion
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Ankh: Gods of Egypt is Eric Lang's area control game set in ancient Egypt, where
+  players take on the roles of rival gods — Ra, Osiris, Amun, Thoth, Isis, and
+  others — competing for the devotion of the Egyptian people as monotheism rises
+  and threatens to erase all but one deity from history.
+
+  The game features streamlined rules with only four actions available each turn
+  (move, summon a monster, gain ankh powers, or build a monument), but the
+  asymmetric god powers and evolving board state create rich strategic depth.
+  Players control areas of the map, wage battles for supremacy, and accumulate
+  followers.
+
+  A distinctive mechanic in three-to-five player games is the Merge: when a god
+  falls too far behind, they merge with another god to form a single powerful
+  combined deity. This reduces player elimination while creating interesting
+  alliance dynamics. Ankh completes Lang's ancient civilization trilogy alongside
+  Blood Rage and Rising Sun, and is celebrated for its accessible ruleset and
+  stunning production values.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,70 @@
+id: dream-home
+name: "Dream Home"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light competitive
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Set Collection
+  - Tile Placement
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Complete
+  - Clever
+  - Creative
+  - Progress
+  - Lucky
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Asger Harding Granerud
+  - Daniel Skjold Pedersen
+publisher:
+  - R&R Games
+artist:
+  - Aleksander Zawada
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 7
+
+# Description
+description: |
+  Dream Home is a family card-drafting and room-placement game published by R&R Games in
+  2016. Players simultaneously draft two cards each round — one room card and one helper
+  card — from a shared tableau, placing rooms to build their ideal house. Each room card
+  shows a room type, and certain combinations of adjacent rooms score bonus points. Helper
+  cards provide special abilities and additional scoring opportunities. The game features
+  charming artwork depicting cozy domestic spaces, and its simple drafting mechanism makes
+  it accessible to families and younger players. Strategy comes from anticipating which
+  cards opponents will take, planning room layouts for combo bonuses, and using helper
+  cards at optimal moments. Dream Home plays in under an hour and serves as an excellent
+  introduction to drafting games.
+
+# Upgrades
+upgrades: []

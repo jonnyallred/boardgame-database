@@ -1,0 +1,68 @@
+id: bonfire
+name: "Bonfire"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (80 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 1  # Light (solo-friendly)
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Set Collection
+  - Resource Management
+  - Action Points
+  - Puzzle Solving
+  - Solo/Solitaire
+  - Euro
+  - Stefan Feld
+  - Fantasy
+  - Medieval
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Complete
+  - Tension
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Stefan Feld
+publisher:
+  - Hall Games
+  - Pegasus Spiele
+artist: []
+playtime_minutes: 90
+min_playtime: 70
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Bonfire is a complex Euro game designed by Stefan Feld and published by Hall Games and Pegasus Spiele in 2020. Set in a world where Guardians of the flame have grown passive and complacent, players take on the role of gnomes working to reignite the sacred bonfires and restore the light to the land. The game features an intricate web of interlocking mechanisms characteristic of Feld's design style.
+
+  Players use a puzzle-like action selection system where tiles are drafted and placed to unlock actions, resources, and bonuses in a tightly optimized sequence. The market mechanism allows players to acquire gnomes with unique abilities, while point-to-point movement on the map board connects to Council of Elders tasks requiring careful set collection. Nearly every element of the game feeds into multiple scoring avenues, rewarding players who plan several moves ahead. The solo mode is particularly well-regarded. Bonfire's depth and interconnected systems make it demanding to learn but deeply satisfying to master, appealing especially to fans of heavy Euro games who enjoy optimizing complex decision trees.
+
+# Upgrades
+upgrades: []

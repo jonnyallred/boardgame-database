@@ -1,0 +1,79 @@
+id: carpe-diem
+name: "Carpe Diem"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~50 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 2  # Tactics
+feel: 2  # Party
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Drafting
+  - Set Collection
+  - Pattern Building
+  - Euro
+  - Ancient
+  - City Building
+  - Stefan Feld
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Agency
+  - Progress
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Stefan Feld
+publisher:
+  - Alea
+  - Ravensburger
+artist: []
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Carpe Diem casts one to four players as wealthy patricians in ancient Rome,
+  competing to build the most prosperous city district. Each round, players draft
+  district tiles from a central display using an area-movement mechanism, placing
+  them into a personal 4×4 grid to create contiguous districts of matching types:
+  fields, ponds, forests, and buildings. Completed districts score points and
+  provide resources for fulfilling contract cards, which offer substantial bonus
+  points when satisfied. The game's four rounds play quickly, and the restricted
+  drafting pool forces players to adapt their district plans in response to what
+  remains available. Part of the Alea Big Box series, Carpe Diem combines Stefan
+  Feld's signature point-salad multi-path scoring with a clean, accessible
+  ruleset playable in under an hour.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

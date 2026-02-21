@@ -1,0 +1,71 @@
+id: freedom-the-underground-railroad
+name: "Freedom: The Underground Railroad"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 1  # Cooperative
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Hand Management
+  - Resource Management
+  - Action Points
+  - Historical
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Dread
+  - Connection
+  - Agency
+  - Complete
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Brian Mayer
+publisher:
+  - Academy Games
+artist:
+  - Francesco Nepitello
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Freedom: The Underground Railroad is a cooperative game published by Academy Games in
+  2013 set during the American abolitionist movement. Players represent abolitionist
+  organizations working together to guide escaped slaves along the Underground Railroad
+  from the Deep South to freedom in Canada. Each round, slave catchers move toward slaves
+  and threaten their capture, while players spend action points to move conductors and
+  slaves northward, fund abolitionist societies, and purchase powerful supporter cards.
+  Slaves caught are sent back south or sold, moving the game closer to defeat. Players
+  win by moving a minimum number of slaves to freedom before the game end trigger; they
+  lose if too many slaves are sold or if the team runs out of resources. The game is
+  deeply educational, presenting its difficult subject matter with respect and historical
+  accuracy, and is widely praised for its meaningful thematic resonance.
+
+# Upgrades
+upgrades: []

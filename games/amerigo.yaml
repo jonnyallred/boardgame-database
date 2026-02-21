@@ -1,0 +1,76 @@
+id: amerigo
+name: "Amerigo"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Resource Management
+  - Network Building
+  - Modular Board
+  - Euro
+  - Historical
+  - Stefan Feld
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Agency
+  - Clever
+  - Rivalry
+  - Discovery
+  - Progress
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Stefan Feld
+publisher:
+  - Queen Games
+artist:
+  - Mirko Suzuki
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+# Description
+description: |
+  Amerigo is a strategic exploration game by Stefan Feld in which players help
+  Amerigo Vespucci explore the islands of South America, securing trading routes
+  and building settlements to earn prestige points.
+
+  The game's defining feature is its cube tower — a tall structure with interior
+  baffles that catches and releases colored cubes. At the start of each round,
+  cubes are poured in, and the cubes that fall out determine which of seven action
+  types are available: movement, building, trading, piracy defense, and more.
+  Cubes retained in the tower may surprise players by falling out in later rounds,
+  adding a planning-under-uncertainty element.
+
+  On a modular island board, players race to explore, build settlements, and control
+  the most lucrative territories. Trading posts generate ongoing income while good
+  positioning on the map earns end-game scoring bonuses. Amerigo offers classic
+  Feld multi-path scoring within a charming Age of Exploration theme.
+
+# Upgrades
+upgrades: []

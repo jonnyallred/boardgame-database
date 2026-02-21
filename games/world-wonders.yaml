@@ -1,0 +1,73 @@
+id: world-wonders
+name: "World Wonders"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short-Medium (50-70 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Action Points
+  - Set Collection
+  - City Building
+  - Civilization
+  - Ancient
+  - Euro
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Complete
+  - Clever
+  - Wonder
+  - Agency
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Zé Mendes
+publisher:
+  - Arcane Wonders
+artist: []
+playtime_minutes: 60
+min_playtime: 50
+max_playtime: 70
+min_age: 12
+
+# Description
+description: |
+  World Wonders is a tile-placement city-building game where players construct
+  ancient cities centered on the Seven Wonders of the World. Each round, players
+  spend gold to buy tiles that develop their city's economy, placing five types
+  of buildings that generate resources and points. The goal is to accumulate the
+  most victory points by building a well-planned, efficient city.
+
+  Players must manage resources, population, and spatial layout as their
+  settlement grows from a humble village into a sprawling civilization. Wonder
+  tokens placed on completed monuments earn bonus victory points. The game is
+  praised for its clean, accessible rules and satisfying tile-placement puzzle,
+  making it an approachable Euro experience with enough depth to reward
+  repeated play.
+
+# Upgrades
+upgrades: []

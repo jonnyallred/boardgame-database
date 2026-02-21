@@ -1,0 +1,61 @@
+id: dino-world
+name: "Dino World"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Set Collection
+  - Family
+  - Animals
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Flaminia Brasini
+  - Virginio Gigli
+  - Marco Pranzo
+publisher:
+  - HABA
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Dino World is a fast-playing flicking card game published by HABA for the whole family.
+  Players flick dinosaur cards from the edge of the game box toward other dinosaur cards spread
+  on the table. Color-coded edges determine which cards qualify as prey — when you hit a valid
+  prey card, you collect it and place it beneath your wooden dinosaur marker. The game uses
+  52 dinosaur cards in five different sizes representing various prehistoric creatures. The
+  dexterity element of flicking cards with precision makes each turn exciting, as even a strong
+  prehistoric predator can miss its mark. Simple enough for young children yet entertaining
+  enough for adults, Dino World is a prehistoric hunting game that fits in a tiny box.
+
+upgrades: []

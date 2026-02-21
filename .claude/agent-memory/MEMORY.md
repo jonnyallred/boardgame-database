@@ -36,6 +36,26 @@
 - "Animals" is NOT a valid tag — use `Nature` for animal-themed games
 - Always verify every tag against Valid Categories before writing the file
 
+## CRITICAL: Valid Tags Confirmed in Schema
+The system prompt includes the complete valid tags list. Key ones that feel like they should exist but DO:
+- `Agriculture`, `Animals` are NOT valid — use `Nature`
+- `Pirates` IS valid (maritime pirate theme)
+- `Dudes on a Map` IS valid (area-control wargame style)
+- `Days of Wonder` IS a valid publisher tag
+- `Fantasy Flight Games` IS a valid publisher tag
+- `Portal Games` IS a valid publisher tag
+- `Plaid Hat Games` IS a valid publisher tag
+- `Capstone Games` IS a valid publisher tag
+
+## Game Family Slugs for Common Series
+- COIN Series (GMT): game_family: coin-series
+- Axis & Allies variants: game_family: axis-and-allies
+- BattleLore editions: game_family: battlelore
+- Arkham Horror editions: game_family: arkham-horror
+- Antike games: game_family: antike
+- 51st State editions: game_family: 51st-state
+- Bang! games: game_family: bang
+
 ## Publisher Naming
 - Lookout Spiele (German name) = Lookout Games (English) — use "Lookout Games" in publisher field
 
@@ -91,3 +111,39 @@
 - Then create all YAML files in parallel Write calls
 - Skip pipeline when WebSearch gives sufficient detail
 - This approach completes 20 games in ~15 total tool calls
+
+## Pipeline Limitation
+- Pipeline often returns raw JavaScript from Wikipedia - the HTML preprocessor may fail on JS-heavy pages
+- Better to use WebSearch directly for data and write YAML from gathered knowledge
+
+## Confirmed Invalid Category Tags
+- "Adventure" is NOT valid
+- "Animals" is NOT valid — use `Nature`
+- "Agriculture" is NOT valid — use `Nature` or `Agriculture` (wait, Agriculture IS in the valid list)
+- "Educational" is NOT valid
+- "Competition" is NOT an evoke — avoid it
+
+## Agriculture Tag Correction
+- `Agriculture` IS a valid theme tag in the schema — confirmed in agent instructions
+
+## Slug Edge Cases
+- Ampersand in title: "Heaven & Ale" → `heaven-and-ale`; "Donjons & Dominos" → `donjons-et-dominos`
+- French game title with ampersand can use "et" (French "and")
+- Accented chars stripped: "Drüber" → "druber"
+- Parenthetical editions: "Fury of Dracula (Third Edition)" → `fury-of-dracula-third-edition`
+- "Hey, That's My Fish!" → `hey-thats-my-fish` (punctuation stripped)
+
+## Obscure/Problematic Games
+- Dune Express (2009): print-and-play game, not commercial release — write minimal entry
+- Doodletown (2022): very obscure, limited info available — write minimal entry
+- Clash Royale: The Card Game: mobile game; physical version exists published by Ravensburger
+
+## Good Non-BGG Sources
+- Meeple Mountain: meeplemountain.com
+- Board Game Quest: boardgamequest.com
+- Opinionated Gamers: opinionatedgamers.com
+- Board Game Bliss: boardgamebliss.com
+- Dice Tower: dicetower.com
+- Tric Trac (French): us.trictrac.net
+- Board Game Guys: boardgameguys.com
+- Tabletop Bellhop: tabletopbellhop.com

@@ -1,0 +1,82 @@
+id: battlelore-second-edition
+name: "BattleLore (Second Edition)"
+alternate_names:
+  - "BattleLore Second Edition"
+year: 2013
+
+# Relationships
+game_family: battlelore
+edition: second
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~75 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Hand Management
+  - Area Control
+  - Modular Board
+  - Variable Setup
+  - Fantasy
+  - War
+  - Wargame
+  - Fantasy Flight Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Powerful
+  - Clever
+  - Rivalry
+  - Unique
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Richard Borg
+  - Robert A. Kouba
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  BattleLore Second Edition is Fantasy Flight Games' redesign of Richard Borg's
+  acclaimed fantasy wargame, set in the Runebound universe. Departing from the
+  original's medieval-historical setting, the second edition features dedicated
+  lore across two armies — the human Daqan Lords and the demon Uthuk Y'llan —
+  each with unique units, stats, and abilities. The Commands & Colors hex-grid
+  system is retained and refined: players play Command cards to activate units
+  in specific flanks, then roll custom battle dice. The key innovation is custom
+  army building before each scenario: players receive equal gold and select units
+  from their army box, then secretly deploy on designated setup hexes. Victory
+  point banners placed on the battlefield reward positional control, ensuring
+  both sides must fight over key terrain rather than simply eliminating units.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

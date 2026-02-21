@@ -1,0 +1,63 @@
+id: blokus
+name: "Blokus"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (20-30 min)
+rules_complexity: 0  # Simple — one rule
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Area Control
+  - Pattern Building
+  - Abstract
+  - Family
+  - Gateway
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Bernard Tavitian
+publisher:
+  - Mattel
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 7
+
+# Description
+description: |
+  Blokus is a classic abstract strategy game invented by French biophysicist Bernard Tavitian and first published in 2000 by Sekkoïa, later acquired by Mattel. Players take turns placing colored polyomino pieces — 21 distinct Tetris-like shapes — onto a 20x20 grid. The sole rule: each new piece must touch at least one corner of a same-colored piece already on the board, but may not touch the same color along any edge.
+
+  The tension comes from balancing aggressive expansion to claim territory against blocking opponents while keeping your own future options open. The game ends when no player can place any more pieces, and the winner is whoever has the fewest remaining squares unplaced. Blokus is a masterpiece of elegant design — its single rule yields surprisingly deep spatial reasoning and satisfying head-to-head competition. The game has won numerous awards including the Mensa Select seal and a Spiel des Jahres recommendation, and remains one of the most accessible abstract strategy games ever made. Best with exactly 4 players for the full territorial conflict experience.
+
+# Upgrades
+upgrades: []

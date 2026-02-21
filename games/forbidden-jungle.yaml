@@ -1,0 +1,63 @@
+id: forbidden-jungle
+name: "Forbidden Jungle"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: forbidden
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Tile Placement
+  - Variable Player Powers
+  - Modular Board
+  - Adventure
+  - Sci-Fi
+  - Matt Leacock
+
+evokes:
+  - Tension
+  - Connection
+  - Discovery
+  - Dread
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Matt Leacock
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Forbidden Jungle is the fourth game in Matt Leacock's Forbidden series (after Forbidden Island,
+  Forbidden Desert, and Forbidden Sky). Players have crash-landed on a jungle-covered spaceport
+  on a remote moon and must power up a portal to escape. The game introduces active antagonists
+  for the first time in the series: spiders in three life stages — eggs, hatchlings, and adults —
+  that actively hunt players, sting them, and spin webs to block tile exits. Tiles sink into
+  sinkholes like Forbidden Island, can be shifted like Forbidden Desert, and the escape mechanic
+  echoes Forbidden Sky's power-up system. Each adventurer has unique special powers that encourage
+  teamwork. The combination of familiar Forbidden mechanics with new spider threat creates a
+  fresh and more dangerous cooperative experience.
+
+upgrades: []

@@ -1,0 +1,83 @@
+id: arkham-horror-second-edition
+name: "Arkham Horror (2nd Edition)"
+alternate_names:
+  - "Arkham Horror Second Edition"
+year: 2005
+
+# Relationships
+game_family: arkham-horror
+edition: second
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (~4-6 hr)
+rules_complexity: 3  # College
+strategic_depth: 2  # Tactics
+feel: 1  # Cooperative
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Variable Player Powers
+  - Modular Board
+  - Narrative Heavy
+  - Horror
+  - Cthulhu
+  - Mystery
+  - Fantasy Flight Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Dread
+  - Tension
+  - Discovery
+  - Connection
+  - Mystery
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Richard Launius
+  - Kevin Wilson
+publisher:
+  - Fantasy Flight Games
+artist:
+  - John Goodenough
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 12
+
+# Description
+description: |
+  Arkham Horror (2nd Edition) is the definitive epic cooperative investigation
+  game of Lovecraftian horror, redesigned by Fantasy Flight Games from Richard
+  Launius' 1987 original. One to eight investigators explore the streets and
+  Other Worlds of 1920s Arkham, racing to seal six dimensional gates before an
+  Ancient One — including Cthulhu, Hastur, or Ithaqua — awakens and destroys
+  humanity. Players choose from 16 unique investigators, each with individual
+  stats and starting equipment, rolling dice equal to relevant attributes where
+  5s and 6s are successes. The sweeping board covers every district of Arkham,
+  with monsters, gates, and clues spawning from an intricate card system. Known
+  for its epic table presence and genuinely narrative sessions, the second edition
+  spawned numerous expansions before being succeeded by the streamlined third
+  edition in 2018.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

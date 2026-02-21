@@ -1,0 +1,59 @@
+id: giganten
+name: "Giganten"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Economic
+  - Area Control
+  - Euro
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Stefan Dorra
+publisher:
+  - Goldsieber Spiele
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Giganten is an economic strategy game about competing oil companies bidding for contracts and
+  drilling rights on an oil field. Players buy and sell oil, compete for lucrative sales contracts,
+  and drill at oilfield sites on the board. Bidding drives much of the competition: players nominate
+  contract tiles and drilling sites at auction, requiring opponents to pay up or let rivals claim
+  valuable resources. The game earned the 1999 Spiel des Jahres Kritikerpreis (Critics' Award)
+  for its elegant blend of bidding tension and strategic resource management. Building an efficient
+  oil empire requires balancing aggressive acquisition of new sites with the cash management
+  needed to fulfill contracts profitably.
+
+upgrades: []

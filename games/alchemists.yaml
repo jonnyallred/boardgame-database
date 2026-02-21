@@ -1,0 +1,79 @@
+id: alchemists
+name: "Alchemists"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (120 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deduction
+  - Worker Placement
+  - Action Points
+  - Simultaneous Action
+  - Euro
+  - Czech Games Edition
+  - Vlaada Chvatil
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Mystery
+  - Clever
+  - Tension
+  - Masterful
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Matous Vitek
+publisher:
+  - Czech Games Edition
+artist:
+  - David Cochard
+  - Jakub Politzer
+  - Filip Murmak
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 13
+
+# Description
+description: |
+  Alchemists is a worker placement game with a unique deduction twist: players are
+  competing alchemists trying to discover the secret properties of eight ingredients
+  and publish theories about them before their rivals. The catch is that the true
+  alchemical properties are hidden — players must deduce them through experimentation.
+
+  The game uses a companion app (or a dedicated code wheel in earlier editions) to
+  adjudicate experiment results privately. When you mix two ingredients, the app
+  tells you what potion results, and from these clues you deduce which ingredient
+  has which alchemical signature. Publishing a theory earns points, but publishing
+  a wrong theory earns debunking penalties.
+
+  The worker placement system governs access to experiments, markets, and publishing
+  opportunities, while the deduction layer requires careful logical reasoning across
+  the game's six rounds. Alchemists rewards systematic thinking and bluffs, and is
+  notable as one of the first major games to use a smartphone app as an integral
+  gameplay component.
+
+# Upgrades
+upgrades: []

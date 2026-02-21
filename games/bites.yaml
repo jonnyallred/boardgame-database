@@ -1,0 +1,67 @@
+id: bites
+name: "Bites"
+alternate_names:
+  - Big Points
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Modular Board
+  - Variable Setup
+  - Abstract
+  - Family
+  - Gateway
+  - Filler
+  - Animals
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Rivalry
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Brigitte Ditt
+  - Wolfgang Ditt
+publisher:
+  - Allplay
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  Bites (originally published as Big Points in 2008 by Schmidt Spiele, where it received a Spiel des Jahres nomination) is a light strategy game about ants collecting food along a trail. Players move colored ants to matching food tokens on a trail, then collect the food token directly in front of or behind the ant — creating a satisfying push-and-pull about when to score and when to leave food for later.
+
+  Each game is customized with variable "rules cards" that introduce new twists to scoring and movement, keeping every play fresh. The ant-themed trail gradually shrinks as food is claimed, creating an increasingly constrained and tense endgame. Bites is a superb gateway game: easy to teach in minutes, plays in under 30 minutes, and offers enough tactical depth to keep experienced gamers engaged. The 2020 republication by Allplay brought the game to a wider audience with updated production values.
+
+# Upgrades
+upgrades: []

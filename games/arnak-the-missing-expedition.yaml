@@ -1,0 +1,82 @@
+id: arnak-the-missing-expedition
+name: "Lost Ruins of Arnak: The Missing Expedition"
+alternate_names:
+  - "Arnak: The Missing Expedition"
+year: 2024
+
+# Relationships
+game_family: arnak
+edition: null
+base_game: lost-ruins-of-arnak
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (30 min per player)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 1  # Light-Moderate (primarily solo/coop expansion)
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Worker Placement
+  - Cooperative
+  - Campaign Mode
+  - Solo
+  - Variable Player Powers
+  - Adventure
+  - Czech Games Edition
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Tension
+  - Progress
+  - Mystery
+  - Agency
+
+# Player counts
+possible_counts: [1, 2]
+true_counts: [1, 2]
+
+# Metadata
+designer:
+  - Mín and Elwen
+publisher:
+  - Czech Games Edition
+artist:
+  - Ondrej Hrdina
+  - Jakub Politzer
+  - František Sedláček
+  - Milan Vavroň
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Lost Ruins of Arnak: The Missing Expedition is the second major expansion for
+  the acclaimed Lost Ruins of Arnak. Professor Kutil has gone missing while exploring
+  the ruins of Arnak, and players must unravel the mystery of his disappearance.
+
+  The expansion's centerpiece is a six-chapter solo and two-player cooperative
+  campaign, where players work through a branching narrative with special event cards
+  that offer multiple-choice rewards. The campaign is fully playable solo or
+  cooperatively with two players, taking on a distinct cooperative shape.
+
+  The Missing Expedition also adds two new expedition leaders (The Mechanic and
+  The Journalist), a new double-sided research board with two research tracks,
+  new site tiles, guardian tiles, idol tokens, items, artifacts, and a wealth of
+  new cards. Two additional leader archetypes (The Prospector and The Traveler) can
+  be created using base game components. All new leaders are fully compatible with
+  the Expedition Leaders expansion.
+
+# Upgrades
+upgrades: []

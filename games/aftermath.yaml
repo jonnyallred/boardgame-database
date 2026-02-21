@@ -1,0 +1,79 @@
+id: aftermath
+name: "Aftermath"
+alternate_names:
+  - "Aftermath: An Adventure Book Game"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~90 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 2  # Tactics
+feel: 1  # Cooperative
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Narrative Heavy
+  - Modular Board
+  - Variable Player Powers
+  - Post-Apocalyptic
+  - Animals
+  - Plaid Hat Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Connection
+  - Tension
+  - Progress
+  - Dread
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Jerry Hawthorne
+publisher:
+  - Plaid Hat Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Aftermath is the third entry in Plaid Hat Games' Adventure Book Game series,
+  following Stuffed Fables and Comanauts. Players control small woodland critters
+  — mice, guinea pigs, and hamsters — navigating a post-apocalyptic Earth where
+  humanity has vanished and nature has reclaimed civilization. Each mission is
+  played on spiral-bound book pages that double as the game map, with each spread
+  providing unique rules, story text, and challenges. The card-based action system
+  offers more strategic choice and less randomness than the dice-driven earlier
+  Adventure Book titles. Investigators manage personal goals alongside colony
+  survival needs, scavenging for food and deciphering the strange artifacts left
+  behind by the vanished humans. The persistent campaign develops the colony
+  between sessions, creating a rich narrative of small-scale survival and discovery.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

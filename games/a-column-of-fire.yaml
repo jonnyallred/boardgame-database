@@ -1,0 +1,77 @@
+id: a-column-of-fire
+name: "A Column of Fire"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~75 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Hand Management
+  - Variable Player Powers
+  - Economic
+  - Euro
+  - Historical
+  - Espionage
+  - Medieval
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Clever
+  - Agency
+  - Rivalry
+  - Mystery
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Michael Rieneck
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  A Column of Fire is a board game adaptation of Ken Follett's third Kingsbridge
+  novel, set in Elizabethan Europe where Catholics and Protestants clash for
+  dominance across England, France, Spain, and the Netherlands. Players manage
+  trade networks and agents across the continent, with each country's religious
+  allegiance shifting as the conflict unfolds — if a country flips to the opposing
+  religion from a player's trade network, that player loses access to those
+  markets. Dice rolled each round determine worker hiring costs, and hired
+  specialists tick down in value over subsequent turns, creating urgency to deploy
+  them effectively. Players must hedge religious bets and build flexible networks
+  capable of surviving the inevitable Reformation upheavals.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,65 @@
+id: defenders-of-the-wild
+name: "Defenders of the Wild"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Area Control
+  - Hand Management
+  - Variable Player Powers
+  - Asymmetric
+  - Modular Board
+  - Fantasy
+  - Nature
+
+evokes:
+  - Connection
+  - Tension
+  - Agency
+  - Unique
+  - Powerful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Henry Audubon
+  - T.L. Simons
+publisher:
+  - Outlandish Games
+artist: []
+playtime_minutes: 75
+min_playtime: 45
+max_playtime: 120
+min_age: 14
+
+description: |
+  Defenders of the Wild is a cooperative area control game where players control different animal
+  factions working together to stop a machine army from taking over their land. Players choose
+  from four unique animal factions — the Council, the Order, the Sect, and the Coven — each with
+  distinctive abilities and playstyles. Teams clear pollution, fight mechs, breach walls, build
+  camps, and rewild factories across a highly modular hex board. The card-driven gameplay features
+  hand management and push-your-luck elements. The game's ecological message is woven into its
+  mechanics: every factory reclaimed is a victory for nature against industrial encroachment.
+  Funded via Kickstarter, the game features 80 unique illustrated animal character cards and
+  supports variable difficulty for both new and experienced cooperative gamers.
+
+upgrades: []

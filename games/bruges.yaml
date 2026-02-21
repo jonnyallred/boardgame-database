@@ -1,0 +1,80 @@
+id: bruges
+name: "Bruges"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~75 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Dice Rolling
+  - Set Collection
+  - Variable Player Powers
+  - Euro
+  - Historical
+  - Medieval
+  - Stefan Feld
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Stefan Feld
+publisher:
+  - Z-Man Games
+  - Hans im Glück
+artist:
+  - Julien Delval
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+# Description
+description: |
+  Bruges transports two to four players to the flourishing 15th-century Flemish
+  city, where they compete as merchants seeking influence, power, and status
+  while the city faces dramatic threats. The game's elegant core mechanic gives
+  every card six possible uses: spend it to build canals, hire workers, construct
+  buildings, place townspeople, gain gold, or protect against threats. Dice rolled
+  at the start of each round determine the current cost of hiring workers and the
+  active threats that must be addressed. The city's unique characters — each an
+  asymmetric historical figure — provide special powers that fuel emergent
+  strategy. Nominated for the Kennerspiel des Jahres, Bruges was Stefan Feld's
+  first game to prominently feature multi-use cards and is regarded as one of
+  the best examples of the mechanism in the hobby.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

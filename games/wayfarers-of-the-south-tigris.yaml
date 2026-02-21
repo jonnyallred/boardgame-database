@@ -1,0 +1,75 @@
+id: wayfarers-of-the-south-tigris
+name: "Wayfarers of the South Tigris"
+year: 2022
+
+# Relationships
+game_family: south-tigris
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Hand Management
+  - Tableau Building
+  - Euro
+  - Historical
+  - Renegade Game Studios
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Discovery
+  - Agency
+  - Complete
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Shem Phillips
+  - S J Macdonald
+publisher:
+  - Renegade Game Studios
+  - Garphill Games
+artist:
+  - Mihajlo Dimitrievski
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Wayfarers of the South Tigris is a worker-placement and card development game
+  set during the Golden Age of Islam, as explorers chart the lands, waterways,
+  and skies around the Tigris River in 9th-century Baghdad. Players are
+  wayfarers recruiting crew, gathering resources, and journeying across a
+  modular map to earn prestige points.
+
+  Dice are used as workers, with each face value determining which action
+  spaces a die can occupy. Players develop their tableau of journal cards —
+  land, water, and sky — and upgrade their skills to unlock powerful bonuses.
+  The game rewards careful planning and efficient multi-use of resources. Part
+  of Garphill Games' South Tigris series, it shares thematic and mechanical
+  DNA with Raiders of the North Sea and Architects of the West Kingdom.
+
+# Upgrades
+upgrades: []

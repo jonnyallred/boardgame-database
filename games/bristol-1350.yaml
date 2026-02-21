@@ -1,0 +1,65 @@
+id: bristol-1350
+name: "Bristol 1350"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Deduction
+  - Traitor
+  - Social Deduction
+  - Racing
+  - Bluffing
+  - Historical
+  - Medieval
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Dread
+  - Humor
+  - Mystery
+  - Lucky
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+true_counts: [5, 6, 7, 8]
+
+# Metadata
+designer:
+  - Travis Hancock
+publisher:
+  - Facade Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 13
+
+# Description
+description: |
+  Bristol 1350 is a semi-cooperative racing and social deduction game set during the Black Death in medieval England. The dreaded plague has descended upon Bristol and players are desperate to escape into the countryside, racing down cobblestone streets crammed into one of three apple carts. The catch: some villagers are already infected and are hiding their symptoms, hoping to escape before anyone notices.
+
+  Each round, players roll dice and choose actions to speed up their own cart, slow down rivals, or push suspicious characters onto other carts. The hidden role element creates constant tension — do you trust your cart-mates, or are you racing alongside a plague carrier? Players must balance cooperation within their cart against sabotaging competing carts, while infected players try to blend in long enough to escape. The game supports an impressive 1-9 players, making it a standout party game option, and plays in just 20-40 minutes. Published by Facade Games following a wildly successful Kickstarter campaign in 2020, Bristol 1350 pairs its dark historical theme with moments of dark humor and frantic social dynamics.
+
+# Upgrades
+upgrades: []

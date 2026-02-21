@@ -1,0 +1,78 @@
+id: brew
+name: "Brew"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~60 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Area Control
+  - Drafting
+  - Variable Player Powers
+  - Fantasy
+  - Nature
+  - Euro
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Unique
+  - Tension
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Stevo Torres
+publisher:
+  - Pandasaurus Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Brew is a dice worker-placement game set in a woodland where nature spirits
+  compete to tame the four seasons and concoct powerful potions. Each player
+  controls elemental dice used as workers, choosing to deploy them in forest
+  regions for area-control contests or send them to the village marketplace for
+  goods and upgrades. The central tension is that dice placed in forests power
+  area-majority scoring, while village dice fund potion-brewing and creature
+  recruitment — and potions in turn can manipulate die values to improve forest
+  prospects. Woodland creatures are drafted and trained, each providing a
+  persistent special ability. The interplay between the two parallel action
+  systems creates interesting optimization puzzles that shift as the board
+  state evolves across four rounds.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,80 @@
+id: acquire
+name: "Acquire"
+year: 1964
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Set Collection
+  - Economic
+  - Auctions/Bidding
+  - Family
+  - Cult Classic
+  - Abstract
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Sid Sackson
+publisher:
+  - 3M
+  - Avalon Hill
+  - Hasbro
+  - Wizards of the Coast
+artist:
+  - various
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Acquire is a classic economic strategy game designed by Sid Sackson in 1964,
+  originally published by 3M as part of their bookshelf game series. Players take
+  turns placing hotel chain tiles on a grid, founding new companies and triggering
+  mergers as the board fills up.
+
+  The core of the game is stock investment: players buy shares in hotel chains,
+  and when chains merge, majority and minority stockholders receive bonuses based
+  on the acquired chain's size. The funds earned from mergers can be reinvested
+  into growing chains. At game's end, all chains are evaluated and the player
+  with the most cash and stock value wins.
+
+  Acquire is celebrated for its elegant simplicity — the rules are easy to learn
+  but the decisions about when to invest, when to trigger mergers, and which chains
+  to control create deep strategic play. It remains one of the most respected
+  economic board games ever designed and has been reprinted numerous times over
+  six decades.
+
+# Upgrades
+upgrades: []

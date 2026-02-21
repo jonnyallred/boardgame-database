@@ -1,0 +1,66 @@
+id: biblios
+name: "Biblios"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Set Collection
+  - Card Drafting
+  - Hand Management
+  - Press Your Luck
+  - Filler
+  - Gateway
+  - Medieval
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Rivalry
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Steve Finn
+publisher:
+  - IELLO
+  - Dr. Finn's Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+# Description
+description: |
+  Biblios is a quick card game for 2-4 players set in a medieval monastery. Players take on the roles of abbots competing to amass the most impressive collection of sacred texts across five categories: Pigments, Monks, Holy Books, Manuscripts, and Forbidden Tomes.
+
+  The game unfolds in two distinct phases. In the Gift phase, players draw cards from the central deck and must distribute them — one for themselves, one to the auction pile, and the rest to other players, with no guarantee of who benefits. This creates interesting tension as every draw forces a meaningful distribution decision. In the Auction phase, players bid using gold cards accumulated during the Gift phase, competing to acquire valuable cards and dice that shift the scoring values of each category. The final scoring is determined by who has collected the most cards in the highest-valued categories, with dice modifiers potentially upending the standings at any moment. Biblios rewards careful hand management and reading opponents while delivering satisfying play in under 30 minutes.
+
+# Upgrades
+upgrades: []

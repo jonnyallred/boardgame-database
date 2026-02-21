@@ -1,0 +1,64 @@
+id: hell-dorado
+name: "Hell Dorado"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Asymmetric
+  - Variable Player Powers
+  - Dice Rolling
+  - Horror
+  - Historical
+  - War
+
+evokes:
+  - Dread
+  - Rivalry
+  - Powerful
+  - Tension
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Christophe Réaux
+  - Geoffrey Picard
+publisher:
+  - Asmodee
+  - Cipher Studios
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Hell Dorado is a 28mm skirmish miniatures wargame set in an alternate 16th century history
+  where the 30 Years War was interrupted by the discovery of a new frontier — not the Americas,
+  but Hell itself. Competing factions including Western Crusaders, Saracens, demonic forces, and
+  Immortals wage brutal skirmish battles in the hellish underworld. Originally published in French
+  by Asmodee in 2006, an English second edition was released in 2011 by Cipher Studios. Each
+  faction has unique models, rules, and thematic abilities, creating deeply asymmetric gameplay.
+  The game's dark, detailed miniatures and evocative alternate-history setting — combining
+  historical warfare with supernatural horror — attracted a dedicated following among miniature
+  gaming enthusiasts.
+
+upgrades: []

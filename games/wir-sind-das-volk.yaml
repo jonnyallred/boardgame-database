@@ -1,0 +1,75 @@
+id: wir-sind-das-volk
+name: "Wir sind das Volk!"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (90-120 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Area Control
+  - Hand Management
+  - Economic
+  - Historical
+  - Wargame
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Progress
+  - Clever
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Richard Sivél
+  - Peer Sylvester
+publisher:
+  - Histogame
+  - Academy Games
+artist: []
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Wir sind das Volk! (meaning "We are the people!") is a two-player card-driven
+  game simulating the economic and political rivalry between East and West
+  Germany from 1949 to German reunification. One player controls the Federal
+  Republic (West Germany) and the other the German Democratic Republic (East
+  Germany), each trying to build a more prosperous and stable society — or
+  destabilize their opponent.
+
+  Players use cards to build economic production systems, manage population
+  unrest, and place political influence. East Germany must cope with the
+  structural disadvantages of a planned economy while managing emigration and
+  unrest; West Germany must manage its own political pressures. The game captures
+  the asymmetric nature of the two states beautifully and rewards deep strategic
+  thinking. Highly regarded in the two-player card-driven wargame tradition
+  alongside Twilight Struggle and 13 Days.
+
+# Upgrades
+upgrades: []

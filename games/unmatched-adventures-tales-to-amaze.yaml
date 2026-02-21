@@ -1,0 +1,73 @@
+id: unmatched-adventures-tales-to-amaze
+name: "Unmatched Adventures: Tales to Amaze"
+year: 2023
+
+# Relationships
+game_family: unmatched
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (40-60 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Hand Management
+  - Variable Player Powers
+  - Asymmetric
+  - Fantasy
+  - Ameritrash
+  - Restoration Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Connection
+  - Tension
+  - Powerful
+  - Discovery
+  - Unique
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Jason Hager
+  - Darren Reckner
+publisher:
+  - Restoration Games
+artist: []
+playtime_minutes: 50
+min_playtime: 40
+max_playtime: 60
+min_age: 9
+
+# Description
+description: |
+  Unmatched Adventures: Tales to Amaze brings cooperative play to the acclaimed
+  Unmatched combat system. One to four heroes band together to stop powerful
+  villains — such as the Alien Invader or the terrifying Mothman — and their
+  minions threatening the world. The four included heroes are Nikola Tesla,
+  Annie Christmas, the Golden Bat, and Dr. Jill Trent the Science Sleuth, each
+  with unique decks and abilities.
+
+  On each turn, players play cards from their hand to move, attack, and use
+  special powers, coordinating their efforts to whittle down the villain before
+  they are overwhelmed. Heroes and their card decks can be freely mixed and
+  matched with other Unmatched sets. The game also supports standard competitive
+  Unmatched play using the included heroes.
+
+# Upgrades
+upgrades: []

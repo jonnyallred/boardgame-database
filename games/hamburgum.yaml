@@ -1,0 +1,65 @@
+id: hamburgum
+name: "Hamburgum"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Rondel
+  - Economic
+  - Resource Management
+  - Trading
+  - Euro
+  - Historical
+  - Mac Gerdts
+  - Rio Grande Games
+
+evokes:
+  - Clever
+  - Progress
+  - Masterful
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Mac Gerdts
+publisher:
+  - Rio Grande Games
+artist:
+  - Mac Gerdts
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Hamburgum is a strategy game by Mac Gerdts set in the historic trading city of Hamburg, Germany.
+  Players use the signature Gerdts rondel — a circular action selection mechanism — to choose
+  from seven action spaces: Church, Trade, Cloth, Guildhall, Beer, Dockyard, and Sugar. Each
+  turn, players advance their pawn around the rondel, with moving further costing more resources.
+  Players produce beer, sugar, and cloth in their businesses, then sell these goods overseas with
+  their fleet of merchant ships. The collected profits fund prestigious church donations, which
+  score victory points. The game ends when six churches are fully constructed, rewarding players
+  who best balance production, trade routes, and ecclesiastical investment. Notable for containing
+  no dice or card luck — all decisions are pure strategy.
+
+upgrades: []

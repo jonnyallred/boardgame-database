@@ -1,0 +1,59 @@
+id: dune-express
+name: "Dune Express"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Bluffing
+  - Negotiation
+  - Sci-Fi
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 12
+
+description: |
+  Dune Express is a simplified adaptation of the classic Dune board game designed to be played
+  in under 30 minutes. Released as a print-and-play game, it attempts to capture the strategic
+  faction-conflict and alliance mechanics of the original Dune board game by replacing complex
+  tactical rules with a streamlined Yahtzee-style dice resolution system. The resulting game
+  retains the strategic faction selection, alliance negotiation, and political maneuvering that
+  made the original Dune famous while dramatically reducing setup and play time. The six Dune
+  factions each retain their asymmetric powers, and the core gameplay tension of shifting
+  alliances and betrayal is preserved. Limited information is available about this game as
+  it existed primarily in print-and-play format.
+
+upgrades: []

@@ -1,0 +1,60 @@
+id: captain-silver
+name: "Captain Silver"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Family
+  - Pirates
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Wonder
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Wolfgang Dirscherl
+  - Manfred Reindl
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 6
+
+description: |
+  Captain Silver is a tactile children's dexterity game where players feel around inside a pirate
+  bag to find the correct treasure object. When the active player gives the signal, everyone races
+  to reach into their own pirate bag and grab the correct object matching the current challenge.
+  Success earns treasure — but grabbing the wrong object means losing your turn. The game's
+  simple premise — identify objects by touch alone — creates surprising excitement and frequent
+  moments of comic failure as players confidently produce the wrong artifact. A 2017 Kinderspiel
+  des Jahres nominee, Captain Silver is a family-friendly speed game that works across age groups
+  due to its purely physical, non-verbal challenge.
+
+upgrades: []

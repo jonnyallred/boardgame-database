@@ -1,0 +1,77 @@
+id: captain-sonar
+name: "Captain Sonar"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Appetizer (~50 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 2  # Tactics
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Real-time
+  - Teams
+  - Simultaneous Action
+  - Deduction
+  - Hidden Movement
+  - Party
+  - Maritime
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Connection
+  - Rivalry
+  - Clever
+  - Humor
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [8]
+
+# Metadata
+designer:
+  - Roberto Fraga
+  - Yohan Lemonnier
+publisher:
+  - Matagot
+artist: []
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  Captain Sonar is a real-time team game of submarine warfare for two to eight
+  players. Two teams of up to four sit on opposite sides of a divider, each
+  crewing their submarine with four specialized roles: Captain plots movement on
+  a grid map and calls out the path aloud; Radio Operator tracks the enemy's
+  announced movements to deduce their location; Engineer monitors system damage
+  and clears malfunctions; First Mate charges weapons like torpedoes, mines, and
+  a sonar pulse. Both submarines move and act simultaneously in the default
+  real-time mode, creating controlled chaos as teams try to stay organized while
+  listening for enemy clues. A turn-by-turn variant accommodates smaller groups.
+  The first submarine to score two direct hits wins.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,62 @@
+id: forgotten-depths
+name: "Forgotten Depths"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Tile Placement
+  - Hand Management
+  - Dungeon Crawler
+  - Fantasy
+
+evokes:
+  - Discovery
+  - Tension
+  - Progress
+  - Connection
+  - Agency
+
+possible_counts: [1, 2, 3]
+true_counts: [1, 2]
+
+designer:
+  - Peter Albertson
+publisher:
+  - Grand Gamers Guild
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Forgotten Depths is a cooperative dungeon-delving game that combines tile-laying with hand
+  management to deliver a quick but substantial exploration experience. Players guide a party
+  of heroes down through dungeon levels to destroy the powerful entity lurking at the bottom.
+  Tile placement creates the dungeon as heroes explore — each level features its own Ecology
+  with unique monsters, environmental features, and hard-to-find Legendary Locations. Heroes
+  grow stronger by finding and equipping items and purchasing abilities and spells with
+  experience points earned through exploration. Three distinct dungeon level ecologies ensure
+  significant variety across playthroughs. The game prioritizes a tight, focused dungeon
+  crawl experience that plays faster than traditional dungeon crawlers without sacrificing
+  meaningful character progression.
+
+upgrades: []

@@ -1,0 +1,63 @@
+id: entdecker
+name: "Entdecker: Exploring New Horizons"
+alternate_names:
+  - Die Neuen Entdecker
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Modular Board
+  - Euro
+  - Klaus Teuber
+
+evokes:
+  - Discovery
+  - Progress
+  - Tension
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Kosmos
+  - Mayfair Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Entdecker: Exploring New Horizons is a tile-placement exploration game designed by Klaus Teuber
+  that starts with a blank board representing an uncharted sea. Players take turns drawing and
+  placing tiles that gradually reveal islands across the board. Players pay to place settlements,
+  bases, or scouts on newly discovered islands, trying to establish dominance before rivals do.
+  When an island is completed — fully surrounded by sea tiles — players with the most presence
+  score victory points based on the island's size. The game rewards careful resource management
+  alongside strategic positioning, as players must balance the cost of claiming territory against
+  the points earned when islands are finally revealed. The gradual emergence of the map creates
+  a satisfying sense of discovery and competitive tension.
+
+upgrades: []

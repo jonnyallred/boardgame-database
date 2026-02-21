@@ -1,0 +1,60 @@
+id: daruma
+name: "Daruma"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Set Collection
+  - Filler
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Clever
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4, 5]
+
+designer:
+  - Jorge J. Barroso
+  - Jesús Fuentes
+publisher:
+  - Perro Loko Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Daruma is a press-your-luck dice game inspired by traditional Japanese daruma dolls — used as
+  symbols of goal-setting and perseverance. Players roll dice and use results of 1 to paint
+  the eyes of daruma dolls on the table. Each time you paint an eye, you earn an additional
+  action to modify or re-roll remaining dice, allowing you to chain combos and keep placing
+  eyes. The push-your-luck tension comes from knowing when to stop and secure your darumas
+  versus risking more rolls to extend your chain. The game is portable and compact — designed
+  to be played on a bar table or airplane tray — making it an ideal filler for any occasion.
+  Players compete to collect the most completed darumas by the end of the game.
+
+upgrades: []

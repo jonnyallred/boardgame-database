@@ -1,0 +1,72 @@
+id: alcazar
+name: "Alcazar"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~20 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 2  # Tactics
+feel: 4  # Fierce
+value: 1  # Bargain
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Abstract
+  - Tile Placement
+  - Medieval
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Wolfgang Kramer
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  Alcazar is an abstract strategy game designed by Wolfgang Kramer in which
+  players compete to immobilize an opponent's pawn or occupy their starting
+  castle. The board features a network of connected castle positions, and players
+  alternate turns placing or moving walls between adjacent castles to reshape
+  the paths available. A pawn enclosed within four walls is trapped and unable
+  to move. The dual win conditions — trapping the enemy pawn or reaching their
+  start space — create branching strategic paths and make defensive play
+  insufficient. Short playtime and elegant mechanics make Alcazar a satisfying
+  two-player abstract, with the option to play with up to five players in a
+  team format.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,74 @@
+id: zooloretto
+name: "Zooloretto"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Drafting
+  - Set Collection
+  - Modular Board
+  - Family
+  - Gateway
+  - Animals
+  - Rio Grande Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Complete
+  - Rivalry
+  - Lucky
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Michael Schacht
+publisher:
+  - Abacus Spiele
+  - Rio Grande Games
+artist:
+  - Markus Wagner
+playtime_minutes: 50
+min_playtime: 45
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Zooloretto is the 2007 Spiel des Jahres winner, a family drafting game where
+  players build and manage their own zoo. Each turn, players either add tiles
+  to the face-down delivery trucks circling the track, or claim a truck and add
+  its tiles (animals and money crates) to their zoo enclosures.
+
+  The key tension is that once you claim a truck, your turn is over for that
+  round — the earlier you grab a truck, the fewer tiles it may have, while
+  waiting risks someone else taking the truck you want. Animal tiles score
+  points when you fill an enclosure, but overflow animals that won't fit cost
+  negative points. Money lets you buy animals from other players or expand
+  your zoo. A clean, elegant design that captures the feel of building a
+  thriving zoo through smart tile management.
+
+# Upgrades
+upgrades: []

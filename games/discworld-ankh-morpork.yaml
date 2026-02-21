@@ -1,0 +1,71 @@
+id: discworld-ankh-morpork
+name: "Discworld: Ankh-Morpork"
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Hand Management
+  - Variable Player Powers
+  - Bluffing
+  - Fantasy
+  - Cult Classic
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Rivalry
+  - Agency
+  - Tension
+  - Unique
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Martin Wallace
+publisher:
+  - Treefrog Games
+artist:
+  - Peter Dennis
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Discworld: Ankh-Morpork is an area control game designed by Martin Wallace set in
+  Terry Pratchett's beloved Discworld universe, published by Treefrog Games in 2011.
+  Players take on roles of factions vying for control of the city of Ankh-Morpork,
+  each with a secret victory condition dealt at the start of the game. One player might
+  need to control certain districts, another might need to build a certain number of
+  buildings, another might be trying to cause chaos. Cards are played to place minions,
+  build businesses, create trouble, and use faction-specific abilities tied to iconic
+  Discworld characters like Commander Vimes, Lord Vetinari, and Havelock Vetinari.
+  The hidden victory conditions create bluffing and deduction elements, as players try
+  to figure out opponents' goals while pursuing their own. The game is rich with Pratchett
+  humor and references that fans will delight in.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,62 @@
+id: deadwood
+name: "Deadwood"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Dice Rolling
+  - Take That
+  - Asymmetric
+  - Western
+  - Fantasy Flight Games
+
+evokes:
+  - Rivalry
+  - Tension
+  - Lucky
+  - Humor
+  - Powerful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Loic Lamy
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Deadwood is a fast-paced worker placement game with a deadly twist, set in the wild west town
+  of Deadwood, South Dakota during the railroad era. Players deploy cowboys to buildings to annex
+  them and use their special abilities — earning money and triggering powerful actions. Unlike most
+  worker placement games, if an opponent's cowboy occupies a space you want, you can try to force
+  your way in by initiating a shootout, rolling dice to determine who wins and who gets buried.
+  Players must balance returning cowboys to their ranch for future deployment against claiming
+  buildings to use their economic and combat powers. The high-risk, high-reward gunfight mechanic
+  makes Deadwood more confrontational than typical worker placement games, with fortunes changing
+  quickly as cowboys are eliminated and buildings change hands.
+
+upgrades: []

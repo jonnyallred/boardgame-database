@@ -1,0 +1,66 @@
+id: clockwork-wars
+name: "Clockwork Wars"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Worker Placement
+  - Simultaneous Action
+  - Variable Player Powers
+  - Asymmetric
+  - Modular Board
+  - Fantasy
+  - Steampunk
+  - Eagle-Gryphon Games
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Unique
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Hassan Lopez
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Clockwork Wars is an area control game where 2-4 players command unique races of creatures
+  in a tense war across a steam-era alternate universe where magic and technology collide.
+  Players simultaneously write their planned disc placements for each turn, then simultaneously
+  reveal and execute — creating suspense and requiring careful prediction of opponents' moves.
+  When multiple players contest the same territory, combat resolves based on unit counts with
+  special abilities potentially tipping the balance. Victory points flow from controlling
+  territories containing natural resources across seven rounds. Players develop technology
+  through espionage and research, unlocking powerful abilities. The combination of simultaneous
+  secret planning with asymmetric faction powers creates a game of bluffing, prediction, and
+  aggressive strategic positioning.
+
+upgrades: []

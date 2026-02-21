@@ -1,0 +1,75 @@
+id: wonderlands-war
+name: "Wonderland's War"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Bag Building
+  - Area Control
+  - Drafting
+  - Dice Rolling
+  - Variable Player Powers
+  - Asymmetric
+  - Fantasy
+  - Ameritrash
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Unique
+  - Lucky
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Tim Eisner
+  - Ben Eisner
+  - Ian Moss
+publisher:
+  - Druid City Games
+  - Skybound Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  Wonderland's War is a bag-building area control game set in a darkly twisted
+  version of Wonderland. Players take on the roles of factions from Lewis
+  Carroll's world — the Red Queen, the Hatter, the Cheshire Cat, the White
+  Rabbit, and Alice — each vying for dominance over the fractured realm.
+
+  Each round, players draft chips from a central pool and add them to their bags.
+  Then, in the War phase, players draw chips from their bags to fight for control
+  of regions on the modular board. Each faction has unique abilities and
+  asymmetric powers that shape their strategic approach. The combination of
+  drafting, bag-building, and area control creates a layered and distinctive
+  experience. The deluxe edition features premium miniatures and components.
+
+# Upgrades
+upgrades: []

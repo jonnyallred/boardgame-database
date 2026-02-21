@@ -1,0 +1,64 @@
+id: heaven-and-ale
+name: "Heaven & Ale"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Rondel
+  - Resource Management
+  - Worker Placement
+  - Tile Placement
+  - Euro
+  - Medieval
+  - Michael Kiesling
+
+evokes:
+  - Clever
+  - Progress
+  - Tension
+  - Masterful
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Michael Kiesling
+  - Andreas Schmidt
+publisher:
+  - eggertspiele
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Heaven & Ale is a challenging resource management game set in a medieval monastery where
+  players take on the role of a monk tasked with producing the finest beer. Players use a
+  rondel to place monks and prioresses on garden patches, harvesting resources like hops,
+  malt, and water. The game's signature mechanic is its scoring system: resources on the
+  inside of your cloister score well, but placing them inside means giving the field to an
+  opponent. Advancing resource markers increases their value, but the player who advances
+  the least valuable marker at game end scores zero for that resource — creating painful
+  bottleneck decisions. Balancing what to keep, what to surrender, and how far to advance
+  each resource track makes every decision agonizing and deeply satisfying for strategic thinkers.
+
+upgrades: []

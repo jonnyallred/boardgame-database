@@ -1,0 +1,71 @@
+id: evergreen
+name: "Evergreen"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Tile Placement
+  - Set Collection
+  - Pattern Building
+  - Euro
+  - Family
+  - Nature
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Wonder
+  - Complete
+  - Clever
+  - Progress
+  - Agency
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Hjalmar Hach
+publisher:
+  - Horrible Guild
+artist:
+  - Sara Morello
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Evergreen is a card drafting and biome-building game published by Horrible Guild in 2022.
+  Players compete to create the most fertile planet by planting seeds, growing trees and
+  bushes, and building mountains and rivers. Cards are drafted from a shared market, and
+  each card shows the type of terrain to be placed and a biome affiliation. At the end of
+  each of four seasons, a sun card is revealed that indicates which biome scores — but only
+  the tallest trees and largest connected terrain groups in that biome count. Players who
+  have placed the most valuable components in the scoring biome gain victory points. With
+  its beautiful nature artwork, simple drafting rules, and interesting end-game scoring
+  that rewards forward planning, Evergreen is an accessible and visually appealing game
+  suitable for families and casual gamers.
+
+# Upgrades
+upgrades: []

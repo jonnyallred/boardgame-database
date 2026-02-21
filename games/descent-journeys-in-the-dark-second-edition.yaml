@@ -1,0 +1,73 @@
+id: descent-journeys-in-the-dark-second-edition
+name: "Descent: Journeys in the Dark (Second Edition)"
+year: 2012
+
+# Relationships
+game_family: descent
+edition: "Second Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (2-4 hours)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dungeon Crawler
+  - 1 vs Many
+  - Cooperative
+  - Dice Rolling
+  - Variable Player Powers
+  - Modular Board
+  - Campaign Mode
+  - Fantasy
+  - Fantasy Flight Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Powerful
+  - Discovery
+  - Tension
+  - Rivalry
+  - Progress
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Corey Konieczka
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Various
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Descent: Journeys in the Dark (Second Edition) is a revised and streamlined version of
+  the original 2005 dungeon-crawler, published by Fantasy Flight Games in 2012. One player
+  acts as the Overlord, controlling monsters and setting traps, while up to four hero
+  players cooperate to complete quests across a campaign. The second edition introduced a
+  more focused Quest structure with shorter play sessions, revised hero and monster cards,
+  updated dice, and significant improvements to the campaign framework including a new
+  app-based companion. Heroes develop skills, equipment, and attributes as they progress
+  through linked quests. The Overlord uses a deck-building mechanic with treachery cards
+  to bolster monsters and hinder heroes. This edition greatly increased accessibility
+  while retaining the rich dungeon-crawl experience of the original.
+
+# Upgrades
+upgrades: []

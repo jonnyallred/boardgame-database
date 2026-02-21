@@ -1,0 +1,62 @@
+id: dungeons-and-dragons-the-fantasy-adventure-board-game
+name: "Dungeons & Dragons: The Fantasy Adventure Board Game"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Modular Board
+  - Dice Rolling
+  - Dungeon Crawler
+  - Variable Player Powers
+  - Fantasy
+  - Family
+
+evokes:
+  - Discovery
+  - Adventure
+  - Connection
+  - Lucky
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Dungeons & Dragons: The Fantasy Adventure Board Game is a dungeon-crawl game published by
+  Parker Brothers (Hasbro) in 2003 based on the classic roleplaying game. Players choose from
+  pre-generated hero characters and work through quests presented in a scenario booklet, exploring
+  dungeon rooms, fighting monsters, and collecting treasure. The game uses custom dice including
+  attack, trap detection, and special dice to resolve encounters. While sharing a dungeon-crawl
+  format with HeroQuest (and borrowing some of its mechanics), the game adds flexibility with
+  an empty map framework allowing players to create custom layouts. Published primarily for the
+  European market, it offers an accessible introduction to D&D dungeon-crawling concepts without
+  requiring a Dungeon Master.
+
+upgrades: []

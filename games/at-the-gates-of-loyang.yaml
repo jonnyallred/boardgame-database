@@ -1,0 +1,80 @@
+id: at-the-gates-of-loyang
+name: "At the Gates of Loyang"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~90 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 3  # Strategy
+feel: 2  # Party
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Resource Management
+  - Drafting
+  - Euro
+  - Ancient
+  - Agriculture
+  - Uwe Rosenberg
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Tension
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Lookout Games
+  - Z-Man Games
+artist:
+  - Klemens Franz
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  At the Gates of Loyang, the final entry in Uwe Rosenberg's Harvest Trilogy
+  alongside Agricola and Le Havre, tasks one to four players with running a
+  vegetable stall outside ancient China's trading capital. Each round, players
+  receive cards representing fields, customers, helpers, and shops through a
+  clever shared-draw system: each player draws two cards and keeps one, while
+  the card they discard into a public pool becomes available to any player willing
+  to pay for it. Planted fields yield vegetables each turn, which are used to
+  fulfill regular customers for steady income or one-time customers for immediate
+  gold. Helper cards provide special abilities that can boost efficiency. The
+  game's central tension is a prosperity track with exponentially increasing costs
+  to advance, rewarding both early commitment and precise resource chains.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

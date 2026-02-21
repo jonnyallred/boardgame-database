@@ -1,0 +1,72 @@
+id: dice-forge
+name: "Dice Forge"
+year: 2017
+
+# Relationships
+game_family: dice-forge
+edition: null
+base_game: null
+expansions:
+  - dice-forge-rebellion
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Resource Management
+  - Engine Building
+  - Set Collection
+  - Euro
+  - Fantasy
+  - Mythology
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Lucky
+  - Complete
+  - Rivalry
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Régis Bonnessée
+publisher:
+  - Libellud
+artist:
+  - Biboun
+playtime_minutes: 45
+min_playtime: 40
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Dice Forge is a dice-crafting game published by Libellud in 2017 in which players compete
+  to earn the favor of the gods by upgrading their custom dice. The game's signature mechanic
+  involves physically removing and replacing faces on each player's two dice, customizing
+  the distribution of resources — gold, sun shards, moon shards, and glory points — they
+  generate each turn. At the start of every player's turn, all players roll their dice and
+  collect resources, ensuring constant engagement. Resources are spent at the Forge to
+  purchase new die faces or at the Temple to undertake heroic deeds. The heroic deeds
+  provide bonus effects, powerful artifacts, and victory points. The game features gorgeous
+  production quality with intricate custom dice and detailed card art depicting Greek
+  mythology themes.
+
+# Upgrades
+upgrades: []

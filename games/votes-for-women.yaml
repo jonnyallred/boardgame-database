@@ -1,0 +1,71 @@
+id: votes-for-women
+name: "Votes for Women"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-75 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Area Control
+  - Cooperative
+  - Historical
+  - Events
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Progress
+  - Discovery
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Tory Brown
+publisher:
+  - Fort Circle Games
+artist: []
+playtime_minutes: 68
+min_playtime: 60
+max_playtime: 75
+min_age: 14
+
+# Description
+description: |
+  Votes for Women is a card-driven strategy game covering the American women's
+  suffrage movement from 1848 to 1920, culminating in the ratification — or
+  rejection — of the Nineteenth Amendment. One player represents the
+  Suffragettes while the other plays the Opposition, each adding and removing
+  influence across states in a tug-of-war for support.
+
+  The game supports competitive two-player, cooperative, and solo modes. In
+  cooperative and solo play, players face an "Oppobot" automaton system. Cards
+  drive both events and campaigning actions, echoing the Twilight Struggle
+  style of card-driven wargames. The production is lavish, featuring a beautiful
+  period-style board, wooden components, and facsimiles of historical documents
+  from the era. The game was produced in partnership with the League of Women
+  Voters.
+
+# Upgrades
+upgrades: []

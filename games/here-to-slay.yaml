@@ -1,0 +1,62 @@
+id: here-to-slay
+name: "Here to Slay"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Dice Rolling
+  - Take That
+  - Fantasy
+  - Party
+  - Gateway
+
+evokes:
+  - Humor
+  - Rivalry
+  - Lucky
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Ramy Badie
+publisher:
+  - Unstable Games
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  Here to Slay is a competitive fantasy card game from the creators of Unstable Unicorns where
+  players assemble a full party of six different hero classes to defeat monsters. On each turn,
+  players spend action points to draw cards, play heroes, equip items, cast spells, or attack
+  monsters rolled against with dice. Victory can come two ways: be the first to slay three
+  monsters or assemble a complete party of six different hero types. Players can also sabotage
+  rivals by playing curse cards or stealing their heroes. The game captures the chaos and fun
+  of tabletop RPG adventuring in a fast, accessible card game format that rewards both strategic
+  party building and opportunistic monster hunting.
+
+upgrades: []

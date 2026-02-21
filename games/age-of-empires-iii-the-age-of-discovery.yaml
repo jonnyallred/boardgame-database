@@ -1,0 +1,80 @@
+id: age-of-empires-iii-the-age-of-discovery
+name: "Age of Empires III: The Age of Discovery"
+alternate_names:
+  - "Glenn Drover's Empires: The Age of Discovery"
+  - "Empires: The Age of Discovery"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~120 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Area Control
+  - Variable Player Powers
+  - Resource Management
+  - Economic
+  - Historical
+  - Maritime
+  - Civilization
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Discovery
+  - Powerful
+  - Agency
+  - Rivalry
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Glenn Drover
+publisher:
+  - Tropical Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Age of Empires III: The Age of Discovery is a worker-placement and area-control
+  game designed by Glenn Drover, inspired by the licensed Age of Empires computer
+  game franchise. Two to five players command colonial European powers competing
+  to explore, settle, and exploit the New World across three ages over eight
+  turns. Workers (colonists) are placed in event spaces that resolve in a fixed
+  order each round: discovery, colonization, trade, taxation, and capital
+  development. The role-selection element grants the player who chose a phase a
+  special bonus action. Players build colonial economies, dispatch ships, claim
+  territory, and develop their home country's capabilities. The game was later
+  rereleased as Empires: The Age of Discovery after the licensing agreement with
+  Microsoft expired.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

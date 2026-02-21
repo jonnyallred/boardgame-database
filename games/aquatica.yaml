@@ -1,0 +1,79 @@
+id: aquatica
+name: "Aquatica"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Engine Building
+  - Tableau Building
+  - Hand Management
+  - Set Collection
+  - Fantasy
+  - Family
+  - Euro
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Wonder
+  - Complete
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Pavel Soloviev
+publisher:
+  - Cosmodrome Games
+artist:
+  - Irina Kuzmina
+  - Andrew Modestov
+  - Oleg Proshin
+  - Artur Varenyev
+  - Marat Zakirov
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+# Description
+description: |
+  Aquatica is a deep-sea engine building card game in which players become epic
+  sea-kings guiding their underwater kingdoms to dominance. Players explore the
+  ocean abyss, gather resources, recruit powerful sea creatures, and capture
+  underwater locations to score victory points.
+
+  The game's central mechanic is a unique card-rising system: cards played from
+  your hand slide into slots beneath your three-tiered player board. As you take
+  actions, cards rise through the rows and eventually score when they reach the
+  top. This creates a satisfying visual engine and a planning puzzle as players
+  sequence their actions to maximize value.
+
+  Aquatica features eight asymmetric sea-king factions with distinct starting powers,
+  a solo mode, and a Clean Seas variant. Its relatively short play time, approachable
+  rules, and striking oceanic artwork make it a popular mid-weight engine builder.
+
+# Upgrades
+upgrades: []

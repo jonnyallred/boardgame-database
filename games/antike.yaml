@@ -1,0 +1,82 @@
+id: antike
+name: "Antike"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: antike
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~120 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Rondel
+  - Area Control
+  - Route Building
+  - Resource Management
+  - Tech Tree
+  - Civilization
+  - Ancient
+  - Euro
+  - Mac Gerdts
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Powerful
+  - Rivalry
+  - Agency
+  - Clever
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Mac Gerdts
+publisher:
+  - PD-Verlag
+  - Rio Grande Games
+artist:
+  - Mac Gerdts
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+# Description
+description: |
+  Antike is a civilization-building game set in the ancient Mediterranean, where
+  players guide Greek, Roman, Phoenician, Carthaginian, or other ancient nations
+  through expansion, development, and rivalry. The signature mechanic is Mac
+  Gerdts' rondel: a circular action selector with eight options — earn income,
+  grow cities, build legions or galleys, sail, move, research technology, and
+  temple construction — where players may advance their marker freely but must
+  pay extra gold to skip ahead more than two spaces. Combat is deterministic
+  with no dice, resolved simply by unit cancellation. Victory goes to the first
+  player to collect nine ancient personages (like Aristotle or Caesar), earned
+  by scientific achievements and territorial milestones. The rondel creates
+  distinctive strategic tension by rationing how quickly any one action can be
+  repeated.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

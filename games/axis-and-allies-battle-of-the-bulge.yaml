@@ -1,0 +1,77 @@
+id: axis-and-allies-battle-of-the-bulge
+name: "Axis & Allies: Battle of the Bulge"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: axis-and-allies
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~180 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 2  # Tactics
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Area Control
+  - Hex Map
+  - Teams
+  - Wargame
+  - Historical
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+  - Dread
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Larry Harris
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+# Description
+description: |
+  Axis & Allies: Battle of the Bulge is a standalone two-player wargame
+  simulating Germany's last major Western Front offensive in December 1944. One
+  player commands the German forces attempting to break through Allied lines
+  and reach Antwerp; the other commands the Allied coalition defending their
+  supply lines. Unlike the standard Axis & Allies formula, this entry introduces
+  supply mechanics, with trucks ferrying ammunition and reinforcements to the
+  front. Overland movement and road movement use different rates, and late-battle
+  air support enters play in later turns as the Allies recover from the initial
+  shock. Combat uses specialized dice with randomized casualties. The focused
+  historical scenario and streamlined rules make it one of the most accessible
+  entries in the Axis & Allies family.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

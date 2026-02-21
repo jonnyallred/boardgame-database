@@ -1,0 +1,77 @@
+id: ancient-knowledge
+name: "Ancient Knowledge"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~75 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 2  # Tactics
+feel: 2  # Party
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tableau Building
+  - Hand Management
+  - Drafting
+  - Card Drafting
+  - Set Collection
+  - Euro
+  - Ancient
+  - Civilization
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Wonder
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Rémi Mathieu
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Ancient Knowledge is a tableau-building card game in which players race to
+  erect monuments and craft artifacts, passing accumulated wisdom down through
+  the ages before it is lost to time. On each turn, players draft cards to
+  build their civilization, but constructed elements are ephemeral: structures
+  gradually decline and disappear unless preserved, mirroring how ancient
+  knowledge fades without effort to maintain it. Managing the decay cycle is
+  the heart of the design, as players must balance aggressive expansion against
+  the cost of preservation. End-game bonuses reward completed sets and
+  synergistic tag combinations. The decline mechanic creates a distinctive
+  push-pull dynamic absent from most engine-builders.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

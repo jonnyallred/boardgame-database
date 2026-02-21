@@ -1,0 +1,60 @@
+id: himalaya
+name: "Himalaya"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Action Points
+  - Route Building
+  - Programmed Movement
+  - Euro
+
+evokes:
+  - Agency
+  - Clever
+  - Progress
+  - Tension
+  - Masterful
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Régis Bonnessée
+  - Guillaume Blossier
+publisher:
+  - Tilsit
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  Himalaya is a pick-up and deliver game set in the Himalayan mountains where players control
+  caravans trading goods between villages. The game uses a programmed movement system where
+  players simultaneously plan their actions before revealing and resolving them. Players must
+  balance gathering resources, fulfilling contracts, and establishing trade routes across the
+  mountain terrain. An abstract strategic element overlays the delivery mechanics, requiring
+  players to think several turns ahead as their programmed moves interact with opponents'.
+  The combination of logistical planning with the beautiful Himalayan theme and competitive
+  contract fulfillment creates a distinctive Euro experience from French publisher Tilsit.
+
+upgrades: []

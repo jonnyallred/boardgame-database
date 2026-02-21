@@ -1,0 +1,74 @@
+id: altiplano
+name: "Altiplano"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 1  # Light
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Bag Building
+  - Resource Management
+  - Engine Building
+  - Euro
+  - Agriculture
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Lucky
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Reiner Stockhausen
+publisher:
+  - dlp games
+  - Renegade Game Studios
+artist:
+  - Christine Alcouffe
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Altiplano is a bag-building game set in the South American Andean highlands, where
+  players take on the roles of residents trying to make a living through farming,
+  fishing, mining, and trading in a landscape of limited resources.
+
+  Like Orleans (Reiner Stockhausen's previous game), Altiplano uses a bag of tokens
+  that players draw from each round to power their actions. But where Orleans uses
+  a town board, Altiplano adds a variable modular map and a rondel-like movement
+  system: players move their character around the board to access different locations
+  and resource types, adding a spatial element to the familiar bag-building formula.
+
+  Players convert basic resources into more valuable goods, score points for completed
+  shipments and stored resources, and race to fill their market carts. The interplay
+  between bag composition, character position, and available resources creates a
+  rich optimization puzzle that plays out differently each game.
+
+# Upgrades
+upgrades: []

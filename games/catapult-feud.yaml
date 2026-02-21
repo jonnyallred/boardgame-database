@@ -1,0 +1,75 @@
+id: catapult-feud
+name: "Catapult Feud"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (~20 min)
+rules_complexity: 1  # Elementary
+strategic_depth: 1  # Basic
+feel: 4  # Fierce
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dexterity
+  - Take That
+  - Action Points
+  - Medieval
+  - Family
+  - Ameritrash
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Lucky
+  - Powerful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Kristian Fosh
+publisher:
+  - Vesuvius Media
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+# Description
+description: |
+  Catapult Feud is a two-player dexterity game of castle destruction and siege
+  warfare. Each player builds a defensive castle from 32 bricks, protects it with
+  5 troop pawns, and then takes turns launching rubber boulders from a physical
+  catapult to knock down the opponent's fortifications and eliminate their troops.
+  Each turn divides into four phases: Tactics (play an action card for a special
+  effect), Aim (position the catapult), Fire (launch a boulder), and Cleanup
+  (tidy dislodged pieces). The last player to have surviving troops wins. With
+  71 physical components including two actual working catapults, the game delivers
+  satisfying tactile gameplay accessible to children and adults alike, rewarding
+  aiming skill and clever tactical card play.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,78 @@
+id: betrayal-at-house-on-the-hill
+name: "Betrayal at House on the Hill"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: betrayal-at-house-on-the-hill
+edition: first
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~60 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 1  # Basic
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Modular Board
+  - Traitor
+  - Dice Rolling
+  - Variable Player Powers
+  - Narrative Heavy
+  - Horror
+  - Mystery
+  - Ameritrash
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Dread
+  - Tension
+  - Discovery
+  - Unique
+  - Mystery
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Bruce Glassco
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Betrayal at House on the Hill begins as a cooperative haunted-house exploration
+  game and transforms midway through into a one-versus-many confrontation. Players
+  collectively build a three-floor gothic mansion tile by tile as their explorers
+  roam its rooms, collecting items and triggering omen cards. When enough omens
+  accumulate, the Haunt begins: a roll determines which of 50 haunting scenarios
+  activates, typically revealing that one player (the traitor) now controls the
+  supernatural forces trying to kill the others. Each haunt features unique win
+  conditions for both sides. The randomized board, hidden haunt reveal, and
+  scenario variety ensure no two games feel alike. The game won a 2004 Gamers'
+  Choice Award for Best Board Game and has been followed by a second and third
+  edition.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

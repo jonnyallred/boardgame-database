@@ -1,0 +1,72 @@
+id: fresco
+name: "Fresco"
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (75 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Action Points
+  - Resource Management
+  - Set Collection
+  - Euro
+  - Historical
+  - Medieval
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Complete
+  - Rivalry
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Marco Ruskowski
+  - Marcel Süßelbeck
+publisher:
+  - Queen Games
+artist:
+  - Oliver Schlemmer
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+# Description
+description: |
+  Fresco is a worker placement game published by Queen Games in 2010 in which players
+  are Renaissance master painters competing to restore a cathedral fresco. Each morning,
+  players secretly set their wake-up time, which determines turn order but also worker
+  mood — waking early gives action priority but makes workers grumpy, requiring more money
+  to keep them happy. During the day, players send apprentices to the market to buy paints,
+  mix colors, paint segments of the fresco, and perform other actions. Painting the fresco
+  earns victory points based on the colors used and positions completed, while also
+  potentially pleasing the Bishop for bonus scoring. The game features a modular design
+  with nine expansion modules included in the box, allowing players to add complexity
+  and variety as they become more familiar with the base game.
+
+# Upgrades
+upgrades: []

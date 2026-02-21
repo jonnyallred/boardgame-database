@@ -1,0 +1,73 @@
+id: falling-sky-the-gallic-revolt-against-caesar
+name: "Falling Sky: The Gallic Revolt Against Caesar"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (4-8 hours)
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Wargame
+  - Historical
+  - Ancient
+  - Negotiation
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Masterful
+  - Agency
+  - Tension
+  - Rivalry
+  - Powerful
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Volko Ruhnke
+  - Andrew Ruhnke
+publisher:
+  - GMT Games
+artist:
+  - Chechu Nieto
+playtime_minutes: 360
+min_playtime: 180
+max_playtime: 480
+min_age: 14
+
+# Description
+description: |
+  Falling Sky: The Gallic Revolt Against Caesar is an asymmetric wargame published by GMT
+  Games in 2016, part of the COIN (Counterinsurgency) series. The game depicts Julius
+  Caesar's campaigns in Gaul, with four factions — Rome, Arverni, Aedui, and Belgic tribes
+  — each pursuing different and asymmetric victory conditions. Rome seeks to pacify the
+  province and extract tribute; the Arverni (led by Vercingetorix) aim for Gallic unity
+  and Roman defeat; the Aedui want prominence among the Gallic peoples; and the Belgic
+  tribes seek to repel invaders and dominate the north. Players use a shared card deck to
+  take sequenced actions: commanding troops, building fortifications, raiding, and rallying
+  allies. Political and military dimensions are tightly interwoven, and the game is noted
+  for its historical depth, simulation fidelity, and the elegant COIN system's ability
+  to simulate complex multi-faction conflicts.
+
+# Upgrades
+upgrades: []

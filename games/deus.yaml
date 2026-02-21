@@ -1,0 +1,72 @@
+id: deus
+name: "Deus"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Hand Management
+  - Set Collection
+  - Engine Building
+  - Tableau Building
+  - Euro
+  - Ancient
+  - Civilization
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Rivalry
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Sebastien Dujardin
+publisher:
+  - Pearl Games
+artist:
+  - Davide Tosello
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Deus is a civilization-building game set in antiquity published by Pearl Games in 2014.
+  Players compete to build civilizations across a shared modular map by placing buildings
+  of five types — military, maritime, civic, scientific, and production — on territory
+  tiles. Each building placed triggers a card-play mechanic: players choose a card from
+  their hand matching the building's color, activating that card's ability and also
+  triggering all previously played cards of the same color in order. This chain-reaction
+  combo system creates powerful engine-building opportunities. Players can also sacrifice
+  cards to gain resources and pray to gods for special powers. Victory points come from
+  territorial control, building chains, and completed objectives. The variable map setup
+  and card-combo depth make each game feel fresh and strategically rich.
+
+# Upgrades
+upgrades: []

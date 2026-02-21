@@ -1,0 +1,65 @@
+id: blue-lagoon
+name: "Blue Lagoon"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Area Control
+  - Network Building
+  - Tile Placement
+  - Abstract
+  - Family
+  - Gateway
+  - Reiner Knizia
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - Blue Orange Games
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  Blue Lagoon is a Reiner Knizia set collection and area control game published by Blue Orange Games in 2018. Players send settlers to explore a newly discovered Pacific archipelago of eight islands, collecting resources — coconuts, bamboo, water, gems, and statues — while building connected networks across the hex grid.
+
+  The game plays over two distinct phases. In the Exploration phase, players spread freely across the board from any coastal water space, claiming resources and establishing footholds. In the Settlement phase, all pieces are reset and players must now connect their new placements back to existing settlements, requiring forward planning about where to anchor. Points are scored for resource set collection, connecting islands, controlling island majorities, and claiming statues. The two-phase structure creates a clever twist: what benefits you in exploration may constrain you in settlement. Blue Lagoon plays in around 40 minutes and is suitable for families and experienced gamers alike, delivering the characteristic Knizia combination of elegant rules with meaningful decisions.
+
+# Upgrades
+upgrades: []

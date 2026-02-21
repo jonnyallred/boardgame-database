@@ -1,0 +1,71 @@
+id: forbidden-sky
+name: "Forbidden Sky"
+year: 2018
+
+# Relationships
+game_family: forbidden
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Cooperative
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Action Points
+  - Variable Player Powers
+  - Modular Board
+  - Family
+  - Puzzle Solving
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Connection
+  - Complete
+  - Clever
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Matt Leacock
+publisher:
+  - Gamewright
+artist:
+  - C. B. Canga
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Forbidden Sky is the third game in Matt Leacock's Forbidden series, published by
+  Gamewright in 2018. Players are stranded on a high-altitude storm platform and must
+  cooperate to build an electrical circuit to power a rocket and escape before the
+  storm destroys the platform. The game introduces a tile-laying circuit-building mechanic:
+  as tiles are explored, players lay actual wire and component tokens to create a working
+  electrical circuit. The circuit must be completed and connect the rocket to a power
+  source before lightning tokens fill and the platform collapses. Characters have unique
+  abilities, and storm events escalate the danger each round. Forbidden Sky adds a tactile
+  puzzle-solving element with its physical wire-building mechanic that distinguishes it
+  from the earlier Forbidden games, offering a fresh cooperative challenge with a
+  satisfying climactic launch sequence.
+
+# Upgrades
+upgrades: []

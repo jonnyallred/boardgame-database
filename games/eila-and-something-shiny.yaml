@@ -1,0 +1,61 @@
+id: eila-and-something-shiny
+name: "Eila and Something Shiny"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Narrative Heavy
+  - Puzzle Solving
+
+evokes:
+  - Discovery
+  - Connection
+  - Wonder
+  - Mystery
+  - Progress
+
+possible_counts: [1, 2, 3]
+true_counts: [1, 2]
+
+designer:
+  - Jeffrey CCH
+publisher:
+  - ICE Makes
+  - North Star Games
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Eila and Something Shiny is a story-driven cooperative adventure game told across five chapters
+  with branching narrative paths. Players guide the main character Eila through a richly illustrated
+  world, making choices that affect each chapter and ultimately determine how the story ends.
+  The game blends puzzle solving, resource management, and cooperative decision-making in a
+  format suitable for solo play or small groups. Beautiful illustrated comics bring the story
+  to life, and the branching structure encourages replayability as different choices lead to
+  different outcomes. The game emphasizes emotional storytelling and player agency in a compact
+  format, making it particularly appealing for couples or players seeking a narrative gaming
+  experience without heavy rules overhead.
+
+upgrades: []

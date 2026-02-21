@@ -1,0 +1,73 @@
+id: descent-journeys-in-the-dark
+name: "Descent: Journeys in the Dark"
+year: 2005
+
+# Relationships
+game_family: descent
+edition: "First Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (2-4 hours)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dungeon Crawler
+  - 1 vs Many
+  - Cooperative
+  - Dice Rolling
+  - Variable Player Powers
+  - Modular Board
+  - Campaign Mode
+  - Fantasy
+  - Fantasy Flight Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Powerful
+  - Discovery
+  - Tension
+  - Rivalry
+  - Progress
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Corey Konieczka
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Various
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  Descent: Journeys in the Dark (First Edition) is a dungeon-crawl adventure game published
+  by Fantasy Flight Games in 2005 in which one player takes on the role of the Overlord
+  — controlling monsters and traps — while up to four other players control heroes exploring
+  dangerous dungeons in search of treasure and glory. The game features modular dungeon tiles,
+  detailed plastic miniatures, and a rich variety of heroes and monsters each with unique
+  abilities. Combat is resolved with custom dice, and heroes gain experience and equipment
+  as they complete quests. The Overlord also gains power through conquest points, creating
+  an escalating arms race throughout the campaign. The game is notable for its high
+  production quality, extensive component count, and the asymmetric tension between the
+  cunning Overlord and the cooperative heroes.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,61 @@
+id: hey-thats-my-fish
+name: "Hey, That's My Fish!"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Abstract
+  - Family
+  - Gateway
+  - Animals
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Günter Cornett
+  - Alvydas Jakeliunas
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Hey, That's My Fish! is a deceptively simple abstract strategy game where 2-4 players control
+  penguins on a shrinking ice floe. Each turn, a player moves one penguin in a straight line
+  across hex-shaped ice tiles, then collects the tile where the penguin started — creating gaps
+  that cannot be crossed in future turns. Fish on collected tiles score points, with tiles
+  showing 1, 2, or 3 fish. As the board shrinks, penguins become increasingly isolated, and
+  the player who collects the most fish wins. The beauty of the game lies in its elegant
+  tension: moving forward to collect more fish often opens your opponent's paths while closing
+  your own. A quick-playing gateway abstract that rewards spatial thinking and forward planning.
+
+upgrades: []

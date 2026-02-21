@@ -1,0 +1,73 @@
+id: fire-in-the-lake
+name: "Fire in the Lake"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (5-10 hours)
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Wargame
+  - Historical
+  - War
+  - Negotiation
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Masterful
+  - Agency
+  - Tension
+  - Rivalry
+  - Powerful
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer:
+  - Mark Herman
+  - Volko Ruhnke
+publisher:
+  - GMT Games
+artist:
+  - Charles Kibler
+playtime_minutes: 480
+min_playtime: 300
+max_playtime: 600
+min_age: 14
+
+# Description
+description: |
+  Fire in the Lake is an asymmetric wargame published by GMT Games in 2014, set during
+  the Vietnam War. It is part of the acclaimed COIN (Counterinsurgency) series. Four
+  factions — the US/ARVN (Government of Vietnam), the NVA (North Vietnamese Army), the
+  VC (Viet Cong), and the NLF — each pursue different and asymmetric victory conditions
+  representing their historical objectives. COIN uses a shared event card deck with
+  sequential action opportunities, where factions must decide whether to execute card
+  events or take standard operations. Propaganda cards periodically trigger victory checks.
+  The game captures the complexity of counterinsurgency warfare: military force alone
+  cannot win; economic aid, political legitimacy, and population control all matter.
+  Fire in the Lake is regarded as one of the finest historical wargames ever designed,
+  praised for its educational depth and the elegant COIN system.
+
+# Upgrades
+upgrades: []

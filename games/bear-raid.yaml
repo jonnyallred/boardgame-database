@@ -1,0 +1,65 @@
+id: bear-raid
+name: "Bear Raid"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Economic
+  - Take That
+  - Variable Setup
+  - Family
+  - Euro
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Lucky
+  - Rivalry
+  - Tension
+  - Agency
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Ryan Courtney
+publisher:
+  - Allplay
+artist:
+  - Emanuel Adams
+  - Nick Nazzaro
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+# Description
+description: |
+  Bear Raid is a stock market manipulation game in which players buy, sell, and short stocks to make the most money. Set in a volatile market environment, players use 42 dice that can be manipulated to influence stock prices in their favor. Forecast cards with clever news headlines determine how each stock rises or falls each round, creating a dynamic economic environment that rewards clever timing and market positioning.
+
+  Players take actions to purchase shares in rising stocks, short-sell declining ones, and tactically move the market using the distinctive dice mechanism. The game's economy can shift dramatically as players respond to forecasts and each other's moves, leading to tense moments where a well-timed short can wipe out a rival's gains. With a streamlined 4-page rulebook and plays in around 60 minutes, Bear Raid delivers a satisfying economic experience accessible to a broad audience. Designed by Ryan Courtney, known for Pipeline and Trailblazers, Bear Raid brings his trademark "thinky unexpected twists" to the stock market genre.
+
+# Upgrades
+upgrades: []

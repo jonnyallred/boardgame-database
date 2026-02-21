@@ -1,0 +1,60 @@
+id: espresso-doppio
+name: "Espresso Doppio"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Pattern Building
+  - Abstract
+  - Filler
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Humor
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Walter Obert
+publisher:
+  - HUCH!
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Espresso Doppio is a stylish two-player abstract puzzle game themed around a Viennese coffee
+  house. Players swap and move espresso cups, saucers, and spoons across a shared playing area
+  to match their personal objective cards. Each turn, the active player makes three moves or
+  exchanges to arrange the real ceramic components into matching configurations. Players hold
+  eight objective cards and display three at a time, working through their deck while their
+  opponent simultaneously pursues their own objectives with the same shared components.
+  The game includes actual miniature espresso cups and saucers in white, brown, and black —
+  a charming physical element that adds tactile appeal. A solo mode and expert variant provide
+  additional challenge for dedicated fans of the coffee-themed duel.
+
+upgrades: []

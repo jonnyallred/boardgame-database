@@ -1,0 +1,73 @@
+id: forgotten-waters
+name: "Forgotten Waters"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (2-4 hours)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Cooperative
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Dice Rolling
+  - Variable Player Powers
+  - Pirates
+  - Maritime
+  - Plaid Hat Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Humor
+  - Connection
+  - Tension
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+# Metadata
+designer:
+  - J. Arthur Ellis
+  - Isaac Vega
+  - Ira Fay
+publisher:
+  - Plaid Hat Games
+artist:
+  - Pericles Junior
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  Forgotten Waters is a narrative seafaring adventure game published by Plaid Hat Games
+  in 2020 using the CrossroadsGame app system. Players are pirates sailing the high seas,
+  each pursuing a personal story arc while collaborating to complete scenario objectives.
+  The companion app serves as a dynamic narrator, delivering atmospheric prose, responding
+  to player decisions, and managing monster encounters and weather events. On their turn,
+  players assign crew to locations on the ship — ranging from crow's nest to cannons —
+  selecting actions that determine the ship's course, manage resources, or advance the
+  story. Dice rolls with colorful custom dice resolve skill checks and combat. The game
+  is distinguished by its humorous writing, branching story choices, and the way personal
+  character progression intertwines with collective adventure across a full campaign.
+
+# Upgrades
+upgrades: []

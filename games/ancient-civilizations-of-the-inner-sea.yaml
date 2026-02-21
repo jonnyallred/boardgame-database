@@ -1,0 +1,78 @@
+id: ancient-civilizations-of-the-inner-sea
+name: "Ancient Civilizations of the Inner Sea"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Civilization
+  - Historical
+  - Variable Player Powers
+  - Wargame
+  - Ancient
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Powerful
+  - Rivalry
+  - Agency
+  - Discovery
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Mark McLaughlin
+  - Christopher Vorder Bruegge
+publisher:
+  - GMT Games
+artist:
+  - Knut Grünitz
+  - Mark Mahaffey
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  Ancient Civilizations of the Inner Sea is a fast-playing, accessible civilization
+  game from GMT Games spanning 3,500 years of Mediterranean history. Players each
+  guide one of the renowned civilizations that surged and receded around the shores
+  of the ancient Mediterranean — from the Egyptians and Phoenicians to the Greeks,
+  Romans, and Carthaginians.
+
+  Players compete across up to four epochs, expanding their civilizations through
+  conquest, building cities and Wonders, and surviving natural disasters. The game
+  uses event cards with fate mechanics — there are no dice. Card play drives combat
+  and events, making it more strategic and less luck-dependent than many area control
+  games.
+
+  The game scales well from 1 to 6 players, with variable player powers for each
+  civilization and a solo mode. Its accessible ruleset belies the strategic depth
+  that emerges from managing limited forces across a contested map, making it a
+  standout entry in GMT's catalog of historical strategy games.
+
+# Upgrades
+upgrades: []

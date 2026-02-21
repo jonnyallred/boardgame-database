@@ -1,0 +1,78 @@
+id: argent-the-consortium
+name: "Argent: The Consortium"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~90 min)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 4  # Fierce
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Engine Building
+  - Variable Player Powers
+  - Asymmetric
+  - Hand Management
+  - Variable Setup
+  - Fantasy
+  - Euro
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Powerful
+  - Rivalry
+  - Tension
+  - Unique
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Trey Chambers
+publisher:
+  - Level 99 Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Argent: The Consortium is a cutthroat worker-placement game set in a magical
+  university where players are archmages competing to become Chancellor. The
+  twelve members of the Consortium will each vote for the candidate best matching
+  their secret criteria — and those criteria are hidden from players at game start,
+  revealed only as the game progresses. Workers (mages) are placed on action spaces
+  to gather resources and cast spells, but opponents can blast your mages off the
+  board or relocate them with powerful spell effects. This creates intense direct
+  conflict unusual for the worker-placement genre. The combination of secret victory
+  conditions, asymmetric player powers, and aggressive spell-casting makes every
+  session play differently, rewarding both planning ahead and reactive
+  counter-play.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

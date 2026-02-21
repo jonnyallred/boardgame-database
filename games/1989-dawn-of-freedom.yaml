@@ -1,0 +1,74 @@
+id: 1989-dawn-of-freedom
+name: "1989: Dawn of Freedom"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (2-3 hours)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Area Control
+  - Hand Management
+  - Events
+  - Historical
+  - Wargame
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Discovery
+  - Powerful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Ted Torgerson
+  - Jason Matthews
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 150
+min_playtime: 120
+max_playtime: 180
+min_age: 14
+
+# Description
+description: |
+  1989: Dawn of Freedom is a two-player card-driven game simulating the
+  revolutionary wave that swept Eastern Europe in 1989, toppling communist
+  regimes across Poland, Hungary, East Germany, Czechoslovakia, Romania, and
+  Bulgaria. One player controls the Communist governments attempting to maintain
+  power, the other the Pro-Democracy movements fighting for freedom.
+
+  Co-designed by Jason Matthews (Twilight Struggle), the game uses the same
+  card-driven engine: players choose to use a card's Ops points to place
+  influence or trigger its historical event. Victory is determined by a scoring
+  system that measures how much democracy has spread across each country. The
+  game is renowned for its deep historical fidelity, capturing the unique
+  character of each nation's revolution, and its tight, tense two-player
+  dynamic. Published by GMT Games and considered a landmark in the political
+  card-driven wargame genre.
+
+# Upgrades
+upgrades: []

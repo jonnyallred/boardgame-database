@@ -1,0 +1,65 @@
+id: eight-minute-empire-legends
+name: "Eight-Minute Empire: Legends"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: eight-minute-empire
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Card Drafting
+  - Set Collection
+  - Modular Board
+  - Variable Player Powers
+  - Euro
+  - Fantasy
+  - Red Raven Games
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Ryan Laukat
+publisher:
+  - Red Raven Games
+artist:
+  - Ryan Laukat
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 13
+
+description: |
+  Eight-Minute Empire: Legends is a standalone sequel to Eight-Minute Empire that does not require
+  the original game. Set in a fantasy world, players compete to build empires across a configuration
+  of fantasy islands by drafting action cards and strategically placing armies and cities.
+  Cards offer a good or an action (move armies, recruit armies, place cities, take resources, or
+  use special powers), and at game end players score for area control across continents and
+  sets of collected resource icons. Variable player powers from randomly assigned character cards
+  differentiate each player's strategy. The Lost Lands expansion increases the player count to
+  six. Like its predecessor, Legends packs surprising strategic depth into a very short playing
+  time, making it an excellent gateway game or quick competitive filler.
+
+upgrades: []

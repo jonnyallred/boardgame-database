@@ -1,0 +1,83 @@
+id: battlelore
+name: "BattleLore"
+alternate_names:
+  - "BattleLore: Base Set"
+year: 2006
+
+# Relationships
+game_family: battlelore
+edition: first
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~75 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 2  # Tactics
+feel: 4  # Fierce
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Hand Management
+  - Area Control
+  - Modular Board
+  - Variable Setup
+  - Fantasy
+  - Historical
+  - Medieval
+  - War
+  - Wargame
+  - Days of Wonder
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Powerful
+  - Clever
+  - Rivalry
+  - Agency
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Richard Borg
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 75
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  BattleLore is a two-player tactical miniatures wargame set at the dawn of
+  the Hundred Years War, where medieval history intersects with high fantasy.
+  Built on Richard Borg's Commands & Colors system — also used in Battle Cry and
+  Memoir '44 — BattleLore features a hex grid divided into three sections (left,
+  center, right flanks) where Command cards activate units in specific sectors.
+  Battle dice with symbol-faces determine combat outcomes. The game's signature
+  addition to the C&C system is the Lore Council mechanic, introducing magical
+  units — goblins, dwarves, and elemental creatures — plus a council of advisors
+  providing unique magical powers. Debuting at Essen 2006, BattleLore won
+  widespread acclaim and spawned numerous expansion packs before Fantasy Flight
+  Games released a redesigned second edition in 2013.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

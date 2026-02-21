@@ -1,0 +1,65 @@
+id: fief-france-1429
+name: "Fief: France 1429"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Negotiation
+  - Dice Rolling
+  - Trading
+  - Asymmetric
+  - Ameritrash
+  - Historical
+  - Medieval
+  - War
+
+evokes:
+  - Rivalry
+  - Persuasion
+  - Tension
+  - Powerful
+  - Agency
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Philippe Mouchebeuf
+publisher:
+  - Academy Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Fief: France 1429 is a dynastic strategy game set in 15th century France where players assume
+  the roles of noble families competing for power. Players vie for control of fiefs and bishoprics
+  across the realm, acquiring royal and ecclesiastical titles that grant influence to elect the
+  next King and Pope. The game combines territorial control through military battles with
+  diplomatic negotiation, marriage alliances between noble families, and shrewd political
+  maneuvering. Treachery runs deep — players can arrange assassinations, excommunications, and
+  betrayals to undermine rivals. Coalition-building is essential, but alliances shift constantly
+  as the balance of power changes. The rich political simulation, with its medieval power
+  struggles and dynastic ambitions, creates emergent storytelling unlike most other games.
+
+upgrades: []

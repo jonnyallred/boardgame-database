@@ -1,0 +1,81 @@
+id: amun-re
+name: "Amun-Re"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~90 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Auctions/Bidding
+  - Set Collection
+  - Area Control
+  - Resource Management
+  - Economic
+  - Euro
+  - Ancient
+  - Reiner Knizia
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Progress
+
+# Player counts
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Reiner Knizia
+publisher:
+  - Hans im Glück
+  - Rio Grande Games
+artist:
+  - Doris Matthäus
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Amun-Re transports three to five players to ancient Egypt, where they compete
+  as rulers of great dynasties vying to build the most powerful civilization
+  along the Nile. Each game spans two eras — Old Kingdom and New Kingdom — each
+  consisting of three rounds of province auctions, resource purchases, and
+  pyramid construction. Bidding for provinces uses triangular number pricing,
+  creating a distinctive pressure curve that forces players to carefully balance
+  expansion against treasury management. After each era, players publicly
+  sacrifice gold to Amun-Re with the promise that generosity will be rewarded,
+  though the deity's judgment is collective. Scoring rewards both pyramid counts
+  and wealth at the midpoint and game's end, making both short-term income and
+  long-term monument building equally viable paths. Winner of the 2003
+  Deutscher Spiele Preis.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

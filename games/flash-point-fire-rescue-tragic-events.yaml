@@ -1,0 +1,59 @@
+id: flash-point-fire-rescue-tragic-events
+name: "Flash Point: Fire Rescue - Tragic Events"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: flash-point
+edition: null
+base_game: flash-point-fire-rescue
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Events
+  - Variable Setup
+  - Modular Board
+
+evokes:
+  - Tension
+  - Dread
+  - Connection
+  - Agency
+  - Unique
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Kevin Lanzing
+publisher:
+  - Indie Boards and Cards
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Flash Point: Fire Rescue - Tragic Events is an expansion for the cooperative firefighting game
+  Flash Point: Fire Rescue. It introduces a deck of 42 unique event cards that replace the Hot
+  Spot mechanic from the Experienced game rules, adding unpredictable complications and dramatic
+  moments to each rescue mission. Special Points of Interest — eight unique locations with
+  extraordinary challenges — further vary scenarios. The expansion also adds three new specialist
+  miniatures: the Strategist, Suppression Specialist, and Fire Prevention Specialist, each with
+  unique abilities that expand team-building options. The event cards ensure no two games play
+  the same way, dramatically extending the replayability of the base game.
+
+upgrades: []

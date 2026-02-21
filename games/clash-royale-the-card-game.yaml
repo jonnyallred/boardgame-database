@@ -1,0 +1,60 @@
+id: clash-royale-the-card-game
+name: "Clash Royale: The Card Game"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Card Drafting
+  - Hand Management
+  - Take That
+  - Fantasy
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Lucky
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Clash Royale: The Card Game is the physical tabletop adaptation of Supercell's hit mobile
+  strategy game, published by Ravensburger in 2019. Players build decks of character and spell
+  cards from the Clash Royale universe and battle head-to-head to destroy each other's towers.
+  The game captures the lane-based push-and-pull of the mobile game, with cards representing
+  troops deployed to attack opponent towers while simultaneously defending your own. Elixir
+  management (the resource from the video game) translates into a card hand management system.
+  The familiar cast of characters — Giants, Goblins, Princes, and other iconic Clash Royale
+  fighters — brings the mobile game's strategic card-battle feel to the tabletop in a fast,
+  accessible two-player format.
+
+upgrades: []

@@ -1,0 +1,61 @@
+id: dinosaurus
+name: "Dinosaurus"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Abstract
+  - Family
+  - Animals
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Christwart Conrad
+publisher:
+  - HUCH!
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Dinosaurus is a fast, luck-free abstract strategy game by Christwart Conrad set in the
+  primordial Pangea. A 4x4 grid of terrain cards is laid out, and players take turns placing
+  their dinosaur pieces — herbivores, carnivores, and flying dinosaurs of different sizes —
+  at the edges of the square. Different dinosaur types have different placement rules and
+  competing behaviors that create dynamic territorial control. Players compete to reign over
+  Pangea by positioning their dinosaur species advantageously on the terrain grid. The game's
+  abstract nature and simple placement rules make it accessible as a family game while offering
+  enough strategic depth for repeated play. Published by German publisher HUCH!, known for
+  family and party games.
+
+upgrades: []

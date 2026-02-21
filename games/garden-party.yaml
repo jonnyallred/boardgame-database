@@ -1,0 +1,56 @@
+id: garden-party
+name: "Garden Party"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Take That
+  - Family
+  - Nature
+
+evokes:
+  - Creative
+  - Rivalry
+  - Humor
+  - Clever
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Garden Party is a family board game where players compete to create the most beautiful garden
+  to win a gardening contest. Players grow their garden, sometimes with the help of magical tools,
+  but also trick, steal, or trap their opponents to gain advantage. The competitive gardening
+  theme combines set collection and garden-building elements with player interaction through
+  card play. Players must balance developing their own garden with interfering with rivals
+  to ensure their garden is judged the finest at game end.
+
+upgrades: []

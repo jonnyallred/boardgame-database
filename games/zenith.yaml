@@ -1,0 +1,72 @@
+id: zenith
+name: "Zenith"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (25-35 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Hand Management
+  - Modular Board
+  - Tech Tree
+  - Sci-Fi
+  - Space
+  - Euro
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+  - Powerful
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Grégory Grard
+  - Mathieu Roussel
+publisher:
+  - PlayPunk
+artist: []
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 35
+min_age: 10
+
+# Description
+description: |
+  Zenith is a streamlined area control game set in a future solar system where
+  three races — Humans, Robots, and Animods — compete for control of planets
+  powered by the clean energy source Zenithium. Players place influence discs
+  and advance along tech tracks to unlock abilities, racing toward one of three
+  victory conditions: Absolute (3 discs on one planet), Democratic (4 discs on
+  different planets), or Popular (5 discs on any planets).
+
+  The modular board and variable tech tree paths ensure each game plays
+  differently. Zenith shines as a tug-of-war at two players but scales to four.
+  The game received a Kennerspiel des Jahres 2025 recognition for its elegant
+  combination of accessible rules and meaningful strategic decisions.
+
+# Upgrades
+upgrades: []

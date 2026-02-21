@@ -1,0 +1,68 @@
+id: black-angel
+name: "Black Angel"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dice Rolling
+  - Hand Management
+  - Tile Placement
+  - Resource Management
+  - Variable Player Powers
+  - Euro
+  - Sci-Fi
+  - Space
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Agency
+  - Clever
+  - Progress
+  - Tension
+  - Powerful
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Sébastien Dujardin
+  - Xavier Georges
+  - Alain Orban
+publisher:
+  - Pearl Games
+artist:
+  - Ian O'Toole
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  Black Angel is a complex strategy game set in a distant future where players control artificial intelligences aboard the Black Angel generation ship, tasked with guiding humanity to a new home. Players manage robots deployed across the ship's sections, using dice rolled each round to determine which actions are available. The color and value of each die determine what can be done and how powerfully — creating a rich action-selection puzzle each turn.
+
+  The game features a gorgeous spatial mechanic where the space exploration board advances over time, tiles flowing from back to front as the ship progresses through the cosmos. Players explore new star systems, encounter alien species that offer technological benefits, and must fend off the relentless Ravager enemies threatening the mission. Points are scored through exploration, alien alliances, and completing mission objectives, with multiple strategic paths rewarding different playstyles. Ian O'Toole's distinctive artwork gives the game a striking visual identity. Black Angel rewards careful planning and offers substantial depth across its 1-4 player modes, including a well-regarded solo mode.
+
+# Upgrades
+upgrades: []

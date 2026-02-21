@@ -1,0 +1,81 @@
+id: atlantis-rising
+name: "Atlantis Rising"
+alternate_names:
+  - "Atlantis Rising (Second Edition)"
+year: 2019
+
+# Relationships
+game_family: atlantis-rising
+edition: second
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (fully cooperative)
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Worker Placement
+  - Press Your Luck
+  - Dice Rolling
+  - Modular Board
+  - Fantasy
+  - Mythology
+  - Variable Player Powers
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Dread
+  - Connection
+  - Agency
+  - Progress
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6, 7]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Galen Ciscell
+  - Brent Dickman
+publisher:
+  - Elf Creek Games
+artist:
+  - Kwanchai Moriya
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Atlantis Rising (Second Edition) is a fully cooperative worker placement game
+  in which 1-7 players take on the roles of the leaders of a doomed island civilization.
+  Atlantis is sinking, and the heroes must gather resources to construct a magical
+  cosmic gate before the island is completely submerged.
+
+  Each round, players deploy their citizen workers across the island to gather
+  resources, but the further workers are placed toward the shore, the greater the
+  risk — dice determine whether workers at vulnerable locations are swallowed by
+  the floodwaters. The Wrath of the Gods phase each round floods a set number of
+  tiles, shrinking the available board and adding urgency.
+
+  Players control one of several Councilor roles, each with unique powers, and must
+  cooperatively decide how to allocate limited resources toward gate components.
+  The second edition revised and expanded the Councilor powers, updated the narrative
+  structure, and improved component quality. Atlantis Rising is praised for its
+  thematic tension and high player counts for cooperative play.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,64 @@
+id: elasund-the-first-city
+name: "Elasund: The First City"
+alternate_names:
+  - Elasund: The First City of Catan
+year: 2005
+
+# Relationships
+game_family: catan-adventures
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Dice Rolling
+  - Area Control
+  - Euro
+  - Medieval
+  - Klaus Teuber
+
+evokes:
+  - Progress
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Kosmos
+  - Mayfair Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Elasund: The First City is the second game in Klaus Teuber's Catan Adventures series, depicting
+  the history of the island of Catan before Settlers arrives. Players build the first city of
+  Elasund by placing building tiles on a city grid, competing for valuable locations. A Settlers
+  of Catan-style resource roll at the start of each turn produces goods from established buildings,
+  and a "7" roll triggers negative effects. Resources are spent constructing various buildings —
+  homes, churches, guildhalls, and windmills — each contributing different point values or
+  powers. Like Settlers, control of the longest road and largest church equivalents grants
+  bonus points. While sharing Catan DNA, Elasund features tile-placement city-building
+  distinctly its own, rewarding aggressive construction and positioning over pure trading.
+
+upgrades: []

@@ -1,0 +1,77 @@
+id: amul
+name: "Amul"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Set Collection
+  - Hand Management
+  - Simultaneous Action
+  - Historical
+  - Euro
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Remo Conzadori
+  - Stefano Negro
+publisher:
+  - Lautapelit.fi
+  - Stronghold Games
+artist:
+  - Giorgio De Michele
+playtime_minutes: 35
+min_playtime: 25
+max_playtime: 45
+min_age: 10
+
+# Description
+description: |
+  Amul is a card game of bustling bazaars for 2-8 aspiring merchants on the Silk Road.
+  Players take on the role of merchants attempting to collect valuable sets of goods,
+  hire guards, assemble caravans, and complete contracts by drafting from a central
+  market.
+
+  Each round, players simultaneously choose one card from their hand and place it
+  face-down into the shared market. Then, in turn order, players each pick one card
+  from the market — meaning your card choice influences what options others will
+  have while also securing what you need. Over nine rounds, players build up sets
+  of goods and fulfill contracts to earn Prestige points.
+
+  Amul plays quickly and scales well to larger groups, making it a strong choice
+  for casual game nights. Its simultaneous card-selection mechanism creates a layer
+  of bluffing and reading opponents while keeping downtime low.
+
+# Upgrades
+upgrades: []

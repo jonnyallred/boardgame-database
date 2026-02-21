@@ -1,0 +1,75 @@
+id: 13-days-the-cuban-missile-crisis
+name: "13 Days: The Cuban Missile Crisis"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Area Control
+  - Hand Management
+  - Bluffing
+  - Historical
+  - Wargame
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Rivalry
+  - Dread
+  - Agency
+  - Clever
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Asger Harding Granerud
+  - Daniel Skjold Pedersen
+publisher:
+  - Jolly Roger Games
+  - Ultra Pro
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+# Description
+description: |
+  13 Days: The Cuban Missile Crisis is a tense two-player card-driven game
+  condensing the geopolitical brinkmanship of the 1962 crisis into approximately
+  45 minutes. One player takes the role of Kennedy, the other Khrushchev, and
+  both players play through three rounds of escalating tension.
+
+  Using a card-driven mechanism inspired by Twilight Struggle, players choose
+  whether to use a card's command value (placing influence cubes in contested
+  areas) or trigger its historical event. If you play a card belonging to your
+  opponent's faction, they get the event while you use the command value. At
+  the end of each round, areas are scored for Prestige — but if either side
+  triggers DefCon 1, they lose immediately, perfectly capturing the mutual
+  destruction dynamic. Often described as "Twilight Struggle in 45 minutes,"
+  it is praised as one of the best two-player games for its strategic depth
+  relative to its compact runtime.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,63 @@
+id: chai
+name: "Chai"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Resource Management
+  - Euro
+  - Food Theme
+  - Family
+
+evokes:
+  - Creative
+  - Progress
+  - Connection
+  - Complete
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Dan Kazmaier
+  - Connie Kazmaier
+publisher:
+  - Steeped Games
+artist: []
+playtime_minutes: 40
+min_playtime: 20
+max_playtime: 60
+min_age: 8
+
+description: |
+  Chai is a tea-themed set collection game where players step into the shoes of tea merchants
+  blending the perfect cup. Players specialize in one of five tea types — rooibos, green, oolong,
+  black, or white — and purchase ingredients to fulfill customer orders. On each turn, players
+  either visit the market to receive a gold coin and select flavor tiles, or collect additives
+  like milk, sugar, honey, vanilla, and spices needed to complete most orders. Fulfilling customer
+  orders earns victory points, with more complex orders yielding higher rewards. The game's
+  relaxed pace and beautiful artwork create a cozy atmosphere perfectly suited to its theme.
+  A successful Kickstarter campaign raised over $110,000 and the game found a warm global
+  audience among casual gamers who appreciate its immersive tea culture theme.
+
+upgrades: []

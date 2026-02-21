@@ -1,0 +1,65 @@
+id: doom-the-boardgame
+name: "Doom: The Boardgame"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Modular Board
+  - Dice Rolling
+  - Variable Player Powers
+  - Dungeon Crawler
+  - Ameritrash
+  - Sci-Fi
+  - Fantasy Flight Games
+
+evokes:
+  - Tension
+  - Dread
+  - Rivalry
+  - Powerful
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Kevin Wilson
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Doom: The Boardgame translates the iconic first-person shooter into a 2-4 player dungeon
+  crawl experience. One player controls the demonic Invaders while one to three other players
+  each command a space marine. Marines must reach the exit to win, while the Invader player
+  earns frags by killing marines — the first to six frags wins for the Invader team. Modular
+  map tiles create varied dungeon layouts across multiple included scenarios. Marine players
+  choose from different character classes with unique weapons and health values, while the
+  Invader commands imps, demons, and cacodemons from the classic game. Custom dice determine
+  combat outcomes, and the marines must manage limited ammunition carefully. Released in 2004,
+  it was the top-selling board game of that year, praised for faithfully capturing the
+  pulse-pounding chaos of the video game.
+
+upgrades: []

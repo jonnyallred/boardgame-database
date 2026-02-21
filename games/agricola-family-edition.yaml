@@ -1,0 +1,78 @@
+id: agricola-family-edition
+name: "Agricola: Family Edition"
+year: 2016
+
+# Relationships
+game_family: agricola
+edition: family
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Resource Management
+  - Agriculture
+  - Euro
+  - Family
+  - Gateway
+  - Uwe Rosenberg
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Agency
+  - Complete
+  - Clever
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Lookout Games
+  - Z-Man Games
+artist:
+  - Andrea Boekhoff
+  - Klemens Franz
+playtime_minutes: 45
+min_playtime: 25
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Agricola: Family Edition is an accessible, streamlined version of Uwe Rosenberg's
+  acclaimed worker placement game Agricola, designed to introduce younger players and
+  casual gamers to the joys of farming in 17th-century Europe.
+
+  Players take on the roles of farmers who must feed their family while expanding
+  their homestead: plowing fields, sowing crops, raising livestock, and building
+  rooms on their farmhouse. Each round, workers are placed on action spaces to claim
+  resources and improvements, but space is limited and competition for the best
+  actions is real.
+
+  Compared to the full Agricola, the Family Edition removes the hand of cards,
+  simplified the food requirements, and streamlines the scoring. The result is a
+  45-minute game suitable for families and new gamers that still captures the
+  satisfying tension of the original. It serves as an ideal gateway into the broader
+  Agricola universe.
+
+# Upgrades
+upgrades: []

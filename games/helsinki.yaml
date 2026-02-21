@@ -1,0 +1,64 @@
+id: helsinki
+name: "Helsinki"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Card Drafting
+  - Pattern Building
+  - Euro
+  - Family
+  - Gateway
+  - City Building
+
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Tension
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Asger Harding Granerud
+  - Daniel Skjold Pedersen
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 50
+min_playtime: 40
+max_playtime: 60
+min_age: 10
+
+description: |
+  Helsinki is a tile-placement and open drafting game inspired by Copenhagen, set in the famous
+  Senate Square of the Finnish capital. Players design pavilions across the historic square to
+  protect pedestrians from rain by covering the space beneath their awnings. On each turn, players
+  may draw cards into their hand (respecting a seven-card hand limit) or play cards to place
+  pavilion tiles. The hand limit creates a key tension: drawing too many cards restricts options
+  while playing too few leaves valuable tiles unclaimed. The grid coverage mechanic rewards
+  efficient spatial planning as players compete to fill their boards with matching pavilion shapes.
+  A reimagining of Copenhagen with a fresh Finnish setting and refined mechanics, Helsinki offers
+  accessible family-weight Euro gameplay.
+
+upgrades: []

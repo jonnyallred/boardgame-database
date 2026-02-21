@@ -1,0 +1,81 @@
+id: archipelago
+name: "Archipelago"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Feast (~3 hr)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Resource Management
+  - Negotiation
+  - Modular Board
+  - Variable Player Powers
+  - Cooperative
+  - Traitor
+  - Euro
+  - Historical
+  - Maritime
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Agency
+  - Discovery
+  - Persuasion
+  - Rivalry
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Christophe Boelinger
+publisher:
+  - Ludically
+artist:
+  - Alexandre Roche
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  Archipelago sets two to five players as rival European colonial powers exploring
+  and developing a newly discovered island chain during the Age of Discovery. The
+  modular board is built tile by tile as players explore, revealing new resources
+  and opportunities. Gameplay blends resource management, area control, and worker
+  placement as players build cities, harvest goods, and compete for dominance of
+  each island. The semi-cooperative twist is a shared unrest track: if the native
+  population revolts before the game ends, everyone loses, forcing players to
+  collaborate on keeping social stability even as they compete individually. One
+  player secretly holds a Separatist role and may actually want the rebellion to
+  succeed. Secret individual objectives ensure that the victory conditions vary
+  each game, making negotiation and reading opponents essential skills.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

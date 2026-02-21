@@ -1,0 +1,80 @@
+id: arkadia
+name: "Arkadia"
+alternate_names:
+  - "Die Baumeister von Arkadia"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~75 min)
+rules_complexity: 2  # Junior High
+strategic_depth: 2  # Tactics
+feel: 3  # Polite
+value: 2  # Fair Deal
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Tile Placement
+  - Area Control
+  - Hand Management
+  - Set Collection
+  - Euro
+  - Medieval
+  - City Building
+  - Michael Kiesling
+  - Wolfgang Kramer
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Rüdiger Dorn
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+# Description
+description: |
+  Arkadia challenges two to four players as builders competing to erect houses
+  in a medieval city surrounding a central castle. Players hold cards in hand
+  and play them to claim building lots and place workers, constructing houses
+  that bear the seal of one of four noble families. The castle under construction
+  is central to scoring: as players complete houses adjacent to it, the castle
+  grows outward, adding new seal icons that change the relative values of each
+  family's seal. Seals can be converted into victory points at any time, but their
+  worth fluctuates constantly as the castle expands. When the second layer of the
+  castle is completed, the final round begins. Nominated for the 2007 Spiel des
+  Jahres, Arkadia rewards players who can read the evolving seal values and time
+  their conversions optimally.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,71 @@
+id: evenfall
+name: "Evenfall"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Card Drafting
+  - Engine Building
+  - Resource Management
+  - Euro
+  - Fantasy
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+# Metadata
+designer:
+  - Thomas Dupont
+  - Florian Fay
+publisher:
+  - Smash Up Studio
+artist:
+  - Various
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Evenfall is a worker placement and engine building game published in 2023 with a dark
+  fantasy aesthetic. Players are clan leaders of witches competing to gather magical
+  resources, master spells, and control locations across a mystical world at the edge of
+  dusk. Workers are sent to various locations to collect moon dust and other resources,
+  hire powerful witches with unique abilities, and unlock spells that generate ongoing
+  benefits. The game features a card-driven spell system where players build engines
+  from their gathered witches and spells, creating powerful combination chains. End-game
+  scoring rewards players who optimized their spell networks and controlled key locations.
+  Evenfall is praised for its striking visual design, streamlined worker placement rules,
+  and satisfying engine-building arc across its runtime.
+
+# Upgrades
+upgrades: []

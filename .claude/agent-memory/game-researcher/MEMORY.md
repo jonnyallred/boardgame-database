@@ -104,3 +104,36 @@
 - slug: summoner-wars-second-edition; game_family: summoner-wars; edition: second
 - Designer: Colby Dauch; Publisher: Plaid Hat Games; year: 2021
 - Plaid Hat Games IS a valid schema publisher tag
+
+## Game Family Slugs for Common Series
+- COIN Series (GMT Games): game_family: coin-series
+- Axis & Allies variants: game_family: axis-and-allies
+- BattleLore editions: game_family: battlelore
+- Arkham Horror editions: game_family: arkham-horror
+- Antike games: game_family: antike
+- 51st State editions: game_family: 51st-state
+- Bang! games: game_family: bang
+
+## Batch Research Efficiency (50 games)
+- WebSearch 2-3 queries per batch of 3 games is sufficient for all data
+- Do NOT run the pipeline for simple lookups — WebSearch + direct Write is faster
+- For 50 games: ~20 WebSearch calls + 48 Write calls = ~70 total tool calls
+- Pipeline only needed when Wikipedia/reviewer descriptions are insufficient
+
+## Valid Tags Confirmed: Agriculture and Animals
+- "Agriculture" is NOT a valid category tag — omit entirely (use Nature for farming)
+- "Animals" IS listed in the system prompt as a valid theme tag — confirmed valid
+- "Pirates" IS valid (maritime theme)
+- "Dudes on a Map" IS valid (wargame style)
+
+## Notable Additional Publishers NOT in Schema
+- Level 99 Games (Argent: The Consortium, BattleCON) — no publisher tag
+- Tropical Games (Age of Empires III board game) — no publisher tag
+- Treefrog Games (Martin Wallace games) — no publisher tag
+- Academy Games (1812: The Invasion of Canada) — no publisher tag
+- Pandasaurus Games (Brew, Dinosaur Island) — no publisher tag
+- Vesuvius Media (Catapult Feud) — no publisher tag
+- Alley Cat Games (Arborea) — no publisher tag
+- Mighty Boards (Art Society) — no publisher tag
+- Ludically (Archipelago) — no publisher tag
+- dlp games (Boonlake German edition) — no publisher tag

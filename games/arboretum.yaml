@@ -1,0 +1,79 @@
+id: arboretum
+name: "Arboretum"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (25 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Tile Placement
+  - Drafting
+  - Pattern Building
+  - Nature
+  - Family
+  - Renegade Game Studios
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Dan Cassar
+publisher:
+  - Z-Man Games
+  - Renegade Game Studios
+artist:
+  - Beth Sobel
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  Arboretum is a tense hand management and card placement game for 2-4 players in
+  which players compete to cultivate the most beautiful garden paths through their
+  arboretum. Each turn a player draws two cards, plays one to their garden grid,
+  and discards one — but the discarded cards go face-up where opponents can take
+  them.
+
+  The scoring is deliciously cutthroat: to count the points in a path of a given
+  tree species, you must have the highest-valued cards of that species in hand at
+  game's end. This creates a core tension — the cards you play to build your paths
+  are cards you no longer hold, and holding cards means fewer plays. Meanwhile,
+  discarding valuable cards feeds opponents while keeping them out of your hand.
+
+  Arboretum's small footprint, quick play, and elegant artwork by Beth Sobel have
+  made it a beloved filler, particularly strong at two players where the hand
+  management decisions hit hardest. It rewards careful attention to what opponents
+  are collecting.
+
+# Upgrades
+upgrades: []

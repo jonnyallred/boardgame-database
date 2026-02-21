@@ -1,0 +1,77 @@
+id: automobile
+name: "Automobile"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Main Course (~120 min)
+rules_complexity: 3  # College
+strategic_depth: 3  # Strategy
+feel: 3  # Polite
+value: 3  # Splurge
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Economic
+  - Resource Management
+  - Variable Player Powers
+  - Action Points
+  - Historical
+  - Euro
+  - Martin Wallace
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Progress
+  - Agency
+  - Rivalry
+
+# Player counts
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Martin Wallace
+publisher:
+  - Treefrog Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 13
+
+# Description
+description: |
+  Automobile takes three to five players into the cutthroat early American auto
+  industry, spanning the period from the 1893 Duryea through the rise of mass
+  production. Each of four turns represents a decade, with players purchasing
+  factories that produce low-, medium-, or high-end vehicles and funding
+  distributors across the country to move their stock. The game's central
+  challenge is managing supply against demand: every car produced that goes
+  unsold drives a factory into bankruptcy, while underfunding distributors
+  collapses their operations. Historical special-action spaces grant one-turn
+  abilities tied to real figures like Ford, Durant, and Kettering. Each copy of
+  the original Treefrog Line edition was signed and numbered by Wallace, released
+  in a limited run of 1500 copies with all-wooden components.
+
+# Upgrades
+upgrades: []
+
+# Play tracking
+plays_tracked:
+  total_plays: 0
+  configs: []

@@ -1,0 +1,63 @@
+id: gravwell-escape-from-the-9th-dimension
+name: "Gravwell: Escape from the 9th Dimension"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Racing
+  - Simultaneous Action
+  - Programmed Movement
+  - Sci-Fi
+  - Space
+  - Renegade Game Studios
+
+evokes:
+  - Clever
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Chad Jensen
+publisher:
+  - Renegade Game Studios
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Gravwell: Escape from the 9th Dimension is a racing game where players pilot space vessels
+  trapped within a Singularity, racing to escape through a Warp Gate. Each round players
+  draft fuel cards from piles where only the top card is visible, then simultaneously reveal
+  and resolve their chosen cards in alphabetical order. Most cards move your ship toward the
+  nearest object — which could be another player's ship or the starting zone — making movement
+  wonderfully chaotic and unpredictable. The nearest ship can change by the time your card
+  resolves due to prior moves in the same round. One emergency stop card per round adds a
+  last-ditch tactical option. The clever gravity-based movement system creates hilarious
+  moments where players inadvertently drag each other backward or catapult opponents forward.
+
+upgrades: []
