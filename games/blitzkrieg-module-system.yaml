@@ -1,0 +1,55 @@
+id: blitzkrieg-module-system
+name: "Blitzkrieg Module System"
+alternate_names: []
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: blitzkrieg
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+  - Progress
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 720
+min_playtime: 480
+max_playtime: 1440
+min_age: 16
+
+description: |
+  The Blitzkrieg Module System is a series of 18 expansion modules published by SPI
+  in 1969 designed to augment Avalon Hill's original Blitzkrieg (1965) game. A unique
+  publishing arrangement — one company expanding another's game — the modules added
+  systems for navies, railways, production, weather, guerillas, artillery, minor country
+  armies, and more, each optional so players could choose their desired complexity level.
+  Players still needed the base Blitzkrieg game to use SPI's components, creating an
+  unprecedented cross-publisher collaborative expansion.
+
+upgrades: []

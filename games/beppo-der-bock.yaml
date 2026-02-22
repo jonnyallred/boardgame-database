@@ -1,0 +1,56 @@
+id: beppo-der-bock
+name: "Beppo der Bock"
+alternate_names:
+  - "Beppo the Billy Goat"
+  - "Beppo"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Beppo der Bock is a magnetic dexterity children's game published by Huch! and Friends
+  in 2007, winner of the Kinderspiel des Jahres (Children's Game of the Year) award.
+  Players chase a wooden billy goat figure across the board using a magnetic launcher
+  that sends a small steel ball rolling toward Beppo; when the ball hits the goat,
+  Beppo kicks other players' pawns backward. Skill, magnet angle, and ball speed all
+  affect where Beppo lands, making each kick delightfully unpredictable. The game
+  blends dexterity mechanics with movement strategy in an engaging package for young players.
+
+upgrades: []

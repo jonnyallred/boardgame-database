@@ -1,0 +1,53 @@
+id: catan-portable-edition
+name: "Catan: Portable Edition"
+alternate_names: ["Catan: Traveler", "CATAN Traveler Compact Edition"]
+year: 2002
+
+# Relationships
+game_family: catan
+edition: portable
+base_game: catan
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Network Building
+  - Trading
+  - Family
+  - Klaus Teuber
+
+evokes:
+  - Agency
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Catan GmbH
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Catan: Portable Edition (later updated as Catan Traveler - Compact Edition) is a travel-sized version of the classic Settlers of Catan published by Mayfair Games in 2002. The game provides the full Catan experience at half the physical size, with snap-in components that lock to the board during play to prevent shifting during transport. It also includes a tested two-player variant, making it unique among Catan editions. Ideal for gaming on the go while preserving all the standard rules for resource collection, trading, and settlement building.
+
+upgrades: []

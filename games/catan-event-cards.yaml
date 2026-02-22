@@ -1,0 +1,51 @@
+id: catan-event-cards
+name: "Catan: Event Cards"
+alternate_names: ["Settlers of Catan Event Cards"]
+year: 2006
+
+# Relationships
+game_family: catan
+edition: null
+base_game: catan
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Events
+  - Klaus Teuber
+
+evokes:
+  - Agency
+  - Lucky
+  - Progress
+  - Rivalry
+  - Tension
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Catan: Event Cards is a 2006 expansion for Settlers of Catan that replaces the standard two dice with a deck of 37 event cards. Each card produces a numbered resource result like the dice would, but also triggers special events such as Plentiful Year (each player takes a free resource), Conflict (the Largest Army holder steals from all players), Robber Flees, or Earthquake (roads are damaged). The expansion reduces the pure randomness of dice rolling and adds memorable narrative moments to the standard Catan game. Compatible with Cities and Knights for additional event effects.
+
+upgrades: []

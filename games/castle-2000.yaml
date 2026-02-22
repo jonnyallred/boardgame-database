@@ -1,0 +1,52 @@
+id: castle-2000
+name: "Castle"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Medieval
+  - Family
+  - Abstract
+
+evokes:
+  - Agency
+  - Clever
+  - Complete
+  - Progress
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Castle is a 2000 board game with a medieval castle theme, in which players build or compete within a castle environment using tile placement or movement mechanics. Limited publisher and designer information is available for this title, which may refer to one of several games sharing the name.
+
+upgrades: []

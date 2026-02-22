@@ -1,0 +1,51 @@
+id: catan-junior-madagascar
+name: "Catan Junior Madagascar"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: catan
+edition: madagascar
+base_game: catan-junior
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Resource Management
+  - Network Building
+
+evokes:
+  - Connection
+  - Discovery
+  - Lucky
+  - Progress
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Catan GmbH
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 5
+
+description: |
+  Catan Junior Madagascar is a licensed themed edition of Catan Junior published in 2012 in partnership with DreamWorks' Madagascar 3. The core mechanics of the standard Catan Junior game — collecting resources, building circus tents and wagons along the Madagascar island board, and trading with the Penguins — are preserved, while the pirate theme is replaced with beloved characters from the animated film including Alex, Gloria, Marty, and Melman. It serves as an accessible introduction to the Settlers of Catan family of games for young children.
+
+upgrades: []

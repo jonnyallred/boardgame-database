@@ -1,0 +1,54 @@
+id: bosworth
+name: "Bosworth"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Variable Player Powers
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Bosworth is a multi-player chess variant manufactured by Out of the Box Publishing
+  since 1998, played on a 6x6 board using four sets of standard chess pieces. It
+  accommodates two to four players with pieces moving according to standard chess rules
+  (with minor modifications), but unlike chess there is no checkmate — kings can be
+  captured, and the last player with a surviving king wins. The four-player free-for-all
+  chess format creates multi-player diplomacy and shifting alliances absent from
+  the two-player original.
+
+upgrades: []

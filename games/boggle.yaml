@@ -1,0 +1,57 @@
+id: boggle
+name: "Boggle"
+alternate_names:
+  - "Find-A-Word"
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Word Play
+  - Family
+  - Party
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Lucky
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 8
+
+description: |
+  Boggle is a classic timed word game invented by Allan Turoff and published by Parker
+  Brothers in 1972 (originally pitched as "Find-A-Word" in 1970). Players shake 16
+  lettered dice into a 4x4 grid, then race to find as many words as possible within
+  a set time limit by connecting adjacent letters. Longer words score more points, and
+  words found by multiple players cancel each other out, rewarding those who find the
+  most obscure words. Boggle's combination of luck in the dice roll and skill in
+  vocabulary has made it an enduring family classic.
+
+upgrades: []

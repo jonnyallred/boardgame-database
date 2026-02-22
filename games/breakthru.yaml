@@ -1,0 +1,51 @@
+id: breakthru
+name: "Breakthru"
+alternate_names: []
+year: 1965
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Asymmetric
+  - Variable Player Powers
+
+evokes:
+  - Agency
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Alex Randolph
+publisher:
+  - 3M
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Breakthru is an asymmetric abstract strategy game designed by Alex Randolph and published by 3M in 1965 as part of the 3M Bookshelf Games series. One player commands a gold fleet of one flagship and twelve escorts whose goal is to move the flagship to the edge of the 11x11 board, while the opponent controls twenty silver ships trying to capture the flagship. The asymmetric objectives and piece counts make Breakthru a rich tactical puzzle reminiscent of the ancient Norse game Hnefatafl.
+
+upgrades: []

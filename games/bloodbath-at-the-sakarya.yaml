@@ -1,0 +1,57 @@
+id: bloodbath-at-the-sakarya
+name: "Bloodbath at the Sakarya"
+alternate_names:
+  - "Bloodbath at the Sakarya, August, 1921"
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Dread
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Bloodbath at the Sakarya is a DTP wargame simulating the pivotal August 1921 Battle
+  of Sakarya during the Turkish War of Independence, when a Greek offensive toward Ankara
+  was finally halted by Turkish nationalist forces defending the hills across the Sakarya
+  River. Published by Firefight Games as a desktop-printed wargame with cut-and-mount
+  counters, the game covers a critical turning point often overlooked in Western histories.
+  Players command Greek or Turkish forces in this operational-level simulation of one of
+  the decisive battles of the early 20th century.
+
+upgrades: []

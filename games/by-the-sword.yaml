@@ -1,0 +1,52 @@
+id: by-the-sword
+name: "By the Sword!"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Medieval
+  - Fantasy
+
+evokes:
+  - Agency
+  - Powerful
+  - Rivalry
+  - Tension
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  By the Sword! is a medieval or fantasy combat game in which players command warriors and armies in skirmish-scale or larger battles. Limited publisher and designer information is available for this title; it may refer to one of several games sharing this name across different publishers.
+
+upgrades: []

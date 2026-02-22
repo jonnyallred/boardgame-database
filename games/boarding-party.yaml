@@ -1,0 +1,55 @@
+id: boarding-party
+name: "Boarding Party"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Sci-Fi
+  - Puzzle Solving
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Clever
+  - Mystery
+
+possible_counts: [1]
+true_counts: [1]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Boarding Party is a solitaire science fiction microgame published by Task Force Games
+  in 1982 in which the player controls a boarding party of humans who must infiltrate a
+  temporarily disabled automated killer spaceship and destroy its central computer before
+  the ship reboots and resumes its killing rampage. The player has only 14 turns to
+  navigate through the ship's corridors and complete the mission. As one of the compact
+  microgames of the era, it provides a complete tactical solitaire experience in a small
+  format.
+
+upgrades: []

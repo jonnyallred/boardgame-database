@@ -1,0 +1,52 @@
+id: carcassonne-the-city
+name: "Carcassonne: The City"
+alternate_names: ["Carcassonne: Die Stadt"]
+year: 2004
+
+# Relationships
+game_family: carcassonne
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Medieval
+  - City Building
+  - Euro
+
+evokes:
+  - Agency
+  - Clever
+  - Complete
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus-Jurgen Wrede
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Carcassonne: The City is a deluxe stand-alone Carcassonne variant designed by Klaus-Jürgen Wrede and published by Hans im Glück/Rio Grande Games in 2004, packaged in a distinctive wooden box. Players tile-place streets, markets, and residential areas within an expanding medieval city, and once the first tile pile is exhausted, players begin adding wooden city walls and a gate around the growing settlement. Scoring walls segments for adjacent features adds a dynamic second layer to the familiar Carcassonne experience, and the premium production quality makes it a prized collector's edition.
+
+upgrades: []

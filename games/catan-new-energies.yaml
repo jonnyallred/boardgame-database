@@ -1,0 +1,56 @@
+id: catan-new-energies
+name: "Catan: New Energies"
+alternate_names: ["CATAN – New Energies"]
+year: 2024
+
+# Relationships
+game_family: catan
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Trading
+  - Negotiation
+  - Network Building
+  - Family
+  - Klaus Teuber
+
+evokes:
+  - Agency
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+
+possible_counts: [3, 4]
+true_counts: [4]
+
+designer:
+  - Klaus Teuber
+  - Benjamin Teuber
+publisher:
+  - Catan GmbH
+artist:
+  - Ian O'Toole
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Catan: New Energies is a standalone 2024 game designed by Klaus Teuber and Benjamin Teuber that grafts an energy and climate theme onto the familiar Catan resource-gathering, trading, and building framework. Players manage energy production starting with cheap but polluting fossil fuels, and can invest in renewable energy sources to reduce pollution levels; pollution events disrupt resource production for all players, creating collective incentive to transition to clean energy. The game adds power plants and environmental events as new strategic levers, making it both a modern Catan evolution and a subtle commentary on sustainable development.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: catan-3d-collectors-edition
+name: "Catan 3D Collector's Edition"
+alternate_names: ["CATAN: 3D Edition"]
+year: 2000
+
+# Relationships
+game_family: catan
+edition: 3d-collectors
+base_game: catan
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Network Building
+  - Trading
+  - Family
+  - Klaus Teuber
+
+evokes:
+  - Agency
+  - Clever
+  - Progress
+  - Rivalry
+  - Wonder
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Catan GmbH
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Catan 3D Collector's Edition is a premium collector's version of the classic Settlers of Catan game featuring hand-painted, three-dimensional resin hex tiles and interlocking border pieces. Each player receives hand-painted settlements, cities, metropolises, city walls, knights, and roads, all stored in a specially crafted hardwood case with felt-lined slots. The edition includes the base game and the Cities and Knights expansion, making it the complete luxury Catan package for dedicated fans and collectors. The standard Catan rules apply throughout.
+
+upgrades: []

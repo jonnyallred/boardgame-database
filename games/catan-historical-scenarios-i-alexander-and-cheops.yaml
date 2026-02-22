@@ -1,0 +1,53 @@
+id: catan-historical-scenarios-i-alexander-and-cheops
+name: "Catan Historical Scenarios I: Alexander and Cheops"
+alternate_names: ["Die Siedler von Catan: Historische Szenarien"]
+year: 1998
+
+# Relationships
+game_family: catan
+edition: null
+base_game: catan
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Network Building
+  - Historical
+  - Ancient
+  - Klaus Teuber
+
+evokes:
+  - Agency
+  - Discovery
+  - Progress
+  - Rivalry
+  - Wonder
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 10
+
+description: |
+  Catan Historical Scenarios I: Alexander and Cheops is a 1998 expansion for Settlers of Catan containing two historical scenarios. In Cheops, players use standard Catan mechanics to expand their settlements while also contributing resources to build the Great Pyramid — accessible only to players with settlements at its base or connected roads. In Alexander the Great, players advise the expanding Macedonian empire starting with no settlements, growing outward from Alexander's starting point. Both scenarios transplant the familiar Catan engine into richly themed ancient historical settings. Requires the base Catan game.
+
+upgrades: []

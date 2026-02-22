@@ -1,0 +1,58 @@
+id: blackbeard
+name: "Blackbeard"
+alternate_names:
+  - "Blackbeard: The Golden Age of Piracy"
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Pirates
+  - Maritime
+  - Events
+
+evokes:
+  - Agency
+  - Discovery
+  - Tension
+  - Lucky
+  - Powerful
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Blackbeard is a board game designed by Richard H. Berg and published by Avalon Hill
+  in 1991, simulating the Golden Age of Piracy at the turn of the 18th century. Each
+  player controls one or more historical pirates — including Blackbeard (Edward Teach),
+  Black Bart Roberts, and 21 others — amassing fortune before being caught by a King's
+  Commissioner or betrayed by their own crew. Units activate when drawn from a deck,
+  creating dramatic turns where players can take on the role of pursuing warships.
+  GMT Games published a revised second edition updating the system.
+
+upgrades: []

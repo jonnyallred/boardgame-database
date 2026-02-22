@@ -1,0 +1,56 @@
+id: boom-bang-gold
+name: "Boom, Bang, Gold"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Dexterity
+  - Family
+  - Western
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 7
+
+description: |
+  Boom, Bang, Gold is a real-time gold-rush game designed by Alexandre Emerit and
+  published by HABA in 2017 for 2 to 4 players ages 7 and up. At the command "Boom,
+  Bang, Gold!" all players simultaneously throw sticks of dynamite into a central gold
+  mine box, causing 160 tiles to bounce and land face-up or face-down. Players race to
+  collect gold nugget tiles while avoiding boulders and special penalty tiles. A pocket
+  watch serves as the round timer, and the player with the most gold nuggets at day's
+  end wins this frantic speed game.
+
+upgrades: []

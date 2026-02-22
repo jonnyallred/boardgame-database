@@ -1,0 +1,56 @@
+id: brandon-the-brave
+name: "Brandon the Brave"
+alternate_names:
+  - "Richard Ritterschlag"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Cooperative
+  - Family
+
+evokes:
+  - Discovery
+  - Wonder
+  - Progress
+  - Clever
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 5
+
+description: |
+  Brandon the Brave (Richard Ritterschlag in German) is a 2013 tile-placement children's
+  game published by HABA that was nominated for the Kinderspiel des Jahres in 2014.
+  Players draw and place field tiles on an ever-expanding board where their knights
+  undertake adventures, seeking out giants, dragons, witches, and other dangers. Players
+  who skillfully place tiles next to each other to master challenges become champion
+  at game's end. The game combines spatial tile-laying with fantasy adventure narratives
+  appropriate for ages 5 and up.
+
+upgrades: []

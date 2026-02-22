@@ -1,0 +1,51 @@
+id: canadian-monopoly
+name: "Canadian Monopoly"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: monopoly
+edition: canada
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Trading
+  - Economic
+
+evokes:
+  - Discovery
+  - Lucky
+  - Progress
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Charles Darrow
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 240
+min_age: 8
+
+description: |
+  Canadian Monopoly is the Canadian regional edition of the classic Monopoly board game, first published in the mid-20th century. The standard Monopoly rules of buying, selling, and trading properties are preserved, but the board features Canadian cities and landmarks — including Toronto, Montreal, Vancouver, Ottawa, and other Canadian locations — replacing the Atlantic City properties of the American original. It is one of many regional Monopoly editions adapted for national markets worldwide.
+
+upgrades: []

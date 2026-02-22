@@ -1,0 +1,56 @@
+id: billabong
+name: "Billabong"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Racing
+  - Family
+  - Animals
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Billabong is a racing strategy game designed by Eric Solomon and published by Amigo
+  in 1993 that was nominated for the Spiel des Jahres that year. Each player controls
+  five kangaroos racing around a central lake (the billabong), moving by jumping over
+  other kangaroos — including opponents' — with long-distance jumps possible when the
+  jumped kangaroo is far away. Good positioning is the key to success, as it enables
+  longer and more powerful jumps. The game has similarities to Chinese Checkers but
+  with deeper strategic choices due to the jumping mechanics.
+
+upgrades: []

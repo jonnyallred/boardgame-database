@@ -1,0 +1,55 @@
+id: bonnie-and-clyde
+name: "Bonnie and Clyde"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Deduction
+  - Set Collection
+  - Historical
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Bonnie and Clyde is a rummy-variant card game published by Abacusspiele (Rio Grande
+  Games in English) in which players are FBI agents competing to catch the famous outlaw
+  duo by scoring 100 or more points first. The game uses a small board with 10 historical
+  locations from Kaufman, Texas to Gibson, Louisiana; Bonnie and Clyde cards are seeded
+  among location cards face-down, and players meld Evidence cards for points while
+  searching for the outlaws. Bonnie and Clyde cards are each worth 10 points when captured.
+
+upgrades: []

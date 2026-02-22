@@ -1,0 +1,56 @@
+id: catacombs
+name: "Catacombs"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Dungeon Crawler
+  - Fantasy
+  - 1 vs Many
+  - Cooperative
+
+evokes:
+  - Agency
+  - Discovery
+  - Dread
+  - Lucky
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Ryan Amos
+  - Marc Kelsey
+  - Aron Murch
+publisher:
+  - Elzra Games
+artist:
+  - Kwanchai Moriya
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Catacombs is a pioneering dexterity dungeon-crawl game designed by Ryan Amos, Marc Kelsey, and Aron Murch, first published by Elzra Games in 2010 and winner of the BoardGameGeek Most Innovative Game of 2010. One player takes the role of the Catacomb Lord, controlling dozens of monster discs, while the other players cooperate as heroes, with all combat resolved by physically flicking wooden discs across the board — missiles, fireballs, and melee hits all played out on the table surface. Each hero and monster has unique abilities, critical hits, and status effects, making this the first fantasy dungeon crawler to fuse tabletop physics with RPG-inspired depth.
+
+upgrades: []

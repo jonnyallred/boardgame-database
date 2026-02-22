@@ -1,0 +1,52 @@
+id: carat
+name: "Carat"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Auctions/Bidding
+  - Hand Management
+  - Filler
+
+evokes:
+  - Agency
+  - Clever
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Klaus-Jurgen Wrede
+publisher:
+  - Goldsieber Spiele
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Carat is a light card game designed by Klaus-Jürgen Wrede involving gem collection and trading. Players compete to collect sets of precious stones — diamonds, rubies, emeralds — through clever card play and trading mechanics. The game offers a quick, accessible experience with enough tactical depth to reward attentive play across its short play time.
+
+upgrades: []

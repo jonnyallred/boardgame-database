@@ -1,0 +1,56 @@
+id: bears-vs-babies
+name: "Bears vs Babies"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Party
+  - Family
+  - Humor
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 10
+
+description: |
+  Bears vs Babies is a monster-building card game created by Elan Lee and Matthew Inman
+  (of The Oatmeal) — the same team behind Exploding Kittens — and funded through a
+  Kickstarter campaign that raised over $3.2 million. Players build increasingly bizarre
+  creatures by attaching body parts, weapons, and accessories, then send them into battle
+  against a horde of terrible babies. The game lasts about 20 minutes and rewards
+  creative combinations and timely aggression with hilarious illustrated cards.
+
+upgrades: []

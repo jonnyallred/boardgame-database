@@ -1,0 +1,51 @@
+id: careers
+name: "Careers"
+alternate_names: []
+year: 1955
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Economic
+
+evokes:
+  - Agency
+  - Discovery
+  - Lucky
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - James C. Brown
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Careers is a life-path board game designed by sociologist James Cook Brown and published by Parker Brothers in 1955. Before the game begins each player secretly defines their own "Success Formula" — a personal mix of money, fame, and happiness totaling 60 points — reflecting Brown's philosophy that success means different things to different people. Players travel the board's career paths (politics, Hollywood, farming, sea, and more) collecting their chosen mix of success tokens via cards and dice. The variable victory condition system was innovative for its era and gives Careers a personal, narrative quality rarely found in games of that period.
+
+upgrades: []

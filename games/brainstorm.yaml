@@ -1,0 +1,53 @@
+id: brainstorm
+name: "Brainstorm"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Word Play
+
+evokes:
+  - Tension
+  - Humor
+  - Rivalry
+  - Clever
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Brainstorm is a party game in which players race to name items in a given category
+  drawn from a card — listing people, places, or things that fit the category description.
+  Each correct answer matching one written on the category card advances the player one
+  step on the board, with bonus movement for unusual or unexpected answers that still
+  qualify. The game rewards quick thinking, broad general knowledge, and creativity in
+  category interpretation, making it accessible to players of various backgrounds.
+
+upgrades: []

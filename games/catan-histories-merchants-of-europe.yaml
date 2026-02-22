@@ -1,0 +1,54 @@
+id: catan-histories-merchants-of-europe
+name: "Catan Histories: Merchants of Europe"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: catan
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Trading
+  - Network Building
+  - Historical
+  - Medieval
+  - Klaus Teuber
+
+evokes:
+  - Agency
+  - Discovery
+  - Progress
+  - Rivalry
+  - Tension
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Catan Histories: Merchants of Europe is a standalone Catan game published by Mayfair Games in 2010, set in medieval Europe's thriving trade networks. Players start with three trading posts and compete to be first to deliver all their commodities to foreign cities across the continent, moving caravans and establishing new outposts while collecting resources from adjacent hexes. The game shares its delivery race mechanic with Settlers of America: Trails to Rails but wraps it in a European medieval merchant theme, creating a more geographically grounded Catan experience.
+
+upgrades: []

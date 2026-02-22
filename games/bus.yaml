@@ -1,0 +1,55 @@
+id: bus
+name: "Bus"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Network Building
+  - Route Building
+  - Economic
+  - Euro
+  - Cult Classic
+
+evokes:
+  - Agency
+  - Clever
+  - Masterful
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Jeroen Doumen
+  - Joris Wiersinga
+publisher:
+  - Capstone Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Bus is a seminal 1999 worker placement and route building game by Jeroen Doumen and Joris Wiersinga of Splotter Spellen, widely cited as one of the earliest games to use the worker placement mechanism. Players build competing bus lines in a growing town, routing passengers between homes, workplaces, and pubs to score points. A critical twist is the "time stop" action: a player may freeze time to lock in which areas score, but reveals that decision only after workers have been assigned — creating intense psychological pressure. Despite its complexity, games typically run under 90 minutes, making Bus a dense and influential design.
+
+upgrades: []

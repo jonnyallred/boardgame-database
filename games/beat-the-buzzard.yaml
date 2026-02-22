@@ -1,0 +1,60 @@
+id: beat-the-buzzard
+name: "Beat the Buzzard"
+alternate_names:
+  - "Hol's der Geier"
+  - "Raj"
+  - "What the Heck?"
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Hand Management
+  - Simultaneous Action
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  Beat the Buzzard (Hol's der Geier) is a simultaneous-bidding card game designed by
+  Alex Randolph and published by Ravensburger in 1988. Each player holds an identical
+  hand of 15 numbered cards; each round, a prize tile with positive or negative points
+  is revealed and players secretly choose a card to bid, revealing simultaneously.
+  The highest bid wins positive prizes while the lowest bid wins negative ones.
+  The game is simple to learn yet surprisingly strategic, rewarding players who can
+  anticipate opponents' bids, and has been reprinted under many names worldwide.
+
+upgrades: []

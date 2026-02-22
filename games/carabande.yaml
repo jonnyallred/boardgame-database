@@ -1,0 +1,52 @@
+id: carabande
+name: "Carabande"
+alternate_names: ["PitchCar"]
+year: 1996
+
+# Relationships
+game_family: pitchcar
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Racing
+  - Party
+  - Family
+
+evokes:
+  - Connection
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Jacques Zeimet
+publisher:
+  - Ferti
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Carabande (later rebranded as PitchCar) is a dexterity racing game designed by Jacques Zeimet and published by Goldsieber Spiele in 1996, winning a Spiel des Jahres special award. Players assemble a modular wooden track — with straights, curves, and even ramps and bridges in expansions — and race small wooden pucks around it by flicking them with a finger, carrom-style. Staying on track requires a delicate touch, and spectacular wipeouts when pucks fly off the rails are as entertaining as the race itself, making Carabande an enduring crowd-pleaser for all ages.
+
+upgrades: []

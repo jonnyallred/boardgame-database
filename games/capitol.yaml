@@ -1,0 +1,53 @@
+id: capitol
+name: "Capitol"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - City Building
+  - Euro
+  - Abstract
+
+evokes:
+  - Agency
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Manfred Ludwig
+  - Stefan Dorra
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Capitol is an area-control game designed by Manfred Ludwig and Stefan Dorra, published by Queen Games. Players compete to build the most prestigious city quarter in ancient Rome, placing building tiles to claim and score residential, commercial, and civic districts. Clever placement and timing determine who controls each neighborhood when scoring occurs, creating tight tactical decisions in a compact urban-planning framework.
+
+upgrades: []

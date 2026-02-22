@@ -1,0 +1,53 @@
+id: cambrai-1917-the-first-blitzkrieg
+name: "Cambrai, 1917: The First Blitzkrieg"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+
+evokes:
+  - Agency
+  - Masterful
+  - Powerful
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - David C. Isby
+publisher:
+  - Rand Game Associates
+artist:
+  - Al Zygler
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Cambrai, 1917: The First Blitzkrieg is a two-player hex-based wargame designed by David C. Isby and published by Rand Game Associates in 1974, simulating the pivotal November 1917 Battle of Cambrai — the first major use of tanks in warfare. One player controls the Allied attackers and the other the German defenders, using counters on a mapboard to recreate or revise the battle's outcome. The game was later revised and republished in 2012 by Microsoft Design Group with a larger map and doubled counter count.
+
+upgrades: []

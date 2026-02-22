@@ -1,0 +1,57 @@
+id: belfort
+name: "Belfort"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Area Control
+  - Resource Management
+  - Euro
+  - Fantasy
+
+evokes:
+  - Progress
+  - Agency
+  - Rivalry
+  - Clever
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Belfort is a worker placement and area majority game designed by Sen-Foong Lim and
+  Jay Cormier, published in 2011. Players build fantasy buildings in the five districts
+  of the pentagonal city, hiring gnomes and elves as workers to run them and gain
+  special abilities. At the end of each of the seven game rounds, players score for
+  majority in each district and for each worker type, creating multiple layers of
+  competition. The game blends tight worker placement with area control scoring in
+  an accessible fantasy Euro package.
+
+upgrades: []

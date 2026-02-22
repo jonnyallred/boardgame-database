@@ -1,0 +1,59 @@
+id: breakout-normandy
+name: "Breakout: Normandy"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Breakout: Normandy is a two-player operational-level wargame covering the Allied campaign
+  to break out of the Normandy beachhead following D-Day in the summer of 1944, published
+  by Avalon Hill in 1992. The game uses an innovative impulse-based action system — rather
+  than alternating full turns, each player takes a limited number of actions per impulse —
+  creating a tense, reactive experience that captures the fluid pace of modern armored
+  warfare. Players command entire army groups across a hex map of northwestern France,
+  managing supply lines and exploitation breakthroughs. The game is well-regarded for its
+  historically plausible outcomes and the way its activation system keeps both players
+  engaged throughout.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: bookchase
+name: "Bookchase"
+alternate_names:
+  - "Penguin Bookchase"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Family
+
+evokes:
+  - Discovery
+  - Progress
+  - Complete
+  - Connection
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Bookchase (Penguin Bookchase) is a literacy-themed family board game packaged in a
+  giant book-like box in which players race to collect six mini books to win. Designed
+  to foster a love of reading and books, the game is published with Penguin branding
+  and supports 2 to 6 players from age 6 upwards. The book-shaped packaging and
+  reading-themed content make it an appealing gift for young readers and a gentle
+  introduction to competitive set-collection gameplay.
+
+upgrades: []

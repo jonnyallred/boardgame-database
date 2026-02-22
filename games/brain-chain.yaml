@@ -1,0 +1,54 @@
+id: brain-chain
+name: "Brain Chain"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Pattern Building
+  - Family
+  - Party
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  Brain Chain is a strategy-and-trivia board game for two or three players or teams,
+  played on a 10x10 category grid with an exterior track. Players answer trivia questions
+  to place colored "links" on corresponding grid spaces, racing to form an unbroken
+  horizontal, vertical, or diagonal chain of six links to win — a blend of Trivial
+  Pursuit knowledge and Go-Moku spatial strategy. Games Magazine named Brain Chain a
+  Top 100 Game, and playing time scales with the winning chain length chosen.
+
+upgrades: []

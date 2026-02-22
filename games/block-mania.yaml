@@ -1,0 +1,55 @@
+id: block-mania
+name: "Block Mania"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Sci-Fi
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Humor
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Block Mania is a two-player tactical combat game designed by Richard Halliwell and
+  published by Games Workshop in 1987, set in the dystopian Mega-City One of the Judge
+  Dredd universe from the 2000 AD comic. Players control neighboring city blocks whose
+  citizens are engaged in chaotic inter-block warfare, maneuvering mobs of juves,
+  fatties, and futsies with flamers, lasers, and barricades, before the Judges arrive.
+  An expansion, Mega-Mania, extended play to four blocks, and additional rules appeared
+  in White Dwarf magazine.
+
+upgrades: []

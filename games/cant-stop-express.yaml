@@ -1,0 +1,52 @@
+id: cant-stop-express
+name: "Can't Stop Express"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: cant-stop
+edition: express
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Dice Rolling
+  - Roll & Write
+  - Family
+
+evokes:
+  - Agency
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Sid Sackson
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Can't Stop Express is a simplified, faster-playing version of Sid Sackson's classic push-your-luck dice game Can't Stop, adapted into a more compact format. Players roll four dice and pair them to score on numbered columns of a simpler scoring track, pressing their luck for more points before risking a bust. The game preserves the essential tension of the original in a shorter, lighter package suitable for quick sessions or larger groups.
+
+upgrades: []

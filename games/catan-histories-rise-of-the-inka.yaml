@@ -1,0 +1,55 @@
+id: catan-histories-rise-of-the-inka
+name: "Catan Histories: Rise of the Inka"
+alternate_names: ["Catan: Rise of the Inkas", "Catan Histories: Rise of the Inkas"]
+year: 2018
+
+# Relationships
+game_family: catan
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Network Building
+  - Trading
+  - Historical
+  - Ancient
+  - Klaus Teuber
+
+evokes:
+  - Agency
+  - Discovery
+  - Progress
+  - Rivalry
+  - Unique
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+  - Benjamin Teuber
+publisher:
+  - Catan GmbH
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Catan Histories: Rise of the Inka is a standalone 2018 Catan game designed by Klaus and Benjamin Teuber, set among the coastal and mountain civilizations of ancient Peru across three historical eras. Players use classic Catan mechanics — roads, settlements, development cards, and the robber — but must twice deliberately "decline" their civilization, removing roads from the board and covering settlements with thickets as a new tribe rises. The game is won by the first player to bring their third tribe to its apex, making intentional decline a core strategic consideration in this richly themed variant.
+
+upgrades: []

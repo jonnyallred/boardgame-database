@@ -1,0 +1,55 @@
+id: black-box
+name: "Black Box"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Puzzle Solving
+  - Abstract
+
+evokes:
+  - Mystery
+  - Clever
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Black Box is a deduction board game created by Eric Solomon and first published by
+  Waddingtons in the United Kingdom in 1976. Players shoot "rays" into a black box to
+  discover the hidden locations of "atoms" inside using the minimum number of probes.
+  Rays deflect, reflect, and pass straight through depending on atom positions, requiring
+  careful deductive reasoning to map the interior. The game was inspired by Godfrey
+  Hounsfield's CAT scanner work (for which he won the 1979 Nobel Prize in Medicine).
+  Parker Brothers published a North American edition in the late 1970s.
+
+upgrades: []

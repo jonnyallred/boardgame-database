@@ -1,0 +1,52 @@
+id: carrier
+name: "Carrier"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Maritime
+
+evokes:
+  - Agency
+  - Masterful
+  - Powerful
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Carrier is a naval wargame focusing on aircraft carrier combat, likely set in the Pacific Theater of World War II. Players command carrier task forces, managing aircraft sorties, anti-submarine warfare, and fleet engagements in detailed operational simulations. Multiple wargames share this title; limited specific publisher and designer information is available without additional context.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: bul
+name: "Bul"
+alternate_names: ["Buul", "Boolik", "Puluc"]
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Abstract
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Connection
+  - Humor
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Traditional
+publisher:
+  - Traditional
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Bul (also known as Buul, Puluc, or Boolik) is a traditional Mayan running-fight board game played particularly among the Maya peoples of Belize and the Guatemalan highlands. Players roll four kernels of corn — each marked black on one side — as dice, moving their pieces toward the opponent's base; when a piece lands on an enemy stone, the enemy is captured and placed beneath the capturer's stone. The game blends racing and capturing mechanics and represents one of the few surviving indigenous Mesoamerican board game traditions, documented by Stewart Culin in 1907.
+
+upgrades: []

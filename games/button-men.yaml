@@ -1,0 +1,51 @@
+id: button-men
+name: "Button Men"
+alternate_names: ["Button Men: Beat People Up"]
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Abstract
+  - Variable Player Powers
+
+evokes:
+  - Agency
+  - Clever
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James Ernest
+publisher:
+  - Cheapass Games
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 10
+
+description: |
+  Button Men is a two-player dice combat game designed by James Ernest and published by Cheapass Games in 1999, winner of the Origins Award for Best Abstract Board Game. Each player chooses a pin-back button (or character card) depicting their fighter's dice loadout — a set of polyhedral dice with unique abilities — and the goal is to capture the opponent's dice through power attacks and skill attacks over the course of three rounds. The game's elegance lies in how different character dice combinations create wildly asymmetric matchups in a game that takes under ten minutes to play.
+
+upgrades: []

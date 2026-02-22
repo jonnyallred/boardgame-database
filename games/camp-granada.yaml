@@ -1,0 +1,50 @@
+id: camp-granada
+name: "Camp Granada"
+alternate_names: []
+year: 1967
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Racing
+
+evokes:
+  - Connection
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Camp Granada is a children's board game loosely inspired by the 1963 novelty song "Hello Muddah, Hello Fadduh" about a miserable summer camp experience. Players navigate a summer camp-themed board, encountering events and competing to finish activities. The game reflects the lighthearted camp humor of 1960s American children's culture. Limited publisher information is available for this title.
+
+upgrades: []

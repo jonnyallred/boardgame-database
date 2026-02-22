@@ -1,0 +1,51 @@
+id: castle-knights
+name: "Castle Knights"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Medieval
+  - Area Control
+
+evokes:
+  - Agency
+  - Clever
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Castle Knights is a medieval-themed family game in which players deploy knights to claim and defend castle territories. The game uses card play or dice to determine combat outcomes and territorial control in an accessible format for family play. Limited publisher and designer information is available for this title.
+
+upgrades: []

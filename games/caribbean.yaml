@@ -1,0 +1,52 @@
+id: caribbean
+name: "Caribbean"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Pirates
+  - Maritime
+  - Family
+  - Set Collection
+
+evokes:
+  - Discovery
+  - Lucky
+  - Rivalry
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Caribbean is a pirate- and maritime-themed board game set in the Caribbean Sea, in which players sail ships, collect treasure, and compete for control of islands and trade routes. The game captures the swashbuckling spirit of Golden Age piracy in an accessible family format. Limited specific publisher and designer information is available for this title.
+
+upgrades: []

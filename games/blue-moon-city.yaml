@@ -1,0 +1,60 @@
+id: blue-moon-city
+name: "Blue Moon City"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Resource Management
+  - City Building
+  - Fantasy
+  - Reiner Knizia
+  - Fantasy Flight Games
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Blue Moon City is a 2006 resource management and city rebuilding game by Reiner Knizia,
+  published by Fantasy Flight Games with thematic connections to the Blue Moon card game.
+  Players use cards representing the different peoples of Blue Moon to contribute to the
+  restoration of the destroyed city's buildings. Whoever contributes resources to each
+  building shares in its completed rewards, creating a push-pull competition over which
+  structures to prioritize. The game won the 2006 Meeples' Choice Award and placed
+  fourth in the Deutscher Spiele Preis.
+
+upgrades: []

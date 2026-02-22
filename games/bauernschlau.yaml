@@ -1,0 +1,56 @@
+id: bauernschlau
+name: "Bauernschlau"
+alternate_names:
+  - "Crooked Shepherds"
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Set Collection
+  - Euro
+  - Animals
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Complete
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Bauernschlau (Crooked Shepherds) is a German area-control game published by F.X. Schmid
+  in which players fence off sections of a farm board to enclose sheep-filled pastures.
+  Face-down white sheep tiles score positive points while black sheep tiles are penalties,
+  creating a bluffing element as players rush to claim the most valuable flocks while
+  stuffing opponents with black sheep. Players use tactics and guile to fence in the
+  most valuable areas, making each game a spirited battle of wits and positioning.
+
+upgrades: []

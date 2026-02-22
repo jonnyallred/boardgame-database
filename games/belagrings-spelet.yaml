@@ -1,0 +1,53 @@
+id: belagrings-spelet
+name: "Belägrings-spelet"
+alternate_names: []
+year: 1950
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Wargame
+  - Historical
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  Belägrings-spelet (The Siege Game) is an obscure Swedish board game with limited
+  documented history. Based on its name, it is a siege warfare game likely featuring
+  historical or abstract mechanics simulating a siege battle. Very little published
+  information is available about this title, which appears to be a rare or regional
+  Swedish release.
+
+upgrades: []

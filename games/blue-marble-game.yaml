@@ -1,0 +1,57 @@
+id: blue-marble-game
+name: "Blue Marble Game"
+alternate_names:
+  - "부루마블"
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Dice Rolling
+  - Family
+  - City Building
+
+evokes:
+  - Progress
+  - Lucky
+  - Rivalry
+  - Tension
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 8
+
+description: |
+  Blue Marble Game is a South Korean board game published by Si-Yat-Sa in 1982,
+  inspired by Monopoly but featuring global cities rather than a single city. Its name
+  references the famous Apollo 17 "Blue Marble" photograph of Earth. Players travel
+  around the world buying properties in major cities, constructing buildings, collecting
+  rent, and earning salaries. The game became immensely popular in South Korea as the
+  dominant family property game, serving both as entertainment and an accessible
+  introduction to basic economic concepts and world geography.
+
+upgrades: []

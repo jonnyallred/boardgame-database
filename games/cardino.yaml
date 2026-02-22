@@ -1,0 +1,51 @@
+id: cardino
+name: "Cardino"
+alternate_names: ["Cartino"]
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Abstract
+  - Family
+
+evokes:
+  - Agency
+  - Clever
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Cardino is a tile-placement game published by Ravensburger (also released as Cartino) in which players place tiles of matching suits onto a shared board, scoring points for each tile placed and earning a bonus for playing all five hand tiles in a single turn. Drawing from a shared pool and racing to play high-value runs of matching tiles creates a satisfying balance of luck and concentration. The game takes only minutes to explain and offers solid variety in its combination possibilities.
+
+upgrades: []

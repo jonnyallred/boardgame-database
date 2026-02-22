@@ -1,0 +1,52 @@
+id: cash-n-guns-live
+name: "Ca$h 'n Gun$: Live"
+alternate_names: ["Cash n Guns: Live"]
+year: 2013
+
+# Relationships
+game_family: cash-n-guns
+edition: live
+base_game: cash-n-guns
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Bluffing
+  - Social Deduction
+  - Real-time
+
+evokes:
+  - Connection
+  - Humor
+  - Lucky
+  - Persuasion
+  - Tension
+
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [6, 7, 8]
+
+designer:
+  - Ludovic Maublanc
+publisher:
+  - Repos Production
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Ca$h 'n Gun$: Live is a live-action party adaptation of the popular gangster bluffing game Cash 'n Guns by Ludovic Maublanc and Repos Production. Rather than foam guns, players use hand gestures or printed gun cards to simultaneously "aim" at other players during a gangster loot-sharing standoff, then reveal whether they are bluffing or actually shooting. Players who are shot suffer wounds and may drop out of sharing the loot; after multiple rounds the gangster who survives with the most cash wins. It preserves all the tension and comedy of the original in a no-components format.
+
+upgrades: []

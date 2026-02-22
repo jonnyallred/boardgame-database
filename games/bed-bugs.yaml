@@ -1,0 +1,54 @@
+id: bed-bugs
+name: "Bed Bugs"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Family
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 4
+
+description: |
+  Bed Bugs is a motorized dexterity game published by Milton Bradley in 1985 in which
+  players use oversized tweezers to pluck plastic bugs off a vibrating bed before their
+  opponents. The motorized bed shakes continuously, making the bugs bounce and scatter,
+  requiring quick reflexes and steady hands. The first player to collect all their colored
+  bugs wins. The game was re-released multiple times due to its enduring popularity
+  with young children who enjoy its tactile, competitive format.
+
+upgrades: []

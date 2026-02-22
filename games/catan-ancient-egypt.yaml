@@ -1,0 +1,54 @@
+id: catan-ancient-egypt
+name: "Catan: Ancient Egypt"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: catan
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Network Building
+  - Trading
+  - Family
+  - Ancient
+  - Klaus Teuber
+
+evokes:
+  - Agency
+  - Clever
+  - Discovery
+  - Progress
+  - Wonder
+
+possible_counts: [3, 4]
+true_counts: [4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Catan GmbH
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Catan: Ancient Egypt is a standalone Catan variant designed by Klaus Teuber that transplants the classic Settlers mechanics to the time of the Pharaohs. Players build settlements and temples along cattle pastures, papyrus groves, and quarries, using oxcarts to transport resources and competing for victory points. Optional variant modules include god cards and a Great Pyramid scenario where players race to earn the Pharaoh's blessing. The Egyptian theme is a fresh visual coat on familiar Catan gameplay, making it accessible to fans of the original and new players alike.
+
+upgrades: []

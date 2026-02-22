@@ -1,0 +1,57 @@
+id: blue-and-gray
+name: "Blue & Gray"
+alternate_names:
+  - "Blue & Gray: Four American Civil War Battles"
+year: 1975
+
+# Relationships
+game_family: blue-and-gray
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 90
+max_playtime: 300
+min_age: 14
+
+description: |
+  Blue & Gray: Four American Civil War Battles is a "quadrigame" published by SPI in
+  1975, containing four separate battles — Shiloh, Antietam, Cemetery Hill, and
+  Chickamauga — using a shared rule set with 100 or fewer counters each. Unlike monster
+  wargames of the era, each scenario could be completed in a few hours, making it
+  accessible to newcomers. It immediately reached #1 on SPI's bestseller list and placed
+  7th in SPI's 1976 wargamer poll out of 202 games. Decision Games reissued a revised
+  edition in 1995 replacing Antietam with the two Bull Run battles.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: blockade
+name: "Blockade"
+alternate_names:
+  - "Cul-de-sac"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Modular Board
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Blockade is a two-player abstract strategy game created by Philip Slater in 1975 and
+  published in the United States by Lakeside. Each player controls two pawns and a set
+  of wall pieces on an 11x14 grid, placing barriers to impede opponents while navigating
+  pawns to the other player's starting positions. The first to move both pawns to the
+  opponent's starting squares wins. Published in Europe as Cul-de-sac, the game was
+  discontinued when Lakeside went bankrupt in 1983 but remains a respected abstract
+  design for its simple yet deep tactical play.
+
+upgrades: []

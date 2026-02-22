@@ -1,0 +1,57 @@
+id: beyblade-trading-card-game
+name: "Beyblade Trading Card Game"
+alternate_names:
+  - "Beyblade TCG"
+  - "Beyblade CCG"
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Family
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Lucky
+  - Tension
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  The Beyblade Trading Card Game is an out-of-print collectible card game released in
+  2003 by Decipher, Inc., based on the Beyblade anime and spinning-top toy franchise.
+  Players build decks and duel by placing their Beyblade card alongside a stack of
+  Spin cards, then alternate playing cards and matching Battle Edges to deal damage
+  by removing cards from the opponent's spin stack. The Collision set of 130 cards
+  was the main release; the game had a Basic mode for beginners and an Advanced mode
+  with expanded card powers before going out of print.
+
+upgrades: []

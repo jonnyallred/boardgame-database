@@ -1,0 +1,54 @@
+id: bleach-trading-card-game
+name: "Bleach Trading Card Game"
+alternate_names:
+  - "Bleach TCG"
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Complete
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  The Bleach Trading Card Game is a collectible card game based on the popular manga
+  and anime series Bleach by Tite Kubo, released in the mid-2000s. Players build decks
+  featuring characters from the Bleach universe — Soul Reapers, Hollows, and others —
+  and compete in duels. Like many anime-based TCGs of the era, the game tied closely
+  to the ongoing anime and manga releases, allowing fans to play as their favorite
+  characters in strategic card combat. The game is now out of print.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: qi
+name: "Qi"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Qi is an abstract strategy tile-placement game in which players build patterns by
+  placing and manipulating tiles on a shared board. Players score points by forming
+  lines or clusters of matching symbols, with the tension building as the board fills
+  and options become constrained. The game's name references the Chinese concept of
+  life energy, reflected in its flowing, interconnected scoring patterns.
+
+upgrades: []

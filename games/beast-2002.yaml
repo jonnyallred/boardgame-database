@@ -1,0 +1,52 @@
+id: beast-2002
+name: "Beast"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Beast (2002) is an abstract strategy board game in which players compete on a shared
+  board using movement and capture mechanics. The game features simple rules that
+  support deeper strategic play, with each player vying for positional dominance
+  over their opponent. Limited information is available on this specific 2002 title,
+  which should not be confused with the 2021 hidden movement game of the same name.
+
+upgrades: []

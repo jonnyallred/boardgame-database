@@ -1,0 +1,60 @@
+id: beowulf-the-legend
+name: "Beowulf: The Legend"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Hand Management
+  - Press Your Luck
+  - Fantasy
+  - Historical
+  - Reiner Knizia
+
+evokes:
+  - Tension
+  - Agency
+  - Clever
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Beowulf: The Legend is a 2005 board game by Reiner Knizia, published by Fantasy Flight
+  Games with artwork by John Howe, in which players take the roles of Beowulf's companions
+  vying to support him in his epic adventures and succeed him after his death. Players
+  move along a board tracing events from the Old English poem, bidding cards representing
+  combat, cunning, and other skills in a series of auctions for rewards and glory.
+  The game includes open and closed bidding formats plus a press-your-luck element
+  where potential rewards must be weighed against risk of failure.
+
+upgrades: []

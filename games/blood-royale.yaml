@@ -1,0 +1,57 @@
+id: blood-royale
+name: "Blood Royale"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Negotiation
+  - Area Control
+  - Historical
+  - Medieval
+
+evokes:
+  - Agency
+  - Progress
+  - Rivalry
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Blood Royale is a board game designed by Derek Carver and published by Games Workshop
+  in 1987, set in a slightly rearranged 14th century Europe where up to five players
+  guide royal dynasties through the ages. Players tax provinces, conquer territory,
+  arrange marriages to forge alliances, and trade resources — cloth, metal, food, wine,
+  and gold — to accumulate the most money by game's end. The game was quickly withdrawn
+  and is now out of print, becoming a collector's item; Fantasy Flight Games later
+  acquired rights to it along with other vintage Games Workshop titles.
+
+upgrades: []

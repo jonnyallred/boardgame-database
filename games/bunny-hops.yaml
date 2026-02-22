@@ -1,0 +1,51 @@
+id: bunny-hops
+name: "Bunny Hops!"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Animals
+
+evokes:
+  - Connection
+  - Humor
+  - Lucky
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Bunny Hops! is a children's racing game featuring bunny rabbit characters competing across a track using dice or card draws. The game is aimed at preschool and early elementary age children, with simple mechanics and colorful animal-themed components. Limited publisher and designer information is available.
+
+upgrades: []

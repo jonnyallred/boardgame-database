@@ -1,0 +1,50 @@
+id: burosh
+name: "Burosh"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Card Drafting
+
+evokes:
+  - Agency
+  - Clever
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Burosh is a traditional card game of the trick-taking family, played in some Eastern European and Middle Eastern regions. Players compete to win tricks or avoid certain cards, using a standard card deck with regional rule variations. As a traditional game, limited formal publisher and designer attribution exists.
+
+upgrades: []

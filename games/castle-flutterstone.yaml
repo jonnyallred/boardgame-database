@@ -1,0 +1,51 @@
+id: castle-flutterstone
+name: "Castle Flutterstone"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dexterity
+  - Fantasy
+
+evokes:
+  - Connection
+  - Discovery
+  - Humor
+  - Lucky
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Haba
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Castle Flutterstone is a children's dexterity and memory game published by Haba with a whimsical fairy-tale castle theme. Young players interact with the game's components — towers, creatures, or hidden treasures — in a physically engaging format that develops motor skills and early game literacy. Haba's reputation for high-quality children's games makes this a trusted early childhood gaming choice.
+
+upgrades: []

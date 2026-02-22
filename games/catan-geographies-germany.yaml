@@ -1,0 +1,53 @@
+id: catan-geographies-germany
+name: "Catan Geographies: Germany"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: catan
+edition: null
+base_game: catan
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Network Building
+  - Trading
+  - Historical
+  - Klaus Teuber
+
+evokes:
+  - Agency
+  - Discovery
+  - Progress
+  - Rivalry
+  - Wonder
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Catan GmbH
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Catan Geographies: Germany is a regional map expansion for Settlers of Catan that uses a fixed historical map of medieval Germany. Players use the standard Catan rules but settle actual German cities and regions, with geographic and resource placements reflecting real-world locations. The fixed map creates a different strategic landscape from the standard modular board, and the historical theme lends an educational dimension. Requires the base Catan game to play.
+
+upgrades: []

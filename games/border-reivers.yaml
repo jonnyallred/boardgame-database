@@ -1,0 +1,57 @@
+id: border-reivers
+name: "Border Reivers"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Economic
+  - Historical
+  - Medieval
+  - War
+
+evokes:
+  - Rivalry
+  - Agency
+  - Tension
+  - Powerful
+  - Progress
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Border Reivers is a two-player area control and economic game designed by Jackson Pope
+  and self-published by Reiver Games in 2006, set along the turbulent Scottish-English
+  border during the 16th century. Players control rival clans competing for wealth and
+  territory through raiding, trade, and military action in the lawless border marches.
+  The game was created as a hand-made self-published run before broader commercial
+  distribution. A separate thematic wargame with the full title "Border Reivers:
+  Anglo-Scottish Border Raids, 1513-1603" was later published by GMT Games.
+
+upgrades: []

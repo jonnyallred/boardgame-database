@@ -1,0 +1,56 @@
+id: bloody-ridge
+name: "Bloody Ridge"
+alternate_names:
+  - "Bloody Ridge: Turning Point on Guadalcanal, September 1942"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Dread
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Bloody Ridge is a WWII board wargame originally published by SPI in 1975 as part of
+  the "Island War" quadrigame — a game box containing four Pacific Theater battles using
+  shared rules. The game simulates the September 1942 fighting around "Bloody Ridge"
+  on Guadalcanal between U.S. Marines and Imperial Japanese forces. The Gamers later
+  published a separate tactical Bloody Ridge game as part of their Tactical Combat Series,
+  designed by Guadalcanal historian Michael S. Smith, at lower counter density.
+
+upgrades: []

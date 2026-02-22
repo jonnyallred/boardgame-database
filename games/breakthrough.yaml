@@ -1,0 +1,50 @@
+id: breakthrough
+name: "Breakthrough"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Racing
+
+evokes:
+  - Agency
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dan Troyka
+publisher:
+  - Nestorgames
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Breakthrough is a two-player abstract strategy game designed by Dan Troyka that won the 2001 8x8 Game Design Competition. Each player controls 16 pawns placed in their first two rows; pieces move or capture diagonally forward, with no backward movement allowed. The objective is simple: be the first player to move any piece to the opponent's back rank. Despite its minimal ruleset, Breakthrough rewards deep positional thinking and has attracted a strong following in the abstract games community.
+
+upgrades: []

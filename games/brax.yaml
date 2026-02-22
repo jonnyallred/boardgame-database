@@ -1,0 +1,55 @@
+id: brax
+name: "Brax"
+alternate_names: []
+year: 1889
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Deduction
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Brax is a two-player abstract strategy game invented around 1889 by Frederic B. Denham
+  of New York City, played on an 8x8 board where pieces move along colored paths — one or
+  two spaces depending on whether the piece matches the path's color. A distinctive mechanic
+  is the "Brax" call: a player may declare "Brax" when their piece threatens an opponent's
+  piece, forcing the opponent to move that threatened piece on their next turn rather than
+  any other. The game was featured in Sid Sackson's The Book of Classic Board Games (Klutz
+  Press, 1991), which ranked it among the top 15 board games in history, and its forced-
+  move constraint makes for surprising tactical depth despite simple rules.
+
+upgrades: []

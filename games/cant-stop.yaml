@@ -1,0 +1,53 @@
+id: cant-stop
+name: "Can't Stop"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Dice Rolling
+  - Family
+  - Gateway
+  - Cult Classic
+
+evokes:
+  - Agency
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Sid Sackson
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Can't Stop is a beloved push-your-luck dice game designed by Sid Sackson and first published by Parker Brothers in 1980. Players roll four dice and pair them to advance neutral markers up three numbered columns simultaneously, then must decide whether to press their luck for more progress or stop and score before they bust. The mountain-shaped board is a perfectly tuned probability engine — with narrow columns at the extremes (2 and 12) and a wide central column (7) — making every decision a tense risk-reward calculation. Few games so elegantly combine mathematics, psychology, and the simple thrill of one more roll.
+
+upgrades: []

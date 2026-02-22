@@ -1,0 +1,54 @@
+id: big-elementary-school-game
+name: "Big Elementary School Game"
+alternate_names:
+  - "Das große Grundschulspiel"
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Deduction
+
+evokes:
+  - Progress
+  - Connection
+  - Discovery
+  - Complete
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Big Elementary School Game (Das große Grundschulspiel) is a German educational board
+  game published around 2011 and winner of Toy of the Year in Germany. Players answer
+  trivia questions from their own grade level — question sets spanning grades 3 through 8
+  — using step cards, bluff tokens, and teacher tokens to collect diplomas. The leveled
+  question system allows children of different ages to compete fairly against each other,
+  making it ideal for mixed-age family play.
+
+upgrades: []

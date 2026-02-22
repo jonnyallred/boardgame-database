@@ -1,0 +1,58 @@
+id: bottle-imp
+name: "Bottle Imp"
+alternate_names:
+  - "The Bottle Imp"
+  - "Flaschenteufel"
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Hand Management
+  - Family
+  - Cult Classic
+
+evokes:
+  - Tension
+  - Clever
+  - Dread
+  - Agency
+  - Mystery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Bottle Imp (Flaschenteufel) is an innovative trick-taking card game designed by
+  Günter Cornett and first published by Bambus Spieleverlag in 1995, based on Robert
+  Louis Stevenson's short story "The Bottle Imp." The card numbering contains a gap
+  and the bottle's current price shifts as the game progresses — whoever holds the
+  bottle when the final trick is played must keep it, losing all their cards' points.
+  This inversion of trick-taking goals creates extraordinary tension as players
+  deliberately avoid winning certain tricks. Re-released by Z-Man Games in 2010.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: black-hole
+name: "Black Hole"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Space
+  - Hex Map
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Dread
+  - Discovery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Black Hole is a two-player science fiction microgame designed by Robert Taylor and
+  published by Metagaming Concepts in 1978, set on a donut-shaped asteroid created by
+  aliens with a black hole at its center. Players command corporate armies of heavy armor
+  units armed with rockets or lasers, maneuvering across a unique two-dimensional map
+  that approximates three-dimensional space around the gravitational anomaly. As one of
+  Metagaming's early microgames following Ogre, Black Hole plays quickly and was praised
+  for its innovative spatial mechanics.
+
+upgrades: []

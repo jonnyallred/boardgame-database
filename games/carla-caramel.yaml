@@ -1,0 +1,51 @@
+id: carla-caramel
+name: "Carla Caramel"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Food Theme
+  - Puzzle Solving
+
+evokes:
+  - Connection
+  - Discovery
+  - Humor
+  - Lucky
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Djeco
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Carla Caramel is a children's puzzle and memory game with a sweet candy-shop theme, published by Djeco. Young players help the caramel-making character Carla complete candy orders, using memory and matching skills. The colorful, child-friendly components and simple cooperative mechanics make it an ideal introduction to structured gameplay for preschool-age children.
+
+upgrades: []

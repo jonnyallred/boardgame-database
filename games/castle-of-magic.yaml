@@ -1,0 +1,52 @@
+id: castle-of-magic
+name: "Castle of Magic"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Fantasy
+  - Cooperative
+  - Dice Rolling
+
+evokes:
+  - Discovery
+  - Dread
+  - Lucky
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Castle of Magic is a fantasy family game in which players explore or defend a castle filled with magical creatures and hidden treasures. Players use dice or card draws to navigate encounters and compete or cooperate to overcome the castle's challenges. Limited specific publisher and designer information is available for this title.
+
+upgrades: []

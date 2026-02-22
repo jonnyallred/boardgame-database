@@ -1,0 +1,52 @@
+id: buccaneer
+name: "Buccaneer"
+alternate_names: []
+year: 1938
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Pirates
+  - Maritime
+  - Family
+  - Trading
+
+evokes:
+  - Discovery
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Geoffrey Bull
+publisher:
+  - Waddingtons
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+description: |
+  Buccaneer is a classic British pirate board game published by Waddingtons from 1938 through the 1980s, designed by Geoffrey Bull. Players sail their pirate ships around a sea board, collecting treasures from the central Treasure Island via chance cards and by capturing rival ships, aiming to accumulate treasure worth 20 points at their home port. The game features physical treasures including diamonds, rubies, pearls, gold bars, and rum barrels, giving it a tactile charm that made it a beloved family staple for generations of British households.
+
+upgrades: []

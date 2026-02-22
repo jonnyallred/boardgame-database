@@ -1,0 +1,49 @@
+id: camelot
+name: "Camelot"
+alternate_names: ["Chivalry"]
+year: 1930
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Agency
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - George S. Parker
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Camelot is an abstract strategy game for two players invented by George S. Parker, originally published as Chivalry in 1882 and republished under the name Camelot by Parker Brothers in 1930. Players move knights and pawns across a 16×12 board, seeking to place two pieces in the opponent's castle while using canters and leaping moves to attack and defend. The game achieved remarkable popularity in the 1930s and attracted admirers including World Chess Champion José Raúl Capablanca, who praised its accessible yet tactically rich gameplay.
+
+upgrades: []

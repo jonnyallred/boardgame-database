@@ -1,0 +1,51 @@
+id: brilliant-lances
+name: "Brilliant Lances"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Hex Map
+
+evokes:
+  - Agency
+  - Masterful
+  - Powerful
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Loren Wiseman
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Brilliant Lances is a starship combat wargame published by Game Designers' Workshop in 1993 as part of the Traveller: The New Era line. Set in the gritty far-future universe of Traveller, it provides detailed rules for ship-to-ship battles using a hex-based map, with individual system tracking for damage, maneuver, and weapons fire. The game is designed for serious wargamers who want a high-fidelity simulation of space naval combat in the Traveller setting.
+
+upgrades: []

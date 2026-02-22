@@ -1,0 +1,53 @@
+id: bruxelles-1893
+name: "Bruxelles 1893"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Auctions/Bidding
+  - Area Control
+  - Euro
+  - Historical
+
+evokes:
+  - Agency
+  - Clever
+  - Masterful
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Etienne Espreman
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Bruxelles 1893 is a worker placement and bidding game designed by Etienne Espreman and published by Pearl Games/Z-Man in 2013, set in the Art Nouveau Brussels of the late 19th century. Players act as architects competing to complete elaborate Art Nouveau buildings and sell artwork to wealthy patrons, gaining both money and prestige. The board features a clever dual-action system where some worker placements cost money but are safe, while others are free but carry the risk of losing a worker to majority displacement. After five rounds the player with the most prestige from completed works, art sales, and bonus cards wins.
+
+upgrades: []

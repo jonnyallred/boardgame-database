@@ -1,0 +1,52 @@
+id: castle-risk
+name: "Castle Risk"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: risk
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Historical
+  - Dice Rolling
+
+evokes:
+  - Agency
+  - Lucky
+  - Powerful
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Unknown
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 10
+
+description: |
+  Castle Risk is a 1986 Parker Brothers variant of the classic Risk formula, set on a map of 18th-century Europe rather than the traditional world map. Each player controls an empire with a secret capital city — losing the capital eliminates that player — and competes to conquer castles across 18 European territories. New card types including Spy, General, Marshal, Diplomat, and Admiral add tactical nuance beyond standard Risk. Despite being a financial disappointment at launch, Castle Risk offers a more focused and faster-ending experience than the base game by tying elimination to capital control.
+
+upgrades: []

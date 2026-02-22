@@ -1,0 +1,57 @@
+id: bauernroulette
+name: "Bauernroulette"
+alternate_names:
+  - "German Roulette"
+  - "Tyrolean Roulette"
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Family
+  - Party
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Bauernroulette (literally "peasant's roulette") is a traditional German spinning-top
+  game played on a wooden circular board containing six numbered balls. A top is spun
+  into the center, scattering the balls into different numbered compartments; one red ball
+  doubles points scored, while a green ball deducts points. Players race to accumulate
+  an agreed total — typically 1000 points — to win. Its simple mechanics and tactile
+  wooden components have made it a perennial favorite with children across Germany.
+
+upgrades: []

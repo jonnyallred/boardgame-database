@@ -1,0 +1,51 @@
+id: catan-scenario-crop-trust
+name: "Catan Scenario: Crop Trust"
+alternate_names: ["Catan: Crop Trust"]
+year: 2018
+
+# Relationships
+game_family: catan
+edition: null
+base_game: catan
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Cooperative
+  - Agriculture
+
+evokes:
+  - Agency
+  - Connection
+  - Discovery
+  - Progress
+  - Wonder
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Catan Scenario: Crop Trust is a 2018 expansion scenario for Settlers of Catan, developed in collaboration with the Global Crop Diversity Trust. Players balance their individual drive to harvest crops for personal points against a collective obligation to store and preserve seeds in the Seed Vault, introducing a semi-cooperative mechanic to the standard competitive Catan framework. The scenario raises awareness of real-world crop diversity and food security while adding educational depth to a familiar game. Requires the base Catan game to play.
+
+upgrades: []

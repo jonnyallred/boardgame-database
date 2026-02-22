@@ -1,0 +1,57 @@
+id: bommerz-over-da-sulphur-river
+name: "Bommerz over da Sulphur River"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Hex Map
+  - Aviation
+  - 1 vs Many
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Humor
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Bommerz over da Sulphur River is a 1998 Warhammer 40,000 aerial combat board game
+  published by Games Workshop in which Ork Fighta-Bommer pilots attempt to destroy vital
+  Imperial bridges, while Imperial defenders pour flak and laser fire at the attackers.
+  The game includes four Ork Fighta-Bommerz miniatures, two Imperial Thunderbolt
+  Interceptors, and a full-color three-piece game board. The game's focus on Ork air
+  assault mechanics and its dedicated miniatures made it a popular collector's piece for
+  Warhammer 40,000 fans.
+
+upgrades: []

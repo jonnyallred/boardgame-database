@@ -1,0 +1,57 @@
+id: blood-bowl
+name: "Blood Bowl"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: blood-bowl
+edition: "1987 First Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Teams
+  - Racing
+  - Dice Rolling
+
+evokes:
+  - Rivalry
+  - Humor
+  - Tension
+  - Powerful
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Blood Bowl is a fantasy sports board game created by Jervis Johnson and published by
+  Games Workshop in 1987 (originally 1986 as the first edition), set in an alternate
+  Warhammer Fantasy world where races like humans, orcs, dwarves, elves, skaven, and
+  trolls compete in a brutal parody of American football. Two players command teams of
+  28mm miniatures, scoring touchdowns while attempting to injure opponents to reduce
+  their numbers on the pitch. The game blends tactical sports strategy with miniature
+  wargame elements and dark humor, inspiring a beloved franchise of games and expansions.
+
+upgrades: []

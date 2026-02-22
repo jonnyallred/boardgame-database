@@ -1,0 +1,57 @@
+id: blue-and-gray-ii
+name: "Blue & Gray II"
+alternate_names:
+  - "Blue & Gray II: Four Civil War Battles"
+year: 1975
+
+# Relationships
+game_family: blue-and-gray
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 90
+max_playtime: 300
+min_age: 14
+
+description: |
+  Blue & Gray II is the direct sequel quadrigame to Blue & Gray, published by SPI in
+  1975 with four more American Civil War battles: Fredericksburg, Hooker and Lee
+  (Chancellorsville, designed by Richard Berg), Chattanooga, and the Battle of the
+  Wilderness. Using the same shared rule system as its predecessor, each scenario uses
+  100 or fewer counters and can be played in a few hours. The game rose to #6 on SPI's
+  Bestseller list and remained there for six months, confirming the quadrigame format
+  as a successful publishing model.
+
+upgrades: []

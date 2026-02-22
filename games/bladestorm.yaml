@@ -1,0 +1,55 @@
+id: bladestorm
+name: "Bladestorm"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Hex Map
+
+evokes:
+  - Powerful
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Bladestorm is a fantasy skirmish-level miniatures board game designed by Coleman
+  Charlton and published by Iron Crown Enterprises (ICE) in 1990, designed as an
+  adjunct to fantasy role-playing games for battles too large to resolve under standard
+  RPG rules. The game features an elegant magic system — the "bladestorm" spell itself
+  being a devastating tornado or expanding ring — along with detailed combat mechanics
+  and a fully realized fantasy world setting. Reviewer Rick Swan called it "a remarkable
+  design" with elegant mechanics in Dragon magazine Issue #178.
+
+upgrades: []

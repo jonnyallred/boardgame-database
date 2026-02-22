@@ -1,0 +1,54 @@
+id: canal-grande
+name: "Canal Grande"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Auctions/Bidding
+  - Filler
+  - Euro
+
+evokes:
+  - Agency
+  - Clever
+  - Mystery
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Alan R. Moon
+  - Aaron Weissblum
+publisher:
+  - Überplay
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Canal Grande is a two-player card game adaptation of San Marco set in Venice, designed by Alan R. Moon and Aaron Weissblum. One player divides a set of drawn cards into two piles, and the other player chooses which pile to take — both players then use their cards to place gondoliers and exert influence across Venice's districts. The classic "I divide, you choose" mechanic creates a constant cat-and-mouse tension as the dividing player must make both halves palatable without giving away too much advantage, making Canal Grande a delightful compact duel of strategy and psychology.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: britannia
+name: "Britannia"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Historical
+  - Variable Player Powers
+  - Asymmetric
+
+evokes:
+  - Agency
+  - Masterful
+  - Powerful
+  - Rivalry
+  - Tension
+
+possible_counts: [3, 4]
+true_counts: [4]
+
+designer:
+  - Lewis Pulsipher
+publisher:
+  - Gibsons Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Britannia is a historical area-control wargame designed by Lewis Pulsipher and first published by Gibsons Games in 1986, later republished by Avalon Hill. Spanning roughly 1000 years of British history from the Roman invasion to the Norman Conquest, three to four players each control multiple factions representing waves of invaders and native peoples. Each nation has unique scoring objectives tied to its historical narrative, creating fascinating tensions as players must advance their own nations while managing the board for long-term position. It is considered a foundational work in the "Mother of All..." genre of multi-faction historical wargames.
+
+upgrades: []

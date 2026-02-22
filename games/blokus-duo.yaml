@@ -1,0 +1,58 @@
+id: blokus-duo
+name: "Blokus Duo"
+alternate_names:
+  - "Blokus Travel"
+year: 2005
+
+# Relationships
+game_family: blokus
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Pattern Building
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Blokus Duo is the two-player variant of Blokus, played on a smaller 14x14 board
+  with black and white pieces (originally purple and orange). As in the original,
+  each player places all 21 polyomino pieces touching only their own pieces corner-to-corner,
+  never face-to-face. Starting squares are positioned closer to the center rather
+  than corners, making the game more aggressive and offensive-focused. Blokus Duo
+  is considered a purer strategy experience than the four-player version since there
+  is no multi-player politics, and was nominated for the 2006 International Gamers Award.
+
+upgrades: []

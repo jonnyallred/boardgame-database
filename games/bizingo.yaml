@@ -1,0 +1,54 @@
+id: bizingo
+name: "Bizingo"
+alternate_names: []
+year: 1852
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Wargame
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  Bizingo is a two-player abstract strategy game originating in the United States in the
+  mid-1850s, played on a semi-triangular grid of 157 triangular cells. Each player
+  commands 18 pieces — 16 soldiers and 2 captains — with the objective of capturing
+  opponents by surrounding them. Its exact origins are mysterious; the first documented
+  print appearance of the rules was in R.C. Bell's The Boardgame Book in 1979, which
+  described it as an American invention. The game bears some resemblance to the
+  traditional Zuni game Awithlaknakwe and remains a curiosity for abstract game enthusiasts.
+
+upgrades: []

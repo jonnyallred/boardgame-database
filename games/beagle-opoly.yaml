@@ -1,0 +1,55 @@
+id: beagle-opoly
+name: "Beagle-opoly"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Economic
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Beagle-opoly is a dog-themed variant of the classic Monopoly game formula, replacing
+  the standard properties and pieces with beagle-related content including dog parks,
+  kennels, and breed-themed locations. Players buy, trade, and develop properties
+  while working to bankrupt opponents in this family-friendly spin-off aimed at
+  fans of beagle dogs. Like all -opoly variants, it offers familiar mechanics
+  with a themed skin appeal to collectors and breed enthusiasts.
+
+upgrades: []

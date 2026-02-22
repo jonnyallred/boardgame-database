@@ -1,0 +1,57 @@
+id: bergnein
+name: "Bergnein"
+alternate_names:
+  - "Berghain ze Game"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Set Collection
+  - Party
+  - Social Deduction
+
+evokes:
+  - Humor
+  - Clever
+  - Tension
+  - Mystery
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 16
+
+description: |
+  Bergnein is a card game created by Alexander Kandiloros and published in 2017 by
+  Ninja Print (Beware of Ninja AB, Gothenburg), satirizing the notoriously selective
+  door policy of Berlin's legendary Berghain nightclub. Players act as the doorman,
+  deciding which guests in line gain entry to the club based on appearance and attitude
+  cards. The game was originally titled "Berghain ze Game" but was renamed following
+  legal threats from the club, and was subsequently withdrawn from sale after legal action.
+  It remains a cult curiosity reflecting the myth of the world's most exclusive door policy.
+
+upgrades: []

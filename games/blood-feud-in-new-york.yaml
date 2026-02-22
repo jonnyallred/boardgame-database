@@ -1,0 +1,55 @@
+id: blood-feud-in-new-york
+name: "Blood Feud in New York"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Blood Feud in New York is a gangster-themed area control board game designed by Kyle
+  Weinandy and published by Eagle Games in 2004, set across a large map of New York City
+  including Queens and Brooklyn. Players build criminal empires of thugs, goons, and
+  hitmen, moving in limos, speedboats, and helicopters to attack rivals and seize control
+  of boroughs for income. The game features over 300 detailed miniatures including
+  spinning helicopter rotors, and rewards players who balance family safety with aggressive
+  territorial expansion.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: catan-scenarios-frenemies
+name: "Catan Scenarios: Frenemies"
+alternate_names: ["Catan: Frenemies", "Frenemies of Catan"]
+year: 2012
+
+# Relationships
+game_family: catan
+edition: null
+base_game: catan
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Negotiation
+  - Trading
+
+evokes:
+  - Agency
+  - Clever
+  - Humor
+  - Rivalry
+  - Tension
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Benjamin Teuber
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 90
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Catan Scenarios: Frenemies is a small 2012 expansion for Settlers of Catan designed by Benjamin Teuber. The module introduces "favor tokens" — players earn these redeemable tokens by performing cooperative acts such as moving the robber harmlessly to the desert, giving away resources, or connecting roads to an opponent's network. Favor tokens can later be spent on significant advantages, creating a system where helping opponents is actually a calculated investment. The expansion adds a witty "frenemies" dynamic to standard Catan and works with 3-6 players.
+
+upgrades: []

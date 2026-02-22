@@ -1,0 +1,56 @@
+id: big-kini
+name: "Big Kini"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - big-kini-expansion
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Tile Placement
+  - Variable Setup
+  - Euro
+
+evokes:
+  - Discovery
+  - Tension
+  - Agency
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Big Kini is a 2007 tile-placement game published by Amigo Spiele in which players
+  explore a variable island landscape, discovering islands and vying for influence and
+  prestige. Influence is gained by capturing posts on islands, which grant special
+  abilities, making positioning and timing key to success. An expansion adds support
+  for five to six players along with additional action card options, extending the
+  reach of the base game.
+
+upgrades: []

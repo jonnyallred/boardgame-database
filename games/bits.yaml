@@ -1,0 +1,54 @@
+id: bits
+name: "Bits"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Complete
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+description: |
+  Bits is a tile placement board game designed by Monika Gohl and Walter Pepperle,
+  published by Ravensburger in 2011. Players place tiles to create patterns or sequences
+  on the shared game space, with strategic placement key to scoring points while
+  blocking opponents. For 1 to 4 players, the game offers both competitive and solo
+  play modes, making it a flexible family abstract that rewards spatial reasoning
+  and planning ahead.
+
+upgrades: []

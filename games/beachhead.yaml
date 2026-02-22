@@ -1,0 +1,56 @@
+id: beachhead
+name: "Beachhead: A Game of Island Invasions in the South Pacific 1942-1944"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Beachhead is a squad-level Pacific theater wargame published by Yaquinto Publications
+  in 1980, packaged in an LP-style folder, that simulates amphibious landings across
+  the South Pacific from 1942 to 1944. Each hex represents 25 yards, each counter one
+  squad or weapons team, and each turn 20 minutes of action. The Japanese player plans
+  defenses and tries to contain the beachhead, while the American player must anticipate
+  island defenses and break out. The game was designed by Michael Matheny with cover
+  art by Rodger B. MacGowan.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: berlin-85
+name: "Berlin '85: The Enemy at the Gates"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Berlin '85: The Enemy at the Gates is a battalion-level board wargame designed by
+  Jim Dunnigan and published by SPI in 1980, originally as a pull-out game in Strategy
+  and Tactics magazine #79. The game hypothesizes a Warsaw Pact assault on West Berlin
+  during the Cold War era, featuring detailed urban combat rules, supply requirements,
+  and an "honors of war" table simulating the defenders' foreknowledge that they will
+  ultimately be overwhelmed. The game was a finalist for the 1981 Charles S. Roberts
+  Award for Best Twentieth-Century Game.
+
+upgrades: []

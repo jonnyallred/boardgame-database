@@ -1,0 +1,52 @@
+id: carolus-magnus
+name: "Carolus Magnus"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Medieval
+  - Historical
+  - Euro
+
+evokes:
+  - Agency
+  - Clever
+  - Masterful
+  - Powerful
+  - Rivalry
+
+possible_counts: [2, 3]
+true_counts: [2, 3]
+
+designer:
+  - Leo Colovini
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Carolus Magnus is an area control game designed by Leo Colovini and published by Winning Moves/Rio Grande Games in 2000, set during the reign of Charlemagne. Players place colored paladins on hexagonal territories, and whoever controls a majority of a paladin color absorbs all pawns of that color — creating sudden, dramatic swings in territorial dominance. When two territories under the same player's control merge, the land grows and becomes harder for opponents to contest. The goal is to be the first to build ten castles by achieving majority control in territories where the Emperor token arrives.
+
+upgrades: []

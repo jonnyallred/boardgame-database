@@ -1,0 +1,52 @@
+id: carcassonne-wheel-of-fortune
+name: "Carcassonne: Wheel of Fortune"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: carcassonne
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Medieval
+  - Euro
+  - Variable Setup
+
+evokes:
+  - Agency
+  - Clever
+  - Lucky
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Klaus-Jurgen Wrede
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Carcassonne: Wheel of Fortune is a standalone variant of Klaus-Jürgen Wrede's classic tile-placement game, published by Hans im Glück/Rio Grande Games in 2009. The central addition is a large 4x4 "Wheel of Fortune" start tile that triggers different random events each round — awarding scoring bonuses to all players, scoring for only the active player, or forcing all players to return a meeple from the board. The Wheel introduces an element of shared fate and variability that distinguishes it from the base game while keeping the familiar city-and-road tile-laying experience intact.
+
+upgrades: []

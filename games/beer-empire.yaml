@@ -1,0 +1,57 @@
+id: beer-empire
+name: "Beer Empire"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Auctions/Bidding
+  - Resource Management
+  - Economic
+  - Euro
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Beer Empire is a competitive board game published by Board&Dice in 2016 in which
+  players manage their own brewery, composing beer recipes from ingredient tiles — malts,
+  hops, fermentation types, and container types — then bidding for market share and
+  submitting beers to festivals for judging. The game runs over six turns with biennial
+  beer festivals where players' submissions are evaluated by critics. Balancing market
+  trends against festival preferences is the key strategic tension, rewarding players
+  who can read what consumers and critics desire each season.
+
+upgrades: []

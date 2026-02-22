@@ -1,0 +1,53 @@
+id: bushido
+name: "Bushido"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Medieval
+  - Asymmetric
+
+evokes:
+  - Agency
+  - Masterful
+  - Powerful
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Bob Charrette
+  - Paul Hume
+publisher:
+  - Fantasy Games Unlimited
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Bushido is a feudal Japan miniatures wargame designed by Bob Charrette and Paul Hume, published by Fantasy Games Unlimited in 1979. Players command samurai and ninja in skirmish combat, with detailed rules for honor, morale, and the unique abilities of different warrior types. The game was one of the first to simulate Japanese feudal warfare in depth, and its detailed combat system was influential in the development of subsequent miniatures and RPG games set in feudal Japan.
+
+upgrades: []

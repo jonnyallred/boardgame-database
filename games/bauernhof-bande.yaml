@@ -1,0 +1,55 @@
+id: bauernhof-bande
+name: "Bauernhof-Bande"
+alternate_names:
+  - "Barnyard Bunch"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Family
+  - Animals
+
+evokes:
+  - Connection
+  - Lucky
+  - Humor
+  - Complete
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Bauernhof-Bande (Barnyard Bunch) is a cooperative children's dice game set on
+  Fridolin's farm, where all the young animals have escaped and must be herded back
+  to the barn before the game ends. Players work together, rolling dice and moving
+  animals across the board in this simple, luck-driven game designed for young children.
+  The cooperative nature encourages teamwork and shared goals among young players.
+
+upgrades: []

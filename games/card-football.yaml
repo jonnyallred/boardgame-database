@@ -1,0 +1,50 @@
+id: card-football
+name: "Card football"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Family
+
+evokes:
+  - Agency
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Card football is a card-based simulation of American football in which players call plays by selecting cards from their hand, resolving outcomes through card comparison or dice. The game abstracts gridiron football into a compact card game format allowing head-to-head play without the complexity of miniatures-based football simulations. Limited specific publisher and designer information is available.
+
+upgrades: []

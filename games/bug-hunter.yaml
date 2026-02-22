@@ -1,0 +1,51 @@
+id: bug-hunter
+name: "Bug Hunter"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Animals
+  - Dexterity
+
+evokes:
+  - Discovery
+  - Humor
+  - Lucky
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Bug Hunter is a children's game in which players compete to collect bugs, using memory, speed, or dexterity mechanics depending on the edition. Limited publisher and designer information is available for this title. The game targets young children and features insect-themed components typical of children's party and family games.
+
+upgrades: []

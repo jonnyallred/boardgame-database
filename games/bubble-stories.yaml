@@ -1,0 +1,51 @@
+id: bubble-stories
+name: "Bubble Stories"
+alternate_names: ["Blubberwelt"]
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Family
+
+evokes:
+  - Connection
+  - Discovery
+  - Humor
+  - Lucky
+  - Wonder
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Matthew Dunstan
+publisher:
+  - Blue Orange Games
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 4
+
+description: |
+  Bubble Stories is a cooperative storytelling and puzzle game designed by Matthew Dunstan and published by Blue Orange Games, aimed at young children. Players use illustrated bubble cards to construct simple narrative sequences, cooperatively telling short visual stories together. The game is designed to build narrative reasoning and communication skills in a playful, low-pressure setting suitable for preschool-age children. Its short playtime and wordless card format make it accessible to non-readers and an excellent early family game.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: botanicus
+name: "Botanicus"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Set Collection
+  - Resource Management
+  - Euro
+  - Nature
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 55
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  Botanicus is a 2024 worker placement game designed by Samuele Tabellini and Vieri
+  Masseini and published by Hans im Glück, in which players act as aristocratic owners
+  competing to build the most beautiful botanical garden in the late 19th century. Players
+  acquire and care for plants, water them, manage a gardener, and satisfy picky visitors
+  who have specific preferences. A unique action-selection mechanism competes for the best
+  spots in the garden, and the game received a 2024 Kennerspiel des Jahres nomination
+  for its elegant mechanics.
+
+upgrades: []

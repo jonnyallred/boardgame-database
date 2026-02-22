@@ -1,0 +1,53 @@
+id: cartaventura-lhasa
+name: "Cartaventura: Lhasa"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: cartaventura
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Historical
+  - Puzzle Solving
+
+evokes:
+  - Connection
+  - Discovery
+  - Mystery
+  - Tension
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Yoshan Deval
+  - Nadine Hoffmann
+publisher:
+  - Thames and Kosmos
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Cartaventura: Lhasa is a cooperative narrative card game published by Kosmos/Thames & Kosmos in 2021, inspired by explorer Alexandra David-Neel's 1916 journey to Tibet. Players build an adventure map with cards, making collective decisions at each branching point — draw, reveal, discard, or use an object — as the story unfolds toward one of five possible endings with no rulebook: instructions emerge naturally from the cards themselves. Set against a backdrop of tigers, hidden temples, and Himalayan mysteries, it delivers a distinctive self-teaching narrative experience for one to six players.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: catan-anniversary-edition
+name: "Catan - Anniversary Edition"
+alternate_names: ["CATAN Anniversary Edition"]
+year: 2020
+
+# Relationships
+game_family: catan
+edition: anniversary
+base_game: catan
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Network Building
+  - Trading
+  - Family
+  - Klaus Teuber
+
+evokes:
+  - Agency
+  - Clever
+  - Progress
+  - Rivalry
+  - Wonder
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Catan GmbH
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Catan Anniversary Edition is a premium collector's edition of Settlers of Catan published to celebrate a milestone anniversary of the game's original 1995 release. The edition features upgraded components — high-quality tiles, metal tokens, and premium packaging — while preserving the classic rules entirely. It serves as a gift-worthy prestige version of the game for long-time fans and collectors seeking a definitive edition of one of the best-selling board games of all time.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: candy-land
+name: "Candy Land"
+alternate_names: []
+year: 1949
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Food Theme
+
+evokes:
+  - Discovery
+  - Lucky
+  - Wonder
+  - Connection
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Eleanor Abbott
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 3
+
+description: |
+  Candy Land is a classic American children's racing game designed by Eleanor Abbott, a polio patient who created it for hospitalized children, and published by Milton Bradley in 1949. Players draw color-coded cards to advance their pawns along a winding path through a whimsical candy-themed kingdom toward the Candy Castle, with no decisions required — the drawn card always dictates the move. Despite its complete absence of strategy, Candy Land became one of the best-selling board games of all time, introducing generations of young children to the concept of turn-taking and board game play.
+
+upgrades: []

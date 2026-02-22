@@ -1,0 +1,54 @@
+id: blockhead
+name: "Blockhead!"
+alternate_names: []
+year: 1954
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Party
+  - Family
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 3
+
+description: |
+  Blockhead! is a classic stacking game invented by G.W. "Jerry" D'Arcey in 1952 and
+  first published by Saalfield Publishing Company in 1954 with 25 brightly colored
+  wooden blocks of various shapes. Players take turns adding a single block to a
+  communal tower without toppling it; the player who causes the tower to fall on their
+  turn loses. Currently produced by Pressman Toy, the game was voted into Games Magazine's
+  Hall of Fame and has remained a staple children's party game for over 70 years.
+
+upgrades: []

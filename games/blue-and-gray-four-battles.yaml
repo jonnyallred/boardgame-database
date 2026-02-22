@@ -1,0 +1,56 @@
+id: blue-and-gray-four-battles
+name: "Blue & Gray: Four American Civil War Battles"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: blue-and-gray
+edition: "Original SPI Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 90
+max_playtime: 300
+min_age: 14
+
+description: |
+  Blue & Gray: Four American Civil War Battles is the original 1975 SPI quadrigame
+  containing Shiloh, Antietam, Cemetery Hill (Gettysburg), and Chickamauga, using a
+  shared rule set accessible to wargame newcomers with 100 or fewer counters per battle.
+  This entry covers the same games as the "Blue & Gray" entry but represents the
+  full-title variant listing in the master catalog. Each battle can be completed in
+  a few hours, making this the definitive accessible entry point to SPI's Civil War
+  wargame library.
+
+upgrades: []

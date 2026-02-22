@@ -1,0 +1,56 @@
+id: brawl
+name: "Brawl"
+alternate_names:
+  - "BRAWL: Real Time Card Game"
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Hand Management
+  - Party
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Masterful
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 2
+min_playtime: 1
+max_playtime: 5
+min_age: 12
+
+description: |
+  Brawl is a real-time card game designed by James Ernest and published by Cheapass Games
+  in 1999, nominated for two Origins Awards including Best Traditional Card Game. Each
+  player uses a 35-card character deck — one of twelve available fighters — and plays
+  in real time with no turns: players make moves or stay idle as they choose, typically
+  finishing in under a minute. Players race to play Hit cards onto Base cards while
+  Freeze cards lock contested bases. Despite game-lengths of seconds to minutes, Brawl
+  has a surprisingly high strategic skill ceiling.
+
+upgrades: []

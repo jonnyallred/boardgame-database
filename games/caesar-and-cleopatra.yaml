@@ -1,0 +1,54 @@
+id: caesar-and-cleopatra
+name: "Caesar & Cleopatra"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Bluffing
+  - Deduction
+  - Ancient
+  - Euro
+  - Reiner Knizia
+
+evokes:
+  - Agency
+  - Clever
+  - Mystery
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Caesar & Cleopatra is a two-player card game designed by Reiner Knizia and first published in 1997, with over 350,000 copies sold. Players represent Caesar and Cleopatra competing to influence five groups of Roman officials — Aedils, Quaestors, Senators, Pretorians, and Censors — by playing numbered influence cards either face-up or face-down, with action cards like Assassins and Scouts adding tactical disruption. After voting cards trigger scoring for each group, the player who has won the most official factions claims victory. The interplay of hidden and revealed information gives this compact game lasting depth.
+
+upgrades: []

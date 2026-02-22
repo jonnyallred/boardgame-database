@@ -1,0 +1,52 @@
+id: buck-rogers-battle-for-the-25th-century
+name: "Buck Rogers – Battle for the 25th Century"
+alternate_names: ["Buck Rogers: Battle for the 25th Century Game"]
+year: 1988
+
+# Relationships
+game_family: buck-rogers
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Area Control
+  - Dice Rolling
+
+evokes:
+  - Agency
+  - Powerful
+  - Rivalry
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [4]
+
+designer:
+  - Jeff Grubb
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Buck Rogers - Battle for the 25th Century is a strategy wargame published by TSR in 1988, designed by Jeff Grubb and based on TSR's Buck Rogers XXVC science-fiction setting. Inspired by Axis & Allies, players command factions competing for control of the solar system, maneuvering armies and fleets across a board where the planets themselves move over time, changing strategic distances. Advanced rules give faction leaders unique abilities drawn from the Buck Rogers lore, adding asymmetric depth to the planetary conquest gameplay.
+
+upgrades: []

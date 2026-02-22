@@ -1,0 +1,51 @@
+id: burn-rate
+name: "Burn Rate"
+alternate_names: ["Burn Rate: The Dot-Com Card Game"]
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Economic
+  - Take That
+
+evokes:
+  - Agency
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Cool Studios
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Burn Rate: The Dot-Com Card Game is a satirical card game set during the dot-com bubble era, published around 2000. Players act as rival dot-com CEOs trying to keep their startup afloat the longest while sabotaging competitors with money-wasting projects, overhiring, and incompetent vice presidents. Each turn your "burn rate" debits your bank account; the last startup standing wins. Employee cards have skill ratings that determine which action cards can be played, adding a light hand-management layer to the comedy of late-1990s internet startup culture.
+
+upgrades: []

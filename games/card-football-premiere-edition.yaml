@@ -1,0 +1,50 @@
+id: card-football-premiere-edition
+name: "Card Football Premiere Edition"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: premiere
+base_game: card-football
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Family
+
+evokes:
+  - Agency
+  - Lucky
+  - Rivalry
+  - Tension
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Card Football Premiere Edition is an enhanced version of the card-based American football game, featuring expanded play-calling options, player cards, and more detailed team differentiation compared to the base game. Players draft or select plays from their hand to simulate offensive and defensive gridiron football in a streamlined card format. Limited specific publisher and designer information is available for this title.
+
+upgrades: []

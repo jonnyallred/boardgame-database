@@ -1,0 +1,53 @@
+id: catan-dice-game
+name: "Catan Dice Game"
+alternate_names: ["Catan: The Dice Game"]
+year: 2007
+
+# Relationships
+game_family: catan
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Roll & Write
+  - Press Your Luck
+  - Family
+  - Klaus Teuber
+
+evokes:
+  - Agency
+  - Lucky
+  - Progress
+  - Rivalry
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Catan GmbH
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Catan Dice Game is a compact dice adaptation of Settlers of Catan designed by Klaus Teuber and published in 2007. Players roll six resource dice up to three times per turn — Yahtzee-style — and use the results to "build" roads, settlements, cities, and knights on a miniature Catan score sheet. The familiar Catan resources appear on the dice faces, and gold serves as a wild. Players accumulate victory points over multiple rounds, with the highest score winning. The game strips Catan to its most elemental push-your-luck core in a portable, fast-playing format.
+
+upgrades: []

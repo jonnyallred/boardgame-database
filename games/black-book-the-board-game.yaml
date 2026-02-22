@@ -1,0 +1,59 @@
+id: black-book-the-board-game
+name: "Black Book: The Board Game"
+alternate_names:
+  - "Чёрная книга"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deck Building
+  - Campaign Mode
+  - Narrative Heavy
+  - Fantasy
+  - Mythology
+
+evokes:
+  - Discovery
+  - Dread
+  - Mystery
+  - Progress
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Black Book: The Board Game is a 2025 cooperative adventure board game for 1 to 4 players
+  adapted from the video game of the same name by Morteshka, which is rooted in Slavic
+  mythology. Players navigate six narrative stories in a dark folkloric world where humans
+  live alongside mythological creatures, progressing through campaign mode as a sorceress
+  fighting demonic forces using deck-building card mechanics. The game translates the
+  video game's distinctive combination of Slavic folklore atmosphere and card-based
+  combat into a tabletop cooperative experience.
+
+upgrades: []

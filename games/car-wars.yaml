@@ -1,0 +1,54 @@
+id: car-wars
+name: "Car Wars"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Post-Apocalyptic
+  - Racing
+  - Programmed Movement
+
+evokes:
+  - Agency
+  - Powerful
+  - Rivalry
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Chad Irby
+  - Steve Jackson
+publisher:
+  - Steve Jackson Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Car Wars is a vehicle combat game designed by Chad Irby and Steve Jackson, first published by Steve Jackson Games in 1981. Set in a post-apocalyptic future where the right-of-way belongs to the biggest guns, players design armed and armored vehicles — from motorcycles to semi-trucks — then battle on roads, arenas, and parking structures. The game uses microphased movement for realistic vehicle dynamics and offers extensive customization of weapons and armor. Car Wars was a hugely popular tournament game throughout the 1980s and spawned numerous expansions and supplements.
+
+upgrades: []

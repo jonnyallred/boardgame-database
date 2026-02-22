@@ -1,0 +1,51 @@
+id: brian-cloughs-football-fortunes
+name: "Brian Clough's Football Fortunes"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Modular Board
+  - Family
+
+evokes:
+  - Agency
+  - Lucky
+  - Progress
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - CDS Software
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Brian Clough's Football Fortunes is a football management board game published by CDS Software in 1987, endorsed by legendary English football manager Brian Clough. Players take on the roles of club managers competing through a ten-team league season and the FA Cup, using player cards to strengthen their squads and money cards to make transfers. From the second season onward, European competitions are added, creating a longer campaign experience. The game blends card management with dice-based match resolution in a sports simulation that was also adapted as a computer game across multiple platforms.
+
+upgrades: []

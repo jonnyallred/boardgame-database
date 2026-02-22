@@ -1,0 +1,52 @@
+id: big-adventure
+name: "Big Adventure"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dice Rolling
+
+evokes:
+  - Discovery
+  - Lucky
+  - Progress
+  - Wonder
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Big Adventure (2019) is a family board game with adventure and exploration themes.
+  Very limited information is available about this specific title; it appears to be
+  a family-oriented game designed for younger players featuring movement-based or
+  exploration mechanics. Details about the designer and publisher could not be
+  confirmed from available sources.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: breakaway-rider
+name: "Breakaway Rider"
+alternate_names:
+  - "Der Ausreißer"
+  - "Das Favorit"
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Racing
+  - Family
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Breakaway Rider (known in German as Der Ausreißer) is a cycling card game published by
+  F.X. Schmid in which players use cards to vie for the lead position in a bicycle race,
+  playing the highest-valued card to break away from the peloton and take control. Originally
+  released in 1963 as Das Favorit, the game was revised and rereleased in 1989 as Der
+  Ausreißer, earning a Spiel des Jahres nomination that year. The hand management mechanic
+  captures the push-and-pull of competitive cycling, where timing a breakaway card correctly
+  decides the race.
+
+upgrades: []

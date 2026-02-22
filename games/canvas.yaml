@@ -1,0 +1,55 @@
+id: canvas
+name: "Canvas"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Set Collection
+  - Pattern Building
+  - Family
+  - Gateway
+
+evokes:
+  - Agency
+  - Clever
+  - Complete
+  - Creative
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jeff Chin
+  - Andrew Nerger
+publisher:
+  - Road to Infamy Games
+artist:
+  - Luan Huynh
+playtime_minutes: 30
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+description: |
+  Canvas is a card-drafting art game designed by Jeff Chin and Andrew Nerger and published by Road to Infamy Games in 2021. Players draft transparent art cards from a shared market, layering three of them over a background to create unique paintings, with the layered icons determining how each painting scores against the round's hidden scoring cards. The game's spectacular transparent card mechanic — where each layer reveals or hides elements of others — creates a visually stunning and deeply satisfying combination puzzle. Canvas is celebrated for its gorgeous production and its blend of creative expression with analytical scoring.
+
+upgrades: []

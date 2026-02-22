@@ -1,0 +1,57 @@
+id: big-boss
+name: "Big Boss"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Auctions/Bidding
+  - Area Control
+  - Wolfgang Kramer
+
+evokes:
+  - Rivalry
+  - Clever
+  - Progress
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Wolfgang Kramer
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Big Boss is a stock acquisition and investment game designed by Wolfgang Kramer and
+  published by Kosmos in 1994, conceived as a response to Sid Sackson's classic Acquire.
+  Players invest in hotel chains, maneuvering for majority control while managing
+  finances through stock purchases and mergers. For 2 to 6 players, the game rewards
+  long-term financial strategy and timing — buying in before value spikes and selling
+  before a rival takes control. Its elegant economic tension makes it a respected
+  entry in the business game genre.
+
+upgrades: []

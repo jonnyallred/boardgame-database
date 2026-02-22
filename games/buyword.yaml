@@ -1,0 +1,52 @@
+id: buyword
+name: "BuyWord"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Economic
+  - Set Collection
+  - Filler
+
+evokes:
+  - Agency
+  - Clever
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Sid Sackson
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  BuyWord is a word game designed by Sid Sackson that combines vocabulary with an economic twist, winner of the 2005 Games Magazine Game of the Year award. Players spend money to buy sets of letter tiles from the bag, then form words to sell for profit — with payoffs based on the quantity and quality of letters used. Discarding down to eight tiles at turn's end and carefully managing cash while building profitable words creates a satisfying puzzle that rewards both word-smithing ability and economic savvy.
+
+upgrades: []

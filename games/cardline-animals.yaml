@@ -1,0 +1,53 @@
+id: cardline-animals
+name: "Cardline: Animals"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: cardline
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Family
+  - Animals
+  - Filler
+
+evokes:
+  - Clever
+  - Discovery
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5]
+
+designer:
+  - Bruno Cathala
+  - Sebastien Pauchon
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Cardline: Animals is a trivia-meets-timeline card game designed by Bruno Cathala and Sébastien Pauchon and published in 2012. Players receive animal cards face-down and take turns placing a card from their hand face-up into an expanding line, correctly ordering it by one chosen attribute — size, weight, or lifespan. If a card is placed incorrectly, the player draws a penalty card; the first to empty their hand wins. The game is educational and competitive in equal measure, rewarding players who know their zoological facts.
+
+upgrades: []

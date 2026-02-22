@@ -1,0 +1,56 @@
+id: bermude
+name: "Bermude"
+alternate_names:
+  - "Bermudes"
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Real-time
+  - Party
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Connection
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Bermude (Bermudes) is a French party game published by Gigamic in which players hold
+  their breath as the real-time timer for the round — the difficulty being to succeed
+  at the game without laughing or breathing. Players place cards to recover treasures
+  from the ocean floor, but when someone takes a breath the round ends and points are
+  tallied. Over five rounds, players try to accumulate more treasures than the mermaid
+  to win cooperatively. Its unique breathing mechanic makes it a memorable and
+  chaotic experience.
+
+upgrades: []

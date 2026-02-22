@@ -1,0 +1,56 @@
+id: before-the-wind
+name: "Before the Wind"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Economic
+  - Euro
+  - Maritime
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Before the Wind is a 2007 merchant trading game in which players compete as merchants
+  trying to fill their warehouses with goods that ship captains require for their voyages.
+  Since each captain will only accept goods from a single merchant, players must quickly
+  collect the right combination of cargo before their rivals do. The game rewards
+  hand management and set collection skills, with a maritime theme of bustling
+  harbor commerce set in the age of sail.
+
+upgrades: []

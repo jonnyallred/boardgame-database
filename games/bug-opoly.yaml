@@ -1,0 +1,52 @@
+id: bug-opoly
+name: "Bug-opoly"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: monopoly
+edition: bugs
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Trading
+  - Economic
+  - Animals
+
+evokes:
+  - Discovery
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Unknown
+publisher:
+  - Late for the Sky
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+description: |
+  Bug-opoly is a themed variant of Monopoly published by Late for the Sky, replacing the standard properties and tokens with insect-themed equivalents. Players buy, sell, and trade bug-themed properties across the board while collecting rent from other players, following standard Monopoly rules adapted for the entomological theme. It is one of many novelty Monopoly variants targeting niche audiences and collectors.
+
+upgrades: []

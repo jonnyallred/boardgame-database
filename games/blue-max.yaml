@@ -1,0 +1,59 @@
+id: blue-max
+name: "Blue Max"
+alternate_names:
+  - "Blue Max: World War I Air Combat"
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+  - Programmed Movement
+  - Aviation
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Lucky
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 240
+min_age: 12
+
+description: |
+  Blue Max is a multi-player WWI aerial combat game published by Game Designer's Workshop
+  (GDW) in 1983, named after the prestigious German order Pour le Mérite (the "Blue Max").
+  Each player is a fighter pilot from the British, French, American, or German air service
+  over the Western Front in 1917-18, using a hexagonal board and secret maneuver planning
+  sheets for simultaneous movement. Planes can be flown in campaign mode with surviving
+  pilots gaining skill over time. The game's 18 double-sided aircraft maneuver sheets
+  and 60-aircraft counter mix made it one of the definitive WWI air wargames.
+
+upgrades: []

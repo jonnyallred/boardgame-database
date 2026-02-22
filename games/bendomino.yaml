@@ -1,0 +1,57 @@
+id: bendomino
+name: "Bendomino"
+alternate_names:
+  - "Rondomino"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Puzzle Solving
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 6
+
+description: |
+  Bendomino is a domino variant designed by Thierry Denoual and published by Blue Orange
+  Games in 2007, featuring 28 curved double-6 dominoes bent at a 120-degree angle.
+  Like standard dominoes, players match numbers at the ends of the chain, but the curved
+  pieces add a spatial puzzle: each new tile must fit physically without overlapping others.
+  This simple twist creates surprising strategic depth as the chain's shape constrains
+  future placements. The game was first released as Rondomino under Gigamic before Blue
+  Orange published the renamed Bendomino edition.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: buffy-the-vampire-slayer-collectible-card-game
+name: "Buffy the Vampire Slayer Collectible Card Game"
+alternate_names: ["BTVS CCG"]
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Deck Building
+  - Horror
+  - Vampires
+
+evokes:
+  - Agency
+  - Clever
+  - Rivalry
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Score Entertainment
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  The Buffy the Vampire Slayer Collectible Card Game is a CCG published by Score Entertainment in 2001, based on the hit TV series. Players build decks around heroes and villains from the show, battling for control of Sunnydale by earning destiny points through winning fights and completing challenges or by controlling Sunnydale Park for six consecutive turns. The base set "Pergamum Prophecy" was followed by two expansions: Angel's Curse and Class of '99. The game uses playmats to represent the various Sunnydale locations from the show.
+
+upgrades: []

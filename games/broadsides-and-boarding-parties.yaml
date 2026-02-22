@@ -1,0 +1,52 @@
+id: broadsides-and-boarding-parties
+name: "Broadsides and Boarding Parties"
+alternate_names: ["Broadsides & Boarding Parties"]
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Pirates
+  - Maritime
+  - Programmed Movement
+
+evokes:
+  - Agency
+  - Lucky
+  - Powerful
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Larry Harris
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Broadsides and Boarding Parties is a two-player naval combat game published by Milton Bradley in 1984 as the third entry in the Gamemaster Series, designed by Larry Harris. Players command a Spanish galleon and a pirate ship, first maneuvering with hidden movement cards to position for cannon broadsides, then fighting hand-to-hand if the ships collide in a boarding action. The game features chunky plastic ships and cannon pieces and offers accessible tactical gameplay with a swashbuckling pirate theme.
+
+upgrades: []

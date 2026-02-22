@@ -1,0 +1,51 @@
+id: bunker-poker
+name: "Bunker Poker"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Press Your Luck
+  - Dice Rolling
+
+evokes:
+  - Agency
+  - Lucky
+  - Mystery
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Bunker Poker is a poker-variant game that incorporates military or strategic theming into its card or dice-based bluffing mechanics. Players use standard poker-style hand ranking or bidding combined with a bunker-themed setting. Limited publisher and designer information is available for this title.
+
+upgrades: []

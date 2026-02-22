@@ -1,0 +1,57 @@
+id: bismarck
+name: "Bismarck"
+alternate_names: []
+year: 1962
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Maritime
+  - War
+  - Deduction
+
+evokes:
+  - Tension
+  - Dread
+  - Rivalry
+  - Mystery
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Bismarck is a two-player naval wargame published by Avalon Hill in 1962 that simulates
+  the historic 1941 hunt for the German battleship Bismarck. One player controls the
+  Bismarck (and the Prinz Eugen in later editions), while the other commands the British
+  fleet searching the Atlantic. The game uses a double-blind system where British forces
+  search the map's zones until they locate the Bismarck, then combat shifts to a
+  tactical battle board. Its accessible rules and dramatic premise made it an excellent
+  introductory wargame; a revised edition appeared in 1978.
+
+upgrades: []

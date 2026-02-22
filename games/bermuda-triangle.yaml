@@ -1,0 +1,56 @@
+id: bermuda-triangle
+name: "Bermuda Triangle"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Family
+  - Maritime
+
+evokes:
+  - Tension
+  - Lucky
+  - Dread
+  - Rivalry
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Bermuda Triangle is a 1975 Milton Bradley board game in which players pilot ships
+  across a board depicting the legendary Atlantic Ocean zone, trying to reach home
+  with their cargo while a magnetic mystery cloud sweeps the seas, swallowing ships
+  as it passes. The cloud — controlled by a three-ringed spinner — moves
+  semi-randomly and can engulf players' vessels, sending them back to start. The race
+  to navigate home safely while avoiding the supernatural cloud captures the popular
+  mystery surrounding the real Bermuda Triangle.
+
+upgrades: []

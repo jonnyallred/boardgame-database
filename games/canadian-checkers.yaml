@@ -1,0 +1,49 @@
+id: canadian-checkers
+name: "Canadian Checkers"
+alternate_names: ["Canadian Draughts"]
+year: 1900
+
+# Relationships
+game_family: checkers
+edition: canadian
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Agency
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Traditional
+publisher:
+  - Traditional
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 8
+
+description: |
+  Canadian Checkers (also known as Canadian Draughts) is a traditional variant of draughts played on a 12x12 board with 30 pieces per player, making it one of the largest and most complex variants of the game. As in standard checkers, pieces advance diagonally and capture by jumping over opponents, with kings able to move any number of squares. The larger board and increased piece count create a significantly deeper strategic game than the standard 8x8 variant, requiring precise long-term planning. It is a traditional game with no specific designer or publisher.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: beda-fomm
+name: "Beda Fomm"
+alternate_names:
+  - "Beda Fomm: Wavell in the Western Desert, 1941"
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Beda Fomm is a two-player WWII wargame designed by Frank Chadwick and published by
+  Game Designer's Workshop (GDW) in 1979, simulating the 1941 Battle of Beda Fomm in
+  Libya where British forces trapped an Italian army trying to escape. Part of GDW's
+  "120 System" — games with 120 counters designed to play in about 120 minutes — one
+  player controls the British setting an ambush while the other controls the Italians
+  attempting a breakout. A revised edition was published by Consim Press in 2010.
+
+upgrades: []

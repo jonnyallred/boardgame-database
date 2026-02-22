@@ -1,0 +1,53 @@
+id: byzanz
+name: "Byzanz"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Auctions/Bidding
+  - Set Collection
+  - Filler
+  - Euro
+
+evokes:
+  - Agency
+  - Clever
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Emanuele Ornella
+publisher:
+  - Renegade Game Studios
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Byzanz is a fast-playing card game of trading and auctions designed by Emanuele Ornella. Players act as merchants in a bazaar, bidding for sets of goods cards using their hand as currency — meaning every bid card you spend is gone, but every card you win adds to your collection. The push-and-pull of spending cards to win more cards creates a delightful economic tension in a compact filler format. The player who accumulates the most valuable collection of goods at game end wins.
+
+upgrades: []

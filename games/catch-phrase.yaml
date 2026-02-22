@@ -1,0 +1,52 @@
+id: catch-phrase
+name: "Catch Phrase"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Teams
+  - Word Play
+  - Real-time
+
+evokes:
+  - Connection
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [4, 6, 8, 10]
+true_counts: [6, 8]
+
+designer:
+  - Craig Clark Williamson
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Catch Phrase is an electronic word-guessing party game designed by Craig Clark Williamson and first published by Parker Brothers/Hasbro in 1994. Teams alternate having one member try to get teammates to guess a word or phrase displayed on a disc, providing any clues except rhymes, initials, syllable counts, or partial words; the disc is passed between teams after each successful guess, and the team caught holding it when the buzzer sounds scores a point for the opposing team. The frantic passing of the hot-potato disc as the timer ticks down creates edge-of-your-seat excitement and works brilliantly at large parties.
+
+upgrades: []

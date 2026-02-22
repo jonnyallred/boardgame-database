@@ -1,0 +1,51 @@
+id: buck-rogers-1934
+name: "Buck Rogers"
+alternate_names: ["Buck Rogers 25th Century A.D."]
+year: 1934
+
+# Relationships
+game_family: buck-rogers
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Sci-Fi
+  - Family
+
+evokes:
+  - Discovery
+  - Lucky
+  - Rivalry
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Lutz and Sheinkman
+artist:
+  - Dick Calkins
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Buck Rogers is a 1934 triple board game set published by Lutz & Sheinkman under license from the popular Buck Rogers comic strip. The set contains three illustrated game boards depicting scenarios from the sci-fi universe — "Cosmic Rocket Wars," "Siege of Gigantica," and "Search for the Secrets of Atlantis" — each playable independently or combined. Illustrated by original strip artist Dick Calkins, the set is a vivid artifact of early 20th-century science fiction pop culture and one of the rarest Buck Rogers collectibles.
+
+upgrades: []

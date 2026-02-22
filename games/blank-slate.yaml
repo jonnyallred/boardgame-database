@@ -1,0 +1,55 @@
+id: blank-slate
+name: "Blank Slate"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Word Play
+  - Family
+
+evokes:
+  - Humor
+  - Connection
+  - Clever
+  - Tension
+  - Lucky
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [5, 6, 7, 8]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Blank Slate is a word association party game published by USAopoly (The Op Games)
+  in 2020 in which players secretly write a word to complete an incomplete phrase shown
+  on a cue card. Scoring rewards matching exactly one other player — worth 3 points —
+  while three or more matches score only 1 point each and no matches score nothing.
+  The game balances trying to think like a crowd versus standing out, creating a
+  delightful tension between conformity and uniqueness. Includes 250 double-sided
+  cue cards for 500 total prompts.
+
+upgrades: []

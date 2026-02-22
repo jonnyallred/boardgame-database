@@ -1,0 +1,57 @@
+id: borderlands
+name: "Borderlands"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Negotiation
+  - Resource Management
+  - Trading
+  - Medieval
+
+evokes:
+  - Agency
+  - Rivalry
+  - Tension
+  - Progress
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Borderlands is a 1982 strategy game published by Eon Productions, set on an abstract
+  continent where players represent barbaric tribes conquering territories, trading
+  gathered resources, and constructing cities, boats, and weapons. The first player or
+  alliance to control or build three cities wins. Reviewer Allen Varney noted in 1982
+  that if you like Diplomacy but struggle to get enough players, Borderlands is a must-play
+  — games finish in about two hours. The game was later adapted into a 1986 Electronic
+  Arts video game called Conquest.
+
+upgrades: []

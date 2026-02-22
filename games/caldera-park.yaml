@@ -1,0 +1,56 @@
+id: caldera-park
+name: "Caldera Park"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Family
+  - Animals
+  - Nature
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+evokes:
+  - Agency
+  - Clever
+  - Complete
+  - Progress
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Michael Kiesling
+  - Wolfgang Kramer
+publisher:
+  - Capstone Games
+artist: []
+playtime_minutes: 35
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+description: |
+  Caldera Park is a tile-laying and pattern-building game designed by the celebrated duo Wolfgang Kramer and Michael Kiesling, published by Pegasus Spiele in 2022. Players design a national park by placing animal family tiles on a personal board, earning points for large contiguous groups of the same species with access to watering holes while avoiding harsh weather terrain. Each round, one player selects a species and terrain requirement from a shared display and all players must place a token following that rule, creating a simultaneous-draft feel. Its short playtime, accessible rules, and satisfying spatial puzzle make it an excellent family euro.
+
+upgrades: []

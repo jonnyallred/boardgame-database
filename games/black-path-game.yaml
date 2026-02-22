@@ -1,0 +1,55 @@
+id: black-path-game
+name: "Black Path Game"
+alternate_names:
+  - "Brick"
+year: 1960
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 5
+max_playtime: 30
+min_age: 8
+
+description: |
+  The Black Path Game is a two-player topological abstract game invented by Larry Black
+  in 1960 and popularized by Martin Gardner in his October 1963 Scientific American column.
+  Players alternately extend a connected path by filling adjacent squares with one of
+  three tile configurations; the player who forces the path to run back into the board
+  edge loses. For rectangular boards with an even number of squares, a first-player
+  winning strategy was discovered by Elwyn R. Berlekamp. Simple in concept but rich in
+  mathematical structure, the game is a classic among abstract game enthusiasts.
+
+upgrades: []

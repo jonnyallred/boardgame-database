@@ -1,0 +1,55 @@
+id: borneo
+name: "Borneo"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Hand Management
+  - Maritime
+  - Trading
+
+evokes:
+  - Agency
+  - Progress
+  - Tension
+  - Clever
+  - Rivalry
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Borneo is a merchant trading game published by DaVinci Games in which players take
+  the roles of 17th century spice merchants conducting commerce with the East Indies.
+  Players manage shipment cards, establish harbors, and carry out missions to advance
+  their standing in their trading company. For 3 to 5 players, the game features
+  compact Euro-style mechanics focused on hand management and maritime trade in the
+  age of the spice route.
+
+upgrades: []

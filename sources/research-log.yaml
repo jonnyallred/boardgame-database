@@ -7666,3 +7666,47 @@ entries:
     game_id: attika
     url: "https://www.meeplemountain.com/articles/the-dusty-euro-series-attika/"
     description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: bausack
+    url: "https://boardgamewikia.com/bausack"
+    description: "Game information page — boardgamewikia.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: bausack
+    url: "https://www.boardgamebliss.com/products/bausack"
+    description: "Game information page — boardgamebliss.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: bausack
+    url: "https://www.ultraboardgames.com/bausack/index.php"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: breakthrough
+    url: "https://boardgameguys.com/breakthrough/"
+    description: "Game information page — boardgameguys.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: breakthrough
+    url: "https://en.wikipedia.org/wiki/Breakthrough_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: breakthru
+    url: "https://en.wikipedia.org/wiki/Breakthru_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: breakthru
+    url: "https://newventuregames.com/products/breakthru"
+    description: "Game information page — newventuregames.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: beachhead
+    url: "https://en.wikipedia.org/wiki/Beachhead_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: beachhead
+    url: "https://rockymountainnavy.com/2018/07/16/wargame-retroplay-beachhead-yaquinto-publishing-1980/"
+    description: "Game information page — rockymountainnavy.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: bears-vs-babies
+    url: "https://en.wikipedia.org/wiki/Bears_vs._Babies"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: bears-vs-babies
+    url: "https://www.explodingkittens.com/products/bears-vs-babies-original-edition"
+    description: "Game information page — explodingkittens.com"

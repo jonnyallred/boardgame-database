@@ -1,0 +1,56 @@
+id: belter
+name: "Belter"
+alternate_names:
+  - "Belter: Mining the Asteroids, 2076"
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Trading
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Agency
+  - Progress
+  - Rivalry
+  - Tension
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Belter: Mining the Asteroids, 2076 is a science fiction economic game designed by
+  Frank Chadwick and Marc Miller and published by GDW in 1979, set in the asteroid belt
+  in the late 21st century. Players control mining companies competing to extract ore,
+  natural gas, and dangerous contra-terrene matter from asteroids, then trade commodities
+  for credits at three major planetoid stations. The game blends economics, power politics,
+  and combat in a hard science fiction setting.
+
+upgrades: []

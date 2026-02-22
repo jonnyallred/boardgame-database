@@ -1,0 +1,53 @@
+id: bezzerwizzer
+name: "Bezzerwizzer"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Party
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Lucky
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Bezzerwizzer is a trivia game invented by Jesper Bülow in Denmark in 2006 and published
+  by Mattel. The name is a play on "Besserwisser," German for "know-it-all." Players draw
+  category tiles at the start of each round and answer trivia questions, with a special
+  stealing mechanic allowing players to swap categories and snatch opponents' correct
+  answers. With over 5,000 questions across 20 categories, the game combines general
+  knowledge with tactical tile-swapping, rewarding both quiz skill and strategic cunning.
+
+upgrades: []

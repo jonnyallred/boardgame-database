@@ -1,0 +1,57 @@
+id: bisca
+name: "Bisca"
+alternate_names:
+  - "Brisca"
+  - "Briscola"
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Hand Management
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 4, 6]
+true_counts: [2, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 8
+
+description: |
+  Bisca is a traditional Portuguese trick-taking card game closely related to the Italian
+  Briscola and Spanish Brisca, played with a shortened 40-card deck (standard 52-card
+  deck with 8s, 9s, and 10s removed). Aces count 11 points and the 7 (the bisca or
+  manilha) counts 10 points, with all 120 points distributed among captured tricks.
+  The first player or team to accumulate 61 points wins a hand; matches are typically
+  played to the best of seven games. The game remains popular throughout Portugal and
+  Brazil as a social card game.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: boomtown
+name: "Boomtown"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Dice Rolling
+  - Economic
+  - Western
+
+evokes:
+  - Lucky
+  - Tension
+  - Clever
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Bruno Cathala
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 45
+min_age: 8
+
+description: |
+  Boomtown is a gold rush card and dice game designed by Bruno Cathala and Bruno Faidutti,
+  published by Face2Face Games in 2004. Players compete as prospectors bidding on
+  mining concessions in the Wild West, using dice to determine gold production and action
+  cards to hire highwaymen, card sharks, and politicians. Players can become Mayor of
+  towns like Whiskey River or San Narciso for bonus income, or build saloons to diversify
+  revenue. The game plays in about 30 minutes, making it an ideal casual game with
+  meaningful auction tension.
+
+upgrades: []

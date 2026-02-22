@@ -1,0 +1,51 @@
+id: broker
+name: "Broker"
+alternate_names: []
+year: 1961
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Economic
+  - Family
+
+evokes:
+  - Agency
+  - Lucky
+  - Rivalry
+  - Tension
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Unknown
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Broker is a stock market card game originally published in 1961 by Spencer-Murray Corporation and later republished by Ravensburger and others. Players are dealt market action cards and given starting capital to buy shares in four fictional companies, using their hand of cards to manipulate stock prices upward for their holdings and downward for opponents. The game ends when the last card is played, with the player holding the greatest combined value of cash and stocks declared the winner. It is a straightforward economic game that captures the push-and-pull of stock market speculation in a compact card-driven format.
+
+upgrades: []

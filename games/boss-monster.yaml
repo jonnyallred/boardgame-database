@@ -1,0 +1,58 @@
+id: boss-monster
+name: "Boss Monster: The Dungeon Building Card Game"
+alternate_names:
+  - "Boss Monster"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Fantasy
+  - Dungeon Crawler
+  - Humor
+
+evokes:
+  - Humor
+  - Progress
+  - Clever
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 13
+
+description: |
+  Boss Monster: The Dungeon Building Card Game is a 2013 card game by Brotherwise Games
+  (founded by brothers Johnny and Chris O'Neal), funded via Kickstarter with over $215,000
+  raised. Inspired by classic side-scrolling video games, players become villainous Bosses
+  building underground dungeons, luring adventurers with treasure, then destroying them
+  to collect their souls. The first Boss to collect 10 souls wins, but Bosses take wounds
+  from heroes who survive the dungeon. The 8-bit pixel art aesthetic and video game humor
+  made it a global bestseller.
+
+upgrades: []

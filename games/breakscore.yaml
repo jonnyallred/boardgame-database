@@ -1,0 +1,54 @@
+id: breakscore
+name: "Breakscore"
+alternate_names:
+  - "Breakscore Champ-Play"
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Clever
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Breakscore is a New Zealand board game designed by Matt Taylor that packages three related
+  games in one box: Break-Away, Breakscore, and Breakscore Champ-Play, each building on the
+  prior in complexity. The game is primarily dice and card driven, with players scoring points
+  through a series of rounds. Designed for 2-4 players aged 10 and up, Breakscore is a light
+  family game notable mainly as a regional self-published title, and detailed information
+  about its wider distribution is limited.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: bonkers
+name: "Bonkers!"
+alternate_names:
+  - "This Game is Bonkers!"
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Modular Board
+  - Family
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Unique
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Bonkers! is a Parker Brothers board game designed by Paul Gruen and published in 1978,
+  with the tagline "It's Never the Same Game Twice!" Players race to score 12 points by
+  reaching scoring stations on a linear track, placing "track cards" on empty spaces that
+  send players forward, backward, to Start, or to Score areas. As the board fills with
+  cards, the path becomes increasingly chaotic and unpredictable. Milton Bradley revived
+  it in the early 1990s, and Winning Moves reissued it in 2016.
+
+upgrades: []

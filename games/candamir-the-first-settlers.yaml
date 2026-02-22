@@ -1,0 +1,53 @@
+id: candamir-the-first-settlers
+name: "Candamir: The First Settlers"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: catan
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Adventure
+  - Resource Management
+  - Variable Player Powers
+  - Fantasy
+  - Klaus Teuber
+
+evokes:
+  - Agency
+  - Discovery
+  - Progress
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Catan GmbH
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Candamir: The First Settlers is the debut entry in the Catan Adventures series, designed by Klaus Teuber and published in 2004. Players take on the roles of shipwrecked settlers on Catan, exploring the island to gather raw materials and natural resources for building and brewing, while encountering wild animals and gaining experience that improves their character's strength, intelligence, or charisma. Unlike other Catan titles, Candamir is a semi-cooperative adventure game focused on character progression and exploration rather than competitive building, bringing an RPG-lite feel to the Catan universe.
+
+upgrades: []

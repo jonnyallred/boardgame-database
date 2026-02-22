@@ -1,0 +1,57 @@
+id: bloody-april
+name: "Bloody April: The Battle of Shiloh, 1862"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 1440
+min_playtime: 720
+max_playtime: 2880
+min_age: 16
+
+description: |
+  Bloody April: The Battle of Shiloh, 1862 is a two-player monster tactical wargame
+  designed by Richard Berg and published by SPI in 1979, with cover art adapted from
+  an 1862 engraving and graphic design by Redmond A. Simonsen. Using a revision of
+  the Terrible Swift Sword game system, the game features over 1,000 counters simulating
+  the Union forces under Grant versus the Confederates under Johnston. The game
+  immediately reached #1 on SPI's Top Ten bestseller list upon release and remained
+  there for eight months. A revised GMT Games edition appeared in 2022 as part of the
+  Great Battles of the American Civil War series.
+
+upgrades: []

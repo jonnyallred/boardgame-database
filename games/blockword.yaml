@@ -1,0 +1,54 @@
+id: blockword
+name: "Blockword"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Blockword is a word game in which players place letter blocks over locating octagons
+  in the center of a tray, with different letters facing each player depending on their
+  position at the table. The asymmetric letter visibility creates a unique word-building
+  challenge as players must consider both what letters they can see and what their
+  opponents can see. The spatial element distinguishes it from conventional word games
+  and rewards players who can form words under these positional constraints.
+
+upgrades: []

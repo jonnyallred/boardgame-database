@@ -389,9 +389,9 @@ bgg_id,name,year,type,status,notes,yaml_id
 19842,Bauernroulette,,boardgame,,,
 1588,Bauernschlau,,boardgame,,,
 1231,Bausack,,boardgame,,,
-4298,Beachhead: A Game of Island Invasions in the South Pacific 1942-1944,,boardgame,,,
+4298,Beachhead: A Game of Island Invasions in the South Pacific 1942-1944,,boardgame,,,beachhead
 92247,Beagle-opoly,,boardgame,,,
-281549,Beast,2002,boardgame,,,
+281549,Beast,2002,boardgame,,,beast-2002
 175,Beat the Buzzard,1988,boardgame,,,
 8486,Bed Bugs,,boardgame,,,
 6914,Beda Fomm,1979,boardgame,,,
@@ -400,7 +400,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 50750,Belfort,,boardgame,,,
 259374,Belratti,2018,boardgame,,,
 4316,Belter,,boardgame,,,
-,Belägrings-spelet,,boardgame,,,
+,Belägrings-spelet,,boardgame,,,belagrings-spelet
 28298,Bendomino,,boardgame,,,
 17449,Beowulf: The Legend,,boardgame,,,
 27948,Beppo der Bock,,boardgame,,,
@@ -445,18 +445,18 @@ bgg_id,name,year,type,status,notes,yaml_id
 2453,Blokus,,boardgame,,,
 16395,Blokus Duo,,boardgame,,,
 3071,Blood Bowl,1987,boardgame,,,
-90137,Blood Bowl: Team Manager – The Card Game,,boardgame,,,
+90137,Blood Bowl: Team Manager – The Card Game,,boardgame,,,blood-bowl-team-manager
 14258,Blood Feud in New York,,boardgame,,,
 ,Blood on the Clocktower,2022,boardgame,,,
 170216,Blood Rage,2015,boardgame,,,
 248,Blood Royale,,boardgame,,,
 24372,Bloodbath at the Sakarya,,boardgame,,,
-11139,"Bloody April: The Battle of Shiloh, 1862",1979,boardgame,,,
+11139,"Bloody April: The Battle of Shiloh, 1862",1979,boardgame,,,bloody-april
 11964,Bloody Ridge,,boardgame,,,
 34227,Blox,,boardgame,,,
-19254,Blue & Gray,,boardgame,,,
-,Blue & Gray II,,boardgame,,,
-4564,Blue & Gray: Four American Civil War Battles,,boardgame,,,
+19254,Blue & Gray,,boardgame,,,blue-and-gray
+,Blue & Gray II,,boardgame,,,blue-and-gray-ii
+4564,Blue & Gray: Four American Civil War Battles,,boardgame,,,blue-and-gray-four-battles
 ,Blue Marble Game,,boardgame,,,
 508,Blue Max,,boardgame,,,
 21882,Blue Moon City,,boardgame,,,
@@ -492,12 +492,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 392,Brawl,,boardgame,,,
 12694,Brax,,boardgame,,,
 923,Breakaway Rider,,boardgame,,,
-20203,Breakout,,boardgame,,,
+20203,Breakout,,boardgame,,,breakout-normandy
 19859,Breakscore,,boardgame,,,
 3825,Breakthrough,2001,boardgame,,,
 335,Breakthru,,boardgame,,,
 332386,Brew,2021,boardgame,,,
-,Brian Clough's Football Fortunes,1987,boardgame,,,
+,Brian Clough's Football Fortunes,1987,boardgame,,,brian-cloughs-football-fortunes
 3894,Brilliant Lances,,boardgame,,,
 240,Britannia,,boardgame,,,
 96,Broadsides and Boarding Parties,,boardgame,,,
@@ -507,7 +507,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 144592,Bruxelles 1893,,boardgame,,,
 341178,Bubble Stories,,boardgame,,,
 22287,Buccaneer,,boardgame,,,
-22908,Buck Rogers,1934,boardgame,,,
+22908,Buck Rogers,1934,boardgame,,,buck-rogers-1934
 548,Buck Rogers – Battle for the 25th Century,,boardgame,,,
 8930,Buffy the Vampire Slayer Collectible Card Game,2001,boardgame,,,
 5940,Bug Hunter,,boardgame,,,
@@ -516,7 +516,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 28649,Bug-opoly,,boardgame,,,
 22552,Bugs! Bugs! Bugs!,,boardgame,,,
 13745,Bul,,boardgame,,,
-8093,Bull's-Eye Ball,,boardgame,,,
+8093,Bull's-Eye Ball,,boardgame,,,bulls-eye-ball
 3268,Bunker Poker,,boardgame,,,
 59149,Bunny Bunny Moose Moose,,boardgame,,,
 361335,Bunny Hops!,,boardgame,,,
@@ -535,12 +535,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 8920,BuyWord,,boardgame,,,
 114115,By the Sword!,,boardgame,,,
 38032,Byzanz,,boardgame,,,
-30324,Ca$h 'n Gun$: Live,,boardgame,,,
+30324,Ca$h 'n Gun$: Live,,boardgame,,,cash-n-guns-live
 ,Ca$h 'n Guns (Second Edition),2014,boardgame,,,cash-n-guns-second-edition
 171499,Cacao,2015,boardgame,,,
 1430,Caesar,,boardgame,,,
-132,Caesar & Cleopatra,,boardgame,,,
-1722,Caesar's Legions,,boardgame,,,
+132,Caesar & Cleopatra,,boardgame,,,caesar-and-cleopatra
+1722,Caesar's Legions,,boardgame,,,caesars-legions
 ,Café Baras,2024,boardgame,,,cafe-baras
 214,Café International,,boardgame,,,cafe-international
 1542,Calamity,,boardgame,,,
@@ -554,14 +554,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 46255,Campaign Manager 2008,,boardgame,,,
 ,Campaign Trail,2019,boardgame,,,
 3590,Campaign Trail: The Game of Presidential Elections,,boardgame,,,
-41,Can't Stop,,boardgame,,,
-217547,Can't Stop Express,,boardgame,,,
+41,Can't Stop,,boardgame,,,cant-stop
+217547,Can't Stop Express,,boardgame,,,cant-stop-express
 5454,Canadian Checkers,,boardgame,,,
 ,Canadian Monopoly,,boardgame,,,
 4401,Canal Grande,,boardgame,,,
 12004,Candamir: The First Settlers,,boardgame,,,
 5048,Candy Land,1949,boardgame,,,
-20731,Capes & Cowls,,boardgame,,,
+20731,Capes & Cowls,,boardgame,,,capes-and-cowls
 1155,Capitol,,boardgame,,,
 393325,Captain Flip,2024,boardgame,,,
 219509,Captain Silver,,boardgame,,,
@@ -594,7 +594,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Cash 'n Guns,2014,boardgame,,,
 19237,Cash'n Guns,,boardgame,,,
 98189,Casse-toi pov' con,2011,boardgame,,,
-655,Castle,2000,boardgame,,,
+655,Castle,2000,boardgame,,,castle-2000
 ,Castle Combo,2024,boardgame,,,
 191065,Castle Flutterstone,,boardgame,,,
 29411,Castle Knights,,boardgame,,,
@@ -606,7 +606,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Cat in the Box: Deluxe Edition,2022,boardgame,,,
 57390,Catacombs,,boardgame,,,
 152959,Catan - Anniversary Edition,,boardgame,,,
-17419,Catan 3D Collector's Edition,,boardgame,,,
+17419,Catan 3D Collector's Edition,,boardgame,,,catan-3d-collectors-edition
 27710,Catan Dice Game,2007,boardgame,,,
 38749,Catan Geographies: Germany,,boardgame,,,
 32270,Catan Geographies: Settlers of Hesse,,boardgame,,,

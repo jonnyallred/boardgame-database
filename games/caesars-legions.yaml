@@ -1,0 +1,51 @@
+id: caesars-legions
+name: "Caesar's Legions"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Ancient
+
+evokes:
+  - Agency
+  - Powerful
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Caesar's Legions is a simple two-player wargame depicting ancient Roman military campaigns. Published in the 1970s, the game is designed as an accessible introduction to wargaming, with streamlined rules covering Roman legion tactics against various opponents. It serves as an entry-level historical wargame for players new to the genre.
+
+upgrades: []

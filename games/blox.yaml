@@ -1,0 +1,54 @@
+id: blox
+name: "Blox"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Blox is an abstract strategy game in which players construct a 3D chain of blocks
+  on a base plate, racing to be the first to build a connected chain of their own
+  blocks linking all four edges of the board. Deceptively simple rules lead to
+  surprisingly complex spatial play as players must simultaneously build their own
+  connections while blocking opponents. The three-dimensional nature of the block
+  placement adds a spatial reasoning element absent from flat abstract games.
+
+upgrades: []

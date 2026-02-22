@@ -1,0 +1,57 @@
+id: borodino
+name: "Borodino"
+alternate_names:
+  - "The Battle of Borodino: Napoleon in Russia 1812"
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Borodino is a board wargame designed by John Young and published by SPI in 1972,
+  first as a pull-out game in Strategy & Tactics No. 32, then as a standalone boxed set.
+  Simulating the 1812 Battle of Borodino during Napoleon's invasion of Russia, the game
+  uses a simplified ruleset based on Napoleon at Waterloo — fast-moving and accessible
+  while remaining durably popular. It placed 23rd out of 202 games in SPI's 1976
+  wargamer poll, still ranking high four years after release due to its speed and
+  accessibility for the hard-core wargaming community.
+
+upgrades: []

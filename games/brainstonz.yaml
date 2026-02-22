@@ -1,0 +1,54 @@
+id: brainstonz
+name: "Brainstonz"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Tile Placement
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Brainstonz is a two-player abstract strategy game designed by Philippe Trudel and
+  published by McWiz Games, in which players place pairs of stones on a board to form
+  a row of four in vertical, horizontal, or diagonal lines. On each turn a player
+  places two stones on the board or removes an opponent's stone when their stones sit
+  on twin symbols. The game has a strong following among abstract game enthusiasts and
+  has been implemented as an open-source digital application with AI opponents.
+
+upgrades: []

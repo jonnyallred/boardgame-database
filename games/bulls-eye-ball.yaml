@@ -1,0 +1,50 @@
+id: bulls-eye-ball
+name: "Bull's-Eye Ball"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Bull's-Eye Ball is a dexterity game in which players toss or roll a ball toward a target, scoring points based on accuracy. The simple skill-based mechanic is accessible to all ages and works well as a party or family activity game. Limited specific publisher and designer information is available for this title.
+
+upgrades: []

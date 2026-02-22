@@ -1,0 +1,53 @@
+id: caesar
+name: "Caesar"
+alternate_names: ["Alesia"]
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Ancient
+  - Hex Map
+  - Asymmetric
+
+evokes:
+  - Agency
+  - Masterful
+  - Powerful
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Robert Bradley
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Caesar (originally published as Alesia) is a two-player hex-based wargame designed by Robert Bradley and published by Avalon Hill in 1976, simulating Julius Caesar's famous siege of Alesia in 52 BC. One player commands the Roman legions encircling the Gallic stronghold while the other controls Vercingetorix's defenders inside and the relief army attacking from outside. The asymmetric strategic challenge — simultaneously defending an encirclement from within and without — makes it a classic study in ancient siege warfare.
+
+upgrades: []

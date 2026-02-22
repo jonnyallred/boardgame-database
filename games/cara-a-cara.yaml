@@ -1,0 +1,51 @@
+id: cara-a-cara
+name: "Cara a Cara"
+alternate_names: ["Face to Face"]
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Deduction
+  - Party
+
+evokes:
+  - Clever
+  - Discovery
+  - Humor
+  - Mystery
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Cara a Cara is a deduction and guessing game in which players try to identify opponents' hidden character cards through yes-or-no questions, similar in concept to the classic Guess Who? game. The face-to-face format creates direct competitive interaction as players narrow down possibilities through deductive questioning. Limited specific publisher and designer information is available for this title.
+
+upgrades: []

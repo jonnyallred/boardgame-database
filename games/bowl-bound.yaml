@@ -1,0 +1,56 @@
+id: bowl-bound
+name: "Bowl Bound"
+alternate_names:
+  - "Bowl-Bound!"
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Economic
+  - Historical
+
+evokes:
+  - Agency
+  - Tension
+  - Lucky
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Bowl Bound is a college football simulation board game originally marketed in 1973
+  by Time Inc. under the Sports Illustrated brand. Players select from 32 historical
+  NCAA Division I-A teams from 1960-1970, with statistical grids based on actual team
+  strengths balancing nine offensive plays against six defensive formations. Weighted
+  probability dice rolls (216 offensive outcomes against 36 defensive outcomes) produced
+  statistically informed results. In 1978 Avalon Hill acquired the rights and published
+  additional team sets, continuing the game until home computers made it obsolete.
+
+upgrades: []

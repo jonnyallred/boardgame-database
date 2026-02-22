@@ -1,0 +1,53 @@
+id: burg-appenzell
+name: "Burg Appenzell"
+alternate_names: ["The Castle of Appenzell", "Château Roquefort"]
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Family
+  - Modular Board
+  - Action Points
+
+evokes:
+  - Clever
+  - Discovery
+  - Humor
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Jens-Peter Schliemann
+  - Bernhard Weber
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 6
+
+description: |
+  Burg Appenzell (The Castle of Appenzell) is a 3D family game designed by Jens-Peter Schliemann and Bernhard Weber, published by Zoch in 2007. Players move mice through the corridors of a castle, using action points to reveal passages and shift floor tiles to expose cheese hidden beneath. When two mice of the same color meet a cheese type, their player collects that cheese — the first to gather four different varieties wins. The clever sliding-tile castle creates a constantly shifting puzzle and delivers surprising moments of discovery for young players.
+
+upgrades: []

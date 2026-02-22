@@ -1,0 +1,54 @@
+id: blue-stones
+name: "Blue Stones"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Area Control
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Blue Stones is a fantasy wargame set in the world of Zargo where the magical Blue
+  Stones are a source of great power. Players controlling different races — including
+  the Wizard-Monks who defend the stones — compete in a tactical conflict over these
+  coveted artifacts. The game combines area control with fantasy-themed combat mechanics
+  in a classic wargame format. Limited information is available about this title's
+  designer and publisher history.
+
+upgrades: []

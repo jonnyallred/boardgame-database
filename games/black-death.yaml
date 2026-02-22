@@ -1,0 +1,56 @@
+id: black-death
+name: "Black Death"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Variable Player Powers
+  - Historical
+  - Medieval
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Dread
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Black Death is a 1993 board game published by Blacksburg Tactical Research Center for
+  2 to 6 players in which each player takes the role of a historical or custom-designed
+  disease sweeping across medieval Europe in 1347. Each disease has a Virulence and
+  Mortality rating that together sum to 6, creating asymmetric starting conditions.
+  Players spread across a map of Europe attempting to infect as many population centers
+  as possible, assisted or hindered by random event cards. The first player to reach
+  an agreed victim total wins this grim, tongue-in-cheek race game.
+
+upgrades: []

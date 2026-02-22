@@ -1,0 +1,50 @@
+id: business-chess
+name: "business chess"
+alternate_names: ["Business Chess"]
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Economic
+
+evokes:
+  - Agency
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Business Chess is a variant of the classic game of chess that incorporates business and economic mechanics, such as buying and selling pieces, accumulating resources, or corporate acquisition themes layered onto the traditional chess board. Limited publisher and designer information is available for this title, which appears in several independent versions.
+
+upgrades: []

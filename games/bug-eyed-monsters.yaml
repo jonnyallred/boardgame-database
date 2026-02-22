@@ -1,0 +1,50 @@
+id: bug-eyed-monsters
+name: "Bug-Eyed Monsters"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Bug-Eyed Monsters is a 1983 children's board game with a science-fiction alien theme. Players compete using simple mechanics in a game featuring the colorful monster imagery popular in early 1980s family games. Limited information is available on the publisher and designer of this title.
+
+upgrades: []

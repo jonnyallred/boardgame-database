@@ -1,0 +1,56 @@
+id: bindle-rails
+name: "Bindle Rails"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Network Building
+  - Route Building
+  - Economic
+  - Trains
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Bindle Rails is a print-and-play card game designed by Jack Neal in 2008 in which
+  players serve as railroad executives of one of the legendary Big Four Northeastern
+  U.S. railroad companies. Players expand their network, manipulate stock prices, and
+  acquire technologies while racing to connect from the East Coast to Chicago or St.
+  Louis. Drawing inspiration from the 18XX series for finance mechanics and Ticket to
+  Ride for route-building goals, the game packs a surprisingly rich railroad experience
+  into a compact format.
+
+upgrades: []

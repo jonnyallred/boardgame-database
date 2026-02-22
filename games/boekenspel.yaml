@@ -1,0 +1,52 @@
+id: boekenspel
+name: "Boekenspel"
+alternate_names: []
+year: 1957
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+
+evokes:
+  - Discovery
+  - Progress
+  - Lucky
+  - Complete
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Boekenspel (Book Game) is a Dutch educational board game published in 1957 with a
+  books and reading theme. Very limited information is available about this obscure
+  vintage Dutch title, which appears to have been designed to encourage reading and
+  literacy among children through game mechanics likely involving book-themed movement
+  or collection. It represents a category of mid-century educational games produced
+  in the Netherlands for school or family use.
+
+upgrades: []

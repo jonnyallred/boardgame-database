@@ -1,0 +1,53 @@
+id: catan-geographies-settlers-of-hesse
+name: "Catan Geographies: Settlers of Hesse"
+alternate_names: ["Catan: Hesse", "Scenario: The Settlers of Hessen"]
+year: 2006
+
+# Relationships
+game_family: catan
+edition: null
+base_game: catan
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Network Building
+  - Trading
+  - Historical
+  - Klaus Teuber
+
+evokes:
+  - Agency
+  - Discovery
+  - Progress
+  - Rivalry
+  - Wonder
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Catan GmbH
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Catan Geographies: Settlers of Hesse is the first in the Catan Geographies series, mapping the medieval German state of Hesse — home to Wiesbaden and Frankfurt — onto a fixed Catan board. Standard Catan rules apply with regional modifications: players may only build cities at historically accurate city intersections (waiving the usual two-road spacing rule), roads follow designated construction rectangles, and red-marked road spaces grant special trading privileges with the bank. Requires the base Catan game to play.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: blood-bowl-team-manager
+name: "Blood Bowl: Team Manager – The Card Game"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: blood-bowl
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Card Drafting
+  - Fantasy
+  - Fantasy Flight Games
+
+evokes:
+  - Rivalry
+  - Humor
+  - Progress
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 13
+
+description: |
+  Blood Bowl: Team Manager — The Card Game is a competitive card game designed by Jay
+  Little and published by Fantasy Flight Games in 2011, set in the Games Workshop Blood
+  Bowl universe. Two to four players manage teams — Chaos, Dwarf, Wood Elf, Human, Orc,
+  or Skaven — across five rounds of a brutal season, customizing rosters by drafting
+  Star Players, hiring staff, upgrading facilities, and cheating to gain the upper hand.
+  The season culminates in the Blood Bowl tournament, where the most resourceful team
+  manager wins. Expansions include Sudden Death and Foul Play.
+
+upgrades: []

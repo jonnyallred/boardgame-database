@@ -1,0 +1,56 @@
+id: blitzkrieg
+name: "Blitzkrieg"
+alternate_names: []
+year: 1965
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - blitzkrieg-module-system
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 720
+min_age: 14
+
+description: |
+  Blitzkrieg is a strategic-level wargame published by Avalon Hill in 1965, designed by
+  Larry Pinksy and Thomas Shaw. Notably, it was the first commercial wargame that did
+  not simulate a specific historical battle — instead depicting a non-historical conflict
+  between two major powers using blitzkrieg strategy. With nearly 400 counters, it was
+  also a precursor to the "monster" wargames of the 1970s. It pioneered partial
+  elimination as a combat result and became a bestseller that influenced an entire
+  generation of wargame design.
+
+upgrades: []

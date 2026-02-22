@@ -1,0 +1,55 @@
+id: bobbin-bumblebee
+name: "Bobbin' Bumblebee"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Family
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 3
+
+description: |
+  Bobbin' Bumblebee is a motorized dexterity game published by Mega Brands, a thematic
+  reworking of the classic Loopin' Louie format with a bee-and-honey theme. Bobbin the
+  bumblebee flies around a central motor on a spinning arm, and players use paddles to
+  deflect the bee away from their honeycomb discs. The first player to lose all their
+  discs to the bee is eliminated; the last player with discs remaining wins. Quick,
+  noisy, and exciting, the game requires batteries and is ideal for young children
+  developing hand-eye coordination.
+
+upgrades: []

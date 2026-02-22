@@ -1,0 +1,51 @@
+id: burg-der-1000-spiegel
+name: "Burg der 1000 Spiegel"
+alternate_names: ["Mirror Mansion", "Castle of 1000 Mirrors"]
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Puzzle Solving
+  - Family
+
+evokes:
+  - Clever
+  - Discovery
+  - Humor
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Burg der 1000 Spiegel (Castle of 1000 Mirrors) is a clever physical puzzle game published by Ravensburger in 2009, featuring a friendly vampire named Victor and his castle. The game box itself forms the castle, with three windows on each side — one open, others showing hidden items. Players use four mirrors inserted at 45-degree angles to reflect images of objects out of the single open window, racing to correctly position mirrors to help Victor locate misplaced items. The physical mirror-manipulation mechanic is uniquely hands-on and delightful for young players.
+
+upgrades: []
