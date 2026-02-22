@@ -1,0 +1,49 @@
+id: cherry-ames-nursing-game
+name: "Cherry Ames' Nursing Game"
+alternate_names: []
+year: 1959
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+
+evokes:
+  - Lucky
+  - Progress
+  - Discovery
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Cherry Ames' Nursing Game is a 1959 Parker Brothers board game based on the popular Cherry Ames book series about a young student nurse. Two to six players travel around a track representing different phases of nurses' training, collecting six colored rings and racing to be the first to "graduate" from nursing school. The game features a simple racing mechanic typical of family games of the era, with the board illustrated to reflect the nursing career theme. It reflects the mid-century trend of creating games based on popular children's book series.
+
+upgrades: []

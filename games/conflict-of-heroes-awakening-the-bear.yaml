@@ -1,0 +1,57 @@
+id: conflict-of-heroes-awakening-the-bear
+name: "Conflict of Heroes: Awakening the Bear! – Russia 1941-42"
+alternate_names:
+  - "Conflict of Heroes: Awakening the Bear!"
+year: 2008
+
+# Relationships
+game_family: conflict-of-heroes
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Action Points
+  - Variable Player Powers
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Uwe Eickert
+publisher:
+  - Academy Games
+artist:
+  - Uwe Eickert
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Conflict of Heroes: Awakening the Bear! is a hex-and-counter wargame simulating squad-level and platoon-level combat on the Eastern Front during the German invasion of the Soviet Union in 1941-42. Players command squads and individual units using an action point system where each unit can act independently, giving the game a fluid, intuitive feel compared to traditional IGO-UGO wargames. The "initiative" system allows players to react to enemy moves in real time, creating dynamic back-and-forth tension even outside of your own turn. Winner of the 2009 Origins Award for Best Historical Board Game, it is widely praised for being one of the most accessible hex wargames for newcomers while still offering significant tactical depth.
+
+upgrades: []

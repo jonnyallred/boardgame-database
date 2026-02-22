@@ -1,0 +1,55 @@
+id: coppit
+name: "Coppit"
+alternate_names:
+  - "Fang den Hut"
+  - "Catch the Hat"
+year: 1927
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Take That
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Otto Maier Verlag
+  - Ravensburger
+  - Spear's Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Coppit (originally Fang den Hut or "Catch the Hat!" in German) is a classic children's running-fight board game first published in 1927 by Otto Maier Verlag, the predecessor to Ravensburger. Players roll a die and move their conical, hat-shaped pieces around a circular track, trying to land on and capture opponents' pieces by stacking them under their own hat. Captured pieces are carried along as prisoners until the captor returns them to their home base for permanent elimination. Safety squares on the track provide brief refuge. Published in the UK by Spear's Games from 1964, it remains a beloved European children's classic appreciated for its simple rules and exciting stacking mechanic.
+
+upgrades: []

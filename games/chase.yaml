@@ -1,0 +1,50 @@
+id: chase
+name: "Chase"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Hex Map
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Tom Kruszewski
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Chase is a two-player abstract strategy game in which dice are used as pieces but never rolled — instead each die's face value determines its speed (number of hexes it can move per turn). Each player places nine dice on the board with values totaling 25, and must maintain that total at all times; when a piece is captured, its pip value is redistributed to another friendly die. A player wins by reducing their opponent to four dice, making it impossible to maintain the required total of 25. The game offers surprisingly deep strategy through movement in six directions, bumping, wraparound, and ricochet mechanics.
+
+upgrades: []

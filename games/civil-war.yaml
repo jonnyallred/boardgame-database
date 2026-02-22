@@ -1,0 +1,52 @@
+id: civil-war
+name: "Civil War"
+alternate_names: []
+year: 1961
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Charles S. Roberts
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 300
+min_playtime: 240
+max_playtime: 480
+min_age: 12
+
+description: |
+  Civil War is a strategic-level American Civil War wargame published by Avalon Hill in 1961 as part of the centennial commemorations, designed by Charles S. Roberts. Unusually for Avalon Hill, it uses plastic tokens instead of cardboard counters, and covers the entire Civil War from April 1861 to March 1865 with one player controlling Union forces and the other the Confederacy. It employs the standard hex grid and Combat Results Table mechanics of the era. Despite fitting neatly into neither the wargamer nor the social gamer market, it was short-lived in Avalon Hill's catalog but remains historically notable as a Roberts design.
+
+upgrades: []

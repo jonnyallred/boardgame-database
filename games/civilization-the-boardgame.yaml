@@ -1,0 +1,58 @@
+id: civilization-the-boardgame
+name: "Civilization: The Boardgame"
+alternate_names: ["Civilization"]
+year: 1980
+
+# Relationships
+game_family: civilization
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Civilization
+  - Tech Tree
+  - Area Control
+  - Trading
+  - Negotiation
+  - Resource Management
+  - Historical
+  - Ancient
+  - Cult Classic
+
+evokes:
+  - Progress
+  - Agency
+  - Powerful
+  - Masterful
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [5, 6, 7]
+
+designer:
+  - Francis Tresham
+publisher:
+  - Hartland Trefoil
+  - Avalon Hill
+artist: []
+playtime_minutes: 480
+min_playtime: 360
+max_playtime: 600
+min_age: 14
+
+description: |
+  Civilization: The Boardgame is a groundbreaking 1980 design by Francis Tresham that packs the sweep of human history from 8000 BC to the Roman era into a single game. Two to seven players each lead a historical civilization, expanding territory, trading resources, and advancing through a technology tree of inventions — including notable calamities — as they compete for cultural and technological supremacy. Civilization pioneered the civilization-building genre in both analog and digital gaming, directly inspiring Sid Meier's legendary video game series, as well as games like 7 Wonders and Through the Ages. Winning the 1983 Origins Award, it is considered one of the most historically significant board games ever designed.
+
+upgrades: []

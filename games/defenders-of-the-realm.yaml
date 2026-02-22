@@ -1,0 +1,56 @@
+id: defenders-of-the-realm
+name: "Defenders of the Realm"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Hand Management
+  - Variable Player Powers
+  - Fantasy
+  - Ameritrash
+  - Eagle-Gryphon Games
+
+evokes:
+  - Dread
+  - Tension
+  - Progress
+  - Connection
+  - Powerful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Richard Launius
+publisher:
+  - Eagle-Gryphon Games
+artist:
+  - Larry Elmore
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 13
+
+description: |
+  Defenders of the Realm is a cooperative fantasy board game for 1-4 players designed by Richard Launius and published by Eagle-Gryphon Games in 2010, set in the richly illustrated world of artist Larry Elmore. Players choose from heroic champions — Cleric, Ranger, Wizard, Rogue, and others — and must coordinate to defeat four invading generals and their minion armies before they can reach Monarch City. The game draws clear inspiration from Pandemic's cooperative structure but applies it to a high-fantasy Dungeons & Dragons-adjacent setting with card-driven special abilities and dice combat. It earned nominations for Best Thematic Board Game and helped establish the fantasy co-op genre that flourished in the 2010s.
+
+upgrades: []

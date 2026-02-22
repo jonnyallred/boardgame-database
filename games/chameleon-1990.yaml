@@ -1,0 +1,49 @@
+id: chameleon-1990
+name: "Chameleon"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Connection
+  - Wonder
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 4
+
+description: |
+  Chameleon (1990) is a children's board game with an animal color theme. Limited sourcing is available for this obscure title; the game appears to be a simple family or children's game from 1990 with chameleon-themed mechanics involving color matching or memory. Further details on designer and publisher are not readily available.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: cathedral
+name: "Cathedral"
+alternate_names: ["Cathedral: The Game of the Mediaeval City"]
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Area Control
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Robert Moore
+publisher:
+  - Brightway Products
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Cathedral is a two-player abstract strategy game invented by New Zealand pilot Robert Moore and first published in 1979, inspired by the interlocking buildings he observed from the air around Christchurch Cathedral. Played on a 10x10 wooden board enclosed by turreted walls representing a medieval city, players alternate placing polyomino-like wooden pieces representing buildings, trying to claim territory by enclosing it wall-to-wall with their pieces. The neutral Cathedral piece is placed first, and each player then attempts to maximize their territory while denying space to their opponent. With simple rules but deep spatial reasoning, Cathedral is considered a classic of abstract design.
+
+upgrades: []

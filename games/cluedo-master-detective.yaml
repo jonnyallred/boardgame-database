@@ -1,0 +1,50 @@
+id: cluedo-master-detective
+name: "Cluedo Master Detective"
+alternate_names: ["Clue Master Detective", "Super Cluedo"]
+year: 1988
+
+# Relationships
+game_family: clue
+edition: null
+base_game: cluedo
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Mystery
+  - Family
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Discovery
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [5, 6, 7]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Clue Master Detective (also known as Super Cluedo in Europe) is an expanded 1988 Parker Brothers edition of the classic Cluedo formula, scaling the game up to support up to 10 players with a significantly enriched component set. The game adds four new suspects (Miss Peach, Monsieur Brunette, Madame Rose, and Sergeant Gray), two new weapons (poison and horseshoe), and four new rooms (fountain, gazebo, courtyard, and carriage house), requiring more complex deduction across a larger suspect pool. A 30th anniversary edition was published in 2018 by Hasbro and Winning Moves Games.
+
+upgrades: []

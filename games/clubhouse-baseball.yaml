@@ -1,0 +1,51 @@
+id: clubhouse-baseball
+name: "Clubhouse Baseball"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Racing
+  - Variable Setup
+  - Events
+
+evokes:
+  - Agency
+  - Masterful
+  - Rivalry
+  - Progress
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Clubhouse Games Inc.
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Clubhouse Baseball is a stat-based baseball simulation board game published by Clubhouse Games Inc. in 1989, featuring 624 individual player cards based on actual 1988 Major League Baseball season statistics. The game allows players to act as owner, manager, and coach, making decisions that mirror real-life baseball — from lineup construction to in-game strategy — with each player's performance statistically modeled after their real-world results. Players can replay the 1988 season, play a current season, or create fantasy matchups. It was praised as an accessible entry point for tabletop baseball simulation fans.
+
+upgrades: []

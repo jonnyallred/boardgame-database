@@ -1,0 +1,55 @@
+id: die-macher
+name: "Die Macher"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Negotiation
+  - Economic
+  - Area Control
+  - Hand Management
+  - Euro
+  - Cult Classic
+  - Historical
+
+evokes:
+  - Agency
+  - Rivalry
+  - Tension
+  - Clever
+  - Masterful
+
+possible_counts: [3, 4, 5]
+true_counts: [5]
+
+designer:
+  - Karl-Heinz Schmiel
+publisher: []
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 300
+min_age: 14
+
+description: |
+  Die Macher is a legendary political simulation game designed by Karl-Heinz Schmiel and published by Hans im Glück in 1986, simulating seven consecutive German state elections leading to a national mandate. Players represent political parties managing platforms, media influence, voter opinion, and coalition negotiations across the Länder as they try to align their party with public opinion and accumulate seats. It is widely considered one of the deepest, most complex Euro games ever designed, demanding 4-5 hours and razor-sharp strategic thinking. Die Macher holds the distinction of being ranked #1 on BoardGameGeek for several years in its early history, a testament to its enduring respect among serious hobbyists.
+
+upgrades: []

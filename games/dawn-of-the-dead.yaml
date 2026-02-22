@@ -1,0 +1,51 @@
+id: dawn-of-the-dead
+name: "Dawn of the Dead"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - 1 vs Many
+  - Wargame
+  - Horror
+  - Zombies
+
+evokes:
+  - Dread
+  - Tension
+  - Agency
+  - Rivalry
+  - Survival
+
+possible_counts: [1, 2]
+true_counts: [1, 2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Dawn of the Dead is a science fiction board wargame published by Simulations Publications, Inc. (SPI) in 1978, based on George Romero's landmark zombie film released the same year. Set in a shopping mall on the day after the zombie apocalypse, the game pits four survivors — two SWAT officers and two civilians — against fifty zombie counters on an 11x17" mall map. One player controls the humans trying to arm civilians, seal the mall, and eliminate all zombies, while the other (or an automated system in solitaire mode) controls the zombie horde. A rare collector's item today, it stands as an early example of licensed horror board gaming.
+
+upgrades: []

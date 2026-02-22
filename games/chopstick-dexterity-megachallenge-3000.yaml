@@ -1,0 +1,53 @@
+id: chopstick-dexterity-megachallenge-3000
+name: "Chopstick Dexterity MegaChallenge 3000"
+alternate_names: ["CDMC 3000", "Chopstick Dexterity Mega Challenge 3000"]
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Party
+  - Family
+  - Food Theme
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Greg Lam
+publisher:
+  - Mayday Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Chopstick Dexterity MegaChallenge 3000 is a frantic real-time dexterity game published by Mayday Games, themed as a Japanese TV game show promoting chopstick use among youth. Each round, a disk token is revealed indicating a specific shape (shrimp, tentacle, nigiri, onigiri, or sushi roll) in a specific color, and all players simultaneously race to grab the matching wooden piece from a shared bowl using only chopsticks. The fastest player wins the disk. With 25 shape pieces, 35 disk tokens, and included chopsticks, CDMC 3000 delivers hilarious, fast-playing competition for groups of all ages.
+
+upgrades: []

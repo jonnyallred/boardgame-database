@@ -1,0 +1,52 @@
+id: clan-war
+name: "Clan War"
+alternate_names: ["Clan War: Legend of the Five Rings"]
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Deck Building
+  - Asymmetric
+  - Fantasy
+  - Medieval
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Masterful
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Alderac Entertainment Group
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Clan War is a 28mm fantasy miniatures wargame published by Alderac Entertainment Group in 1998, set in the Legend of the Five Rings universe of feudal Rokugan. Players build samurai armies from one of the great clans — including warriors, shugenja (mages), and supernatural creatures — and fight for the right to name their lord Emperor. The game combines a card deck with a d10 dice system to determine combat outcomes, with clan armies generally restricted to a single faction. The miniatures, originally produced by AEG and later re-released by Magnificent Egos, are 28mm Asian fantasy figures.
+
+upgrades: []

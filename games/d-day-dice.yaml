@@ -1,0 +1,52 @@
+id: d-day-dice
+name: "D-Day Dice"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Press Your Luck
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Connection
+  - Lucky
+  - Dread
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer:
+  - Emmanuel Aquin
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  D-Day Dice is a cooperative dice game for 1-4 players designed by Emmanuel Aquin and published by Word Forge Games in 2012, set during the Allied landings of World War II. Players roll custom dice representing soldiers, specialists, and equipment, strategically locking and rerolling to gather resources needed to storm the beach and neutralize machine gun nests. Each player manages their own unit but shares resources with allies, requiring coordination and calculated risk-taking to advance. The game won multiple Golden Geek awards and earned a reputation as one of the best solo-capable cooperative dice games in the hobby.
+
+upgrades: []

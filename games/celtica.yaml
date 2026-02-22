@@ -1,0 +1,57 @@
+id: celtica
+name: "Celtica"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Modular Board
+  - Family
+  - Gateway
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+evokes:
+  - Lucky
+  - Clever
+  - Discovery
+  - Wonder
+  - Connection
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - Ravensburger
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Celtica is a family board game by Wolfgang Kramer and Michael Kiesling, published by Ravensburger in 2006, set in 11th-century Ireland where players seek to gather magical amulets with the help of five shared druids. Players play colored cards to move the five druid figures across the board, collecting amulets along the way, with each player secretly trying to gather the most amulets of their own type. The game blends card management with a shared board, creating lively interaction as players try to guide druids toward their own goals. A lighthearted family game from a renowned designer duo.
+
+upgrades: []

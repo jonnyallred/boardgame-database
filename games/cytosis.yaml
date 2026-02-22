@@ -1,0 +1,53 @@
+id: cytosis
+name: "Cytosis: A Cell Biology Board Game"
+alternate_names:
+  - "Cytosis"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Resource Management
+  - Set Collection
+  - Euro
+  - Family
+
+evokes:
+  - Progress
+  - Clever
+  - Discovery
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - John Coveyou
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Cytosis is a worker placement game set inside a human cell, designed by John Coveyou and published by Genius Games in 2017 following a successful Kickstarter campaign. Players place workers on organelles — the nucleus, mitochondria, ribosomes, and more — to gather resources and convert them into enzymes, hormones, and cell receptors that score points. The game is scientifically accurate enough to be used as an educational tool, yet engaging enough to appeal to general gamers. It stands out as one of the most successful science-themed board games, making cellular biology tactile and interactive through clever worker placement mechanics.
+
+upgrades: []

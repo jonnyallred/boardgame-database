@@ -1,0 +1,51 @@
+id: detective-charlie
+name: "Detective Charlie"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 0  # Solitary (cooperative)
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Mystery
+  - Family
+
+evokes:
+  - Mystery
+  - Discovery
+  - Connection
+  - Clever
+  - Tension
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Theo Riviere
+publisher: []
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 7
+
+description: |
+  Detective Charlie is a cooperative family deduction game designed by Théo Rivière and published by IELLO/LOKI, in which 1-5 players work together to solve mysteries in the city of Mysterville. Players roll a die to move Detective Charlie around the board, interviewing witnesses who each know one detail that helps eliminate suspects. The game includes 6 cases of increasing difficulty, making it a good introductory mystery game for children aged 7 and up. Its approachable deduction mechanics, short playtime, and cooperative nature make it an excellent gateway to more complex mystery games.
+
+upgrades: []

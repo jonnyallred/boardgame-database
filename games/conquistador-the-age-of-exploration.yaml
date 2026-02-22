@@ -1,0 +1,58 @@
+id: conquistador-the-age-of-exploration
+name: "Conquistador: The Age of Exploration"
+alternate_names:
+  - "Conquistador: The Age of Exploration 1495-1600"
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Economic
+  - Route Building
+  - Wargame
+  - Historical
+  - Maritime
+  - Western
+
+evokes:
+  - Discovery
+  - Progress
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Richard Berg
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Conquistador: The Age of Exploration is a board game published by SPI (Simulations Publications Inc.) in 1976, designed by Richard Berg with assistance from Greg Costikyan. Set during the Age of Exploration from 1495 to 1600, players take the roles of European colonial powers dispatching expeditions to the New World to discover gold, establish colonies, and build empires. Despite using wargame trappings like a hex map, the design emphasis is on exploration, trade, and economic development rather than combat. Originally published as a pull-out game in Strategy & Tactics Issue 58 before receiving a boxed edition, it remains one of the classic SPI designs of the era for its nuanced portrayal of colonialism and competition.
+
+upgrades: []

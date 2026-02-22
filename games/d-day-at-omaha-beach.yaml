@@ -1,0 +1,53 @@
+id: d-day-at-omaha-beach
+name: "D-Day at Omaha Beach"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Action Points
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Masterful
+  - Clever
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - John Butterfield
+publisher: []
+artist: []
+playtime_minutes: 300
+min_playtime: 120
+max_playtime: 420
+min_age: 14
+
+description: |
+  D-Day at Omaha Beach is an acclaimed solitaire wargame designed by John Butterfield and published by Decision Games, simulating the brutal American landings at Omaha Beach on June 6, 1944. The player controls the US 1st and 29th Infantry Divisions as they fight to establish a beachhead against unknown German defensive positions, using an innovative diceless combat system that emphasizes intelligent use of weapons and tactical decision-making. The game offers three scenarios ranging from a 2-3 hour introduction to a full-day 7-hour recreation of the entire battle. It won the 2009 Charles S. Roberts Award for Best World War 2 Era Board Wargame and is widely regarded as one of the finest solitaire wargames ever designed.
+
+upgrades: []

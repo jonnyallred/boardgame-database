@@ -1,0 +1,55 @@
+id: cuba-libre
+name: "Cuba Libre"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Negotiation
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Rivalry
+  - Powerful
+  - Unique
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Jeff Ruggiero
+  - Volko Ruhnke
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Cuba Libre is the second volume in GMT Games' acclaimed COIN (Counterinsurgency) series, putting 1-4 players into the Cuban Revolution of 1956-1959. Each player controls one of four asymmetric factions — the 26th of July Movement, the Batista Government, the Directorio, or the Syndicate — each with distinct capabilities and victory conditions that create overlapping alliances and shifting diplomacy. The game is considered the most accessible entry point to the COIN system due to its streamlined rules and shorter play time. Its brilliant solo and multiplayer bot system allows it to be played by any player count, making it as rewarding for the lone revolutionist as for a full table of scheming factions.
+
+upgrades: []

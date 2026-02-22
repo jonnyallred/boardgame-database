@@ -1,0 +1,49 @@
+id: cities-2008
+name: "Cities"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - City Building
+  - Abstract
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Cities (2008) is a tile-placement and city-building board game. Limited sourcing is available for this obscure title; the game appears to be a Euro-style design in which players build city districts or networks. Specific details on designer, publisher, and precise mechanics could not be confirmed from available sources.
+
+upgrades: []

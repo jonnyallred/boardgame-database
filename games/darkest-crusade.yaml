@@ -1,0 +1,50 @@
+id: darkest-crusade
+name: "Darkest Crusade"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse (free print and play)
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Dread
+
+possible_counts: [1, 2]
+true_counts: [1, 2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Darkest Crusade is a free print-and-play hex-and-counter wargame covering the Axis invasion of Russia that began June 22, 1941 (Operation Barbarossa). Using a fast-moving firing point combat system at corps-army level with monthly turns, it includes the Finnish front, air and naval fleet units, and Blitzkrieg/breakthrough rules for dynamic early-war German offensives. The game's unpredictable combat results make it well-suited to solitaire play. It is listed in BoardGameGeek's recommended free print-and-play historical wargame collections.
+
+upgrades: []

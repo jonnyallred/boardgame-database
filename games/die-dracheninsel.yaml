@@ -1,0 +1,53 @@
+id: die-dracheninsel
+name: "Die Dracheninsel"
+alternate_names:
+  - "Dragon Island"
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Negotiation
+  - Bluffing
+  - Family
+  - Fantasy
+
+evokes:
+  - Tension
+  - Rivalry
+  - Humor
+  - Lucky
+  - Agency
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Tom Schoeps
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Die Dracheninsel (Dragon Island) is a German adventure game designed by Tom Schoeps and published by Amigo, in which players are treasure hunters navigating across a dragon island to reach the treasure at its center. The key twist: two players must work together to carry the central dragon coin back to their boat, and upon arrival the boat owner faces a critical decision — split the loot fairly or betray their partner and take it all. This "cooperate or defect" moment gives the game its distinctive tension, blending racing mechanics with a gripping social dilemma that plays out differently each session.
+
+upgrades: []

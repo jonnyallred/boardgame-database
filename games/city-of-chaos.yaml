@@ -1,0 +1,55 @@
+id: city-of-chaos
+name: "City of Chaos"
+alternate_names: []
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Narrative Heavy
+  - Tile Placement
+  - Puzzle Solving
+  - Cooperative
+  - Fantasy
+  - Dungeon Crawler
+
+evokes:
+  - Discovery
+  - Mystery
+  - Wonder
+  - Tension
+  - Unique
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Martyn Oliver
+  - Colin Thornton
+publisher:
+  - Monocle Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 12
+
+description: |
+  City of Chaos is a landmark narrative adventure board game published by Monocle Games in 1996, combining tile-laying, encounter cards, and an extensive paragraph book called the Tome of Chaos to create a highly immersive fantasy role-playing experience. Set in the fictional Byronitar — the City of Chaos — players must save the metropolis from entropic destruction by exploring its randomly generated streets, solving puzzles, and choosing outcomes from scripted encounters. Only about 1,000 copies were reportedly produced, making it a rare cult classic. Drawing inspiration from Tales of the Arabian Nights, Talisman, and Fighting Fantasy, it is recognized as a pioneering work of story-driven tabletop game design.
+
+upgrades: []

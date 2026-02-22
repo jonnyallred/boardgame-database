@@ -1,0 +1,49 @@
+id: chaturanga
+name: "Chaturanga"
+alternate_names: []
+year: 600
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Ancient
+  - Historical
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [2, 4]
+true_counts: [2, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 8
+
+description: |
+  Chaturanga is the ancient Indian strategy game widely considered the ancestor of chess, first documented in the 7th century AD though likely originating centuries earlier. Played on an 8x8 uncheckered board called ashtapada, each player commanded 16 pieces representing the four divisions of the Indian army: infantry, cavalry, elephants, and chariots — mirroring the four "limbs" the game's Sanskrit name describes. The game spread westward to Persia as shatranj and eventually evolved into modern chess as it traveled through the Arab world into medieval Europe, making it one of the most historically significant games ever created.
+
+upgrades: []

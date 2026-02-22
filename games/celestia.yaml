@@ -1,0 +1,53 @@
+id: celestia
+name: "Celestia"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Hand Management
+  - Dice Rolling
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Aaron Weissblum
+publisher:
+  - Blam!
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Celestia is a press-your-luck card game for 2-6 players, published in 2015 as a colorful retheme of the 1999 game Cloud 9. Players travel aboard a steampunk airship visiting exotic floating cities, each richer than the last, and must decide whether to stay aboard for greater treasures or disembark and take what they have already earned. Each round the captain rolls special dice to reveal hazards, and only players who have the right equipment cards can safely fly on; others must leave the ship. With charming components including a 3D cardboard airship, Celestia is an accessible, light family game full of suspense.
+
+upgrades: []

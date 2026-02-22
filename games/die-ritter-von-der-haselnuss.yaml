@@ -1,0 +1,52 @@
+id: die-ritter-von-der-haselnuss
+name: "Die Ritter von der Haselnuss"
+alternate_names:
+  - "The Knights of the Hazelnut"
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Set Collection
+  - Family
+
+evokes:
+  - Lucky
+  - Discovery
+  - Humor
+  - Progress
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Die Ritter von der Haselnuss (The Knights of the Hazelnut) is a children's board game designed by Klaus Teuber and first published in 1996 by Asmodée Editions, with a German edition by Goldsieber Spiele following in 1997. Players take on the roles of squirrels racing to collect hazelnuts from a forest, drawing cards from bushes they land on — some reveal nuts to keep, others reveal predators (a lynx, marten, or fox) that players must try to remember for future turns. The game won the Deutscher Kinderspiele Preis (German Children's Game Prize) in 1997, and shows Teuber's talent for designing accessible, award-winning family experiences.
+
+upgrades: []

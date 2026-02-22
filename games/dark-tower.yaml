@@ -1,0 +1,52 @@
+id: dark-tower
+name: "Dark Tower"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Dice Rolling
+  - Variable Setup
+  - Fantasy
+  - Family
+  - Cult Classic
+
+evokes:
+  - Discovery
+  - Lucky
+  - Wonder
+  - Dread
+  - Progress
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Dark Tower is a landmark 1981 electronic board game by Milton Bradley that was revolutionary for its time, featuring an imposing electronic tower that served as the game's computer — an unheard-of innovation at the time. Players travel the four realms of a circular board seeking three keys to unlock the Dark Tower, battling brigands, surviving plague and starvation, and managing supplies through bazaar stops. The tower itself tracks every player's state, announces battles, and controls the pacing of the adventure. A beloved classic of game history, it pioneered electronic gameplay integration decades before it became commonplace.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: conquest-of-the-empire
+name: "Conquest of the Empire"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Negotiation
+  - Wargame
+  - Historical
+  - Ancient
+  - Dudes on a Map
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Glenn Drover
+publisher:
+  - Milton Bradley
+  - Eagle Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 10
+
+description: |
+  Conquest of the Empire is a military strategy game set in the fractured Roman Empire following the death of Marcus Aurelius, part of Milton Bradley's prestigious Gamemaster series alongside Axis & Allies, Shogun, and Fortress America. Players lead rival Roman factions — each with a Caesar, generals, infantry, cavalry, catapults, and warships — across a Mediterranean map in a battle for imperial supremacy. The original 1984 rules focus on military conquest, while a 2005 Eagle Games re-release added auction mechanics and political elements for a deeper strategic experience. The game is beloved for its epic scale, high quality plastic miniatures, and the classic Gamemaster series feel.
+
+upgrades: []

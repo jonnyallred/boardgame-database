@@ -1,0 +1,49 @@
+id: close-to-the-border
+name: "Close to the Border"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Abstract
+  - Euro
+
+evokes:
+  - Clever
+  - Tension
+  - Complete
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Close to the Border is an abstract area control game (2005) in which players place border markers to enclose nine areas on the board, collecting victory points for completed territories. The first player to completely enclose an area earns bonus points. Publisher, designer, and other specific details are limited in available sources for this title.
+
+upgrades: []

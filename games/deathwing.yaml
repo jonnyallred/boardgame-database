@@ -1,0 +1,54 @@
+id: deathwing
+name: "Deathwing"
+alternate_names:
+  - "Space Hulk: Deathwing Expansion"
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: space-hulk
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Cooperative
+  - Wargame
+  - Sci-Fi
+  - Ameritrash
+
+evokes:
+  - Dread
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Richard Halliwell
+  - Jervis Johnson
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Deathwing is a 1990 expansion for Games Workshop's acclaimed Space Hulk board game, designed by Richard Halliwell and Jervis Johnson. It introduces the Dark Angels' elite Deathwing Company (First Company) with their distinctive bone-white Terminator armor, adding new unit types including a Captain and Librarian, plus expanded weapon options that broaden the tactical depth of Space Hulk's corridor-combat gameplay. A copy of Space Hulk is required to play. Deathwing won the Origins Award for Best Fantasy or Science Fiction Boardgame of 1990, following Space Hulk's own Origins Award win the previous year.
+
+upgrades: []

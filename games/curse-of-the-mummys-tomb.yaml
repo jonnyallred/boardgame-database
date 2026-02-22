@@ -1,0 +1,52 @@
+id: curse-of-the-mummys-tomb
+name: "Curse of the Mummy's Tomb"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Puzzle Solving
+  - Horror
+  - Ancient
+  - Family
+
+evokes:
+  - Discovery
+  - Dread
+  - Lucky
+  - Tension
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Stephen Hand
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Curse of the Mummy's Tomb is a board game published by Games Workshop in 1988 in which 1-4 players explore a three-dimensional Egyptian pyramid in search of the mythical Elixir of Life. The game's three-tiered board represents the Pyramid of Khonsu, with players racing through progressively smaller levels to reach the Chamber of Osiris at the top. Along the way, explorers face traps, curses, and other hazards from the restless undead. A visually distinctive product of the late 1980s Games Workshop era, it blended Egyptological adventure with light horror in a family-friendly format.
+
+upgrades: []

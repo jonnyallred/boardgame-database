@@ -1,0 +1,56 @@
+id: confrontation
+name: "Confrontation"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: confrontation
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Wargame
+  - Fantasy
+  - Cult Classic
+
+evokes:
+  - Powerful
+  - Tension
+  - Rivalry
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Sylvain Lesage
+  - Stephane Boudin
+publisher:
+  - Rackham
+artist:
+  - Stéphane Gantiez
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 14
+
+description: |
+  Confrontation is a French skirmish-scale fantasy miniatures game set in the richly detailed world of Aarklash, where factions of knights, wolfen, orcs, elves, undead, and many others wage endless war for continental supremacy. Players assemble small armies of highly detailed metal miniatures and clash in tactical scenarios, with rules covering individual abilities, magic, and unit leadership. The game's deep lore and exceptional miniature quality (designed by sculptor Stéphane Gantiez) attracted a passionate following across Europe in the early 2000s. Rackham collapsed in 2010, but the game maintains an active fan community continuing to release rules and scenario content. It remains a cult classic in the miniatures hobby.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: crescendo-of-doom
+name: "Crescendo of Doom"
+alternate_names:
+  - "Crescendo of Doom: A Squad Leader Gamette"
+year: 1980
+
+# Relationships
+game_family: squad-leader
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Dread
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Don Greenwood
+publisher:
+  - Avalon Hill
+artist:
+  - Rodger B. MacGowan
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 480
+min_age: 14
+
+description: |
+  Crescendo of Doom is a supplement for Avalon Hill's Squad Leader system, concentrating on the early war period of 1939-1941 in Western and Central Europe. It introduces new national forces, weapons, and scenarios covering the German campaigns in Poland, France, the Low Countries, and the Balkans, as well as early North African operations. As with other Squad Leader components, the game uses Avalon Hill's detailed hex-and-counter system with individual squads and weapon teams. The expansion won the Charles S. Roberts Award for Best 20th Century Boardgame of 1980, cementing the Squad Leader series' reputation as one of the most detailed and demanding WWII tactical wargames ever produced.
+
+upgrades: []

@@ -1,0 +1,60 @@
+id: commands-colors-ancients
+name: "Commands & Colors: Ancients"
+alternate_names:
+  - "Command and Colors: Ancients"
+year: 2006
+
+# Relationships
+game_family: commands-and-colors
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Hex Map
+  - Dice Rolling
+  - Asymmetric
+  - Variable Player Powers
+  - Wargame
+  - Historical
+  - Ancient
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Richard Borg
+publisher:
+  - GMT Games
+artist:
+  - Rodger B. MacGowan
+  - Mark Simonitch
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Commands & Colors: Ancients is a block wargame covering tactical battles from 3000 BC to 400 AD, with a particular focus on the Carthaginian-Roman rivalry. Players command armies using a hand of command cards that dictate which sections of the battlefield they can activate — left flank, center, right flank — then roll custom dice to resolve combat. Wooden blocks with stickers represent units whose strength degrades as they take losses. The system, adapted from Richard Borg's Commands & Colors framework (Battle Cry, Memoir '44), captures the historical feel of ancient warfare without overwhelming complexity, and won the 2006 Origins Award for Historical Board Game of the Year.
+
+upgrades: []

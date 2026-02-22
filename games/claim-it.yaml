@@ -1,0 +1,51 @@
+id: claim-it
+name: "Claim It!"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Area Control
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Wattsalpoag Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Claim It! is a press-your-luck territory game published by Wattsalpoag Games for 2-5 players. Players roll three dice on their turn to stake claims on spaces of a shared board, accumulating territory but risking a "bust" if they roll a combination they cannot use — losing everything claimed that turn. Players can also steal rivals' claims or permanently lock down territory with a doubled claim. The winner is the player with the single largest connected group of territories. Fast-playing and light, Claim It! combines push-your-luck tension with simple spatial competition.
+
+upgrades: []

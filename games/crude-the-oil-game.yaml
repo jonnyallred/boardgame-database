@@ -1,0 +1,54 @@
+id: crude-the-oil-game
+name: "Crude: The Oil Game"
+alternate_names:
+  - "McMulti"
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Resource Management
+  - Auctions/Bidding
+  - Trading
+  - Euro
+  - Cult Classic
+
+evokes:
+  - Progress
+  - Rivalry
+  - Agency
+  - Clever
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - James St. Laurent
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Crude: The Oil Game is a classic economic board game designed by James St. Laurent and first published in 1974, simulating the international oil industry from exploration and drilling through refining and retail sale. Players invest in oil wells, refineries, and gas stations across a global market, managing supply chains while responding to fluctuating oil prices driven by dice rolls and player action. Later republished in Germany as McMulti with hundreds of beautiful plastic components representing oil rigs, pumps, barrels, and stations, the game gained cult status among economic game enthusiasts. An updated edition was published in 2012 by Stronghold Games after St. Laurent's death in 2011.
+
+upgrades: []

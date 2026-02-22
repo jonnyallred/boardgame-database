@@ -1,0 +1,52 @@
+id: commander-chess
+name: "Commander Chess"
+alternate_names:
+  - "Cờ tư lệnh"
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Asymmetric
+  - Variable Player Powers
+
+evokes:
+  - Masterful
+  - Agency
+  - Clever
+  - Tension
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Hải Quý Nguyễn
+publisher:
+  - Self-published
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Commander Chess (Cờ tư lệnh) is a Vietnamese chess variant created by Hải Quý Nguyễn in 2010, played on an 11×12 grid with 38 pieces per player on the line intersections, similar to Xiangqi. The board is divided by a river and includes a sea section, with pieces representing different military branches — infantry, navy, air force, artillery, and a Commander. Unlike standard chess, multiple piece types can transport other pieces, and anti-aircraft guns automatically counter enemy aircraft. A piece that checks the opponent's Commander permanently gains heroic status and extended movement. Victory comes by capturing the opponent's Commander or eliminating all units of one military division.
+
+upgrades: []

@@ -1,0 +1,58 @@
+id: coup
+name: "Coup"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Social Deduction
+  - Hand Management
+  - Traitor
+  - Party
+  - Filler
+  - Gateway
+
+evokes:
+  - Tension
+  - Bluffing
+  - Rivalry
+  - Lucky
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Rikki Tahta
+publisher:
+  - Indie Boards & Cards
+  - La Mame Games
+artist:
+  - Jaime Ibarra
+  - Luis Francisco
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 14
+
+description: |
+  Coup is a razor-sharp bluffing card game set in a dystopian future where players are rival courtiers vying for control of a corrupt government. Each player holds two character cards representing different roles — Duke, Assassin, Captain, Ambassador, or Contessa — but may act as any character whether or not they hold it. Players use influence to take coins and eliminate rivals, but any claimed action can be challenged. Caught in a lie or unable to counter a coup, you lose an influence card; lose both and you're out. Coup distills social deduction to its essentials: a fast, brutal game of bluff and counter-bluff that ends in minutes.
+
+upgrades: []

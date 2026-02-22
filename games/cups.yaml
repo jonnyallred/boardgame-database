@@ -1,0 +1,50 @@
+id: cups
+name: "Cups"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Party
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 5
+max_playtime: 20
+min_age: 5
+
+description: |
+  Cups is a family dexterity game in which players manipulate cups or containers in real-time competitive or cooperative play. Games involving cup-stacking or cup-passing mechanics have appeared under various publishers, often as simple motor-skill challenges suited for young children and casual play sessions. As a relatively obscure title, detailed publication and designer information is limited in English-language sources.
+
+upgrades: []

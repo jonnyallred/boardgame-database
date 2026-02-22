@@ -1,0 +1,57 @@
+id: combat-commander-europe
+name: "Combat Commander: Europe"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: combat-commander
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Hex Map
+  - Asymmetric
+  - Variable Player Powers
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Unique
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Chad Jensen
+publisher:
+  - GMT Games
+artist:
+  - Rodger B. MacGowan
+  - Mark Simonitch
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 14
+
+description: |
+  Combat Commander: Europe is a card-driven tactical wargame covering infantry combat in the European Theater of World War II. Players take command of opposing squads across twelve varied maps at roughly 100 feet per hex, with one player as the Axis and the other as the Allies. Instead of traditional movement points, players spend cards from their hand to issue orders — move, fire, assault, recover — creating a fog-of-war experience where randomness and tactical decisions intertwine. Fog-of-war events trigger automatically during play, and the built-in Random Scenario Generator provides near-unlimited replayability. Winner of multiple Origins and Charles S. Roberts award nominations, it is widely considered a landmark in card-driven wargame design.
+
+upgrades: []

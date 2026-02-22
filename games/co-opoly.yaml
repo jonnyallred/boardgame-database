@@ -1,0 +1,50 @@
+id: co-opoly
+name: "Co-opoly"
+alternate_names: ["Co-opoly: The Game of Co-operatives"]
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Economic
+  - Events
+
+evokes:
+  - Connection
+  - Agency
+  - Tension
+  - Progress
+  - Clever
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer: []
+publisher:
+  - The TESA Collective
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Co-opoly: The Game of Co-operatives is a cooperative board game published by The TESA Collective in 2011, in which all players collaborate to found and successfully run a democratic cooperative business. Players take on characters with different incomes and family sizes, working together to navigate tough challenges — all winning or losing collectively based on the co-op's success. The game is designed to educate about cooperative economics, solidarity, and collective decision-making, and is produced entirely by worker co-ops in the USA on recycled materials. It has become a standard resource for cooperative movement education worldwide.
+
+upgrades: []

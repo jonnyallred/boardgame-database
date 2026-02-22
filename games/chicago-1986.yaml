@@ -1,0 +1,49 @@
+id: chicago-1986
+name: "Chicago"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Deduction
+  - Historical
+
+evokes:
+  - Tension
+  - Rivalry
+  - Mystery
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Chicago (1986) is a board game set in the Prohibition-era criminal underworld of Chicago. One player controls police while the others play gangsters who move through the city, entering buildings to collect money tiles, ride getaway vehicles, and plan bank robberies. The game features a cat-and-mouse dynamic with asymmetric roles between law enforcement and criminals. Specific designer and publisher details are limited in available sources for this edition.
+
+upgrades: []

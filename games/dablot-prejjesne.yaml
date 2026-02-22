@@ -1,0 +1,50 @@
+id: dablot-prejjesne
+name: "Dablot Prejjesne"
+alternate_names:
+  - "Dablo"
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - No Math
+  - Historical
+
+evokes:
+  - Rivalry
+  - Clever
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Dablot Prejjesne (meaning "To play Dablo on a board" in Sami) is a traditional two-player abstract strategy game from the Lapland region of Sweden, representing the historical struggle between the nomadic Sami people and Finnish landowners settling their territory. Played on a 6x7 diagonal grid with pieces at intersections, each side commands 30 pieces with three ranks — a king, a prince/son, and 28 warriors/peasants — each with different capturing powers. The hierarchical piece system adds tactical depth: kings can capture anyone, while lower-ranked pieces cannot capture the opponent's top leaders. It is one of the most culturally distinctive abstract games of northern Europe.
+
+upgrades: []

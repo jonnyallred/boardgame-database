@@ -1,0 +1,51 @@
+id: crack-list
+name: "Crack List"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Party
+  - Real-time
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Clever
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6, 7, 8]
+
+designer: []
+publisher:
+  - Savana Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 14
+
+description: |
+  Crack List is a fast-paced party word game combining elements of categories and Uno into a card game format. A category is chosen, and each player holds a hand of letter cards — the twist is that your answer to the category must start with the letter on the card you play. A 20-second time limit creates real-time pressure, and special Action cards can be played at any moment to disrupt the current proceedings. The combination of letter constraint and category challenge produces naturally funny answers and memorable failures. Simple to explain and quick to play, it is well-suited for large mixed-age groups at parties or family game nights.
+
+upgrades: []

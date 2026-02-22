@@ -1,0 +1,53 @@
+id: citadel-of-blood
+name: "Citadel of Blood"
+alternate_names: ["Citadel of Blood: Fantastic Adventure in the Fortress of Evil"]
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dungeon Crawler
+  - Tile Placement
+  - Dice Rolling
+  - Fantasy
+  - Horror
+
+evokes:
+  - Discovery
+  - Dread
+  - Tension
+  - Mystery
+  - Lucky
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Simulations Publications Inc.
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Citadel of Blood: Fantastic Adventure in the Fortress of Evil is a cooperative dungeon-crawl board game published by SPI, originally appearing as a pullout in Ares Magazine #5 (November 1980) before release as a boxed set. One to six players venture into the dungeon of the evil wizard "X the Unknown," drawing tiles to randomly construct rooms and corridors as they explore, killing monsters and collecting treasure. Built on SPI's earlier Deathmaze system, it adds character races, multiple dungeon levels, and moon-phase-dependent colored magic systems. It is an early and innovative example of the modular dungeon-crawl genre.
+
+upgrades: []

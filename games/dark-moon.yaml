@@ -1,0 +1,53 @@
+id: dark-moon
+name: "Dark Moon"
+alternate_names:
+  - "BSG Express"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Traitor
+  - Social Deduction
+  - Cooperative
+  - Dice Rolling
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Mystery
+  - Dread
+  - Rivalry
+  - Agency
+
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [5, 6]
+
+designer:
+  - Evan Derrick
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 13
+
+description: |
+  Dark Moon is a streamlined hidden traitor game set in a sci-fi mining facility on Ganymede, published by Stronghold Games in 2015. Originally designed as a free print-and-play fan variant of Battlestar Galactica, it evolved into a polished standalone game that retains the tense traitor mechanics while cutting play time dramatically. Most players are loyal crewmembers working together to keep the station operational, but one or more secret infected players are sabotaging from within. The game's quarantine system and dice-based task resolution create paranoid, accusation-filled sessions that play out in under an hour.
+
+upgrades: []

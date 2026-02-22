@@ -1,0 +1,57 @@
+id: comanauts
+name: "Comanauts"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: adventure-book-series
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Bag Building
+  - Dice Rolling
+  - Narrative Heavy
+  - Campaign Mode
+  - Dungeon Crawler
+  - Fantasy
+  - Plaid Hat Games
+
+evokes:
+  - Discovery
+  - Wonder
+  - Connection
+  - Mystery
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Jerry Hawthorne
+publisher:
+  - Plaid Hat Games
+artist:
+  - Atha Kanaani
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Comanauts is a cooperative adventure game for 2-4 players and the second game in Jerry Hawthorne's Adventure Book series, following Stuffed Fables. Players enter the subconscious mind of a comatose scientist, Dr. Strobal, and must navigate through surreal dreamscapes to find the psychological trauma keeping him unconscious. On each turn players pull dice from a bag and use their results to move, attack, search, and interact in the ever-shifting dream worlds. The Adventure Book itself serves as the game board, flipping pages as the story unfolds through fully illustrated scenarios. Comanauts is aimed at a more mature audience than its predecessor, delivering psychological horror themes alongside its imaginative storytelling.
+
+upgrades: []

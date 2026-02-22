@@ -1,0 +1,51 @@
+id: click-clack
+name: "Click Clack"
+alternate_names: ["Click Clack Lumberjack", "Toc Toc Woodman"]
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Justin Oh
+publisher:
+  - Mayday Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Click Clack (also known as Click Clack Lumberjack or Toc Toc Woodman) is a dexterity game published by Mayday Games in 2008, in which players take turns tapping a plastic axe against a stacked plastic tree, trying to knock off outer bark pieces without dislodging the inner core sections. Players score points for each bark piece they dislodge, but losing core pieces counts against them. The game's tactile, slightly precarious nature creates tension and laughter as the tree wobbles with each strike, making it an instant party favorite for all ages.
+
+upgrades: []

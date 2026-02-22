@@ -1,0 +1,50 @@
+id: clomping-creatures
+name: "Clomping Creatures"
+alternate_names: ["Animal-Mystère"]
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Animals
+
+evokes:
+  - Humor
+  - Connection
+  - Lucky
+  - Tension
+  - Discovery
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer: []
+publisher:
+  - HABA
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 5
+
+description: |
+  Clomping Creatures is a tactile guessing game published by HABA in which players use their fingers and hands to mimic the walking movements of different animals on the backs of fellow players, who must then guess which creature is being imitated. Players compete to correctly identify the most animals, rewarded for both correct guesses and clever imitations. The game includes a cooperative two-player variant and comes with a game board, path cards, guessing cards, and a snake piece. It is a playful sensory game ideal for families with young children.
+
+upgrades: []

@@ -1,0 +1,58 @@
+id: cottage-garden
+name: "Cottage Garden"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Puzzle Solving
+  - Euro
+  - Family
+  - Gateway
+  - Nature
+  - Uwe Rosenberg
+
+evokes:
+  - Clever
+  - Complete
+  - Progress
+  - Agency
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Edition Spielwiese
+  - Pegasus Spiele
+artist:
+  - Klemens Franz
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 60
+min_age: 8
+
+description: |
+  Cottage Garden is a relaxing polyomino tile-placement game by Uwe Rosenberg in which players tend two garden beds simultaneously, filling them with colorful flower tiles selected from a central market grid. A gardener pawn moves around the market each round, determining which tiles players may choose. Completing a garden bed scores points on two separate tracks — flowerpots and cats — and grants bonus tokens to fill awkward gaps. The game has a meditative, low-conflict feel compared to many of Rosenberg's heavier designs, making it an ideal introduction to polyomino mechanics for families while still rewarding spatial planning and foresight.
+
+upgrades: []

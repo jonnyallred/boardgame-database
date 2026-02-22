@@ -1,0 +1,51 @@
+id: das-kleine-gespenst
+name: "Das Kleine Gespenst"
+alternate_names:
+  - "The Little Ghost"
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Dexterity
+  - Family
+
+evokes:
+  - Discovery
+  - Wonder
+  - Lucky
+  - Connection
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Kai Haferkamp
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Das Kleine Gespenst (The Little Ghost) is a children's board game designed by Kai Haferkamp in 2005, published by Kosmos Verlag, based on Otfried Preussler's beloved children's book of the same name. Players accompany the little ghost through Castle Eulenstein, using a magical magnetic key to open doors and find the matching pictures revealed by a clock mechanism — earning cannonball tokens for correct discoveries. The game won the Kinderspiel des Jahres (German Children's Game of the Year) award in 2005, recognized for its charming magnetic door-opening mechanism, atmospheric castle box, and accessible play for young children.
+
+upgrades: []

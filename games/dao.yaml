@@ -1,0 +1,50 @@
+id: dao
+name: "Dao"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jeff Pickering
+  - Ben VanBuskirk
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 5
+max_playtime: 20
+min_age: 8
+
+description: |
+  Dao is a minimalist two-player abstract strategy game designed by Jeff Pickering and Ben VanBuskirk, winning the Mensa Select award in 2001. Played on a 4x4 board with four pieces per player, the game offers three possible win conditions: arrange your pieces in a straight line (horizontal or vertical), occupy all four corners, or form a 2x2 square anywhere on the board. This elegant multiplicity of victory paths creates surprising depth and requires players to simultaneously pursue goals while blocking their opponent from achieving them. The simple rules and short play time make it accessible to all ages while concealing strategic richness.
+
+upgrades: []

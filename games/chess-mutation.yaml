@@ -1,0 +1,48 @@
+id: chess-mutation
+name: "Chess Mutation"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Variable Setup
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Chess Mutation is an abstract strategy chess variant in which all pieces except kings move and attack according to the color-coded rules of the square they currently occupy rather than fixed piece-type rules. The board is marked with colors corresponding to normal chess piece types, so a piece's capabilities constantly shift as it moves around the board. This dynamic mechanic transforms the familiar chess framework into a uniquely fluid strategic puzzle, demanding that players continually reassess their positions. It is an inventive variant that rewards adaptability over memorized opening theory.
+
+upgrades: []

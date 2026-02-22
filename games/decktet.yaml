@@ -1,0 +1,51 @@
+id: decktet
+name: "Decktet"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Trick-taking
+  - Abstract
+  - Filler
+
+evokes:
+  - Clever
+  - Discovery
+  - Agency
+  - Unique
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - P.D. Magnus
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 10
+
+description: |
+  The Decktet is a unique card game system designed by P.D. Magnus in 2008, consisting of a 36-card deck structurally unlike standard poker or tarot decks. Each numbered card belongs to two of the six suits (Moons, Leaves, Suns, Waves, Wyrms, and Knots), and special rank cards have unique properties, enabling a wide variety of games that cannot be played with ordinary decks. Dozens of original games have been published for the Decktet, from trick-taking and set collection to solitaire. It won Card Game of the Year in Games Magazine's 2013 Buyer's Guide and is available as a free print-and-play or low-cost printed deck.
+
+upgrades: []

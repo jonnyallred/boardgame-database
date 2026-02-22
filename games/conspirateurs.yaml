@@ -1,0 +1,49 @@
+id: conspirateurs
+name: "Conspirateurs"
+alternate_names: []
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Racing
+  - Historical
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Mystery
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Conspirateurs is a traditional strategy board game believed to have originated in France after the French Revolution, around 1789 or shortly thereafter. Played on a 17×17 grid with a specially marked central "secret meeting place" and 39 sanctuary points around the perimeter, the game has two phases: a drop phase where all pieces are placed into the central meeting area, and a move phase where players race to move their pieces to their sanctuary points on the board's edges. Pieces can jump over friendly or enemy pieces to move faster without capturing anything — the only goal is to safely evacuate all conspirators to refuge first. It resembles Halma and Chinese Checkers in structure but has a distinctive French revolutionary atmosphere.
+
+upgrades: []

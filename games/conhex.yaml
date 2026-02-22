@@ -1,0 +1,52 @@
+id: conhex
+name: "ConHex"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Network Building
+  - Pattern Building
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Michail Antonow
+publisher:
+  - Nestorgames
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  ConHex is a two-player connection game invented by Michail Antonow in 2002, played on a unique board of 41 non-regular hexagonal cells surrounded by 69 vertex holes. Players alternate placing pieces on vertices, and once a cell has pieces on at least half of its surrounding vertices, it is claimed by that player. The objective is to connect your two colored sides of the board through a continuous chain of claimed cells. Draws are impossible by design, and the indirect nature of cell-claiming — controlling vertices to claim spaces — creates a fascinating positional game distinct from Hex or Havannah. It is considered a noteworthy entry in the connection games genre by abstract game theorists.
+
+upgrades: []

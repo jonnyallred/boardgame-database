@@ -1,0 +1,53 @@
+id: descent-legends-of-the-dark-the-betrayers-war
+name: "Descent: Legends of the Dark – The Betrayer's War"
+alternate_names:
+  - "Descent: Legends of the Dark - The Betrayer's War"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: descent-legends-of-the-dark
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 1  # Light (cooperative)
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Dungeon Crawler
+  - Fantasy
+  - Fantasy Flight Games
+
+evokes:
+  - Discovery
+  - Progress
+  - Dread
+  - Tension
+  - Connection
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  The Betrayer's War is the second Act of Descent: Legends of the Dark, published by Fantasy Flight Games in 2023 as a major expansion requiring the base game. Players continue the story of the six heroes — Brynn, Chance, Galaden, Kehli, Syrus, and Vaerix — through a full-length new campaign set in the kingdom of Terrinoth, facing new enemies including a massive dragon. Each hero gains new character cards representing their growth from Act 1, and new gameplay elements deepen the companion-app-driven dungeon crawl experience. Released at $159.99 MSRP, it represents a substantial investment in the Descent: Legends of the Dark ecosystem.
+
+upgrades: []

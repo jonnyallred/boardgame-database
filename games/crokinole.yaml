@@ -1,0 +1,50 @@
+id: crokinole
+name: "Crokinole"
+alternate_names: []
+year: 1876
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Rivalry
+  - Tension
+  - Lucky
+  - Clever
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Crokinole is a classic Canadian disk-flicking dexterity game played on a circular wooden board, tracing its origins to the 1870s in Ontario. Players take turns shooting wooden discs across the board with their fingers, aiming to land in the high-scoring center hole (worth 20 points) while simultaneously knocking opponents' discs off. The game blends precision, strategy, and physics in a way that makes it accessible to all ages yet deeply rewarding to master. Often passed down through generations, Crokinole boards are frequently handcrafted heirlooms prized for both gameplay and craftsmanship.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: concept-kids-animals
+name: "Concept Kids: Animals"
+alternate_names:
+  - "Concept Kids: Animaux"
+year: 2018
+
+# Relationships
+game_family: concept
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Party
+  - Family
+  - Word Play
+  - Animals
+
+evokes:
+  - Connection
+  - Humor
+  - Wonder
+  - Complete
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+true_counts: [4, 5, 6]
+
+designer:
+  - Alain Rivollet
+  - Gaëtan Beaujannot
+publisher:
+  - Repos Production
+  - Asmodee
+artist:
+  - Éric Azagury
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 4
+
+description: |
+  Concept Kids: Animals is a cooperative adaptation of Concept designed for very young children who cannot yet read. Players take turns placing pawns on a shared board of illustrated universal icons — color, size, habitat, diet — to help their teammates guess which of 110 animals is hidden on their card. The cooperative format means no single child is put on the spot and everyone celebrates correct guesses together. Available in two difficulty levels, the game teaches visual communication and animal recognition while remaining playable for ages 4 and up. It won the Kinderspiel des Jahres award in 2019, cementing its place as one of the best preschool board games available.
+
+upgrades: []

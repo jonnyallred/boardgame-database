@@ -1,0 +1,54 @@
+id: chitin-i
+name: "Chitin: I"
+alternate_names: ["Chitin: I - The Harvest Wars"]
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+  - Area Control
+  - Asymmetric
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Unique
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Howard Thompson
+publisher:
+  - Metagaming Concepts
+artist:
+  - Jennell Jaquays
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Chitin: I is the second title in Metagaming Concepts' pioneering MicroGame series, designed by Howard Thompson and published in 1977 with artwork by Jennell Jaquays. The game depicts two alien insect hive-cities competing to gather more food for their colony, with players commanding varied insect types across a hex map in a race to dominate the harvest. As a ziplock-packaged microgame, it was an affordable and fast-playing wargame that helped establish the MicroGame format. A second printing with revised cover art appeared in 1978.
+
+upgrades: []

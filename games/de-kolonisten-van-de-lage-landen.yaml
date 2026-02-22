@@ -1,0 +1,56 @@
+id: de-kolonisten-van-de-lage-landen
+name: "De Kolonisten van de Lage Landen"
+alternate_names:
+  - "Settlers of the Low Countries"
+year: 2009
+
+# Relationships
+game_family: catan
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Trading
+  - Negotiation
+  - Resource Management
+  - Modular Board
+  - Euro
+  - Family
+  - Gateway
+  - Klaus Teuber
+
+evokes:
+  - Progress
+  - Rivalry
+  - Tension
+  - Connection
+  - Agency
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  De Kolonisten van de Lage Landen (Settlers of the Low Countries) is a standalone Catan variant published by 999 Games in September 2009, designed by Klaus Teuber. Played on a map of the Netherlands and Flanders instead of the standard hex board, it retains the core Catan mechanics of resource gathering, trading, and settlement building while incorporating Dutch geographic features — including coastal settlements that produce fish tokens in addition to standard resources. A wooden monument marker system adds further regional flavor. It is one of several country-specific Catan editions produced for different European markets.
+
+upgrades: []

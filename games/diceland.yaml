@@ -1,0 +1,52 @@
+id: diceland
+name: "Diceland"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Dice Rolling
+  - Party
+  - Filler
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Toivo Rovainen
+  - James Ernest
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 10
+
+description: |
+  Diceland is a collectible dexterity combat game designed by Toivo Rovainen and James Ernest and published by Cheapass Games in 2002. Players physically throw paper octahedral dice into a combat arena; once in play, dice can be maneuvered and used to attack opponents, combining the luck of an uncontrolled throw with tactical positioning. The game blends skill (accurate throwing), luck (die orientation), and strategy (positioning and targeting), playing like a miniatures game where the "miniature" is the die itself. Multiple themed sets were released including Diceland: Space and Diceland: Ogre (a crossover with Steve Jackson's classic wargame).
+
+upgrades: []

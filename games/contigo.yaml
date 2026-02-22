@@ -1,0 +1,52 @@
+id: contigo
+name: "Contigo"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Mancala
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer:
+  - Frank Thibault
+publisher:
+  - 3M
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Contigo is a 1974 abstract strategy game from 3M's classic Bookshelf Game series, blending Mancala-style pebble mechanics with a grid-based alignment game. Players move their colored pawns across a 6×6 board by counting pebbles stored in Mancala-like pits around the edges, aiming to align four of their own pawns in a row of six spaces (horizontally, vertically, or diagonally) without opposing pawns in between. A four-player Capture variant adds the objective of landing on opponents' key corner pawns. Contigo occupies a fascinating niche between classical connection games and Mancala, and represents 3M's experimental period of publishing distinctive strategy games in their bookshelf format.
+
+upgrades: []

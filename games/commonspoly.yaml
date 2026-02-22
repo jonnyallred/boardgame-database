@@ -1,0 +1,53 @@
+id: commonspoly
+name: "Commonspoly"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Economic
+  - Negotiation
+  - Family
+  - City Building
+
+evokes:
+  - Connection
+  - Agency
+  - Progress
+  - Clever
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - ZEMOS98 Collective
+publisher:
+  - ZEMOS98
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Commonspoly is an anti-Monopoly cooperative board game born from a hackathon at the 2015 ZEMOS98 Festival. Where Monopoly rewards accumulation and competition, Commonspoly challenges players to work together against a Speculator faction that seeks to privatize all public goods — environmental, urban, health, and knowledge resources. Players use Welfare and Legitimacy Points over 20 rounds to liberate goods and convert them to public or commons status. The free-licensed game (openly downloadable and printable) is explicitly designed as a political education tool, exploring commons-based economic models as a sustainable alternative to privatization. It has been used in academic, activist, and community settings across Europe.
+
+upgrades: []

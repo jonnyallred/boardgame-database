@@ -1,0 +1,53 @@
+id: chaco
+name: "Chaco"
+alternate_names: ["Chaco: Bolivia vs. Paraguay, 1932-35", "Chaco: Classical Infantry Warfare in the Thirties"]
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Resource Management
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Frank Chadwick
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Chaco is a board wargame by Game Designers' Workshop (GDW) published in 1973, simulating the Chaco War fought between Bolivia and Paraguay from 1932 to 1935 over the disputed Gran Chaco region. Played at regimental level, the game uniquely emphasizes water supply as a critical resource alongside combat, since soldiers in this arid theater often spent more time searching for water than fighting. Supply lines follow rivers and roads, restricting movement through the harsh terrain. The game offers an unusual historical conflict rarely covered in wargaming.
+
+upgrades: []

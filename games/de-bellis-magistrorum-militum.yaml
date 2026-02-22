@@ -1,0 +1,52 @@
+id: de-bellis-magistrorum-militum
+name: "De Bellis Magistrorum Militum"
+alternate_names:
+  - "DBMM"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Ancient
+
+evokes:
+  - Masterful
+  - Agency
+  - Rivalry
+  - Tension
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Phil Barker
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 16
+
+description: |
+  De Bellis Magistrorum Militum (DBMM) is a miniature wargame ruleset authored by Phil Barker of Wargames Research Group, serving as the successor to the popular DBM (De Bellis Multitudinis) system. Covering the period from 3000 BC to 1525 AD, DBMM can simulate historical battles or generate custom scenarios from small skirmishes to massive engagements using miniature figures in any scale from 2mm to 30mm. With over 300 army lists available and an emphasis on generalship over rules manipulation, DBMM is one of the most comprehensive and demanding ancient-to-medieval wargame systems in existence, with roots in decades of playtesting through DBA, DBM, and its current iteration.
+
+upgrades: []

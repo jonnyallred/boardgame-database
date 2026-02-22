@@ -1,0 +1,54 @@
+id: chainsaw-warrior
+name: "Chainsaw Warrior"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Dice Rolling
+  - Press Your Luck
+  - Horror
+  - Sci-Fi
+  - Cult Classic
+
+evokes:
+  - Tension
+  - Dread
+  - Lucky
+  - Agency
+  - Unique
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Stephen Hand
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Chainsaw Warrior is a solo board game published by Games Workshop in 1987 in which a lone heavily armed hero must battle through an infested building to defeat the mysterious entity known as Darkness before time runs out and New York is destroyed. Players equip their warrior with high-tech weapons from a selection of cards and then work through a tile-drawing system, fighting zombies, mutants, and other horrors. The game is entirely solitaire and plays within an hour, making it a notably early example of the solo board game genre. Its blend of pulp horror and against-the-clock tension earned it cult status.
+
+upgrades: []

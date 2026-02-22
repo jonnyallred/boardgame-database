@@ -1,0 +1,50 @@
+id: ddr-reise
+name: "DDR-Reise"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Route Building
+  - Family
+  - Historical
+
+evokes:
+  - Discovery
+  - Lucky
+  - Progress
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  DDR-Reise is a travel racing board game set in the German Democratic Republic (East Germany), in which players plan optimized routes to visit specific cities drawn from destination cards before returning to their home city. A product of East German game publishing, it served a similar educational and entertainment role to the West German Deutschlandreise, introducing players to the geography of the GDR through competitive route-planning gameplay. As a historically specific artifact of Cold War-era German culture, it is today of interest to collectors of socialist-era board games.
+
+upgrades: []

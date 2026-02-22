@@ -1,0 +1,59 @@
+id: conquest-of-nerath
+name: "Conquest of Nerath"
+alternate_names:
+  - "Dungeons & Dragons: Conquest of Nerath"
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Variable Player Powers
+  - Asymmetric
+  - Wargame
+  - Fantasy
+  - Dungeon Crawler
+  - Dudes on a Map
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Discovery
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Richard Baker
+  - Mons Johnson
+  - Peter Lee
+publisher:
+  - Wizards of the Coast
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 240
+min_age: 12
+
+description: |
+  Conquest of Nerath is a fantasy conquest board game set in the Dungeons & Dragons universe, pitting 2-4 players as competing factions against each other across the Nentir Vale. Players muster armies of foot soldiers, siege engines, dragons, sea vessels, and monsters, with powerful hero units leading assaults and exploring dungeons for magical artifacts. Combat is resolved with dice, and the dungeon exploration adds a treasure-hunting layer atop the strategic war. Winner of the 2011 Origins Award for Best Board Game, it offers a lighter, faster experience than Axis & Allies while capturing the epic fantasy scope of D&D's world.
+
+upgrades: []

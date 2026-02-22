@@ -1,0 +1,53 @@
+id: crows
+name: "Crows"
+alternate_names:
+  - "Tyler Sigman's Crows"
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Abstract
+  - Family
+  - Gateway
+  - Animals
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Tyler Sigman
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Crows is a tile placement game designed by Tyler Sigman and published by Valley Games in 2010, in which players compete to attract the most crows by placing shiny objects on a modular board of tree tiles. Players take turns placing tiles and positioning their trinkets to lure crows, but when six or more crows converge on a single tile, a "murder of crows" occurs — the group disperses dramatically, rewarding some players while scattering others' plans. The game's elegant emergent behavior and charming crow theme make it a distinctive entry in the abstract-adjacent family game space. It was subsequently reprinted and redesigned as Tyler Sigman's Crows.
+
+upgrades: []

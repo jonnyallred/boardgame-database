@@ -1,0 +1,52 @@
+id: central-america
+name: "Central America"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James H. McQuaid
+publisher:
+  - Victory Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Central America is an operational-level board wargame published by Victory Games in 1987, simulating historical and hypothetical armed conflicts in Central America during the 1970s and 1980s. Designed by James H. McQuaid, the game covers the turbulent guerrilla conflicts and Cold War proxy wars that defined the region in those decades. Players command opposing forces across multiple scenarios reflecting the asymmetric nature of these conflicts. It is a detailed study of counterinsurgency warfare in a politically charged theater.
+
+upgrades: []

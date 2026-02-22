@@ -1,0 +1,52 @@
+id: critter-commandos
+name: "Critter Commandos"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Animals
+  - Humor
+
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Paul Arden Lidberg
+publisher:
+  - Crunchy Frog Enterprises
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Critter Commandos is a slapstick sci-fi miniatures wargame published in 1989 by Crunchy Frog Enterprises in which cartoon animal characters battle using comically lethal weapons — glue guns, rubber mallets, pies, jet packs, giant banana peels, and tricycles. Players command squads of funny animal soldiers across tabletop battlefields in scenarios that embrace the absurdity of their premise. The game blends traditional wargame mechanics with humor and cartoon physics, making it a lighthearted entry in the miniatures genre. Designer and publisher Paul Arden Lidberg's company, eventually renamed Team Frog Studios, continued to support the game with supplements and deluxe editions.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: chariot
+name: "Chariot: Tactical Warfare in the Biblical Age, 3000-500 B.C."
+alternate_names: ["Armageddon: Tactical Combat, 3000-500 BC"]
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - Ancient
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Redmond A. Simonsen
+publisher:
+  - Simulations Publications Inc.
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Chariot: Tactical Warfare in the Biblical Age, 3000-500 B.C. is a board wargame published by SPI in 1975 and the first title in the PRESTAGS (Pre-Seventeenth Century Tactical Game System) series. Evolved from the earlier Armageddon game, it simulates Bronze and Iron Age battles from Egypt through the early Greek city-states and Etruscan Rome, with chariots playing a central role in each of its 14 scenarios. Players alternate through fire, movement, and melee phases on a hex map. Despite reaching the top 10 of SPI's bestseller chart, it sold fewer copies than the other four PRESTAGS titles.
+
+upgrades: []

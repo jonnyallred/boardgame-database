@@ -1,0 +1,48 @@
+id: chapayev
+name: "Chapayev"
+alternate_names: ["Chapay"]
+year: 1940
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Abstract
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Chapayev is a traditional dexterity board game popular throughout the former Soviet Union, named after the Russian Civil War hero Vasily Chapayev. A hybrid of checkers and carrom, players flick their checkers pieces with a finger across the board to knock the opponent's pieces off the edge, combining elements of billiards, table shuffleboard, and checker strategy. The game requires only a standard checkerboard and draughts pieces. After each round is won, the winner's pieces advance a row closer to the opponent, eventually forcing them off the board. Its simple rules and fast play made it a beloved informal game across the USSR.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: diadem
+name: "Diadem"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Agency
+  - Rivalry
+  - Powerful
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Diadem is a 1981 science fiction board game published by Fantasy Games Unlimited, depicting galactic conquest played on a mapboard divided into 12 hexagon-shaped sub-maps. Players vie for interstellar dominance through strategic fleet deployment and territorial control across a richly detailed galaxy. As a product of the early 1980s American wargame era, it features the complexity and strategic depth characteristic of Fantasy Games Unlimited's design philosophy, appealing to hardcore science-fiction strategy gamers.
+
+upgrades: []

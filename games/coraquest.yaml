@@ -1,0 +1,56 @@
+id: coraquest
+name: "CoraQuest"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dungeon Crawler
+  - Modular Board
+  - Variable Setup
+  - Family
+  - Fantasy
+  - Adventure
+
+evokes:
+  - Discovery
+  - Connection
+  - Progress
+  - Wonder
+  - Humor
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Dan Hughes
+publisher:
+  - BeGe
+artist:
+  - Dan Hughes
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 7
+
+description: |
+  CoraQuest is a family-friendly cooperative dungeon crawler created by Dan Hughes and his daughter Cora as a lockdown homeschooling project that grew into a successful Kickstarter campaign. Players choose adventurers and explore modular dungeon tiles, fighting monsters, avoiding traps, finding treasure, and occasionally rescuing gnomes named Kevin. The rulebook is written to be accessible to young children, with clear iconography and straightforward combat, but the game also includes optional rules for more experienced players wanting greater depth. Its heartwarming origin story, approachable design, and high customizability made it a beloved family game upon release.
+
+upgrades: []

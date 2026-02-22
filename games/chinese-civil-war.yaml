@@ -1,0 +1,51 @@
+id: chinese-civil-war
+name: "Chinese Civil War"
+alternate_names: ["Chinese Civil War: 1946-1949"]
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - World Wide Wargames
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Chinese Civil War is a hex-based board wargame simulating the conflict between Nationalist Kuomintang forces and the Communist People's Liberation Army in China from 1946 to 1949. Originally released in issue #10 of The Wargamer magazine, it offers a strategic-level simulation of this pivotal conflict that determined the fate of modern China. Players command the opposing armies across a map of China, using military and supply mechanics to enact the war's historical turning points. The game provides an accessible entry into an underrepresented theater of 20th-century wargaming.
+
+upgrades: []

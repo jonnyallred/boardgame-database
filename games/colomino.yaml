@@ -1,0 +1,51 @@
+id: colomino
+name: "Colomino"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Colomino is a simple tile-placement game in the Ravensburger Casino series in which players place multi-colored tiles on a shared board, arranging them so that their colors match adjacent tiles already placed. The rules are straightforward and accessible to young children, and the compact format makes it easy to play almost anywhere. While information about its designer is limited, the game provides a gentle introduction to spatial reasoning and color matching for younger players.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: connect-four
+name: "Connect Four"
+alternate_names:
+  - "Connect 4"
+  - "Four in a Row"
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+  - Gateway
+  - Pattern Building
+  - Puzzle Solving
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Howard Wexler
+  - Ned Strongin
+publisher:
+  - Milton Bradley
+  - Hasbro
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 6
+
+description: |
+  Connect Four is a classic two-player abstract strategy game in which players take turns dropping colored discs into a seven-column, six-row vertical grid. The first player to form an unbroken line of four of their own discs — horizontally, vertically, or diagonally — wins. Invented by Howard Wexler and first published by Milton Bradley in 1974, it has since sold tens of millions of copies worldwide. Despite its simple rules, Connect Four has been mathematically solved (the first player can always win with optimal play), and it remains a gateway game beloved by children and a subject of study in combinatorial game theory.
+
+upgrades: []

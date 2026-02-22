@@ -1,0 +1,55 @@
+id: core-worlds
+name: "Core Worlds"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Card Drafting
+  - Area Control
+  - Engine Building
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Progress
+  - Powerful
+  - Agency
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Andrew Parks
+publisher:
+  - Stronghold Games
+artist:
+  - Ryan Barger
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Core Worlds is a deck-building game of galactic conquest set in a crumbling sci-fi empire. Each player starts with a faction-specific deck and homeworld that generates energy — the game's currency — and uses it to deploy units, acquire powerful new cards from a shared market, and invade planets. The game plays over ten rounds as players push inward from the outer rim toward the prestigious Core Worlds, which yield the most Empire Points. The area-control element distinguishes it from pure deck-builders: your units matter not just for what they do, but where they fight. Victory goes to the player with the most Empire Points when the tenth era ends.
+
+upgrades: []

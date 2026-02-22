@@ -1,0 +1,59 @@
+id: conan
+name: "Conan"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Asymmetric
+  - Variable Player Powers
+  - Cooperative
+  - Dice Rolling
+  - Dungeon Crawler
+  - Narrative Heavy
+  - Fantasy
+  - Adventure
+
+evokes:
+  - Powerful
+  - Tension
+  - Dread
+  - Unique
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Fred Henry
+publisher:
+  - Monolith Board Games
+artist:
+  - Adrian Smith
+  - Stéphane Gantiez
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Conan is an asymmetric miniatures adventure game faithfully adapted from Robert E. Howard's original Conan stories (not the films). One player takes on the role of the Overlord, commanding waves of savage enemies, sorcerers, and undead across detailed scenario maps, while 1-4 other players control the iconic hero Conan and his companions — each with unique abilities tracked on individual character sheets. Heroes spend gems from a limited action pool to move, fight, and use skills, creating a constant tension between aggression and endurance. The lavish miniatures, scenario-driven design, and deeply thematic feel made the 2015 Kickstarter campaign one of the most successful board game crowdfunds of its era.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: cheyenne
+name: "Cheyenne"
+alternate_names: []
+year: 1958
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dexterity
+  - Western
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Progress
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 5
+
+description: |
+  Cheyenne is a 1958 Milton Bradley children's board game based on the popular ABC Western television series starring Clint Walker. Players race across a track from Cheyenne's Corral to the Pony Express Station using a spinner, and must also shoot plastic "bullets" with a toy revolver tiddlywinks-style to defeat six cardboard obstacles including a rattlesnake and a bandit. The game combines a simple racing mechanic with a dexterity element, capturing the spirit of the Wild West TV show for young fans of the era. A second edition replaced Walker's image with Bronco star Ty Hardin during a contract dispute.
+
+upgrades: []

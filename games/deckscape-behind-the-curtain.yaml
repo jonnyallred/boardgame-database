@@ -1,0 +1,52 @@
+id: deckscape-behind-the-curtain
+name: "Deckscape: Behind the Curtain"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: deckscape
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary (cooperative)
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Puzzle Solving
+  - Narrative Heavy
+
+evokes:
+  - Mystery
+  - Clever
+  - Discovery
+  - Tension
+  - Connection
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Martino Chiacchiera
+  - Silvano Sorrentino
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Deckscape: Behind the Curtain is a pocket escape room card game in the Deckscape series by Martino Chiacchiera and Silvano Sorrentino, published by dV Giochi. Players work cooperatively through a deck of cards representing puzzles, clues, and story events to solve mysteries and escape before making too many mistakes. The game takes place behind the scenes of a theater, with players exploring backstage secrets. As with all Deckscape titles, it plays in about an hour and requires no setup, making it an accessible and portable one-session escape room experience.
+
+upgrades: []

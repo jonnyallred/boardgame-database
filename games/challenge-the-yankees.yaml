@@ -1,0 +1,50 @@
+id: challenge-the-yankees
+name: "Challenge The Yankees"
+alternate_names: []
+year: 1964
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Progress
+  - Connection
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Roger Franklin
+  - Allen Finkelson
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Challenge The Yankees is a baseball simulation board game sold by Hasbro in 1964 and 1965, officially licensed as "The Official New York Yankees Baseball Game." Players set their lineup and roll dice, consulting batter cards to determine outcomes, with 50 player photo cards including 25 Yankees legends (Mickey Mantle, Roger Maris, Yogi Berra) and 25 All-Stars. The game came with a replica of Yankee Stadium that could be physically assembled from its parts. Originally conceived by Roger Franklin in 1949, it offered an accessible dice-driven baseball experience rather than the deeper statistical systems of APBA or Strat-O-Matic.
+
+upgrades: []

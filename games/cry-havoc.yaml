@@ -1,0 +1,57 @@
+id: cry-havoc
+name: "Cry Havoc"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Hand Management
+  - Ameritrash
+  - Sci-Fi
+  - Portal Games
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Unique
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Grant Rodiek
+  - Michal Oracz
+  - Michal Walczak
+publisher:
+  - Portal Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Cry Havoc is a card-driven asymmetric area control wargame set in a brutal science-fiction world, published by Portal Games in 2016. Four unique factions — Humans, Trogs, Machines, and Pilgrims — each with completely different abilities and unit types vie for control of a richly detailed alien planet. Players use faction-specific card decks to trigger actions and resolve tense battle sequences in a distinctive card-based combat system. Featuring 54 custom miniatures and a dramatic visual presentation, Cry Havoc delivers epic-feeling sci-fi conflict in a surprisingly efficient 90-minute play window.
+
+upgrades: []

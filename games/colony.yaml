@@ -1,0 +1,58 @@
+id: colony
+name: "Colony"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Engine Building
+  - Resource Management
+  - Drafting
+  - Variable Setup
+  - Post-Apocalyptic
+  - City Building
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Discovery
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Ted Alspach
+  - Toryo Hojo
+  - Yoshihisa Nakatsu
+publisher:
+  - Bezier Games
+artist:
+  - Felicity Blum
+playtime_minutes: 75
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Colony is a post-apocalyptic engine-building dice drafting game in which 1-4 players construct and upgrade buildings to grow their colony back to civilization. Each round, players roll a pool of dice — each face representing a different resource — and take turns drafting dice to fuel their construction. Buildings generate ongoing benefits, making each purchase feel like progress: resource production, storage, point generation, or special powers. Importantly, some resources are stable (can be saved between turns) while others are unstable (use them or lose them), creating meaningful resource management decisions. A reimplementation of the Japanese game Age of Craft, Colony strikes a satisfying balance between accessibility and tactical depth.
+
+upgrades: []

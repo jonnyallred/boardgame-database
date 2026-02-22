@@ -1,0 +1,50 @@
+id: da-vincis-challenge
+name: "Da Vinci's Challenge"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Pattern Building
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Complete
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Paul Micarelli
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Da Vinci's Challenge is an abstract strategy game designed by Paul Micarelli and published in 2004, played on a board based on the ancient geometric pattern of interlocking circles known as the Flower of Life. Players take turns placing pieces on the board to form nine distinct geometric patterns — triangles, diamonds, stars, circles, and others — each worth different point values from 1 to 25. The game combines straightforward placement rules with deep pattern-recognition strategy, as players balance attacking new patterns against blocking opponents. Its visually striking board inspired by Leonardo da Vinci's geometric studies gives the game a distinctive aesthetic appeal.
+
+upgrades: []

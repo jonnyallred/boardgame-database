@@ -1,0 +1,59 @@
+id: cold-war-cia-vs-kgb
+name: "Cold War: CIA vs KGB"
+alternate_names:
+  - "Guerre Froide"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Bluffing
+  - Press Your Luck
+  - Espionage
+  - Historical
+  - Filler
+  - Bruno Cathala
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Clever
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Bruno Cathala
+  - Ludovic Maublanc
+publisher:
+  - Edge Entertainment
+  - Fantasy Flight Games
+artist:
+  - Didier Poli
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Cold War: CIA vs KGB is a tense two-player card game set during the height of the Cold War, pitting the American CIA against the Soviet KGB in a contest for global influence. Players draft and play cards representing agents, directives, and crisis events while competing for control of countries in a push-your-luck bidding mechanism reminiscent of blackjack — going over a certain threshold loses the country. The game captures the paranoia and brinkmanship of superpower rivalry in a compact, fast format. Originally published as Guerre Froide, it was later distributed by Fantasy Flight Games.
+
+upgrades: []

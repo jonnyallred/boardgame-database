@@ -1,0 +1,60 @@
+id: colosseum
+name: "Colosseum"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Set Collection
+  - Trading
+  - Economic
+  - Euro
+  - Ancient
+  - Historical
+  - Wolfgang Kramer
+  - Days of Wonder
+
+evokes:
+  - Progress
+  - Rivalry
+  - Clever
+  - Agency
+  - Complete
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Wolfgang Kramer
+  - Markus Lübke
+publisher:
+  - Days of Wonder
+artist:
+  - Julien Delval
+  - Cyrille Daujean
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Colosseum puts players in the sandals of Roman impresarios competing to stage the most spectacular events in their arena. Each round players bid in auctions to acquire performers, props, and improvements, then trade assets with rivals to complete the exact lineup their event requires. Running a successful show earns gold and glory while attracting the Emperor and his nobles — each noble present multiplies the spectator count for that session. The game builds to an exciting finale as arenas expand and events grow grander, rewarding both long-term planning and nimble deal-making.
+
+upgrades: []

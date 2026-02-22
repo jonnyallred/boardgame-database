@@ -1,0 +1,49 @@
+id: chouine
+name: "Chouine"
+alternate_names: []
+year: 1600
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Set Collection
+  - Historical
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Lucky
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Chouine is a venerable French two-player point-trick card game of the ace-ten family, played with a 32-card piquet pack, that remains alive today in the Loire Valley of northern Touraine. Dating to at least the 16th century, it rewards players for collecting high-value cards (aces worth 11 points, tens worth 10) and awarding bonus points for declarations and winning the last trick. The defining "chouine" combination — ace, ten, king, queen, and jack of the same suit — wins the hand outright. Since 1974, an annual World Championship has been held in the village of Lavardin, Loir-et-Cher.
+
+upgrades: []

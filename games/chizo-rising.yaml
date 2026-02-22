@@ -1,0 +1,51 @@
+id: chizo-rising
+name: "ChiZo Rising"
+alternate_names: ["ChiZo RISING"]
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Tile Placement
+  - Drafting
+  - Euro
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Temple Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  ChiZo Rising is a collectible tile game published by Temple Games in 2005, whose name derives from "Chinese Zodiac." Players place square tiles representing the 12 creatures of the Chinese Zodiac, aiming to complete 2x2 squares of mutually compatible creatures to score capture points. The game combines the collectible booster pack format with Euro-style set collection mechanics, using high-quality square tiles with striking art from international artists. Additional booster packs of eight random tiles can be added for expanded strategy and variety.
+
+upgrades: []

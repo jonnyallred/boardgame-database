@@ -1,0 +1,54 @@
+id: cosmic-coasters
+name: "Cosmic Coasters"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+  - Sci-Fi
+  - Space
+  - Filler
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Andrew Looney
+publisher:
+  - Looney Labs
+artist:
+  - Alison Looney
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Cosmic Coasters is a compact sci-fi abstract game by Andrew Looney of Looney Labs, played on custom drink coasters representing Galilean moons of Jupiter. Each coaster-moon has four factories, four control points, and a teleporter. Players take turns moving counters (coins or similar tokens) to capture factories and control points, using Rock Paper Scissors to resolve contested battles — keeping it bar-appropriate. To win, you must seize the opponent's teleporter and beam one of your ships back to your home moon. The game was intentionally designed to be played in bars or cafes using items already on hand, and won the 2002 Origins Award for Best Abstract Board Game.
+
+upgrades: []

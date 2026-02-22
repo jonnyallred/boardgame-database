@@ -1,0 +1,49 @@
+id: city
+name: "City"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - City Building
+  - Family
+
+evokes:
+  - Progress
+  - Rivalry
+  - Agency
+  - Clever
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  City (1989) is a strategy board game in which players compete to build thriving businesses in a shared town, filling the streets with shops, restaurants, hotels, cinemas, and other establishments and attracting customers to their enterprises. It combines economic competition with town planning in a family-weight format. Specific details on designer and publisher are limited in available sources for this edition.
+
+upgrades: []

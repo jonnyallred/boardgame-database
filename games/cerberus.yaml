@@ -1,0 +1,54 @@
+id: cerberus
+name: "Cerberus"
+alternate_names: ["Cerbère"]
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - 1 vs Many
+  - Traitor
+  - Hand Management
+  - Variable Setup
+  - Fantasy
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Rivalry
+  - Mystery
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Florian Grenier
+publisher:
+  - La Boîte de Jeu
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Cerberus is a semi-cooperative card game published by La Boite de Jeu in 2018, set in the Greek underworld where players must work together to escape while each trying to secure one of the limited seats on the barque of Charon. Each card played offers a choice between a small personal effect or a powerful group effect, creating tension between cooperation and self-interest. If caught by Cerberus, a player switches to the monster's side and tries to defeat their former companions. With ten different board layouts and adjustable difficulty, each game offers a different experience.
+
+upgrades: []

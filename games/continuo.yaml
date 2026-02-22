@@ -1,0 +1,53 @@
+id: continuo
+name: "Continuo"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Maureen Hiron
+publisher:
+  - Hiron Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Continuo is an elegant abstract tile-placement game invented by British designer Maureen Hiron on April Fool's Day 1982. Players take turns placing one of 42 tiles — each divided into a 4×4 grid of colored squares in four colors — adjacent to tiles already on the table, scoring points for every continuous chain of matching color their placement creates or extends. The single rule — place a tile, score the chains — makes it immediately accessible to players of any age, yet the complex, constantly shifting grid of colors rewards forward thinking. It became Britain's top-selling game within six weeks of its launch and was named Game of the Year by the Association of Board and Card Games Master Players in 1982.
+
+upgrades: []

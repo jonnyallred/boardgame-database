@@ -1,0 +1,49 @@
+id: clown
+name: "CLOWN"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Set Collection
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Connection
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  CLOWN is a light dice and tile-collecting game in which players roll a die each turn to receive tiles representing different body parts of a clown. Higher die rolls result in bigger body parts, and after eight rounds the player who has assembled the biggest clown wins. The game is a lighthearted, luck-driven title suitable for young children and families. Publisher and precise publication year details are limited in available sources.
+
+upgrades: []

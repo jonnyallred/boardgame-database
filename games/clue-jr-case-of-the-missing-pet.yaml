@@ -1,0 +1,50 @@
+id: clue-jr-case-of-the-missing-pet
+name: "Clue Jr.: Case of the Missing Pet"
+alternate_names: ["Clue Jr.: The Case of the Missing Pet"]
+year: 1989
+
+# Relationships
+game_family: clue
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Mystery
+  - Family
+
+evokes:
+  - Mystery
+  - Discovery
+  - Tension
+  - Clever
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 5
+
+description: |
+  Clue Jr.: Case of the Missing Pet is a children's deduction game published by Parker Brothers in 1989, adapted from the classic Clue formula for younger players. Instead of solving a murder, children determine which pet was stolen, who took it, and where it is hidden, using a mystery wheel game board that generates 24 different unique scenarios. A red magnifying glass is required to read hidden clues on the wheel, adding a charming physical element to the deduction. As the first in the Clue Jr. series, it was designed to introduce children aged 5 and up to the deduction genre in an age-appropriate way.
+
+upgrades: []

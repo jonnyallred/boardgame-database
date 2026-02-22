@@ -1,0 +1,51 @@
+id: deal-me-in
+name: "Deal Me In"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Pattern Building
+  - Set Collection
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Deal Me In is a tile-laying board game published by Noraut in 1988 in which players place tiles representing playing cards on an 11x11 matrix board, forming poker hands for points — effectively "Scrabble with poker hands." Players strategically place cards to create horizontal, vertical, or diagonal poker hands while also positioning tiles to deny good placements to opponents. The familiar poker hand hierarchy (pairs, straights, flushes, full houses) gives the game an approachable scoring system for anyone who knows card games.
+
+upgrades: []

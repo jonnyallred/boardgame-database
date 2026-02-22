@@ -1,0 +1,54 @@
+id: cauldron-battle-of-gazala
+name: "Cauldron: Battle of Gazala, May 1942"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Action Points
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Howard Barasch
+publisher:
+  - Simulations Publications Inc.
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Cauldron: Battle of Gazala, May 1942 is a hex-and-counter wargame published by SPI in 1976, simulating Rommel's 1942 offensive against British forces in North Africa. Originally part of the Four Battles in North Africa quadrigame, it covers 26 turns of fluid, mobile desert warfare with extensive minefields shaping the battle lines. The game is notable for its historical accuracy in depicting Rommel's bold encircling maneuver that led to the fall of Tobruk. It uses standard SPI combat mechanics and is suitable for experienced wargamers interested in the North Africa campaign.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: darwin-s-dice
+name: "Darwin's Dice"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Party
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Fabian Engeler
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Darwin's Dice is a simple fast-paced dice game designed by Fabian Engeler with an evolutionary theme, in which players roll dice under competitive conditions determined by each round's current rules. Two dice set the conditions of each turn, and players compete to meet or exceed those conditions to survive and thrive. The evolutionary framing gives a playful spin to the standard dice-rolling mechanics, with players' creatures competing in a lighthearted survival of the fittest. The game plays quickly and suits casual gaming groups.
+
+upgrades: []

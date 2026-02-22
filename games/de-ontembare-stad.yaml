@@ -1,0 +1,53 @@
+id: de-ontembare-stad
+name: "De Ontembare Stad"
+alternate_names:
+  - "The Indomitable Citadel"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - City Building
+  - Euro
+  - Medieval
+
+evokes:
+  - Progress
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Hans van Tol
+publisher: []
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  De Ontembare Stad (The Indomitable Citadel) is a Dutch city-building board game designed by Hans van Tol that won the Dutch Game Prize in 2004. Up to five players take the roles of Grand Masters of knightly orders, cooperating and competing to grow a medieval town into a magnificent citadel through construction and territorial influence. Players use Influence Cards to take new territories, seize opponents' districts, or sabotage rivals by burning down buildings — with the goal of becoming the dominant power and ultimately king of the citadel. An expansion, Het Verraad (Treason), adds further intrigue to the base game.
+
+upgrades: []

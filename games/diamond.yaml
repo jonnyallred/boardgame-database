@@ -1,0 +1,49 @@
+id: diamond
+name: "Diamond"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Larry Back
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Diamond is a two-player abstract strategy game invented by Larry Back, with rules conceived in 1985 and finalized in 1994. Played on a board of interlocking squares and triangles, each player controls 12 colored pieces and competes to achieve a winning configuration through tactical placement and movement. The game's distinctive diamond-shaped board geometry creates unusual movement patterns and tactical opportunities not found in square-grid abstracts. It is a pure strategy game with no random elements, rewarding deep positional thinking.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: delve-the-dice-game
+name: "Delve: The Dice Game"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Dungeon Crawler
+  - Fantasy
+
+evokes:
+  - Lucky
+  - Tension
+  - Agency
+  - Discovery
+  - Progress
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Drew Chamberlain
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Delve: The Dice Game is a solo print-and-play dice game designed by Drew Chamberlain in 2009, in which a player leads a party of four classic fantasy adventurers — Fighter, Rogue, Wizard, and Cleric — through six groups of monsters culminating in a dragon battle. Players roll six dice up to three times per turn, allocating results to their heroes to defeat enemies using a Yahtzee-style mechanic. The game requires only six standard dice and a way to track health, making it one of the most accessible solo dungeon crawl experiences available. A digital iOS adaptation was published by Code Bunny Games in 2012.
+
+upgrades: []

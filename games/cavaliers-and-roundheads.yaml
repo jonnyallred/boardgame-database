@@ -1,0 +1,53 @@
+id: cavaliers-and-roundheads
+name: "Cavaliers and Roundheads"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Dice Rolling
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Gary Gygax
+  - Jeff Perren
+publisher:
+  - Tactical Studies Rules
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 14
+
+description: |
+  Cavaliers and Roundheads is a set of miniature wargaming rules covering the English Civil War, written by Gary Gygax and Jeff Perren and published by Tactical Studies Rules (TSR) in 1973 as the company's very first product. The rules cover troop types including pikemen, musketeers, cavalry, and lobsters, with resolution using six-sided dice in a manner similar to the earlier Chainmail ruleset. No components are included; players supply their own 20mm or 30mm metal miniatures. Historically significant as TSR's debut publication, it preceded the company's landmark release of Dungeons & Dragons.
+
+upgrades: []

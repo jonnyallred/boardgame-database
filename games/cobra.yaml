@@ -1,0 +1,53 @@
+id: cobra
+name: "Cobra: Game of the Normandy Breakout"
+alternate_names: ["Cobra: Patton's 1944 Summer Offensive in France"]
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2, 3]
+true_counts: [2]
+
+designer:
+  - Brad Hessel
+publisher:
+  - Simulations Publications Inc.
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Cobra: Game of the Normandy Breakout is a hex wargame published by SPI in 1977, designed by Brad Hessel, covering the entire Allied Normandy breakout from the summer of 1944 — including both the American Operation Cobra and the British/Canadian Operation Goodwood. One player controls the Germans while the other commands the Allies; a three-player variant divides the American and British/Canadian forces between two players. It was later expanded by TSR after acquiring SPI in 1982, and subsequent editions have been published by Decision Games. The game captures the fluid, rapidly shifting nature of the post-D-Day breakout campaign.
+
+upgrades: []

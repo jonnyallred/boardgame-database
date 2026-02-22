@@ -1,0 +1,52 @@
+id: clans
+name: "Clans"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Deduction
+  - Abstract
+  - Euro
+
+evokes:
+  - Mystery
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Leo Colovini
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Clans is a deceptively simple prehistoric-themed board game designed by Leo Colovini and published by Rio Grande Games in 2002. Players secretly draw a color at game start — red, yellow, blue, green, or black — and spend the game moving nomadic huts across the board to found villages when a territory becomes completely enclosed. Since everyone scores points for the color they are assigned, and those assignments are hidden, players must simultaneously try to benefit their own color while bluffing and deducing opponents' secret identities. With only one action per turn and a four-page rulebook, Clans is an accessible but deeply strategic game.
+
+upgrades: []

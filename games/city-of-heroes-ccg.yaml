@@ -1,0 +1,53 @@
+id: city-of-heroes-ccg
+name: "City of Heroes Collectible Card Game"
+alternate_names: ["City of Heroes CCG"]
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Asymmetric
+  - Variable Player Powers
+  - Superheroes
+  - Sci-Fi
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Unique
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - David Williams
+publisher:
+  - Alderac Entertainment Group
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  The City of Heroes Collectible Card Game is a licensed CCG produced by Alderac Entertainment Group (AEG) and released in January 2006, based on the NCSoft MMORPG City of Heroes. Players build decks around superhero archetypes — Blasters, Controllers, Defenders, and Scrappers — and battle rivals in the arena of Paragon City until only one hero remains standing. A notable feature allowed players to create custom hero cards using an online tool. The game was discontinued in February 2007 after just two sets, having failed to achieve widespread commercial success.
+
+upgrades: []

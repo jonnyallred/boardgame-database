@@ -1,0 +1,50 @@
+id: citizen-x
+name: "Citizen X"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Deduction
+  - Bluffing
+  - Party
+
+evokes:
+  - Mystery
+  - Tension
+  - Bluffing
+  - Rivalry
+  - Agency
+
+possible_counts: [4, 5, 6, 7, 8, 9, 10]
+true_counts: [6, 7, 8]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Citizen X is a social deduction board game in which players try to identify which members of the group are "zombies" hiding among regular citizens. Similar in concept to Mafia or Werewolf, players use deduction, observation, and bluffing to root out the hidden threat before the zombies can overwhelm the citizens. The game emphasizes group dynamics and paranoia-driven decision-making. Specific details on the publisher, designer, and precise publication year are limited in available sources.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: dark-millennium
+name: "Dark Millennium"
+alternate_names:
+  - "Warhammer 40,000: Dark Millennium"
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Ameritrash
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Dread
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Dark Millennium is a 1994 supplement for the Warhammer 40,000 2nd Edition tabletop miniatures wargame, published by Games Workshop. The expansion introduces detailed vehicle rules with over twenty full-color vehicle datafax cards covering everything from bikes to battle tanks and Dreadnoughts, plus a custom vehicle card system for player customization. Part of the sprawling Warhammer 40,000 universe, Dark Millennium expanded the scope of tabletop battles to include heavy mechanized warfare, giving players new strategic options for their armies of the far future. A separate 2005 product shares the Dark Millennium name as a Warhammer 40,000 collectible card game.
+
+upgrades: []

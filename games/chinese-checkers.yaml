@@ -1,0 +1,50 @@
+id: chinese-checkers
+name: "Chinese Checkers"
+alternate_names: ["Stern-Halma", "Star Halma"]
+year: 1928
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Racing
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Progress
+  - Tension
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 4, 6]
+
+designer: []
+publisher:
+  - J. Pressman & Co.
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 5
+
+description: |
+  Chinese Checkers is a popular abstract strategy game invented in Germany in 1892 as Stern-Halma (Star Halma), a star-shaped variant of the American game Halma. Despite its name, the game has no historical connection to China — the "Chinese" branding was added by J. Pressman & Co. in 1928 as an exotic marketing hook for the American market. Played on a six-pointed star board, each player races their colored marbles from their starting corner to the opposite corner by moving or hopping over other pieces. Up to six players can play simultaneously, making it one of the most accessible and widely played family board games in history.
+
+upgrades: []

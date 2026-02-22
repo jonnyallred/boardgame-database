@@ -1,0 +1,52 @@
+id: chancellorsville
+name: "Chancellorsville"
+alternate_names: []
+year: 1961
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Charles S. Roberts
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Chancellorsville is a board wargame published by Avalon Hill in 1961, designed by Charles S. Roberts, simulating the 1863 American Civil War battle. Published alongside its sister game Gettysburg to mark the centennial of the Civil War, Chancellorsville was among the first wargames to use a hexagonal grid. The original edition was criticized for its bland terrain-less map and was dropped from Avalon Hill's catalog after two years; it was substantially revised and republished in 1974 with proper terrain markings. Despite its rocky initial reception, it holds historical significance as an early pioneering hex wargame.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: das-bohnenspiel
+name: "Das Bohnenspiel"
+alternate_names:
+  - "Bohnanza"
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trading
+  - Negotiation
+  - Hand Management
+  - Set Collection
+  - Party
+  - Family
+  - Gateway
+  - Uwe Rosenberg
+
+evokes:
+  - Humor
+  - Persuasion
+  - Clever
+  - Connection
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5]
+
+designer:
+  - Uwe Rosenberg
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Das Bohnenspiel (known internationally as Bohnanza) is a beloved German card game designed by Uwe Rosenberg and published by Amigo Spiele in 1997. Players farm up to three types of beans from a hand of cards they cannot reorder, trading and negotiating to plant profitable crops and sell them for gold coins. The fixed hand order creates a constant need to deal and barter, making every hand dynamic and social. Its quirky bean illustrations and engaging trading mechanics have made Bohnanza one of the most enduringly popular filler games in the hobby, spawning dozens of expansions and variants over the decades.
+
+upgrades: []

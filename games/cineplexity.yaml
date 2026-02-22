@@ -1,0 +1,49 @@
+id: cineplexity
+name: "Cineplexity"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Real-time
+
+evokes:
+  - Humor
+  - Clever
+  - Rivalry
+  - Tension
+  - Connection
+
+possible_counts: [4, 5, 6, 7, 8, 9, 10]
+true_counts: [5, 6, 7, 8]
+
+designer: []
+publisher:
+  - Out of the Box
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Cineplexity is a movie party game for 4-10 players published by Out of the Box (creators of Apples to Apples) in which players race to name a film matching criteria from two simultaneously revealed category cards. The 315 cards cover nine categories including Actors, Characters, Genre, Props, Setting, and Theme, and each round players shout out titles matching both drawn cards before anyone else. Speed and broad film knowledge are rewarded equally. The game is ideal for film buffs and casual players alike at parties and social gatherings.
+
+upgrades: []

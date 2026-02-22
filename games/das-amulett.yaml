@@ -1,0 +1,49 @@
+id: das-amulett
+name: "Das Amulett"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Racing
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Progress
+  - Complete
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Das Amulett is a German board game from 1989 in which players race to collect jewels and complete an amulet. Players need to gather seven different colored jewels or eight jewels of any kind to win, navigating the board and claiming gems before opponents can complete their own amulets. The game's accessible mechanics and gem-collecting theme make it a light family racing experience typical of its era of German family games.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: comet
+name: "Comet"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Variable Player Powers
+  - Family
+  - Animals
+  - Nature
+
+evokes:
+  - Tension
+  - Agency
+  - Clever
+  - Progress
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Peter Prinz
+publisher:
+  - Funtails
+artist:
+  - Hendrik Noack
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Comet is a competitive card game set in a prehistoric world where players guide animals to safety before a devastating comet strikes. Players manage asymmetric hero cards alongside silver and gold animal cards, using clever multi-use card play to move creatures into a safe cavern and score rescue points. Each animal has unique abilities that activate once safely sheltered, driving a satisfying engine of escalating powers. The game ends when the last silver card is drawn, triggering the comet phase for a dramatic final push. Comet stands out for its lack of direct combat, emphasizing strategic optimization and hand management over aggression.
+
+upgrades: []

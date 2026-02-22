@@ -1,0 +1,53 @@
+id: dicke-kartoffeln
+name: "Dicke Kartoffeln"
+alternate_names:
+  - "Big Potatoes"
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Resource Management
+  - Euro
+  - Agriculture
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Frank Nestel
+  - Doris Matthaus
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Dicke Kartoffeln (Big Potatoes) is a German potato farming economic game designed by Frank Nestel and Doris Matthäus, published by Abacus Spiele at the Spiel 1989 fair in Essen. Each player manages a farm of five fields, navigating crop rotation, market prices, over-fertilization, pests, and weather over multiple growing seasons. The game offers two distinct winning conditions — financial victory and an environmental win — rewarding either capitalist efficiency or sustainable farming practices. It was one of the few early games by the Doris & Frank design duo published by a larger publisher rather than self-published.
+
+upgrades: []

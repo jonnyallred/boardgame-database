@@ -1,0 +1,51 @@
+id: clash-of-deck
+name: "Clash of Deck"
+alternate_names: ["Clash of Decks"]
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Area Control
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Léandre Proust
+publisher:
+  - Grammes Édition
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Clash of Deck is a free-to-play living card game published by French publisher Grammes Édition in 2020, designed by Léandre Proust. Players summon creatures on two bridge lanes to attack the opponent's watchtower and then castle, with hand size doubling as mana — a clever twist where managing which cards return to hand after defeat is as important as playing them. Originally released on DIY punch-card sheets with monthly standalone expansions, the game grew rapidly, with its rules translated into 34 languages and a digital version available on Board Game Arena.
+
+upgrades: []

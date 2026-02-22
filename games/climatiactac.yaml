@@ -1,0 +1,50 @@
+id: climatiactac
+name: "ClimaTicTac"
+alternate_names: ["Climat Tic-Tac"]
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Events
+  - Nature
+
+evokes:
+  - Tension
+  - Discovery
+  - Connection
+  - Progress
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Bioviva
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  ClimaTicTac is a cooperative educational board game developed by climate scientists at the IPSL (Institut Pierre-Simon Laplace) to make human-induced climate change tangible and accessible to students and the general public. Players work together across a world map of 30 climate-vulnerable cities spanning the 21st century, managing CO2 concentrations, mitigating damage, and adapting to climate impacts before cities become uninhabitable. It has been distributed to schools by French local authorities and was awarded the CNRS medal for scientific outreach. A family adaptation was published by Bioviva Editions for distribution across France, Belgium, Switzerland, and Canada.
+
+upgrades: []

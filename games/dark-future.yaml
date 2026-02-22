@@ -1,0 +1,50 @@
+id: dark-future
+name: "Dark Future"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Wargame
+  - Post-Apocalyptic
+  - Sci-Fi
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Dread
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Dark Future is a post-apocalyptic vehicular combat miniatures game published by Games Workshop in 1988, set in a dystopian alternate 1995 America where privatized police ("Sanctioned Operatives") pursue outlaws and gang raiders across lawless highways. Players maneuver plastic car models along an ever-extending cardboard track representing the endless interstate wastelands, using customized vehicles armed with guns, missiles, and ramming capabilities. Unlike most Games Workshop games of the era, its linear track format made it uniquely suited to high-speed road battles. It was recently revisited via a video game adaptation and a nostalgia-driven community revival.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: counter-intelligence
+name: "Counter Intelligence"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Deduction
+  - Hidden Movement
+  - Espionage
+
+evokes:
+  - Tension
+  - Mystery
+  - Clever
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jeremy Secker
+publisher:
+  - Zzota Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Counter Intelligence is a two-player bluffing and deduction game of espionage published in 1989 by Zzota Games. Each player acts as a spymaster controlling three agents navigating a network of safe houses toward a control center. Movement involves bluffing and double-bluffing, as you attempt to eliminate the enemy's agents while keeping your own safe. The game captures the classic cat-and-mouse tension of Cold War spy fiction in a compact, accessible format. Designed by British game inventor Jeremy Secker, it is an entertaining specimen of the late 1980s wave of espionage-themed board games.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: d-day-the-great-crusade
+name: "D-Day: The Great Crusade"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Powerful
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Danny Holte
+publisher: []
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  D-Day: The Great Crusade is a regimental-scale hex-and-counter wargame designed by Danny Holte, simulating the Allied invasion of Normandy from June 6 to July 6, 1944. Two 22x34" maps depict the Normandy peninsula at 1.5 km per hex with 1-day turns, and 480 die-cut counters represent the formations that fought in Operation Overlord. The game includes air support, naval bombardment, weather, bridge destruction, interdiction, and replacements, offering moderate complexity across five scenarios including the full campaign game. Playable solo or by 2-4 players, it provides a thorough operational look at the decisive first month of the Western Front's liberation.
+
+upgrades: []

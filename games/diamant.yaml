@@ -1,0 +1,57 @@
+id: diamant
+name: "Diamant"
+alternate_names:
+  - "Incan Gold"
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Simultaneous Action
+  - Set Collection
+  - Party
+  - Family
+  - Gateway
+  - Filler
+  - Alan R. Moon
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Agency
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [5, 6, 7, 8]
+
+designer:
+  - Alan R. Moon
+  - Bruno Faidutti
+publisher: []
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Diamant (also published as Incan Gold) is a rapid press-your-luck card game for 3-8 players designed by Alan R. Moon and Bruno Faidutti. Players simultaneously decide each round whether to continue deeper into a gem mine or retreat with their haul — brave explorers who press on share any newly revealed gems, while those who flee keep what they've collected. The catch is that drawing two of the same hazard card (snakes, spiders, fires) sends all remaining adventurers home empty-handed. Played over five cave expeditions, the game is a masterclass in tension and group psychology that plays in about 20 minutes.
+
+upgrades: []

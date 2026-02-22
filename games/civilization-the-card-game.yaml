@@ -1,0 +1,53 @@
+id: civilization-the-card-game
+name: "Civilization: The Card Game"
+alternate_names: ["Sid Meier's Civilization: The Card Game"]
+year: 2006
+
+# Relationships
+game_family: civilization
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Civilization
+  - Tech Tree
+  - Resource Management
+  - Hand Management
+  - Tableau Building
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Soren Johnson
+publisher:
+  - Firaxis Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Sid Meier's Civilization: The Card Game is a 2006 card game designed by Soren Johnson and available exclusively as a bonus inclusion with the Civilization Chronicles boxed set, never sold separately. Based on Civilization IV, players collect resource cards to settle plots of land, build structures and wonders, research technologies, and engage in military combat as they race to build the most prosperous empire. The game distills the key pillars of the video game — expansion, exploitation, extermination, and exploration — into an accessible card game format suitable for 2-4 players.
+
+upgrades: []

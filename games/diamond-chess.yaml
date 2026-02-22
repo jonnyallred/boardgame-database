@@ -1,0 +1,48 @@
+id: diamond-chess
+name: "Diamond Chess"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - No Math
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Diamond Chess is a chess variant played on a diamond-oriented or rotated square board, where the familiar chess pieces operate under modified movement rules or the board geometry creates new strategic dynamics. Chess variants with diamond configurations have appeared from multiple publishers as alternatives to standard chess, often designed to create fresh tactical puzzles for experienced chess players while remaining accessible to novices. As a relatively obscure title, detailed documentation is limited in modern sources.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: diaballik
+name: "Diaballik"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Philippe Lefrancois
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Diaballik is a two-player abstract strategy game designed by Philippe Lefrançois, simulating a sport in which each team attempts to advance their ball to the opponent's goal line on a 7x7 grid. Each player controls seven pieces arranged along their home edge with the ball held by the center piece; on each turn a player may move an empty piece, pass the ball between adjacent pieces, and optionally rotate pieces — aiming to reach the opponent's baseline while forming strategic walls to block the opponent's passing lanes. Crucially, a player who creates an impenetrable barrier loses automatically, adding a self-defeating risk to defensive play. The game has attracted theoretical computer science study for its combinatorial depth.
+
+upgrades: []

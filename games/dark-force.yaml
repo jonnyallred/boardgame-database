@@ -1,0 +1,48 @@
+id: dark-force
+name: "Dark Force"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Dark Force is a science fiction board game from the mid-1980s. As a relatively obscure title from this era, detailed information about its designer, publisher, and specific mechanics is limited in modern English-language sources. The game appears to involve conflict in a science-fictional setting. Historical board game databases list it as a published title from this period.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: clobber
+name: "Clobber"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Michael H. Albert
+  - J.P. Grossman
+  - Richard J. Nowakowski
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 10
+
+description: |
+  Clobber is a two-player abstract strategy game invented in 2001 at a combinatorial game theory workshop in Halifax by Michael Albert, J.P. Grossman, and Richard Nowakowski. Played on a checkerboard with alternating black and white pieces, players take turns moving one of their pieces onto an adjacent orthogonally neighboring opponent's piece, capturing it. The player who makes the last legal move wins. Extraordinarily simple to learn but mathematically rich, Clobber has been extensively studied by combinatorial game theorists and has been a regular event at the Computer Olympiad since 2005. It can be played on any grid size from 5x6 to 10x10.
+
+upgrades: []

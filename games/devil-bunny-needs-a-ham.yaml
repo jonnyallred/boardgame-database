@@ -1,0 +1,52 @@
+id: devil-bunny-needs-a-ham
+name: "Devil Bunny Needs a Ham"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Party
+  - Filler
+  - Humor
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Greater Than Games
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Devil Bunny Needs a Ham is a classic Cheapass Games title from 1998 (game #018 in their catalog) in which players control sous-chefs climbing up the side of a building while the villainous Devil Bunny tries to knock them off — in the mistaken belief that doing so will somehow get him a ham. Players roll two dice each turn to move their sous-chefs up the building grid horizontally or diagonally, while Devil Bunny terrorizes everyone. The game is beloved for its absurdist humor, minimal components, and quick play time, and was later brought back by Greater Than Games in a Kickstarter revival of both Devil Bunny titles.
+
+upgrades: []

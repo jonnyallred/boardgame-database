@@ -1,0 +1,49 @@
+id: crossings
+name: "Crossings"
+alternate_names: []
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Robert Abbott
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Crossings is a two-player abstract strategy game invented by Robert Abbott and published in Sid Sackson's classic anthology A Gamut of Games. Players move their pieces across the board trying to reach the opposite side, while blocking the opponent from doing the same. The game is considered a precursor to Epaminondas, which uses a larger board and more developed movement rules. As a pencil-and-paper publishable abstract, it is notable for its elegant simplicity and its influence on later abstract design.
+
+upgrades: []

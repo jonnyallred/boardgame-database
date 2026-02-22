@@ -1,0 +1,57 @@
+id: cyclades
+name: "Cyclades"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Area Control
+  - Drafting
+  - Euro
+  - Mythology
+  - Ancient
+  - Bruno Cathala
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Bruno Cathala
+  - Ludovic Maublanc
+publisher:
+  - Asmodee
+artist:
+  - Miguel Coimbra
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 13
+
+description: |
+  Cyclades is a competitive area control and auction game set in ancient Greece, designed by Bruno Cathala and Ludovic Maublanc with stunning art by Miguel Coimbra. Players race to be the first to construct two metropolises across the Greek island archipelago by bidding for the favor of five Olympian gods — Ares, Poseidon, Zeus, Apollo, and Athena — each of whom grants a different set of actions. Only one player may invoke each god per round, creating fierce competition at the bidding table. The combination of volatile auctions, military conflict, and mythological abilities makes Cyclades a fast-playing but deeply interactive experience.
+
+upgrades: []

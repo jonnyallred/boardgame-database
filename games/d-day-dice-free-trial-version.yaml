@@ -1,0 +1,51 @@
+id: d-day-dice-free-trial-version
+name: "D-Day Dice: Free Trial Version"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: d-day-dice
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary (cooperative)
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Lucky
+  - Connection
+  - Dread
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer:
+  - Emmanuel Aquin
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  D-Day Dice: Free Trial Version is a free print-and-play preview of the full D-Day Dice cooperative dice game, published in 2009. It includes two battle maps — "Exercise Tiger" and "Omaha Beach" — and gives players a taste of the full game's cooperative dice resource management and beach-storming gameplay. Players act simultaneously as Allied soldiers, rolling custom dice to organize improvised units and advance against machine gun nests. The free version requires almost no printing and no crafting, making it an immediately accessible entry point to the D-Day Dice system.
+
+upgrades: []

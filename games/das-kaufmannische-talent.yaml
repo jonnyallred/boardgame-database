@@ -1,0 +1,50 @@
+id: das-kaufmannische-talent
+name: "Das kaufmännische Talent"
+alternate_names:
+  - "The Commercial Talent"
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Trading
+  - Family
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Das kaufmännische Talent (The Commercial Talent) is a German economic board game from the mid-1980s in which players develop trading and business skills in a competitive marketplace setting. As an older German educational game with limited English-language documentation, detailed designer and publisher information is not readily available in modern sources. The game appears to use trading and negotiation mechanics to simulate commercial competition.
+
+upgrades: []

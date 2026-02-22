@@ -1,0 +1,59 @@
+id: commands-colors-napoleonics
+name: "Commands & Colors: Napoleonics"
+alternate_names:
+  - "Command and Colors: Napoleonics"
+year: 2010
+
+# Relationships
+game_family: commands-and-colors
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Hex Map
+  - Dice Rolling
+  - Asymmetric
+  - Variable Player Powers
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Richard Borg
+publisher:
+  - GMT Games
+artist:
+  - Rodger B. MacGowan
+  - Mark Simonitch
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Commands & Colors: Napoleonics applies Richard Borg's classic command card system to the Napoleonic Wars, covering battles of the Peninsular War and the Hundred Days campaign including Waterloo. Like its predecessors, players use command cards to activate units in specific sections of the battlefield, then roll custom dice to resolve combat. The Napoleonic period introduces key distinctions between Infantry, Cavalry, and Artillery roles, with infantry squares providing a unique defensive option against cavalry charges. Unit blocks degrade as they take losses, directly reducing combat effectiveness. Multiple expansion modules have extended coverage to additional nations and campaigns, making it one of the most complete Napoleonic wargames in the hobby.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: citytech
+name: "CityTech"
+alternate_names: ["BattleTech: CityTech", "Citytech: The Battletech Game of Urban Combat"]
+year: 1986
+
+# Relationships
+game_family: battletech
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+  - Asymmetric
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - FASA
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  CityTech is a wargame expansion for the BattleTech universe published by FASA in 1986, extending the BattleMech combat rules with infantry and vehicle warfare in urban environments. Players battle through city blocks using BattleMechs, conventional vehicles, and infantry units across two detailed maps and 160 building pieces. The game adds critical street-fighting mechanics to the BattleTech system — including building destruction and confined-space tactics — expanding the tactical possibilities of one of the most celebrated sci-fi miniature wargame systems.
+
+upgrades: []

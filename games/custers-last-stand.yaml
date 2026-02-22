@@ -1,0 +1,51 @@
+id: custers-last-stand
+name: "Custer's Last Stand"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Western
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Dread
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Custer's Last Stand is a two-player hex-and-counter wargame published by Battleline in 1976 depicting the Battle of Little Bighorn on June 25, 1876. One player commands Lieutenant Colonel George Armstrong Custer's 7th Cavalry and the other commands the united Sioux and Cheyenne nations under Sitting Bull and Crazy Horse. The game includes 120 die-cut counters and an 8-page rulebook, offering a compact but historically grounded simulation of one of the most famous military engagements of the American frontier. Multiple publishers have produced variants and successors to this classic wargame subject over the decades.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: deckscape-crew-vs-crew-the-pirates-island
+name: "Deckscape Crew vs Crew: The Pirates' Island"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: deckscape
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Puzzle Solving
+  - Narrative Heavy
+  - Pirates
+
+evokes:
+  - Mystery
+  - Tension
+  - Discovery
+  - Humor
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Martino Chiacchiera
+  - Silvano Sorrentino
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Deckscape: Crew vs Crew – The Pirates' Island is a competitive-cooperative entry in the Deckscape escape room card game series designed by Martino Chiacchiera and Silvano Sorrentino, published by dV Giochi. Unlike standard Deckscape titles, this version splits players into competing pirate crews racing to solve the same puzzle sequence and escape the island first, adding a competitive dimension to the otherwise cooperative format. Like all Deckscape games, it consists primarily of a deck of cards that guide players through an escape room experience in roughly one hour. The pirate theme and crew-vs-crew mechanic make it a standout entry in the popular series that has sold over a million copies worldwide.
+
+upgrades: []

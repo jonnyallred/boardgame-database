@@ -1,0 +1,51 @@
+id: crash-the-bankrupt-game
+name: "Crash! The Bankrupt Game"
+alternate_names:
+  - "Crash! the Bankrupt game"
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Economic
+  - Take That
+  - Family
+
+evokes:
+  - Rivalry
+  - Tension
+  - Lucky
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Crash! The Bankrupt Game is a card game in which players compete to force all opponents into bankruptcy by depleting their cards both in hand and in play. Published in a bilingual Italian/English edition, the game uses card play to attack opponents' financial positions while protecting one's own. The bankruptcy theme and simple rules make it an accessible economic card game suitable for family play. Limited information is publicly available about the game's original publisher and designer.
+
+upgrades: []

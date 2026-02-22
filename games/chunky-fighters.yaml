@@ -1,0 +1,52 @@
+id: chunky-fighters
+name: "Chunky Fighters"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Asymmetric
+  - Variable Player Powers
+  - Party
+
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Powerful
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Nick Hayes
+publisher:
+  - Robin Red Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Chunky Fighters is a combat dice game in which each player's fighter is physically built from four dice representing head, body, legs, and weapon. Players roll damage and hit location dice each turn, physically rotating the relevant body-part dice to show remaining hit points as fighters take damage. Players can attack normally, change weapons, administer first aid, disarm opponents, or make targeted called shots for extra damage. The last fighter standing wins. The game's unique dice-as-miniatures concept makes damage tracking viscerally tactile and visually amusing.
+
+upgrades: []

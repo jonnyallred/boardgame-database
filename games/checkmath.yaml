@@ -1,0 +1,51 @@
+id: checkmath
+name: "Checkmath"
+alternate_names: ["Check Math"]
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Family
+  - No Math
+
+evokes:
+  - Clever
+  - Rivalry
+  - Progress
+  - Agency
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Educational Insights
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  Checkmath is an educational strategy game published by Educational Insights that applies mathematics to a checker-like format. Players advance numbered tiles to squares that are multiples of the number on their tile, capturing opposing pieces along the way. The game teaches multiplication, multiples, and factors through strategic gameplay on a numbered board. With 20 double-sided bamboo tiles and an elegantly simple ruleset, Checkmath makes math practice feel like a genuine competitive game rather than a drill.
+
+upgrades: []

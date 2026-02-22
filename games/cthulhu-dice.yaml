@@ -1,0 +1,50 @@
+id: cthulhu-dice
+name: "Cthulhu Dice"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Party
+  - Filler
+  - Cthulhu
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Unique
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 8
+
+description: |
+  Cthulhu Dice is an ultra-light dice game by Steve Jackson Games (2010) in which players try to drive each other insane using a custom 12-sided die featuring Lovecraftian symbols. Each player starts with three sanity tokens (glass marbles), and on your turn you roll the die against another player — results cause sanity loss, sanity gain, or invocations of Cthulhu himself. The last sane player wins, though Cthulhu may claim everyone's minds if the tokens run out. A pocket-sized, beer-and-pretzels filler that plays in under 10 minutes.
+
+upgrades: []

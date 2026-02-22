@@ -1,0 +1,51 @@
+id: coerceo
+name: "Coerceo"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Modular Board
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Thierry Denoual
+publisher:
+  - Coerceo Company
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Coerceo is a two-player abstract strategy game with a uniquely shrinking board. The playing field consists of 19 hexagonal tiles arranged in a honeycomb; whenever a tile has three open edges and no pieces on it, it is removed, constantly reshaping the battlefield and keeping players close. Movement is diagonal by one space to a vacant tile, and a piece is captured when it is completely surrounded by the opponent's pieces or the board edge. With only one type of piece and one type of move, rules can be taught in minutes, yet the emergent strategic depth from the dissolving board gives the game a distinctive feel unlike Chess or Go. It won the MENSA Mind Games award in 2012.
+
+upgrades: []

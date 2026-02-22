@@ -1,0 +1,57 @@
+id: conflict-of-heroes-storms-of-steel
+name: "Conflict of Heroes: Storms of Steel! – Kursk 1943"
+alternate_names:
+  - "Conflict of Heroes: Storms of Steel"
+year: 2009
+
+# Relationships
+game_family: conflict-of-heroes
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Action Points
+  - Variable Player Powers
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Uwe Eickert
+publisher:
+  - Academy Games
+artist:
+  - Uwe Eickert
+playtime_minutes: 120
+min_playtime: 30
+max_playtime: 240
+min_age: 12
+
+description: |
+  Conflict of Heroes: Storms of Steel! – Kursk 1943 is a tactical wargame covering the massive armored clash at Kursk in 1943, one of the largest tank battles in history. Using the same intuitive action-point system as Awakening the Bear!, players command infantry squads, anti-tank guns, and tanks across detailed hex maps, fighting for scenario objectives worth victory points. The initiative system allows real-time reaction to enemy moves, keeping both players engaged throughout. The game scales from quick 30-minute firefights to multi-hour campaigns, and a 3rd Edition released in 2019 updated all artwork, counters, and rules. It supports both competitive and cooperative play for 2-4 players.
+
+upgrades: []

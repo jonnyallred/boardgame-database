@@ -1,0 +1,49 @@
+id: daitoshi
+name: "Daitoshi"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - City Building
+  - Euro
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Wonder
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Daitoshi is a 2024 board game. As a very recent and relatively obscure release, comprehensive English-language documentation is limited at time of research. The title appears to involve strategic placement or city-building mechanics based on available catalog data. Players interested in this game should consult the publisher's official materials for accurate and complete game information.
+
+upgrades: []

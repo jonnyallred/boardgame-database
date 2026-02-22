@@ -1,0 +1,57 @@
+id: detective
+name: "Detective"
+alternate_names:
+  - "Detective: A Modern Crime Board Game"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary (cooperative)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Campaign Mode
+  - Narrative Heavy
+  - Mystery
+  - Portal Games
+
+evokes:
+  - Mystery
+  - Discovery
+  - Tension
+  - Clever
+  - Connection
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Ignacy Trzewiczek
+  - Przemyslaw Rymer
+  - Jakub Lapot
+publisher:
+  - Portal Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 16
+
+description: |
+  Detective: A Modern Crime Board Game is a cooperative mystery game for 1-4 players published by Portal Games in 2018, designed by Ignacy Trzewiczek and co-designers. Players take on the roles of investigators at the Antares National Investigation Agency, working together across a five-case campaign with a connected narrative. Uniquely, the game integrates with an online database that players must query to research suspects and evidence, blurring the line between board game and alternate reality experience. Its emphasis on realistic deduction, online research, and branching consequences earned it widespread critical acclaim as one of the most innovative mystery games of its era.
+
+upgrades: []

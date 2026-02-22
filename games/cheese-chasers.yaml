@@ -1,0 +1,52 @@
+id: cheese-chasers
+name: "Cheese Chasers"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Puzzle Solving
+  - Animals
+  - Food Theme
+
+evokes:
+  - Clever
+  - Lucky
+  - Humor
+  - Agency
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer:
+  - Bran McMillin
+publisher:
+  - Burnt Toast Publishing
+artist: []
+playtime_minutes: 5
+min_playtime: 1
+max_playtime: 10
+min_age: 8
+
+description: |
+  Cheese Chasers is a solitaire and multiplayer tile-placement card game published by Burnt Toast Publishing in 2008, originally designed as a free print-and-play game. Players draw cards in random order and place them in a play area, trying to surround cheese with their mice while avoiding cats and traps. Games last just one to five minutes, making it one of the fastest card games in existence. A digital adaptation was later developed for mobile platforms by Boardnaut Studios.
+
+upgrades: []

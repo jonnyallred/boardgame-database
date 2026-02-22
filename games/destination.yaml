@@ -1,0 +1,49 @@
+id: destination
+name: "Destination"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Route Building
+  - Family
+
+evokes:
+  - Discovery
+  - Lucky
+  - Progress
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Destination is a travel racing board game in which players race to reach specific destination cards on a geographic board. As a relatively obscure title with limited modern documentation, detailed designer and publisher information is not readily available in English-language sources. Travel racing games under the "Destination" branding appeared from multiple publishers in the late 1980s.
+
+upgrades: []

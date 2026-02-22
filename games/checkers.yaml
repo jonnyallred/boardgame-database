@@ -1,0 +1,48 @@
+id: checkers
+name: "Checkers"
+alternate_names: ["Draughts", "English Draughts", "American Checkers"]
+year: 1100
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 5
+
+description: |
+  Checkers (known as Draughts outside North America) is one of the world's oldest and most widely played board games, with roots tracing back to the Alquerque games of ancient Egypt and Mesopotamia. The modern form — played on a standard 8x8 checkered board with 12 pieces per side moving diagonally — emerged in Europe around the 12th century, likely in southern France. Players must jump over and capture enemy pieces while advancing their own, with pieces reaching the far side promoted to "kings" that can move backward. Simple to learn but capable of deep strategic play, checkers remains a beloved game of pure two-player abstract competition.
+
+upgrades: []

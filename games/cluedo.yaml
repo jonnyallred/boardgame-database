@@ -1,0 +1,52 @@
+id: cluedo
+name: "Cluedo"
+alternate_names: ["Clue", "Clue: The Classic Mystery Game"]
+year: 1949
+
+# Relationships
+game_family: clue
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Mystery
+  - Family
+  - Gateway
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Discovery
+  - Connection
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Anthony E. Pratt
+publisher:
+  - Waddingtons
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 75
+min_age: 8
+
+description: |
+  Cluedo (marketed as Clue in North America) is the original murder mystery deduction game designed by British inventor Anthony Pratt in 1943 and first published by Waddingtons in 1949. Three to six players move through the rooms of Tudor Mansion, gathering information through questioning to deduce which of six suspects killed the victim, in which room, and with which weapon. Players eliminate possibilities using logical deduction with private notepads until one can confidently accuse the murderer. One of the bestselling and most iconic board games ever created, it has spawned countless editions, spin-offs, a 1985 film, and has been continuously in print for over 75 years.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: chinese-farm
+name: "Chinese Farm"
+alternate_names: ["Chinese Farm: Egyptian-Israeli Combat in the '73 War"]
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Howard Barasch
+publisher:
+  - Simulations Publications Inc.
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Chinese Farm is an operational-level hex wargame published by SPI in 1975, simulating Israeli and Egyptian ground combat at the Battle of The Chinese Farm during the 1973 Yom Kippur War. The battle's name derives from an Egyptian experimental farm whose Japanese Kanji machinery markings were mistaken for Chinese Hanzi by Israeli observers. Originally part of the Modern Battles quadrigame, the game depicts Israel's dangerous bridgehead crossing of the Suez Canal and the fierce fighting that followed. Designed by Howard Barasch with cartography by Redmond Simonsen, it is a compact but historically significant wargame.
+
+upgrades: []

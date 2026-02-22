@@ -1,0 +1,51 @@
+id: connexoh
+name: "Connex'Oh"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Pattern Building
+  - Family
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Djeco
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Connex'Oh is an abstract connection game published by the French toy and game company Djeco. Players place rotatable tiles on the board, and by twisting the tiles they can create connected corridors of matching colored halves, allowing pieces of that color to advance along the path. The tile rotation mechanism gives the game a unique puzzle-like quality, as the board state can shift dramatically with a single tile twist. The game's simple rules and colorful components make it accessible to children while offering enough spatial reasoning depth to entertain adults.
+
+upgrades: []

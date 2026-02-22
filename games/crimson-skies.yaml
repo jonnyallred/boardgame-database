@@ -1,0 +1,56 @@
+id: crimson-skies
+name: "Crimson Skies"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: crimson-skies
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Programmed Movement
+  - Simultaneous Action
+  - Wargame
+  - Aviation
+  - Steampunk
+  - Historical
+
+evokes:
+  - Tension
+  - Agency
+  - Dread
+  - Rivalry
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jordan Weisman
+  - Dave McCoy
+publisher:
+  - FASA
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Crimson Skies is a dieselpunk aerial combat board game set in an alternate 1930s America where the country has fragmented into independent nations and air piracy is rampant. Players command squads of colorfully stylized fighter planes, plotting simultaneous movement on flight sheets before revealing and executing maneuvers. The damage system uses FASA's box-filling method, tracking individual weapon hits across different aircraft systems. Winner of two 1999 Origins Awards for Best Science Fiction/Fantasy Board Game and Best Graphic Presentation, it spawned a detailed shared world of fiction and a beloved Xbox video game. The physical board game never achieved a large player base due to its complexity, but has a devoted cult following.
+
+upgrades: []

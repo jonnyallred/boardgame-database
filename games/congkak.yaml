@@ -1,0 +1,52 @@
+id: congkak
+name: "Congkak"
+alternate_names:
+  - "Congklak"
+  - "Dakon"
+  - "Sungka"
+year: 1400
+
+# Relationships
+game_family: mancala
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Congkak is a traditional mancala game played throughout Southeast Asia, known as Congklak or Dakon in Indonesia, Sungka in the Philippines, and by other regional names. Played on carved wooden boat-shaped boards with two rows of seven holes and a store at each end, players sow seeds — traditionally cowrie shells, pebbles, or tamarind seeds — around the board, capturing them in their store hole. Believed to have been introduced to the Malay world by Indian or Arab traders in the 15th century, it has been played at courts and villages across Malaysia, Indonesia, Brunei, and the Philippines for centuries. The name derives from the old Malay word for mental calculation, reflecting the game's emphasis on planning several moves ahead.
+
+upgrades: []

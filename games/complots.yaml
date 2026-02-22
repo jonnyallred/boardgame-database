@@ -1,0 +1,54 @@
+id: complots
+name: "Complots"
+alternate_names:
+  - "Coup (French Edition)"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Social Deduction
+  - Hand Management
+  - Party
+  - Filler
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Clever
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Rikki Tahta
+publisher:
+  - Ferti
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 10
+
+description: |
+  Complots is the French-edition bluffing card game closely related to Coup, in which players control two character cards and start with two coins. Through bluffing, manipulation, and targeted actions — each tied to character abilities — players attempt to eliminate all opponents by stripping them of their character cards. A new character card, the Inquisitor, and two-player rules distinguish this edition from its English-language counterpart. Like Coup, the game is a masterclass in social deduction with a minimal component set — just 24 cards and a handful of tokens — but delivers a surprising amount of psychological depth.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: cranium
+name: "Cranium"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: cranium
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Teams
+  - Word Play
+  - Puzzle Solving
+  - Creative
+  - Family
+
+evokes:
+  - Humor
+  - Connection
+  - Creative
+  - Clever
+  - Progress
+
+possible_counts: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+true_counts: [6, 8, 10]
+
+designer:
+  - Whit Alexander
+  - Richard Tait
+publisher:
+  - Cranium Inc.
+  - Hasbro
+artist:
+  - Gary Baseman
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 16
+
+description: |
+  Cranium bills itself as "The Game for Your Whole Brain," combining four categories of activities — creative clay sculpting, data head trivia, word play, and star performer acting — to appeal to players with different strengths. Teams race around a board, succeeding at challenges in each category to advance toward the Cranium Central space. Created by former Microsoft employees Whit Alexander and Richard Tait in 1998 and first sold through Amazon and Starbucks, it sold 44 million copies before being acquired by Hasbro in 2008. It remains a popular party game precisely because it mixes skill types so that every player has a chance to shine.
+
+upgrades: []

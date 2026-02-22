@@ -1,0 +1,54 @@
+id: coffee-rush
+name: "Coffee Rush"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Set Collection
+  - Hand Management
+  - Family
+  - Food Theme
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Progress
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Euijin Han
+publisher:
+  - Korea Boardgames
+  - Asmodee
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Coffee Rush is a competitive worker-placement game about becoming the greatest barista by fulfilling coffee orders faster than your rivals. Players move their barista pawns around an ingredient board to gather the components needed for each drink order, racing to complete three orders before triggering an upgrade that makes collecting ingredients more efficient. The game ends when all order cards are exhausted or when a player accumulates five penalty cards. With quick turns and an accessible theme, Coffee Rush is a light family game that delivers the frantic energy of a real coffee shop rush in about 30 minutes.
+
+upgrades: []

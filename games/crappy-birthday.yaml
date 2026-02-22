@@ -1,0 +1,53 @@
+id: crappy-birthday
+name: "Crappy Birthday"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Hand Management
+  - Social Deduction
+  - Family
+
+evokes:
+  - Humor
+  - Connection
+  - Clever
+  - Lucky
+  - Discovery
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [5, 6, 7, 8]
+
+designer:
+  - Brian Weinstock
+  - Amy Weinstock
+publisher:
+  - North Star Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Crappy Birthday is a light social party game in which players try to give the Birthday Judge the gift they'll love most — or hate most. Each player chooses a card from their hand of silly, mundane, or outright terrible gift options, and the Birthday Judge reveals and ranks them from most to least desirable. Points go to whoever gave the best-received and worst-received gifts, rewarding both thoughtful knowledge of friends' tastes and deliberate cruelty. Designed by Brian and Amy Weinstock and published by North Star Games, it is explicitly designed to be gifted at parties in lieu of wine, making the packaging itself part of the joke.
+
+upgrades: []

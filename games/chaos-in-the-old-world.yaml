@@ -1,0 +1,56 @@
+id: chaos-in-the-old-world
+name: "Chaos in the Old World"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Dice Rolling
+  - Fantasy
+  - Ameritrash
+  - Cult Classic
+  - Eric Lang
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Unique
+  - Dread
+
+possible_counts: [3, 4]
+true_counts: [4]
+
+designer:
+  - Eric Lang
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Chaos in the Old World is an asymmetric area control game published by Fantasy Flight Games in 2009, designed by Eric Lang and set in the Warhammer Fantasy universe. Three to four players each embody one of the four Chaos gods — Khorne, Nurgle, Tzeentch, or Slaanesh — each with unique abilities, units, and victory conditions as they vie to corrupt and ruin the Old World. Players can win by accumulating victory points, fully advancing their god's threat dial, or ruining enough regions — but if seven world event cards are exhausted and no god has won, the world itself wins and everyone loses. Praised as a landmark of asymmetric design, Chaos in the Old World became a beloved cult classic before going out of print.
+
+upgrades: []

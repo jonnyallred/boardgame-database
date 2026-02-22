@@ -1,0 +1,54 @@
+id: cheeky-monkey
+name: "Cheeky Monkey"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Bag Building
+  - Family
+  - Gateway
+  - Animals
+  - Reiner Knizia
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Gryphon Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 7
+
+description: |
+  Cheeky Monkey is a light press-your-luck game by Reiner Knizia for 2-6 players, published by Gryphon Games in 2007. Players draw animal-themed chips from a bag on their turn, accumulating them in front of them — but if they draw a chip matching one they have already pulled, they must discard all their current chips back into the bag. The key decision each turn is whether to keep drawing for more points or to bank what you have. One charming edition of the game comes packaged inside a plush toy monkey with a zipper compartment. Quick, light, and accessible for all ages.
+
+upgrades: []

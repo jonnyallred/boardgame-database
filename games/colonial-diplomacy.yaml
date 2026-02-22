@@ -1,0 +1,55 @@
+id: colonial-diplomacy
+name: "Colonial Diplomacy"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: diplomacy
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Area Control
+  - Bluffing
+  - Wargame
+  - Historical
+  - Maritime
+  - Espionage
+
+evokes:
+  - Persuasion
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [7]
+
+designer:
+  - Don Harden
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 720
+min_age: 12
+
+description: |
+  Colonial Diplomacy is a commercially published variant of the classic negotiation game Diplomacy, transposed from World War I Europe to Asia in the late 19th century. Seven world powers — including Russia, China, Britain, Japan, Holland, France, and Turkey — compete for colonial dominance across South and Southeast Asia, the Middle East, and the Pacific. Like the original Diplomacy, orders are submitted simultaneously and all moves resolved at once, making pre-negotiation alliances and betrayals the central mechanism. With 58 supply centers and 29 needed to win, full games can last many hours, rewarding players with the patience for deep diplomatic maneuvering. Best played with a full complement of seven.
+
+upgrades: []

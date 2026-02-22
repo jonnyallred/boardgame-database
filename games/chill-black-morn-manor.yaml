@@ -1,0 +1,53 @@
+id: chill-black-morn-manor
+name: "Chill: Black Morn Manor"
+alternate_names: ["Black Morn Manor"]
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Traitor
+  - Modular Board
+  - Horror
+  - Dungeon Crawler
+
+evokes:
+  - Dread
+  - Tension
+  - Mystery
+  - Unique
+  - Discovery
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Troy Denning
+publisher:
+  - Pacesetter Ltd.
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Chill: Black Morn Manor is a 1985 horror board game by Pacesetter Ltd., based on the Chill roleplaying game system, in which players explore an ever-changing haunted manor assembled from 48 modular tiles. Each session pits the players against one of ten possible secret creatures hidden within the manor, while the traitor mechanic means companions may turn against each other mid-game. With 96 cards, six pawns, and 10-sided dice, the game delivers replayable tension through its variable board and hidden monster system. It was praised upon release as the best horror board game of its time.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: cloudships-and-gunboats
+name: "Cloudships & Gunboats"
+alternate_names: ["Cloudships and Gunboats"]
+year: 1989
+
+# Relationships
+game_family: space-1889
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Steampunk
+  - Maritime
+  - Aviation
+
+evokes:
+  - Tension
+  - Rivalry
+  - Unique
+  - Powerful
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Frank Chadwick
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Cloudships & Gunboats is a standalone expansion for GDW's Sky Galleons of Mars, bridging the Space 1889 tabletop RPG and its aerial combat boardgame in the Victorian sci-fi setting of Mars. While Sky Galleons abstracted boarding actions, this supplement fleshes them out into full man-to-man (or man-to-Martian) deck-level combat using miniature-scale deckplans and cardstock miniatures. The game also adds new weapons, rules for designing custom aerial vessels, and a comprehensive ship-building system. It can be played standalone without any RPG background.
+
+upgrades: []

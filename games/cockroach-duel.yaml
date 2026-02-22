@@ -1,0 +1,50 @@
+id: cockroach-duel
+name: "Cockroach Duel"
+alternate_names: ["Kakerlaken-Duell"]
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Simultaneous Action
+  - Animals
+
+evokes:
+  - Rivalry
+  - Tension
+  - Lucky
+  - Humor
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 6
+
+description: |
+  Cockroach Duel (Kakerlaken-Duell) is a quick two-player abstract strategy game in which players sit opposite each other with four cockroach pieces arranged across the board between them. Players alternately choose and execute moves in a race to achieve their objective with the cockroaches. A spin-off of the popular bluffing game Cockroach Poker, it focuses on direct head-to-head competition in a faster, simpler format perfectly suited to pairs. Publisher and specific mechanics details are limited for this edition; the game appears to be a Schmidt Spiele publication.
+
+upgrades: []

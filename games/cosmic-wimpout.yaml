@@ -1,0 +1,52 @@
+id: cosmic-wimpout
+name: "Cosmic Wimpout"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Dice Rolling
+  - Party
+  - Family
+  - Filler
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - C3 Inc.
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Cosmic Wimpout is a counterculture press-your-luck dice game played with five custom dice bearing unique symbols and numeric values. Players roll and score points for 5s, 10s, and triplets (called "Flashes"), then choose whether to keep rolling to accumulate more or bank their points — a classic press-your-luck tension. Rolling and scoring nothing causes a "Wimpout," losing all points for that turn. A distinctive feature is the Guiding Light rule, which allows players to collectively agree to add house rules during play, making each game customizable. First produced in 1976 by C3, Inc., it became a beloved hippie-era dice game sold at Grateful Dead concerts and remains a cult classic.
+
+upgrades: []

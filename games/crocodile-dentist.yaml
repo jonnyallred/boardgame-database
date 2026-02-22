@@ -1,0 +1,52 @@
+id: crocodile-dentist
+name: "Crocodile Dentist"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Dexterity
+  - Family
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Dread
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Robert B. Fuhrer
+publisher:
+  - Milton Bradley
+  - Hasbro
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 4
+
+description: |
+  Crocodile Dentist is a children's press-your-luck dexterity game in which players take turns pressing down the plastic teeth inside a large crocodile's open mouth. Most teeth press safely, but one triggers the croc's jaws to snap shut — eliminating the unfortunate player who hit the sore tooth. Created by toy inventor Robert B. Fuhrer and first published by Milton Bradley in 1990, it became one of the best-selling toys of the 1991 Christmas season and has remained a family staple for decades. The game requires no reading or strategic thinking, making it one of the purest tension-and-laughter experiences in tabletop gaming for young children.
+
+upgrades: []

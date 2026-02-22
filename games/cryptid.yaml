@@ -1,0 +1,57 @@
+id: cryptid
+name: "Cryptid"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Modular Board
+  - Puzzle Solving
+  - Abstract
+  - Family
+  - Gateway
+  - Osprey Games
+
+evokes:
+  - Mystery
+  - Clever
+  - Tension
+  - Rivalry
+  - Discovery
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Hal Duncan
+  - Ruth Veevers
+publisher:
+  - Osprey Games
+artist:
+  - Kwanchai Moriya
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Cryptid is a deduction game for 3-5 players in which each player is a cryptozoologist holding secret clues about the location of a legendary creature on a modular hex-tile map of North America. Players take turns querying opponents to narrow down possibilities, but must answer honestly when questioned themselves, creating a tense game of misdirection and logical deduction. Designed by Hal Duncan and Ruth Veevers with art by Kwanchai Moriya, published by Osprey Games in 2019, Cryptid stands out for its elegant information-sharing system that ensures every clue matters and no information is wasted. The game scales well across player counts and offers high replayability through its clue booklet system.
+
+upgrades: []

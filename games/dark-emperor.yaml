@@ -1,0 +1,51 @@
+id: dark-emperor
+name: "Dark Emperor"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Dread
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Greg Costikyan
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Dark Emperor is a two-player fantasy warfare game designed by Greg Costikyan and published by Avalon Hill in 1985. One player controls an evil necromancer and his vampire legions invading from another dimension, while the other player rallies the kingdoms of the world against the dark tide, managing diplomatic, magical, and military resources. The game was noted for its thematic ambition and asymmetric design, though Avalon Hill eventually acknowledged that some aspects proved difficult to play in practice and it met with modest commercial reception.
+
+upgrades: []

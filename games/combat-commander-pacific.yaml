@@ -1,0 +1,58 @@
+id: combat-commander-pacific
+name: "Combat Commander: Pacific"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: combat-commander
+edition: null
+base_game: combat-commander-europe
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Hex Map
+  - Asymmetric
+  - Variable Player Powers
+  - Hidden Movement
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Unique
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Chad Jensen
+publisher:
+  - GMT Games
+artist:
+  - Rodger B. MacGowan
+  - Mark Simonitch
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 14
+
+description: |
+  Combat Commander: Pacific expands Chad Jensen's award-winning card-driven tactical wargame system to cover the Pacific Theater of World War II. Built on the Combat Commander: Europe engine, it introduces three new factions — Imperial Japan, Pacific US Marines, and Commonwealth forces — along with rules tailored to the Pacific experience: Banzai charges, beach landings, hidden movement, caves, scout units, aircraft, and bayonet charges. Twelve new maps depict Pacific terrain, and the scenario playbook and Random Scenario Generator provide extensive replay value. The asymmetric faction design, where Japanese players deal with Banzai rules while US players manage amphibious operations, captures the unique character of Pacific island warfare.
+
+upgrades: []

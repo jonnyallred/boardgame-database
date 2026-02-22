@@ -1,0 +1,53 @@
+id: chang-cheng
+name: "Chang Cheng"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - Modular Board
+  - Euro
+  - Historical
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Walter Obert
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Chang Cheng is a board game published by Z-Man Games in 2007 set during the Qin Dynasty, where players compete to build sections of the Great Wall of China and earn the most prestige. Players construct wall segments across provinces, scoring reputation points for having the majority of walls in completed provinces, while also guarding against Mongol incursions that penalize the majority builder on the exposed side. Action cards allow players to enhance their own construction or hinder rivals. The game uses modular double-sided boards and plays with tense area-majority competition within a historical setting.
+
+upgrades: []

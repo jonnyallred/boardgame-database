@@ -1,0 +1,54 @@
+id: cranium-whoonu
+name: "Cranium Whoonu"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: cranium
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Social Deduction
+  - Family
+  - Deduction
+
+evokes:
+  - Connection
+  - Humor
+  - Clever
+  - Lucky
+  - Discovery
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Whit Alexander
+  - Richard Tait
+publisher:
+  - Cranium Inc.
+  - Hasbro
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Cranium Whoonu is a party game in which players compete to predict each other's favorite things. One player is the Whoozit — the "birthday person" — and everyone else submits cards from their hands representing potential favorites. The Whoozit secretly ranks all gifts from least favorite to most, then reveals them one at a time, awarding points to whoever submitted each item at its rank. Winning requires knowing your friends well enough to give them what they actually love (or deliberately choosing the worst gift!). The game rewards social insight and creates naturally funny moments as players discover surprising preferences about people they thought they knew.
+
+upgrades: []

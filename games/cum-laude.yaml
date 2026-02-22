@@ -1,0 +1,50 @@
+id: cum-laude
+name: "Cum Laude"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Word Play
+  - Party
+  - Family
+
+evokes:
+  - Clever
+  - Humor
+  - Rivalry
+  - Agency
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Cum Laude is a trivia and language game focused on Spanish vocabulary, with questions covering areas such as Latin roots, orthography, and etymology. Designed for lovers of language and linguistics, the game challenges players' knowledge of word origins and spelling through quiz-style gameplay. As a niche educational title primarily circulated in Spanish-speaking markets, detailed English-language documentation is limited, but the game holds a place among language-learning board game enthusiasts.
+
+upgrades: []

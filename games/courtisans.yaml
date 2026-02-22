@@ -1,0 +1,58 @@
+id: courtisans
+name: "Courtisans"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Negotiation
+  - Bluffing
+  - Area Control
+  - Social Deduction
+  - Historical
+  - Medieval
+  - Euro
+
+evokes:
+  - Tension
+  - Clever
+  - Persuasion
+  - Rivalry
+  - Mystery
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Romaric Galonnier
+  - Anthony Perone
+publisher:
+  - Catch Up Games
+  - Pandasaurus Games
+artist: []
+playtime_minutes: 21
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Courtisans is a tense card game of intrigue in a medieval royal court where 2-5 players manipulate the influence of noble families to score points and sabotage rivals. Each turn, a player plays three cards — one to the Queen's table to shift a family's standing up or down, and one each to their own domain and an opponent's domain. Special roles like Spies (played face-down), Assassins (who remove cards), and Guards (immune to assassination) add layers of uncertainty and mind games. The entire experience is built around nonverbal negotiation and inference — reading your opponents as much as your cards. Praised for delivering big social tension in a tiny, ultra-fast package.
+
+upgrades: []

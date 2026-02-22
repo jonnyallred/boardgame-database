@@ -1,0 +1,60 @@
+id: condottiere
+name: "Condottiere"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Auctions/Bidding
+  - Hand Management
+  - Bluffing
+  - Negotiation
+  - Historical
+  - Medieval
+  - Euro
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Dominique Ehrhard
+  - Duccio Vitale
+publisher:
+  - Eurogames
+  - Fantasy Flight Games
+  - Z-Man Games
+artist:
+  - Dominique Ehrhard
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Condottiere is a clever card-and-area-control game set in Renaissance Italy, where players compete as mercenary commanders seeking to dominate the Italian city-states. Each round, players bid cards representing soldiers, special units, and events to win control of a contested province — but every player loses the cards they bid, not just the loser, making commitment costly. Special cards — scarecrows, courtesans, bishops, and drums — introduce dramatic reversals that can flip the battle at the last moment. The first player to control four connected provinces wins. Originally published in 1995, its elegant tension between aggression and resource conservation makes it a durable classic of area control card games.
+
+upgrades: []

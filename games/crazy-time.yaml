@@ -1,0 +1,53 @@
+id: crazy-time
+name: "Crazy Time"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Party
+  - Deduction
+  - Family
+  - Filler
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Alex Putfin
+publisher:
+  - In ludo veritas
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Crazy Time is a fast-paced party card game blending deduction, concentration, speed, and laughter. Players reveal cards from their personal decks while counting the passing hours aloud, racing to shed all their cards before opponents. The real-time count element combined with the need to pay attention to the cards being played creates a chaotic, funny atmosphere that generates natural hilarity around the table. Quick to play and easy to teach, it is a good warm-up or filler game for groups who enjoy reactive, high-energy play.
+
+upgrades: []

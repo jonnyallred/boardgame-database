@@ -1,0 +1,58 @@
+id: colonial-twilight
+name: "Colonial Twilight: The French-Algerian War, 1954-62"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: coin-series
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Card Drafting
+  - Asymmetric
+  - Variable Player Powers
+  - 1 vs Many
+  - Wargame
+  - Historical
+  - War
+  - Espionage
+
+evokes:
+  - Tension
+  - Agency
+  - Unique
+  - Masterful
+  - Dread
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Brian Train
+publisher:
+  - GMT Games
+artist:
+  - Mark Simonitch
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Colonial Twilight is the first two-player entry in GMT's acclaimed COIN (COunterINsurgency) series, covering the brutal French-Algerian War of 1954-1962. One player commands the FLN insurgents seeking independence through popular support and guerrilla operations, while the other plays the French colonial government using military sweeps and political maneuvering. Like other COIN games, cards drive the action — each presenting two factions with competing event options — but the two-player format streamlines turns significantly. The asymmetric design captures the war's political and military complexities, rewarding players who understand both conventional and unconventional strategy.
+
+upgrades: []

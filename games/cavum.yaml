@@ -1,0 +1,53 @@
+id: cavum
+name: "Cavum"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Network Building
+  - Resource Management
+  - Euro
+  - Stefan Feld
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Masterful
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Cavum is a Euro strategy game by Stefan Feld, published by Queen Games in 2008, in which players dig tunnels through a mountain, establish mining stations, discover gem veins, and transport precious stones to surrounding cities for sale. Players build interconnected tunnel networks to access valuable gem deposits, then construct stations at key junctions to control the flow of goods from mine to market. The game rewards careful network planning and forward-thinking route construction. Cavum is a mid-weight economic network-building game that showcases Feld's talent for elegant resource optimization.
+
+upgrades: []

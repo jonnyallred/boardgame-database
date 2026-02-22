@@ -626,7 +626,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Catch the Moon,2017,boardgame,,,
 13094,Category Game,1994,boardgame,,,
 7,Cathedral,1979,boardgame,,,
-9973,"Cauldron: Battle of Gazala, May 1942",1976,boardgame,,,
+9973,"Cauldron: Battle of Gazala, May 1942",1976,boardgame,,,cauldron-battle-of-gazala
 25990,Cavaliers and Roundheads,,boardgame,,,
 102794,Caverna: The Cave Farmers,2013,boardgame,,,caverna
 37734,Cavum,2008,boardgame,,,
@@ -642,7 +642,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 7654,Challenge The Yankees,,boardgame,,,
 ,Challengers,2023,boardgame,,,
 ,Challengers!,2022,boardgame,,,
-3104,Chameleon,1990,boardgame,,,
+3104,Chameleon,1990,boardgame,,,chameleon-1990
 ,Chamelequin,,boardgame,,,
 ,Champions of Midgard,2015,boardgame,,,
 13614,Chancellorsville,1961,boardgame,,,
@@ -650,7 +650,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 29903,Chang Cheng,2007,boardgame,,,
 43111,Chaos in the Old World,,boardgame,,,
 36799,Chapayev,,boardgame,,,
-,"Chariot: Tactical Warfare in the Biblical Age, 3000-500 B.C.",,boardgame,,,
+,"Chariot: Tactical Warfare in the Biblical Age, 3000-500 B.C.",,boardgame,,,chariot
 316,Chase,,boardgame,,,
 18011,chaturanga,,boardgame,,,
 2083,checkers,,boardgame,,,
@@ -663,7 +663,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 19685,Chess Mutation,,boardgame,,,
 ,"Chessboard and chess pieces used by Napoleon and his entourage at Longwood, Saint Helena",,boardgame,,,
 13036,Cheyenne,,boardgame,,,
-1398,Chicago,1986,boardgame,,,
+1398,Chicago,1986,boardgame,,,chicago-1986
 280203,Chicken Chicken,2019,boardgame,,,
 724,Chill: Black Morn Manor,,boardgame,,,
 287515,China’s War: 1937-1941,2025,boardgame,,,
@@ -685,18 +685,18 @@ bgg_id,name,year,type,status,notes,yaml_id
 244,Circus Maximus,1979,boardgame,,,
 4411,Citadel,,boardgame,,,
 3248,Citadel of Blood,,boardgame,,,
-38657,Cities,2008,boardgame,,,
+38657,Cities,2008,boardgame,,,cities-2008
 267370,Cities: Skylines – The Board Game,2019,boardgame,,,
 39581,Citizen X,,boardgame,,,
 ,City,,boardgame,,,
 1145,City of Chaos,,boardgame,,,
-19766,City of Heroes Collectible Card Game,,boardgame,,,
+19766,City of Heroes Collectible Card Game,,boardgame,,,city-of-heroes-ccg
 7102,City of Sorcerers,,boardgame,,,
 263895,City of the Great Machine,2023,boardgame,,,
 4248,City States of Arklyrell,,boardgame,,,
 6923,CityTech,,boardgame,,,
 8220,Civil War,,boardgame,,,
-77130,Civilization,2010,boardgame,,,
+77130,Civilization,2010,boardgame,,,civilization-2010
 3633,Civilization: The Boardgame,,boardgame,,,
 26047,Civilization: The Card Game,,boardgame,,,
 ,Civolution,2024,boardgame,,,
@@ -714,13 +714,13 @@ bgg_id,name,year,type,status,notes,yaml_id
 36932,Claustrophobia,2009,boardgame,,,
 22141,Cleopatra and the Society of Architects,,boardgame,,,
 36560,Click Clack,2008,boardgame,,,
-,ClimaTicTac,,boardgame,,,
+,ClimaTicTac,,boardgame,,,climatiactac
 23864,Clobber,2001,boardgame,,,
 195340,Clomping Creatures,,boardgame,,,
 261683,Cloomba,2018,boardgame,,,
 3553,Close Action,,boardgame,,,
 22237,Close to the Border,2005,boardgame,,,
-,Cloudships & Gunboats,,boardgame,,,
+,Cloudships & Gunboats,,boardgame,,,cloudships-and-gunboats
 13260,CLOWN,,boardgame,,,
 ,Clubhouse Baseball,,boardgame,,,
 ,Clue Jr.: Case of the Missing Pet,,boardgame,,,
@@ -730,7 +730,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 1561,Cluedo Master Detective,,boardgame,,,
 37589,Cluedo: Discover the Secrets,,boardgame,,,
 115997,Co-opoly,,boardgame,,,
-4008,Cobra: Game of the Normandy Breakout,,boardgame,,,
+4008,Cobra: Game of the Normandy Breakout,,boardgame,,,cobra
 217275,Cockroach Duel,,boardgame,,,
 8946,Coda,,boardgame,,,
 16977,Codename: Kids Next Door Trading Card Game,,boardgame,,,
@@ -746,7 +746,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 11607,Collection particulière,,boardgame,,,
 10005,Colomino,,boardgame,,,
 250,Colonial Diplomacy,,boardgame,,,
-180199,Colonial Twilight: The French-Algerian War,2017,boardgame,,,
+180199,Colonial Twilight: The French-Algerian War,2017,boardgame,,,colonial-twilight
 192934,Colony,,boardgame,,,
 11622,Colony Delta,,boardgame,,,
 5782,Coloretto,2003,boardgame,,,
@@ -776,7 +776,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Concordia Venus,2018,boardgame,,,
 112,Condottiere,,boardgame,,,
 4325,Conflict,,boardgame,,,
-24800,Conflict of Heroes: Awakening the Bear! – Russia 1941-42,2008,boardgame,,,
+24800,Conflict of Heroes: Awakening the Bear! – Russia 1941-42,2008,boardgame,,,conflict-of-heroes-awakening-the-bear
 38823,Conflict of Heroes: Storms of Steel,,boardgame,,,
 7742,Confrontation,,boardgame,,,
 255613,Congkak,,boardgame,,,
@@ -784,7 +784,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 42685,Connect 4x4,,boardgame,,,
 2719,Connect Four,,boardgame,,,
 3370,Connections,,boardgame,,,
-19825,Connex'Oh,,boardgame,,,
+19825,Connex'Oh,,boardgame,,,connexoh
 67,Conquest,,boardgame,,,
 92044,Conquest of Nerath,,boardgame,,,
 ,Conquest of Space,,boardgame,,,
@@ -830,7 +830,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Creature Comforts,2022,boardgame,,,
 6634,Crescendo,,boardgame,,,
 ,Crescendo of Doom,,boardgame,,,
-,Crimea,,boardgame,,,
+,Crimea,,boardgame,,,crimea-the-dawn-of-modern-warfare
 ,Crimea: The Dawn of Modern Warfare,,boardgame,,,
 3855,Crimson Skies,1998,boardgame,,,
 ,Critter Commandos,,boardgame,,,
@@ -856,22 +856,22 @@ bgg_id,name,year,type,status,notes,yaml_id
 95364,Cubulus,,boardgame,,,
 26193,Cum Laude,,boardgame,,,
 19916,Cups,,boardgame,,,
-62,Curse of the Mummy's Tomb,,boardgame,,,
-,Custer's Last Stand,,boardgame,,,
+62,Curse of the Mummy's Tomb,,boardgame,,,curse-of-the-mummys-tomb
+,Custer's Last Stand,,boardgame,,,custers-last-stand
 28259,Cutthroat Caverns,,boardgame,,,
 54998,Cyclades,2009,boardgame,,,
-202977,Cytosis: A Cell Biology Board Game,2017,boardgame,,,
+202977,Cytosis: A Cell Biology Board Game,2017,boardgame,,,cytosis
 12168,D-Day,,boardgame,,,
 29603,D-Day at Omaha Beach,,boardgame,,,
 101785,D-Day Dice,,boardgame,,,
 61028,D-Day Dice: Free Trial Version,,boardgame,,,
 10785,D-Day: The Great Crusade,,boardgame,,,
-5056,D.A.K.,1982,boardgame,,,
-17136,Da Vinci's Challenge,2004,boardgame,,,
+5056,D.A.K.,1982,boardgame,,,dak
+17136,Da Vinci's Challenge,2004,boardgame,,,da-vincis-challenge
 13777,Dablot Prejjesne,,boardgame,,,
 ,daily chess,,boardgame,,,
 ,Dala,,boardgame,,,
-,Daldøs,,boardgame,,,
+,Daldøs,,boardgame,,,daldos
 24698,Dameo,,boardgame,,,
 194285,Dance Arena 200,,boardgame,,,
 948,Dao,,boardgame,,,
@@ -891,7 +891,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 322289,Darwin's Journey,,boardgame,,,darwins-journey
 1350,Das Amulett,,boardgame,,,
 39271,Das Bohnenspiel,,boardgame,,,
-9079,Das kaufmännische Talent,,boardgame,,,
+9079,Das kaufmännische Talent,,boardgame,,,das-kaufmannische-talent
 16369,Das Kleine Gespenst,,boardgame,,,
 1773,Dawn of the Dead,,boardgame,,,
 ,Day & Night,2008,boardgame,,,day-and-night
@@ -899,7 +899,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 30601,DDR-Reise,,boardgame,,,
 28096,De Bellis Magistrorum Militum,,boardgame,,,
 52825,De Kolonisten van de Lage Landen,2009,boardgame,,,
-6824,De l'Orc pour les braves,2003,boardgame,,,
+6824,De l'Orc pour les braves,2003,boardgame,,,de-lorc-pour-les-braves
 13542,De Ontembare Stad,2004,boardgame,,,
 75165,De vulgari eloquentia,2010,boardgame,,,
 ,Dead of Winter,2014,boardgame,,,
@@ -915,7 +915,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Deception: Murder in Hong Kong,2014,boardgame,,,
 295571,Deckscape Crew vs Crew: The Pirates' Island,,boardgame,,,
 267735,Deckscape: Behind the Curtain,,boardgame,,,
-343387,Deckscape: Dracula's Castle,,boardgame,,,
+343387,Deckscape: Dracula's Castle,,boardgame,,,deckscape-draculas-castle
 295565,Deckscape: Escape from Alcatraz,,boardgame,,,
 37301,Decktet,,boardgame,,,
 ,Decrypto,2018,boardgame,,,
@@ -924,14 +924,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 65532,Defenders of the Realm,,boardgame,,,
 372649,Defenders of the Wild,2024,boardgame,,,
 43691,Delve: The Dice Game,,boardgame,,,
-2753,Demon's Run,,boardgame,,,
+2753,Demon's Run,,boardgame,,,demons-run
 1635,Demonlord,,boardgame,,,
 3626,Demons,,boardgame,,,
 8939,Der wahre Walter,,boardgame,,,
 17226,Descent: Journeys in the Dark,2005,boardgame,,,
 104162,Descent: Journeys in the Dark (Second Edition),2012,boardgame,,,
 322708,Descent: Legends of the Dark,2021,boardgame,,,
-382927,Descent: Legends of the Dark – The Betrayer's War,,boardgame,,,
+382927,Descent: Legends of the Dark – The Betrayer's War,,boardgame,,,descent-legends-of-the-dark-the-betrayers-war
 ,Desert Falcons,,boardgame,,,
 15182,Destination,,boardgame,,,
 285192,Destinies,2021,boardgame,,,
@@ -944,7 +944,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 6787,Deutschlandreise,,boardgame,,,
 1817,Devil Bunny Hates the Earth,,boardgame,,,
 185,Devil Bunny Needs a Ham,,boardgame,,,
-5482,Devil's Den,,boardgame,,,
+5482,Devil's Den,,boardgame,,,devils-den
 20253,Diaballik,,boardgame,,,
 4811,Diadem (board game),,boardgame,,,
 11730,Diam,,boardgame,,,
@@ -970,7 +970,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 3768,Dingbats,,boardgame,,,
 235927,Dino World,2017,boardgame,,,
 23541,Dinosaurus,2006,boardgame,,,
-483,Diplomacy,1959,boardgame,,,
+483,Diplomacy,1959,boardgame,,,classical-diplomacy
 29491,Dipole,,boardgame,,,
 22065,Direct Conflict in Dimension Six,,boardgame,,,
 5687,Dirtside II,,boardgame,,,
@@ -1154,7 +1154,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Endodoi,,boardgame,,,
 6203,Enemy at the Gates,,boardgame,,,
 83157,"Engine, Engine No. 9",,boardgame,,,
-,English draughts,,boardgame,,,
+,English draughts,,boardgame,,,checkers
 ,Enkeshui,,boardgame,,,
 1334,Entdecker,2001,boardgame,,,
 1329,Entropy,,boardgame,,,
@@ -1958,7 +1958,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,MAATAC,,boardgame,,,
 55670,Macao,,boardgame,,,
 143884,Machi Koro,2012,boardgame,,,
-286,Machiavelli,1977,boardgame,,,
+286,Machiavelli,1977,boardgame,,,citadel
 193164,Macroscope,2016,boardgame,,,
 764,Mad Gab,,boardgame,,,
 569,Maestro,1989,boardgame,,,
@@ -2836,7 +2836,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 84419,Space Empires 4X,,boardgame,,,
 ,Space Future,,boardgame,,,
 5685,Space Hop,,boardgame,,,
-2163,Space Hulk,1989,boardgame,,,
+2163,Space Hulk,1989,boardgame,,,deathwing
 71721,Space Hulk: Death Angel – The Card Game,,boardgame,,,
 ,Space Lines,,boardgame,,,
 25750,Space Marine Assault,,boardgame,,,
@@ -2999,7 +2999,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 65556,Sumo Ham Slam,,boardgame,,,
 18745,Sun Tzu,,boardgame,,,
 41254,Sune och ryska posten,1992,boardgame,,,
-,sungka,,boardgame,,,
+,sungka,,boardgame,,,congkak
 ,Suomen vapaussota,1918,boardgame,,,
 17597,Suomi Tietopeli,2003,boardgame,,,
 10578,Super 3,,boardgame,,,
@@ -3751,7 +3751,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Jenga,1983,boardgame,,,
 ,Othello,1977,boardgame,,,
 ,Mancala,,boardgame,,,
-,Connect 4,1974,boardgame,,,
+,Connect 4,1974,boardgame,,,connect-four
 ,Munchkin,2001,boardgame,,,
 ,Exploding Kittens,2015,boardgame,,,
 ,Cards Against Humanity,2011,boardgame,,,

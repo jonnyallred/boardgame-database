@@ -1,0 +1,50 @@
+id: crossfire
+name: "Crossfire"
+alternate_names: []
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Racing
+  - Family
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Humor
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Crossfire is a classic dexterity action game originally created by Ideal Toy Company in 1971 and later published by Milton Bradley and Hasbro. Players use spring-loaded guns mounted at either end of the board to shoot small metal ball bearings at two pucks, trying to knock an opponent's puck into their own goal. The game requires no reading, no dice, and no cards — just reflexes, aim, and speed. Remembered fondly for its memorable TV commercials, Crossfire became an iconic piece of 1970s-1990s toy culture and remains a beloved childhood classic.
+
+upgrades: []

@@ -1,0 +1,48 @@
+id: daily-chess
+name: "Daily Chess"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - No Math
+
+evokes:
+  - Masterful
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 8
+
+description: |
+  Daily Chess is a chess variant or chess-related board game. As a relatively obscure title, detailed publisher and designer information is limited in modern English-language sources. Chess variants under the "daily" branding have appeared as newspaper puzzle formats, casual play editions, and simplified chess games intended for everyday play. Historical board game databases catalogue this as a published title.
+
+upgrades: []

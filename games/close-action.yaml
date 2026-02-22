@@ -1,0 +1,53 @@
+id: close-action
+name: "Close Action"
+alternate_names: ["Close Action: The Age of Fighting Sail Vol. 1"]
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Maritime
+  - Historical
+  - Programmed Movement
+  - Simultaneous Action
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Powerful
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Clash of Arms Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Close Action is a hex-based naval wargame covering Age of Sail warfare from 1740 to 1815, published by Clash of Arms Games. Players plot simultaneous movement orders for their ships each turn on individual ship logs — assigning crew to sails, guns, and damage control — then execute those orders, recreating the tactical complexity of 18th-century fleet actions. The game includes 25 scenarios ranging from single-ship duels to full fleet engagements, allowing historical battles to be accurately recreated. Its detailed simulation of wind, rigging, and naval gunnery makes it a respected choice for serious Age of Sail wargamers.
+
+upgrades: []

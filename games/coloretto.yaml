@@ -1,0 +1,56 @@
+id: coloretto
+name: "Coloretto"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Card Drafting
+  - Family
+  - Gateway
+  - Filler
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Michael Schacht
+publisher:
+  - ABACUSSPIELE
+  - Rio Grande Games
+artist:
+  - Michael Schacht
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+description: |
+  Coloretto is a quick card game of color collection and painful trade-offs. On each turn a player either draws a card and adds it to one of the growing rows, or claims a row for themselves. At game end, players score positive points for their three largest color groups but negative points for every additional color they collected. The cruel twist: rows become more valuable the more cards they hold, tempting players to grab a stacked row even if it's full of colors they don't want. Designed by Michael Schacht and first published in 2003, Coloretto is an elegant filler that distills tough decisions into just two choices per turn.
+
+upgrades: []

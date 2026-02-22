@@ -1,0 +1,52 @@
+id: destruction-of-army-group-center
+name: "Destruction of Army Group Center"
+alternate_names:
+  - "DAGC"
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James Dunnigan
+publisher: []
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Destruction of Army Group Center (subtitled "The Soviet Summer Offensive, 1944") is a board wargame published by Simulations Publications Inc. (SPI) in 1973 in Strategy & Tactics magazine #36, designed by James Dunnigan. The game simulates Operation Bagration, the massive Soviet offensive of June 1944 that shattered Germany's Army Group Center and began the final push toward Berlin. Using a 10-mile per hex map with two-day turns and 200 operational counters, it features asymmetric forces — Soviet armies versus German divisions — reflecting the historical imbalance. Decision Games later published a revised second edition in 2009 under the World at War magazine label.
+
+upgrades: []

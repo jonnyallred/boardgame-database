@@ -1,0 +1,49 @@
+id: chinesenspiel
+name: "Chinesenspiel"
+alternate_names: []
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Abstract
+  - Historical
+
+evokes:
+  - Lucky
+  - Progress
+  - Tension
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Chinesenspiel (German for "Chinese game") is a 19th-century German race game of the Pachisi family, simplified so that each player controls only a single piece. The cross-and-circle board is deformed into a squared perimeter connected at the corners by crossing diagonals, and players race their colored Chinese figure pieces around it. Related to Korean Yut Nori in layout, the game belongs to the broad family of Pachisi descendants that includes Ludo, Parcheesi, and Sorry. It represents an early European adaptation of South Asian racing game traditions.
+
+upgrades: []

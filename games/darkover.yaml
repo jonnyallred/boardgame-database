@@ -1,0 +1,54 @@
+id: darkover
+name: "Darkover"
+alternate_names:
+  - "Darkover: The Ages of Chaos"
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Fantasy
+  - Sci-Fi
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Unique
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Bill Eberle
+  - Jack Kittredge
+  - Peter Olotka
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Darkover is a 1979 licensed board game by Eon Products based on Marion Zimmer Bradley's science-fantasy Darkover novels, designed by Bill Eberle, Jack Kittredge, and Peter Olotka (the team that later created Cosmic Encounter). Players compete to seize and hold the Elhalyn Tower using a combination of armies and psychic powers drawn from Bradley's fictional world of telepathic "Comyn" aristocrats. Reviewers noted the game contains many party game elements alongside its wargame core. John Olsen gave it a rare 9/10 rating in White Dwarf #18.
+
+upgrades: []

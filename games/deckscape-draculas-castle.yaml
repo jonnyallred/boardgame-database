@@ -1,0 +1,54 @@
+id: deckscape-draculas-castle
+name: "Deckscape: Dracula's Castle"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: deckscape
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary (cooperative)
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Puzzle Solving
+  - Narrative Heavy
+  - Vampires
+  - Horror
+
+evokes:
+  - Mystery
+  - Dread
+  - Clever
+  - Discovery
+  - Tension
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Martino Chiacchiera
+  - Silvano Sorrentino
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Deckscape: Dracula's Castle is a horror-themed pocket escape room card game in the Deckscape series designed by Martino Chiacchiera and Silvano Sorrentino, published by dV Giochi. Players are trapped in Dracula's ominous castle and must work together through card-based puzzles to escape before dawn — or before making too many fatal mistakes. The vampire theme adds atmospheric tension to the familiar Deckscape format of sequential card puzzles, logic challenges, and hidden story elements. Like all games in the series, it requires no setup and delivers a one-shot escape room experience in about an hour.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: cities-skylines-the-board-game
+name: "Cities: Skylines – The Board Game"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Tile Placement
+  - Resource Management
+  - City Building
+  - Modular Board
+  - Campaign Mode
+  - Euro
+
+evokes:
+  - Progress
+  - Connection
+  - Agency
+  - Complete
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Rustan Håkansson
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Cities: Skylines – The Board Game is a cooperative city-building game published by KOSMOS in 2019, based on the popular Paradox Interactive city-building video game. One to four players work together to build a city that satisfies the growing needs of its population while managing a municipal budget. The game is scenario-based, beginning with an introductory tutorial and escalating in complexity to serve both casual and veteran players. Resource management, tile placement, and cooperative urban planning are the core pillars of this licensed adaptation.
+
+upgrades: []

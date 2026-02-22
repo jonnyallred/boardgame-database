@@ -1,0 +1,49 @@
+id: demonlord
+name: "Demonlord"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Area Control
+
+evokes:
+  - Powerful
+  - Dread
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Demonlord is a fantasy board wargame from the early 1980s. As a relatively obscure title with limited modern documentation, detailed information about the designer, publisher, and specific mechanics is not readily available. Historical game databases catalogue it as a fantasy wargame title from this era.
+
+upgrades: []

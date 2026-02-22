@@ -1,0 +1,53 @@
+id: crusader-rex
+name: "Crusader Rex"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+  - Medieval
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jerry Taylor
+  - Tom Dalgleish
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Crusader Rex is a two-player block wargame published by Columbia Games, simulating the Third Crusade in the Holy Land with one player commanding the Christian Franks and the other the Muslim Saracens. Using Columbia's signature wooden block system, each player's forces are hidden from their opponent until contact, creating realistic fog of war as armies maneuver across a map stretching from Antioch to Egypt. Key cities like Jerusalem, Acre, and Damascus serve as victory objectives, and the game includes historical features such as siege warfare, knight charges, and harrying tactics. Its brief rulebook and built-in hidden information make it one of the most accessible entry points into Columbia's acclaimed block wargame system.
+
+upgrades: []

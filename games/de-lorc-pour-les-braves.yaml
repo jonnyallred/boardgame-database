@@ -1,0 +1,57 @@
+id: de-lorc-pour-les-braves
+name: "De l'Orc pour les braves"
+alternate_names:
+  - "For a Few Orcs More"
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Real-time
+  - Simultaneous Action
+  - Party
+  - Fantasy
+  - Humor
+  - Alan R. Moon
+
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [4, 5, 6, 7]
+true_counts: [5, 6, 7]
+
+designer:
+  - Alan R. Moon
+  - Bruno Faidutti
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  De l'Orc pour les Braves (For a Few Orcs More) is a fast-paced fantasy card game for 4-7 players designed by Alan R. Moon and Bruno Faidutti, published by Asmodee in 2003. In the chaotic recruitment phase, players simultaneously scramble to draft army cards featuring orcs, brigands, skeletons, and goblins; in the more measured war phase, players deploy their drafted armies across four rounds of battle, earning victory points for each won engagement. The game blends real-time drafting mayhem with classic hand management, illustrated with humor by French cartoonist Thierry Ségur.
+
+upgrades: []

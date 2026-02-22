@@ -1,0 +1,50 @@
+id: chron-autrices
+name: "Chron'Autrices"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Historical
+  - Party
+  - Word Play
+
+evokes:
+  - Discovery
+  - Clever
+  - Connection
+  - Wonder
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Le deuxième texte
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Chron'Autrices is a free educational board game launched on International Women's Day, March 8, 2025, by the French association Le deuxième texte. Players draw quotes by female authors and must place them on a chronological timeline, testing and building knowledge about women writers throughout history. The game was developed after a year of preparation and prototype testing, and is freely available as a print-and-play download as well as in physical form. It is designed to promote discovery of female literary figures across history in an engaging timeline format.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: comic-hunters
+name: "Comic Hunters"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Set Collection
+  - Family
+  - Superheroes
+  - Marvel
+
+evokes:
+  - Complete
+  - Clever
+  - Rivalry
+  - Progress
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Robert Coelho
+publisher:
+  - Arcane Wonders
+  - Spin Master
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Comic Hunters is a set-collection card game in which players compete to build the most impressive comic book collection featuring classic Marvel characters and covers. Over three rounds, players visit store locations to purchase comic book cards, then add them to their growing collections organized by hero. Cards advance markers on five spotlight tracks — first appearances, special editions, memorable clashes, and more — generating points for progress on each. Each collection also scores based on size. Originally designed in Brazil by Robert Coelho and featuring authentic Marvel comic cover art, it is an accessible game for comics fans of all ages with an optional cooperative mode.
+
+upgrades: []

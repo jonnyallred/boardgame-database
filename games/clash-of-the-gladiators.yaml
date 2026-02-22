@@ -1,0 +1,50 @@
+id: clash-of-the-gladiators
+name: "Clash of the Gladiators"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Hand Management
+  - Ancient
+  - Historical
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Clash of the Gladiators is a card-based arena combat game in which players assemble teams of gladiators to battle through the trials of the arena. Players build groups of four gladiators each, choosing from distinct fighter types — including shield bearers, spear throwers, net casters, and trident carriers — each with unique effects on combat die rolls. The game delivers fast-playing gladiatorial conflict with tactical card management. Publisher and precise publication year details are limited in available sources.
+
+upgrades: []

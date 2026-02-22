@@ -1,0 +1,53 @@
+id: city-of-the-great-machine
+name: "City of the Great Machine"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Cooperative
+  - Hidden Movement
+  - Asymmetric
+  - Steampunk
+  - Campaign Mode
+
+evokes:
+  - Tension
+  - Dread
+  - Unique
+  - Agency
+  - Mystery
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - CrowD Games
+artist: []
+playtime_minutes: 75
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  City of the Great Machine is a Victorian steampunk one-vs-many and cooperative strategy game published by CrowD Games in 2023, in which a coalition of human Heroes secretly moves through the city to spark a revolution against the all-controlling Great Machine AI. The heroes simultaneously choose districts to visit in secret each round, creating hidden movement and deduction as the Great Machine player anticipates their plans and works to complete its sinister Master Plan. The game offers multiple modes including one-vs-many, fully cooperative, and solo campaign. Praised as one of 2023's best releases, it combines atmospheric steampunk aesthetics with deeply asymmetric gameplay.
+
+upgrades: []

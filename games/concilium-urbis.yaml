@@ -1,0 +1,55 @@
+id: concilium-urbis
+name: "Concilium Urbis"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Voting
+  - Resource Management
+  - City Building
+  - Sci-Fi
+  - Variable Setup
+
+evokes:
+  - Clever
+  - Agency
+  - Progress
+  - Tension
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Jorge Barroso
+  - Chuz
+publisher:
+  - Perro Loko Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Concilium Urbis is a sci-fi city-building game in which 1-6 players colonize an alien planet rich in the precious mineral Crystalon Celestia. Over seven rounds, players place tiles to construct their mining city and manage mineral-to-energy conversion, but the game's defining mechanism is its voting system — Law cards that determine how tiles score at game end can be influenced and changed through a democratic voting procedure during play. This creates a shifting scoring landscape where alliances form and dissolve as players jockey to advantage their own city's layout. The game blends tile placement with political negotiation in an accessible science fiction package.
+
+upgrades: []

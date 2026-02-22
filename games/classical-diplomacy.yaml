@@ -1,0 +1,53 @@
+id: classical-diplomacy
+name: "Classical Diplomacy"
+alternate_names: ["Diplomacy: Classical Variant", "Classical"]
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Bluffing
+  - Area Control
+  - Historical
+  - Ancient
+  - War
+
+evokes:
+  - Persuasion
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [5]
+true_counts: [5]
+
+designer: []
+publisher:
+  - Stupendous Games
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Classical Diplomacy is a five-player variant of the classic Diplomacy board game, set in the Hellenistic Mediterranean following the death of Alexander the Great. One of only six commercially released Diplomacy variants, it uses the familiar Diplomacy rules and negotiation mechanics adapted to an ancient world map, with factions competing to control 18 supply centers. Players must combine military maneuvering with diplomatic negotiations, alliances, and betrayals to achieve dominance. The ancient setting provides fresh strategic dynamics compared to the original WWI-era map while retaining Diplomacy's legendary social tension.
+
+upgrades: []

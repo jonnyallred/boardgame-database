@@ -1,0 +1,54 @@
+id: court-of-the-medici
+name: "Court of the Medici"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Bluffing
+  - Negotiation
+  - Historical
+  - Medieval
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Mystery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Richard James
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Court of the Medici is a two-player card game set in the Italian Renaissance court of Cosimo I de' Medici, where House Gonzaga and House Della Rovere vie for the Grand Duke of Tuscany's friendship. Players deploy nobles to gain influence, form alliances, and execute conspiracies to build their standing while eliminating rival nobles at court. The game uses a cleverly simple card mechanism that can also be played with a standard deck of cards. Rich with historical flavor and subtle bluffing, it delivers a satisfying two-player rivalry in a compact, quick-playing format.
+
+upgrades: []

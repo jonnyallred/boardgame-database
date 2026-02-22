@@ -1,0 +1,52 @@
+id: d-day
+name: "D-Day"
+alternate_names: []
+year: 1961
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Charles S. Roberts
+publisher: []
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  D-Day is a landmark 1961 board wargame designed by Charles S. Roberts and published by Avalon Hill, simulating six months of the Western Front from the Normandy Invasion to the crossing of the Rhine. It holds a special place in game history as one of the first wargames to use the now-standard hex grid map and cardboard counters, establishing conventions that have defined the genre ever since. The German player sets up first without knowing where the Allies will land, creating asymmetric tension from the opening move. D-Day was revised multiple times through 1991, including a Smithsonian Museum partnership edition, cementing its legacy as one of the foundational texts of modern wargaming.
+
+upgrades: []

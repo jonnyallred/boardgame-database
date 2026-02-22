@@ -1,0 +1,51 @@
+id: devil-bunny-hates-the-earth
+name: "Devil Bunny Hates the Earth"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Party
+  - Filler
+  - Humor
+
+evokes:
+  - Humor
+  - Lucky
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Greater Than Games
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Devil Bunny Hates the Earth is game #033 in Cheapass Games' catalog, a mancala-variant in which players are taffy machines in Devil Bunny's candy factory. Knowing that Devil Bunny intends to destroy the Earth with inferior saltwater taffy, players conspire to thwart him by luring squirrels into the factory to destroy the machines — including their own. The game's surreal premise pairs with surprisingly engaging mancala mechanics, earning it a nomination for the Origins Award for Best Abstract Board Game of 2001. Later revived by Greater Than Games alongside its companion game Devil Bunny Needs a Ham.
+
+upgrades: []

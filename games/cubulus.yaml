@@ -1,0 +1,48 @@
+id: cubulus
+name: "Cubulus"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Cubulus is a 3D abstract strategy game played on a 3x3x3 cubic grid using colored balls. On each turn, a player adds a colored ball to the playing area by pushing it into place — which may displace other balls — or rearranges the balls in a completed row. The goal is to be the first to form a square of your color on any face of the cube, while watching all six sides to block opponents from doing the same. Its three-dimensional spatial challenge and push-sliding mechanics make it a uniquely tactile and visually engaging abstract game.
+
+upgrades: []

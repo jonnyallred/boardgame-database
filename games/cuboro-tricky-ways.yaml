@@ -1,0 +1,50 @@
+id: cuboro-tricky-ways
+name: "Cuboro Tricky Ways"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Puzzle Solving
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Agency
+  - Creative
+  - Wonder
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Cuboro Tricky Ways is a marble run board game by Swiss toy company Cuboro, released in 2013 as a competitive game built around their famous wooden marble-channel cube system. Players take turns moving and rotating Cuboro wooden blocks — each carved with grooves and tunnels — to extend their marble track to empty exit points, scoring points based on the number of cubes their marble traverses. Made from untreated Swiss beech wood, the game offers two difficulty levels: a simpler surface-track version accessible from age 6, and a full version incorporating tunnel passages that challenges even experienced strategic thinkers.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: devils-den
+name: "Devil's Den"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Dread
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Devil's Den is a board game, likely named after the famous boulder formation at Gettysburg that was a key defensive position in the Civil War. As a relatively obscure title with limited modern documentation, detailed information about the designer, publisher, and specific mechanics is not readily available in English-language sources. Historical game databases catalogue it as a published title.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: civilization-2010
+name: "Civilization"
+alternate_names: ["Sid Meier's Civilization: The Board Game"]
+year: 2010
+
+# Relationships
+game_family: civilization
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Civilization
+  - Tech Tree
+  - Area Control
+  - Modular Board
+  - Variable Player Powers
+  - Resource Management
+  - 4X
+  - Ameritrash
+  - Fantasy Flight Games
+
+evokes:
+  - Progress
+  - Powerful
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Kevin Wilson
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 13
+
+description: |
+  Sid Meier's Civilization: The Board Game is a 2010 board game designed by Kevin Wilson and published by Fantasy Flight Games, inspired by the acclaimed Civilization IV video game. Two to four players lead one of six civilizations (Americans, Chinese, Egyptians, Germans, Romans, or Russians) on a modular tile board, pursuing four distinct paths to victory: military conquest, scientific achievement (reaching Space Flight), economic dominance (15 coins), or cultural advancement. Combat, technology research, city construction, and trade all play vital roles. Two expansions — Fame and Fortune (2011) and Wisdom and Warfare (2013) — add further civilizations and strategic options.
+
+upgrades: []

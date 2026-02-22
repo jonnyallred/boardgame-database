@@ -1,0 +1,52 @@
+id: cromwell
+name: "Cromwell"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dana Lombardy
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Cromwell is a two-player hex-and-counter wargame published by Simulations Design Corporation (SDC) in 1976 as part of their Pouch series, simulating the English Civil War from 1642 to 1646. One player commands the Royalist forces and the other the Parliamentarians under Oliver Cromwell, maneuvering armies across a map of England to achieve historical objectives. The game offers three levels of play — Introductory, Basic, and Advanced — making it accessible to wargaming novices while still offering depth for experienced players. Designer Dana Lombardy was praised for creating an entry-level wargame that did not sacrifice historical substance.
+
+upgrades: []

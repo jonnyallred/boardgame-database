@@ -1,0 +1,52 @@
+id: category-game
+name: "Category Game"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Set Collection
+  - Party
+  - Family
+
+evokes:
+  - Clever
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Spartaco Albertarelli
+publisher:
+  - Editrice Giochi
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 14
+
+description: |
+  Category Game is a party word game designed by Spartaco Albertarelli and published by Editrice Giochi in 1994. Players compete in teams to name words that fit a given category (shown on a column card) and begin with a specific letter (shown on a row tile) within a 15-second time limit. Words earn marble tokens of varying point values, and the team that collects marbles worth the most points wins. The game features a 5x5 grid of plastic components and plays quickly, making it a lively group activity.
+
+upgrades: []

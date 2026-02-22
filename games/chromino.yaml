@@ -1,0 +1,53 @@
+id: chromino
+name: "Chromino"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Pattern Building
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Connection
+  - Wonder
+  - Progress
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Zygomatic
+  - Asmodee
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 6
+
+description: |
+  Chromino is a color-based domino game published by Zygomatic (distributed by Asmodee) in which players race to empty their hand of chrominoes — three-colored tile strips — by matching colors with tiles already on the table. Each chromino tile displays three colored squares in a row, and when placed must share at least two identical color-square matches with adjacent tiles. The game uses five colors across 75 unique tile combinations, begins with a special "Chameleon" tile, and supports up to eight players including solitaire. Chromino is an accessible, colorful gateway game for all ages.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: dark-blades
+name: "Dark Blades"
+alternate_names:
+  - "Dragon Noir"
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Medieval
+  - Hex Map
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Dread
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Chris Bayliss
+  - Andy McKay
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Dark Blades is a medieval fantasy board wargame published in 1986 by Standard Games and Publications, using the Cry Havoc rules system and designed as an accessible introductory wargame. Set on the island of Labyrinthia, the game tells the story of the hero Dark Blades and his band of adventurers through included scenarios and maps. The Cry Havoc-derived rules make tactical battlefield movement and combat straightforward for wargame newcomers, and the game received coverage in White Dwarf magazine. A French edition was published as Dragon Noir.
+
+upgrades: []

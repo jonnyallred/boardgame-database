@@ -1,0 +1,52 @@
+id: deutschlandreise
+name: "Deutschlandreise"
+alternate_names: []
+year: 1935
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+  - Historical
+
+evokes:
+  - Discovery
+  - Lucky
+  - Connection
+  - Wonder
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Jochen Zeisse
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 6
+
+description: |
+  Deutschlandreise (Germany Trip) is a classic German children's board game first published by Otto Maier Verlag in 1935 and designed by Jochen Zeisse to help children learn the names and locations of German cities. Players travel across a map of Germany, collecting destination cards and racing to visit eight cities before returning to their starting point. The game was re-published by Ravensburger and became a beloved family classic across multiple generations, also serving as the predecessor to its sister games Europareise and Weltreise. Simple dice-and-movement mechanics make it accessible from age 6 while offering genuine geographic learning.
+
+upgrades: []

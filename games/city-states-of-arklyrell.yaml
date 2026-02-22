@@ -1,0 +1,52 @@
+id: city-states-of-arklyrell
+name: "City States of Arklyrell"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Area Control
+  - Fantasy
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Mike Joslyn
+publisher:
+  - Task Force Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  City States of Arklyrell is a compact fantasy wargame published by Task Force Games in 1983 for 2-4 players, designed by Mike Joslyn. Set on the fantasy world of Arklyrell with six continents, players compete for control of eight Citadels across 25 turns, recruiting neutral combatants and maneuvering forces through varied terrain using boats and giant rocs for intercontinental movement. As a microgame in the Task Force tradition, it offers accessible rules in a ziplock format. The game's evocative hex-crawl world map has attracted interest from RPG enthusiasts as a potential campaign setting.
+
+upgrades: []

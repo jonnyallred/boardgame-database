@@ -1,0 +1,52 @@
+id: cloomba
+name: "Cloomba"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Pattern Building
+  - Family
+  - Nature
+
+evokes:
+  - Clever
+  - Complete
+  - Wonder
+  - Progress
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Economicus
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 50
+min_age: 7
+
+description: |
+  Cloomba (Russian for "flowerbed") is a colorful tile-placement family game published by Economicus in 2018, in which players expand their garden areas by placing double-hex tiles depicting flowers of various colors and adding butterfly tokens to completed meadows. Players score by multiplying flowers by butterflies in each contiguous same-color meadow, but butterflies cannot share a meadow — requiring clever separation and eventual reunification of areas. The game includes option cards for bonus scoring and abilities, providing strategic variety across plays.
+
+upgrades: []

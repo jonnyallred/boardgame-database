@@ -1,0 +1,50 @@
+id: chupu
+name: "Chupu"
+alternate_names: ["Chu Pu", "Wumu", "樗蒲"]
+year: 200
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Historical
+  - Ancient
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Progress
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Chupu (樗蒲) is an ancient Chinese board game popular from the Eastern Han Dynasty through the Tang Dynasty (roughly 2nd-10th centuries CE), and a variant of the even older game Liubo. Players cast five wooden dice-like pieces (wumu), with valuable combinations earning extra moves or special advantages on a marked board. The Han dynasty writer Ma Rong composed a rhapsody about the game, and it was described in detail by Tang-period author Li Ao in the Wumujing. Over time, chupu was simplified from a full board game into a pure dice-rolling comparison game, foreshadowing many later Asian dice games.
+
+upgrades: []

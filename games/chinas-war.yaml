@@ -1,0 +1,55 @@
+id: chinas-war
+name: "China's War: 1937-1941"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Campaign Mode
+  - Asymmetric
+  - Variable Player Powers
+  - Historical
+  - War
+  - Wargame
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Agency
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Brian Train
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 210
+min_playtime: 180
+max_playtime: 240
+min_age: 16
+
+description: |
+  China's War: 1937-1941 is Volume XIII in GMT Games' COIN series, designed by Brian Train and published in 2025, covering the opening phase of the Second Sino-Japanese War. Up to four players take the roles of Japan, the Nationalist Guomindang government, the Chinese Communist Party, and the Warlords, each pursuing different military, political, and economic objectives through the insurgency-focused COIN system. Each faction uses a distinctive mix of actions to control populations, extract resources, and achieve their unique victory conditions. The game supports solitaire, two-player, three-player, and full four-player modes, offering extensive replay value through its asymmetric factions.
+
+upgrades: []

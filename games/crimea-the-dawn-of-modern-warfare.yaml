@@ -1,0 +1,53 @@
+id: crimea-the-dawn-of-modern-warfare
+name: "Crimea: The Dawn of Modern Warfare"
+alternate_names:
+  - "Crimea"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Dread
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Frank Chadwick
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Crimea: The Dawn of Modern Warfare is a grand-tactical wargame by Frank Chadwick published by Game Designers' Workshop (GDW) in 1975, covering the Crimean War from the Allied landings at Evpatoria through the fall of Sevastopol. Unlike most wargames of its era that used a simple alternating I-Go-You-Go turn structure, Crimea uses an innovative mixed-initiative system where movement and combat from both players interleave in an open-ended structure, ending only when combat naturally subsides. Initially sold as a ziplock bag game, it was highly rated, placing 7th in a 1976 SPI poll of the 202 most popular wargames in North America. It remains a historically notable design for its departure from conventional wargame turn structures.
+
+upgrades: []

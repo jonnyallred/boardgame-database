@@ -1,0 +1,58 @@
+id: citadel
+name: "Citadels"
+alternate_names: ["Citadelles", "Ohne Furcht und Adel", "Machiavelli"]
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Hand Management
+  - Bluffing
+  - Deduction
+  - Set Collection
+  - City Building
+  - Euro
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Mystery
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Bruno Cathala
+publisher:
+  - Z-Man Games
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 40
+min_playtime: 20
+max_playtime: 60
+min_age: 10
+
+description: |
+  Citadels is a card game designed by Bruno Faidutti and first published in French as Citadelles in 2000, in which players secretly draft character roles each round — Assassin, Thief, Magician, King, Bishop, Merchant, Architect, or Warlord — then use those roles' special powers to collect gold and construct district cards. The player who first builds eight districts triggers the endgame, and the player with the most district points wins. Its combination of secret role selection, bluffing, and city-building in a small box made Citadels a Spiel des Jahres finalist and one of the most celebrated gateway games of its era. It has been reprinted in multiple editions with expanded character rosters.
+
+upgrades: []

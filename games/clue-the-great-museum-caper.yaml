@@ -1,0 +1,52 @@
+id: clue-the-great-museum-caper
+name: "Clue: The Great Museum Caper"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: clue
+edition: null
+base_game: cluedo
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Hidden Movement
+  - Deduction
+  - Mystery
+  - Family
+
+evokes:
+  - Mystery
+  - Tension
+  - Dread
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Clue: The Great Museum Caper is a semi-cooperative asymmetric spin-off of the classic Clue franchise, published by Parker Brothers in 1991. One player secretly acts as a thief navigating a 3D model art museum, trying to steal three valuable paintings without being caught, while the other players cooperate as detectives using video cameras, motion detectors, and line-of-sight to track down the thief. The thief can deactivate cameras or cut museum power to mask movements. With hidden movement mechanics and asymmetric play, it anticipated later games like Scotland Yard and Letters from Whitechapel in its genre.
+
+upgrades: []

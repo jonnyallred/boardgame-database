@@ -1,0 +1,58 @@
+id: cockroach-poker
+name: "Cockroach Poker"
+alternate_names:
+  - "Kakerlakenpoker"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Set Collection
+  - Hand Management
+  - Social Deduction
+  - Party
+  - Filler
+  - Gateway
+
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Lucky
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Jacques Zeimet
+publisher:
+  - Drei Magier Spiele
+  - Ravensburger
+artist:
+  - Rolf Vogt
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Cockroach Poker is a reverse set-collection bluffing card game where players try to force opponents to collect four of the same critter. On each turn, a player passes a face-down card to another player and declares (truthfully or not) what critter it shows — cockroach, rat, stink bug, fly, toad, scorpion, bat, or spider. The receiver must either call the bluff, accept the card, or peek and pass it on. The loser is the first player stuck with four matching critters or who runs out of cards in hand. Simple enough to teach in minutes yet full of psychological tension, it was nominated for the 2004 Spiel des Jahres and remains a beloved filler.
+
+upgrades: []

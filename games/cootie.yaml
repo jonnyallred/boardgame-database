@@ -1,0 +1,54 @@
+id: cootie
+name: "Cootie"
+alternate_names:
+  - "The Game of Cootie"
+year: 1949
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Set Collection
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Connection
+  - Complete
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Herb Schaper
+publisher:
+  - Schaper
+  - Milton Bradley
+  - Hasbro
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 3
+
+description: |
+  Cootie is one of the earliest children's roll-and-collect games, invented by Minneapolis mailman Herbert Schaper in 1949 after he was inspired while carving a wooden fishing lure. On each turn a child rolls a die and collects the corresponding colorful plastic body part of a bug — a body, head, eyes, antennae, or legs — with the goal of completing their bug first. The game is entirely luck-based and designed for very young children who cannot yet read, making it one of the first successful plastic games for preschoolers. Named one of the 100 most memorable toys of the 20th century by the Toy Industry Association, Cootie has remained a staple children's game for over 75 years.
+
+upgrades: []

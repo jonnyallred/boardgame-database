@@ -1,0 +1,47 @@
+id: checkers-plus
+name: "Checkers Plus"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Checkers Plus is a variant of the traditional checkers (draughts) game with additional rules or components that expand on the classic formula. Specific details on the publisher, designer, and exact rule set for this edition are limited in available sources. As a variant of the classic abstract game, it retains the core diagonal-movement and capture mechanics of standard checkers while introducing enhancements to add strategic variety.
+
+upgrades: []

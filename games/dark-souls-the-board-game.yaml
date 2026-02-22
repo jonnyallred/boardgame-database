@@ -1,0 +1,55 @@
+id: dark-souls-the-board-game
+name: "Dark Souls – The Board Game"
+alternate_names:
+  - "Dark Souls: The Board Game"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 1  # Light (cooperative)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dungeon Crawler
+  - Campaign Mode
+  - Asymmetric
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Dread
+  - Tension
+  - Progress
+  - Discovery
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Sherwin Matthews
+  - Mat Hart
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Dark Souls: The Board Game is a cooperative miniature-based dungeon crawler published by Steamforged Games in 2017, based on FromSoftware's beloved video game series. Players explore modular tile dungeons, battling enemies that follow intricate AI card decks, and ultimately face fearsome boss encounters that mirror the punishing difficulty of the source material. The game raised over £3.7 million on Kickstarter and is noted for its faithful recreation of the video game's challenging atmosphere and high production value with detailed miniatures. Like its digital counterpart, death is frequent and punishing, demanding careful resource management and tactical positioning to survive.
+
+upgrades: []

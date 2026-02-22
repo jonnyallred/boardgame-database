@@ -1,0 +1,51 @@
+id: circus-imperium
+name: "Circus Imperium"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Sci-Fi
+  - Dice Rolling
+  - Asymmetric
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - FASA
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Circus Imperium is a tongue-in-cheek science fiction chariot racing board game published by FASA in 1988, set in the far-future universe of the Renegade Legion RPG. Players pilot anti-gravity chariots pulled by carnivorous alien beasts through three circuits, competing by knocking rivals out of the race or feeding them to their mounts. Loosely based on Avalon Hill's Circus Maximus, the game features highly unpredictable outcomes, a carnage-filled sense of humor, and lead miniatures from Ral Partha. Two track options include a lavish three-dimensional skybox infield track and a smaller, chaos-prone alternative.
+
+upgrades: []

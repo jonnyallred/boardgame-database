@@ -1,0 +1,55 @@
+id: choose-your-own-adventure-house-of-danger
+name: "Choose Your Own Adventure: House of Danger"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Campaign Mode
+  - Hand Management
+  - Dice Rolling
+  - Horror
+  - Mystery
+
+evokes:
+  - Discovery
+  - Mystery
+  - Tension
+  - Dread
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Prospero Hall
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Choose Your Own Adventure: House of Danger is a cooperative narrative board game published by Z-Man Games in 2018, adapting the beloved Choose Your Own Adventure book series into tabletop form. Based on R.A. Montgomery's House of Danger (#15 in the series), players take on the role of a psychic detective investigating a mysterious mansion, making branching choices and rolling dice to overcome challenges. The game is structured into five chapters and features genuine replayability through multiple branching paths and different endings. It captures the spirit of the CYOA books while adding cooperative mechanics that make it accessible to a wide range of players.
+
+upgrades: []

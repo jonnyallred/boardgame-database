@@ -1,0 +1,56 @@
+id: consentacle
+name: "Consentacle"
+alternate_names:
+  - "Consentacle: A Card Game of Human-Alien Intimacy"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Simultaneous Action
+  - Hand Management
+  - Set Collection
+  - Sci-Fi
+  - Aliens
+
+evokes:
+  - Connection
+  - Tension
+  - Clever
+  - Unique
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Naomi Clark
+publisher:
+  - Naomi Clark
+artist:
+  - Naomi Clark
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 18
+
+description: |
+  Consentacle is a two-player cooperative card game by NYU Game Center professor Naomi Clark that explores themes of consent, trust, and mutual satisfaction through the metaphor of an intimate encounter between a human and a tentacled alien. Players simultaneously reveal cards attempting to build matching combinations that generate Trust and Satisfaction — the game's currency and victory points — without verbal communication about their hands. The design deliberately subverts typical alien-tentacle media tropes by centering enthusiastic consent and coordination. First shown at the NYU Game Center's No Quarter exhibition in 2014, it won IndiecCade's Best Impact of the Year award in 2015 and was commercially published in 2018 after a successful Kickstarter campaign.
+
+upgrades: []

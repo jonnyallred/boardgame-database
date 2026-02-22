@@ -1,0 +1,56 @@
+id: cuba
+name: "Cuba"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Auctions/Bidding
+  - Resource Management
+  - Hand Management
+  - Euro
+  - Economic
+
+evokes:
+  - Clever
+  - Progress
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Michael Rieneck
+  - Stefan Stadler
+publisher:
+  - Rio Grande Games
+artist:
+  - Michael Menzel
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  Cuba is a 2007 Euro game for 2-5 players designed by Michael Rieneck and Stefan Stadler, set on the vibrant island of Cuba. Players manage plantations and factories, loading goods onto ships at the harbor for victory points while gaining influence in Cuba's parliament, where laws can shift the rules of the game significantly. Each round, players choose roles that grant unique abilities, and parliament votes determine how those abilities are modified. The interplay between economic development and legislative maneuvering gives Cuba a distinctive flavor among Euro games of its era.
+
+upgrades: []

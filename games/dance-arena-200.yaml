@@ -1,0 +1,49 @@
+id: dance-arena-200
+name: "Dance Arena 200"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Party
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Connection
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Dance Arena 200 is a board game. As a relatively obscure title with limited English-language documentation, detailed information about the designer, publisher, and specific mechanics is not readily available in modern sources. Historical game databases catalogue it as a published title from the mid-2000s.
+
+upgrades: []

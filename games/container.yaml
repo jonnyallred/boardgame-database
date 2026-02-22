@@ -1,0 +1,57 @@
+id: container
+name: "Container"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Economic
+  - Trading
+  - Resource Management
+  - Euro
+  - Maritime
+
+evokes:
+  - Agency
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Franz-Benno Delonge
+  - Thomas Ewert
+  - Kevin Nesbitt
+publisher:
+  - Valley Games
+artist:
+  - Mike Doyle
+playtime_minutes: 120
+min_playtime: 90
+min_age: 12
+max_playtime: 150
+
+description: |
+  Container is a deeply economic game of production, shipping, and trade built around the global container shipping industry. Players run factories that produce colored containers, load them onto ships, transport them to a central island, and sell them at auction to rivals. The twist is that each player's factories produce only certain colors and can only sell to opponents — you cannot profit directly from your own production. This creates an elegant closed economy where every player's decisions ripple through the supply chain, and the final auction at the island determines who ultimately wins. The game is celebrated for its realistic market simulation and the emergent negotiation it generates.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: crazy-circus
+name: "Crazy Circus"
+alternate_names:
+  - "Jungle Smart"
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Puzzle Solving
+  - Party
+  - Family
+
+evokes:
+  - Tension
+  - Humor
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - FoxMind
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Crazy Circus is a rapid-fire simultaneous puzzle game in which three circus animals stand on two platforms and players race to figure out the correct sequence of commands to rearrange them into a target configuration. When a target card is revealed, all players simultaneously shout out multi-syllable command strings — like "MaNiKi" or "LoNiMaSo" — that specify the sequence of movements needed. The first player to correctly announce the right sequence wins the card, and the player who collects the most cards wins. The game demands quick spatial reasoning and verbal dexterity, creating chaotic, funny moments as players blurt out increasingly complex command strings.
+
+upgrades: []

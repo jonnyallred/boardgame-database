@@ -1,0 +1,52 @@
+id: circus-maximus
+name: "Circus Maximus"
+alternate_names: ["Chariot Racing"]
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Historical
+  - Ancient
+  - Dice Rolling
+
+evokes:
+  - Tension
+  - Rivalry
+  - Humor
+  - Powerful
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Michael Matheny
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Circus Maximus is a chariot racing board game originally published by Battleline Publications in 1979 under the name Chariot Racing and republished by Avalon Hill in 1980. Players select horse teams and drivers, then race customized chariots around an oval track representing ancient Rome's famous hippodrome, using whips to attack opponents, forcing rivals into walls, and deploying wheel blades to hamstring enemy horses. The game became a beloved convention staple, often played in oversized form with 10-foot boards and baseball-sized chariot pieces. A video game adaptation was released by Avalon Hill in 1984.
+
+upgrades: []

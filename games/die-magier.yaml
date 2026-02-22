@@ -1,0 +1,50 @@
+id: die-magier
+name: "Die Magier"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+  - Fantasy
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Discovery
+  - Progress
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Die Magier is a German board game from 1985 with a wizard theme, in which players move magical figures across a board to collect items or reach objectives through dice-driven movement. A family-weight game typical of mid-1980s German hobby publishing, it offers light competitive racing with a fantasy atmosphere. As an older and modestly distributed German release, detailed English-language documentation is limited, but the game is catalogued in historical German game databases.
+
+upgrades: []

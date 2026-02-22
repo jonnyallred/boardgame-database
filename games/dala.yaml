@@ -1,0 +1,49 @@
+id: dala
+name: "Dala"
+alternate_names:
+  - "Herding the Cows"
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - No Math
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Dala is a traditional two-player abstract strategy game from Sudan, played especially by the Baggara tribes and also known as "Herding the Cows." It is played on a 6x6 board with 12 pieces per player, following a two-phase format: players first drop pieces onto the board, then move them orthogonally to form three-in-a-row alignments that allow capturing an opponent's piece. The player who reduces their opponent to fewer than three pieces wins. Traditionally played on raised mud boards with sharpened sticks as pieces, Dala is one of many richly varied alignment-and-capture games from the African continent.
+
+upgrades: []

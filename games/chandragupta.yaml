@@ -1,0 +1,53 @@
+id: chandragupta
+name: "Chandragupta"
+alternate_names: ["Chandragupta: Great Battles of the Mauryan Empire"]
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - Ancient
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Richard H. Berg
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Chandragupta is the 13th volume in GMT Games' Great Battles of History (GBoH) series, simulating the rapid rise of the Mauryan Dynasty in ancient India from 319 to 261 BC. Players command the unique Indian "four-fold army" of foot soldiers, chariots, war elephants, and cavalry across eight historical scenarios ranging from set-piece battles to mountain assaults, night ambushes, and even urban street fighting. The game captures the distinctive military culture of the Mauryan Empire, including Chandragupta's defeat of Seleucus and his grandson Ashoka's conquest of Kalinga. It uses the detailed GBoH hex-and-counter system adapted for the exceptional challenges of ancient Indian warfare.
+
+upgrades: []

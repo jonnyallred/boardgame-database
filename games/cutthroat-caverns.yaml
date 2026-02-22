@@ -1,0 +1,54 @@
+id: cutthroat-caverns
+name: "Cutthroat Caverns"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Hand Management
+  - Take That
+  - Cooperative
+  - Dungeon Crawler
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Tension
+  - Humor
+  - Rivalry
+  - Dread
+  - Agency
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Curt Covert
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Cutthroat Caverns is a semi-cooperative dungeon crawl card game for 3-6 players designed by Curt Covert and published by Smirk & Dagger in 2007. Players must work together to survive nine monster encounters — if the party dies, everyone loses — but only the player who lands the killing blow earns prestige points needed to win. The result is a deliciously tense blend of cooperation and sabotage, where players subtly (or not so subtly) undercut each other to steal the killing blow while keeping the party barely alive. Cutthroat Caverns was one of the earliest and most successful games to codify the semi-cooperative genre.
+
+upgrades: []

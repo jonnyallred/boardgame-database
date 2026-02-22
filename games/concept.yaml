@@ -1,0 +1,57 @@
+id: concept
+name: "Concept"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Gateway
+  - Cooperative
+  - Word Play
+  - Puzzle Solving
+
+evokes:
+  - Humor
+  - Connection
+  - Clever
+  - Wonder
+  - Agency
+
+possible_counts: [4, 5, 6, 7, 8, 9, 10, 11, 12]
+true_counts: [6, 7, 8]
+
+designer:
+  - Alain Rivollet
+  - Gaëtan Beaujannot
+publisher:
+  - Repos Production
+  - Asmodee
+artist:
+  - Stéphane Escapa
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Concept is a team-based guessing game in which players communicate words or phrases without speaking, drawing, or writing. Instead, one team places pawns and cubes on a board full of universal icons — color, size, shape, category — to hint at the concept other players must name. Is it an animal? Big? Black and white? Concepts range from simple objects to famous people and movie titles. The game won widespread acclaim for its accessibility across language barriers and ages, earning multiple international awards. It plays best as a party game with large groups where the guessing chaos is at its most entertaining.
+
+upgrades: []
