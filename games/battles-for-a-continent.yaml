@@ -1,0 +1,51 @@
+id: battles-for-a-continent
+name: "Battles for a Continent"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Battles for a Continent is an Avalon Hill wargame simulating the French and Indian War, the North American theater of the Seven Years' War fought primarily between Britain and France for control of the continent. Players command British regulars, colonial militias, French forces, and Native American allies as they contest control of fortresses, wilderness territory, and key river corridors from 1754 to 1763. The game captures the distinctive character of wilderness warfare in colonial North America, with supply lines and Native alliances playing important strategic roles.
+
+upgrades: []

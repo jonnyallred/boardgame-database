@@ -1,0 +1,51 @@
+id: battletech-collectible-card-game
+name: "BattleTech Collectible Card Game"
+alternate_names: ["BattleTech CCG"]
+year: 1996
+
+# Relationships
+game_family: "battletech"
+edition: null
+base_game: "battletech"
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Sci-Fi
+
+evokes:
+  - Powerful
+  - Agency
+  - Tension
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Wizards of the Coast
+  - FASA Corporation
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  BattleTech Collectible Card Game is a collectible card game set in the BattleTech universe, published by Wizards of the Coast and FASA Corporation in 1996. Players construct decks representing BattleMech forces from the major Houses of the Inner Sphere and clash in tactical combat. Cards represent individual mechs, pilots, equipment, and tactical maneuvers, with players managing heat buildup and ammunition as in the tabletop original. The game was part of the early CCG boom following Magic: The Gathering's success, bringing the BattleTech universe to a new card-game format before it was discontinued in 2001.
+
+upgrades: []

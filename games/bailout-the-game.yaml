@@ -1,0 +1,49 @@
+id: bailout-the-game
+name: "Bailout! The Game"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Party
+  - Negotiation
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Bailout! The Game is a satirical economic game released in 2008 inspired by the financial crisis and government bailout of Wall Street banks. Players take on the roles of banks, corporations, and government entities, navigating financial collapses, lobbying for bailout funds, and trying to avoid bankruptcy while gaming the system. The game's satirical premise captures the public anger at corporate bailouts during the 2008 financial crisis and turns it into a darkly comedic party experience. Documentation on the specific publisher and designer of this title is limited.
+
+upgrades: []

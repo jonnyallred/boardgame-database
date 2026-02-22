@@ -1,0 +1,55 @@
+id: bananagrams
+name: "Bananagrams"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Tile Placement
+  - Word Play
+  - Party
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Humor
+  - Agency
+  - Complete
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Abraham Nathanson
+  - Rena Nathanson
+publisher:
+  - Bananagrams Inc.
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Bananagrams is a fast-paced real-time word tile game invented by Abraham and Rena Nathanson and first presented at the 2006 London Toy Fair. Players race simultaneously to arrange their 21 letter tiles into a connected crossword grid, with no turns or waiting. When a player uses all their tiles, they shout "Peel!" and everyone takes another tile from the bunch. The player who finishes with no tiles remaining when the bunch runs out wins. Its compact banana-pouch packaging and zero-downtime gameplay have made it a worldwide bestseller and a beloved party staple.
+
+upgrades: []

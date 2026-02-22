@@ -1,0 +1,54 @@
+id: baron
+name: "Baron"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Hand Management
+  - Economic
+  - Euro
+  - Medieval
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Ben Pinchback
+  - Matt Riddle
+publisher:
+  - Gorilla Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Baron is a worker-placement and hand-management game published by Gorilla Games in 2009, in which players act as medieval barons competing to develop their estates and accumulate the most victory points. Players deploy workers to gather resources, construct buildings, and fulfill contracts, with card play adding tactical options for sabotaging rivals or boosting one's own production. The medieval estate-building theme, clean mechanics, and moderate play time make it a solid mid-weight euro experience for gamers looking for accessible worker placement.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: bagatelle
+name: "Bagatelle"
+alternate_names: []
+year: 1777
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Abstract
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Agency
+  - Wonder
+  - Humor
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 5
+max_playtime: 30
+min_age: 6
+
+description: |
+  Bagatelle is a historic table game and forerunner of pinball, originating in 18th-century France — reportedly popularized at the Château de Bagatelle in 1777. Players use a cue or spring launcher to propel small balls up an inclined playing surface studded with pins, aiming for holes or targets that score points. The game exists in many forms, from elaborate Victorian parlor tables to simple pub games, and directly inspired the development of pachinko in Japan and the modern pinball machine. As a dexterity game relying primarily on physical skill, it requires practice to aim precisely around the pins.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: battle-sheep
+name: "Battle Sheep"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+  - Modular Board
+  - Family
+  - Gateway
+  - Animals
+
+evokes:
+  - Clever
+  - Humor
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Francesco Rotta
+publisher:
+  - Blue Orange Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Battle Sheep is a light abstract area control game designed by Francesco Rotta and published by Blue Orange Games in which players try to dominate the most pasture hexes with their herds of 16 sheep tokens. The board is assembled from modular pasture tiles at the start, creating a different layout each game. Each turn a player splits one of their stacks and slides it in a straight line as far as it can go, leaving at least one sheep behind. As space dwindles, movement options shrink and blocking becomes crucial. Quick to teach and play, Battle Sheep is a family-friendly introduction to area control strategy.
+
+upgrades: []

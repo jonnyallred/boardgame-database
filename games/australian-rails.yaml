@@ -1,0 +1,55 @@
+id: australian-rails
+name: "Australian Rails"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: "empire-builder"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Network Building
+  - Economic
+  - Hand Management
+  - Trains
+  - Euro
+
+evokes:
+  - Progress
+  - Agency
+  - Discovery
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Bill Fawcett
+  - Darwin Bromley
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 10
+
+description: |
+  Australian Rails is part of Mayfair Games' Empire Builder crayon rail series, tasking players with building a profitable train network across the Australian continent. Using crayons to draw rail lines directly on a laminated map, players carve routes connecting major cities like Perth, Brisbane, Sydney, Melbourne, and Adelaide while hauling goods to earn $250 million. Terrain features such as mountains, deserts, and seasonal flooding add strategic challenge, and sandstorms can erase desert routes. Winner of the 1995 Origins Award for Best Modern-Day Boardgame, it captures the vast and unforgiving landscape of Australia.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: auf-die-nusse
+name: "Auf die Nüsse!"
+alternate_names: ["Nuts!"]
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Connection
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Heinz Meister
+publisher:
+  - Zoch Verlag
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 5
+
+description: |
+  Auf die Nüsse! (Nuts!) is a light press-your-luck dice game for the whole family themed around squirrels collecting nuts. Players roll dice and choose when to stop, trying to collect the most nuts without busting. The colorful components and quick decisions make it ideal for younger players and family gaming sessions. Its simple ruleset and cute animal theme keep it accessible and lighthearted.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: ave-caesar
+name: "Ave Caesar"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Racing
+  - Family
+  - Gateway
+  - Ancient
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Wolfgang Riedesser
+publisher:
+  - Ravensburger
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Ave Caesar is a chariot racing game set in the Circus Maximus of ancient Rome, where players must navigate their chariots around a variable track over three laps using a hand of movement cards. The game's defining twist is that every player must stop at Caesar's box at least once to pay homage, costing them precious movement. Track bottlenecks, aggressive blocking, and tight card management create genuine tension in this quick and interactive racing game. It won the 1989 Årets Spel Best Family Game Award and remains a beloved racing classic.
+
+upgrades: []

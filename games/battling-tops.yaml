@@ -1,0 +1,52 @@
+id: battling-tops
+name: "Battling Tops"
+alternate_names: []
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Racing
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Connection
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Ideal Toy Company
+  - Hasbro
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Battling Tops is a classic dexterity toy-game published by the Ideal Toy Company in 1969 in which players wind up spinning tops and release them simultaneously into a central arena. The spinning tops careen around the arena, knocking each other off the edge; the last top spinning wins the round. No strategy is involved — success depends entirely on the spin imparted at launch and random collisions — making it pure kinetic entertainment. Its simple appeal and tactile excitement have kept it a beloved children's classic for decades, with multiple republications by various toymakers.
+
+upgrades: []

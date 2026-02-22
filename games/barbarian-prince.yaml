@@ -1,0 +1,54 @@
+id: barbarian-prince
+name: "Barbarian Prince"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Campaign Mode
+  - Fantasy
+  - Wargame
+
+evokes:
+  - Agency
+  - Discovery
+  - Dread
+  - Tension
+  - Lucky
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Arnold Hendrick
+publisher:
+  - Dwarfstar Games
+  - Heritage Models
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Barbarian Prince is a landmark 1981 solitaire adventure game published by the Dwarfstar Games line of Heritage Models, in which the player directs exiled prince Cal Arath on a 70-day quest to raise 500 gold pieces to reclaim his stolen throne. A modular adventure booklet with 343 interlinked event nodes generates varied encounters each play, while dice and tables resolve combat and random events on a hex map of barbarian lands. Awarded the Charles S. Roberts Award for Best Fantasy Boardgame of 1981, it was hailed as "the most satisfactory solo game" of its era and remains an important forerunner of modern solo board gaming. The rules are now freely available online.
+
+upgrades: []

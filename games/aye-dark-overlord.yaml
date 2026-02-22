@@ -1,0 +1,56 @@
+id: aye-dark-overlord
+name: "Aye, Dark Overlord!"
+alternate_names: ["Sì, Oscuro Signore!"]
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Bluffing
+  - Party
+  - Fantasy
+  - Narrative Heavy
+
+evokes:
+  - Humor
+  - Persuasion
+  - Tension
+  - Connection
+  - Lucky
+
+possible_counts: [4, 5, 6]
+true_counts: [5, 6]
+
+designer:
+  - Fabrizio Bonifacio
+  - Massimiliano Enrico
+publisher:
+  - Fantasy Flight Games
+  - Nexus Editrice
+  - Asmodee
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 14
+
+description: |
+  Aye, Dark Overlord! is a storytelling bluffing card game in which one player takes the role of the wrathful Dark Overlord, while the others portray hapless goblin minions desperately inventing excuses for their failures. When called upon to explain why the Overlord's plans were thwarted, each goblin must incorporate one of their Hint cards into a wild, improvised story — then try to shift blame to another player. The game rewards quick wit and shameless creativity. Winner of Best Card Game at Lucca Comics and Games 2005.
+
+upgrades: []

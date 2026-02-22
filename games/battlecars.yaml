@@ -1,0 +1,53 @@
+id: battlecars
+name: "Battlecars"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Wargame
+  - Racing
+  - Post-Apocalyptic
+
+evokes:
+  - Powerful
+  - Tension
+  - Agency
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Phillip Masters
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Battlecars is a post-apocalyptic vehicular combat game published by Games Workshop in 1983, in which players outfit armored automobiles with weapons and race-battle across a hex grid. Drawing inspiration from the Car Wars and Death Race cultural moment, players design their vehicles before the game and then manage movement and fire arcs in tactical combat. Weapons, armor, and special equipment are selected from a catalog of options, allowing personalized vehicle builds. The game captures the Mad Max-era fascination with road warrior chaos in an accessible tactical format.
+
+upgrades: []

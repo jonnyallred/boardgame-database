@@ -1,0 +1,56 @@
+id: battles-of-the-third-age
+name: "Battles of the Third Age"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: "war-of-the-ring"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Dice Rolling
+  - Area Control
+  - Fantasy
+  - Lord of the Rings
+
+evokes:
+  - Powerful
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Roberto Di Meglio
+  - Marco Maggi
+  - Francesco Nepitello
+publisher:
+  - Fantasy Flight Games
+  - Nexus Editrice
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 13
+
+description: |
+  Battles of the Third Age is an expansion for War of the Ring (2004) that introduces three new standalone battle scenarios set in J.R.R. Tolkien's Middle-earth: the siege of Helm's Deep, the battle at the Black Gate, and the assault on Minas Tirith. Each scenario uses the War of the Ring dice and card system but focuses on specific pivotal battles rather than the full campaign. Published by Fantasy Flight Games in 2005, it allows players to replay the most dramatic military confrontations of The Lord of the Rings in detail, with dedicated rules for siege mechanics and special characters.
+
+upgrades: []

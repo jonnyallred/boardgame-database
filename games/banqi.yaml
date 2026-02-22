@@ -1,0 +1,50 @@
+id: banqi
+name: "Banqi"
+alternate_names: ["Half Chess", "Dark Chess", "Blind Chess"]
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Hidden Movement
+  - Deduction
+  - Historical
+
+evokes:
+  - Mystery
+  - Tension
+  - Lucky
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Banqi (also called Half Chess, Dark Chess, or Blind Chess) is a popular Chinese board game played on a 4×8 half-board using face-down Chinese chess pieces. Players begin by randomly placing all pieces face-down and take turns either flipping a piece to reveal it, moving a revealed piece, or capturing an opponent's piece. Piece strength follows the traditional Chinese chess hierarchy, with the general capturing everything except cannons, which capture by jumping. The hidden information element — not knowing which pieces are which until they are flipped — adds a significant luck and deduction dimension to the tactical game. Widely played in Taiwan, Hong Kong, and southern China.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: aurignac
+name: "Aurignac"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Historical
+
+evokes:
+  - Clever
+  - Discovery
+  - Agency
+  - Wonder
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Jochen Schellenberger
+publisher:
+  - Schellenberger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Aurignac is a light tile-placement game inspired by the prehistoric Aurignacian culture and the cave art of southern France. Players place tiles depicting prehistoric imagery onto a shared tableau, scoring points for completing patterns and connecting related symbols. The game's simple rules and archaeological theme make it an accessible introduction to pattern-based scoring. Published in 2012, it is a modest design suited for family play and those interested in prehistory-themed games.
+
+upgrades: []

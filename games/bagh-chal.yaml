@@ -1,0 +1,50 @@
+id: bagh-chal
+name: "Bagh-Chal"
+alternate_names: ["Bagh Chal", "Tigers and Goats"]
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Asymmetric
+  - Historical
+  - Animals
+
+evokes:
+  - Tension
+  - Agency
+  - Clever
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Bagh-Chal (meaning "tigers move" in Nepali) is a traditional asymmetric strategy game from Nepal played on a 5×5 point grid. One player controls four tigers; the other controls 20 goats. The tiger player aims to capture five goats by jumping over them; the goat player aims to surround and immobilize all four tigers. Goats are introduced one at a time from outside the board during the first phase, then both sides move in the second phase. The elegant asymmetry — one side trying to corral the other while being hunted — makes it a classic example of hunt games found across many cultures.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: battle-over-britain
+name: "Battle Over Britain"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Aviation
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Battle Over Britain is a 1983 Avalon Hill wargame simulating the aerial campaign of the Battle of Britain in the summer and autumn of 1940. One player commands the German Luftwaffe attempting to destroy RAF Fighter Command and gain air superiority over England; the other commands the Royal Air Force defending British airspace and radar installations. Players manage fighter squadrons, fuel, and aircraft production while engaging in dogfights and strategic bombing. The game captures the pivotal three-month air battle that determined whether Germany could invade Britain.
+
+upgrades: []

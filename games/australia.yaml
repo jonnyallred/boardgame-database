@@ -1,0 +1,56 @@
+id: australia
+name: "Australia"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Set Collection
+  - Action Points
+  - Euro
+  - Family
+  - Nature
+
+evokes:
+  - Progress
+  - Agency
+  - Complete
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Michael Schacht
+publisher:
+  - Ravensburger
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Australia is a card-driven area-control game set in 1920s Australia where players act as politicians directing Rangers to establish national parks and develop industrial projects. Each player holds a hand of cards and uses them to move Rangers to different regions of the continent, claiming majorities and earning points from conservation and industry objectives. The tension between advancing industrial interests and protecting wilderness gives the game a thematic flavor. Designed by Michael Schacht and published by Ravensburger in 2005, it rewards careful hand management and area positioning.
+
+upgrades: []

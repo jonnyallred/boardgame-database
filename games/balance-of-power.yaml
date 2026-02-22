@@ -1,0 +1,52 @@
+id: balance-of-power
+name: "Balance of Power"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Bluffing
+  - Area Control
+  - Economic
+  - Historical
+
+evokes:
+  - Tension
+  - Agency
+  - Persuasion
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Balance of Power is a geopolitical negotiation and area-control board game published by Avalon Hill. Players represent major world powers — the United States, Soviet Union, and other great powers — competing for global influence during the Cold War era by supporting client states, intervening in regional conflicts, and managing the risk of superpower confrontation. The game's central mechanic rewards players who extend their influence without triggering a nuclear confrontation, capturing the delicate brinkmanship of Cold War politics. Players must negotiate alliances and make credible threats while avoiding the game-ending scenario of direct nuclear exchange.
+
+upgrades: []

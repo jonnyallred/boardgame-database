@@ -1,0 +1,52 @@
+id: battleforce
+name: "BattleForce"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: "battletech"
+edition: null
+base_game: "battletech"
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Sci-Fi
+
+evokes:
+  - Powerful
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jordan Weisman
+  - Sam Lewis
+publisher:
+  - FASA Corporation
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 360
+min_age: 12
+
+description: |
+  BattleForce is a large-scale tactical wargame set in the BattleTech universe, published by FASA Corporation in 1987. Whereas classic BattleTech simulates individual mech-on-mech combat, BattleForce abstracts the statistics to allow players to command entire companies, battalions, and larger formations. Units are represented by counters on a hex map, with streamlined combat resolution enabling much larger battles than the base game supports. BattleForce became the foundation for the later Alpha Strike streamlined rules system and provides a compelling option for players who want to fight at the grand tactical scale of the BattleTech universe.
+
+upgrades: []

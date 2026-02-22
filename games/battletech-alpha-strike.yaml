@@ -1,0 +1,52 @@
+id: battletech-alpha-strike
+name: "BattleTech: Alpha Strike"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: "battletech"
+edition: null
+base_game: "battletech"
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Dice Rolling
+  - Variable Player Powers
+
+evokes:
+  - Powerful
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Herbert A. Beas II
+publisher:
+  - Catalyst Game Labs
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  BattleTech: Alpha Strike is a fast-playing streamlined miniature wargame variant of the classic BattleTech system, designed for the modern tabletop miniatures wargamer and published by Catalyst Game Labs in 2013. Rather than using detailed Record Sheets for each mech, Alpha Strike uses Unit Cards with abstracted statistics, dramatically speeding up play while retaining the tactical depth of the full BattleTech game. The rules allow for hexless terrain play and are derived from the BattleForce rules. Commander's Edition collected the full revised ruleset into a single comprehensive volume for serious players.
+
+upgrades: []

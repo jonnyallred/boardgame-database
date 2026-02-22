@@ -1,0 +1,55 @@
+id: battle-masters
+name: "Battle Masters"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Hand Management
+  - Modular Board
+  - Fantasy
+  - Wargame
+  - Ameritrash
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Dread
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Stephen Baker
+publisher:
+  - Milton Bradley
+  - Games Workshop
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+min_age: 10
+max_playtime: 180
+
+description: |
+  Battle Masters is a fantasy miniature wargame jointly developed by Milton Bradley and Games Workshop in 1992, pitting the Empire's forces of knights, halberdiers, and archers against Chaos armies of marauders, beastmen, and warriors. Combat is resolved via a deck of battle cards dictating unit activations and dice rolls, played on an enormous vinyl battle mat nearly 25 square feet in area with over 100 plastic miniatures. Designed by Stephen Baker — who later created Heroscape — it shares thematic DNA with Warhammer Fantasy Battle but targets a family audience. The impressive components and accessible rules made it a memorable gateway into miniature wargaming.
+
+upgrades: []

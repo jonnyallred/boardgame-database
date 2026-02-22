@@ -1,0 +1,52 @@
+id: battle-of-the-bulge-1965
+name: "Battle of the Bulge"
+alternate_names: []
+year: 1965
+
+# Relationships
+game_family: null
+edition: "1965"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Lawrence Pinsky
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Battle of the Bulge (1965) is a classic Avalon Hill wargame simulating the German Ardennes Offensive of December 1944, one of the last major German counteroffensives of World War II. Players command either the Wehrmacht attempting to break through Allied lines and reach Antwerp, or the Allied forces struggling to hold and ultimately repel the German advance. The game offered both a basic introductory game and an advanced tournament version with additional historical realism. Selling over 120,000 copies and consulting with General Anthony McAuliffe, it was one of Avalon Hill's most commercially successful titles despite some historical criticism of its accuracy.
+
+upgrades: []

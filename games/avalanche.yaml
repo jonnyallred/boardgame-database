@@ -1,0 +1,51 @@
+id: avalanche
+name: "Avalanche"
+alternate_names: []
+year: 1952
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Abstract
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+  - Hasbro
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Avalanche is a classic dexterity marble game published by Parker Brothers in which players drop marbles into a cascading series of plastic trays, watching them tumble from level to level in unpredictable paths. Players score based on which holes their marbles land in at the bottom, with the cascading tray structure creating satisfying random bouncing effects. Primarily a children's toy-game requiring no strategy, Avalanche's appeal lies in the visual spectacle and sensory delight of the marble cascade. It has been republished in various forms across many decades.
+
+upgrades: []

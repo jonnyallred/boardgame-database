@@ -7630,3 +7630,39 @@ entries:
     game_id: arkham-horror-first-edition
     url: "https://en.wikipedia.org/wiki/Arkham_Horror"
     description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: 51st-state
+    url: "https://boardgamewikia.com/51st-state"
+    description: "Game information page — boardgamewikia.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: 51st-state
+    url: "https://en.boardgamearena.com/news?id=907"
+    description: "Game information page — en.boardgamearena.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: 51st-state
+    url: "https://en.wikipedia.org/wiki/51st_State_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: 51st-state
+    url: "https://boardgamewikia.com/51st-state"
+    description: "Game information page — boardgamewikia.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: 51st-state
+    url: "https://en.boardgamearena.com/news?id=907"
+    description: "Game information page — en.boardgamearena.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: 51st-state
+    url: "https://en.wikipedia.org/wiki/51st_State_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: attika
+    url: "https://boardgame.de/reviews/attika.htm"
+    description: "Game information page — boardgame.de"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: attika
+    url: "https://boardgameguys.com/attika/"
+    description: "Game information page — boardgameguys.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: attika
+    url: "https://www.meeplemountain.com/articles/the-dusty-euro-series-attika/"
+    description: "Game information page — meeplemountain.com"

@@ -1,0 +1,52 @@
+id: avalam
+name: "Avalam"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Tile Placement
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Luc Huyghebaert
+publisher:
+  - Gigamic
+  - Super Duper Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Avalam is a two-player abstract stacking game where players take turns moving a ball-shaped piece onto an adjacent stack, with the restriction that stacks may never exceed five balls high. The player who controls the top ball of the most stacks when no more moves are possible wins. Published by Gigamic, the game features a distinctive spherical playing piece aesthetic and demands spatial planning as the board fills up and options narrow. Its compact rules and short play time make it an approachable yet tactically rich abstract.
+
+upgrades: []

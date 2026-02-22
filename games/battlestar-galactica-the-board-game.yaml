@@ -1,0 +1,61 @@
+id: battlestar-galactica-the-board-game
+name: "Battlestar Galactica: The Board Game"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Traitor
+  - Social Deduction
+  - Hand Management
+  - Variable Player Powers
+  - Dice Rolling
+  - Teams
+  - Sci-Fi
+  - Fantasy Flight Games
+  - Corey Konieczka
+  - Cult Classic
+
+evokes:
+  - Tension
+  - Dread
+  - Mystery
+  - Rivalry
+  - Unique
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Corey Konieczka
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Kevin Childress
+  - Andrew Navaro
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 17
+
+description: |
+  Battlestar Galactica: The Board Game is a semi-cooperative hidden-traitor game in which human players must guide the Battlestar Galactica and its refugee fleet to Kobol while managing dwindling resources — food, fuel, population, and morale — against relentless Cylon attacks. The critical tension comes from the fact that one or more players are secretly Cylons, trying to sabotage human efforts without revealing themselves. A mid-game "Sleeper Agent" phase may flip additional players to the Cylon side. Designed by Corey Konieczka and published by Fantasy Flight Games in 2008, it is widely regarded as one of the finest traitor games ever made, capturing the paranoia and desperation of the TV series.
+
+upgrades: []

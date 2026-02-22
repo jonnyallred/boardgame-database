@@ -1,0 +1,51 @@
+id: bataille-de-la-marne-1914
+name: "Bataille de la Marne 1914"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Jeux Camelot
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 16
+
+description: |
+  Bataille de la Marne 1914 is a French hex-and-counter wargame simulating the First Battle of the Marne, the pivotal September 1914 engagement that halted the German advance into France and ended the war of movement on the Western Front. Players command French and British forces attempting to exploit the gap that appeared between the German First and Second Armies, while the German player must hold or withdraw. The game is part of a tradition of francophone wargame publishing and represents a simulation of one of World War I's most decisive early battles.
+
+upgrades: []

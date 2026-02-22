@@ -1,0 +1,51 @@
+id: attangle
+name: "Attangle"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Modular Board
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dieter Stein
+publisher:
+  - Bambus Spielverlag
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 10
+
+description: |
+  Attangle is a two-player abstract stacking game played on a 37-cell hexagonal board with 18 stackable pieces per player. Players alternate placing pieces, and when two of a player's pieces converge on an opponent's piece from different directions, they capture it by stacking on top. The objective is to be first to build three triple stacks. Part of Dieter Stein's stacking trilogy alongside Abande and Accasta, Attangle rewards spatial reasoning and tactical threat-creation in a compact and elegant package.
+
+upgrades: []

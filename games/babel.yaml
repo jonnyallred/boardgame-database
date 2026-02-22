@@ -1,0 +1,56 @@
+id: babel
+name: "Babel"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Euro
+  - Ancient
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Uwe Rosenberg
+  - Hagen Dorgathen
+publisher:
+  - KOSMOS
+  - Rio Grande Games
+  - Z-Man Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Babel is a two-player card game designed by Uwe Rosenberg and Hagen Dorgathen in which players compete to build the tallest temples using workers from five ancient civilizations. Each turn, players place worker cards at their own or their opponent's temples and may activate the special power of any nationality where they hold a majority of three or more cards — powers include demolishing, stealing, or sabotaging enemy temples. Published by KOSMOS as part of their acclaimed two-player line, Babel rewards hand management and timing as players try to outmaneuver each other in a tense race to construct the mightiest ziggurat.
+
+upgrades: []

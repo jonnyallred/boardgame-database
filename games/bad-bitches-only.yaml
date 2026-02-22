@@ -1,0 +1,48 @@
+id: bad-bitches-only
+name: "Bad Bitches Only"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Social Deduction
+
+evokes:
+  - Humor
+  - Connection
+  - Tension
+  - Lucky
+  - Agency
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 18
+
+description: |
+  Bad Bitches Only is a 2019 adult party game designed for groups of friends, featuring challenges, questions, and social scenarios targeting an adult female audience. Players answer prompts, share experiences, and complete challenges in a format designed to generate laughter and conversation. The game leans into bold, humorous, and sometimes edgy content aimed at women's social gatherings and bachelorette-type events. Documentation on the specific mechanics is limited, as it falls into the broader category of social adult party games popular at the end of the 2010s.
+
+upgrades: []

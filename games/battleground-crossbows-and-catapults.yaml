@@ -1,0 +1,52 @@
+id: battleground-crossbows-and-catapults
+name: "Battleground: Crossbows & Catapults"
+alternate_names: ["Crossbows and Catapults"]
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Wargame
+  - Fantasy
+  - Medieval
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Ideal Toy Company
+  - Hasbro
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Crossbows & Catapults (later rebranded as Battleground: Crossbows & Catapults) is a dexterity combat game published by Ideal Toy Company in 1983, in which players build plastic fortresses and man them with warrior figures, then take turns firing discs using spring-loaded plastic crossbows and catapults at each other's armies. Pieces that are knocked down are removed from play, and the player who destroys all opposing warriors wins. Its toy-like components, physical shooting mechanics, and castle-building phase made it enormously popular with children in the 1980s, evoking the fantasy of medieval siege warfare in a tactile and energetic format.
+
+upgrades: []

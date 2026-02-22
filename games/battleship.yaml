@@ -1,0 +1,55 @@
+id: battleship
+name: "Battleship"
+alternate_names: []
+year: 1967
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Hidden Movement
+  - Abstract
+  - Family
+  - Gateway
+  - Maritime
+  - Historical
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Mystery
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Milton Bradley
+  - Hasbro
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 7
+
+description: |
+  Battleship is a classic two-player naval strategy guessing game with roots as a pencil-and-paper game from World War I, first published by Milton Bradley in its plastic peg-and-board form in 1967. Each player secretly positions their fleet of five ships on a 10×10 grid, then players alternate calling out grid coordinates to hunt and sink the opponent's fleet. The game combines deduction, probability estimation, and memory as players systematically eliminate possibilities. With over 100 million copies sold and induction into the National Toy Hall of Fame in 2025, Battleship is one of the most recognized board games in history.
+
+upgrades: []

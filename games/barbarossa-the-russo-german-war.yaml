@@ -1,0 +1,52 @@
+id: barbarossa-the-russo-german-war
+name: "Barbarossa: The Russo-German War 1941-45"
+alternate_names: []
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Masterful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James F. Dunnigan
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 720
+min_playtime: 480
+max_playtime: 1440
+min_age: 16
+
+description: |
+  Barbarossa: The Russo-German War 1941-45 is a landmark hex-and-counter wargame designed by James F. Dunnigan and published by SPI in 1969, simulating the entire Eastern Front from Operation Barbarossa through the fall of Berlin. As the second major SPI release in the "Test Series," it became the most popular game in that series and established templates for modern wargame design. Players manage the enormous operational sweep of the Eastern Front across multiple turns representing weeks of combat, with hundreds of counters representing German Army Groups and Soviet Fronts. It is a seminal title in the history of conflict simulation gaming.
+
+upgrades: []

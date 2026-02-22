@@ -1,0 +1,54 @@
+id: battlecon-war-of-indines
+name: "BattleCON: War of Indines"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: "battlecon"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Simultaneous Action
+  - Asymmetric
+  - Variable Player Powers
+  - Fantasy
+  - Abstract
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - D. Brad Talton Jr.
+publisher:
+  - Level 99 Games
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 14
+
+description: |
+  BattleCON: War of Indines is a head-to-head card-based fighting game designed by D. Brad Talton Jr. and published by Level 99 Games that distills the strategic depth of 2D fighting video games into a tabletop format. Players select from 18 asymmetric fighters, each with unique special abilities, and combine character-specific Style cards with shared Base cards to form attacks each round. Because all characters use the same bases, learning a new fighter is intuitive while mastering them takes many plays. The simultaneous attack system and reactive mechanics create the mind-game tension of anticipating and countering an opponent's strategy.
+
+upgrades: []

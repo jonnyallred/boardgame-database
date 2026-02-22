@@ -1,0 +1,50 @@
+id: battlestar-galactica-ccg
+name: "Battlestar Galactica Collectable Card Game"
+alternate_names: ["Battlestar Galactica CCG"]
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Sci-Fi
+
+evokes:
+  - Powerful
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Wizards of the Coast
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 13
+
+description: |
+  Battlestar Galactica Collectable Card Game is a collectible card game set in the reimagined Battlestar Galactica television universe, produced by Wizards of the Coast. Players construct decks representing either the human Colonial Fleet or the Cylon forces, competing in card-based combat that recreates the battles of the television series. Cards represent Vipers, Raiders, Basestars, Raptors, and the characters and events of the show. The game was released to coincide with the peak popularity of the reimagined BSG series and was discontinued after a limited number of sets.
+
+upgrades: []

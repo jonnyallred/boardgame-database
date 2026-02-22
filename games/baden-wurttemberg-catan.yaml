@@ -1,0 +1,55 @@
+id: baden-wurttemberg-catan
+name: "Baden-Württemberg Catan"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: "catan"
+edition: "regional"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Trading
+  - Negotiation
+  - Network Building
+  - Modular Board
+  - Euro
+  - Family
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Rivalry
+  - Complete
+
+possible_counts: [3, 4]
+true_counts: [4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Kosmos
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Baden-Württemberg Catan is a regional promotional edition of The Settlers of Catan produced by Kosmos, featuring a map of the German state of Baden-Württemberg instead of the standard Catan island. The game uses the familiar Catan mechanics — resource production, settlement building, road construction, trading, and development cards — applied to a geographically themed board representing actual cities and regions of Baden-Württemberg. Such regional Catan editions were produced for various German states and locations, serving as promotional items and collectibles for local fans of the game.
+
+upgrades: []

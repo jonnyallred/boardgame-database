@@ -1,0 +1,56 @@
+id: attika
+name: "Attika"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Hand Management
+  - Pattern Building
+  - Area Control
+  - Euro
+  - Family
+  - Ancient
+
+evokes:
+  - Progress
+  - Clever
+  - Tension
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Marcel-André Casasola Merkle
+publisher:
+  - Hans im Glück
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Attika transports players to ancient Greece, where rival city-states compete to build their settlements across a modular hex-tile landscape. On each turn, players may either gather resources or build one or more structures from their hand of 30 building tiles. The clever catch is that connecting a building to two or more existing structures of the same terrain type allows it to be placed for free. Victory is achieved either by connecting two sacred shrines on opposite sides of the board or by constructing all 30 of your buildings. The tension between rapid expansion and blocking opponents makes Attika a sharp, elegant Spiel des Jahres nominee.
+
+upgrades: []

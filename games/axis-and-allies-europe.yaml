@@ -1,0 +1,57 @@
+id: axis-and-allies-europe
+name: "Axis & Allies: Europe"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: "axis-and-allies"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Economic
+  - Resource Management
+  - Teams
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Powerful
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Larry Harris Jr.
+publisher:
+  - Avalon Hill
+  - Hasbro
+artist: []
+playtime_minutes: 300
+min_playtime: 180
+max_playtime: 480
+min_age: 12
+
+description: |
+  Axis & Allies: Europe is a 1999 standalone game in the Axis & Allies family that focuses exclusively on the European theater of World War II, beginning in spring 1941. Players command Germany for the Axis and the Soviet Union, Great Britain, and United States for the Allies, building forces with Industrial Production Certificates and battling across Europe, the Atlantic, North Africa, and the Middle East. The European focus allows for greater strategic depth in a smaller geographic scope, with naval control of the Atlantic playing a key role. Designed by Larry Harris Jr. and published by Hasbro under the Avalon Hill brand.
+
+upgrades: []

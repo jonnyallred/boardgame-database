@@ -1,0 +1,55 @@
+id: b-17-queen-of-the-skies
+name: "B-17, Queen of the Skies"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Historical
+  - War
+  - Aviation
+  - Wargame
+
+evokes:
+  - Tension
+  - Dread
+  - Lucky
+  - Agency
+  - Masterful
+
+possible_counts: [1, 2]
+true_counts: [1]
+
+designer:
+  - Leland Fetzer
+publisher:
+  - Avalon Hill
+  - On Target Games
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 12
+
+description: |
+  B-17, Queen of the Skies is a solitaire wargame simulating bombing missions over Nazi-occupied Europe in a Boeing B-17F Flying Fortress during World War II. The player manages their crew and aircraft through a series of dice rolls and event tables that determine enemy fighter encounters, flak damage, hit locations, and mechanical failures across 25 missions. The goal is to complete all 25 missions and earn a ticket home, though attrition makes survival far from guaranteed. Originally published by On Target Games in 1981 and republished by Avalon Hill in 1983, it remains a landmark in solo wargaming design.
+
+upgrades: []

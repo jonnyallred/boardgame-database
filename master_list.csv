@@ -268,7 +268,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 39683,At the Gates of Loyang,2009,boardgame,,,
 8872,Atlanta,,boardgame,,,
 5485,Atlantic Wall,1978,boardgame,,,
-10682,Atlas & Zeus,,boardgame,,,
+10682,Atlas & Zeus,,boardgame,,,atlas-and-zeus
 19999,Aton,,boardgame,,,
 ,Attack Force,,boardgame,,,
 2706,Attack of the Mutants!,1981,boardgame,,,attack-of-the-mutants
@@ -280,7 +280,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 827,Attila,2000,boardgame,,,
 110,Auf Achse,,boardgame,,,
 ,Auf den Spuren von Marco Polo,2015,boardgame,,,voyages-of-marco-polo
-130223,Auf die Nüsse!,,boardgame,,,
+130223,Auf die Nüsse!,,boardgame,,,auf-die-nusse
 369560,Aurignac,2012,boardgame,,,
 772,Ausbrecher AG,,boardgame,,,
 5052,Austerlitz,1972,boardgame,,,
@@ -289,19 +289,19 @@ bgg_id,name,year,type,status,notes,yaml_id
 39351,Automobile,2009,boardgame,,,
 9092,Avalam,,boardgame,,,
 446,Avalanche,,boardgame,,,
-22469,Avatar: The Last Airbender Trading Card Game,,boardgame,,,
+22469,Avatar: The Last Airbender Trading Card Game,,boardgame,,,avatar-the-last-airbender-tcg
 494,Ave Caesar,,boardgame,,,
 ,Aw-li On-nam Ot-tjin,,boardgame,,,
 34481,Awithlaknakwe,,boardgame,,,
 ,Awithlaknannai Mosona,,boardgame,,,
 820,Axiom,1988,boardgame,,,
 98,Axis & Allies,1981,boardgame,,,axis-and-allies-battle-of-the-bulge
-35052,Axis & Allies Anniversary Edition,,boardgame,,,
+35052,Axis & Allies Anniversary Edition,,boardgame,,,axis-and-allies-anniversary-edition
 22457,Axis & Allies: Battle of the Bulge,2006,boardgame,,,axis-and-allies-battle-of-the-bulge
-10081,Axis & Allies: D-Day,,boardgame,,,
-520,Axis & Allies: Europe,,boardgame,,,
-29259,Axis & Allies: Guadalcanal,,boardgame,,,
-1262,Axis & Allies: Pacific,,boardgame,,,
+10081,Axis & Allies: D-Day,,boardgame,,,axis-and-allies-d-day
+520,Axis & Allies: Europe,,boardgame,,,axis-and-allies-europe
+29259,Axis & Allies: Guadalcanal,,boardgame,,,axis-and-allies-guadalcanal
+1262,Axis & Allies: Pacific,,boardgame,,,axis-and-allies-pacific
 18723,"Aye, Dark Overlord!",,boardgame,,,
 ,Ayoayo,,boardgame,,,
 1071,Aztec,1995,boardgame,,,
@@ -312,7 +312,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 13455,Babylon 5: A Call to Arms,,boardgame,,,
 2397,backgammon,,boardgame,,,
 ,Bad Bitches Only,2019,boardgame,,,
-123386,Baden-Württemberg Catan,,boardgame,,,
+123386,Baden-Württemberg Catan,,boardgame,,,baden-wurttemberg-catan
 123417,bagatelle,,boardgame,,,
 ,Bagh bandi,,boardgame,,,
 315,bagh-chal,,boardgame,,,
@@ -332,7 +332,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 3251,Barbarian Kings,,boardgame,,,
 1631,Barbarian Prince,,boardgame,,,
 550,Barbarossa,1988,boardgame,,,
-5541,Barbarossa: The Russo-German War 1941-45,1969,boardgame,,,
+5541,Barbarossa: The Russo-German War 1941-45,1969,boardgame,,,barbarossa-the-russo-german-war
 9633,Barbie Queen of the Prom,,boardgame,,,
 ,Barcelona,2023,boardgame,,,
 22085,Baron,,boardgame,,,
@@ -351,11 +351,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 6112,Battle Dome,,boardgame,,,
 3177,Battle for Armageddon,,boardgame,,,
 3986,Battle for Germany,,boardgame,,,
-,"Battle for Midway: Decision in the Pacific, 1942",,boardgame,,,
+,"Battle for Midway: Decision in the Pacific, 1942",,boardgame,,,battle-for-midway
 6544,Battle for Moscow,,boardgame,,,
 234477,Battle for Rokugan,2017,boardgame,,,
 700,Battle Masters,1992,boardgame,,,
-16444,Battle of the Bulge,1965,boardgame,,,
+16444,Battle of the Bulge,1965,boardgame,,,battle-of-the-bulge-1965
 4278,Battle Over Britain,1983,boardgame,,,
 10966,Battle Rider,,boardgame,,,
 54137,Battle Sheep,,boardgame,,,
@@ -365,7 +365,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,BattleDroids,,boardgame,,,
 3616,BattleForce,,boardgame,,,
 18985,Battleground,,boardgame,,,
-30328,Battleground: Crossbows & Catapults,,boardgame,,,
+30328,Battleground: Crossbows & Catapults,,boardgame,,,battleground-crossbows-and-catapults
 17480,Battlelords,,boardgame,,,
 25417,BattleLore,2006,boardgame,,,
 93360,Battles for a Continent,,boardgame,,,
@@ -376,7 +376,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 93538,Battleship Galaxies,,boardgame,,,
 7470,BattleSpace,1993,boardgame,,,
 ,Battlestar Galactica,,boardgame,,,
-19671,Battlestar Galactica Collectable Card Game,,boardgame,,,
+19671,Battlestar Galactica Collectable Card Game,,boardgame,,,battlestar-galactica-ccg
 37111,Battlestar Galactica: The Board Game,,boardgame,,,
 3271,Battlesuit,,boardgame,,,
 1540,BattleTech,1985,boardgame,,,
@@ -2337,7 +2337,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 1147,Outrage!,,boardgame,,,
 3663,Outreach,,boardgame,,,
 5277,Overlord,,boardgame,,,
-28302,Oware,,boardgame,,,
+28302,Oware,,boardgame,,,ayoayo
 ,Owela,,boardgame,,,
 20079,Pacific Typhoon,,boardgame,,,
 912,Pacific Victory: War in the Pacific 1941-45,,boardgame,,,

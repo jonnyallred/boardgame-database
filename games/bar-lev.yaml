@@ -1,0 +1,53 @@
+id: bar-lev
+name: "Bar-Lev"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Randall Reed
+publisher:
+  - Conflict Game Company
+  - Avalon Hill
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Bar-Lev is a hex-and-counter wargame simulating the Yom Kippur War of 1973, specifically the Egyptian assault across the Suez Canal against Israel's fortified Bar-Lev Line. Players command either the Israeli Defense Forces defending along the canal or the Egyptian forces launching a surprise crossing. The game captures the dramatic reversal of the war — initial Egyptian success followed by an Israeli counterattack crossing into Africa. Published by Conflict Game Company and later by Avalon Hill, it is a significant grognard-era simulation of the 1973 Middle East conflict.
+
+upgrades: []

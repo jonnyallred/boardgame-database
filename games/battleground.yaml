@@ -1,0 +1,54 @@
+id: battleground
+name: "Battleground"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Card Drafting
+  - Hand Management
+  - Fantasy
+  - Historical
+
+evokes:
+  - Powerful
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jason Hawkins
+  - Charles Vasey
+publisher:
+  - Your Move Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Battleground is a card-based miniature wargame published by Your Move Games in 2005, in which players collect army cards representing historical and fantasy military units and fight battles using those cards arranged on a table as unit markers. Players construct armies using faction decks and command units through a hand of order cards, with the game resolving combat through dice and card effects. The system eliminates the cost of physical miniatures while preserving tactical maneuvering, offering multiple army factions including ancient armies and fantasy races.
+
+upgrades: []

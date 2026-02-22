@@ -1,0 +1,50 @@
+id: baston
+name: "Baston"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Jumbo
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Baston is a light 1985 abstract dice game published by Jumbo. Players roll dice to advance pieces around a track or board, competing to reach or claim positions first. The game combines luck-driven movement with minor tactical choices about positioning, keeping it accessible for family play. As a product of its era, Baston is a straightforward family filler with limited strategic depth but solid entertainment value for casual players. Detailed documentation on its specific rules is limited.
+
+upgrades: []

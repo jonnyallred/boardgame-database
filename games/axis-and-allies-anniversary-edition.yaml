@@ -1,0 +1,57 @@
+id: axis-and-allies-anniversary-edition
+name: "Axis & Allies Anniversary Edition"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: "axis-and-allies"
+edition: "anniversary"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Economic
+  - Resource Management
+  - Teams
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Powerful
+  - Agency
+  - Masterful
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [5, 6]
+
+designer:
+  - Larry Harris Jr.
+publisher:
+  - Avalon Hill
+  - Hasbro
+artist: []
+playtime_minutes: 480
+min_playtime: 240
+max_playtime: 720
+min_age: 12
+
+description: |
+  Axis & Allies Anniversary Edition is a landmark expanded edition of the classic World War II strategic board game, published by Avalon Hill in 2008 to commemorate the franchise's history. Players command the five major powers — USA, UK, Soviet Union, Germany, and Japan — plus Italy in this edition, managing economies measured in Industrial Production Certificates (IPCs) to build armies, navies, and air forces. The Anniversary Edition adds Italy as a separate power, new unit sculpts, and over 650 pieces across an expanded global map. Designed by Larry Harris Jr., it is considered the definitive large-scale Axis & Allies experience for serious fans.
+
+upgrades: []

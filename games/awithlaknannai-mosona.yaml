@@ -1,0 +1,48 @@
+id: awithlaknannai-mosona
+name: "Awithlaknannai Mosona"
+alternate_names: ["Fighting Serpents"]
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Awithlaknannai Mosona ("Fighting Serpents") is another traditional Zuñi board game documented by Stewart Culin in his 1907 study "Games of the North American Indians." Two players move serpent-shaped pieces along a grid, attempting to capture opposing pieces through movement and position. The serpentine piece design and the cultural context of the game — likely linked to Zuñi cosmology involving serpent imagery — give it distinctive character among indigenous North American board games. Like Awithlaknakwe, it is known primarily through Culin's 19th-century ethnographic records.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: battlesuit
+name: "Battlesuit"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: "ogre"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Steve Jackson
+publisher:
+  - Steve Jackson Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Battlesuit is a 1983 Steve Jackson Games microgame set in the same science-fiction universe as the OGRE and GEV games, focusing on infantry combat in powered armor suits. Players command squads of soldiers in powered battlesuits fighting across a hex-grid battlefield, using small unit tactics rather than the massive cybertank focus of OGRE. The game uses the same design philosophy as Jackson's earlier microgames — small box, affordable, and playable in under two hours — while exploring a different scale of futuristic warfare. It is compatible and interchangeable with the broader OGRE universe.
+
+upgrades: []

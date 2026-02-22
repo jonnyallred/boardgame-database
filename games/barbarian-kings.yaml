@@ -1,0 +1,52 @@
+id: barbarian-kings
+name: "Barbarian Kings"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Fantasy
+  - Historical
+  - Medieval
+
+evokes:
+  - Powerful
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Barbarian Kings is an Avalon Hill area-control and conquest game simulating the fall of Rome and the rise of barbarian kingdoms across Europe. Players command barbarian tribes — Visigoths, Vandals, Huns, Franks, and others — competing to carve out kingdoms from the crumbling Roman Empire by conquering territories and building settlements. The game blends historical authenticity with accessible mechanics, recreating the Migration Period that transformed Europe from late antiquity to the early medieval era. Multiple player factions each with unique starting positions create varied games from session to session.
+
+upgrades: []

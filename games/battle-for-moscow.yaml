@@ -1,0 +1,53 @@
+id: battle-for-moscow
+name: "Battle for Moscow"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Frank Chadwick
+publisher:
+  - GDW
+  - Victory Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Battle for Moscow is a two-player hex-and-counter wargame designed by Frank Chadwick, simulating the German Army Group Center's drive toward Moscow in Operation Typhoon, autumn 1941. Published as a quick-play introductory wargame, it uses streamlined rules accessible to new players while capturing the key historical dynamics: German mechanized speed versus Soviet reserves and the brutal Russian winter. The game fits on a single sheet map and plays in under two hours, making it an influential gateway wargame that introduced many players to the hobby in the 1980s.
+
+upgrades: []

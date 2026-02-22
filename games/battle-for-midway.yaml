@@ -1,0 +1,51 @@
+id: battle-for-midway
+name: "Battle for Midway: Decision in the Pacific, 1942"
+alternate_names: []
+year: 1964
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Maritime
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Battle for Midway: Decision in the Pacific, 1942 is an Avalon Hill wargame simulating the pivotal naval air battle of Midway in June 1942, where the United States Navy inflicted a devastating defeat on the Imperial Japanese Navy. Players command the opposing carrier fleets, managing search operations, air strikes, fighter cover, and the critical unknown of enemy carrier locations. The game captures the fog-of-war element central to the actual battle, where intelligence and luck of search patterns determined who struck first. The Battle of Midway turned the tide of the Pacific War and is one of the most studied naval engagements in history.
+
+upgrades: []

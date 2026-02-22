@@ -1,0 +1,54 @@
+id: balloon-cup
+name: "Balloon Cup"
+alternate_names: ["Piñata"]
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Card Drafting
+  - Euro
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Stephen Glenn
+publisher:
+  - KOSMOS
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Balloon Cup (also published as Piñata) is a sharp two-player card game designed by Stephen Glenn and nominated for the 2003 Spiel des Jahres. Players compete in a series of hot-air balloon races across mountain and plains terrain tiles, playing numbered cards on either side of the tiles. Mountains require high cards to win; plains reward low cards. Since players may add cards to either side of any tile, each placement is both an offensive and defensive decision. The player who first collects three of the five trophies wins, delivering a remarkably tense and replayable game in under 30 minutes.
+
+upgrades: []

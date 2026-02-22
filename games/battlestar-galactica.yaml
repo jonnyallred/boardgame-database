@@ -1,0 +1,52 @@
+id: battlestar-galactica
+name: "Battlestar Galactica"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: "original-series"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Sci-Fi
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Agency
+  - Discovery
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Mattel
+  - Parker Brothers
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Battlestar Galactica is a 1979 board game based on the original Glen A. Larson television series, produced to capitalize on the show's popularity following Star Wars fever. Players race their Colonial Vipers across the board, battling Cylon Raiders and pursuing the search for Earth while managing fuel and supplies. The game captures the episodic adventure feel of the original series in a straightforward family racing-and-combat format. It is now primarily a collector's item and piece of late-1970s science fiction pop culture memorabilia, distinct from the more sophisticated 2008 Fantasy Flight board game based on the reimagined series.
+
+upgrades: []

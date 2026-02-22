@@ -1,0 +1,49 @@
+id: battle-sphere
+name: "Battle-Sphere"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+  - Sci-Fi
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Battle-Sphere is an abstract strategy game with a science-fiction theme involving spherical or orbital combat. Players position and maneuver forces in a three-dimensional or spherical spatial framework, competing to control key positions. The game's unusual geometric premise — fighting over a spherical rather than flat board — creates distinctive tactical situations and movement calculations. Documentation on this title is limited given its relatively obscure publication history.
+
+upgrades: []

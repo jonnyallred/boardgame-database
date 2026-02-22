@@ -1,0 +1,49 @@
+id: bagh-bandi
+name: "Bagh Bandi"
+alternate_names: ["Bagh-Bandi"]
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Asymmetric
+  - Historical
+
+evokes:
+  - Tension
+  - Agency
+  - Clever
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 40
+min_age: 8
+
+description: |
+  Bagh Bandi is a traditional Indian territory-enclosure game related to the hunt game family. Played on a grid with diagonal lines, two players compete to encircle and trap pieces — somewhat like a fusion of territory control and the tiger-and-goats dynamic found in related South Asian games. The game has been played across India for centuries and represents a regional variation on asymmetric placement and movement games. Specific documented rules vary by source, and the game is most commonly encountered in Bengal and surrounding regions.
+
+upgrades: []

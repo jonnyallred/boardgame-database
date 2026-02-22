@@ -1,0 +1,50 @@
+id: balconia
+name: "Balconia"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Family
+  - Nature
+
+evokes:
+  - Complete
+  - Clever
+  - Agency
+  - Creative
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Balconia is a 2024 tile-placement game themed around decorating a balcony garden with plants and flowers. Players draft and place botanical tiles to create attractive arrangements on their personal balcony boards, scoring points for completing plant groupings and fulfilling objective cards. The game's peaceful gardening theme, attractive artwork, and gentle puzzle-solving make it well-suited for family play and those who enjoy lighter strategic fare. Documentation on this recent title is limited given its 2024 release date.
+
+upgrades: []

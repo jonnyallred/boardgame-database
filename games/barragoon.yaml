@@ -1,0 +1,50 @@
+id: barragoon
+name: "Barragoon"
+alternate_names: []
+year: 1930
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Racing
+  - Tile Placement
+
+evokes:
+  - Tension
+  - Clever
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Barragoon is an abstract racing game published by Milton Bradley in the early 20th century in which players race pieces across a board while placing blocking tiles (barragoons) to impede the opponent's progress. Players take turns either moving a piece or placing a block, trying to be the first to move all their pieces to the opposite side of the board while creating obstacles for the opponent. The interplay between movement and blocking gives the game surprising depth for its simple premise, and it was an early example of abstract racing with environmental manipulation.
+
+upgrades: []

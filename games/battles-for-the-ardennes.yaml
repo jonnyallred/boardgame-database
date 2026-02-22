@@ -1,0 +1,52 @@
+id: battles-for-the-ardennes
+name: "Battles for the Ardennes"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Masterful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Don Greenwood
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 600
+min_age: 16
+
+description: |
+  Battles for the Ardennes is a 1983 Avalon Hill operational wargame designed by Don Greenwood, simulating the German Ardennes Offensive (Battle of the Bulge) of December 1944-January 1945. The game covers the campaign at the divisional level across multiple scenarios of varying scope, from small engagements to the full campaign. Unlike simpler Bulge games, it provides detailed operational simulation with supply rules, weather effects, and the critical role of road networks in winter terrain. Considered a grognard classic, it is one of the most detailed English-language simulations of the campaign.
+
+upgrades: []

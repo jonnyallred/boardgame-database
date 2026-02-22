@@ -1,0 +1,51 @@
+id: battle-dome
+name: "Battle Dome"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Tyco
+  - Milton Bradley
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Battle Dome is a 1990s children's toy-game in which players flick or launch small ball projectiles at plastic targets protected within a dome structure, trying to knock down the opponent's targets before their own are eliminated. The physical, dexterity-based gameplay and shooting mechanics make it more of an active toy than a strategic game, aimed squarely at the young children's market. Its simple premise and kinetic play style made it popular as a quick-play family game requiring no reading or complex rules.
+
+upgrades: []

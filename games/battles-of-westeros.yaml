@@ -1,0 +1,57 @@
+id: battles-of-westeros
+name: "Battles of Westeros"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Hand Management
+  - Variable Player Powers
+  - Asymmetric
+  - Wargame
+  - Fantasy
+  - Fantasy Flight Games
+  - Lord of the Rings
+
+evokes:
+  - Powerful
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Robert A. Kouba
+publisher:
+  - Fantasy Flight Games
+  - Edge Entertainment
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Battles of Westeros is a two-player miniature-based wargame published by Fantasy Flight Games in 2010, set in George R. R. Martin's world of Westeros. Built on a modified Commands and Colors system, players command House Stark and House Lannister armies across scenarios drawn from A Song of Ice and Fire lore. Unique mechanics include a once-per-round activation limit per unit and a morale system that rewards flanking attacks. The game ships with detailed plastic miniatures of bannermen and commanders, with multiple expansions adding additional houses and scenarios.
+
+upgrades: []

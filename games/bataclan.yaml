@@ -1,0 +1,50 @@
+id: bataclan
+name: "Bataclan"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Agency
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Gigamic
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Bataclan is a stacking and balance dexterity game published by Gigamic in which players take turns placing colorful wooden pieces onto a shared structure, trying not to be the one to cause a collapse. The pieces come in various shapes that must be carefully positioned on the precarious growing stack. Simple enough for young children but requiring genuine dexterity, Bataclan delivers the suspense of escalating tension with every carefully placed piece. It is a family-friendly introduction to dexterity games with minimal rules overhead.
+
+upgrades: []

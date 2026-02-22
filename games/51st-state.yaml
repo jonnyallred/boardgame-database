@@ -1,0 +1,60 @@
+id: 51st-state
+name: "51st State"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: "51st-state"
+edition: "first-edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Hand Management
+  - Engine Building
+  - Resource Management
+  - Set Collection
+  - Euro
+  - Ameritrash
+  - Post-Apocalyptic
+  - Portal Games
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Powerful
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Ignacy Trzewiczek
+publisher:
+  - Portal Games
+  - Z-Man Games
+artist:
+  - Ignacy Trzewiczek
+  - Tomasz Jedruszek
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Set in a post-apocalyptic North America, 51st State puts players in charge of rival factions competing to found the new 51st state of the former United States. Players build their state by playing cards in three different ways: invading a location for a one-time resource gain, signing a contract for recurring income, or annexing a site to use its special ability. Each of the four asymmetric factions — Mutants, New York, Appalachian Federation, and Traders — has unique starting abilities that shape strategy. First released in 2010 by Portal Games, the game was later reimagined as the 51st State Master Set (2016), which serves as the definitive edition.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: battletroops
+name: "BattleTroops"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: "battletech"
+edition: null
+base_game: "battletech"
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Wargame
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Jordan Weisman
+  - Sam Lewis
+publisher:
+  - FASA Corporation
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  BattleTroops is an infantry combat game set in the BattleTech universe, published by FASA Corporation in 1989. Rather than focusing on the giant BattleMechs of the main game, BattleTroops simulates ground combat between squads of infantry soldiers, elite Battle Armor (Elementals), and light vehicles. Players use hex-grid maps and individual soldier counters, managing cover, suppressive fire, and squad morale. The game provides detailed rules for the foot soldiers whose battles take place in the shadow of the iconic mechs, expanding the BattleTech universe into a new tactical scale.
+
+upgrades: []

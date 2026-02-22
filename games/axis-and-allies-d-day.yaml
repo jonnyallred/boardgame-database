@@ -1,0 +1,55 @@
+id: axis-and-allies-d-day
+name: "Axis & Allies: D-Day"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: "axis-and-allies"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Teams
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Powerful
+  - Agency
+  - Rivalry
+  - Dread
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3]
+
+designer:
+  - Larry Harris Jr.
+publisher:
+  - Avalon Hill
+  - Hasbro
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Axis & Allies: D-Day is a focused standalone entry in the Axis & Allies series published by Avalon Hill in 2004, simulating the Allied invasion of Normandy on June 6, 1944. Allied players must land troops on five beaches, push through German defenses, and liberate key French cities before the Germans can reinforce their positions. The asymmetric design — Allied forces landing against entrenched German defenders — creates a different strategic challenge from the classic global game. Faster and more accessible than the full Axis & Allies experience, D-Day captures the tension of Operation Overlord in a shorter playing time.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: battle-cattle-the-card-game
+name: "Battle Cattle: The Card Game"
+alternate_names: []
+year: 1996
+
+# Relationships
+game_family: "battle-cattle"
+edition: null
+base_game: "battle-cattle"
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Humor
+  - Animals
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Philip Eklund
+publisher:
+  - Sierra Madre Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Battle Cattle: The Card Game is a card-based adaptation of Sierra Madre Games' absurdist Battle Cattle miniature wargame, in which cybernetically enhanced cows wage tactical warfare. Players build hands of equipment and attack cards to outfit and fight with their bovine warriors, streamlining the original miniatures experience into a portable format. Like its predecessor, the game's humor — deadly serious rules applied to ridiculous livestock combat — is its primary appeal. The card format makes it more accessible and faster to set up than the original miniatures game.
+
+upgrades: []

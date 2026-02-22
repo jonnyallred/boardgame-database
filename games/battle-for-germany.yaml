@@ -1,0 +1,52 @@
+id: battle-for-germany
+name: "Battle for Germany"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer:
+  - James F. Dunnigan
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Battle for Germany is a two-to-four player wargame designed by James F. Dunnigan and published by SPI in 1975, simulating the final Allied and Soviet campaigns to defeat Nazi Germany in 1944-1945. In the two-player version, one player handles the Western Allied armies and the other controls both the Soviet forces and Germany — forcing a single player to manage the desperate German defense on two fronts. In four-player mode, each major power gets a dedicated commander. The game captures the race to Berlin and the division of post-war Germany that would follow, with victory conditions reflecting territorial control at war's end.
+
+upgrades: []

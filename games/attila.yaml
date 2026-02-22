@@ -1,0 +1,51 @@
+id: attila
+name: "Attila"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Area Control
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Reinhold Wittig
+publisher:
+  - Edition Spielreiz
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Attila is a two-player abstract strategy game in which players take turns placing tiles on a grid, leaving behind impassable "scorched earth" as Attila's armies advance. On each turn a player moves their piece like a king in chess and places a barrier tile on the space just vacated. The player who cannot move loses. Simple to learn but rich in tactical depth, Attila distills territorial denial and movement planning into a quick, tense duel.
+
+upgrades: []

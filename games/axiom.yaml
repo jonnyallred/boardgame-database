@@ -1,0 +1,50 @@
+id: axiom
+name: "Axiom"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Tile Placement
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Masterful
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Lakeside Industries
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Axiom is a 1988 abstract strategy game in which players place tiles or pieces following specific geometric or logical rules to score points or block opponents. Players must satisfy the game's axiom-based placement constraints while maneuvering to create scoring opportunities and deny the opponent. The game's mathematical logic-puzzle elements — ensuring moves comply with axioms governing placement — give it a distinctive analytical character. Documentation on this specific publication is limited.
+
+upgrades: []

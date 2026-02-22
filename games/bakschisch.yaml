@@ -1,0 +1,52 @@
+id: bakschisch
+name: "Bakschisch"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Bluffing
+  - Negotiation
+  - Family
+
+evokes:
+  - Clever
+  - Persuasion
+  - Tension
+  - Humor
+  - Agency
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Alex Randolph
+publisher:
+  - Amigo Spiele
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Bakschisch is a 1995 bluffing and bidding card game designed by Alex Randolph and published by Amigo Spiele, set in a Middle Eastern marketplace where players bribe their way to fortune. Players play cards representing bribes to influence the outcome of auctions, trying to win valuable goods while spending as little as possible. The word "bakschisch" (baksheesh) refers to the practice of tipping or bribery in the Middle East and South Asia, and the game's theme of paying off rivals captures that spirit. Randolph's signature blend of social interaction and light strategy makes it an entertaining filler.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: backgammon
+name: "Backgammon"
+alternate_names: []
+year: 1635
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Abstract
+  - Historical
+
+evokes:
+  - Lucky
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 10
+max_playtime: 60
+min_age: 8
+
+description: |
+  Backgammon is one of the oldest board games still widely played, with roots tracing back approximately 5,000 years to ancient Mesopotamia. Two players race their 15 checkers around a board divided into 24 narrow triangles (points), moving according to dice rolls while blocking, hitting, and bearing off pieces. The interplay between probability management and positional strategy creates extraordinary depth: skilled players can calculate optimal moves using pip counts and probability tables. The doubling cube adds a gambling dimension that intensifies decision-making. The modern rules and name were established in 17th-century England.
+
+upgrades: []

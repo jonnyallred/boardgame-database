@@ -1,0 +1,48 @@
+id: aw-li-on-nam-ot-tjin
+name: "Aw-li On-nam Ot-tjin"
+alternate_names: []
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Aw-li On-nam Ot-tjin is a traditional board game from the Jicarilla Apache people of the American Southwest. Played on a cross-shaped track, players race their pieces around the board using sticks or dice-like implements to determine movement, competing to be the first to complete a circuit. The game is part of a broader family of Native American racing games and is related in structure to other indigenous track-racing games played across North America. Documentation is primarily ethnographic, and the game holds cultural significance as part of Jicarilla Apache heritage.
+
+upgrades: []

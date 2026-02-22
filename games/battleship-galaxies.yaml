@@ -1,0 +1,56 @@
+id: battleship-galaxies
+name: "Battleship Galaxies"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Variable Player Powers
+  - Sci-Fi
+  - Wargame
+
+evokes:
+  - Powerful
+  - Tension
+  - Agency
+  - Rivalry
+  - Discovery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Colby Dauch
+  - Dustin DePenning
+  - Jerry Hawthorne
+  - Craig Van Ness
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Battleship Galaxies is a science-fiction miniatures wargame published by Hasbro in 2011 that reimagines the classic Battleship concept as a scenario-driven space battle. Players command fleets of detailed plastic starships — the human Intergalactic Space Navy versus the alien Wretcheridians — across a hexagonal star field board. Each turn, players spend energy points to move and fire, with combat resolved using custom letter-and-number dice matched against ship reference cards. Twenty starship miniatures and multiple scenarios give the game significant replay value for fans of tactical space combat.
+
+upgrades: []

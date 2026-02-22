@@ -1,0 +1,49 @@
+id: battle-damage-code-red
+name: "Battle Damage: Code Red"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Wargame
+  - Sci-Fi
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Battle Damage: Code Red is a combat board game from the 1990s in which players field military units and resolve engagements through dice rolls and card play. Players track unit damage and attempt to eliminate enemy forces across a tactical map. The game is part of the wave of simpler tactical combat games that emerged as more accessible alternatives to traditional hex wargames. Detailed documentation on this title is limited, and it is primarily known through collector and hobby game records.
+
+upgrades: []

@@ -1,0 +1,48 @@
+id: awithlaknakwe
+name: "Awithlaknakwe"
+alternate_names: []
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Awithlaknakwe is a traditional strategy game of the Zuñi people of the American Southwest, documented by ethnographer Stewart Culin in his landmark 1907 study "Games of the North American Indians." Played on a board with a specific geometric pattern, players move pieces and attempt to capture opponent pieces or reach specific positions. The game represents one of the sophisticated board games played by indigenous North American peoples long before European contact, and stands as a historical artifact of pre-Columbian gaming tradition. The rules have been reconstructed primarily from Culin's ethnographic observations.
+
+upgrades: []

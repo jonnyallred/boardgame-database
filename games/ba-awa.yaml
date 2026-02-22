@@ -1,0 +1,49 @@
+id: ba-awa
+name: "Ba-awa"
+alternate_names: []
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Ba-awa is a traditional mancala game originating from the Akan-speaking peoples of Ghana. Played on a two-row board, players sow seeds around the pits, capturing opponent seeds according to standard mancala capture rules. The game is part of a broader family of West African mancala games and is closely related to Oware. Ba-awa is primarily a children's game in its traditional context, providing an accessible entry point into the mancala family of games. Sources on this specific variant are limited, and rules may vary by region and community tradition.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: balderdash
+name: "Balderdash"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Social Deduction
+  - Word Play
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Persuasion
+  - Clever
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Laura Robinson
+  - Paul Toyne
+publisher:
+  - Canada Games Company
+  - Mattel
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Balderdash is a bluffing party game created by Laura Robinson and Paul Toyne in 1984, based on the classic parlour game Fictionary. One player reads an obscure word, acronym, person, movie title, or law aloud, and all other players secretly write a plausible-sounding but invented definition. The definitions are read aloud and players vote on which they believe is correct. Points are awarded both for guessing the real answer and for fooling others into voting for your fabrication. With over 15 million copies sold, it has become a party game staple renowned for generating laughter and creative deception.
+
+upgrades: []

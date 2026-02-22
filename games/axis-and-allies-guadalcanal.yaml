@@ -1,0 +1,56 @@
+id: axis-and-allies-guadalcanal
+name: "Axis & Allies: Guadalcanal"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: "axis-and-allies"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Teams
+  - Wargame
+  - Historical
+  - War
+  - Maritime
+
+evokes:
+  - Tension
+  - Powerful
+  - Agency
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Larry Harris Jr.
+publisher:
+  - Avalon Hill
+  - Hasbro
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Axis & Allies: Guadalcanal is a 2007 standalone entry in the Axis & Allies series focused on the brutal 1942-1943 campaign for control of Guadalcanal island in the Pacific. The two-player game emphasizes naval and air combat as the US and Japan fight to control the crucial airstrip at Henderson Field. Players must manage troop landings, air superiority, and naval interdiction along "the Slot," capturing the exhausting logistical struggle that defined the Guadalcanal campaign. Its naval-heavy mechanics distinguish it from other Axis & Allies titles.
+
+upgrades: []

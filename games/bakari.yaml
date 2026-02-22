@@ -1,0 +1,49 @@
+id: bakari
+name: "Bakari"
+alternate_names: []
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 25
+min_age: 6
+
+description: |
+  Bakari is a traditional mancala game from East Africa, played across a board with two rows of holes. Players sow seeds in the standard mancala fashion, capturing opponent seeds when a sow ends in a pit with specific counts. As with many traditional games, regional variations in rules exist and the game is embedded in local cultural practice. Bakari is a representative of the wider mancala game family prevalent across sub-Saharan Africa, with limited published documentation of its specific regional ruleset.
+
+upgrades: []

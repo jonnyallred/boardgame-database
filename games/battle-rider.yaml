@@ -1,0 +1,50 @@
+id: battle-rider
+name: "Battle Rider"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Battle Rider is a light racing game published by Ravensburger in 1992 in which players race vehicles around a track using dice rolls, with combat or blocking elements allowing players to knock back opponents. The combination of racing and combat-light mechanics creates an interactive racing experience more engaging than pure movement games. Simple enough for family play, Battle Rider fits in the genre of accessible family games popular in the early 1990s. Documentation on this specific title is limited.
+
+upgrades: []

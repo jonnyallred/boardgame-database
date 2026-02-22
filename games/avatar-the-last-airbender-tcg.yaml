@@ -1,0 +1,50 @@
+id: avatar-the-last-airbender-tcg
+name: "Avatar: The Last Airbender Trading Card Game"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Fantasy
+
+evokes:
+  - Powerful
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Paramount Cards
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Avatar: The Last Airbender Trading Card Game is a collectible card game based on the Nickelodeon animated television series, published in 2006 to coincide with the show's peak popularity. Players build decks around characters from the four nations — Water, Earth, Fire, and Air — and compete in card-based combat recreating the elemental bending battles of the series. Cards represent characters like Aang, Katara, Zuko, and Toph, along with elemental attack and defense abilities. The game was produced for younger fans of the franchise and had a limited run before being discontinued.
+
+upgrades: []

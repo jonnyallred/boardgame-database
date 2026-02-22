@@ -1,0 +1,52 @@
+id: aztec
+name: "Aztec"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Ancient
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Agency
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Doris & Frank
+  - Rio Grande Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Aztec is a two-player abstract 3D stacking puzzle game designed by Reiner Knizia in which players take turns placing identical L-shaped blocks onto a growing pyramid structure. The challenge lies in the constraint that no block may ever rise above the third level, forcing players to think spatially about where blocks can legally be placed while denying the opponent good positions. The player who successfully places the last block at the third level wins. Its simple rules hide surprising depth, as the 3D structure creates emergent tactical puzzles with each placement.
+
+upgrades: []

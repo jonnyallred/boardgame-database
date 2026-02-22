@@ -1,0 +1,58 @@
+id: axis-and-allies-pacific
+name: "Axis & Allies: Pacific"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: "axis-and-allies"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Economic
+  - Resource Management
+  - Teams
+  - Wargame
+  - Historical
+  - War
+  - Maritime
+
+evokes:
+  - Powerful
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Larry Harris Jr.
+publisher:
+  - Avalon Hill
+  - Hasbro
+artist: []
+playtime_minutes: 300
+min_playtime: 180
+max_playtime: 480
+min_age: 12
+
+description: |
+  Axis & Allies: Pacific is a 2001 standalone game that transposes the Axis & Allies system to the Pacific theater of World War II, covering the conflict between Japan and the Allied powers — the United States, United Kingdom, Australia, and China — from 1942 onward. Naval dominance is central, as island-hopping campaigns and control of sea lanes shape the strategic contest. Japan starts with significant territorial advantages while the Allies must marshal industrial output to reclaim the Pacific. A companion to Axis & Allies: Europe, it can also be combined with that game for a global conflict experience.
+
+upgrades: []

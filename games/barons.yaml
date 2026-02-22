@@ -1,0 +1,53 @@
+id: barons
+name: "Barons"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Set Collection
+  - Euro
+  - Medieval
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Complete
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Marc Lanctôt
+publisher:
+  - Surprised Stare Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Barons is a light tile-placement area-control game designed by Marc Lanctôt and published by Surprised Stare Games in 2009. Players place landscape tiles to build a medieval realm and then place their baron tokens on completed regions to claim them, scoring points based on the size and features of the territories controlled. The game rewards spatial awareness and timing of when to claim regions versus when to expand them. Its quick play time, simple rules, and attractive tile-building make it a suitable gateway game for families moving into more strategic territory.
+
+upgrades: []

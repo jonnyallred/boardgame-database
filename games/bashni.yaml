@@ -1,0 +1,48 @@
+id: bashni
+name: "Bashni"
+alternate_names: ["Tower Checkers", "Column Checkers"]
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Bashni (Tower Checkers or Column Checkers) is a Russian variant of checkers in which captured pieces are not removed but instead placed under the capturing piece, forming towers. When a tower is captured, only the top piece is taken and placed under the capturing piece — the lower pieces remain in the tower. The game ends when one player captures all of their opponent's top pieces. The stacking mechanic dramatically changes strategy compared to standard checkers, as a player who is behind can recapture their own pieces by taking an enemy tower. Bashni has been played in Russia for centuries.
+
+upgrades: []

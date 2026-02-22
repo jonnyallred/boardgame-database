@@ -1,0 +1,51 @@
+id: batik
+name: "Batik"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Dexterity
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Thierry Denoual
+publisher:
+  - Gigamic
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Batik is a two-player abstract stacking game published by Gigamic in 1988, designed by Thierry Denoual. Players take turns choosing one of 28 uniquely shaped transparent plastic pieces and placing it into a vertical frame, watching as pieces stack up and create colorful patterns. The player who causes a piece to fall out the bottom of the frame loses. Strategy involves choosing pieces that will stack stably for yourself while creating precarious arrangements for your opponent. The transparent, colorful pieces create visually striking abstract patterns — evoking the Indonesian batik textile art form — making it as much a visual spectacle as a game.
+
+upgrades: []

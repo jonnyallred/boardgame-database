@@ -1,0 +1,50 @@
+id: barbie-queen-of-the-prom
+name: "Barbie Queen of the Prom"
+alternate_names: []
+year: 1960
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Historical
+
+evokes:
+  - Lucky
+  - Complete
+  - Connection
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Mattel
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Barbie Queen of the Prom is a 1960 Mattel board game designed to accompany the then-new Barbie doll, making it one of the earliest Barbie-branded games. Players draw cards and spin to collect a boyfriend, a prom dress, a club membership, and money, racing to be the first to assemble all four items and be declared "Queen of the Prom." The game reflects the cultural values of 1960s American girlhood and is now considered a pop culture artifact. As a game, it is entirely luck-based, but it holds significant historical value as an early piece of Barbie merchandise and mid-century game design.
+
+upgrades: []
