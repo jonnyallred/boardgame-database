@@ -1,0 +1,62 @@
+id: ascending-empires
+name: "Ascending Empires"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 4X
+  - Dexterity
+  - Area Control
+  - Tech Tree
+  - Modular Board
+  - Sci-Fi
+  - Space
+  - Z-Man Games
+
+evokes:
+  - Discovery
+  - Progress
+  - Rivalry
+  - Powerful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Ian Cooper
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  Ascending Empires is a 4X space exploration game with a distinctive dexterity mechanic
+  for starship movement — players physically flick their ships across the modular tile
+  board to move and engage in combat. Designed by Ian Cooper and published by Z-Man Games
+  in 2011, players colonize planets, build cities and research facilities, develop new
+  technologies, and construct fleets. The combination of strategic empire-building with
+  the kinetic, skill-based movement system creates a unique experience that blends classic
+  4X depth with a tactile, playful element not found in other civilization games.
+
+upgrades: []

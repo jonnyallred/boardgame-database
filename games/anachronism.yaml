@@ -1,0 +1,61 @@
+id: anachronism
+name: "Anachronism"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Historical
+  - Card Drafting
+  - Tableau Building
+
+evokes:
+  - Rivalry
+  - Masterful
+  - Tension
+  - Clever
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - TriKing Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Anachronism is a 2005 non-random collectible card game published by TriKing Games in partnership
+  with The History Channel, pitting legendary warriors from across history against each other in
+  one-on-one combat. Each player's "deck" consists of exactly five cards representing a chosen
+  warrior (such as Achilles, Spartacus, or Genghis Khan) and their support cards — no shuffling,
+  no random draws.
+
+  Unlike traditional CCGs, Anachronism removes luck of the draw entirely; players openly lay out
+  their five cards and make tactical decisions about which to use each turn. Warriors from different
+  eras and cultures clash in stylized historical combat, rewarding knowledge of each warrior's
+  strengths and clever card sequencing. The game won the 2005 Origins Award for Gamer's Choice
+  Best Collectible Card Game of the Year.
+
+upgrades: []

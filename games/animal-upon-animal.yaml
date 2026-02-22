@@ -1,0 +1,63 @@
+id: animal-upon-animal
+name: "Animal Upon Animal"
+alternate_names:
+  - "Tier auf Tier"
+year: 2005
+
+# Relationships
+game_family: animal-upon-animal
+edition: null
+base_game: null
+expansions:
+  - animal-upon-animal-balancing-bridge
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Party
+  - Animals
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Klaus Miltenberger
+publisher:
+  - HABA
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Animal Upon Animal is a beloved 2005 wooden stacking game by HABA, designed by Klaus Miltenberger
+  and targeted at families with young children. Players take turns rolling a die that dictates
+  how many of their wooden animals they must stack atop the growing pile of creatures — if the stack
+  collapses, the player collects extra animals to place later.
+
+  The game features 29 charmingly crafted wooden pieces including crocodiles, monkeys, toucans,
+  snakes, and hedgehogs, all made from PEFC-certified beech wood in Germany. The physical challenge
+  escalates with each placement as the precarious animal tower grows taller and more unstable.
+  It has sold over a million copies worldwide and remains one of HABA's most iconic titles,
+  praised for its universal appeal and beautiful craftsmanship.
+
+upgrades: []

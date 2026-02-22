@@ -1,0 +1,53 @@
+id: airships
+name: "Airships"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Engine Building
+  - Resource Management
+  - Steampunk
+  - Aviation
+
+evokes:
+  - Progress
+  - Lucky
+  - Clever
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Andreas Seyfarth
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  A light strategy game designed by Andreas Seyfarth and published by Queen Games in 2007, set in a steampunk world of competing airship entrepreneurs. Players roll dice to acquire resources and airships, then manage money, engineers, and components to build and upgrade their fleets. Engine-building mechanics allow upgrades to workshops and mechanics that improve dice results and resource acquisition. Airships scores points by launching completed airships, rewarding players who efficiently build up their production engine over the course of the game.
+
+upgrades: []

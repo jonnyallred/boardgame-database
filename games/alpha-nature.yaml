@@ -1,0 +1,55 @@
+id: alpha-nature
+name: "Alpha Nature"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Nature
+  - Trivia
+
+evokes:
+  - Discovery
+  - Lucky
+  - Connection
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Alpha Nature is a nature-themed educational board game in which players move around an
+  alphabet-structured board from A to Z, answering questions about the natural world at each
+  letter stop. The first player to advance through all 26 letters and reach Z wins the game.
+
+  The game combines alphabet learning with nature trivia, making it suitable as an early
+  childhood educational tool. It is a very obscure title with minimal published information
+  available; details about the designer and publisher are not widely documented.
+
+upgrades: []

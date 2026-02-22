@@ -1,0 +1,54 @@
+id: age-of-mythology-the-boardgame
+name: "Age of Mythology: The Boardgame"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Mythology
+  - Fantasy
+  - Ameritrash
+  - Variable Player Powers
+
+evokes:
+  - Powerful
+  - Agency
+  - Rivalry
+  - Progress
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Glenn Drover
+publisher:
+  - Eagle Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  A board game adaptation of the popular real-time strategy video game published by Eagle Games in 2003, for 2-4 players. Players lead civilizations from Greek, Norse, or Egyptian mythology through three ages using permanent and random action cards to manage resources, construct buildings, recruit units, and invoke god powers—represented by hundreds of miniatures. Players expand their territory through area control, build up their production engine, and call upon divine intervention to overcome rivals. The game captures the epic scale of the video game while translating it into a turn-based tabletop experience.
+
+upgrades: []

@@ -7498,3 +7498,135 @@ entries:
     game_id: adventurer
     url: "https://en.wikipedia.org/wiki/Adventurer_%28board_game%29"
     description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: aliens
+    url: "https://en.wikipedia.org/wiki/Aliens_the_Board_Game"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: aliens
+    url: "https://waynesbooks.games/2023/03/08/aliens-game-box-set-1989-play-the-colonial-marines-last-stand-on-lv-426/"
+    description: "Game information page — waynesbooks.games"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: ca-tactical-naval-warfare
+    url: "https://en.wikipedia.org/wiki/%27CA%27:_Tactical_Naval_Warfare_in_the_Pacific_1941-43"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: ca-tactical-naval-warfare
+    url: "https://www.amazon.com/SPI-Tactical-originally-published-game-only/dp/B00WJD8ERM"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: 1812-the-campaign-of-napoleon-in-russia
+    url: "https://en.wikipedia.org/wiki/1812:_The_Campaign_of_Napoleon_in_Russia"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: after-the-holocaust
+    url: "https://en.wikipedia.org/wiki/After_the_Holocaust_(game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: after-the-holocaust
+    url: "https://www.nobleknight.com/P/530622697/After-the-Holocaust"
+    description: "Game information page — nobleknight.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: agatha-christie-behind-the-screen
+    url: "https://en.wikipedia.org/wiki/Agatha_Christie:_Behind_the_Screen"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: agatha-christie-behind-the-screen
+    url: "https://www.nobleknight.com/P/2147763941/Agatha-Christie---Behind-the-Screen"
+    description: "Game information page — nobleknight.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: ambush
+    url: "https://en.wikipedia.org/wiki/Ambush!"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: ambush
+    url: "https://houseofslack.com/get-to-know-a-game-ambush/"
+    description: "Game information page — houseofslack.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: agatha-christie-death-on-the-cards
+    url: "https://modiphius.net/en-us/products/agatha-christie-presents-death-on-the-cards"
+    description: "Game information page — modiphius.net"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: agatha-christie-death-on-the-cards
+    url: "https://www.agathachristie.com/games/death-on-the-cards"
+    description: "Game information page — agathachristie.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: age-of-mythology-the-boardgame
+    url: "https://en.wikipedia.org/wiki/Age_of_Mythology:_The_Boardgame"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: age-of-mythology-the-boardgame
+    url: "https://www.alwaysboardneverboring.com/2013/06/age-of-mythology-board-game.html"
+    description: "Game information page — alwaysboardneverboring.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: agemonia
+    url: "https://agemonia.com/"
+    description: "Game information page — agemonia.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: agemonia
+    url: "https://en.lautapelit.fi/product/36830/"
+    description: "Game information page — en.lautapelit.fi"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: ahoy
+    url: "https://ledergames.com/products/ahoy"
+    description: "Game information page — ledergames.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: ahoy
+    url: "https://www.meeplemountain.com/reviews/ahoy/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: airlines-europe
+    url: "https://www.geekyhobbies.com/airlines-europe-board-game-review-and-rules/"
+    description: "Game information page — geekyhobbies.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: alien-frontiers
+    url: "https://troypress.com/roll-the-dice-on-alien-frontiers-for-retro-sci-fi-fun/"
+    description: "Game information page — troypress.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: alien-frontiers
+    url: "https://www.gamenerdz.com/alien-frontiers-5th-edition"
+    description: "Game information page — gamenerdz.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: aggravation
+    url: "https://en.wikipedia.org/wiki/Aggravation_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: aggravation
+    url: "https://www.meeplemountain.com/articles/back-in-the-day-aggravation/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: agricola-express
+    url: "https://en.wikipedia.org/wiki/Agricola_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: agricola-express
+    url: "https://en.wikipedia.org/wiki/Agricola_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: agricola-express
+    url: "https://mikkosgameblog.com/2021/12/uwe-rosenberg-farming-games/"
+    description: "Game information page — mikkosgameblog.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: age-of-discovery
+    url: "https://en.wikipedia.org/wiki/Glenn_Drover%27s_Empires:_The_Age_of_Discovery"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: age-of-discovery
+    url: "https://www.boardgamebliss.com/products/age-of-discovery"
+    description: "Game information page — boardgamebliss.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: arkham-horror-first-edition
+    url: "https://en.wikipedia.org/wiki/Arkham_Horror"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: age-of-discovery
+    url: "https://en.wikipedia.org/wiki/Glenn_Drover%27s_Empires:_The_Age_of_Discovery"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: age-of-discovery
+    url: "https://www.boardgamebliss.com/products/age-of-discovery"
+    description: "Game information page — boardgamebliss.com"
+  - timestamp: "2026-02-22T00:00:00Z"
+    game_id: arkham-horror-first-edition
+    url: "https://en.wikipedia.org/wiki/Arkham_Horror"
+    description: "Review or reference article — en.wikipedia.org"

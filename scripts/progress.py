@@ -6,9 +6,11 @@ games/ to show what's been researched and what's next. Source lists in
 sources/lists/ are used as enrichment for prioritization.
 
 Usage:
-    python3 scripts/progress.py        # stats + next 20 games
-    python3 scripts/progress.py 50     # stats + next 50 games
-    python3 scripts/progress.py 0      # stats only
+    python3 scripts/progress.py           # stats + next 20 games
+    python3 scripts/progress.py 50        # stats + next 50 games
+    python3 scripts/progress.py 0         # stats only
+    python3 scripts/progress.py --failed  # list entries with status=failed
+    python3 scripts/progress.py --skipped # list entries with status=skip
 """
 
 import csv
@@ -35,10 +37,14 @@ def slugify(name):
     return s.strip("-")
 
 
+EXCLUDED_STATUSES = {"skip", "failed", "ambiguous", "duplicate"}
+
+
 def load_master_list():
     """Load master_list.csv and return a dict keyed by lowercase name.
 
-    Returns: {lowercase_name: {"name": str, "year": str, "bgg_id": str}}
+    Returns: {lowercase_name: {"name": str, "year": str, "bgg_id": str,
+              "status": str, "notes": str, "yaml_id": str}}
     """
     games = {}
     if not os.path.isfile(MASTER_CSV):
@@ -52,6 +58,9 @@ def load_master_list():
                     "name": name,
                     "year": row.get("year", "") or "?",
                     "bgg_id": row.get("bgg_id", ""),
+                    "status": (row.get("status", "") or "").strip(),
+                    "notes": (row.get("notes", "") or "").strip(),
+                    "yaml_id": (row.get("yaml_id", "") or "").strip(),
                     "sources": [],
                 }
     return games
@@ -113,8 +122,17 @@ def load_existing():
 
 def main():
     show_count = 20
-    if len(sys.argv) > 1:
-        show_count = int(sys.argv[1])
+    filter_status = None
+
+    # Parse args
+    args = sys.argv[1:]
+    for arg in args:
+        if arg.startswith("--"):
+            filter_status = arg.lstrip("-")  # e.g. "failed", "skipped", "ambiguous"
+            if filter_status == "skipped":
+                filter_status = "skip"
+        else:
+            show_count = int(arg)
 
     master = load_master_list()
     total = len(master)
@@ -131,18 +149,34 @@ def main():
     for key, game in master.items():
         game["sources"] = enrichment.get(key, [])
 
-    # Partition into done vs remaining (match by name OR slug)
+    # Partition into done / excluded / remaining
     done = {}
+    excluded = {}  # entries with a non-empty status (skip, failed, etc.)
     remaining = {}
     for key, game in master.items():
-        if key in existing_names or slugify(game["name"]) in existing_slugs:
+        status = game["status"]
+        yaml_id = game["yaml_id"]
+
+        # Check yaml_id first (explicit mapping), then name/slug matching
+        if yaml_id and os.path.isfile(os.path.join(GAMES_DIR, f"{yaml_id}.yaml")):
             done[key] = game
+        elif key in existing_names or slugify(game["name"]) in existing_slugs:
+            done[key] = game
+        elif status in EXCLUDED_STATUSES:
+            excluded[key] = game
         else:
             remaining[key] = game
 
+    # Status breakdown among excluded entries
+    status_counts = {}
+    for game in excluded.values():
+        s = game["status"]
+        status_counts[s] = status_counts.get(s, 0) + 1
+
     # Orphans: game file slugs not matching any master list entry
     master_slugs = {slugify(g["name"]) for g in master.values()}
-    orphan_count = len(existing_slugs - master_slugs)
+    master_yaml_ids = {g["yaml_id"] for g in master.values() if g["yaml_id"]}
+    orphan_count = len(existing_slugs - master_slugs - master_yaml_ids)
 
     num_sources = len(glob.glob(os.path.join(LISTS_DIR, "*.yaml")))
 
@@ -153,8 +187,24 @@ def main():
         print(f"  ({orphan_count} not in master list)")
     print(f"Progress: {len(done)}/{total} ({pct:.1f}%)")
     print(f"Remaining: {len(remaining)}")
+    if excluded:
+        parts = [f"{v} {k}" for k, v in sorted(status_counts.items())]
+        print(f"Excluded: {len(excluded)} ({', '.join(parts)})")
     if num_sources:
         print(f"Source lists: {num_sources} files (used for prioritization)")
+
+    # If --<status> flag given, list those entries instead of the queue
+    if filter_status:
+        matches = {k: g for k, g in master.items() if g["status"] == filter_status}
+        if not matches:
+            print(f"\nNo entries with status '{filter_status}'")
+            return
+        print(f"\nEntries with status '{filter_status}' ({len(matches)}):")
+        print("-" * 70)
+        for key, g in sorted(matches.items(), key=lambda x: x[1]["name"].lower()):
+            notes = f"  -- {g['notes']}" if g["notes"] else ""
+            print(f"  {g['name']} ({g['year']}){notes}")
+        return
 
     if show_count > 0 and remaining:
         # Sort: most source-list nominations first, then alphabetically

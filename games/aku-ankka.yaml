@@ -1,0 +1,52 @@
+id: aku-ankka
+name: "Aku Ankka"
+alternate_names:
+  - "Donald Duck Board Game"
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Party
+  - Disney
+  - Deduction
+
+evokes:
+  - Discovery
+  - Humor
+  - Connection
+  - Lucky
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Tactic Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  A Finnish trivia board game published by Tactic Games in cooperation with the Finnish Donald Duck (Aku Ankka) magazine. Players travel through six decades representing the magazine's publishing history from the 1950s through the 2000s, answering trivia questions about Donald Duck comic stories to earn a magazine from each decade. The board centers on a "Time Machine" through which players must travel between decades. With a heavy focus on Carl Barks and Don Rosa stories, the game celebrates Finland's beloved Donald Duck comic tradition—the Finnish Aku Ankka is one of the most-read comics in the country.
+
+upgrades: []

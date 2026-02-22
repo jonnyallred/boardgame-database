@@ -1,0 +1,59 @@
+id: ant-wars
+name: "Ant Wars"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Animals
+  - Nature
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Jason McAllister Games
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  Ant Wars is a 1982 strategy board game published by Jason McAllister Games in which tribes of
+  ants battle each other for control of a backyard territory. Players manage colony expansion,
+  choosing between workers — essential for gathering food — and soldiers, who are three times as
+  powerful in combat but useless for foraging.
+
+  The core tension lies in balancing a mixed population of workers and soldiers, as over-militarizing
+  weakens food production while under-militarizing invites conquest. Reviewer Steve Jackson praised
+  the game's fun factor and strategic population management mechanics. It is an obscure but notable
+  early example of a colony-management wargame with an insect theme.
+
+upgrades: []

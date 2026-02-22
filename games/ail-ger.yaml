@@ -1,0 +1,48 @@
+id: ail-ger
+name: "Ail ger"
+alternate_names: []
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+
+evokes:
+  - Wonder
+  - Connection
+  - Creative
+  - Discovery
+  - Lucky
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 30
+min_age: 4
+
+description: |
+  A traditional Mongolian folk game played with stones, representing a nomadic family settlement in miniature. Players arrange small circles of stones to depict a yurt, with interior stones representing furniture and stones of varying colors and shapes outside representing livestock animals. Reflecting the nomadic herding lifestyle central to Mongolian culture, the game carries symbolic significance—travelers who come across such a stone arrangement traditionally add a stone to symbolize a new animal, bringing good luck to the household. Some arrangements are said to have been renewed by passersby for centuries, blending play with ritual.
+
+upgrades: []

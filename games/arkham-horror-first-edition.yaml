@@ -1,0 +1,62 @@
+id: arkham-horror-first-edition
+name: "Arkham Horror (First Edition)"
+alternate_names: ["Arkham Horror 1st Edition", "Arkham Horror (1987)"]
+year: 1987
+
+# Relationships
+game_family: arkham-horror
+edition: first
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Horror
+  - Cthulhu
+  - Modular Board
+  - Variable Setup
+  - Ameritrash
+
+evokes:
+  - Dread
+  - Discovery
+  - Tension
+  - Connection
+  - Mystery
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Richard Launius
+publisher:
+  - Chaosium
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Arkham Horror (First Edition) is the original cooperative Lovecraftian adventure game
+  designed by Richard Launius and published by Chaosium in 1987, winning the Origins Award
+  for Best Fantasy or Science Fiction Boardgame of 1987. Set in H.P. Lovecraft's fictional
+  Massachusetts town of Arkham in 1926, investigators travel through the city fighting
+  monsters, closing interdimensional gates, and gathering equipment to prevent an Ancient
+  One from entering the world. The first edition features a board map, 99 event cards,
+  50 monster counters, and 8 investigator characters, laying the foundation for the
+  beloved Arkham Horror franchise that would later be expanded by Fantasy Flight Games.
+
+upgrades: []

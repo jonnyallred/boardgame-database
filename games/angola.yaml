@@ -1,0 +1,63 @@
+id: angola
+name: "Angola"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Asymmetric
+  - Card Drafting
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer: []
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Angola is a 1988 four-player wargame depicting the Angolan Civil War of 1975-1976, in which
+  players control the Soviet- and US-backed factions — MPLA, FNLA, UNITA, and South African/Cuban
+  intervening forces — as they compete for control of newly independent Angola. The game uses a
+  hex grid map, counters, and two decks of event cards to simulate the chaotic multi-faction
+  conflict.
+
+  Its innovative use of dual-use event cards, asymmetric faction abilities, and overlapping victory
+  conditions prefigured many later designs. The COIN series creator Volko Ruhnke has cited Angola
+  as a direct influence. A second edition published by Multi-Man Publishing in 2012 was a finalist
+  for the Charles S. Roberts Award. It remains a landmark in politically complex, multi-sided
+  wargame design.
+
+upgrades: []

@@ -1,0 +1,63 @@
+id: asia-engulfed
+name: "Asia Engulfed"
+alternate_names: ["Asia Engulfed: The Second World War in Asia, 1941-1945"]
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Asymmetric
+
+evokes:
+  - Powerful
+  - Agency
+  - Masterful
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3]
+true_counts: [2]
+
+designer:
+  - Rick Young
+  - Jesse Evans
+publisher:
+  - GMT Games
+artist:
+  - Rodger B. MacGowan
+  - Mark Simonitch
+playtime_minutes: 450
+min_playtime: 360
+max_playtime: 540
+min_age: 16
+
+description: |
+  Asia Engulfed: The Second World War in Asia, 1941-1945 is a strategic block wargame
+  designed by Rick Young and Jesse Evans, published by GMT Games in 2007. Using a block
+  system where all land units are hidden from opponents until combat, the game simulates
+  the Pacific Theater of World War II from Japan's attack on Pearl Harbor to the final
+  Allied victory. The naval rules system adds significant depth alongside the land combat
+  mechanics derived from Europe Engulfed, and the Japanese resource limitation system
+  realistically portrays the difficulty of supplying overextended forces. Playable in
+  6-9 hours once familiar with the rules, it rewards deep strategic planning.
+
+upgrades: []

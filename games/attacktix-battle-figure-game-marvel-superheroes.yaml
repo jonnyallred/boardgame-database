@@ -1,0 +1,58 @@
+id: attacktix-battle-figure-game-marvel-superheroes
+name: "Attacktix Battle Figure Game Marvel Superheroes"
+alternate_names: ["Attacktix: Marvel"]
+year: 2006
+
+# Relationships
+game_family: attacktix
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Superheroes
+  - Marvel
+  - Take That
+
+evokes:
+  - Powerful
+  - Lucky
+  - Rivalry
+  - Humor
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Attacktix Battle Figure Game: Marvel Superheroes is a collectible dexterity miniatures
+  game published by Hasbro in 2006, featuring Marvel Comics characters. Players field
+  teams of spring-loaded action figures — each with projectile launchers or swinging
+  close combat mechanisms — and the goal is to physically knock down the opponent's
+  figures. Figures come on bases bearing each character's speed, defense, point value,
+  and special powers. No dice or boards are required; the figures themselves are the
+  game components. The game was part of a broader Attacktix franchise covering Marvel,
+  Star Wars, and Transformers licenses.
+
+upgrades: []

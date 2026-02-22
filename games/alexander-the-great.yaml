@@ -1,0 +1,53 @@
+id: alexander-the-great
+name: "Alexander the Great"
+alternate_names: []
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Ancient
+  - Hex Map
+
+evokes:
+  - Agency
+  - Powerful
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Gary Gygax
+publisher:
+  - Guidon Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  A two-player hex-and-counter wargame first published by Guidon Games in 1971, designed by Gary Gygax before he co-founded TSR, simulating the Battle of Arbela (Gaugamela) in 331 BCE. The game pits Alexander's Macedonian army against Darius III's Persian forces in one of antiquity's most decisive engagements. A 1972 supplement, Alexander's Other Battles, added scenarios for Granicus, Issus, and the Hydaspes. An influential early wargame that helped define the hex-and-counter genre, later republished by Avalon Hill in 1974.
+
+upgrades: []

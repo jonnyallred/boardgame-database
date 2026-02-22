@@ -1,0 +1,53 @@
+id: alien-space-battle-manual
+name: "Alien Space Battle Manual"
+alternate_names:
+  - "Alien Space"
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Sci-Fi
+  - Space
+  - Wargame
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Lou Zocchi
+publisher:
+  - Gamescience
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  A two-player tabletop spaceship combat game published by Gamescience in 1973, designed by Lou Zocchi as a revision of an earlier Star Trek-themed game. Each player chooses one of eight different ships, each with a secret weapon unknown to the opponent until revealed in play. There is no board or map—the game is played with models on an open floor area, emphasizing three-dimensional spatial reasoning. Notably, the game involves no dice rolling, relying entirely on skill and decision-making. A foundational miniatures-inspired space combat design notable for its purity of skill over chance.
+
+upgrades: []

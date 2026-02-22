@@ -1,0 +1,62 @@
+id: amoeba-wars
+name: "Amoeba Wars"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Sci-Fi
+  - Space
+  - Wargame
+  - Dudes on a Map
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer: []
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 150
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Amoeba Wars is a 1981 science fiction area control game published by Avalon Hill, set in a
+  galactic empire fallen to civil war and alien infestation. Players direct fleets of ships to
+  capture solar systems, push back rampaging amoeba creatures and renegade doomsday machines —
+  relics of the old empire — while racing to retake Saestor, the former capital at the center of
+  the board.
+
+  The game blends elements of Risk-style territorial conquest with Cosmic Encounter-inspired chaos,
+  as the neutral amoeba threat complicates every player's plans. Reviewers noted its mix of
+  strategic fleet management and unpredictable monster behavior, creating a tense multi-front
+  conflict. Amoeba Wars occupies a notable place in early sci-fi wargame history as an Avalon Hill
+  entry into the space conquest genre.
+
+upgrades: []

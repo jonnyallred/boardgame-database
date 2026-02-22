@@ -1,0 +1,57 @@
+id: ants-in-the-pants
+name: "Ants in the Pants"
+alternate_names: []
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Real-time
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Schaper
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 3
+
+description: |
+  Ants in the Pants is a 1969 children's dexterity game originally published by Schaper (now Hasbro),
+  in which players press on the backs of plastic ant pieces to launch them through the air and into
+  a pair of plastic pants at the center of the table. The speed and angle of the finger release
+  determines how far and high the ant flies.
+
+  The first player to successfully land all four of their ants in the pants wins. Simple enough for
+  toddlers yet chaotic enough to entertain family groups, the game has been a perennial classic in
+  children's game collections for over 50 years, with Hasbro continuing to publish updated editions.
+
+upgrades: []

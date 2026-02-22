@@ -1,0 +1,56 @@
+id: arena-of-death
+name: "Arena of Death"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Action Points
+  - Dice Rolling
+
+evokes:
+  - Powerful
+  - Tension
+  - Rivalry
+  - Agency
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - SPI (Simulations Publications, Inc.)
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 12
+
+description: |
+  Arena of Death is a fantasy combat board game published by Simulations Publications, Inc.
+  (SPI) in 1980, originally appearing in Ares Magazine issue #4. Set in the fantasy world
+  of DragonQuest, players pit heroic combatants against each other in gladiatorial arena
+  combat. The game features tactical individual-scale combat with character abilities
+  and equipment choices, capturing the brutality of arena combat in a tight, manageable
+  ruleset suitable for quick head-to-head play.
+
+upgrades: []

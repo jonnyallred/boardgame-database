@@ -1,0 +1,50 @@
+id: 7-w-obronie-lwowa
+name: "7. W obronie Lwowa"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Historical
+  - Wargame
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Discovery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Instytut Pamięci Narodowej
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  A Polish historical educational board game published by the Institute of National Remembrance (IPN) in 2015, set during the Polish-Soviet War of 1920. Players recreate the 7th Fighter Squadron's mission to stop the 1st Red Cavalry Army from reaching Lviv. The game offers two variants: a simplified version for children aged 8 and up and an advanced version for adults, covering the cavalry's advance across the Bug River and three Polish aircraft attempting to intercept. Designed to commemorate a little-known episode of Polish military history during the Battle of Lwów.
+
+upgrades: []

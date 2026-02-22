@@ -1,0 +1,52 @@
+id: air-war
+name: "Air War"
+alternate_names:
+  - "Air War: Modern Tactical Air Combat"
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Aviation
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Simulations Publications Inc.
+artist: []
+playtime_minutes: 300
+min_playtime: 180
+max_playtime: 480
+min_age: 16
+
+description: |
+  An ultra-complex modern tactical air combat simulation published by SPI in 1977, rated at maximum complexity (100%) on the box. Each turn represents 2.5 seconds of real time, and players must essentially "fly" their aircraft, managing speed, altitude, turning stress, energy management, and weapons systems for 1970s-era jet fighters. The game contains ten scenarios and demands mastery of advanced aeronautical concepts to play effectively. A finalist for Best Tactical Game at the 1978 Origins Awards, Air War remains one of the most technically demanding wargames ever published.
+
+upgrades: []

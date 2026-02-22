@@ -1,0 +1,64 @@
+id: artus
+name: "Artus"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Area Control
+  - Abstract
+  - Medieval
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Michael Kiesling
+  - Wolfgang Kramer
+publisher:
+  - alea
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 9
+
+description: |
+  Artus is a hand management and area influence game by the acclaimed design duo of
+  Michael Kiesling and Wolfgang Kramer, published by alea in 2011. Set in the legend
+  of King Arthur's court, players lead groups of knights competing for prestige at the
+  Round Table. Each player holds six cards — knight, royalty, and scoring types — and
+  plays two per turn to place or move colored figures around the table or score areas.
+  The combination of simultaneous hand management and spatial positioning creates subtle
+  tactical depth within an accessible ruleset, earning Golden Geek nominations for
+  Best Abstract Board Game.
+
+upgrades: []

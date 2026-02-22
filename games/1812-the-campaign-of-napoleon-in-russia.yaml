@@ -1,0 +1,54 @@
+id: 1812-the-campaign-of-napoleon-in-russia
+name: "1812: The Campaign of Napoleon in Russia"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Phil Orbanes
+  - John Young
+publisher:
+  - Simulations Publications Inc.
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  A collection of two board wargames published by SPI in 1972 simulating Napoleon's disastrous invasion of Russia. One game uses a traditional hex grid map at corps/division level across nineteen turns from late June to December, while the other uses an innovative area movement system with large zones. The hex game includes three scenarios covering Borodino, the October retreat, and the full campaign. Highly regarded for its scope and ambition, Nick Palmer called it "one of the most ambitious projects from SPI."
+
+upgrades: []

@@ -1,0 +1,62 @@
+id: asteroid
+name: "Asteroid"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative-ish)
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Sci-Fi
+  - Space
+  - Action Points
+  - Variable Player Powers
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Discovery
+  - Connection
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Marc Miller
+  - Frank Chadwick
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Asteroid is a 1980 science fiction board game published by Game Designers' Workshop
+  (GDW) as part of their Series 120 line (games playable in under two hours). Designed
+  by Marc Miller and Frank Chadwick, players must destroy a mad scientist's computer-
+  controlled asteroid before it crashes into Earth. Adventurers with unique abilities
+  including combat prowess, computer hacking, demolition expertise, stealth, psychic
+  powers, and luck infiltrate the mining station to disable its systems and escape before
+  self-destruction. A modular board represents the interior of the asteroid, blending
+  wargaming and pulp adventure in a compact package. A second edition with new cover art
+  was published in 1983.
+
+upgrades: []

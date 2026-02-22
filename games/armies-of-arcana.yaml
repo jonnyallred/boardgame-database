@@ -1,0 +1,59 @@
+id: armies-of-arcana
+name: "Armies of Arcana"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Asymmetric
+  - Variable Player Powers
+  - Dudes on a Map
+
+evokes:
+  - Powerful
+  - Agency
+  - Masterful
+  - Rivalry
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Thane Morgan
+publisher:
+  - Thane's Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Armies of Arcana is a fantasy miniature wargame ruleset designed by Thane Morgan,
+  originally published in 2002 with multiple subsequent editions. The game supports
+  16 core armies including elves, dwarves, orcs, and various human factions, each
+  with distinct tactical profiles. A distinctive feature is the ability for all units
+  to adopt either skirmish or rank-and-file formations and switch between them during
+  play. Turn structure is divided into movement, shooting, magic, combat, and morale
+  phases, and the system accommodates both 28mm and 15mm miniatures scales.
+
+upgrades: []

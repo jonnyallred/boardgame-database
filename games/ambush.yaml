@@ -1,0 +1,64 @@
+id: ambush
+name: "Ambush!"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 0  # Solitary (solitaire design)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Narrative Heavy
+  - Historical
+  - War
+  - Puzzle Solving
+
+evokes:
+  - Tension
+  - Agency
+  - Dread
+  - Masterful
+  - Discovery
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Eric Lee Smith
+  - John Butterfield
+publisher:
+  - Victory Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Ambush! is a groundbreaking 1983 solitaire wargame published by Victory Games (a subsidiary of
+  Avalon Hill), set during World War II in France. The player commands a small American squad through
+  a series of missions against a hidden German foe, whose actions are determined entirely by a
+  "paragraph book" — a system of tables and narrative paragraphs that simulate enemy intelligence
+  without requiring a human opponent.
+
+  This programmed-paragraph solitaire system was revolutionary for wargaming at the time, allowing
+  deeply tactical man-to-man combat to be experienced alone. Players manage movement, line of sight,
+  and squad cohesion on hex-grid maps while the paragraph system delivers surprising enemy responses.
+  Ambush! won the Origins Award for Best 20th Century Boardgame of 1983 and spawned multiple
+  expansions, remaining a landmark in solo wargaming design.
+
+upgrades: []

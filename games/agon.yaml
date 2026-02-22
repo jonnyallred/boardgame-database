@@ -1,0 +1,51 @@
+id: agon
+name: "Agon"
+alternate_names:
+  - "Queen's Guard"
+  - "Agon: Game of the Hexagons"
+year: 1842
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Racing
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Thos Sherwin
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Agon is a two-player abstract strategy game first published in London in 1842, making it the oldest known board game played on a hexagonal grid. Played on a hexagonal board of 91 hexagonal spaces, each player controls one queen and six guards, with the objective of maneuvering the queen to the center of the board, surrounded by her six guards. Pieces move one space per turn, restricted to directions toward the center, and players must capture opponents' guards by surrounding them. A historically significant abstract game of positional strategy that influenced later hexagonal game design.
+
+upgrades: []

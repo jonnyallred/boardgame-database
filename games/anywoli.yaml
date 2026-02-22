@@ -1,0 +1,59 @@
+id: anywoli
+name: "Anywoli"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Historical
+  - Ancient
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Anywoli is a traditional mancala game played by the Anuak people of Ethiopia's Gambela province
+  and neighboring regions of Sudan. The name means "bringing to life" or "giving birth." First
+  documented by Richard Pankhurst in 1971, the game is played on a board of two rows of twelve
+  holes each, with four seeds placed in every hole at the start.
+
+  Players take turns sowing all seeds from a chosen hole counterclockwise around the board. A
+  capture occurs whenever a hole accumulates exactly four seeds — those seeds are removed by the
+  hole's owner. The game shares structural similarities with Nigerian and Ghanaian mancalas such
+  as Ba-awa and Obridjie, reflecting the broad family of African count-and-capture games. It is
+  a traditional game with no commercial publisher.
+
+upgrades: []

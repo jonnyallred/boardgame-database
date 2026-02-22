@@ -1,0 +1,55 @@
+id: agatha-christie-death-on-the-cards
+name: "Agatha Christie: Death on the Cards"
+alternate_names:
+  - "Agatha Christie's Death on the Cards"
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Bluffing
+  - Traitor
+  - Mystery
+  - Family
+  - Hand Management
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Persuasion
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Tomas Rawlings
+publisher:
+  - Modiphius Entertainment
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+description: |
+  A fast-paced card game of mystery, bluffing, and deduction for 2-6 players, published by Modiphius Entertainment in 2018. Players must cooperate to unmask a murderer and prevent their escape, but each player harbors dark secrets and the murderer is secretly working against the group. Using hidden traitor mechanics, players balance revealing enough to catch the killer while concealing their own suspicious activities. Based on Agatha Christie's classic mystery setting, the game plays in under 30 minutes and is accessible for younger mystery fans.
+
+upgrades: []

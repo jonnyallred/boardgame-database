@@ -1,0 +1,60 @@
+id: arena-roma-ii
+name: "Arena: Roma II"
+alternate_names: ["Arena Roma II"]
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Hand Management
+  - Action Points
+  - Take That
+  - Euro
+  - Ancient
+  - Stefan Feld
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 35
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+description: |
+  Arena: Roma II is a two-player tactical card-and-dice game by Stefan Feld set in ancient
+  Rome. Players use dice for action points to play cards representing Roman citizens and
+  soldiers, competing to control the Roman forum and maximize prestige. The game is a
+  complete standalone but can be combined with cards from the original Roma. It rewards
+  hand management and opportunistic play with its tight dice action system, making it
+  an excellent filler game for two players who enjoy tense, quick competition.
+
+upgrades: []

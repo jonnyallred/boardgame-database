@@ -1,0 +1,55 @@
+id: age-of-napoleon
+name: "Age of Napoleon"
+alternate_names:
+  - "Age of Napoleon 1805-1815"
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Area Control
+  - Dice Rolling
+
+evokes:
+  - Agency
+  - Masterful
+  - Powerful
+  - Tension
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Renaud Verlaque
+publisher:
+  - Phalanx Games
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  A two-player historical wargame of the Napoleonic Wars covering the period 1805-1815, published by Mayfair Games and Phalanx Games in 2003. One player commands the First French Empire and its allies while the other controls the Coalition led by Great Britain, with diplomacy playing a key role alongside military campaigns. Three scenario starting points are available: 1805, 1809, and 1813, each reflecting historical alignments. The game incorporates area movement, card-driven mechanics, and dice combat to recreate the sweeping campaigns of the Napoleonic era at a strategic level.
+
+upgrades: []

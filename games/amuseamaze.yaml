@@ -1,0 +1,59 @@
+id: amuseamaze
+name: "AmuseAmaze"
+alternate_names:
+  - "Amuse Amaze"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Modular Board
+  - Racing
+  - Party
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Discovery
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  AmuseAmaze is a 2007 word-race game set on a letter maze board, recognized as a Top 10 New Game
+  at Toy Fair 2007. Players move pawns through an 18-part modular board — providing over 6 billion
+  possible configurations — spelling words by tracing paths through adjacent letters printed on the
+  board and on letter tiles.
+
+  The race element adds urgency: players compete to navigate the hedge maze while forming valid
+  words, combining spatial pathfinding with vocabulary skills. The massive number of board
+  combinations ensures high replayability in a compact, family-friendly package.
+
+upgrades: []

@@ -1,0 +1,62 @@
+id: attack
+name: "Attack!"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Negotiation
+  - Historical
+  - War
+  - Dudes on a Map
+  - Eagle-Gryphon Games
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Agency
+  - Tension
+  - Persuasion
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Glenn Drover
+publisher:
+  - Eagle Games
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Attack! is a light wargame designed by Glenn Drover and published by Eagle Games in
+  2003, winning the Origins Award for Best Historical Board Game. Set loosely in the
+  1930s, the game occupies a complexity sweet spot between Risk and Axis and Allies,
+  featuring plastic tanks, planes, infantry, and artillery. Players expand their empires
+  through either diplomacy or military conquest, starting with a few regions and growing
+  their sphere of influence. The simple, accessible rules and emphasis on flavor over
+  historical simulation make it an inviting introduction to the WWII-era wargame genre.
+
+upgrades: []

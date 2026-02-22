@@ -1,0 +1,59 @@
+id: almirante
+name: "Almirante"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Maritime
+  - Abstract
+
+evokes:
+  - Rivalry
+  - Agency
+  - Tension
+  - Powerful
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - João Cavaco
+publisher:
+  - Jogos Almirante
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Almirante is a Portuguese naval strategy game designed by João Cavaco and published by Jogos
+  Almirante Lda., a company founded in 2014. Two to six players take the role of admirals
+  (almirantes) building and navigating fleets to dominate the geostrategic center of a shared
+  ocean board.
+
+  The game revolves around fleet building and positioning to control the center of the seas,
+  combining tactical naval movement with territorial dominance. It is a relatively obscure
+  Portuguese-origin title with limited international distribution, notable as an example of
+  the growing independent board game design scene in Portugal.
+
+upgrades: []

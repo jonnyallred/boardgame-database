@@ -1,0 +1,64 @@
+id: android
+name: "Android"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Narrative Heavy
+  - Variable Player Powers
+  - Sci-Fi
+  - Mystery
+  - Fantasy Flight Games
+
+evokes:
+  - Mystery
+  - Tension
+  - Discovery
+  - Agency
+  - Unique
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Kevin Wilson
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Android is a 2008 narrative mystery board game by Fantasy Flight Games, set in a near-future
+  dystopia where androids and clones coexist with humanity. Three to five players each take the
+  role of a detective investigating a murder across the twin cities of New Angeles and Heinlein,
+  a Moon colony, accumulating evidence, following leads, and managing their investigator's personal
+  subplot simultaneously.
+
+  Victory points are earned through solving the murder, unraveling a conspiracy, and resolving
+  each character's deeply personal story arc — creating a layered, cinematic experience. Characters
+  have unique abilities and psychological traits that affect gameplay, and each session builds a
+  different narrative. Android established the lore that later spawned Android: Netrunner and
+  the entire Android universe of games.
+
+upgrades: []

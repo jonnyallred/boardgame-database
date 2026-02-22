@@ -1,0 +1,62 @@
+id: antler-island
+name: "Antler Island"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Set Collection
+  - Family
+  - Animals
+  - Nature
+
+evokes:
+  - Rivalry
+  - Humor
+  - Clever
+  - Tension
+  - Agency
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Gordon Lamont
+  - Fraser Lamont
+publisher:
+  - Fragor Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Antler Island is a 2007 family strategy game by Gordon and Fraser Lamont, published by Fragor
+  Games, themed around the stag rut on a Scottish island. Three to four players each control a
+  stag competing for food, fighting opportunities, and mates across the island's territories.
+
+  The game balances medium-light strategy with accessible rules, offering a quick-start guide for
+  easy first plays while providing meaningful decisions for experienced gamers. The unusual theme
+  — stags competing in the annual rut — lends the game its distinctive humor and charm, and it
+  rewards both tactical fighting and resource management. It was well-received as a unique
+  mid-weight family game from a small Scottish publisher.
+
+upgrades: []

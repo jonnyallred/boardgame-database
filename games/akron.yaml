@@ -1,0 +1,48 @@
+id: akron
+name: "Akron"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Akron is a two-player abstract connection game played with cascading balls on a specially designed board. Players take turns placing or moving balls, with the distinctive mechanic of pieces stacking in three dimensions—balls can cascade and roll into new positions when others are placed above them. The goal is to create a connected path of your color from one side of the board to the other. The three-dimensional stacking and cascade mechanics create surprising emergent complexity from simple rules, making Akron a novel entry in the connection game genre.
+
+upgrades: []

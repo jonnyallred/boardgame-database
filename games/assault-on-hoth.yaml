@@ -1,0 +1,58 @@
+id: assault-on-hoth
+name: "Assault on Hoth: The Empire Strikes Back"
+alternate_names: ["Star Wars: Assault on Hoth"]
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - 1 vs Many
+  - Sci-Fi
+  - Asymmetric
+
+evokes:
+  - Tension
+  - Powerful
+  - Agency
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Paul Murphy
+publisher:
+  - West End Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Assault on Hoth: The Empire Strikes Back is a two-player strategic board game designed
+  by Paul Murphy and published by West End Games in 1988, recreating the Battle of Hoth
+  from Star Wars Episode V. One player commands the Imperial forces under AT-AT walkers
+  as they advance on the Rebel base, while the other controls the Rebel defenders attempting
+  to hold long enough to evacuate. One of the first products West End Games released under
+  their newly acquired Star Wars license, the game captures the asymmetric nature of the
+  screen battle with mechanically distinct sides and objectives.
+
+upgrades: []

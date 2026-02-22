@@ -1,0 +1,59 @@
+id: alkkagi
+name: "Alkkagi"
+alternate_names:
+  - "알까기"
+  - "Tanqi"
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Dexterity
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Lucky
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 5
+
+description: |
+  Alkkagi is a traditional Korean two-player abstract game in which players flick stones across a
+  board, trying to knock their opponent's pieces off the edge while keeping their own on the surface.
+  Each player starts with an equal number of stones (typically 5 or 7) arranged on their side of the
+  board, alternating turns to flick one stone in any direction.
+
+  The game rewards precision and strategic targeting — a skilled player can knock multiple opponent
+  stones off with a single well-aimed shot (iltaipi), or cleverly position pieces to block opponents.
+  Variants of the game appear in Chinese historical records as Tanqi, traced back to the Han dynasty.
+  Alkkagi combines elements of dexterity, spatial reasoning, and tactical positioning in a simple yet
+  deeply engaging format that has been played in Korea for centuries.
+
+upgrades: []

@@ -1,0 +1,63 @@
+id: animouv
+name: "Animouv"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Deduction
+  - Family
+  - Animals
+
+evokes:
+  - Clever
+  - Mystery
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Martin Nedergaard Andersen
+publisher:
+  - Djeco
+artist:
+  - Philip Giordano
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Animouv is a 2016 abstract strategy game published by Djeco, designed by Martin Nedergaard
+  Andersen and illustrated by Philip Giordano. Players share a single board populated with
+  colorful animal tokens and secretly hold an objective card showing three animals that must
+  be aligned horizontally, vertically, or diagonally to win.
+
+  On each turn, a player moves any animal one space, advancing their own secret alignment while
+  trying to disrupt what they suspect opponents are building. The shared board and hidden goals
+  create a puzzle of deduction and misdirection: every move must be evaluated for how it helps
+  your objective without revealing it. The game's colorful animal artwork and accessible rules
+  make it an elegant family abstract.
+
+upgrades: []

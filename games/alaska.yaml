@@ -1,0 +1,52 @@
+id: alaska
+name: "Alaska"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Abstract
+  - Family
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Eric Solomon
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 8
+
+description: |
+  A tile placement game published by Ravensburger in 1979, designed by Eric Solomon, in which 2-4 players race to recover supply containers from a central island before the spring thaw. The game unfolds in two phases: winter, where players lay ice blocks on a hex grid to create pathways, and spring, where the melting ice is removed to allow movement and retrieval. Players must brave polar bears, frostbite, and the changing seasons to return their containers to their depots first. A clever seasonal dual-phase structure distinguishes this family abstract game.
+
+upgrades: []

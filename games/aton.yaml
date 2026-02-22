@@ -1,0 +1,61 @@
+id: aton
+name: "Aton"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Simultaneous Action
+  - Abstract
+  - Ancient
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Thorsten Gimmler
+publisher:
+  - UberPlay Games
+  - Queen Games
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 48
+min_age: 10
+
+description: |
+  Aton is a two-player abstract area control game designed by Thorsten Gimmler and
+  published by UberPlay and Queen Games, set in ancient Egypt where each player serves
+  as high priest of rival deities — Aton and Amon. Players simultaneously manage hands
+  of cards to place priests and control temples across the board, with scoring triggered
+  by special scoring cards. The combination of hand management, simultaneous play, and
+  spatial control creates a tense and intellectually demanding duel game. With 72 cards,
+  a game board, and 58 priest counters, it delivers substantial strategic depth in a
+  lean, accessible package.
+
+upgrades: []

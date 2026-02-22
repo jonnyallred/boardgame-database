@@ -1,0 +1,57 @@
+id: ashtapada
+name: "Ashtapada"
+alternate_names: ["Ashtāpada"]
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Abstract
+  - Historical
+  - Ancient
+
+evokes:
+  - Lucky
+  - Mystery
+  - Discovery
+  - Agency
+  - Progress
+
+possible_counts: [2, 4]
+true_counts: [2, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Ashtapada is one of the oldest known board games, played in India as early as the
+  5th or 6th century BC on an 8x8 grid that predates and likely influenced the development
+  of chess. The board features special marked squares called "castles" where pieces are
+  safe from capture. Players use cowrie shells as dice and move pieces clockwise around
+  the board, seeking to enter and exit the central castle. The game's exact rules are
+  only partially reconstructed from historical sources, as it was condemned in early
+  Brahman texts and gradually fell out of widespread practice. It is considered the
+  direct ancestor of Chaturanga, which itself became chess.
+
+upgrades: []

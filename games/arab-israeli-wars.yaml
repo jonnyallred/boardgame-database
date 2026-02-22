@@ -1,0 +1,64 @@
+id: arab-israeli-wars
+name: "Arab-Israeli Wars"
+alternate_names:
+  - "The Arab-Israeli Wars: Tank Battles in the Mideast"
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Russell Vane
+  - Seth Carus
+publisher:
+  - Avalon Hill
+artist:
+  - Randall C. Reed
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  The Arab-Israeli Wars: Tank Battles in the Mideast is a 1977 tactical wargame published by
+  Avalon Hill that recreates armored engagements from the Suez Crisis (1956), Six-Day War (1967),
+  and Yom Kippur War (1973). Designed by Russell Vane and Seth Carus as an expanded variant of
+  Avalon Hill's PanzerBlitz rules, the game uses four geomorphic hex-grid maps at 250 meters per
+  hex and includes 24 historical scenarios.
+
+  Special rules cover roadblocks, minefields, electronic warfare, bore-sighting, and firing while
+  moving, reflecting the modern combined-arms combat of the Middle East conflicts. The geomorphic
+  map system allows varied terrain setups across scenarios. It remains a touchstone of modern-era
+  tactical wargaming and introduced many players to the complexity of post-WWII armored warfare.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: ants
+name: "Ants"
+alternate_names: ["Ants!"]
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Route Building
+  - Family
+  - Animals
+  - Nature
+
+evokes:
+  - Rivalry
+  - Progress
+  - Agency
+  - Tension
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Calvin Innes
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Ants is a board game in which players control rival ant colonies competing for dominance
+  in a garden. Players expand their ant trails using area movement and network building
+  mechanics, battling rival insects and harvesting food to strengthen their colony.
+  The game blends simple dice-rolling with territory control, making it accessible
+  for family audiences while offering enough strategic choice to engage older players.
+
+upgrades: []

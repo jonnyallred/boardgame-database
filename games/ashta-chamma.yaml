@@ -1,0 +1,57 @@
+id: ashta-chamma
+name: "Ashta Chamma"
+alternate_names: ["Chowka Bhara", "Chowka Bara", "Katta Mane", "Taayam"]
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Historical
+  - Ancient
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Progress
+  - Agency
+
+possible_counts: [2, 4]
+true_counts: [4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 60
+min_age: 6
+
+description: |
+  Ashta Chamma, also known as Chowka Bhara or Chowka Bara, is an ancient Indian racing
+  board game played for centuries across South India. Controlled by throwing four cowry
+  shells, players move pieces around a 5x5 board, with the shell outcomes of "ashta"
+  (all inverted = 8) and "chamma" (all upright = 4) granting extra turns. Players race
+  to bring all pieces to the center while capturing opponents' pieces, which sends them
+  back to start. The game has references in ancient Indian epics including the Mahabharata
+  and is considered one of the oldest racing games still played today.
+
+upgrades: []

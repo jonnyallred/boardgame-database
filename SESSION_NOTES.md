@@ -242,12 +242,34 @@ Full rating system implemented:
 
 ---
 
+## Session 8 - SQLite Database
+
+**Date:** February 21, 2026
+
+### What Was Accomplished
+
+- **Built `scripts/build_db.py`** — reads all `games/*.yaml` and produces a normalized SQLite database (`games.db`)
+  - Normalized schema: `games` table (scalars) + 11 array/nested tables with foreign keys
+  - Indexes on categories, evokes, designers, year, and all rating columns
+  - Idempotent: drops and recreates all tables on each run
+  - Summary output: `540 games, 4512 categories, 2700 evokes, 781 designers, 662 publishers, 482 artists`
+- **Updated `.gitignore`** — `games.db` is a derived artifact, not committed
+- **Updated documentation** — CLAUDE.md (key stats, query examples, tooling) and TODO.md
+
+### Architecture Notes
+- YAML remains the source of truth; `games.db` is a read cache rebuilt on demand
+- Enables SQL queries that were previously impossible without parsing all 540 YAML files
+- Designed to power a future Node.js web frontend
+
+---
+
 ## File Counts
 
 Run `python3 scripts/progress.py 0` for live stats. Snapshot as of February 2026:
 
 - `sources/lists/*.yaml`: 20 source list files (348 unique games)
-- `games/*.yaml`: 168 detailed entries (140 matched to source lists + 47 orphans)
+- `games/*.yaml`: 540 detailed entries
+- `games.db`: SQLite database (rebuilt via `python3 scripts/build_db.py`)
 - `master_list.csv`: bulk Wikidata catalog (header only — run scraper to populate)
 - Total categories defined: 151
 - Designer tags available: 28

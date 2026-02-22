@@ -1,0 +1,63 @@
+id: anno-1701
+name: "Anno 1701"
+alternate_names:
+  - "Anno 1701: Das Brettspiel"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Economic
+  - Historical
+  - Euro
+  - Klaus Teuber
+
+evokes:
+  - Progress
+  - Discovery
+  - Agency
+  - Clever
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Kosmos
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Anno 1701 is a 2007 colonization board game by Klaus Teuber based on the popular Anno 1701
+  computer game, published by Kosmos. Players serve the queen by founding a settlement and
+  developing it into a flourishing commercial town — gathering resources locally and trading
+  for whatever their island cannot produce.
+
+  Building on similar themes to Teuber's earlier Anno 1503 adaptation, the game emphasizes
+  settlement growth, resource chains, and trading as core mechanics. Players balance the
+  expansion of their colonial settlement against commercial voyages to secure scarce goods.
+  The game adapts the "build an island civilization from scratch" feel of the Anno computer
+  game series into an accessible family Euro format.
+
+upgrades: []

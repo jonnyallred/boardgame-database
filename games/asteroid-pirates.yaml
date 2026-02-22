@@ -1,0 +1,59 @@
+id: asteroid-pirates
+name: "Asteroid Pirates"
+alternate_names: ["Asteroid Pirates: A Game of Ship to Ship Combat in the Asteroid Belts"]
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Sci-Fi
+  - Space
+  - Dice Rolling
+  - Simultaneous Action
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Yaquinto Publications
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Asteroid Pirates is a 1980 tactical ship-to-ship space combat game published by Yaquinto
+  Publications, set in the asteroid belt where rival pirates clash in deadly space battles.
+  The game uses a hexagonal grid system with action points, simultaneous action selection,
+  and dice rolling to resolve combat. Features include critical hit rules, paper-and-pencil
+  tracking of ship systems, and variable setup options, making each engagement unique.
+  Players maneuver their spacecraft through the asteroid field, balancing offensive
+  firepower with defensive maneuvering in tense skirmish encounters.
+
+upgrades: []

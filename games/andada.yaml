@@ -1,0 +1,51 @@
+id: andada
+name: "Andada"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+
+evokes:
+  - Lucky
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Andada is a traditional board game with limited documentation available from modern sources.
+  It is a simple abstract or folk game played in parts of South Asia. Specific rules,
+  components, and publisher information are not well-documented in English-language sources.
+  The game appears to be a regional pastime with simple race or strategy mechanics.
+
+upgrades: []

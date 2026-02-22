@@ -1,0 +1,52 @@
+id: alaric-the-goth
+name: "Alaric the Goth: Fall of the Western Roman Empire"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Ancient
+  - Area Control
+
+evokes:
+  - Agency
+  - Powerful
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Strategic Studies Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  A grand strategic wargame published by Strategic Studies Games in 1980 covering the Barbarian invasions of the Western Roman Empire during the Fourth and Fifth centuries A.D. Players command either the invading Germanic tribes under Alaric the Goth or the declining Roman imperial forces attempting to defend their crumbling empire. The game operates at an abstract strategic level rather than as a direct battle simulation, capturing the sweeping historical forces that brought down Rome. An often-paired companion piece to SSG's Attila the Hun game.
+
+upgrades: []

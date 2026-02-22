@@ -1,0 +1,62 @@
+id: age-of-discovery
+name: "Age of Discovery"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Set Collection
+  - Resource Management
+  - Euro
+  - Family
+  - Historical
+  - Maritime
+  - Exploration
+
+evokes:
+  - Discovery
+  - Progress
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Alfred Viktor Schulz
+publisher:
+  - Phalanx Games
+  - Mayfair Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Age of Discovery is a Euro-style strategy game in which players supply famous expeditions
+  of explorers such as Columbus and Magellan with ships, purchasing vessels and directing
+  them toward the most successful voyages. The game uses worker placement and set collection
+  mechanics as players compete to fund and equip the greatest expeditions. Players must
+  balance acquiring ships with sending them to profitable routes, creating a tense
+  competition for the best opportunities across the age of exploration.
+
+upgrades: []

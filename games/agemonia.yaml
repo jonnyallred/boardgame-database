@@ -1,0 +1,55 @@
+id: agemonia
+name: "Agemonia"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 1  # Light (cooperative)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Campaign Mode
+  - Fantasy
+  - Dice Rolling
+  - Variable Player Powers
+  - Variable Setup
+  - Narrative Heavy
+
+evokes:
+  - Discovery
+  - Progress
+  - Agency
+  - Tension
+  - Unique
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Max Wikström
+publisher:
+  - Lautapelit.fi
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  A fully cooperative campaign board game for 1-4 players published by Lautapelit.fi in 2022, featuring over thirty unique scenarios with evolving maps and more than 100 hours of campaign gameplay. Players take on the roles of heroes in a fantasy world, making challenging moral choices that affect the unfolding story—you may become mighty heroes or the most despicable of villains. A unique Stamina chip system combines stamina and health, while a Fail Forward mechanism keeps the campaign moving even when players suffer setbacks. The game is notable for its depth of narrative, tactical combat, and meaningful player decisions across its sprawling campaign.
+
+upgrades: []

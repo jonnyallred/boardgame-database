@@ -1,0 +1,64 @@
+id: apocalypse
+name: "Apocalypse"
+alternate_names:
+  - "Apocalypse: The Game of Nuclear Devastation"
+  - "The Warlord"
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dudes on a Map
+  - War
+  - Post-Apocalyptic
+  - Historical
+
+evokes:
+  - Rivalry
+  - Tension
+  - Dread
+  - Powerful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Mike Hayes
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Apocalypse: The Game of Nuclear Devastation is a 1980 board game published by Games Workshop,
+  based on Mike Hayes's 1974 self-published design The Warlord. Set on a map of Western Europe,
+  two to four players vie for total continental domination using conventional armies and nuclear
+  missiles. The turn sequence — fire missiles, build armies, move, attack — resembles Risk but adds
+  the terrifying element of irradiating territory with nuclear strikes.
+
+  Games Workshop acquired the rights in 1980 and revised the design: simplifying rules, reducing the
+  player count to four, removing hydrogen bombs, and allowing irradiated zones to eventually recover.
+  The nuclear weapon dimension gives the game a distinctive Cold War tension, as players weigh the
+  strategic devastation of atomic strikes against the cost of poisoning territory they intend to hold.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: ahoy
+name: "Ahoy"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Tile Placement
+  - Worker Placement
+  - Asymmetric
+  - Variable Player Powers
+  - Pirates
+  - Leder Games
+
+evokes:
+  - Unique
+  - Agency
+  - Rivalry
+  - Tension
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Greg Loring-Albright
+publisher:
+  - Leder Games
+artist:
+  - Kyle Ferrin
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  A game of seafaring and smuggling for 2-4 players published by Leder Games in 2022, in which swashbucklers and soldiers compete on the high seas using dice-driven asymmetric factions. Each round, players roll and place dice to execute the unique actions of their faction: the Bluefin Squadron uses brute force, the Mollusk Union employs strategic card play, and the Smugglers focus on cargo delivery and speculation. The mix of area majority, tile placement, and modular board mechanics creates a deeply asymmetric experience where each faction pursues a different victory path. Illustrated by Kyle Ferrin in his distinctive style, Ahoy brings Root's design sensibility to a nautical setting.
+
+upgrades: []

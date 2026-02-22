@@ -1,0 +1,65 @@
+id: andor-the-family-fantasy-game
+name: "Andor: The Family Fantasy Game"
+alternate_names:
+  - "Andor: Das Familienspiel"
+year: 2020
+
+# Relationships
+game_family: andor
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Fantasy
+  - Family
+  - Variable Player Powers
+
+evokes:
+  - Connection
+  - Discovery
+  - Wonder
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - Kosmos
+artist:
+  - Michael Menzel
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 7
+
+description: |
+  Andor: The Family Fantasy Game is a 2020 cooperative family adventure by Inka and Markus Brand,
+  illustrated by Michael Menzel and published by Kosmos, designed as an accessible entry point into
+  the Legends of Andor universe for younger players. Players choose from four heroes — magician,
+  warrior, archer, and dwarf — and work together to complete missions in the land of Andor, starting
+  with rescuing wolf cubs lost in a dangerous mine.
+
+  The game deliberately simplifies the Legends of Andor ruleset: heroes have no health points,
+  enemies do not fight back when attacked, and complexity is kept minimal to suit ages 7 and up.
+  It won the Deutscher Spiele Prize as Children's Game of the Year and serves as an ideal bridge
+  game for families looking to graduate toward heavier cooperative adventures.
+
+upgrades: []

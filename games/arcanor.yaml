@@ -1,0 +1,52 @@
+id: arcanor
+name: "Arcanor"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Arcanor is a two-player abstract strategy game played on an 8x7 board. Players use
+  12 cylinders of varying sizes that can be stacked inside one another like Russian dolls,
+  creating a stacking capture mechanic unique to this game. The objective involves strategic
+  placement and stacking of pieces to outmaneuver the opponent. Limited publisher and
+  designer information is available in English-language sources.
+
+upgrades: []

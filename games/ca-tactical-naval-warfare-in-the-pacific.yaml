@@ -1,0 +1,55 @@
+id: ca-tactical-naval-warfare-in-the-pacific
+name: "'CA': Tactical Naval Warfare in the Pacific 1941-43"
+alternate_names:
+  - "CA: Tactical Naval Warfare in the Pacific 1941-45"
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Maritime
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Dunnigan
+publisher:
+  - Simulations Publications Inc.
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  A two-player hex-and-counter naval wargame simulating surface combat in the Pacific Theater during World War II, published by SPI in 1973 as a pull-out game in Strategy & Tactics magazine #38. Players command individual ships—battleships, battlecruisers, heavy and light cruisers, and destroyers—across seven historical scenarios including Savo Island, Guadalcanal, Cape Esperance, Tassafaronga, Kolombangara, and Augusta Bay, plus three hypothetical scenarios. Combat mechanics cover gunnery, torpedoes, varying damage types, night sighting, and momentum, offering a compact but detailed simulation of these famous Pacific naval engagements.
+
+upgrades: []

@@ -1,0 +1,61 @@
+id: aquarius
+name: "Aquarius"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Bluffing
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Lucky
+  - Humor
+  - Tension
+  - Mystery
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Andrew Looney
+publisher:
+  - Looney Labs
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Aquarius is a 1998 card game by Andy Looney, published by Looney Labs, in which players
+  connect element cards (Earth, Air, Fire, Water, Space) in a domino-like grid, secretly working
+  toward a hidden goal of connecting seven panels of their assigned element. Action cards allow
+  players to rotate sections, swap goals, or otherwise disrupt the table.
+
+  The hidden goal mechanic creates natural bluffing opportunities — players must guess opponents'
+  objectives to block them while advancing their own. Designed with hippie-influenced art
+  reminiscent of Peter Max, the game has a laid-back, colorful aesthetic and plays in under
+  30 minutes. It is a perennial entry-level title in the Looney Labs lineup.
+
+upgrades: []

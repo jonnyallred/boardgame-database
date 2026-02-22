@@ -1,0 +1,57 @@
+id: attack-of-the-mutants
+name: "Attack of the Mutants!"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Horror
+  - Sci-Fi
+  - Post-Apocalyptic
+
+evokes:
+  - Humor
+  - Dread
+  - Tension
+  - Agency
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Yaquinto Publications
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Attack of the Mutants! is a campy 1950s B-movie horror board game published by
+  Yaquinto Publications in 1981. In a tongue-in-cheek scenario, heroes face campus
+  membership newly mutated by a horrible nuclear accident at the nearby power station
+  dubbed "the Big Melt-Down of 1993." The game embraces the schlocky fun of classic
+  atomic-age horror cinema, pitting players against waves of radioactive mutants with
+  humor and over-the-top premise. It captures the irreverent spirit of B-movie horror
+  in tabletop form.
+
+upgrades: []

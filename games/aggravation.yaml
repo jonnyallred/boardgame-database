@@ -1,0 +1,51 @@
+id: aggravation
+name: "Aggravation"
+alternate_names: []
+year: 1962
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Take That
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 6]
+
+designer: []
+publisher:
+  - Co-5 Corporation
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 6
+
+description: |
+  A classic American marble racing game first published in 1962 by Co-5 Corporation, later licensed to Lakeside, Milton Bradley, and ultimately Hasbro. Players race four marble playing pieces around the board toward their home section, with a distinctive mechanic called "aggravating"—landing on an opponent's space sends their piece back to their base. The board includes shortcuts and a distinctive star-shaped center, and rolling a six grants an extra turn. A beloved family game rooted in the Pachisi/Parcheesi tradition, distinguished by its glass marbles and the particular pleasure of sending rivals back to start.
+
+upgrades: []

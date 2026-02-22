@@ -1,0 +1,52 @@
+id: astoria
+name: "Astoria"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Strategy
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Mystery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Astoria is a two-player strategy board game. Limited English-language information is
+  available about this title's specific mechanics, publisher, designer, or year of
+  publication. The game appears to be an abstract strategy or area-control game with
+  a fantasy or mythological Atlantis-inspired theme, featuring clan-based competition
+  on a sinking island board.
+
+upgrades: []

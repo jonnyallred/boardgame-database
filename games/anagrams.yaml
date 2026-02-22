@@ -1,0 +1,60 @@
+id: anagrams
+name: "Anagrams"
+alternate_names: []
+year: 1890
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Party
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Lucky
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 8
+
+description: |
+  Anagrams is one of the oldest commercially produced word games in America, with origins tracing
+  to Victorian parlor games and Charles Hammett's Word Making and Taking (1877). Parker Brothers
+  published an early version around 1890 under the name The Game of Letters and Anagrams on Wooden
+  Blocks. Players use letter tiles to form words and steal opponents' words by rearranging their
+  letters into new words, creating tension as any word on the table is vulnerable to capture.
+
+  The steal-and-rearrange mechanic distinguishes Anagrams from pure vocabulary tests — strategic
+  awareness of opponents' words is as important as one's own. Multiple publishers produced versions
+  throughout the 20th century including Selchow and Righter and The Embossing Company, and Oxford
+  Games has published their variant since 1990. Anagrams remains one of the most enduring
+  competitive word game formats ever devised.
+
+upgrades: []

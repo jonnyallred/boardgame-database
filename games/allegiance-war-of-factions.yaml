@@ -1,0 +1,63 @@
+id: allegiance-war-of-factions
+name: "Allegiance: War of Factions"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Negotiation
+  - Bluffing
+  - Medieval
+  - Historical
+
+evokes:
+  - Rivalry
+  - Persuasion
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Andrew Grierson
+publisher:
+  - Lucid Raven Productions
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Allegiance: War of Factions is a 2004 out-of-print social and political collectible card game
+  published by Lucid Raven Productions, set in a medieval city-state thrown into turmoil by the
+  death of its king. Players act as lords or ladies vying to control the city's major political,
+  religious, and economic powers — extending influence or mounting armies to eliminate rivals.
+
+  Victory requires reaching a target amount of Victory Influence at the start of a round, or
+  eliminating all opponents militarily. Rounds consist of five phases, with players taking turns
+  playing cards or triggering card abilities. Each player maintains a Personality deck and a
+  Structure deck of at least 15 cards each, plus Wanderer cards, creating a lightweight CCG with
+  strong political negotiation elements. It is largely out of print and obscure today.
+
+upgrades: []

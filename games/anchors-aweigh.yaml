@@ -1,0 +1,59 @@
+id: anchors-aweigh
+name: "Anchors Aweigh!"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Resource Management
+  - Set Collection
+  - Family
+  - Maritime
+
+evokes:
+  - Tension
+  - Lucky
+  - Discovery
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Carlo A. Rossi
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 7
+
+description: |
+  Anchors Aweigh! is a 2018 real-time nautical adventure game by Carlo A. Rossi, published by
+  Z-Man Games, for 2-4 players. Players race to equip their ships with tiles using only one hand,
+  then sail out to discover new lands, trade cargo, and fend off pirates across two rounds of play.
+
+  The single-hand restriction on tile-grabbing creates a frantic, tactile challenge that drives
+  the game's humor and tension. With a 30-minute playtime and accessible rules, it targets families
+  and casual gamers looking for a quick, energetic experience with a colorful seafaring theme.
+
+upgrades: []

@@ -1,0 +1,61 @@
+id: archworld
+name: "Archworld"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Fantasy
+  - Medieval
+  - Historical
+
+evokes:
+  - Powerful
+  - Agency
+  - Masterful
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Mike Gilbert
+  - Sheila Gilbert
+publisher:
+  - Fantasy Games Unlimited
+artist:
+  - Mike Gilbert
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Archworld is a fantasy and medieval miniatures wargame published by Fantasy Games Unlimited
+  in 1977, designed by Mike and Sheila Gilbert. Set in the Archworld campaign setting,
+  the game uses a 1-inch hex grid system to simulate grand tactical warfare across ancient,
+  medieval, and early gunpowder periods. Magic exists within the system but is secondary
+  to military and economic strategy, rewarding players who balance spell-casting with
+  sound tactical and strategic planning. The 76-page rulebook includes naval vessel diagrams
+  and reference cards, making it a comprehensive system for miniatures combat.
+
+upgrades: []

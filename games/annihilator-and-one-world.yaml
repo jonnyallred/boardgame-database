@@ -1,0 +1,62 @@
+id: annihilator-and-one-world
+name: "Annihilator & One World"
+alternate_names:
+  - "Annihilator / OneWorld"
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Fantasy
+  - 1 vs Many
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Rivalry
+  - Humor
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Robert Phillips
+publisher:
+  - Metagaming Concepts
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Annihilator & One World is a 1979 dual-game package released by Metagaming Concepts as entry 14
+  in their MicroGame line, designed by Robert Phillips. The box contains two distinct games sharing
+  components: Annihilator is a sci-fi wargame inspired by Star Trek's Doomsday Machine, in which
+  one player sends a small military unit into a planet-killing machine to destroy its two computer
+  brains while the other controls the machine's robotic defenses.
+
+  One World, the second game, is a lighter fantasy affair in which players control opposing gods
+  (Chez and Borg) who send elemental children — Fog, Blade, and Stone — to attack each other using
+  a diceless rock-paper-scissors combat system. Together, the pair showcases the MicroGame format's
+  ability to pack two genre-spanning experiences into a small, affordable package.
+
+upgrades: []

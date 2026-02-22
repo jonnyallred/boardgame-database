@@ -1,0 +1,54 @@
+id: alien-frontiers
+name: "Alien Frontiers"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Worker Placement
+  - Area Control
+  - Sci-Fi
+  - Space
+  - Resource Management
+
+evokes:
+  - Lucky
+  - Agency
+  - Clever
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Tory Niemann
+publisher:
+  - Clever Mojo Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  A retro sci-fi dice worker placement game first published by Clever Mojo Games in 2010, in which players colonize an alien planet using their fleet of spaceships—represented by dice. Each turn, players roll their fleet and assign dice to orbital facilities based on matching combinations, earning resources, expanding the fleet, and placing colonies on the planet to establish area control. Alien technology cards acquired during play allow rerolls and dice modification, adding a layer of engine building. The distinctive integration of dice-as-workers and area majority made Alien Frontiers a breakout indie success.
+
+upgrades: []

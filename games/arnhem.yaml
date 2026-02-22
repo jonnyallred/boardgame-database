@@ -1,0 +1,57 @@
+id: arnhem
+name: "Arnhem"
+alternate_names: ["A Bridge Too Far: Arnhem", "Arnhem: Operation Market-Garden, September 1944"]
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - SPI (Simulations Publications, Inc.)
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Arnhem is a board wargame published by Simulations Publications, Inc. (SPI) in 1976
+  simulating Operation Market Garden in September 1944, the Allied attempt to seize
+  strategic bridges across the Netherlands including the famous Rhine crossing at Arnhem.
+  The game features 120 half-inch counters on a hex-grid map with half-day turns from
+  September 17 to September 29, 1944, including rules for airborne units, air bombardment,
+  artillery, and engineers. It is praised for delivering a solid simulation of Market Garden
+  without overwhelming complexity, making it accessible to both casual and dedicated wargamers.
+
+upgrades: []

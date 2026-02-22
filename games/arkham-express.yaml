@@ -1,0 +1,56 @@
+id: arkham-express
+name: "Arkham Express"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Horror
+  - Cthulhu
+
+evokes:
+  - Tension
+  - Dread
+  - Lucky
+  - Agency
+  - Connection
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - David Willems
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Arkham Express is a cooperative dice-based game set in the Arkham Horror universe,
+  designed by David Willems. Players work together to combat the Lovecraftian horrors
+  threatening Arkham, using dice mechanics to determine outcomes. The game serves as
+  a lighter, faster entry into the Arkham Horror setting, stripping away complexity
+  while retaining the atmospheric tension of the franchise. Specific publisher details
+  and release year are not well-documented in English-language sources.
+
+upgrades: []

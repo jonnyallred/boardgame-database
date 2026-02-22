@@ -1,0 +1,63 @@
+id: animal-upon-animal-balancing-bridge
+name: "Animal Upon Animal: Balancing Bridge"
+alternate_names:
+  - "Tier auf Tier: Auf der Brücke"
+year: 2010
+
+# Relationships
+game_family: animal-upon-animal
+edition: null
+base_game: animal-upon-animal
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Party
+  - Animals
+  - Set Collection
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Klaus Miltenberger
+publisher:
+  - HABA
+artist:
+  - Michael Bayer
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Animal Upon Animal: Balancing Bridge is a 2010 standalone stacking game by HABA that expands
+  upon the original Animal Upon Animal formula with a central cardboard bridge as the balancing
+  surface. Players are dealt objective cards showing combinations of three animals they must place
+  to score points, adding a strategic layer absent from the base game.
+
+  The 29 wooden animals feature various ridges and bumps to provide grip during precarious
+  balancing acts, and the bridge's curved surface creates fresh spatial challenges compared to
+  the crocodile base of the original. It can be played independently or combined with other
+  HABA Animal Upon Animal titles for extended play.
+
+upgrades: []

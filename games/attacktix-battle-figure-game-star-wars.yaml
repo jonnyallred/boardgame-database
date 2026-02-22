@@ -1,0 +1,57 @@
+id: attacktix-battle-figure-game-star-wars
+name: "Attacktix Battle Figure Game: Star Wars"
+alternate_names: ["Star Wars Attacktix"]
+year: 2005
+
+# Relationships
+game_family: attacktix
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Sci-Fi
+  - Take That
+
+evokes:
+  - Powerful
+  - Lucky
+  - Rivalry
+  - Humor
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Attacktix Battle Figure Game: Star Wars is a collectible dexterity miniatures game
+  published by Hasbro in 2005, timed to promote Star Wars Episode III: Revenge of the
+  Sith. Players field teams of Star Wars characters on spring-loaded bases with projectile
+  launchers and swinging combat mechanisms, aiming to knock down the opponent's figures.
+  Each base features clicking movement wheels for measuring distance, and characters
+  carry speed, defense, point values, and unique special powers. The Star Wars series
+  was the first Attacktix line, later expanded to Marvel and Transformers, and offered
+  a fun, physical collectible experience for fans of the franchise.
+
+upgrades: []

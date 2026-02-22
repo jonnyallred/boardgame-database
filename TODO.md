@@ -37,6 +37,9 @@
 ## Lower Priority
 
 - [ ] Add upgrade entries — populate upgrade sections (metal coins, playmats, inserts, etc.)
-- [ ] Create query tools — scripts to filter/search the database
+- [x] Create query tools — `games.db` (SQLite) built by `scripts/build_db.py`; enables SQL queries across all games
+- [ ] Build a web frontend — Node.js app powered by `games.db` for browsing, filtering, and searching
+- [ ] Data quality queries — use `games.db` to find: missing descriptions, games with <5 evokes, categories not in schema, etc.
+- [ ] Speed up `progress.py` / `image_manager.py` — optionally read from `games.db` instead of re-parsing all YAML files
 - [ ] Add more designers to tags — expand designer category list
 - [ ] Add plays tracking — structure for logging game sessions

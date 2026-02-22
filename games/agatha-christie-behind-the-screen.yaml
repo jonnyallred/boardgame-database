@@ -1,0 +1,51 @@
+id: agatha-christie-behind-the-screen
+name: "Agatha Christie: Behind the Screen"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Mystery
+  - Family
+  - Party
+
+evokes:
+  - Mystery
+  - Tension
+  - Discovery
+  - Clever
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Spinnaker Software
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  An interactive VCR murder mystery game published by Spinnaker in 1986, featuring a 30-minute videocassette that players watch and pause at designated moments to read clues aloud from eight playing cards. The plot involves a death at a boarding house, with the victim found behind a Chinese screen. With over 250 possible combinations of clues leading to different endings, the game offers significant replayability, and includes a Detective's Notepad and Solution Decoder to track deductions and reveal the killer.
+
+upgrades: []

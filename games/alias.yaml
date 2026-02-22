@@ -1,0 +1,52 @@
+id: alias
+name: "Alias"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Word Play
+  - Teams
+  - Family
+
+evokes:
+  - Humor
+  - Connection
+  - Tension
+  - Lucky
+  - Rivalry
+
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [6, 8]
+
+designer:
+  - Mikko Koivusalo
+publisher:
+  - Tactic Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  A team-based party word game invented in Finland in the late 1980s by Mikko Koivusalo and published by Tactic Games in 1989. Each turn, one team member explains words on cards to teammates without using the target word itself—the team moves on the board equal to the number of words correctly guessed. Simple to explain and endlessly replayable, Alias has grown into one of Northern Europe's best-selling board games with over 6 million copies sold in more than 40 countries. Numerous themed editions and variations have expanded the brand while maintaining the game's core accessible appeal.
+
+upgrades: []

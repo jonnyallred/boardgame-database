@@ -1,0 +1,52 @@
+id: airborne-in-my-pocket
+name: "Airborne in My Pocket"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light (cooperative)
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Historical
+  - War
+  - Puzzle Solving
+
+evokes:
+  - Tension
+  - Agency
+  - Connection
+  - Dread
+  - Lucky
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer:
+  - Emmanuel Aquin
+publisher:
+  - Print & Play Productions
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  A compact cooperative print-and-play microgame published by Print & Play Productions in 2009, set during the WWII Normandy landings. Part of the "...in my Pocket" series originating with Zombie in my Pocket, this entry puts players in command of American airborne forces navigating the chaos of the D-Day invasion. Players cooperate to complete objectives with minimal components—the game lives up to its "pocket" name with just a few cards and tokens. A quick and accessible entry point into both cooperative gaming and historical wargame themes.
+
+upgrades: []

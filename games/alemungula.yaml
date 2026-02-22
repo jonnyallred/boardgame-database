@@ -1,0 +1,50 @@
+id: alemungula
+name: "Alemungula"
+alternate_names:
+  - "Um el Bagara"
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 6
+
+description: |
+  A traditional mancala game played by the Wataweat people of the Asosa-Beni Sangul area along the Ethiopia-Sudan border, first documented by Ethiopian scholar Richard Pankhurst in 1971. The game is played on a wooden board with 2x5 holes (called tisiya alemungula) using five stones per hole. A distinctive feature is its directional movement rule: left-hand holes move clockwise, right-hand holes move anti-clockwise, and the center hole allows the player to choose direction. Singletons may also be moved, adding tactical complexity over the related Um el Bagara variant played by the Baggara people of Sudan.
+
+upgrades: []

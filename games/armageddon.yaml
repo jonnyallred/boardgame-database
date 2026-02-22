@@ -1,0 +1,58 @@
+id: armageddon
+name: "Armageddon"
+alternate_names: ["Armageddon: Tactical Combat, 3000-500 BC"]
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - Ancient
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Young
+publisher:
+  - SPI (Simulations Publications, Inc.)
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Armageddon: Tactical Combat, 3000-500 BC is a board wargame designed by John Young
+  and first published by Simulations Publications, Inc. (SPI) in 1972, originally
+  appearing as a pull-out game in Strategy & Tactics magazine (#34) before being
+  released as a standalone title. The game simulates ancient tactical combat spanning
+  the Near Eastern and Mediterranean world from 3000 to 500 BC, covering the battles
+  and armies of the early civilizations. Using a hex-grid map and counter-based system,
+  players maneuver historically-inspired armies in a recreation of ancient warfare.
+
+upgrades: []

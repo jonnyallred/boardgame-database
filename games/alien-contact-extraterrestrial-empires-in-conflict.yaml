@@ -1,0 +1,55 @@
+id: alien-contact-extraterrestrial-empires-in-conflict
+name: "Alien Contact: Extraterrestrial Empires in Conflict"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Resource Management
+  - Sci-Fi
+  - Space
+  - Tech Tree
+
+evokes:
+  - Agency
+  - Powerful
+  - Rivalry
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Fred Chatham
+  - David Ferguson
+publisher:
+  - Phoenix Enterprises
+artist: []
+playtime_minutes: 270
+min_playtime: 180
+max_playtime: 360
+min_age: 12
+
+description: |
+  A multi-player strategic wargame of conquest and expansion published by Phoenix Enterprises in 1983, in which up to six different alien races compete to colonize star systems in an uninhabited sector of the galaxy. Players build space stations, spaceships, and space marine units using a hex-and-counter, resource-point system, managing production and territory while engaging in technological research to develop advanced units. Area movement drives exploration and defense across the stellar map. A 3-to-6 hour experience suited for dedicated wargame enthusiasts who enjoy epic science fiction space conquest.
+
+upgrades: []

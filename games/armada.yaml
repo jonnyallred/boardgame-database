@@ -1,0 +1,60 @@
+id: armada
+name: "Armada"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Route Building
+  - Historical
+  - Maritime
+  - Euro
+
+evokes:
+  - Discovery
+  - Progress
+  - Agency
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Philippe des Pallieres
+  - Patrice Pillet
+publisher:
+  - Jeux Descartes
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Armada is a colonization game designed by Philippe des Pallieres and Patrice Pillet,
+  originally published in 1986 by Jeux Descartes. Players command four nations or pirate
+  bands competing for control of an island group, balancing exploration, resource management,
+  and naval conquest. The game features strategic planning and tactical execution across
+  a nicely realized archipelago. Multiple editions were published, including a pirate-themed
+  third edition by Eurogames in 2001, demonstrating the game's enduring appeal.
+
+upgrades: []

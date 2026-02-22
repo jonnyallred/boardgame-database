@@ -1,0 +1,59 @@
+id: atlantic-wall
+name: "Atlantic Wall"
+alternate_names: ["Atlantic Wall: The Invasion of Europe June 1944"]
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Masterful
+  - Tension
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - SPI (Simulations Publications, Inc.)
+artist: []
+playtime_minutes: 600
+min_playtime: 480
+max_playtime: 720
+min_age: 16
+
+description: |
+  Atlantic Wall is a monster board wargame published by Simulations Publications, Inc.
+  (SPI) in 1978, simulating Operation Overlord — the D-Day landings and subsequent
+  Allied breakout into France from June 1944. One of the largest wargames of its era,
+  the game features more than 1,000 counters on a massive five-piece map, using a rules
+  system based on SPI's Wacht am Rhein from the prior year. Mechanics include ranged
+  artillery fire across multiple hexes and combined-arms combat column shifts, offering
+  an exceptionally detailed and demanding simulation of the Normandy campaign for dedicated
+  wargamers. Decision Games released an updated edition titled Atlantic Wall: D-Day to
+  Falaise in 2014.
+
+upgrades: []

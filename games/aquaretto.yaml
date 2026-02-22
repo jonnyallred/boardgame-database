@@ -1,0 +1,65 @@
+id: aquaretto
+name: "Aquaretto"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: zooloretto
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - zooloretto
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Bag Building
+  - Set Collection
+  - Tile Placement
+  - Animals
+  - Family
+  - Euro
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Michael Schacht
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Aquaretto is a 2008 family Euro game by Michael Schacht, published by Rio Grande Games, in which
+  players build and manage their own water zoo. The core mechanism involves drawing animal tiles
+  from a bag onto shared transport trucks, then deciding when to take a truck and place those
+  animals into your aquarium enclosures. Different species cannot be placed adjacent to each other,
+  requiring careful spatial planning.
+
+  Animals can breed when a male and female of the same species are collected, producing baby tokens
+  worth points. A spiritual companion to Schacht's earlier Zooloretto (Spiel des Jahres 2007),
+  Aquaretto can be played standalone or combined with Zooloretto for a mega-zoo experience. The
+  game rewards patient optimization of animal placement while managing the unpredictability of the
+  shared bag draw.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: air-force
+name: "Air Force"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Aviation
+  - Programmed Movement
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2]
+
+designer:
+  - S. Craig Taylor
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  A complex multi-player wargame simulating World War II aerial combat published by Battleline Publications in 1976 and re-released by Avalon Hill in 1977. Each player controls one or more aircraft using data cards that track speed, maneuverability, armaments, ammunition, damage, altitude, and attitude—with 30 aircraft from the Luftwaffe, RAF, and USAAF represented. Players plot simultaneous movement, and the system for determining permissible maneuvers makes positioning and energy management critical. A companion game, Dauntless, added 30 Pacific theater aircraft. Regarded as one of the most realistic tabletop air combat simulations of its era.
+
+upgrades: []

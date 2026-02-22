@@ -1,0 +1,60 @@
+id: assault-across-the-suez
+name: "Assault Across the Suez"
+alternate_names: ["Across Suez", "Across Suez: The Battle of the Chinese Farm October 15, 1973"]
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Dunnigan
+  - Mark Herman
+publisher:
+  - SPI (Simulations Publications, Inc.)
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Assault Across the Suez simulates the Battle of the Chinese Farm on October 15, 1973
+  during the Arab-Israeli War, published by SPI in 1980. Designed by Jim Dunnigan and
+  Mark Herman, the game was part of SPI's "gateway" series intended to introduce new
+  players to the wargaming hobby with simplified rules that remain strategically satisfying.
+  The seven-turn game can be completed in approximately two hours, depicting the Israeli
+  crossing of the Suez Canal and Egyptian defensive efforts during the Yom Kippur War.
+  Decision Games later republished the game in 1995 after SPI closed.
+
+upgrades: []

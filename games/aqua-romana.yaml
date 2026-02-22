@@ -1,0 +1,64 @@
+id: aqua-romana
+name: "Aqua Romana"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Route Building
+  - Euro
+  - Ancient
+  - Family
+
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Martin Schlegel
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Aqua Romana is a 2005 tile-laying game by Martin Schlegel, published by Queen Games, in which
+  players act as Roman architects constructing aqueducts to bring water to the citizens of the
+  Roman Empire. On each turn, players extend one of their four aqueducts by placing a tile
+  (straight, curve, crossing, or parallel curve) — but only if their workers have line-of-sight
+  to a builder pawn.
+
+  Scoring rewards completing closed aqueduct loops, with points equal to the number of tiles
+  in the loop. Aqueducts that cross tiles a second time score double. The worker placement
+  adjacency rule creates indirect blocking opportunities, adding tactical depth to what appears
+  a simple tile game. It was well-received as a clean, mid-weight abstract Euro with a thematic
+  Roman setting.
+
+upgrades: []

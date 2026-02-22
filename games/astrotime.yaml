@@ -1,0 +1,56 @@
+id: astrotime
+name: "Astrotime"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Party
+  - Family
+
+evokes:
+  - Lucky
+  - Clever
+  - Connection
+  - Agency
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Astrotime is a psychology and astrology-themed board game published by Ravensburger.
+  Players prepare personal game tablets using their zodiac sign and work through 12 turns
+  representing each sign of the Zodiac. Cards are drawn and placed in the center of the
+  board, and players choose the cards that best suit their personality to score points.
+  The game blends light social mechanics with astrological theming, making it an accessible
+  party-style game. Specific year of publication and designer information are not readily
+  available in English-language sources.
+
+upgrades: []

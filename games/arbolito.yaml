@@ -1,0 +1,58 @@
+id: arbolito
+name: "Arbolito"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Hand Management
+  - Family
+  - Nature
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Clever
+  - Connection
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Red Cat Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Arbolito is a 2024 card-stacking dexterity game published by Red Cat Games in which players
+  build a colorful tree by physically hanging leaf cards onto it. Players race to get rid of
+  their cards first, using special effects and card combos to accelerate their own hand or
+  hinder opponents.
+
+  The tactile challenge of hanging cards on the growing tree without toppling it adds physical
+  tension to the hand management decisions. Available in Italian and French editions, Arbolito
+  is a light, fast-playing family game that combines spatial dexterity with light card play.
+
+upgrades: []

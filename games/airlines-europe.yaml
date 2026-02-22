@@ -1,0 +1,55 @@
+id: airlines-europe
+name: "Airlines Europe"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Route Building
+  - Network Building
+  - Euro
+  - Aviation
+  - Alan R. Moon
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Alan R. Moon
+publisher:
+  - Rio Grande Games
+artist:
+  - Christian Fiore
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  A stock-holding and route-building euro game for 2-5 players by Alan R. Moon published in 2011, featuring 112 tiny detailed airplanes on a European airline map. Players build and invest in competing airline routes across Europe, earning points for the stocks they hold in each airline when randomly-triggered scoring rounds occur. A spiritual successor to Moon's earlier airline games with a streamlined ruleset, European setting, and tighter playing time compared to its predecessors. Strategic timing of scoring events and stock acquisitions are central to winning, making it an accessible but thoughtful investment game.
+
+upgrades: []

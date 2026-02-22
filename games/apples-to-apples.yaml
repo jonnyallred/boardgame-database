@@ -1,0 +1,61 @@
+id: apples-to-apples
+name: "Apples to Apples"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Hand Management
+  - Social Deduction
+  - Word Play
+
+evokes:
+  - Humor
+  - Connection
+  - Lucky
+  - Persuasion
+  - Rivalry
+
+possible_counts: [4, 5, 6, 7, 8, 9, 10]
+true_counts: [6, 7, 8]
+
+designer: []
+publisher:
+  - Mattel
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 75
+min_age: 12
+
+description: |
+  Apples to Apples is a 1999 party card game originally published by Out of the Box Publishing,
+  later acquired by Mattel in 2007. Players hold a hand of "red apple" noun cards and take turns
+  as the judge, who plays a "green apple" adjective card. Each other player submits the noun from
+  their hand they think best matches the adjective, and the judge picks their favorite — subjectively.
+
+  The game's charm lies entirely in the judge's arbitrary and often hilarious decisions, sparking
+  laughter and debate about whether "Abraham Lincoln" is more "cuddly" than "puppies." It won
+  Mensa Select in 1999 and was named Party Game of the Year by Games magazine. It is widely
+  credited as the spiritual predecessor to Cards Against Humanity and defined the subjective
+  judge-based party game genre.
+
+upgrades: []

@@ -1,0 +1,62 @@
+id: allenbys-blitzkrieg
+name: "Allenby's Blitzkrieg"
+alternate_names:
+  - "Allenby's Blitzkrieg: The Last Cavalry Crusade"
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Discovery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Peter Schutze
+publisher:
+  - Schutze Games
+artist:
+  - Tim Allen
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Allenby's Blitzkrieg is a two-player operational wargame covering the first 48 hours of General
+  Edmund Allenby's September 1918 offensive in northern Palestine, considered the last great horse
+  cavalry campaign in military history. Designed by Peter Schutze and published by Schutze Games,
+  the game pits a British Empire force (primarily Indian and Australian troops) against the Ottoman
+  Turks on an 11×17-inch map of the region.
+
+  The scenario opens with Allenby's brilliant deception operation catching the Turks out of position,
+  and players must manage the unprecedented speed of the mounted units — a feat the designer notes
+  exceeded even the best German Blitzkrieg operations of WWII. With 154 double-sided counters,
+  the game is a compact and focused study of this overlooked campaign.
+
+upgrades: []

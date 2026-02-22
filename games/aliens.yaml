@@ -1,0 +1,67 @@
+id: aliens
+name: "Aliens"
+alternate_names:
+  - "Aliens the Board Game"
+  - "Aliens: This Time It's War"
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate (1 vs Many or cooperative vs scenarios)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - 1 vs Many
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+  - Aliens
+  - Historical
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Masterful
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Barry Nakazono
+  - David McKenzie
+publisher:
+  - Leading Edge Games
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Aliens is a 1989 wargame published by Leading Edge Games, based directly on the events of
+  James Cameron's 1986 film. Players command a squad of Colonial Marines across five scenarios
+  recreating key scenes: The Reactor, Operations, Rescue Newt, The Dropship, and Ripley vs.
+  the Alien Queen. The game uses a hex-grid tactical map with counters representing individual
+  marines and xenomorphs.
+
+  The design pioneered a scenario-driven approach where alien movement and reactions are governed
+  by tables and charts rather than a second player, making it playable solitaire or cooperatively.
+  An expansion released in 1991 added further scenarios including ammunition restrictions and
+  tournament rules. It remains one of the most faithful licensed wargame adaptations of its era.
+
+upgrades: []

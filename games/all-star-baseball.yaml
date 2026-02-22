@@ -1,0 +1,63 @@
+id: all-star-baseball
+name: "All Star Baseball"
+alternate_names:
+  - "All-Star Baseball"
+year: 1941
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Sports
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+  - Humor
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Ethan Allen
+publisher:
+  - Cadaco-Ellis
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 9
+
+description: |
+  All Star Baseball is a 1941 baseball simulation board game designed by major league outfielder
+  Ethan Allen and published by Cadaco-Ellis, considered the best-selling baseball board game of all
+  time. Players place circular player cards on a spinner mechanism mounted over a baseball diamond;
+  spinning determines at-bat outcomes based on historical statistics encoded in each card's
+  proportionally sized sections.
+
+  A second spinner handles baserunner advancement, creating a two-spinner system that models
+  batter performance well while keeping rules accessible for young players (target age 9-12).
+  Unlike simulation-focused competitors such as Strat-O-Matic, All Star Baseball prioritizes
+  fun over accuracy. It has been honored as one of the fifty most influential American board games
+  of all time and remained in production across many decades and editions.
+
+upgrades: []

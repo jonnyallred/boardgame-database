@@ -1,0 +1,59 @@
+id: angry-birds-knock-on-wood
+name: "Angry Birds: Knock on Wood"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Party
+  - Set Collection
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Mattel
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Angry Birds: Knock on Wood is a 2011 dexterity game by Mattel based on the hit mobile app
+  franchise. Players draw mission cards showing a specific structure to build using the included
+  wooden blocks and pigs, then opponents launch the iconic Angry Birds via a slingshot launcher
+  to knock it all down and score points.
+
+  The first player to reach 1,000 points wins. Simple enough for young children yet engaging
+  enough for casual family play, the game faithfully recreates the satisfying destruction loop
+  of the video game in physical form. It is a licensed product that brought the Angry Birds
+  brand to tabletop audiences during the height of the franchise's popularity.
+
+upgrades: []

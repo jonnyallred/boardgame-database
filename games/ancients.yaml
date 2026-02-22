@@ -1,0 +1,62 @@
+id: ancients
+name: "Ancients"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Ancient
+  - War
+  - Hex Map
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+  - Discovery
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Bill Banks
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 180
+min_playtime: 90
+max_playtime: 360
+min_age: 12
+
+description: |
+  Ancients is a wargame designed by Bill Banks covering 32 historical scenarios from 1800 BC to
+  1400 AD, originally published by SPI. The game simulates battles from the pre-gunpowder era,
+  taking into account unit fighting class, the importance of tight formations and line integrity,
+  and morale breaking — capturing broad truths about ancient and medieval warfare in an accessible
+  system rated highly for solitaire suitability.
+
+  Players can recreate engagements from Greek phalanxes to medieval cavalry charges, with each
+  scenario presenting distinct tactical challenges. The low complexity rating makes it approachable
+  for players new to historical wargaming, while the variety of 32 scenarios provides substantial
+  replay value. Ancients stands as a foundational title in ancient-era hex-and-counter wargaming.
+
+upgrades: []

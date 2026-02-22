@@ -1,0 +1,57 @@
+id: aquatika
+name: "Aquatika"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Racing
+  - Family
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Aquatika is an abstract racing board game in which players move pieces across the board toward
+  a goal box, aiming to be the first to successfully cross with one of their pieces. Each player
+  controls nine pieces of three distinct types, including a Shark that can capture even friendly
+  pieces — introducing a treacherous element to movement planning.
+
+  The mix of piece types and the Shark's unique cannibalistic capture rule create tactical choices
+  beyond simple racing, requiring players to plan routes that avoid their own Shark while using it
+  against opponents. Specific publisher and year information is not widely documented for this
+  obscure title.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: air-assault-on-crete
+name: "Air Assault on Crete"
+alternate_names:
+  - "Air Assault on Crete / Invasion of Malta: 1942"
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Randall Reed
+  - Vance von Borries
+publisher:
+  - Avalon Hill
+artist:
+  - Rodger B. MacGowan
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  A two-player hex-and-counter wargame published by Avalon Hill in 1977 simulating the German paratroop attack on Crete on May 20, 1941. One player defends with Allied forces while the other commands the invading Germans in a company/battalion-level simulation across ten days of the campaign. The 3-part mapboard covers the island at 1.6 km per hex and includes over 500 counters. Published as a boxed set with a companion game, Invasion of Malta: 1942, it is highly regarded for its detailed airborne assault mechanics, including separate Airborne and Air Landing phases.
+
+upgrades: []

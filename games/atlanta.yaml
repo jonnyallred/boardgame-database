@@ -1,0 +1,57 @@
+id: atlanta
+name: "Atlanta"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Rivalry
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Don Lowry
+publisher:
+  - Guidon Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Atlanta is an American Civil War campaign wargame designed by Don Lowry and published
+  by Guidon Games in 1973. The game simulates the pivotal Atlanta Campaign of 1864,
+  in which Union General Sherman maneuvered against Confederate General Johnston and
+  later Hood in a series of engagements across northern Georgia. As one of the early
+  operational-level Civil War games, Atlanta offered historical depth and strategic
+  decision-making that distinguished it from simpler conflict simulations of the era.
+
+upgrades: []

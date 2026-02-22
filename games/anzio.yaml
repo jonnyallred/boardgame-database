@@ -1,0 +1,63 @@
+id: anzio
+name: "Anzio"
+alternate_names:
+  - "Anzio: The Struggle for Italy"
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dave Williams
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Anzio is a 1969 strategic-level wargame published by Avalon Hill, designed by Dave Williams,
+  covering the entire Italian campaign of World War II from autumn 1943 through the end of the war
+  in Europe — a broader scope than its name suggests. Two mounted mapboards placed end-to-end
+  represent Italy's mountainous terrain, and counters represent American, British, Canadian, Polish,
+  French, Indian, German, Italian, and other Allied and Axis forces.
+
+  The game featured innovations including step-reduction combat and a richly detailed mapboard,
+  though initial sales were poor due to confusing rules and an unattractive box. It was revised and
+  republished in 1974 and 1978 (with a fourth edition later following), gradually earning a
+  reputation as a serious operational study of the Italian theater. Anzio stands as an important
+  Avalon Hill entry in the hex-and-counter WWII wargame tradition.
+
+upgrades: []

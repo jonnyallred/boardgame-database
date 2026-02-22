@@ -1,0 +1,55 @@
+id: asterix-et-la-potion-magique
+name: "Astérix et la Potion magique"
+alternate_names: ["Asterix and the Magic Potion"]
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Racing
+  - Ancient
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Discovery
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Coktel Vision
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Astérix et la Potion magique is a French board game based on the beloved Asterix comic
+  series, released in 1986 by Coktel Vision as part of a package with the Asterix video
+  game. The game was released exclusively in France and included a 3-page comic strip
+  titled "In 50 B.C." along with minipuzzles. Set in the world of the Gaulish village
+  and featuring characters from the Asterix comics, it offers light family fun with
+  the iconic Asterix theme.
+
+upgrades: []

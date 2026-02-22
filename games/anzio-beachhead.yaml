@@ -1,0 +1,60 @@
+id: anzio-beachhead
+name: "Anzio Beachhead"
+alternate_names: []
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Dread
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dave Williams
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Anzio Beachhead is a 1969 two-player operational wargame published by Simulations Publications Inc.
+  (SPI), appearing first as a pull-out game in Issue 20 of Strategy & Tactics magazine. Designed by
+  Dave Williams (who also designed the larger Anzio game for Avalon Hill), it simulates the 1944
+  Battle of Anzio at the operational level: one player commands the Allied forces attempting to break
+  out of the beachhead, the other commands the German defenders.
+
+  The game's tighter scope compared to the full Anzio campaign game makes it a more accessible
+  introduction to Italian theater WWII wargaming. It was republished by SPI as a boxed set in 1973
+  and later re-released in Strategy & Tactics #134 (1990) under World Wide Wargames (3W).
+
+upgrades: []

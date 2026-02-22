@@ -1,0 +1,52 @@
+id: asg-baseball
+name: "ASG Baseball"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+  - Progress
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  ASG Baseball is a sports simulation board game simulating the game of baseball.
+  Limited information is available in English-language sources regarding this title's
+  specific mechanics, publisher, designer, or release year. It appears to be a tabletop
+  baseball simulation game using dice and cards to recreate the statistical and tactical
+  elements of America's pastime.
+
+upgrades: []

@@ -1,0 +1,62 @@
+id: ascension-deckbuilding-game
+name: "Ascension: Deckbuilding Game"
+alternate_names: ["Ascension: Chronicle of the Godslayer"]
+year: 2010
+
+# Relationships
+game_family: ascension
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Card Drafting
+  - Hand Management
+  - Fantasy
+  - Gateway
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Justin Gary
+  - Brian Kibler
+  - Rob Dougherty
+  - John Fiorillo
+publisher:
+  - Stone Blade Entertainment
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 13
+
+description: |
+  Ascension: Deckbuilding Game is a fantasy deck-building game designed by Justin Gary,
+  Brian Kibler, Rob Dougherty, and John Fiorillo, published by Stone Blade Entertainment
+  in 2010. Players spend Runes to acquire more powerful cards from a shared center row,
+  building their deck to generate Honor points while battling monsters. Unlike some deck
+  builders, Ascension uses a central market that changes each turn as cards are purchased
+  or defeated, creating a dynamic and reactive experience. The game launched a long-running
+  franchise with dozens of expansions and standalone sets.
+
+upgrades: []

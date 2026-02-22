@@ -1,0 +1,52 @@
+id: air-baron
+name: "Air Baron"
+alternate_names: []
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Economic
+  - Aviation
+
+evokes:
+  - Agency
+  - Rivalry
+  - Tension
+  - Progress
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Evan Davis
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  An economic strategy game published by Avalon Hill in 1996 in which players build airline empires across the North American aviation market. Starting with a single airport, players pay and roll dice to take over individual spokes connecting hubs, generating income from randomly selected purchased routes. Victory requires controlling a certain percentage of the market and accumulating a target amount of money. Despite its family-friendly marketing, Air Baron plays more like a wargame than Monopoly, with meaningful competitive decisions about which hubs and routes to contest.
+
+upgrades: []

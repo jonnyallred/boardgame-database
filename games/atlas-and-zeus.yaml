@@ -1,0 +1,54 @@
+id: atlas-and-zeus
+name: "Atlas & Zeus"
+alternate_names: ["Atlas and Zeus"]
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+  - Mythology
+
+evokes:
+  - Rivalry
+  - Agency
+  - Tension
+  - Clever
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Atlas & Zeus is a two-player strategy game set in the world of Atlantis, where rival
+  clans compete as the island sinks around them. The game features area control mechanics
+  with mythology-inspired theming. Limited publisher and designer information is available
+  in English-language sources, though the game appears from online discussions to be an
+  early 2000s publication with minimal setup time and unique character abilities drawn
+  from Greek mythology.
+
+upgrades: []

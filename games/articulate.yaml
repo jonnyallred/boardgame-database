@@ -1,0 +1,60 @@
+id: articulate
+name: "Articulate!"
+alternate_names: ["Articulate"]
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Teams
+  - Real-time
+  - Party
+  - Word Play
+  - Family
+  - Gateway
+
+evokes:
+  - Humor
+  - Tension
+  - Connection
+  - Rivalry
+  - Lucky
+
+possible_counts: [4, 6, 8, 10, 12]
+true_counts: [6, 8]
+
+designer:
+  - Andrew Bryceson
+publisher:
+  - Drumond Park
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Articulate! is the fast-talking description party game designed by Andrew Bryceson
+  and published by Drumond Park in 1992. Teams compete to describe as many words and
+  phrases as possible from category cards within 30 seconds, without using prohibited
+  hints like "rhymes with" or "sounds like." The game rewards quick thinking,
+  communication, and personality rather than specialist knowledge, making it accessible
+  to virtually everyone. It has sold over 2 million copies and has ranked among the UK's
+  top adult games every year since launch, becoming one of the best-selling games in Britain.
+
+upgrades: []

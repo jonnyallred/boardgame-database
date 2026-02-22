@@ -1,0 +1,58 @@
+id: andantino
+name: "Andantino"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - David Smith
+publisher:
+  - Nestorgames
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Andantino is a two-player abstract strategy game invented by David Smith, the creator of Trax.
+  Players take turns placing hexagonal tiles in two colors on an empty surface, building the board
+  as they play. Victory is achieved either by surrounding at least one opponent tile with tiles of
+  your own color, or by forming a chain of five hexagons in your color.
+
+  The emergent-board mechanic means neither player controls the shape of the playing field, creating
+  a dynamic spatial puzzle that changes with every placement. The game can also be played on
+  hexagonal paper using two colored pens, requiring no components at all. It is published by
+  Nestorgames as a compact, elegant abstract.
+
+upgrades: []

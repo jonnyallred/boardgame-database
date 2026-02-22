@@ -1,0 +1,64 @@
+id: american-megafauna
+name: "American Megafauna"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Variable Player Powers
+  - Drafting
+  - Area Control
+  - Economic
+  - Nature
+  - Animals
+
+evokes:
+  - Discovery
+  - Progress
+  - Clever
+  - Wonder
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Phil Eklund
+publisher:
+  - Sierra Madre Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  American Megafauna is a 1997 science-based evolution game by Phil Eklund, published by Sierra
+  Madre Games, in which players guide species through millions of years of evolution following the
+  extinction of the dinosaurs. Players begin as one of four broad archetypes and branch into new
+  species by bidding on genotype and DNA cards with gene coins from a shared gene pool.
+
+  The game incorporates genuine evolutionary biology: Milankovich climate cycles, dentition types,
+  and ecological niches all affect which species thrive. DNA cards allow players to create bizarre
+  chimeric creatures — cud-chewing crocodiles, saber-toothed camels — as nature's arms race unfolds.
+  Notoriously complex and scientifically dense, it was later succeeded by Bios: Megafauna (2011), a
+  more accessible redesign that retained the core evolutionary concepts.
+
+upgrades: []

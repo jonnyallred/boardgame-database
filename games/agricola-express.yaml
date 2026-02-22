@@ -1,0 +1,53 @@
+id: agricola-express
+name: "Agricola Express"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Resource Management
+  - Agriculture
+  - Filler
+  - Uwe Rosenberg
+
+evokes:
+  - Lucky
+  - Clever
+  - Progress
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Lookout Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  A fast, dice-driven spin-off of Uwe Rosenberg's farming classic Agricola, condensing the core appeal into a shorter format. The game plays over three harvests (3, 2, and 1 round each) where each round players roll all the dice and pick one set to use for their actions, gaining extra actions for babies in their household. By replacing worker placement with dice selection, Agricola Express captures the resource tension of its parent game in a much quicker package suitable as a filler or introductory experience.
+
+upgrades: []

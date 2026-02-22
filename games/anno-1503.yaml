@@ -1,0 +1,62 @@
+id: anno-1503
+name: "Anno 1503"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Resource Management
+  - Economic
+  - Historical
+  - Euro
+  - Klaus Teuber
+
+evokes:
+  - Discovery
+  - Progress
+  - Agency
+  - Clever
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Anno 1503 is a 2003 colonization board game by Klaus Teuber, based on the popular German PC
+  game of the same name, published by Mayfair Games and Kosmos. Players send ships from their
+  home countries to explore and settle unknown islands scattered across a 5×12 grid ocean,
+  racing to grow their colonies faster than opponents.
+
+  Players balance exploration, resource gathering, and settlement development across multiple
+  islands simultaneously. The tile-based island exploration creates a modular, ever-changing map
+  while resource chains drive colonial growth. Designed by the creator of Catan, the game carries
+  a similar spirit of exploration and economic development adapted to the Age of Sail setting.
+
+upgrades: []

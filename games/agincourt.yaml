@@ -1,0 +1,55 @@
+id: agincourt
+name: "Agincourt"
+alternate_names:
+  - "Agincourt: The Triumph of Archery over Armor, 25 October 1415"
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Medieval
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Dunnigan
+publisher:
+  - Simulations Publications Inc.
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  A two-player hex-and-counter wargame published by SPI in 1978 as part of their "120 Series" (120 counters, 120 minutes) simulating the Battle of Agincourt on October 25, 1415. Designed by Jim Dunnigan, the game pits the English army led by Henry V against a vastly numerically superior French force, recreating the famous triumph of English longbowmen over French armored knights. The compact format makes it accessible as an introductory wargame while still delivering a historically grounded simulation of one of the most famous medieval battles.
+
+upgrades: []

@@ -1,0 +1,62 @@
+id: anti-monopoly
+name: "Anti-Monopoly"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Trading
+  - Negotiation
+  - Family
+  - Historical
+
+evokes:
+  - Rivalry
+  - Agency
+  - Tension
+  - Clever
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Ralph Anspach
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 8
+
+description: |
+  Anti-Monopoly is a 1974 board game created by San Francisco State University economics professor
+  Ralph Anspach as a pointed critique of Monopoly's glorification of monopolistic capitalism.
+  Players are divided into "Competitors" and "Monopolists," each with different rules: competitors
+  can build anywhere but earn modest rents, while monopolists earn higher rents but are constrained
+  by antitrust-style rules. The board begins saturated with monopolies, and competitors work to
+  dismantle them in favor of free markets.
+
+  The game sparked a decade-long legal battle with Parker Brothers/Hasbro over use of the word
+  "Monopoly" in the title — a lawsuit that unearthed the true origins of the original Monopoly
+  game, crediting Lizzie Magie rather than Charles Darrow. Anti-Monopoly remains both a playable
+  game and a provocative piece of board game history.
+
+upgrades: []

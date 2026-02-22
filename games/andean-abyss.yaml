@@ -1,0 +1,66 @@
+id: andean-abyss
+name: "Andean Abyss"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: coin-series
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Card Drafting
+  - Historical
+  - Negotiation
+  - Wargame
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Clever
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Volko Ruhnke
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 300
+min_playtime: 180
+max_playtime: 480
+min_age: 14
+
+description: |
+  Andean Abyss is the first volume in GMT Games' acclaimed COIN (COunterINsurgency) series,
+  designed by Volko Ruhnke and published in 2012. Set in Colombia during the 1990s and early 2000s,
+  it places up to four players in asymmetric roles: the Colombian Government, the Marxist FARC
+  guerrillas, the right-wing AUC paramilitaries, and the narco-trafficking Cartels — each with
+  distinct capabilities and overlapping victory conditions.
+
+  The game uses a card-driven system where each of 72 dual-use event cards offers either a
+  historical event or a set of faction operations, forcing constant negotiation over initiative
+  and timing. No faction can win alone, creating rich diplomatic tension as players form and
+  betray temporary alliances. Andean Abyss won the 2012 Charles S. Roberts Award for Best
+  Post-WWII Wargame and was named one of Polygon's Most Influential Boardgames of the Decade.
+
+upgrades: []

@@ -1,0 +1,60 @@
+id: alquerque
+name: "Alquerque"
+alternate_names:
+  - "al-qirkat"
+  - "El-quirkat"
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+  - Ancient
+
+evokes:
+  - Rivalry
+  - Clever
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Alquerque is an ancient two-player abstract strategy game thought to have originated in the
+  Middle East, with evidence of a board carved into stone at the Egyptian temple of Kurna around
+  1400 BC. It is widely considered the parent game of Draughts (Checkers) and Fanorona, played
+  on a 5×5 grid of points connected by lines indicating legal movement paths.
+
+  Each player controls 12 pieces and alternates moving to adjacent empty points or capturing
+  opponent pieces by jumping over them — mandatory capturing applies, as in modern checkers.
+  Rules were recorded in the 13th-century Spanish manuscript Libro de los juegos, commissioned
+  by Alfonso X of Castile after the Moors brought the game to Spain. Alquerque stands as one
+  of the oldest documented board games still playable today.
+
+upgrades: []
