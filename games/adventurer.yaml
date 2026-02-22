@@ -1,0 +1,55 @@
+id: adventurer
+name: "Adventurer"
+alternate_names:
+  - "Adventurer: A Game of Man to Man Brawling in the Far Future"
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Action Points
+  - Sci-Fi
+  - Wargame
+  - Filler
+
+evokes:
+  - Tension
+  - Humor
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - T. O'Neill
+  - G. Petronis
+publisher:
+  - Yaquinto Publications
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Adventurer is a 1980 Yaquinto Publications "Album Games" title — a compact sci-fi brawling game sharing its core mechanics with the company's acclaimed Swashbuckler. Set in a futuristic cantina and spaceship interior, players maneuver combatants armed with exotic weapons and engage in chaotic hand-to-hand and ranged combat, complete with rules for overturning tables, hurling chairs, and throwing liquid containers. The game is notable for its fast, visceral action and the absurdist atmosphere that results from applying over-the-top saloon-brawl mechanics to a far-future science fiction setting.
+
+upgrades: []

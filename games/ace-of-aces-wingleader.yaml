@@ -1,0 +1,70 @@
+id: ace-of-aces-wingleader
+name: "Ace of Aces: Wingleader"
+year: 1988
+
+# Relationships
+game_family: ace-of-aces
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Simultaneous Action
+  - Wargame
+  - Historical
+  - Aviation
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Clever
+  - Agency
+  - Rivalry
+  - Masterful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Alfred Leonardi
+  - Robert Kern
+publisher:
+  - Nova Game Designs
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Ace of Aces: Wingleader is a World War II aerial combat game published by Nova
+  Game Designs in 1988, adapting the innovative picture-book game system of the
+  original Ace of Aces to the WWII era. Two players each hold illustrated
+  booklets depicting the view from their cockpit; simultaneous selection of
+  maneuver numbers determines the next page each player turns to, showing the
+  result of the dogfight.
+
+  Wingleader introduces formation flying and tactical coordination elements that
+  distinguish it from the original WWI Ace of Aces series. The no-dice, no-board
+  system creates a unique experience where the booklets themselves are the game
+  components. Players can also combine sets with the original Ace of Aces for
+  cross-era play.
+
+# Upgrades
+upgrades: []

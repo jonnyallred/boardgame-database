@@ -1,0 +1,51 @@
+id: 1851-agidingbi
+name: "1851 Agidingbi"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+  - Deduction
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Discovery
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Oludamola Adebowale
+publisher:
+  - Oludamola Adebowale (Self-Published)
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  1851 Agidingbi is Nigeria's first variant of chess, designed by culture activist and historian Oludamola Adebowale and set against the backdrop of Lagos history in 1851. The game uses a traditional checkered board but replaces standard chess pieces with figures drawn from Lagos royalty and chieftaincy, including the Oba of Lagos as king, the Erelu-Kuti as queen mother, the Adamu Eyo as rook, and the Omo Ogun Eko as pawn. Gameplay follows chess rules but requires players to understand the cultural narratives and historical events of Lagos in 1851 to fully engage with the game's themes. It is available both as a physical board game and a digital app.
+
+upgrades: []

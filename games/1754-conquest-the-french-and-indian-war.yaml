@@ -1,0 +1,67 @@
+id: 1754-conquest-the-french-and-indian-war
+name: "1754: Conquest – The French and Indian War"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Variable Player Powers
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+  - Discovery
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+# Metadata
+designer:
+  - Beau Beckett
+  - Jeph Stahl
+publisher:
+  - Academy Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  Part of Academy Games' "Birth of America" series, 1754 recreates the French and
+  Indian War (also known as the War of Conquest in Canada and the Seven Years War in
+  Europe) in which French and British factions fought for dominance over North America.
+  Players control multiple factions — French, British, Colonials, and Native Americans —
+  each with unique asymmetric abilities and victory conditions. Area control and
+  maneuvering of armies across the colonial map drives gameplay, with event cards
+  adding historical flavor and unpredictability.
+
+# Upgrades
+upgrades: []

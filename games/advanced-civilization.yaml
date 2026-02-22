@@ -1,0 +1,68 @@
+id: advanced-civilization
+name: "Advanced Civilization"
+year: 1991
+
+# Relationships
+game_family: civilization-1980
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (480-720 min)
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Civilization
+  - Trading
+  - Economic
+  - Area Control
+  - Tech Tree
+  - Historical
+  - Ancient
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Agency
+  - Masterful
+  - Rivalry
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [5, 6, 7]
+
+# Metadata
+designer:
+  - Francis Tresham
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 600
+min_playtime: 480
+max_playtime: 720
+min_age: 14
+
+# Description
+description: |
+  An expanded standalone version of the 1980 Civilization board game, incorporating
+  the Western Expansion board and additional advancement cards. Players guide ancient
+  civilizations from the Stone Age to the Iron Age, trading commodity cards to advance
+  their cultures through a technology tree of civilization advances. Calamities — both
+  natural disasters and human conflicts — can devastate populations and reduce cities.
+  With up to seven players, the full game is an epic multi-hour trading and
+  civilization-building experience. One of the most influential games in the genre,
+  considered superior to the base game by most players.
+
+# Upgrades
+upgrades: []

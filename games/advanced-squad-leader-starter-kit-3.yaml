@@ -1,0 +1,54 @@
+id: advanced-squad-leader-starter-kit-3
+name: "Advanced Squad Leader: Starter Kit #3"
+alternate_names:
+  - "ASLSK #3"
+year: 2008
+
+# Relationships
+game_family: advanced-squad-leader
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Asymmetric
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Ken Dunn
+publisher:
+  - Multi-Man Publishing
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 16
+
+description: |
+  Advanced Squad Leader: Starter Kit #3 is the third entry in Multi-Man Publishing's introductory series to the legendary ASL tactical WWII wargame system. Building on the infantry and artillery rules of the first two kits, ASLSK #3 introduces armored vehicles — tanks and armored cars — allowing players to field Shermans, Tigers, and other iconic AFVs of the war. The 28-page illustrated rulebook adds approximately six pages of new rules to the foundation established in the earlier kits, covering German, American, British, and Russian forces. It remains the recommended pathway into full ASL for players who want to master combined-arms tactical combat at squad level.
+
+upgrades: []

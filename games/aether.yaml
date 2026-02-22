@@ -1,0 +1,51 @@
+id: aether
+name: "Aether"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Abstract
+  - Area Control
+  - Modular Board
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Touko Tahkokallio
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Aether is an abstract tile placement game in which players battle for control of the mystical fifth element by placing tiles representing the four primary elements — earth, air, water, and fire — on a hexagonal board. Each elemental piece gains power from same-element tiles surrounding it but is weakened by counter-element tiles, creating a dynamic web of competing influences. Players must carefully position their tiles to boost their own elementals while undermining opponents', making each placement a tactical decision with board-wide consequences. Released at Spiel 2010, the game offers simple rules with genuine strategic depth.
+
+upgrades: []

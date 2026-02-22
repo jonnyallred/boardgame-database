@@ -1,0 +1,67 @@
+id: 12-realms
+name: "12 Realms"
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 0  # Cooperative
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Hand Management
+  - Modular Board
+  - Fantasy
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Connection
+  - Tension
+  - Discovery
+  - Progress
+  - Wonder
+
+# Player counts
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Ignazio Corrao
+publisher:
+  - MAGE Company
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+# Description
+description: |
+  12 Realms is a cooperative fantasy board game for 1-6 players in which heroes
+  inspired by fairy tales must band together to defend twelve magical realms from
+  the Lords of Darkness. Players choose from iconic characters drawn from fairy
+  tales and folklore, then travel between realms to gather ancient artifacts and
+  battle unique monsters before the darkness overwhelms them.
+
+  Each realm has its own unique theme, monsters, and challenges. Players cooperate
+  by sharing items, combining abilities, and coordinating attacks. As the threat
+  escalates, players must balance exploration with defense, making the game
+  a tense cooperative experience with escalating difficulty.
+
+# Upgrades
+upgrades: []

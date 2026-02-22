@@ -1,0 +1,64 @@
+id: advanced-squad-leader-starter-kit-2
+name: "Advanced Squad Leader: Starter Kit #2"
+year: 2005
+
+# Relationships
+game_family: advanced-squad-leader
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (120-240 min)
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Asymmetric
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer: []
+publisher:
+  - Multi-Man Publishing
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 16
+
+# Description
+description: |
+  The second entry in Multi-Man Publishing's Starter Kit series, designed to introduce
+  players to the legendary Advanced Squad Leader (ASL) system. This kit adds artillery
+  rules to the infantry mechanics introduced in Starter Kit #1, allowing players to
+  engage with more complex tactical situations. The Starter Kits are widely recommended
+  as the best entry point to ASL, which is one of the most detailed and comprehensive
+  tactical-level WWII wargames ever designed. Each scenario presents a historical
+  engagement from World War II.
+
+# Upgrades
+upgrades: []

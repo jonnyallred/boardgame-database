@@ -1,0 +1,64 @@
+id: abba-monopoly
+name: "ABBA Monopoly"
+year: 2004
+
+# Relationships
+game_family: monopoly
+edition: ABBA
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (3+ hours)
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Luck-driven
+feel: 2  # Moderate
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Trading
+  - Negotiation
+  - Auctions/Bidding
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Connection
+  - Humor
+  - Rivalry
+  - Progress
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer: []
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 150
+min_playtime: 90
+max_playtime: 240
+min_age: 8
+
+# Description
+description: |
+  ABBA Monopoly is a themed edition of the classic Monopoly board game featuring
+  the iconic Swedish pop group ABBA. The standard Monopoly mechanics — roll dice,
+  buy properties, collect rent, and bankrupt opponents — are reskinned with ABBA
+  branding, music references, and imagery from the band's catalog.
+
+  Properties, tokens, and board spaces are themed around ABBA songs, albums, and
+  locations significant to the band. This collector's edition appeals to both
+  Monopoly enthusiasts and ABBA fans, serving as both a playable game and a
+  memorabilia piece.
+
+# Upgrades
+upgrades: []

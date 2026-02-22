@@ -1,0 +1,66 @@
+id: ablaze
+name: "Ablaze!"
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Cooperative
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Tile Placement
+  - Modular Board
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Connection
+  - Agency
+  - Dread
+  - Progress
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Heinrich Glumpler
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 52
+min_playtime: 45
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Ablaze! is a cooperative firefighting board game published by Mayfair Games.
+  Players work together as firefighters attempting to contain a spreading wildfire
+  before it consumes the forest. The game contains multiple scenarios including
+  Wild Fire!, a reworked version of the German game Feurio!
+
+  Players place tiles representing the fire spreading across the board while
+  cooperating to strategically position their firefighting resources. The
+  escalating threat of the fire creates genuine tension as teams must balance
+  containment priorities. Ablaze! works well as a family cooperative game with
+  accessible rules and satisfying teamwork moments.
+
+# Upgrades
+upgrades: []

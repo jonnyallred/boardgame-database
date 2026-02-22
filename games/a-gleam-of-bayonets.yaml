@@ -1,0 +1,67 @@
+id: a-gleam-of-bayonets
+name: "A Gleam of Bayonets: The Battle of Antietam"
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (8+ hours)
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Dread
+  - Rivalry
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Richard H. Berg
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 600
+min_playtime: 480
+max_playtime: 720
+min_age: 16
+
+# Description
+description: |
+  A Gleam of Bayonets: The Battle of Antietam is a large-scale hex-and-counter
+  wargame designed by Richard H. Berg and published by TSR (formerly SPI) in 1983.
+  Part of the Great Battles of the American Civil War (GBACW) series, it simulates
+  the bloodiest single day in American military history — the Battle of Antietam
+  on September 17, 1862.
+
+  The game contains over 1,000 counters representing Union and Confederate
+  brigades, artillery batteries, and cavalry units. Players recreate the intense
+  fighting along Antietam Creek, including the cornfield, Burnside Bridge, and
+  Bloody Lane. With its massive counter density and detailed rules, this is a
+  "monster" wargame suited for dedicated grognards.
+
+# Upgrades
+upgrades: []

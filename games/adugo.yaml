@@ -1,0 +1,63 @@
+id: adugo
+name: "Adugo"
+year: 1928
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (15-20 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Abstract
+  - Asymmetric
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Clever
+  - Agency
+  - Masterful
+  - Rivalry
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+# Description
+description: |
+  Adugo is a traditional two-player asymmetric abstract strategy game from the
+  Bororo people of the Pantanal region of Brazil. It belongs to the hunting game
+  family — similar games are found across Southeast Asia and the Indian
+  subcontinent — where one player controls a single powerful jaguar while the
+  other controls a pack of dogs.
+
+  The jaguar wins by capturing a certain number of dogs; the dogs win by
+  surrounding and immobilizing the jaguar. This asymmetry creates a fundamentally
+  different experience for each player, as the jaguar must be aggressive while
+  the dogs must coordinate to contain it. Adugo is played on a triangular grid
+  drawn in the sand or on a board.
+
+# Upgrades
+upgrades: []

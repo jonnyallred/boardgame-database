@@ -1,0 +1,52 @@
+id: abilene
+name: "Abilene"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Racing
+  - Family
+  - Western
+
+evokes:
+  - Rivalry
+  - Lucky
+  - Tension
+  - Progress
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Roland Siegers
+publisher:
+  - Hexagames
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Abilene is a 1984 Western-themed board game set in 1870 when the Kansas city was the premier transshipment point for Texas cattle drives. Players take on the roles of cowboys herding cattle across the Great Plains and racing to deliver their herds to Abilene for profit. The game was originally published by Hexagames and later republished by Schmidt Spiele in 1993, and captures the competitive spirit of the cattle-drive era in a family-friendly format.
+
+upgrades: []

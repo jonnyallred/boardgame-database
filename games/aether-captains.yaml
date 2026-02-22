@@ -1,0 +1,54 @@
+id: aether-captains
+name: "Aether Captains"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Asymmetric
+  - Dice Rolling
+  - Variable Player Powers
+  - Steampunk
+  - Fantasy
+
+evokes:
+  - Tension
+  - Agency
+  - Unique
+  - Rivalry
+  - Powerful
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Todd Sanders
+publisher:
+  - MAGE Company
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Aether Captains is an asymmetric steampunk scenario game set in the world of Arkady, where one player commands a navy zeppelin while the remaining players control sky pirates attempting to bring it down. The naval zeppelin is represented by a cluster of six-sided dice, each die face showing different stats for attack, defense, engines, and crew, making damage a literal die-flip rather than a token. Originally designed by Todd Sanders as a print-and-play title and later published by MAGE Company via Kickstarter, the game features multiple scenarios and a strong asymmetric feel that rewards both sides with different tactical puzzles.
+
+upgrades: []

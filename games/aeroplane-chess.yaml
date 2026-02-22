@@ -1,0 +1,63 @@
+id: aeroplane-chess
+name: "Aeroplane Chess"
+year: 1937
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Luck
+feel: 1  # Light
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Connection
+  - Humor
+  - Tension
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+# Metadata
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 5
+
+# Description
+description: |
+  Aeroplane Chess (Fei Xing Qi in Chinese) is a Chinese cross-and-circle board
+  game similar to the Indian game Pachisi and the Western game Ludo. Developed in
+  the early-to-mid 20th century, the game features airplane-shaped playing pieces
+  racing around a cross-shaped track back to their home base.
+
+  Players roll dice to move their four airplanes from the starting area around
+  the board, aiming to get all pieces home before opponents. Like Ludo, players
+  can send opponents' pieces back to start by landing on their space. Aeroplane
+  Chess is enormously popular in China and across East and Southeast Asia, and
+  has been adapted into numerous digital formats.
+
+# Upgrades
+upgrades: []

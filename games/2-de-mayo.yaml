@@ -1,0 +1,69 @@
+id: 2-de-mayo
+name: "2 de Mayo"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - 1 vs Many
+  - Asymmetric
+  - Variable Player Powers
+  - Wargame
+  - Historical
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Unique
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Daniel Vaz Tomé
+publisher:
+  - Devir
+artist: []
+playtime_minutes: 35
+min_playtime: 25
+max_playtime: 45
+min_age: 12
+
+# Description
+description: |
+  2 de Mayo is a short asymmetric two-player wargame based on the historic uprising
+  of the Spanish people against Napoleon's forces in Madrid on May 2nd, 1808. One
+  player commands the French Imperial Army — the finest military force of its era —
+  while the other controls the ragtag Spanish civilian rebels determined to resist
+  at all costs.
+
+  The game uses a unique card-driven cat-and-mouse mechanism where the Spanish
+  player hides their guerrilla fighters in various locations across the city while
+  the French player hunts them down. The stark asymmetry — professional soldiers
+  versus desperate civilians — creates a tense, quick-playing experience that
+  captures the desperate nature of urban insurgency.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,54 @@
+id: 8th-army
+name: "8th Army"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Shaun Carter
+publisher:
+  - Attactix Adventure Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  8th Army is a 1982 introductory hex-and-counter wargame simulating the North African campaign of World War II between Allied and Axis forces. One player commands the British 8th Army while the other controls the Axis forces, maneuvering across a large hex grid map with a supplementary mini-map representing Mediterranean supply convoys and air movements. The game is designed to be accessible to new wargamers, offering a streamlined ruleset while still capturing the operational feel of the desert war.
+
+upgrades: []

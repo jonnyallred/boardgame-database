@@ -1,0 +1,53 @@
+id: 1918-brother-against-brother
+name: "1918: Brother Against Brother"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hand Management
+  - Events
+  - Route Building
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Linden Lake Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  1918: Brother Against Brother is a two-player card-driven wargame simulating the Finnish Civil War of 1918. One player commands the White government forces while the other leads the Red socialist revolutionaries, each striving for control of strategic towns across a point-to-point map of Finland. Over 50 unique action cards — each featuring period photography — can be played for action points or as historical events including German intervention, Swedish occupation of the Åland Islands, and grain deliveries from Soviet Russia. The White player wins by capturing key Red-held towns; the Red player wins by holding territory or threatening the White capital of Vaasa.
+
+upgrades: []

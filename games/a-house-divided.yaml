@@ -1,0 +1,65 @@
+id: a-house-divided
+name: "A House Divided: War Between the States 1861-65"
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90-150 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Powerful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Frank Chadwick
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+# Description
+description: |
+  A two-player strategic wargame of the American Civil War, designed by Frank Chadwick
+  and originally published by Game Designers' Workshop in 1981. One player commands
+  the Union, the other the Confederacy, as armies maneuver across the map of the
+  Eastern and Western theaters. The game uses a point-to-point movement system and
+  is notable for being one of the more accessible Civil War wargames while still
+  offering genuine strategic depth. Multiple editions have been published including
+  releases by Phalanx Games (2001) and Mayfair Games (2012).
+
+# Upgrades
+upgrades: []

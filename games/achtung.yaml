@@ -1,0 +1,49 @@
+id: achtung
+name: "ACHTUNG!"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Party
+  - Social Deduction
+
+evokes:
+  - Humor
+  - Clever
+  - Tension
+  - Rivalry
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  ACHTUNG! is an abstract game in which players create a growing set of pointless laws and annoying rules that everyone at the table must follow throughout the game. Each new rule added changes the constraints on all players, building an increasingly byzantine web of restrictions that tests attention and compliance. The game rewards players who can remember and navigate the accumulated rules while also trying to trip up their opponents. Specific publisher and designer details are not widely documented.
+
+upgrades: []

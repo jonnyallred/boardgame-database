@@ -1,0 +1,65 @@
+id: 4000-ad
+name: "4000 A.D."
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Sci-Fi
+  - Space
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Discovery
+  - Wonder
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Earl Doherty
+publisher:
+  - Waddingtons
+artist: []
+playtime_minutes: 105
+min_playtime: 90
+max_playtime: 120
+min_age: 10
+
+# Description
+description: |
+  4000 A.D. is a science fiction conquest board game published by Waddingtons in
+  1972. Set in a distant future where humanity has colonized the galaxy, players
+  command space fleets and armies competing for control of star systems. The game
+  features area control mechanics where players expand their empires across a
+  cosmic map.
+
+  As a product of the early 1970s Waddingtons catalog, 4000 A.D. represents an
+  early entry in the space-conquest genre for mass-market board games, blending
+  accessible rules with enough strategic decision-making to engage players of
+  various experience levels.
+
+# Upgrades
+upgrades: []

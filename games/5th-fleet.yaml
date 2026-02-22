@@ -1,0 +1,68 @@
+id: 5th-fleet
+name: "5th Fleet: Modern Naval Combat in the Indian Ocean"
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (4+ hours)
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Maritime
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+  - Dread
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Joseph M. Balkoski
+publisher:
+  - Victory Games
+artist: []
+playtime_minutes: 300
+min_playtime: 240
+max_playtime: 480
+min_age: 16
+
+# Description
+description: |
+  5th Fleet: Modern Naval Combat in the Indian Ocean is an operational-level naval
+  wargame published by Victory Games in 1989. Designed by Joseph M. Balkoski, the
+  game simulates hypothetical Cold War naval conflict in the Indian Ocean and
+  Persian Gulf, pitting US naval forces against Soviet intervention.
+
+  Players manage carrier battle groups, submarines, aircraft, and surface vessels
+  across the vast theater of the Indian Ocean. The operational scale captures the
+  challenges of long-range logistics, anti-submarine warfare, and air power
+  projection. As part of Victory Games' acclaimed naval series, 5th Fleet is
+  highly regarded by grognard wargamers for its detailed simulation of modern
+  naval combat.
+
+# Upgrades
+upgrades: []

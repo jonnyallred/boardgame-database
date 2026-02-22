@@ -1,0 +1,71 @@
+id: a-game-of-thrones-catan-brotherhood-of-the-watch
+name: "A Game of Thrones: Catan – Brotherhood of the Watch"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Resource Management
+  - Network Building
+  - Trading
+  - Variable Player Powers
+  - Fantasy
+  - Medieval
+  - Family
+  - Klaus Teuber
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Tension
+  - Rivalry
+  - Agency
+  - Lucky
+
+# Player counts
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Klaus Teuber
+  - Benjamin Teuber
+publisher:
+  - Catan Studio
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  A Game of Thrones-themed variant of the classic Settlers of Catan, designed by
+  Klaus and Benjamin Teuber. Players join the Night's Watch as brothers defending
+  the Wall against Wildling incursions. The familiar Catan resource-gathering and
+  settlement-building mechanics are present, but each player takes on an asymmetric
+  Night's Watch hero role with a special ability. Wildling threat advances across
+  the board, requiring players to collaborate on defense while also competing for
+  resources and settlements. The game is set in the Gift and along the Wall from
+  George R.R. Martin's A Song of Ice and Fire series.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,48 @@
+id: abacus-checkers
+name: "Abacus Checkers"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Abacus Checkers is an abstract strategy game played on an abacus-like board where one player controls the up-beam pieces and the other controls the down-beam pieces. The rules draw from three distinct traditions — Halma-type movement, Checkers-type captures, and Go-type territory concepts — creating a hybrid that rewards players familiar with multiple classic abstract games. The unusual board structure and blended ruleset give it a novel feel distinct from any of its parent games.
+
+upgrades: []

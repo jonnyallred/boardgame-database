@@ -1,0 +1,50 @@
+id: acey-deucey
+name: "Acey-Deucey"
+alternate_names: []
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Abstract
+  - Lucky
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Progress
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 60
+min_age: 8
+
+description: |
+  Acey-Deucey is a popular variant of backgammon with deep roots in the US Navy, Marine Corps, and merchant marine dating to World War I. Unlike standard backgammon, all pieces start off the board and must be entered before advancing. The defining rule is the acey-deucey roll: rolling a 1 and a 2 entitles the player to move those values, then choose and play any doubles, and then roll again, creating dramatic momentum swings. The game emphasizes racing and luck over deep strategic planning, making it a faster and more chaotic relative of backgammon.
+
+upgrades: []

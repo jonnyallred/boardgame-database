@@ -1,0 +1,67 @@
+id: 10-days-in-europe
+name: "10 Days in Europe"
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light competitive
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Hand Management
+  - Family
+  - Gateway
+  - Historical
+  - Alan R. Moon
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Complete
+  - Lucky
+  - Tension
+  - Discovery
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Alan R. Moon
+  - Aaron Weissblum
+publisher:
+  - Out of the Box Publishing
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+# Description
+description: |
+  A tile-placement and set-collection game in which players build a 10-day itinerary
+  across Europe. Each turn players draw and swap country tiles, trying to form a
+  continuous journey where adjacent countries share borders or are connected by
+  colored plane or ship tiles. The game requires geographic knowledge and hand
+  management to complete valid routes before opponents. One of several games in
+  the "10 Days in..." series by Moon and Weissblum, covering Africa, Asia, the
+  Americas, and the USA.
+
+# Upgrades
+upgrades: []

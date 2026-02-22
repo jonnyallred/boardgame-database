@@ -1,0 +1,65 @@
+id: 6-nimmt-junior
+name: "6 nimmt! Junior"
+year: 2012
+
+# Relationships
+game_family: 6-nimmt
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20-30 min)
+rules_complexity: 0  # Preschool/Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Set Collection
+  - Family
+  - Party
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Connection
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Wolfgang Kramer
+publisher:
+  - Amigo
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 5
+
+# Description
+description: |
+  6 nimmt! Junior is the children's version of the classic card game 6 nimmt!
+  (also known as Take 6!), designed by Wolfgang Kramer. Published by Amigo, this
+  junior edition simplifies the original to make it accessible for younger
+  players while retaining the core simultaneous card play mechanic.
+
+  Players simultaneously reveal cards and add them to rows on the table, trying to
+  avoid collecting cards. The simplified rules and colorful animal theme make it
+  an ideal introduction to hand management card games for children aged 5 and up,
+  while the simultaneous play keeps all players engaged throughout.
+
+# Upgrades
+upgrades: []

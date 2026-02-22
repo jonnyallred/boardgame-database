@@ -1,0 +1,67 @@
+id: a-line-in-the-sand
+name: "A Line in the Sand"
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (2-3 hours)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+  - Unique
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Paul Lidberg
+  - Douglas Niles
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+# Description
+description: |
+  A Line in the Sand is a geopolitical wargame simulation of conflict in the
+  Middle East, designed by Paul Lidberg and Douglas Niles and published by TSR
+  in 1991. The game was released during the First Gulf War, giving it immediate
+  topical relevance.
+
+  Players take on the roles of major powers competing for influence and control
+  in the Persian Gulf region. The area control mechanics simulate the political
+  and military dynamics of the conflict, with players deploying forces, managing
+  alliances, and competing for key strategic objectives. The game captures the
+  Risk-style abstraction of geopolitical conflict in an accessible format.
+
+# Upgrades
+upgrades: []

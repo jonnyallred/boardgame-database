@@ -1,0 +1,55 @@
+id: aerotech
+name: "AeroTech"
+alternate_names:
+  - "AeroTech: The BattleTech Game of Fighter Combat"
+year: 1986
+
+# Relationships
+game_family: battletech
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2]
+
+designer:
+  - Jordan Weisman
+  - L. Ross Babcock III
+publisher:
+  - FASA Corporation
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  AeroTech is a tabletop wargame set in the BattleTech universe that simulates aerial and space combat between aerospace fighters, DropShips, and WarShips. Published by FASA Corporation in 1986, it uses a hex-grid system and detailed movement and weapon rules to model high-speed fighter combat across atmospheric and space environments. The game is fully compatible with the ground-based BattleTech rules, allowing players to integrate aerial assets into larger combined-arms engagements. Multiple revised editions were released over the years, including AeroTech 2 and AeroTech 2 Revised, refining the ruleset and expanding the available units.
+
+upgrades: []

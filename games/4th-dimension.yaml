@@ -1,0 +1,52 @@
+id: 4th-dimension
+name: "4th Dimension"
+alternate_names:
+  - "4th Dimension: The Game of Time & Space"
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Sci-Fi
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Unique
+  - Wonder
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - John A. Ball
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  4th Dimension is a two-to-four player abstract game played on a circular board that incorporates unusual moves including a "time travel" mechanic, letting players move pieces through conceptual temporal as well as spatial dimensions. Designed by John A. Ball and first published in Games & Puzzles magazine before being licensed to TSR, the game blends science fiction flavor with strategic abstract gameplay. Its distinctive circular board and time travel rules give it a genuinely novel feel that sets it apart from conventional abstract strategy games.
+
+upgrades: []

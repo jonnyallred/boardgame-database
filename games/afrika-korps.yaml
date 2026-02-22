@@ -1,0 +1,63 @@
+id: afrika-korps
+name: "Afrika Korps"
+year: 1964
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90-180 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Powerful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Charles S. Roberts
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+# Description
+description: |
+  One of the classic early Avalon Hill wargames designed by company founder Charles S.
+  Roberts, simulating the North African campaign of World War II. Players command
+  either the Allied forces or the Axis Afrika Korps as Rommel's forces battle British
+  and Commonwealth troops across the deserts of Libya and Egypt. The game uses the
+  classic Avalon Hill hex-and-counter format and is considered a foundational title
+  in the wargaming hobby, influencing generations of subsequent war games.
+
+# Upgrades
+upgrades: []

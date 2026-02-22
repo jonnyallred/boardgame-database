@@ -1,0 +1,70 @@
+id: 1856-railroading-in-upper-canada
+name: "1856: Railroading in Upper Canada from 1856"
+year: 1995
+
+# Relationships
+game_family: 18xx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (4+ hours)
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Economic
+  - Auctions/Bidding
+  - Route Building
+  - Network Building
+  - Trading
+  - Euro
+  - Historical
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Masterful
+  - Clever
+  - Rivalry
+  - Progress
+  - Tension
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Bill Dixon
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 210
+min_playtime: 180
+max_playtime: 240
+min_age: 14
+
+# Description
+description: |
+  1856: Railroading in Upper Canada from 1856 is an 18XX railway game set in
+  Upper Canada (now Ontario), covering the railway development from the Toronto
+  to Detroit corridor through southern Ontario and the upper reaches of the
+  St. Lawrence River. Designed by Bill Dixon and published by Mayfair Games,
+  it is considered one of the more accessible entries in the 18XX family.
+
+  Players alternate between stock rounds (buying and selling shares in railway
+  companies) and operating rounds (building track and running trains). The game
+  features the CGR (Canadian Government Railway) mechanic, where financially
+  troubled companies can be nationalized, providing a distinctive twist on the
+  standard 18XX formula. For 3-6 players, typical play runs 3-4 hours.
+
+# Upgrades
+upgrades: []

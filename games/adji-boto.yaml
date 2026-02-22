@@ -1,0 +1,63 @@
+id: adji-boto
+name: "Adji-boto"
+year: 1928
+
+# Relationships
+game_family: mancala
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (15-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Abstract
+  - Mancala
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+# Description
+description: |
+  Adji-boto is a traditional mancala game played by the Saramaccan people who
+  live on the banks of the Saramacca River in Suriname. The game was first
+  documented by American ethnologist Melville J. Herskovits in 1928, though it
+  is certainly far older.
+
+  Like other mancala variants, players sow seeds or stones around a board of
+  cups or pits, capturing opponent pieces through specific configurations. Beyond
+  its strategic nature, adji-boto holds significant cultural importance for the
+  Saramaccans, traditionally played during the ten days before burial following
+  a community member's death, with the intent of attracting spirits to accompany
+  the deceased into the afterlife.
+
+# Upgrades
+upgrades: []

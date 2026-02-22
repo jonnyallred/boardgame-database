@@ -1,0 +1,66 @@
+id: 3-stones
+name: "3-stones"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (15-20 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Abstract
+  - Tile Placement
+  - Pattern Building
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Complete
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Alex Randolph
+publisher:
+  - Drei Hasen in der Abendsonne
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+# Description
+description: |
+  3-stones is a two-player abstract strategy game in which players place black
+  and white stones on a cross-shaped board to form scoring groups. On each turn,
+  a player places two stones — one of their own color and one of the opponent's
+  color — creating a push-pull dynamic where placing your opponent's stones is
+  unavoidable.
+
+  Points are scored for groups of three or more connected same-colored stones at
+  the end of the game. The forced placement of opponent's stones creates a unique
+  strategic tension, as every move simultaneously advances both players' positions.
+  The game is quick to learn but offers meaningful depth through its unusual
+  dual-placement mechanism.
+
+# Upgrades
+upgrades: []

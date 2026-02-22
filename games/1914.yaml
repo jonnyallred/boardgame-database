@@ -1,0 +1,66 @@
+id: 1914
+name: "1914"
+year: 1968
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (4+ hours)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Dread
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - James Dunnigan
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 12
+
+# Description
+description: |
+  1914 is a two-player board wargame designed by James Dunnigan and published by
+  Avalon Hill in 1968. It simulates the opening months of World War I on the
+  Western Front, covering the period of fluid mobile warfare before the trenches
+  were established. This was Dunnigan's second game for Avalon Hill and an early
+  example of hex-and-counter wargaming.
+
+  Players control the German and Allied forces as they maneuver across Belgium and
+  France. The game captures the race to the sea and the initial German offensive,
+  with historical scenarios providing context for the dramatic early campaigns of
+  the war.
+
+# Upgrades
+upgrades: []

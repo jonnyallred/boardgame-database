@@ -1,0 +1,47 @@
+id: 369-qi
+name: "369 Qi"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 8
+
+description: |
+  369 Qi is a Chinese abstract strategy board game. Limited information is available from online sources; the game appears to be a traditional or semi-traditional strategy game in the broader family of Chinese abstract games. Further details on publisher, designer, and precise rules are not readily documented in English-language sources.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: affenstark
+name: "Affenstark"
+alternate_names:
+  - "Mighty Monkey"
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Zoch Verlag
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Affenstark (also known as Mighty Monkey) is a 1996 children's dexterity game from Zoch Verlag in which players roll a die and carefully place wooden banana pieces on a growing pile held by a monkey figure named Carla. A player may also choose to place the smaller monkey Alfons on top of the banana pile for a chance at two victory points, but if the pile tumbles, they lose a point. The first player to reach nine victory points wins, making this a light and accessible stacking game well-suited for young children.
+
+upgrades: []

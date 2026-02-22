@@ -1,0 +1,53 @@
+id: 5-seconds-rule
+name: "5 Seconds Rule"
+alternate_names:
+  - "5 Second Rule"
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Michael Sistrunk
+publisher:
+  - PlayMonster
+artist:
+  - Henrik Tistling
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 10
+
+description: |
+  5 Seconds Rule is a fast-paced party game where the player in the "hot seat" has just five seconds to name three things that fit the given category before the timer runs out. The ticking ball-drop timer creates genuine pressure and hilarity as players scramble to blurt out answers. Originally published by Patch Products in 2010, the game is a straightforward crowd-pleaser ideal for groups of all sizes looking for quick, silly fun.
+
+upgrades: []

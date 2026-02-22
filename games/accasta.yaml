@@ -1,0 +1,63 @@
+id: accasta
+name: "Accasta"
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Abstract
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Dieter Stein
+publisher:
+  - Spielstein
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  Accasta is a two-player abstract strategy game played on a hexagonal board,
+  designed by Dieter Stein. Players place and move stacks of pieces, with the
+  goal of connecting their pieces in specific configurations. The game was first
+  published in 1998 on the web and in the German game design magazine Spiel &
+  Autor.
+
+  The stacking mechanics create interesting tactical decisions as players build
+  and move towers of pieces across the hexagonal grid. Accasta is part of Dieter
+  Stein's catalog of original abstract games and is notable as one of his earliest
+  designs to gain recognition.
+
+# Upgrades
+upgrades: []

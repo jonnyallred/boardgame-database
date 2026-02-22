@@ -1,0 +1,67 @@
+id: a-world-at-war
+name: "A World at War"
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (480+ min)
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Economic
+  - Tech Tree
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Masterful
+  - Agency
+  - Tension
+  - Powerful
+  - Rivalry
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Bruce Harper
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 600
+min_playtime: 480
+max_playtime: 960
+min_age: 16
+
+# Description
+description: |
+  A grand strategic simulation of World War II published by GMT Games, considered
+  one of the most comprehensive and complex WWII games ever designed. Players
+  control the major powers of the conflict — Allies and Axis — managing industrial
+  production, research and development, diplomacy, and military operations across
+  all theaters of war simultaneously. The game models everything from infantry
+  battalions to strategic bombing campaigns to naval warfare to atomic research.
+  Widely regarded as the definitive WWII grand strategy wargame, and one of the
+  most demanding games in terms of rules complexity and playing time.
+
+# Upgrades
+upgrades: []

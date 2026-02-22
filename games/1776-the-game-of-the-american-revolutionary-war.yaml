@@ -1,0 +1,64 @@
+id: 1776-the-game-of-the-american-revolutionary-war
+name: "1776: The Game of the American Revolutionary War"
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long (180-240 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Powerful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Randell Reed
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 12
+
+# Description
+description: |
+  A two-player hex-and-counter wargame published by Avalon Hill simulating the
+  American Revolutionary War, with one player commanding the Continental Army and
+  Patriots while the other commands British Loyalist forces. The game covers the
+  full scope of the conflict across the American colonies, from 1775 to 1783.
+  Players manage supply, movement, combat, and political control of regions.
+  Classic Avalon Hill design featuring the detailed hex-map and chit-based gameplay
+  that defined wargaming in the 1970s.
+
+# Upgrades
+upgrades: []

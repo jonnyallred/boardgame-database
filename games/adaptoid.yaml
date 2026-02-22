@@ -1,0 +1,50 @@
+id: adaptoid
+name: "Adaptoid"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Nestor Romeral Andres
+publisher:
+  - nestorgames
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Adaptoid is a two-player abstract strategy game designed by Nestor Romeral Andres in 2008, played on a hexagonal board with four cells per side. Players control creatures called adaptoids, which begin the game without legs or pincers, and must strategically attach legs (for movement) and pincers (for combat power) to their adaptoids as the game progresses. The goal is to capture at least five enemy adaptoids by landing on them with a creature bearing more pincers, creating an evolving tactical puzzle where every piece you build and every move shifts the board's balance.
+
+upgrades: []

@@ -1,0 +1,68 @@
+id: a-castle-for-all-seasons
+name: "A Castle for All Seasons"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Variable Player Powers
+  - Resource Management
+  - Action Points
+  - Worker Placement
+  - Euro
+  - Medieval
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Complete
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - Eggertspiele
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  Players build a castle together but compete for points by choosing character roles
+  each round. Each role grants a unique special action and access to different
+  resources. The twist is that all players simultaneously choose their role for the
+  round in secret, and roles that are selected by multiple players lose some of their
+  effectiveness. Balancing which role to play, predicting opponents' choices, and
+  optimizing your building and resource gathering over four seasons of gameplay
+  makes for a tightly competitive Euro-style experience.
+
+# Upgrades
+upgrades: []

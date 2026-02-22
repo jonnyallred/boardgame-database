@@ -1,0 +1,50 @@
+id: achi
+name: "Achi"
+alternate_names:
+  - "Tapatan"
+year: 300
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - No Math
+
+evokes:
+  - Rivalry
+  - Clever
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 6
+
+description: |
+  Achi is a traditional two-player abstract strategy game originating from Ghana, closely related to tic-tac-toe and Three Men's Morris. Each player has four pieces and the game proceeds in two phases: first placing pieces onto the 3x3 board, then taking turns sliding pieces to adjacent points to form a three-in-a-row. The combination of placement and movement phases adds a layer of strategic depth beyond simple tic-tac-toe, as players must think ahead to avoid trapping themselves while creating threats. Its minimal components and centuries-old design make it a timeless filler for any two players.
+
+upgrades: []

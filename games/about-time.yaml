@@ -1,0 +1,54 @@
+id: about-time
+name: "About Time"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Deduction
+
+evokes:
+  - Clever
+  - Rivalry
+  - Humor
+  - Tension
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+true_counts: [4, 5, 6, 7, 8]
+
+designer:
+  - Joe Gill
+  - Iain McGill
+  - Matt Gould
+  - Michele Rosaus
+publisher:
+  - Circa Circa Ltd
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  About Time is a historical trivia party game created by the founders of Circa Circa Ltd and first released at Spiel 2007. Rather than asking for factual answers, the game challenges players to estimate the year a historical event occurred, with the player whose guess is closest winning each card. This numerical guessing format levels the playing field compared to traditional trivia games, creating tense and amusing moments as players debate timelines. The game became notable after appearing on BBC's Dragon's Den in 2007 and supports up to 20 players.
+
+upgrades: []

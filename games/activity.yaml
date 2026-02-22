@@ -1,0 +1,64 @@
+id: activity
+name: "Activity"
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (60-90 min)
+rules_complexity: 0  # Simple
+strategic_depth: 0  # Light
+feel: 2  # Moderate
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Party
+  - Teams
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Connection
+  - Creative
+  - Lucky
+  - Tension
+
+# Player counts
+possible_counts: [4, 5, 6, 7, 8, 9, 10, 11, 12]
+true_counts: [6, 8]
+
+# Metadata
+designer: []
+publisher:
+  - Piatnik
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+# Description
+description: |
+  Activity is a popular party game published by Piatnik in 1990, designed for
+  teams of at least 2 players each. Teams compete to guess words through a
+  variety of communication methods: drawing, acting, and describing without using
+  restricted words.
+
+  Players move their team's pawn around the board by successfully completing the
+  communication challenges shown on cards. The combination of drawing, mime, and
+  verbal description creates varied and often hilarious moments. Activity has been
+  translated into many languages and remains one of Piatnik's most successful
+  titles, appealing to mixed groups at family gatherings and parties.
+
+# Upgrades
+upgrades: []

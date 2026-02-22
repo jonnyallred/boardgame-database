@@ -1,0 +1,68 @@
+id: a-game-of-thrones-the-card-game
+name: "A Game of Thrones: The Card Game"
+year: 2002
+
+# Relationships
+game_family: a-game-of-thrones-lcg
+edition: "First Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-90 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium (LCG model)
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Hand Management
+  - Card Drafting
+  - Asymmetric
+  - Variable Player Powers
+  - Fantasy
+  - Medieval
+  - Fantasy Flight Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Masterful
+  - Powerful
+  - Rivalry
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Eric Lang
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+# Description
+description: |
+  A Living Card Game (LCG) set in George R.R. Martin's Westeros, originally released
+  as a collectible card game in 2002 and later transitioned to the LCG model. Players
+  build decks around one of the Great Houses — Stark, Lannister, Baratheon, Targaryen,
+  and others — and compete to earn 15 power points by winning challenges (military,
+  intrigue, power) against opponents. A unique plot card system creates a hidden
+  planning phase each round. A second edition with revised rules was published in 2015.
+  Designed by Eric Lang, the game is notable for its deep faction asymmetry and
+  political intrigue mechanics.
+
+# Upgrades
+upgrades: []

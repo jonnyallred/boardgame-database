@@ -1,0 +1,62 @@
+id: acre-richard-lionhearts-siege
+name: "Acre: Richard Lionheart's Siege"
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Medieval
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Masterful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer: []
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+# Description
+description: |
+  A two-player wargame published by SPI in 1978 simulating the Siege of Acre in 1191
+  during the Third Crusade. Richard I of England (the Lionheart) led the Crusaders
+  to capture the fortified port city of Acre from Saladin's forces. The game models
+  the siege operations, supply lines, and counterattack attempts in the traditional
+  SPI hex-and-counter format. A historical wargame covering one of the pivotal
+  engagements of the Crusades.
+
+# Upgrades
+upgrades: []

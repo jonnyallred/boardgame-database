@@ -1,0 +1,49 @@
+id: 3-6-9
+name: "3-6-9"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Party
+  - No Math
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  3-6-9 is a simple dice or number-based party game focused on quick reactions and counting. Players take turns counting numbers aloud, replacing any number containing or divisible by 3, 6, or 9 with a clap or action instead of saying the number. The game rewards attention and quick reflexes over strategy, making it a lightweight social activity. Publisher and designer details are not widely documented.
+
+upgrades: []

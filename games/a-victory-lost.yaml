@@ -1,0 +1,55 @@
+id: a-victory-lost
+name: "A Victory Lost"
+alternate_names:
+  - "A Victory Lost: Crisis in Ukraine 1942-1943"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Action Points
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Tetsuya Nakamura
+publisher:
+  - Multi-Man Publishing
+artist: []
+playtime_minutes: 360
+min_playtime: 180
+max_playtime: 360
+min_age: 12
+
+description: |
+  A Victory Lost: Crisis in Ukraine 1942-1943 is a two-player operational wargame simulating the intense mobile fighting on the Eastern Front, from the Soviet encirclement at Stalingrad in December 1942 through Field Marshal von Manstein's famous "Backhand Blow" counterattack in March 1943. Part of Multi-Man Publishing's International Game Series and the "Fierce Fight!" system, the game uses a chit-pull activation mechanism that creates fog of war and unpredictable tempo, forcing both sides to make critical decisions under uncertainty. Originally a celebrated Japanese design by Tetsuya Nakamura, the game is widely praised for its elegant system that captures fluid, mobile warfare at the division-to-corps scale.
+
+upgrades: []

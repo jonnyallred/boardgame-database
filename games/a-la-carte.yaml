@@ -1,0 +1,65 @@
+id: a-la-carte
+name: "A la Carte"
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-45 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate competitive/humorous
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Dexterity
+  - Press Your Luck
+  - Family
+  - Party
+  - Food Theme
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Connection
+  - Rivalry
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Klaus Zoch
+publisher:
+  - Zoch Verlag
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+# Description
+description: |
+  A dexterity cooking game in which players prepare dishes by carefully adding
+  spices from miniature spice shakers to small cooking pots. The challenge is
+  dispensing just the right amount of each spice — too little and your dish is
+  bland, too much and it's ruined. Players race to complete recipes while avoiding
+  spice disasters. The tactile spice-shaker mechanic and colorful food-themed
+  components made the game a Spiel des Jahres nominee. Published by Zoch Verlag,
+  the German publisher known for innovative family games.
+
+# Upgrades
+upgrades: []

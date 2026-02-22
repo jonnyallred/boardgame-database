@@ -1,0 +1,53 @@
+id: aether-captains-clockwork-cabal
+name: "Aether Captains: Clockwork Cabal"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Steampunk
+  - Puzzle Solving
+  - Hand Management
+
+evokes:
+  - Tension
+  - Mystery
+  - Discovery
+  - Agency
+  - Lucky
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Todd Sanders
+publisher:
+  - Todd Sanders (Self-Published)
+artist:
+  - Todd Sanders
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 12
+
+description: |
+  Aether Captains: Clockwork Cabal is a solo card game set in a steampunk world where the player must locate six parts of the Antikytheria before time runs out. Players build the city map from a deck of City Sector cards, resolving Location events and managing health, knowledge, strength, and items as they hunt for the scattered components. Self-published by designer Todd Sanders, the game packs a tight narrative puzzle into a compact 54-card deck, offering a quick but atmospheric single-player challenge.
+
+upgrades: []

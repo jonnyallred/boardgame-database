@@ -1,0 +1,72 @@
+id: unmatched-adventures-teenage-mutant-ninja-turtles
+name: "Unmatched Adventures: Teenage Mutant Ninja Turtles"
+year: 2025
+
+# Relationships
+game_family: unmatched-adventures
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (45-90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Tactics
+feel: 2  # Moderate competitive/cooperative
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - Hand Management
+  - Asymmetric
+  - Variable Player Powers
+  - Deck Building
+  - Superheroes
+  - Fantasy
+  - Restoration Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Powerful
+  - Tension
+  - Agency
+  - Unique
+  - Connection
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer:
+  - Noah Cohen
+  - Rob Daviau
+  - Jason Hager
+  - Justin D. Jacobson
+  - Brian Neff
+publisher:
+  - Restoration Games
+artist: []
+playtime_minutes: 60
+min_playtime: 20
+max_playtime: 60
+min_age: 9
+
+# Description
+description: |
+  The second entry in the cooperative Unmatched Adventures series, featuring the four
+  Teenage Mutant Ninja Turtles — Leonardo, Donatello, Raphael, and Michelangelo — as
+  they battle enemies across New York City. Each turtle is a unique hero with their own
+  deck of cards and special abilities, and players must work together to defeat villain
+  scenarios. Like other Unmatched titles, combat uses hand management and deck mechanics,
+  but this cooperative variant replaces direct PvP combat with collaborative missions
+  against AI enemies. Compatible with other Unmatched Adventures content.
+
+# Upgrades
+upgrades: []

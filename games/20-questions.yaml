@@ -1,0 +1,62 @@
+id: 20-questions
+name: "20 Questions"
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool - extremely simple
+strategic_depth: 0  # Reflex/guessing
+feel: 1  # Light social
+value: 0  # Impulse
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deduction
+  - Party
+  - Family
+  - Word Play
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Humor
+  - Mystery
+  - Clever
+  - Connection
+  - Lucky
+
+# Player counts
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+# Metadata
+designer: []
+publisher:
+  - Various
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+# Description
+description: |
+  The classic parlor game formalized as a board game. One player thinks of a person,
+  place, or thing while others ask up to 20 yes-or-no questions to guess what it is.
+  The guesser wins if they identify the subject within 20 questions; the thinker wins
+  if they stump the group. Various commercial editions have been published over the
+  decades, but the game can be played without any components at all. Simple, portable,
+  and enjoyable across all ages.
+
+# Upgrades
+upgrades: []

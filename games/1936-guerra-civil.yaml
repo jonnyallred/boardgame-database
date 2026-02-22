@@ -1,0 +1,52 @@
+id: 1936-guerra-civil
+name: "1936 Guerra Civil"
+alternate_names:
+  - "La Guerra Civil Española (1936)"
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Area Control
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - NAC
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  1936 Guerra Civil (also known as La Guerra Civil Española 1936) is a two-player wargame published by NAC in 1981, notable as one of the first wargames ever published in Spain. The game simulates the Spanish Civil War, with one player commanding Republican forces and the other controlling the Nationalist rebels, each seeking military or diplomatic victory. Its historical significance as an early Spanish wargame makes it a collector's item, and a fan-made enhanced edition with improved components was produced in 2009.
+
+upgrades: []

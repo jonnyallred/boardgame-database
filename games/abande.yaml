@@ -1,0 +1,65 @@
+id: abande
+name: "Abande"
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Abstract
+  - Tile Placement
+  - Pattern Building
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Dieter Stein
+publisher:
+  - Bambus Spielverlag
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+# Description
+description: |
+  Abande is a two-player abstract strategy game designed by Dieter Stein and
+  published by Bambus Spielverlag in 2005. The game is played with stackable
+  pieces on a hexagonal board, and the central constraint is that the board must
+  always remain connected — no piece or group of pieces may be isolated.
+
+  Players place or move pieces and stacks, scoring at game end based on the
+  configuration of pieces. The connectivity rule creates a unique tactical
+  environment where every move must consider the global board state. Abande was
+  first published digitally and in the German game design magazine Spiel & Autor
+  before receiving a physical release.
+
+# Upgrades
+upgrades: []

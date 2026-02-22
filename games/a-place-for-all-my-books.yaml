@@ -1,0 +1,65 @@
+id: a-place-for-all-my-books
+name: "A Place for All My Books"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (30-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Set Collection
+  - Drafting
+  - Hand Management
+  - Family
+  - Pattern Building
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Complete
+  - Clever
+  - Connection
+  - Progress
+  - Agency
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Alex Cutler
+  - Michael Mihealsick
+publisher:
+  - Smirk & Dagger Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+# Description
+description: |
+  A set-collection and arrangement game in which players build and organize their
+  personal bookshelves, collecting books of various genres and satisfying arrangement
+  objectives. Players draft books and place them on their shelves while competing
+  for bonus scoring cards that reward specific arrangements or genre combinations.
+  Named Barnes & Noble's 2025 Game of the Year. The game appeals to book lovers
+  and those who enjoy light-to-moderate strategy with a charming thematic wrapper.
+
+# Upgrades
+upgrades: []

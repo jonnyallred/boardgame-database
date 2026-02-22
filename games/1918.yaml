@@ -1,0 +1,54 @@
+id: 1918
+name: "1918"
+alternate_names:
+  - "1918: Operation Michel"
+year: 1970
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Area Control
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James F. Dunnigan
+publisher:
+  - Simulations Publications Inc. (SPI)
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  1918 is a two-player operational wargame published by SPI in 1970 that simulates Operation Michael, Germany's massive 1918 spring offensive on the Western Front — their last major attempt to win the war before American forces arrived in strength. Designed by James F. Dunnigan, the game uses a hex-and-counter system to depict the ten-day offensive from March 21 to 30, 1918. The German player must punch through Allied lines and achieve decisive territorial objectives, while the Allied player must contain the breakthrough before it becomes catastrophic. A revised second edition appeared in 1972 with refined rules based on player feedback.
+
+upgrades: []

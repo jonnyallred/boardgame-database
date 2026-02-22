@@ -1,0 +1,67 @@
+id: ace-of-aces
+name: "Ace of Aces"
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20-30 min)
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Programmed Movement
+  - Simultaneous Action
+  - Wargame
+  - Historical
+  - War
+  - Aviation
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Clever
+  - Masterful
+
+# Player counts
+possible_counts: [2]
+true_counts: [2]
+
+# Metadata
+designer:
+  - Alfred Leonardi
+publisher:
+  - Nova Game Designs
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+# Description
+description: |
+  A unique two-player World War I aerial combat game that uses illustrated picture books
+  instead of a board or miniatures. Each player holds a booklet showing the cockpit view
+  and maneuver options; both players simultaneously choose a maneuver number, then flip
+  to the referenced page in both books to see the new positions. The books update to show
+  whether you've gained or lost position, enabling gunfire. The book-based system
+  elegantly simulates three-dimensional dogfighting without any physical components
+  beyond the two booklets. Multiple series exist including the Handy Rotary Series
+  and the Powerhouse Series for WWI and WWII aircraft respectively.
+
+# Upgrades
+upgrades: []

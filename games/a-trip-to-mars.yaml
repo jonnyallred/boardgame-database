@@ -1,0 +1,64 @@
+id: a-trip-to-mars
+name: "A Trip To Mars"
+year: 1959
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack (20-30 min)
+rules_complexity: 0  # Preschool/Simple
+strategic_depth: 0  # Reflex/Luck
+feel: 1  # Light
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Racing
+  - Sci-Fi
+  - Space
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Lucky
+  - Wonder
+  - Connection
+  - Discovery
+  - Humor
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer: []
+publisher:
+  - Chad Valley
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 5
+
+# Description
+description: |
+  A Trip To Mars is a classic roll-and-move children's board game published in
+  the late 1950s/early 1960s during the space race era. Players race their pieces
+  through the solar system from Earth to Mars, moving in and out of orbital paths
+  as directed by dice rolls and space cards.
+
+  The first player to successfully navigate to Mars wins the game. As a product
+  of its era, the game reflects Cold War-era fascination with space exploration
+  and is primarily aimed at young children. Limited strategic depth makes it
+  purely a family game for the youngest players.
+
+# Upgrades
+upgrades: []

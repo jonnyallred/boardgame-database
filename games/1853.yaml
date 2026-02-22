@@ -1,0 +1,70 @@
+id: 1853
+name: "1853"
+year: 1989
+
+# Relationships
+game_family: 18xx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (6+ hours)
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Economic
+  - Auctions/Bidding
+  - Route Building
+  - Network Building
+  - Trading
+  - Euro
+  - Historical
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Masterful
+  - Clever
+  - Rivalry
+  - Progress
+  - Tension
+
+# Player counts
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+# Metadata
+designer:
+  - Francis Tresham
+publisher:
+  - Hartland Trefoil
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+# Description
+description: |
+  1853 is an 18XX railway game designed by Francis Tresham and set in colonial
+  India. Players invest in and operate Indian railway companies amid the unique
+  challenges of the subcontinent: the terrain of hills, mountains, and the
+  Himalayas creates complex routing decisions, while the standard 18XX financial
+  mechanics of share buying, track-laying, and train purchasing remain intact.
+
+  Like other 18XX games, 1853 alternates between stock rounds (where players buy
+  and sell company shares) and operating rounds (where company presidents build
+  the network and run trains for income). The Indian setting provides a distinct
+  map configuration and historical flavor. Republished by Mayfair Games and
+  Lookout Games in 2009.
+
+# Upgrades
+upgrades: []

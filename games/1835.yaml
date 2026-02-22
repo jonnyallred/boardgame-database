@@ -1,0 +1,69 @@
+id: 1835
+name: "1835"
+year: 1990
+
+# Relationships
+game_family: 18xx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (240-360 min)
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Economic
+  - Route Building
+  - Network Building
+  - Trading
+  - Auctions/Bidding
+  - Historical
+  - Trains
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Masterful
+  - Agency
+  - Tension
+  - Progress
+  - Rivalry
+
+# Player counts
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+# Metadata
+designer:
+  - Francis Tresham
+  - Michael Meier-Bachl
+publisher:
+  - Hans im Glück
+artist: []
+playtime_minutes: 300
+min_playtime: 240
+max_playtime: 360
+min_age: 14
+
+# Description
+description: |
+  A classic 18XX railroad stock market and operations game set in Germany. Players
+  invest in and manage German railway companies from the mid-19th century, buying
+  and selling shares while operating trains to generate revenue. Companies must lay
+  track across the German map, purchase trains of increasing capability, and pay
+  dividends to shareholders. The game features Prussian state railways as major
+  corporations alongside smaller private lines, creating a rich economic simulation.
+  Among the most popular 18XX titles, known for its well-balanced map and accessible
+  (relative to the genre) ruleset.
+
+# Upgrades
+upgrades: []

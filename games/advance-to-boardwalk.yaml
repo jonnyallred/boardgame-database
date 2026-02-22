@@ -1,0 +1,52 @@
+id: advance-to-boardwalk
+name: "Advance to Boardwalk"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Economic
+  - Family
+  - Take That
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Progress
+  - Tension
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Charles Phillips
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Advance to Boardwalk is a 1985 Parker Brothers game set in the world of Atlantic City's famous Boardwalk, using a hotel-building mechanic inspired by Monopoly. Players roll three dice — two numeric and one color die — to determine how many hotel floors they can place on which color group of properties each turn. Players race up the Boardwalk track as their property values rise, and can "take over" rivals' hotels by building even higher, with the first player to reach $35 million in property value winning. Fortune Cards add chaos and variability through construction bonuses and random events like natural disasters.
+
+upgrades: []

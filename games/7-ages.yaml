@@ -1,0 +1,55 @@
+id: 7-ages
+name: "7 Ages"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - Card Drafting
+  - Civilization
+  - Historical
+  - Wargame
+  - 4X
+
+evokes:
+  - Progress
+  - Powerful
+  - Rivalry
+  - Masterful
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Harry Rowland
+publisher:
+  - Australian Design Group
+artist: []
+playtime_minutes: 480
+min_playtime: 300
+max_playtime: 600
+min_age: 12
+
+description: |
+  7 Ages is a grand civilization wargame from Australian Design Group covering 6,000 years of human history across seven archaeological ages. Players manage civilizations that rise and fall through military conquest, cultural influence, and economic development, guided by a card-driven hand management system. Up to six players can each control multiple civilizations simultaneously, creating a dynamic, sprawling contest for dominance across the ages. The game is renowned for its epic scope and deep strategic interplay between growing, defending, and ultimately passing the torch from one great civilization to the next.
+
+upgrades: []

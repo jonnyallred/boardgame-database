@@ -1,0 +1,55 @@
+id: afrikan-tahti-retkikunnat
+name: "Afrikan tähti: Retkikunnat"
+alternate_names:
+  - "Star of Africa: Expeditions"
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: afrikan-tahti
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Historical
+  - Variable Player Powers
+  - Events
+  - Hand Management
+
+evokes:
+  - Lucky
+  - Discovery
+  - Tension
+  - Connection
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Kustannusosakeyhtiö Otava
+artist:
+  - Joonas Tupala
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 7
+
+description: |
+  Afrikan tähti: Retkikunnat is an expansion to Afrikan tähti, Finland's most beloved board game, that functions almost as a standalone new game using the original's components. Players now begin by forming expeditions — gathering resources and allies — before hunting for the legendary diamond, and it is now possible to steal the treasure from another player after they find it. Each player takes on a unique character with special powers, and expedition cards plus event cards add new strategic and narrative layers to the classic race across Africa. Published in 2014, Retkikunnat modernizes the formula while preserving the spirit of the original.
+
+upgrades: []

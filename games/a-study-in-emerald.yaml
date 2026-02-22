@@ -1,0 +1,72 @@
+id: a-study-in-emerald
+name: "A Study in Emerald"
+year: 2013
+
+# Relationships
+game_family: null
+edition: "First Edition (2013)"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90-120 min)
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Deck Building
+  - Traitor
+  - Area Control
+  - Hand Management
+  - Asymmetric
+  - Cthulhu
+  - Fantasy
+  - Mystery
+  - Historical
+  - Martin Wallace
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Mystery
+  - Tension
+  - Dread
+  - Unique
+  - Clever
+
+# Player counts
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+# Metadata
+designer:
+  - Martin Wallace
+publisher:
+  - Treefrog Games
+  - Giochix.it
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+# Description
+description: |
+  Based on Neil Gaiman's short story of the same name, A Study in Emerald is set in
+  an alternate Victorian world where Lovecraftian Old Ones have conquered Earth and
+  rule as royalty. Players are divided into hidden factions: Loyalists (who serve the
+  Old Ones) and Restorationists (who seek to overthrow them). Using a deck-building
+  mechanism, players recruit agents, assassinate royals, and gain control of cities
+  across Europe, never fully knowing which side their opponents are on until late in
+  the game. Designed by Martin Wallace, the game features deep asymmetry and paranoia.
+  A second edition with revised art was published in 2015.
+
+# Upgrades
+upgrades: []

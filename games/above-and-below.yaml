@@ -1,0 +1,70 @@
+id: above-and-below
+name: "Above and Below"
+year: 2015
+
+# Relationships
+game_family: arzium-storybook
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (90 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate competitive
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Worker Placement
+  - Narrative Heavy
+  - Variable Setup
+  - Resource Management
+  - Tableau Building
+  - Fantasy
+  - Euro
+  - Red Raven Games
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Discovery
+  - Wonder
+  - Progress
+  - Unique
+  - Creative
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Ryan Laukat
+publisher:
+  - Red Raven Games
+artist:
+  - Ryan Laukat
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+# Description
+description: |
+  A mashup of village-building and cave-exploration storytelling set in the Arzium
+  world. Players compete to build the most prosperous village above ground while
+  also sending explorers into the underground caverns below. Cave exploration
+  triggers illustrated story paragraphs from a companion booklet, with choices
+  leading to different outcomes, encounters, and rewards. Village buildings provide
+  workers, resources, and special abilities for future actions. Ryan Laukat both
+  designed and illustrated the game, creating a visually distinctive and whimsical
+  experience. First in the Arzium Storybook Series, followed by Near and Far.
+
+# Upgrades
+upgrades: []

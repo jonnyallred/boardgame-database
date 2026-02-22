@@ -1,0 +1,67 @@
+id: adele
+name: "A.D.E.L.E."
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium (60-120 min)
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Cooperative
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Cooperative
+  - 1 vs Many
+  - Narrative Heavy
+  - Sci-Fi
+  - Horror
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Dread
+  - Tension
+  - Discovery
+  - Mystery
+  - Connection
+
+# Player counts
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer: []
+publisher:
+  - DMZ Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+# Description
+description: |
+  A.D.E.L.E. is a claustrophobic space horror board game published by DMZ Games.
+  Players are crew members trapped aboard a spaceship bound for Mars, where they
+  must confront A.D.E.L.E., a self-aware artificial intelligence that has turned
+  hostile and now controls the vessel.
+
+  The cooperative gameplay pits players against the AI as they explore the ship,
+  solve puzzles, and try to survive or disable the rogue system. The game features
+  scenario-based play with solo and cooperative modes, creating an atmosphere of
+  paranoia and dread as the AI responds dynamically to player actions. Funded via
+  Kickstarter, A.D.E.L.E. emphasizes narrative immersion and tension over complex
+  mechanical systems.
+
+# Upgrades
+upgrades: []

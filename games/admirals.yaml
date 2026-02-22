@@ -1,0 +1,65 @@
+id: admirals
+name: "Admirals"
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short (45-60 min)
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Area Control
+  - Maritime
+  - Historical
+  - Family
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Rivalry
+  - Lucky
+  - Tension
+  - Powerful
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+# Metadata
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 52
+min_playtime: 45
+max_playtime: 60
+min_age: 8
+
+# Description
+description: |
+  Admirals is a naval strategy board game published by Parker Brothers in 1972.
+  Players command naval fleets competing for control of the seas, deploying
+  warships across a maritime map to dominate shipping lanes and defeat opposing
+  forces.
+
+  The game combines area control mechanics with naval combat, allowing players to
+  build up their fleets and challenge opponents for naval supremacy. As a classic
+  Parker Brothers title from the early 1970s, Admirals features accessible rules
+  designed for family play while delivering the satisfying theme of commanding
+  powerful warships.
+
+# Upgrades
+upgrades: []

@@ -1,0 +1,76 @@
+id: through-the-ages-a-new-story-of-civilization
+name: "Through the Ages: A New Story of Civilization"
+year: 2015
+
+# Relationships
+game_family: through-the-ages
+edition: "New Story (2015)"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon (180-360 min)
+rules_complexity: 3  # Complex - streamlined from original but still deep
+strategic_depth: 4  # Master Plan
+feel: 4  # Fierce
+value: 3  # Premium
+
+# Personal ratings (leave null until rated)
+affinity: null
+hotness: null
+
+# Tags
+categories:
+  - Card Drafting
+  - Hand Management
+  - Tech Tree
+  - Resource Management
+  - Engine Building
+  - Tableau Building
+  - Economic
+  - Civilization
+  - Historical
+  - Euro
+  - Vlaada Chvatil
+  - Czech Games Edition
+
+# Evokes (top 5 feelings this game is designed to evoke)
+evokes:
+  - Progress
+  - Masterful
+  - Powerful
+  - Tension
+  - Agency
+
+# Player counts
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+# Metadata
+designer:
+  - Vlaada Chvatil
+publisher:
+  - Czech Games Edition
+artist:
+  - Jakub Politzer
+  - Zuzana Kopecka
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+# Description
+description: |
+  The revised and streamlined edition of the acclaimed civilization card game in which
+  players guide a nation from antiquity to the modern era. Players draft leaders,
+  technologies, wonders, and military cards from a shared row, balancing civil actions
+  and military actions each turn. Improvements over the 2006 original include cleaner
+  card text, rebalanced military cards, and a revised political system. Players must
+  manage food and resource production to grow their population and build improvements,
+  while also developing culture to win. Military strength deters aggression and enables
+  events. The game rewards long-term planning, knowledge of the card pool, and
+  adaptability. Widely regarded as one of the deepest strategy games available.
+
+# Upgrades
+upgrades: []
