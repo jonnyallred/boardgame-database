@@ -101,6 +101,23 @@ app.get('/api/filter-options', (req, res) => {
 });
 
 /**
+ * GET /api/evokes/counts
+ * Return evoke values with game counts for the evokes section.
+ */
+app.get('/api/evokes/counts', (req, res) => {
+  try {
+    const counts = db.getEvokeCounts();
+    if (!counts) {
+      return res.status(503).json({ error: true, message: 'Database not available', code: 'DB_UNAVAILABLE' });
+    }
+    res.json(counts);
+  } catch (err) {
+    console.error('Error in /api/evokes/counts:', err);
+    res.status(500).json({ error: true, message: 'Failed to load evoke counts', code: 'EVOKE_ERROR' });
+  }
+});
+
+/**
  * GET /api/games
  * Return all games with metadata and image status
  */

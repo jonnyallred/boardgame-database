@@ -5,6 +5,7 @@ const yaml = require('js-yaml');
 const GAMES_DIR = path.join(__dirname, '../../games');
 const IMAGES_DIR = path.join(__dirname, '../../images');
 const SOURCES_LISTS_DIR = path.join(__dirname, '../../sources/lists');
+const MASTER_LIST_CSV = path.join(__dirname, '../../master_list.csv');
 
 let gamesCache = null;
 let masterListCache = null;
@@ -143,51 +144,108 @@ async function getImageUrl(gameId) {
 }
 
 /**
- * Load all source lists and return merged master list with research status
+ * Convert a game name to a slug ID (lowercase, hyphen-separated).
+ */
+function nameToSlug(name) {
+  return name
+    .toLowerCase()
+    .replace(/['']/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+/**
+ * Parse a simple CSV line, handling quoted fields.
+ */
+function parseCSVLine(line) {
+  const fields = [];
+  let current = '';
+  let inQuotes = false;
+  for (let i = 0; i < line.length; i++) {
+    const ch = line[i];
+    if (inQuotes) {
+      if (ch === '"' && line[i + 1] === '"') { current += '"'; i++; }
+      else if (ch === '"') { inQuotes = false; }
+      else { current += ch; }
+    } else {
+      if (ch === '"') { inQuotes = true; }
+      else if (ch === ',') { fields.push(current); current = ''; }
+      else { current += ch; }
+    }
+  }
+  fields.push(current);
+  return fields;
+}
+
+/**
+ * Load master list from CSV, enrich with source list data and research status.
  */
 async function loadMasterList() {
   if (masterListCache) return masterListCache;
 
   try {
-    const listFiles = fs.readdirSync(SOURCES_LISTS_DIR)
-      .filter(f => f.endsWith('.yaml'))
-      .sort();
+    // 1. Parse master_list.csv as the base
+    const csvContent = fs.readFileSync(MASTER_LIST_CSV, 'utf8');
+    const lines = csvContent.split('\n').filter(l => l.trim());
+    // Skip header row
+    const gameMap = new Map(); // slug -> game entry
 
-    const gameMap = new Map(); // id -> {id, name, year, sources: []}
+    for (let i = 1; i < lines.length; i++) {
+      const fields = parseCSVLine(lines[i]);
+      const bggId = fields[0] || '';
+      const name = fields[1] || '';
+      const year = fields[2] ? parseInt(fields[2]) : null;
+      const type = fields[3] || 'boardgame';
+      if (!name) continue;
 
-    for (const file of listFiles) {
-      try {
-        const filePath = path.join(SOURCES_LISTS_DIR, file);
-        const content = fs.readFileSync(filePath, 'utf8');
-        const listData = yaml.load(content);
+      const slug = nameToSlug(name);
+      if (!slug) continue;
 
-        if (!listData || !Array.isArray(listData.games)) continue;
-
-        const sourceName = listData.source || file;
-
-        for (const game of listData.games) {
-          if (!game.id) continue;
-
-          if (!gameMap.has(game.id)) {
-            gameMap.set(game.id, {
-              id: game.id,
-              name: game.name || game.id,
-              year: game.year || null,
-              sources: []
-            });
-          }
-
-          const entry = gameMap.get(game.id);
-          if (!entry.sources.includes(sourceName)) {
-            entry.sources.push(sourceName);
-          }
-        }
-      } catch (err) {
-        console.error(`Error loading source list ${file}:`, err.message);
+      // Deduplicate by slug, keep first occurrence
+      if (!gameMap.has(slug)) {
+        gameMap.set(slug, {
+          id: slug,
+          name: name,
+          year: year,
+          bgg_id: bggId || null,
+          type: type,
+          sources: []
+        });
       }
     }
 
-    // Check which games have been researched
+    // 2. Enrich with source list data
+    try {
+      const listFiles = fs.readdirSync(SOURCES_LISTS_DIR)
+        .filter(f => f.endsWith('.yaml'))
+        .sort();
+
+      for (const file of listFiles) {
+        try {
+          const filePath = path.join(SOURCES_LISTS_DIR, file);
+          const content = fs.readFileSync(filePath, 'utf8');
+          const listData = yaml.load(content);
+
+          if (!listData || !Array.isArray(listData.games)) continue;
+          const sourceName = listData.source || file;
+
+          for (const game of listData.games) {
+            if (!game.id) continue;
+            // Match by source list ID against CSV slugs
+            const entry = gameMap.get(game.id);
+            if (entry && !entry.sources.includes(sourceName)) {
+              entry.sources.push(sourceName);
+            }
+          }
+        } catch (err) {
+          console.error(`Error loading source list ${file}:`, err.message);
+        }
+      }
+    } catch (err) {
+      console.error('Error reading source lists directory:', err.message);
+    }
+
+    // 3. Check which games have been researched (YAML files in games/)
     const existingGameIds = new Set(
       fs.readdirSync(GAMES_DIR)
         .filter(f => f.endsWith('.yaml'))

@@ -315,4 +315,9 @@ function getStats() {
   return { total_games: total ? total.n : 0, top_categories: topCategories };
 }
 
-module.exports = { init, getFilteredGames, getGameById, getFilterOptions, getStats, reopenDb };
+function getEvokeCounts() {
+  if (!getDb()) return [];
+  return query('SELECT evoke, COUNT(*) as count FROM game_evokes GROUP BY evoke ORDER BY count DESC');
+}
+
+module.exports = { init, getFilteredGames, getGameById, getFilterOptions, getStats, getEvokeCounts, reopenDb };

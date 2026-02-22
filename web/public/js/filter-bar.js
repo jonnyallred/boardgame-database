@@ -294,7 +294,8 @@
       // Open the editor for the newly added filter
       requestAnimationFrame(() => {
         const chip = this.chipsEl.querySelector(`[data-key="${key}"]`)?.closest('.filter-chip');
-        if (chip) this._openEditor(key, chip);
+        // If chip exists, anchor to it; otherwise anchor to the add button
+        this._openEditor(key, chip || this.addBtn);
       });
     }
 

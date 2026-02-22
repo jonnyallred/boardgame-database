@@ -43,6 +43,39 @@
     .view-toggle button.active { background: var(--accent); color: var(--bg); }
     .view-toggle button:hover:not(.active) { background: var(--border); color: var(--text); }
 
+    /* Evokes section */
+    .evokes-section {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 14px;
+    }
+    .evoke-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 4px 10px;
+      border: 1px solid var(--chip-evoke-border);
+      border-radius: 14px;
+      background: var(--chip-evoke-bg);
+      color: var(--chip-evoke-text);
+      font-size: 12px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.15s;
+      user-select: none;
+    }
+    .evoke-chip:hover { background: rgba(194,106,61,0.15); }
+    .evoke-chip.active {
+      background: var(--chip-evoke-border);
+      color: var(--bg);
+      border-color: var(--chip-evoke-border);
+    }
+    .evoke-chip .evoke-count {
+      font-size: 11px;
+      opacity: 0.7;
+    }
+
     /* Results info */
     .results-info {
       font-size: 13px;
@@ -145,6 +178,9 @@
         </div>
       </div>
     </div>
+
+    <!-- Evokes quick-filter -->
+    <div class="evokes-section" id="evokes-section"></div>
 
     <!-- Results info -->
     <div class="results-info" id="results-info">Loading...</div>
@@ -612,6 +648,56 @@
       d.textContent = s;
       return d.innerHTML;
     }
+
+    // ============ Evokes Section ============
+    const evokesSection = document.getElementById('evokes-section');
+    let evokeChips = {};  // evoke name -> chip element
+
+    async function loadEvokes() {
+      try {
+        const res = await fetch('/api/evokes/counts');
+        if (!res.ok) return;
+        const data = await res.json();
+        evokesSection.innerHTML = '';
+        evokeChips = {};
+        for (const { evoke, count } of data) {
+          const chip = document.createElement('span');
+          chip.className = 'evoke-chip';
+          chip.innerHTML = `${evoke} <span class="evoke-count">${count}</span>`;
+          chip.addEventListener('click', () => toggleEvoke(evoke));
+          evokesSection.appendChild(chip);
+          evokeChips[evoke] = chip;
+        }
+        // Highlight any already-active evoke filters
+        syncEvokeChips();
+      } catch (e) {
+        console.warn('Failed to load evoke counts:', e);
+      }
+    }
+
+    function toggleEvoke(evoke) {
+      const current = fb.getFilters().evokes || [];
+      const set = new Set(current);
+      if (set.has(evoke)) set.delete(evoke);
+      else set.add(evoke);
+      fb.filters.evokes = [...set];
+      if (fb.filters.evokes.length === 0) delete fb.filters.evokes;
+      fb._renderChips();
+      fb._emit();
+      syncEvokeChips();
+    }
+
+    function syncEvokeChips() {
+      const active = new Set(fb.getFilters().evokes || []);
+      for (const [name, chip] of Object.entries(evokeChips)) {
+        chip.classList.toggle('active', active.has(name));
+      }
+    }
+
+    // Keep evoke chips in sync when FilterBar changes (e.g. removing an evokes chip)
+    fb.on('change', () => syncEvokeChips());
+
+    loadEvokes();
 
     // ============ Initial Load ============
     // If no filters from URL, do an initial fetch
