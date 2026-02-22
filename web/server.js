@@ -5,6 +5,7 @@ const fs = require('fs');
 const cors = require('cors');
 const sharp = require('sharp');
 const yamlHandler = require('./lib/yaml-handler');
+const db = require('./lib/db');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -36,6 +37,68 @@ const upload = multer({
 });
 
 // ============ API Endpoints ============
+
+/**
+ * GET /api/games/query
+ * Filtered, sorted, paginated game query powered by SQLite.
+ * Must be registered before /api/games/:id to avoid route collision.
+ */
+app.get('/api/games/query', (req, res) => {
+  try {
+    const filters = {};
+
+    if (req.query.q) filters.q = req.query.q;
+    if (req.query.categories) filters.categories = [].concat(req.query.categories);
+    if (req.query.evokes) filters.evokes = [].concat(req.query.evokes);
+    if (req.query.true_counts) filters.true_counts = [].concat(req.query.true_counts);
+
+    const intParam = (name) => {
+      const v = req.query[name];
+      return v != null && v !== '' ? parseInt(v, 10) : undefined;
+    };
+
+    filters.year_min = intParam('year_min');
+    filters.year_max = intParam('year_max');
+    filters.playtime_min = intParam('playtime_min');
+    filters.playtime_max = intParam('playtime_max');
+
+    for (const field of ['length', 'rules_complexity', 'strategic_depth', 'feel', 'value']) {
+      filters[`${field}_min`] = intParam(`${field}_min`);
+      filters[`${field}_max`] = intParam(`${field}_max`);
+    }
+
+    if (req.query.designer) filters.designer = req.query.designer;
+    if (req.query.publisher) filters.publisher = req.query.publisher;
+
+    const sort = req.query.sort || 'name';
+    const dir = req.query.dir || 'asc';
+    const page = Math.max(1, parseInt(req.query.page, 10) || 1);
+    const perPage = Math.min(200, Math.max(1, parseInt(req.query.per_page, 10) || 50));
+
+    const result = db.getFilteredGames(filters, sort, dir, page, perPage);
+    res.json(result);
+  } catch (err) {
+    console.error('Error in /api/games/query:', err);
+    res.status(500).json({ error: true, message: 'Query failed', code: 'QUERY_ERROR' });
+  }
+});
+
+/**
+ * GET /api/filter-options
+ * Distinct values for all filter dropdowns.
+ */
+app.get('/api/filter-options', (req, res) => {
+  try {
+    const options = db.getFilterOptions();
+    if (!options) {
+      return res.status(503).json({ error: true, message: 'Database not available', code: 'DB_UNAVAILABLE' });
+    }
+    res.json(options);
+  } catch (err) {
+    console.error('Error in /api/filter-options:', err);
+    res.status(500).json({ error: true, message: 'Failed to load filter options', code: 'FILTER_ERROR' });
+  }
+});
 
 /**
  * GET /api/games
@@ -236,6 +299,22 @@ app.get('/api/health', async (req, res) => {
   }
 });
 
+// ============ Page Routes ============
+
+/**
+ * GET / → Games page (primary)
+ */
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'games.html'));
+});
+
+/**
+ * GET /images → Image Manager
+ */
+app.get('/images', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'images.html'));
+});
+
 /**
  * GET /master-list
  * Serve master list page
@@ -276,26 +355,34 @@ app.use((err, req, res, next) => {
 
 // ============ Server Start ============
 
-app.listen(PORT, () => {
-  console.log(`
+// Initialize SQLite DB then start server
+db.init().then(() => {
+  app.listen(PORT, () => {
+    console.log(`
 ╔════════════════════════════════════════════════════════════╗
 ║  Board Game Database - Web Interface                       ║
 ╚════════════════════════════════════════════════════════════╝
 
 Server running at http://localhost:${PORT}
 
-Instructions:
-  1. Open browser to http://localhost:${PORT}
-  2. Drag images onto game cards
-  3. Images will be saved to: ${yamlHandler.IMAGES_DIR}
+Pages:
+  /             - Games browser (filter + search)
+  /images       - Image manager (drag & drop upload)
+  /master-list  - Master list tracker
 
 API Endpoints:
-  GET    /api/games              - List all games
-  GET    /api/games/:id          - Get single game
-  POST   /api/games/:id/upload   - Upload image for game
+  GET    /api/games/query        - Filtered game query (SQLite)
+  GET    /api/filter-options     - Filter dropdown values
+  GET    /api/games              - All games (YAML)
+  GET    /api/games/:id          - Single game
+  POST   /api/games/:id/upload   - Upload image
   GET    /api/images/:filename   - Serve image
   GET    /api/health             - Health check
 
 Press Ctrl+C to stop the server
   `);
+  });
+}).catch(err => {
+  console.error('Failed to initialize database:', err);
+  process.exit(1);
 });

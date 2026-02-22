@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Manager — Board Game Database</title>
+  <link rel="stylesheet" href="/css/common.css">
+  <style>
+    /* Page-specific styles */
+    .page-header {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 24px;
+      margin-bottom: 24px;
+    }
+
+    .header-info {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 16px;
+      margin-top: 16px;
+    }
+
+    .stats { font-size: 16px; color: var(--text-muted); }
+    .stats strong { color: var(--accent); font-size: 18px; }
+
+    .search-bar { flex: 1; min-width: 250px; }
+    .search-bar input { width: 100%; }
+
+    /* Game Grid */
+    .game-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 20px;
+      margin-bottom: 30px;
+    }
+
+    /* Game Card */
+    .game-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+      display: flex;
+      flex-direction: column;
+      cursor: pointer;
+    }
+
+    .game-card:hover {
+      transform: translateY(-2px);
+      border-color: var(--accent);
+      box-shadow: 0 4px 20px rgba(230,184,79,0.1);
+    }
+
+    .game-card.uploading { opacity: 0.7; pointer-events: none; }
+
+    /* Image Area */
+    .image-area {
+      position: relative;
+      width: 100%;
+      padding-bottom: 100%;
+      background: var(--elevated);
+      border-bottom: 1px solid var(--border);
+      overflow: hidden;
+      transition: background-color 0.2s, border-color 0.2s;
+    }
+
+    .image-area img {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      object-fit: cover;
+    }
+
+    .image-area.drag-over {
+      background-color: rgba(230,184,79,0.1);
+      border-color: var(--accent);
+    }
+
+    .image-placeholder {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: var(--elevated);
+      color: var(--text-muted);
+      font-size: 13px;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .image-placeholder svg { width: 36px; height: 36px; margin-bottom: 8px; opacity: 0.4; }
+
+    .loading-spinner {
+      position: absolute;
+      top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: img-spin 0.8s linear infinite;
+      z-index: 10;
+    }
+
+    @keyframes img-spin { to { transform: translate(-50%, -50%) rotate(360deg); } }
+
+    .success-overlay {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background: rgba(79,196,122,0.15);
+      animation: fade-out 0.5s ease-out forwards;
+      z-index: 5;
+    }
+
+    @keyframes fade-out { to { opacity: 0; } }
+
+    /* Game Info */
+    .game-info {
+      padding: 14px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .game-name {
+      font-family: var(--font-heading);
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 4px;
+      line-height: 1.3;
+    }
+
+    .game-meta { font-size: 12px; color: var(--text-muted); margin-bottom: 8px; }
+
+    .game-categories { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 8px; flex: 1; }
+
+    .tag { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: 11px; font-weight: 600; }
+    .tag.mechanic, .tag:not(.style):not(.theme):not(.evoke):not(.designer):not(.publisher) {
+      background: var(--chip-mechanic-bg); color: var(--chip-mechanic-text);
+    }
+    .tag.style { background: var(--chip-style-bg); color: var(--chip-style-text); }
+    .tag.theme { background: var(--chip-theme-bg); color: var(--chip-theme-text); }
+    .tag.evoke { background: var(--chip-evoke-bg); color: var(--chip-evoke-text); border: 1px solid var(--chip-evoke-border); }
+    .tag.designer { background: var(--chip-designer-bg); color: var(--chip-designer-text); }
+    .tag.publisher { background: var(--chip-publisher-bg); color: var(--chip-publisher-text); }
+
+    /* Upload Button */
+    .game-actions { display: flex; gap: 8px; }
+
+    .btn-upload {
+      flex: 1;
+      padding: 7px 12px;
+      background: var(--accent);
+      color: var(--bg);
+      border: none;
+      border-radius: var(--radius-md);
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.15s;
+      text-align: center;
+    }
+    .btn-upload:hover { background: #d4a73e; }
+
+    input[type="file"] { display: none; }
+
+    /* States */
+    .loading-container, .empty-state { text-align: center; padding: 60px 20px; color: var(--text-muted); }
+    .loading-spinner-large {
+      width: 40px; height: 40px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 16px;
+    }
+    .empty-state h2 { color: var(--text); margin-bottom: 8px; }
+
+    /* Modal overrides for dark theme */
+    .modal-overlay {
+      position: fixed; inset: 0; z-index: 2000;
+      background: rgba(10,10,20,0.8);
+      backdrop-filter: blur(6px);
+      display: flex; align-items: center; justify-content: center;
+      padding: 20px; overflow-y: auto;
+      animation: fadeIn 0.2s ease-out;
+    }
+
+    .modal-container {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-xl);
+      max-width: 900px; width: 100%; max-height: 90vh; overflow-y: auto;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+      animation: slideUp 0.25s ease-out;
+    }
+
+    .modal-header {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 20px 24px;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0;
+      background: var(--surface);
+      border-radius: var(--radius-xl) var(--radius-xl) 0 0;
+      z-index: 10;
+    }
+
+    .modal-title {
+      font-family: var(--font-heading);
+      font-size: 22px; color: var(--text);
+    }
+
+    .modal-close-btn {
+      background: none; border: none; font-size: 24px;
+      color: var(--text-muted); cursor: pointer;
+      width: 36px; height: 36px;
+      display: flex; align-items: center; justify-content: center;
+      border-radius: var(--radius-md);
+      transition: background 0.15s, color 0.15s;
+    }
+    .modal-close-btn:hover { background: var(--elevated); color: var(--text); }
+
+    .modal-content { padding: 24px; }
+    .modal-section { margin-bottom: 24px; }
+    .modal-section:last-child { margin-bottom: 0; }
+    .modal-section-title {
+      font-size: 11px; font-weight: 700; color: var(--text-muted);
+      text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 10px;
+    }
+
+    .modal-two-column { display: grid; grid-template-columns: 200px 1fr; gap: 20px; align-items: start; }
+    .modal-image { width: 200px; aspect-ratio: 1; background: var(--elevated); border-radius: var(--radius-lg); overflow: hidden; }
+    .modal-image img { width: 100%; height: 100%; object-fit: cover; }
+    .modal-image-placeholder {
+      width: 100%; height: 100%;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      background: var(--elevated); color: var(--text-muted);
+      font-size: 13px; text-align: center; padding: 20px;
+    }
+    .modal-image-placeholder svg { width: 36px; height: 36px; margin-bottom: 8px; opacity: 0.4; }
+
+    .modal-info-grid { display: flex; flex-direction: column; gap: 10px; }
+    .modal-info-row { display: flex; flex-direction: column; gap: 2px; }
+    .modal-info-label { font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }
+    .modal-info-value { font-size: 14px; color: var(--text); line-height: 1.5; }
+    .modal-description { font-size: 14px; color: var(--text); line-height: 1.6; white-space: pre-wrap; word-break: break-word; }
+
+    .rating-display { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
+    .rating-label { font-size: 14px; font-weight: 600; color: var(--text); min-width: 120px; }
+    .rating-indicator { display: flex; gap: 5px; }
+    .rating-dot { width: 12px; height: 12px; border-radius: 50%; background: var(--dot-empty); }
+    .rating-dot.filled { background: var(--dot-objective); }
+    .rating-value { font-size: 13px; color: var(--text-muted); min-width: 180px; }
+
+    .categories-grid { display: flex; flex-wrap: wrap; gap: 6px; }
+
+    @media (max-width: 768px) {
+      .game-grid { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px; }
+      .modal-two-column { grid-template-columns: 1fr; }
+      .modal-image { width: 100%; }
+      .rating-display { flex-direction: column; align-items: flex-start; }
+      .rating-label, .rating-value { min-width: auto; }
+    }
+
+    @media (max-width: 480px) {
+      .game-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Navigation -->
+  <header class="site-header">
+    <div class="site-header-inner">
+      <div class="site-title">Board Game Database</div>
+      <nav class="site-nav">
+        <a href="/">Games</a>
+        <a href="/images" class="active">Images</a>
+        <a href="/master-list">Master List</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="container">
+    <!-- Page Header -->
+    <div class="page-header">
+      <h1>Image Manager</h1>
+      <div class="header-info">
+        <div class="stats">
+          <strong id="images-count">0</strong> of <strong id="games-count">0</strong> games have images
+        </div>
+        <div class="search-bar">
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Search games by name, designer, category..."
+            aria-label="Search games"
+          >
+        </div>
+      </div>
+    </div>
+
+    <!-- Game Grid -->
+    <div id="game-grid" class="game-grid"></div>
+
+    <!-- Loading State -->
+    <div id="loading-state" class="loading-container" style="display: none;">
+      <div class="loading-spinner-large"></div>
+      <p>Loading games...</p>
+    </div>
+
+    <!-- Empty State -->
+    <div id="empty-state" class="empty-state" style="display: none;">
+      <h2>No games found</h2>
+      <p>Try adjusting your search filters</p>
+    </div>
+  </div>
+
+  <!-- Toast Container -->
+  <div id="toast-container" class="toast-container"></div>
+
+  <script>
+    // State
+    let allGames = [];
+    let filteredGames = [];
+    const uploadStates = new Map();
+    let modalOpen = false;
+    let currentModalGame = null;
+    let currentEscHandler = null;
+
+    // DOM Elements
+    const gameGrid = document.getElementById('game-grid');
+    const loadingState = document.getElementById('loading-state');
+    const emptyState = document.getElementById('empty-state');
+    const searchInput = document.getElementById('search-input');
+    const gamesCountEl = document.getElementById('games-count');
+    const imagesCountEl = document.getElementById('images-count');
+    const toastContainer = document.getElementById('toast-container');
+
+    // Rating Labels
+    const RATING_LABELS = {
+      length: { 0: 'Snack (10 min)', 1: 'Appetizer (30 min)', 2: 'Main Course (1 hr)', 3: 'Feast (3 hrs)', 4: 'Marathon (6+ hrs)' },
+      rules_complexity: { 0: 'Preschool', 1: 'Elementary', 2: 'Junior High/HS', 3: 'College', 4: 'PhD' },
+      strategic_depth: { 0: 'Reflex', 1: 'Basic', 2: 'Tactics', 3: 'Strategy', 4: 'Master Plan' },
+      feel: { 0: 'Solitary', 1: 'Cooperative', 2: 'Party', 3: 'Polite', 4: 'Fierce' },
+      value: { 0: 'Impulse', 1: 'Bargain', 2: 'Fair Deal', 3: 'Splurge', 4: 'Heirloom' },
+      affinity: { 0: 'Loathe it', 1: 'Yawn', 2: 'Enjoyable', 3: 'Delight', 4: 'Mind-blowing' },
+      hotness: { 0: 'Will not play', 1: 'Only if forced', 2: 'Sure', 3: 'Would love to', 4: 'Deep yearning' }
+    };
+
+    const RATING_NAMES = {
+      length: 'Length', rules_complexity: 'Rules Complexity', strategic_depth: 'Strategic Depth',
+      feel: 'Feel', value: 'Value', affinity: 'Affinity', hotness: 'Hotness'
+    };
+
+    const MECHANICS = [
+      'Worker Placement', 'Deck Building', 'Engine Building', 'Area Control',
+      'Tile Placement', 'Dice Rolling', 'Set Collection', 'Trick-taking',
+      'Auctions/Bidding', 'Cooperative', '1 vs Many', 'Teams', 'Real-time',
+      'Traitor', 'Social Deduction', 'Drafting', 'Press Your Luck', 'Roll & Write',
+      'Hex Map', 'Campaign Mode', 'Legacy', 'Bag Building', 'Hand Management',
+      'Modular Board', 'Variable Setup', 'Take That', 'Narrative Heavy',
+      'Puzzle Solving', 'No Math', 'Word Play', 'Deduction', 'Racing',
+      'Economic', 'Action Points', 'Route Building', 'Network Building',
+      'Pattern Building', 'Resource Management', 'Trading', 'Negotiation',
+      'Bluffing', 'Hidden Movement', 'Programmed Movement', 'Simultaneous Action',
+      'Card Drafting', 'Tableau Building', 'Tech Tree', 'Rondel', 'Mancala', 'Dexterity'
+    ];
+    const STYLES = ['Euro','Ameritrash','Abstract','Party','Family','Wargame','Filler','Gateway','Cult Classic','Dungeon Crawler','4X','Dudes on a Map'];
+    const THEMES = ['Fantasy','Sci-Fi','Horror','Historical','Western','Pirates','Zombies','Vampires','Cthulhu','Aliens','Post-Apocalyptic','Superheroes','Marvel','Disney','Lord of the Rings','Animals','Food Theme','Time Travel','Space','Medieval','Ancient','Mythology','Nature','City Building','Civilization','War','Survival','Mystery','Espionage','Steampunk','Cyberpunk','Aviation','Maritime','Trains','Agriculture'];
+    const DESIGNERS_LIST = ['Reiner Knizia','Uwe Rosenberg','Vlaada Chvatil','Stefan Feld','Martin Wallace','Eric Lang','Jamey Stegmaier','Cole Wehrle','Corey Konieczka','Bruno Cathala','Antoine Bauza','Wolfgang Kramer','Michael Kiesling','Alexander Pfister','Vital Lacerda','Matt Leacock','Rob Daviau','Richard Garfield','Klaus Teuber','Alan R. Moon','Donald X. Vaccarino','Isaac Childres','Simone Luciani','Daniele Tascini','Phil Walker-Harding','Friedemann Friese','Mac Gerdts','Carl Chudyk'];
+    const PUBLISHERS_LIST = ['Stonemaier Games','Fantasy Flight Games','Leder Games','CMON','Days of Wonder','Chip Theory Games','Restoration Games','Z-Man Games','Rio Grande Games','Ravensburger','Asmodee','Cephalofair Games','Roxley Games','Renegade Game Studios','Capstone Games','Eagle-Gryphon Games','Czech Games Edition','Portal Games','Plaid Hat Games','Red Raven Games','Osprey Games','Greater Than Games'];
+
+    function getCategoryType(category) {
+      if (MECHANICS.includes(category)) return 'mechanic';
+      if (STYLES.includes(category)) return 'style';
+      if (THEMES.includes(category)) return 'theme';
+      if (DESIGNERS_LIST.includes(category)) return 'designer';
+      if (PUBLISHERS_LIST.includes(category)) return 'publisher';
+      return 'mechanic';
+    }
+
+    function createRatingIndicator(value) {
+      const div = document.createElement('div');
+      div.className = 'rating-indicator';
+      for (let i = 0; i < 4; i++) {
+        const dot = document.createElement('div');
+        dot.className = 'rating-dot' + (i < value ? ' filled' : '');
+        div.appendChild(dot);
+      }
+      return div;
+    }
+
+    function formatPlayerCounts(pc, tc) {
+      if (!pc || !pc.length) return 'Unknown';
+      let r = pc.join(', ') + ' players';
+      if (tc && tc.length) r += ` (best: ${tc.join(', ')})`;
+      return r;
+    }
+
+    function formatPlaytime(pt, min, max) {
+      let r = '';
+      if (pt) r = `${pt} min`;
+      if (min && max) { const range = `${min}-${max} min`; r = r ? `${r} (${range})` : range; }
+      return r || 'Not specified';
+    }
+
+    function buildRatingDisplay(name, value) {
+      const div = document.createElement('div');
+      div.className = 'rating-display';
+      const label = document.createElement('div');
+      label.className = 'rating-label';
+      label.textContent = RATING_NAMES[name];
+      const ic = document.createElement('div');
+      ic.style.cssText = 'display:flex;align-items:center;gap:12px;flex:1';
+      if (value === null || value === undefined) {
+        const nr = document.createElement('div');
+        nr.className = 'rating-value';
+        nr.textContent = 'Not Rated';
+        ic.appendChild(nr);
+      } else {
+        const v = Math.min(Math.max(0, parseInt(value)), 4);
+        ic.appendChild(createRatingIndicator(v));
+        const rt = document.createElement('div');
+        rt.className = 'rating-value';
+        rt.textContent = `${v} - ${RATING_LABELS[name][v]}`;
+        ic.appendChild(rt);
+      }
+      div.appendChild(label);
+      div.appendChild(ic);
+      return div;
+    }
+
+    // ============ Modal Functions ============
+
+    function buildModalHTML(game) {
+      const overlay = document.createElement('div');
+      overlay.className = 'modal-overlay';
+      overlay.setAttribute('role', 'dialog');
+      overlay.setAttribute('aria-modal', 'true');
+
+      const container = document.createElement('div');
+      container.className = 'modal-container';
+
+      // Header
+      const header = document.createElement('div');
+      header.className = 'modal-header';
+      const title = document.createElement('h2');
+      title.className = 'modal-title';
+      title.textContent = `${game.name} (${game.year})`;
+      const closeBtn = document.createElement('button');
+      closeBtn.className = 'modal-close-btn';
+      closeBtn.setAttribute('aria-label', 'Close');
+      closeBtn.innerHTML = '&times;';
+      closeBtn.addEventListener('click', closeGameModal);
+      header.appendChild(title);
+      header.appendChild(closeBtn);
+
+      const content = document.createElement('div');
+      content.className = 'modal-content';
+
+      // Image + Info
+      const section1 = document.createElement('div');
+      section1.className = 'modal-section';
+      const twocol = document.createElement('div');
+      twocol.className = 'modal-two-column';
+
+      const imageDiv = document.createElement('div');
+      imageDiv.className = 'modal-image';
+      if (game.has_image) {
+        const img = document.createElement('img');
+        img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).jpg`;
+        img.alt = game.name;
+        let attempts = 0;
+        img.onerror = () => {
+          attempts++;
+          if (attempts === 1) img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).png`;
+          else if (attempts === 2) img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).webp`;
+          else imageDiv.innerHTML = '<div class="modal-image-placeholder"><div>Image not found</div></div>';
+        };
+        imageDiv.appendChild(img);
+      } else {
+        imageDiv.innerHTML = '<div class="modal-image-placeholder"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg><div>No image</div></div>';
+      }
+
+      const infoGrid = document.createElement('div');
+      infoGrid.className = 'modal-info-grid';
+
+      function addInfoRow(label, value) {
+        if (!value) return;
+        const row = document.createElement('div');
+        row.className = 'modal-info-row';
+        row.innerHTML = `<div class="modal-info-label">${label}</div><div class="modal-info-value">${value}</div>`;
+        infoGrid.appendChild(row);
+      }
+
+      if (game.designer && game.designer.length) addInfoRow('Designers', game.designer.join(', '));
+      if (game.publisher && game.publisher.length) addInfoRow('Publishers', game.publisher.join(', '));
+      addInfoRow('Playtime', formatPlaytime(game.playtime_minutes, game.min_playtime, game.max_playtime));
+      if (game.min_age != null) addInfoRow('Min Age', `${game.min_age}+`);
+      addInfoRow('Players', formatPlayerCounts(game.possible_counts, game.true_counts));
+
+      twocol.appendChild(imageDiv);
+      twocol.appendChild(infoGrid);
+      section1.appendChild(twocol);
+      content.appendChild(section1);
+
+      // Description
+      if (game.description) {
+        const ds = document.createElement('div');
+        ds.className = 'modal-section';
+        ds.innerHTML = `<div class="modal-section-title">Description</div>`;
+        const p = document.createElement('p');
+        p.className = 'modal-description';
+        p.textContent = game.description;
+        ds.appendChild(p);
+        content.appendChild(ds);
+      }
+
+      // Ratings
+      const rs = document.createElement('div');
+      rs.className = 'modal-section';
+      rs.innerHTML = '<div class="modal-section-title">Ratings</div>';
+      ['length','rules_complexity','strategic_depth','feel','value','affinity','hotness'].forEach(f => {
+        rs.appendChild(buildRatingDisplay(f, game[f]));
+      });
+      content.appendChild(rs);
+
+      // Categories
+      if (game.categories && game.categories.length) {
+        const cs = document.createElement('div');
+        cs.className = 'modal-section';
+        cs.innerHTML = '<div class="modal-section-title">Categories</div>';
+        const cg = document.createElement('div');
+        cg.className = 'categories-grid';
+        game.categories.forEach(cat => {
+          const t = document.createElement('span');
+          t.className = `tag ${getCategoryType(cat)}`;
+          t.textContent = cat;
+          cg.appendChild(t);
+        });
+        cs.appendChild(cg);
+        content.appendChild(cs);
+      }
+
+      // Evokes
+      if (game.evokes && game.evokes.length) {
+        const es = document.createElement('div');
+        es.className = 'modal-section';
+        es.innerHTML = '<div class="modal-section-title">Evokes</div>';
+        const eg = document.createElement('div');
+        eg.className = 'categories-grid';
+        game.evokes.forEach(e => {
+          const t = document.createElement('span');
+          t.className = 'tag evoke';
+          t.textContent = e;
+          eg.appendChild(t);
+        });
+        es.appendChild(eg);
+        content.appendChild(es);
+      }
+
+      container.appendChild(header);
+      container.appendChild(content);
+      overlay.appendChild(container);
+      return overlay;
+    }
+
+    function openGameModal(gameId) {
+      const game = allGames.find(g => g.id === gameId);
+      if (!game) return;
+      currentModalGame = game;
+      modalOpen = true;
+      const modal = buildModalHTML(game);
+      document.body.appendChild(modal);
+      document.body.style.overflow = 'hidden';
+      modal.addEventListener('click', (e) => { if (e.target === modal) closeGameModal(); });
+      const handleEsc = (e) => { if (e.key === 'Escape') closeGameModal(); };
+      document.addEventListener('keydown', handleEsc);
+      currentEscHandler = handleEsc;
+    }
+
+    function closeGameModal() {
+      if (!modalOpen) return;
+      const modal = document.querySelector('.modal-overlay');
+      if (modal) {
+        if (currentEscHandler) { document.removeEventListener('keydown', currentEscHandler); currentEscHandler = null; }
+        modal.style.animation = 'fadeIn 0.2s ease-out reverse forwards';
+        setTimeout(() => { modal.remove(); modalOpen = false; currentModalGame = null; document.body.style.overflow = 'auto'; }, 200);
+      }
+    }
+
+    // ============ Initialization ============
+
+    async function init() {
+      try {
+        loadingState.style.display = 'block';
+        await loadGames();
+        setupEventListeners();
+        updateStats();
+        renderGames();
+        loadingState.style.display = 'none';
+      } catch (error) {
+        console.error('Failed to initialize:', error);
+        showToast('Failed to load games', 'error');
+        loadingState.style.display = 'none';
+      }
+    }
+
+    async function loadGames() {
+      const response = await fetch('/api/games');
+      if (!response.ok) throw new Error('Failed to load games');
+      allGames = await response.json();
+      filteredGames = [...allGames];
+    }
+
+    function setupEventListeners() { searchInput.addEventListener('input', handleSearch); }
+
+    function handleSearch(e) {
+      const query = e.target.value.toLowerCase();
+      filteredGames = allGames.filter(game => {
+        return [game.name, ...(game.designer||[]), ...(game.publisher||[]), ...(game.categories||[]), ...(game.evokes||[])].join(' ').toLowerCase().includes(query);
+      });
+      renderGames();
+    }
+
+    function renderGames() {
+      gameGrid.innerHTML = '';
+      if (filteredGames.length === 0) { emptyState.style.display = 'block'; return; }
+      emptyState.style.display = 'none';
+      filteredGames.forEach(game => gameGrid.appendChild(createGameCard(game)));
+    }
+
+    function createGameCard(game) {
+      const card = document.createElement('div');
+      card.className = 'game-card';
+      card.dataset.gameId = game.id;
+      card.addEventListener('click', (e) => { if (!e.target.closest('.game-actions')) openGameModal(game.id); });
+
+      const imageArea = document.createElement('div');
+      imageArea.className = 'image-area';
+      if (game.has_image) {
+        const img = document.createElement('img');
+        img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).jpg`;
+        img.alt = game.name;
+        img.onerror = () => { img.src = `/api/images/${encodeURIComponent(game.name)} (${game.year}).png`; };
+        imageArea.appendChild(img);
+      } else {
+        imageArea.innerHTML = '<div class="image-placeholder"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg><div>Drop image here or click to upload</div></div>';
+      }
+      setupDragAndDrop(imageArea, game.id);
+
+      const info = document.createElement('div');
+      info.className = 'game-info';
+
+      const name = document.createElement('div');
+      name.className = 'game-name';
+      name.textContent = game.name;
+
+      const meta = document.createElement('div');
+      meta.className = 'game-meta';
+      meta.textContent = `${(game.designer && game.designer.length) ? game.designer.join(', ') : 'Unknown'} \u00b7 ${game.year}`;
+
+      const cats = document.createElement('div');
+      cats.className = 'game-categories';
+      (game.categories || []).slice(0, 3).forEach(cat => {
+        const t = document.createElement('span');
+        t.className = `tag ${getCategoryType(cat)}`;
+        t.textContent = cat;
+        cats.appendChild(t);
+      });
+
+      const actions = document.createElement('div');
+      actions.className = 'game-actions';
+      const uploadBtn = document.createElement('button');
+      uploadBtn.className = 'btn-upload';
+      uploadBtn.textContent = 'Upload Image';
+      uploadBtn.addEventListener('click', (e) => { e.stopPropagation(); triggerFileInput(game.id); });
+      actions.appendChild(uploadBtn);
+
+      const fileInput = document.createElement('input');
+      fileInput.type = 'file';
+      fileInput.accept = 'image/*';
+      fileInput.addEventListener('change', (e) => handleFileSelect(e, game.id));
+
+      info.appendChild(name);
+      info.appendChild(meta);
+      info.appendChild(cats);
+      info.appendChild(actions);
+      info.appendChild(fileInput);
+      card.appendChild(imageArea);
+      card.appendChild(info);
+      return card;
+    }
+
+    function setupDragAndDrop(imageArea, gameId) {
+      imageArea.addEventListener('dragover', (e) => { e.preventDefault(); e.stopPropagation(); imageArea.classList.add('drag-over'); });
+      imageArea.addEventListener('dragleave', (e) => { e.preventDefault(); e.stopPropagation(); imageArea.classList.remove('drag-over'); });
+      imageArea.addEventListener('drop', (e) => {
+        e.preventDefault(); e.stopPropagation(); imageArea.classList.remove('drag-over');
+        if (e.dataTransfer.files.length > 0) handleFileSelect({ target: { files: e.dataTransfer.files } }, gameId);
+      });
+    }
+
+    function triggerFileInput(gameId) {
+      gameGrid.querySelector(`[data-game-id="${gameId}"] input[type="file"]`).click();
+    }
+
+    async function handleFileSelect(e, gameId) {
+      const file = e.target.files[0];
+      if (!file) return;
+      if (!file.type.startsWith('image/')) { showToast('Please select an image file', 'error'); return; }
+      if (file.size > 10 * 1024 * 1024) { showToast('File too large (max 10MB)', 'error'); return; }
+      await uploadImage(gameId, file);
+    }
+
+    async function uploadImage(gameId, file) {
+      const card = gameGrid.querySelector(`[data-game-id="${gameId}"]`);
+      const imageArea = card.querySelector('.image-area');
+      try {
+        card.classList.add('uploading');
+        const spinner = document.createElement('div');
+        spinner.className = 'loading-spinner';
+        imageArea.appendChild(spinner);
+        const formData = new FormData();
+        formData.append('image', file);
+        const response = await fetch(`/api/games/${gameId}/upload`, { method: 'POST', body: formData });
+        if (!response.ok) { const err = await response.json(); throw new Error(err.message || 'Upload failed'); }
+        const overlay = document.createElement('div');
+        overlay.className = 'success-overlay';
+        imageArea.appendChild(overlay);
+        await loadGames();
+        renderGames();
+        showToast('Image uploaded successfully!', 'success');
+        updateStats();
+      } catch (error) {
+        console.error('Upload error:', error);
+        showToast(error.message || 'Failed to upload image', 'error');
+      } finally {
+        card.classList.remove('uploading');
+        const s = imageArea.querySelector('.loading-spinner');
+        if (s) s.remove();
+      }
+    }
+
+    function updateStats() {
+      gamesCountEl.textContent = allGames.length;
+      imagesCountEl.textContent = allGames.filter(g => g.has_image).length;
+    }
+
+    function showToast(message, type = 'success') {
+      const toast = document.createElement('div');
+      toast.className = `toast ${type}`;
+      toast.innerHTML = `<div class="toast-message">${message}</div>`;
+      toastContainer.appendChild(toast);
+      setTimeout(() => { toast.style.animation = 'slideOut 0.3s ease-out forwards'; setTimeout(() => toast.remove(), 300); }, 3000);
+    }
+
+    init();
+  </script>
+</body>
+</html>
