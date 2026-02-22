@@ -263,14 +263,50 @@ Full rating system implemented:
 
 ---
 
+## Session 9 - Master List Status Tracking & Game Entries
+
+**Date:** February 22, 2026
+
+### What Was Accomplished
+
+- **Added status tracking to `master_list.csv`** — three new columns: `status`, `notes`, `yaml_id`
+  - `status`: empty (pending), `skip`, `failed`, `ambiguous`, `duplicate`
+  - `notes`: free-text explanation for non-pending statuses
+  - `yaml_id`: explicit slug mapping when auto name/slug matching fails
+  - Solves two problems: failed/ambiguous games no longer clog the progress queue, and name mismatches (e.g., "1776" vs "1776: The Game of the American Revolutionary War") are resolved
+
+- **Updated `scripts/progress.py`**
+  - Checks `yaml_id` first for matching (explicit link bypasses fuzzy matching)
+  - Excludes entries with status in (skip, failed, ambiguous, duplicate) from remaining queue
+  - Shows status breakdown in stats output (e.g., "Excluded: 5 (2 failed, 2 ambiguous, 1 skip)")
+  - New flags: `--failed`, `--skipped`, `--ambiguous`, `--duplicate` to list entries by status
+
+- **Created `scripts/update_master_status.py`** — CLI for updating master list rows
+  - Single update: `python3 scripts/update_master_status.py "GameName" --status failed --notes "reason"`
+  - Batch from JSON: `--from-results results.json`
+  - Auto-backfill: `--backfill` matches YAML names/alternate_names against master list entries
+  - Dry-run mode: `--dry-run` to preview changes
+
+- **Ran backfill** — auto-populated `yaml_id` for 90 entries where names didn't match
+  - Progress improved from 681→699 matched games, orphans dropped from 104→35
+  - Uses subtitle-delimiter matching (`:`, ` -`, ` (`) to avoid false positives
+
+- **Added 40 new game entries** (703 → 743 total)
+  - Batch of 50 requested, 10 skipped as already existing
+  - Range: Age of Discovery through Attacktix Star Wars
+  - 2 duplicates identified and marked (Clank! variant spelling, Old King's Crown with/without "The")
+
+### Progress
+- **Completion: 747/3876 (19.3%)**
+- **Remaining: 3129 games** in queue
+
+---
+
 ## File Counts
 
-Run `python3 scripts/progress.py 0` for live stats. Snapshot as of February 2026:
+Run `python3 scripts/progress.py 0` for live stats. Snapshot as of February 22, 2026:
 
-- `sources/lists/*.yaml`: 20 source list files (348 unique games)
-- `games/*.yaml`: 540 detailed entries
+- `sources/lists/*.yaml`: 20 source list files
+- `games/*.yaml`: 743 detailed entries
 - `games.db`: SQLite database (rebuilt via `python3 scripts/build_db.py`)
-- `master_list.csv`: bulk Wikidata catalog (header only — run scraper to populate)
-- Total categories defined: 151
-- Designer tags available: 28
-- Publisher tags available: 22
+- `master_list.csv`: 3,876 games (Wikidata + manual additions)

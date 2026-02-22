@@ -13,11 +13,13 @@
   - [ ] Stonemaier Games collection
   - [ ] Gateway Games Classics
 - [ ] Complete Golden Geek and Deutscher Spiele Preis — fill in missing years/categories
-- [ ] Add game entries for award winners — 55 remaining as of Session 6
+- [ ] Continue adding game entries — 3,129 remaining in queue (run `python3 scripts/progress.py`)
 - [ ] Obtain box art images (see `images/README.md`)
   - Contact publishers for press kits
   - Download from official websites
   - Naming: `Game Name (Year).jpg`
+
+- [ ] Clean up master list duplicates — entries like "Clank! A Deck-Building Adventure" vs "Clank!: A Deck-Building Adventure" (use `python3 scripts/progress.py --duplicate` to review)
 
 ## Medium Priority
 
