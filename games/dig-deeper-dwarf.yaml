@@ -1,0 +1,49 @@
+id: dig-deeper-dwarf
+name: "Dig Deeper Dwarf"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Fantasy
+
+evokes:
+  - Lucky
+  - Progress
+  - Discovery
+  - Humor
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Dig Deeper Dwarf is a 2025 board game with a dwarf mining theme. English-language documentation and detailed publisher/designer information are not readily available in public sources at the time of this entry. The game appears to involve dwarves mining for resources or gems, fitting the popular dungeon-delve theme for family-weight games. This entry is a minimal record and should be updated as more information becomes available.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: dragons-of-underearth
+name: "Dragons of Underearth"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Fantasy
+  - Dungeon Crawler
+
+evokes:
+  - Discovery
+  - Tension
+  - Powerful
+  - Lucky
+  - Agency
+
+possible_counts: [1, 2]
+true_counts: [1, 2]
+
+designer: []
+publisher:
+  - Metagaming Concepts
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Dragons of Underearth is a 1981 simplified solo and two-player role-playing game published by Metagaming Concepts, designed as an accessible introduction to The Fantasy Trip roleplaying system with which it is fully compatible. The game includes character creation, magic, monsters, and combat presented across introductory, intermediate, and advanced versions for a graduated learning experience, and notably requires no game master or special dice. Players explore underground fantasy settings, confronting dragons and other denizens of the underearth. Its streamlined rule set made it one of the more beginner-friendly entries in the early RPG-adjacent wargame tradition.
+
+upgrades: []

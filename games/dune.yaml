@@ -1,0 +1,57 @@
+id: dune
+name: "Dune"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: dune
+edition: "2019 Gale Force Nine Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Auctions/Bidding
+  - Negotiation
+  - Asymmetric
+  - Variable Player Powers
+  - Sci-Fi
+  - Ameritrash
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Powerful
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [6]
+
+designer:
+  - Bill Eberle
+  - Jack Kittredge
+  - Peter Olotka
+publisher:
+  - Gale Force Nine
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Dune is the 2019 Gale Force Nine reprint of the landmark 1979 Avalon Hill game, designed by Bill Eberle, Jack Kittredge, and Peter Olotka, set in Frank Herbert's science fiction universe. Up to six players control iconic factions — including the Atreides, Harkonnen, Fremen, Bene Gesserit, Spacing Guild, and Emperor — each with radically asymmetric powers that fundamentally alter how they interact with the game's rules. Over ten rounds, factions compete for control of Arrakis and its all-important spice melange, using storm movement, bidding, treachery cards, and alliance negotiations. The 2019 edition made only minor rule adjustments (around 3-5%) to the original game, and has since received expansions adding the Ixians, Tleilaxu, CHOAM, Richese, Ecaz, and Moritani factions.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: fjords
+name: "Fjords"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Abstract
+  - Euro
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Franz-Benno Delonge
+publisher:
+  - Hans im Glück
+  - Rio Grande Games
+artist:
+  - Franz-Benno Delonge
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Fjords is a two-player abstract strategy game played in two distinct phases. In the first phase, players alternately draw and place hexagonal landscape tiles to build a shared map of Norwegian fjords, placing their villages on certain tiles as the terrain expands. In the second phase, players extend their territory outward from their villages by placing colored tokens, trying to claim as many tiles as possible while blocking their opponent. The player who covers the most land wins, making Fjords a tense and elegant game of planning and positional maneuvering.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: frag
+name: "Frag"
+alternate_names:
+  - "Frag Gold Edition"
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Action Points
+  - Take That
+  - Variable Player Powers
+  - Party
+  - Sci-Fi
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Steve Jackson
+publisher:
+  - Steve Jackson Games
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 14
+
+description: |
+  Frag is a board game by Steve Jackson Games that simulates the first-person shooter video game experience on a tabletop. Players create characters by distributing seven points among Health, Speed, and Accuracy attributes, then move around an arena map shooting at each other and collecting weapon and gadget cards. The goal is to score three "frags" (kills) before opponents do; players respawn at random points when eliminated. Deliberately designed to evoke the chaotic fun of games like Quake and Doom, Frag is a fast, tongue-in-cheek arena brawler that plays best with 4-6 players.
+
+upgrades: []

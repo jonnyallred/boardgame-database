@@ -1,0 +1,51 @@
+id: electric-football
+name: "Electric Football"
+alternate_names: []
+year: 1948
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Norman Sas
+publisher:
+  - Tudor Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Electric Football is a novelty sports game invented by Norman Sas and introduced by Tudor Games around 1948-1949. Players position miniature plastic football players on a vibrating metal field; when the electric vibrator is switched on, the figures move in unpredictable directions (generally toward the opponent's end zone) due to the vibrations and the shape of their bases. The game captivated millions of American children throughout the 1950s-1970s and sold over 40 million units, becoming a nostalgic icon of mid-century American toy culture. Tudor Games continues to produce modern electric football sets today.
+
+upgrades: []

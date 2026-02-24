@@ -1,0 +1,50 @@
+id: coin-hopping-washington-dc
+name: "Coin Hopping—Washington D.C."
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Family
+  - Historical
+
+evokes:
+  - Discovery
+  - Progress
+  - Clever
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - J. F. Cartier
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Coin Hopping—Washington D.C. is an educational strategy game in which each player assumes the role of an interest group touring Washington, D.C. to gain influence over the three branches of government. Players move their pawns by "coin hopping" — moving to any adjacent space that has a coin on it, and can pick up coins to carry them along, creating stacks. The goal is to assemble a stack containing one penny, nickel, dime, and quarter; each player also places citizens into the White House, Capitol, or Supreme Court when landing on the appropriate landmarks. The game won the iParenting Media Award and Dr. Toy's 100 Best Children's Products for 2008.
+
+upgrades: []

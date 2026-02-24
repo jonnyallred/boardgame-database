@@ -1,0 +1,54 @@
+id: funny-friends
+name: "Funny Friends"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Party
+  - Friedemann Friese
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Connection
+  - Unique
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Marcel-André Casasola Merkle
+  - Friedemann Friese
+publisher:
+  - 2F-Spiele
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 16
+
+description: |
+  Funny Friends is a life-simulation card game in which players guide their characters from teenage years through adulthood, shaping their personalities, relationships, and careers through a series of random and chosen life events. Each decision affects attributes like wealth, health, spirituality, and various addictions, while social bonds between characters mean that one player's choices can ripple through their friends' lives. The objective is to be the first player to achieve five personal life goals drawn at the start of the game. Its irreverent tone — characters might become rock stars, priests, or have unexpected romantic encounters — makes it a hit at adult game nights.
+
+upgrades: []

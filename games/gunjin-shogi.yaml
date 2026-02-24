@@ -1,0 +1,53 @@
+id: gunjin-shogi
+name: "Gunjin Shōgi"
+alternate_names:
+  - "Gunjin Shogi"
+  - "Japanese Military Chess"
+  - "Marching Chess"
+year: 1895
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Abstract
+  - Hidden Movement
+  - Asymmetric
+
+evokes:
+  - Mystery
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Gunjin Shōgi is a Japanese two-player abstract strategy game dating to at least 1895, functioning as a children's military chess variant similar to Stratego and the earlier French game L'Attaque. Players set up pieces face-down — ranked by military officer hierarchy including generals, spies, mines, and engineers — and must deduce the enemy's hidden forces through battle encounters resolved by a referee, as pieces remain face-down throughout. The object is to capture the opponent's flag; a weak spy can capture the most powerful general, and mines destroy all but the engineers sent to defuse them. The pentagonal pieces echo the shape of Shōgi pieces, but the gameplay is entirely distinct.
+
+upgrades: []

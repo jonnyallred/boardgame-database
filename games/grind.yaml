@@ -1,0 +1,53 @@
+id: grind
+name: "Grind"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Ameritrash
+  - Dice Rolling
+  - Action Points
+  - Asymmetric
+  - Steampunk
+  - Racing
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Clever
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Privateer Press
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Grind is a two-player extreme combat sports board game set in the Warmachine universe, released by Privateer Press in 2009. Each player fields a team of steam-powered mechanical giants—Runners and Crushers—equipped with interchangeable weapon arms, battling to move a giant spiked ball into the opponent's goal. Drawing inspiration from football, rugby, hockey, and stock car racing, the game blends aggressive physical positioning with careful action-point management and dice rolling. Players customize their steamjack squads before each match, and the collision of tactics and brute force makes every game a chaotic, satisfying contest.
+
+upgrades: []

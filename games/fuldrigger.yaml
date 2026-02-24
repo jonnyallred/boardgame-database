@@ -1,0 +1,54 @@
+id: fuldrigger
+name: "Fuldrigger"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Trading
+  - Route Building
+  - Maritime
+  - Euro
+  - Historical
+
+evokes:
+  - Rivalry
+  - Progress
+  - Clever
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Ole Bent Mogensen
+publisher:
+  - Mogensen Spil
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Fuldrigger is a Danish trading game set during the Renaissance, in which players captain sailing ships across the Caribbean buying and selling commodities such as silk, tobacco, and rum to amass wealth. Players invest their profits in expanding their fleet and building fortresses to secure trade routes, competing economically to become the richest merchant. The game features straightforward rules and meaningful strategic decisions around investment, route planning, and competition with opponents. Primarily sold in Denmark, it is a rare regional title with devoted fans who appreciate its nautical economic theme.
+
+upgrades: []

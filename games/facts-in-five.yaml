@@ -1,0 +1,54 @@
+id: facts-in-five
+name: "Facts in Five"
+alternate_names:
+  - "Facts in Five: The Game of Knowledge"
+year: 1967
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Set Collection
+  - Party
+  - Family
+  - Real-time
+
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Rivalry
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Rick Onanian
+publisher:
+  - 3M
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Facts in Five: The Game of Knowledge is a categories-based word game designed by Rick Onanian and published by 3M in 1967 as part of their popular bookshelf game series. Based on the parlor game Scattergories, players draw cards to select five categories and five letter tiles, then race against a five-minute sand timer to fill in a grid by naming something in each category that begins with each letter — potentially generating up to 25 answers. Players score points for unique answers not matched by any opponent. The game has been reprinted multiple times by Avalon Hill and other publishers, remaining a perennially popular party and family game.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: flizz-miez
+name: "Flizz & Miez"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Dice Rolling
+  - Puzzle Solving
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - unknown
+publisher:
+  - Carrera
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Flizz & Miez is a hectic real-time kids game for 2-4 players published by Carrera in 2014. Players race to assemble jigsaw puzzle cars as quickly as possible while the cat player simultaneously rolls dice hoping to land cat symbols and catch the car drivers before they escape. The game combines speed-puzzle assembly with luck-based dice rolling in a cat-and-mouse format that is frantic and fun for young children. It won recognition from Spiel des Jahres as a recommended children's game.
+
+upgrades: []

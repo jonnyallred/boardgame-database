@@ -1,0 +1,57 @@
+id: full-metal-planete
+name: "Full Metal Planète"
+alternate_names:
+  - "Full Metal Planet"
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Action Points
+  - Area Control
+  - Resource Management
+  - Sci-Fi
+  - Wargame
+
+evokes:
+  - Agency
+  - Rivalry
+  - Tension
+  - Clever
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Gérard Delfanti
+  - Pascal Trigaux
+  - Gérard Mathieu
+publisher:
+  - Ludodélire
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Full Metal Planète is a light sci-fi strategy game in which players control mining companies racing to extract ore from a dangerous planet before it becomes uninhabitable. Each player commands tanks, barges, crabs, and a freighter, spending action points to collect ore, capture enemy equipment, and evacuate resources before the planet collapses. The game is notable for its dice-free, timed action system that rewards tactical thinking under pressure. Now a rare collector's item following the bankruptcy of publisher Ludodélire, it is widely regarded as a hidden gem of 1980s board game design.
+
+upgrades: []

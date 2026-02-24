@@ -1,0 +1,51 @@
+id: giocagoal
+name: "GiocaGoal"
+alternate_names:
+  - "Giocagoal"
+year: 1970
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dexterity
+  - Racing
+
+evokes:
+  - Rivalry
+  - Tension
+  - Lucky
+  - Humor
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Atlantic
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  GiocaGoal is an Italian tabletop football game manufactured by Atlantic, the Italian company well known in the early 1970s for its 1:72 and 1:32 scale plastic soldier sets. Simpler and cheaper than Subbuteo, GiocaGoal was sold in half-pitch boxes containing a team, coach, bench figures, referee, and goal, with team colors representing clubs of the Italian Serie A. Players flicked the figures to control the ball, in the style of subbuteo-type dexterity football games. Its affordability and tie-in to real Italian football teams made it a popular piece of Italian game culture.
+
+upgrades: []

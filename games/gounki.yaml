@@ -1,0 +1,49 @@
+id: gounki
+name: "Gounki"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Racing
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Nestorgames
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Gounki is an abstract two-player strategy game played on an eight-by-eight grid in which pieces can combine into stacks or disperse to change their movement options. The objective is to move your pieces off the opposite edge of the board before your opponent does the same, with combinable stacks adding both range and strategic complexity. Opposing pieces may not capture each other—only block—so the game becomes a spatial puzzle of maneuvering around and through the enemy. Published by Nestorgames, it is admired for its elegant rules and surprisingly deep positional play.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: freeloader
+name: "Freeloader"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Bluffing
+  - Social Deduction
+  - Party
+  - Take That
+
+evokes:
+  - Humor
+  - Persuasion
+  - Rivalry
+  - Lucky
+  - Connection
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - James Ernest
+publisher:
+  - Cheapass Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Freeloader is a social game by James Ernest from Cheapass Games in which players try to mooch as much free stuff as possible from friends and neighbors. The board is assembled from six cardboard house pieces arranged in a circle representing a neighborhood, and players navigate social dynamics to extract favors, meals, and resources from one another without contributing much in return. A hard-to-find Cheapass release that was printed only once, Freeloader rewards players skilled at social manipulation and shameless freeloading in a humorous neighborhood setting.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: dungeon
+name: "Dungeon!"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Set Collection
+  - Dungeon Crawler
+  - Fantasy
+  - Ameritrash
+  - Cult Classic
+
+evokes:
+  - Discovery
+  - Lucky
+  - Tension
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - David R. Megarry
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Dungeon! is a 1975 adventure board game by David R. Megarry and TSR, widely regarded as the first dungeon crawler board game and the progenitor of an entire genre. Players choose from character classes including the Elf, Hero, Superhero, and Wizard, and race through a six-level dungeon map to collect a target value of treasure before returning to the starting chamber. Deeper levels offer richer rewards but far deadlier monsters. The game was inspired by the same Blackmoor D&D campaign that gave rise to Dungeons & Dragons itself, and has been cited as the direct ancestor of Descent, Talisman, DungeonQuest, and many other dungeon exploration games.
+
+upgrades: []

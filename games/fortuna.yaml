@@ -1,0 +1,53 @@
+id: fortuna
+name: "Fortuna"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Trading
+  - Economic
+  - Euro
+  - Ancient
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - unknown
+publisher:
+  - The Game Master
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Fortuna is a strategy board game set during the reign of Caesar in the Roman Empire, published by The Game Master in 2011. Players take on the roles of ambitious Romans striving for influence, wealth, and happiness as they travel toward the City of Rome. The game features resource management mechanics centered on farming grain and wine, irrigating land to improve harvests, and trading goods to climb the Roman social hierarchy. Multiple paths to victory reward different playstyles, blending agricultural management with trade and political influence in a Roman Empire setting.
+
+upgrades: []

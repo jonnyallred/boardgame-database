@@ -1,0 +1,55 @@
+id: evo
+name: "Evo"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Auctions/Bidding
+  - Modular Board
+  - Animals
+  - Euro
+  - Nature
+
+evokes:
+  - Agency
+  - Rivalry
+  - Clever
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Philippe Keyaerts
+publisher:
+  - Eurogames
+  - Days of Wonder
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Evo is a 2001 evolutionary strategy game designed by Philippe Keyaerts in which players control species of early dinosaurs struggling for survival on a prehistoric island divided into climate zones. Each round, players bid in an auction to acquire genetic mutations — such as fur for cold resistance, horns for combat, or shells for defense — then migrate their species across the modular board to survive climate shifts and compete for territory. Points are accumulated from reproduction and survival before a randomly drawn meteor card ends the era. Evo won the GAMES Magazine Game of the Year award in 2002 and received a revised second edition in 2011 from Days of Wonder.
+
+upgrades: []

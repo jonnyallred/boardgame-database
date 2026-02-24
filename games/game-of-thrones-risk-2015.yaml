@@ -1,0 +1,54 @@
+id: game-of-thrones-risk-2015
+name: "Game of Thrones Risk"
+alternate_names:
+  - "Risk: Game of Thrones"
+year: 2015
+
+# Relationships
+game_family: risk
+edition: "Game of Thrones"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Variable Player Powers
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [3, 4, 5]
+
+designer:
+  - Unknown
+publisher:
+  - USAopoly
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Risk: Game of Thrones is a 2015 licensed edition of the classic Risk area-control game set in the world of HBO's Game of Thrones. Players command one of seven great houses — Stark, Lannister, Targaryen, Baratheon, Tyrell, Martell, or Ghiscari — competing for dominance across two iconic game boards representing Westeros and Essos. Three play modes are available: Skirmish (introductory), Dominion (full game with character cards and objectives), and World at War (both maps simultaneously). Character cards add house-specific abilities, such as Daenerys Targaryen's ability to substitute eight-sided dice in battle.
+
+upgrades: []

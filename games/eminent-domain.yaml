@@ -1,0 +1,53 @@
+id: eminent-domain
+name: "Eminent Domain"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Card Drafting
+  - Engine Building
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Seth Jaffee
+publisher:
+  - Tasty Minstrel Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 13
+
+description: |
+  Eminent Domain is a deck-building civilization game designed by Seth Jaffee and published by Tasty Minstrel Games in 2011, set in a future where humanity colonizes the stars. Players build decks of Role cards (Survey, Research, Colonize, Produce/Trade, Warfare) that define their civilization's capabilities, and each turn choose a Role to execute — with opponents having the option to "follow" the same role. Playing matching cards amplifies a role's effect, creating a satisfying feedback loop: the more you research, the better your research becomes. Donald X. Vaccarino cited Eminent Domain as one of the few deck-building games to introduce mechanics he considered genuinely new.
+
+upgrades: []

@@ -1,0 +1,47 @@
+id: colorforms
+name: "Colorforms"
+alternate_names: []
+year: 1951
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 0  # Solitary
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+
+evokes:
+  - Creative
+  - Wonder
+  - Discovery
+  - Connection
+  - Humor
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 5
+max_playtime: 30
+min_age: 3
+
+description: |
+  Colorforms is a creative activity toy/game first introduced in 1951 featuring reusable vinyl sticker-like pieces that adhere to a coated board. Players arrange brightly colored geometric shapes or character-themed pieces freely on a backdrop, fostering imaginative play and storytelling. Over the decades the brand has produced hundreds of themed sets featuring licensed characters such as Barbie, Mickey Mouse, and the Smurfs. Its open-ended, no-rules format has made it a perennial children's toy marketed primarily as an activity set rather than a competitive game.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: foundations-of-metropolis
+name: "Foundations of Metropolis"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: foundations-of-rome
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Set Collection
+  - Economic
+  - City Building
+  - Euro
+  - Family
+
+evokes:
+  - Progress
+  - Complete
+  - Clever
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Emerson Matsuuchi
+publisher:
+  - Arcane Wonders
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  Foundations of Metropolis is a city-building game designed by Emerson Matsuuchi and published by Arcane Wonders in 2024. Players compete to become the city's Grand Architect by purchasing deeds to empty lots and constructing buildings over three rounds — more complex buildings require multiple lots but award greater prestige. The game is a streamlined, more accessible version of the award-winning Foundations of Rome, using polyomino building pieces on a grid-based city map with an updated theme. Whoever accumulates the most prestige is appointed Grand Architect and wins the game.
+
+upgrades: []

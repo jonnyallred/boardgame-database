@@ -1,0 +1,54 @@
+id: familienbande
+name: "Familienbande"
+alternate_names:
+  - "Family Ties"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Family
+  - Party
+  - Filler
+
+evokes:
+  - Clever
+  - Humor
+  - Lucky
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Leo Colovini
+publisher:
+  - Winning Moves
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Familienbande (German for "Family Ties") is a 2004 dedicated deck card game designed by Leo Colovini and published by Winning Moves as the third entry in their compact game series. Players use family-themed cards to build sets and score points, navigating the interactions between family members and their connections. The game's compact format and light rules make it an accessible choice for families seeking a quick card game, while Colovini's characteristic elegant design ensures there are meaningful choices within the short play time.
+
+upgrades: []

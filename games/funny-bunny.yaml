@@ -1,0 +1,51 @@
+id: funny-bunny
+name: "Funny Bunny"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Ravensburger
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 4
+
+description: |
+  Funny Bunny is a Ravensburger children's racing game in which players race their bunnies up a hill to reach the winning carrot at the top. On each turn, a card is drawn — bunny cards advance your pieces while carrot cards rotate the carrot on the hill, potentially triggering traps such as holes, a mole, a swinging gate, or a drawbridge that send bunnies tumbling back down. The first player to get a bunny safely to the top wins. With its random card-driven movement and whimsical interactive board elements, it is a popular first board game for young children.
+
+upgrades: []

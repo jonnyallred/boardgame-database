@@ -1,0 +1,56 @@
+id: epic-spell-wars-of-the-battle-wizards-duel-at-mt-skullzfyre
+name: "Epic Spell Wars of the Battle Wizards: Duel at Mt. Skullzfyre"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: epic-spell-wars
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Press Your Luck
+  - Take That
+  - Party
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Rob Heinsoo
+  - Cory Jones
+  - Nick Edwards
+publisher:
+  - Cryptozoic Entertainment
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 17
+
+description: |
+  Epic Spell Wars of the Battle Wizards: Duel at Mt. Skullzfyre is a chaotic card game designed by Rob Heinsoo, Cory Jones, and Nick Edwards, published by Cryptozoic Entertainment in 2012. Players are outlandish battle wizards competing to be the last one standing by constructing three-part spells from Source, Quality, and Delivery cards — each combination producing wildly different effects at varying power levels. The game embraces absurdist humor and over-the-top artwork, with a fast and lethal combat system where dead wizards respawn with bonus cards. Epic Spell Wars is beloved for its irreverent tone, take-that mechanics, and the gleeful chaos that erupts when complex spells collide.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: disney-hocus-pocus
+name: "Disney Hocus Pocus: The Game"
+alternate_names:
+  - "Hocus Pocus: The Game"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light (Cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Set Collection
+  - Family
+  - Gateway
+  - Fantasy
+  - Disney
+
+evokes:
+  - Connection
+  - Tension
+  - Lucky
+  - Wonder
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Prospero Hall
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Disney Hocus Pocus: The Game is a cooperative card game for 2–6 players inspired by the Disney film. Players work together to stop the Sanderson Sisters from completing their wicked potion before sunrise, using spells, tricks, and teamwork to stun witches and bring the sun closer to rising. On each turn, players attempt to align the correct combination of ingredient cards in the cauldron without seeing each other's hands. The game features simple rules ideal for families, a Binx meeple, and multiple spell cards that introduce special abilities.
+
+upgrades: []

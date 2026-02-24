@@ -1,0 +1,52 @@
+id: hedbanz
+name: "Hedbanz"
+alternate_names:
+  - "HedBanz"
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Party
+  - Family
+  - No Math
+
+evokes:
+  - Humor
+  - Mystery
+  - Tension
+  - Connection
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher:
+  - Spin Master
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Hedbanz is a quick-question picture guessing game where players wear a card on a headband without seeing it, then ask "yes" or "no" questions to figure out whether the cartoon on their head depicts an animal, food, or man-made object. Players race to guess their card before a timer runs out, using process of elimination through targeted questioning. The game's simple headband mechanic and broad accessibility have made it a long-running family game franchise with numerous editions and licensed variants published by Spin Master.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: drako
+name: "Drako: Dragon & Dwarves"
+alternate_names:
+  - Drako
+  - Drako: Dragons & Dwarves
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Hand Management
+  - Asymmetric
+  - Variable Player Powers
+  - Fantasy
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Rebel Studio
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Drako: Dragon & Dwarves is a 2012 asymmetric two-player card game from Rebel Studio in which one player controls a fearsome dragon and the other commands a team of three experienced dwarf hunters. Each side has a unique deck with different actions: the dragon can move, bite, breathe fire, fly, and defend, while the dwarves can attack with axes, shoot crossbows, move individually or as a group, and cast nets. The dwarves win if they kill the dragon before it escapes; the dragon wins by surviving until the dwarf deck runs out. The stark asymmetry and fast play time make it an excellent head-to-head filler.
+
+upgrades: []

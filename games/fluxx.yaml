@@ -1,0 +1,56 @@
+id: fluxx
+name: "Fluxx"
+alternate_names:
+  - "Flux"
+year: 1997
+
+# Relationships
+game_family: fluxx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Variable Setup
+  - Events
+  - Party
+  - Gateway
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Unique
+  - Tension
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Andrew Looney
+publisher:
+  - Looney Labs
+artist: []
+playtime_minutes: 30
+min_playtime: 10
+max_playtime: 40
+min_age: 8
+
+description: |
+  Fluxx is the card game of ever-changing rules, designed by Andrew Looney and published by Looney Labs since 1997. The game begins simply — draw one card, play one card — but players quickly alter the rules and goals by playing New Rule cards and Goal cards from their hands, so the win condition and card-draw amounts shift constantly throughout the session. The first player to satisfy whatever the current Goal says (matching Keeper cards in play) wins, but that goal can change at any time. Now in its 5th edition and spawned dozens of themed variants (Zombie Fluxx, Star Fluxx, etc.), it is one of the most commercially successful independent card games ever made.
+
+upgrades: []

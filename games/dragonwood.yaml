@@ -1,0 +1,56 @@
+id: dragonwood
+name: "Dragonwood"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Dice Rolling
+  - Hand Management
+  - Press Your Luck
+  - Family
+  - Gateway
+  - Fantasy
+
+evokes:
+  - Lucky
+  - Tension
+  - Clever
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Darren Kisgen
+publisher:
+  - Gamewright
+artist:
+  - Chris Beatrice
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Dragonwood is a fast-playing 2015 fantasy card-and-dice game from Gamewright in which players venture into a mythical forest to battle ogres, goblins, and fearsome dragons. Players collect sets of adventurer cards — straights, matches, or flushes — to earn dice, which they then roll against creature difficulty numbers to capture them. Each captured creature scores points and may grant special abilities. Simple rules make it accessible to young players while the push-your-luck decisions around when to attack give it genuine strategic bite.
+
+upgrades: []

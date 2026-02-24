@@ -1,0 +1,54 @@
+id: fireball-island
+name: "Fireball Island"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+  - Ameritrash
+  - Adventure (Fantasy)
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Bruce Lund
+  - Chuck Kennedy
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 7
+
+description: |
+  Fireball Island is Milton Bradley's 1986 three-dimensional adventure board game, described as "The dimensional adventure game of pitfalls and perils!" Players navigate a molded plastic tropical island, racing to steal the glowing red jewel from the ancient idol Vul-Kar and escape to the boat before rivals can. Both the idol and volcanic vents periodically launch fireball marbles that physically roll down the mountain, crashing through player pawns and toppling bridges in spectacular fashion. The game's wildly chaotic physical action made it a beloved 1980s classic and led to a crowdfunded Restoration Games revival in 2017 as Fireball Island: The Curse of Vul-Kar.
+
+upgrades: []

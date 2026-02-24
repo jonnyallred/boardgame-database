@@ -1,0 +1,55 @@
+id: frigate
+name: "Frigate"
+alternate_names:
+  - "Frigate: Sea War in the Age of Sail"
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Programmed Movement
+  - Simultaneous Action
+  - Wargame
+  - Historical
+  - Maritime
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Dunnigan
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 14
+
+description: |
+  Frigate: Sea War in the Age of Sail is a naval wargame designed by Jim Dunnigan and published by SPI in 1974. Set in the Napoleonic era, the game simulates frigate combat during the Age of Sail, with players simultaneously pre-plotting their ship movements before revealing them, while wind direction and velocity are determined by dice at the start of each turn. The game includes 20 historical scenarios based on naval combats from 1702 to 1812, ranging from single ship duels to larger fleet engagements. Described by game designer Jon Freeman as "a game of maneuver," Frigate rewards careful planning and exploitation of wind and position.
+
+upgrades: []

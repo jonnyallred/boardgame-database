@@ -1,0 +1,52 @@
+id: gold-mine
+name: "Gold Mine"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Set Collection
+  - Dice Rolling
+  - Press Your Luck
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Chris James
+publisher:
+  - Stratus Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Gold Mine is a family dice and set-collection game designed by Chris James and published by Stratus Games. Players compete to collect gold nuggets while navigating the hazards of underground mining, using press-your-luck dice mechanics to push for more gold or risk losing their haul. Its accessible rules, short playtime, and gold-rush theme make it suitable for young families and casual game nights. The game prioritizes fun and quick decisions over complex strategy.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: escape-from-the-hidden-castle
+name: "Escape from the Hidden Castle"
+alternate_names:
+  - "Midnight Party"
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Gateway
+  - Racing
+  - Press Your Luck
+  - Wolfgang Kramer
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Dread
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Wolfgang Kramer
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Escape from the Hidden Castle, also known as Midnight Party, is a 1989 children's and family board game designed by Wolfgang Kramer and published by Ravensburger. Players move their pawns around the castle corridors trying to enter the ballroom and party safely before the ghost Hugo catches them. Each turn, players decide whether to keep moving or stop, but Hugo also moves each round and anyone he catches is eliminated. The tension between pressing forward into the fun and escaping the ghost makes for nail-biting decisions that work equally well for kids and adults. A reprint by Amigo Games brought the game to wider international audiences.
+
+upgrades: []

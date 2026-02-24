@@ -1,0 +1,53 @@
+id: duel-in-the-dark
+name: "Duel in the Dark"
+alternate_names:
+  - Duell im Dunkeln
+year: 2007
+
+# Relationships
+game_family: duel-in-the-dark
+edition: "1st Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Deduction
+  - Hidden Movement
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Mystery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 14
+
+description: |
+  Duel in the Dark is a 2007 asymmetric two-player wargame from Z-Man Games depicting the nighttime air war over Germany in 1943. One player commands the British Bomber Command, secretly plotting the course of a Halifax bomber toward German cities to erode civilian morale, while the other controls the Luftwaffe, deploying night fighters and organizing civil defenses. The British player uses a Mosquito as escort or decoy, while the German player must deduce the bomber's route before fuel runs out. Rules cover weather, moon phases, clouds, flak, searchlights, balloon barriers, and more. A second edition with nine expansions was later released.
+
+upgrades: []

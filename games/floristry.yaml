@@ -1,0 +1,55 @@
+id: floristry
+name: "Floristry"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Tile Placement
+  - Set Collection
+  - Pattern Building
+  - Family
+  - Food Theme
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Complete
+  - Creative
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - David Gordon
+publisher:
+  - UP Games
+  - Uncommons Publishing
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 12
+
+description: |
+  Floristry is a fast two-player competitive game of flower auctions and storefront design published by UP Games in 2024. Each round, players draw flower tiles from a bag and then compete for them through a Dutch auction run via a companion app (no download required, no internet needed). Tiles acquired are placed in personal storefront frames, and players score points for their largest continuous patch of each of six flower types — yellow tulip, green chrysanthemum, red rose, blue hydrangea, pink daisy, and orange. After 10 rounds of bidding and placing, the player with the most charm points is declared the winner, blending auction tension with spatial pattern-building in a ruleset that fits on a single sheet.
+
+upgrades: []

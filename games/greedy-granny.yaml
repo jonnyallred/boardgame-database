@@ -1,0 +1,51 @@
+id: greedy-granny
+name: "Greedy Granny"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dexterity
+  - Party
+  - Press Your Luck
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Goliath Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Greedy Granny is a dexterity and press-your-luck children's game published by Goliath Games in 2018. Players take turns spinning a wheel to determine which treat to steal from Granny's tray as she dozes in her rocking chair, then carefully reach in to take it—but one wrong move triggers the chair and sends her false teeth flying. The first player to collect one of each treat wins, making every turn a tense balancing act between greed and caution. Its simple rules and slapstick premise make it a hit for young children and family game nights.
+
+upgrades: []

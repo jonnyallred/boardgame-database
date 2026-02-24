@@ -1,0 +1,55 @@
+id: happy-little-dinosaurs
+name: "Happy Little Dinosaurs"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Press Your Luck
+  - Take That
+  - Party
+  - Family
+  - Animals
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Ramy Badie
+publisher:
+  - TeeTurtle
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Happy Little Dinosaurs is a cheerful card game from the makers of Unstable Unicorns in which adorable dinosaur characters must dodge an escalating series of disasters — natural, predatory, and emotional — to be the last dino standing. Each round, a Disaster card is flipped and players simultaneously play Point cards hoping to avoid the calamity; those who fail lose life points, and the first to be eliminated or the last survivor wins. The game's irreverent humor, simple rules, and bright art make it a hit as a gateway party game, and a successful line of expansions has followed the base game.
+
+upgrades: []

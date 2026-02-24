@@ -1,0 +1,50 @@
+id: dont-drop-the-soap
+name: "Don't Drop the Soap"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Party
+  - Take That
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Powerful
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Don't Panic Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 18
+
+description: |
+  Don't Drop the Soap is a dark-humored adult party card game set in a prison shower. The game has no winners—only one loser. Players take turns playing action cards from their hand and following the instructions; the game ends when a player is forced to play a soap card, at which point they lose. Published by Don't Panic Games, it is a fast and absurdist take on hot-potato game mechanics with mature prison-themed content and is recommended for ages 18+.
+
+upgrades: []

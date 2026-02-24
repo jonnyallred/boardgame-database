@@ -1,0 +1,52 @@
+id: dodo-rettet-das-wackel-ei
+name: "Dodo – Rettet das Wackel-Ei"
+alternate_names:
+  - "Dodo: Rettet das Wackel-Ei!"
+  - "Dodo"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light (Cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Connection
+  - Wonder
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Kosmos
+artist: []
+playtime_minutes: 10
+min_playtime: 10
+max_playtime: 15
+min_age: 6
+
+description: |
+  Dodo – Rettet das Wackel-Ei is a cooperative children's game by Kosmos in which players work together to safely guide a wobbling egg down a mountain and into a rescue boat before it crashes. Each turn the youngest player pushes the Dodo, sending the egg tumbling unpredictably, while a dice roll reveals which building materials players must quickly find and place to guide the egg safely. Three game variations add replayability. Winner of the German Game Award for Best Children's Game 2021, the game's highlight is its physics-driven wobbling egg that rolls in completely unpredictable ways.
+
+upgrades: []

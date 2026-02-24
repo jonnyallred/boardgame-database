@@ -1,0 +1,52 @@
+id: finance
+name: "Finance"
+alternate_names: []
+year: 1932
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Family
+  - Roll & Write
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Progress
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Dan Layman
+publisher:
+  - Knapp Electric
+  - Parker Brothers
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 240
+min_age: 8
+
+description: |
+  Finance is a 1932 economic board game designed by Dan Layman, directly derived from Elizabeth Magie's The Landlord's Game — placing it as a key precursor to Monopoly. Players buy properties, collect rent, and attempt to accumulate wealth through roll-and-move gameplay with Chance and Community Chest-style cards. Layman sold the game to Knapp Electric for $200, and Knapp sold it to Parker Brothers in 1936. The existence of Finance on the market concurrent with Monopoly's development was historically significant, as it complicated Parker Brothers' patent position on Monopoly.
+
+upgrades: []

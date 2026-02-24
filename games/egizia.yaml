@@ -1,0 +1,56 @@
+id: egizia
+name: "Egizia"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Resource Management
+  - Set Collection
+  - Euro
+  - Ancient
+
+evokes:
+  - Clever
+  - Masterful
+  - Agency
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Flaminia Brasini
+  - Virginio Gigli
+  - Stefano Luperto
+  - Antonio Tinto
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Egizia is a worker placement and resource management game designed by the Italian collective Acchittocca (Flaminia Brasini, Virginio Gigli, Stefano Luperto, and Antonio Tinto), originally published by Hans im Glück in 2009 with Rio Grande Games handling English distribution. Players pilot boats down the Nile River to claim spaces and gather resources, using them to construct Egypt's famous monuments including the Sphinx, pyramids, obelisks, and temples. A key constraint is that boats can only move downstream, meaning early placement decisions limit which spaces remain available — creating fascinating tension between short-term resource gains and long-term strategic positioning. The game was reimplemented as Egizia: Shifting Sands in 2020.
+
+upgrades: []

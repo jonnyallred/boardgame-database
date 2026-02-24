@@ -1,0 +1,51 @@
+id: dragons-of-kir
+name: "Dragons of Kir"
+alternate_names:
+  - Darter
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Abstract
+  - Fantasy
+
+evokes:
+  - Rivalry
+  - Clever
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - One Eye Productions
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Dragons of Kir is a 2005 abstract tile-placement strategy game in which two players strategically place nature and civilization tiles to deflect four constantly moving dragons — one for each player — into the opponent's war tent while defending their own. The opposite edges of the board connect, creating a toroidal playing field where tile plays have rippling consequences across the entire landscape. The game is a themed version of Darter, which won the 2006 Origins Vanguard Innovative Game Award, and a wood expansion adds rules for up to four players.
+
+upgrades: []

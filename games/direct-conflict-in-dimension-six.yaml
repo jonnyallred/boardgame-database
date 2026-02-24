@@ -1,0 +1,50 @@
+id: direct-conflict-in-dimension-six
+name: "Direct Conflict in Dimension Six"
+alternate_names:
+  - "Direct Conflict in Dimension Six: Galactic Warfare in Two Dimensions"
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Resource Management
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Discovery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Direct Conflict in Dimension Six is a 1977 science fiction combat board game published by Dimension Six, Inc. in which two players battle for galactic superiority across a two-dimensional grid. Players mine supplies of a mineral called Delium, which is used to construct missiles and sustain military operations. The game's resource-to-combat loop — collect Delium, build weapons, press the attack — creates a compressed economic wargame experience. It is an obscure entry in the 1970s self-published sci-fi wargame tradition.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: havana
+name: "Havana"
+alternate_names:
+  - "La Habana"
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Simultaneous Action
+  - Resource Management
+  - Hand Management
+  - Euro
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Reinhard Staupe
+publisher:
+  - Rio Grande Games
+artist:
+  - Michael Menzel
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Havana is a light simultaneous-action resource management game designed by Reinhard Staupe, framed as a spiritual sequel to the board game Cuba using Michael Menzel's atmospheric artwork. Each player has an identical deck of 13 cards from which two are played face-down each round; the numerical combination of the cards (e.g., 3 and 4 yielding 34) determines turn order, so the player who acts first risks acting on less information. Players use their card actions to gather materials and construct buildings, with thoughtful card selection creating surprising depth for such an accessible game.
+
+upgrades: []

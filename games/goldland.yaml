@@ -1,0 +1,54 @@
+id: goldland
+name: "Goldland"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Euro
+  - Tile Placement
+  - Racing
+  - Resource Management
+  - Adventure
+  - Wolfgang Kramer
+
+evokes:
+  - Discovery
+  - Clever
+  - Progress
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Kramer
+publisher:
+  - Goldsieber Spiele
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Goldland is an adventure and exploration Euro game designed by Wolfgang Kramer and published by Goldsieber Spiele in 2002. Players are explorers with backpacks that hold up to twelve items—tools, provisions, trading goods, and treasures—and the number of empty spaces in the backpack determines how far you can move each turn, creating an elegant tension between traveling light and carrying useful equipment. Tile laying reveals the wilderness map as players explore, and each adventure encounter demands specific resource combinations. The game blends puzzle-like resource management with a race to claim treasures from Goldland.
+
+upgrades: []

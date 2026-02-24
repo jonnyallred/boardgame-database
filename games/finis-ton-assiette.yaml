@@ -1,0 +1,51 @@
+id: finis-ton-assiette
+name: "Finis ton Assiette"
+alternate_names:
+  - "Finis ton assiette !"
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Family
+  - Food Theme
+
+evokes:
+  - Humor
+  - Tension
+  - Clever
+  - Lucky
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Interlude
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Finis ton Assiette ("Finish Your Plate!") is a light 2005 children's card game published by Interlude, themed around the comical challenge of finishing a meal. Each player starts with three dish cards (showing foods like chocolate eclairs and chicken with fries), each marked with a number of colored forks. Players play matching Fork action cards to clear their own dishes, while using special cards to add extra dishes to opponents' plates or exchange dishes with rivals. The first player to clear all their dishes wins, creating a fast, luck-driven race for young players.
+
+upgrades: []

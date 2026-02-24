@@ -1,0 +1,57 @@
+id: feudum
+name: "Feudum"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Euro
+  - Worker Placement
+  - Hand Management
+  - Area Control
+  - Economic
+  - Resource Management
+  - Variable Player Powers
+  - Medieval
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Masterful
+  - Powerful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Mark K. Swanson
+publisher:
+  - Odd Bird Games
+artist:
+  - Justin Schultz
+playtime_minutes: 150
+min_playtime: 90
+max_playtime: 180
+min_age: 13
+
+description: |
+  Feudum (Latin for fiefdom) is a complex euro-style economic game for 2-5 players set in a fantastical medieval world. Each turn, players select four cards from a hand of eleven unique action cards representing characters and resources, with each card offering a basic or advanced action, then execute them simultaneously. Players control medieval characters that roam the countryside farming, taxing towns, seizing outposts, and competing to acquire feudums that grant influence in one of six powerful guilds. The game rewards careful hand management, long-term economic planning, and adapting to opponents' guild strategies over five scoring epochs.
+
+upgrades: []

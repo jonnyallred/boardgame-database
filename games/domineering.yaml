@@ -1,0 +1,51 @@
+id: domineering
+name: "Domineering"
+alternate_names:
+  - "Crosscram"
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - No Math
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Domineering is a two-player combinatorial abstract game played on a rectangular grid in which one player places dominoes vertically and the other places them horizontally on alternating turns. Dominoes may not overlap, and the first player unable to place a domino loses. Despite its extremely simple ruleset, Domineering has deep strategic complexity and is extensively studied in combinatorial game theory, where positions in Domineering are used as examples of hot partisan games. It can be played on any rectangular board (common sizes include 8×8 or 6×6) without any special equipment.
+
+upgrades: []

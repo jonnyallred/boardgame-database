@@ -1,0 +1,50 @@
+id: conflict
+name: "Conflict"
+alternate_names: []
+year: 1940
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Abstract
+  - War
+  - Historical
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Conflict is a family wargame first published by Parker Brothers in 1940, billed as an abstract land, sea, and air combat game. Players move military miniatures (infantry, ships, planes) around a symmetrical board divided into four zones, attempting to either invade an opponent's home zone or capture all enemy units. The game's streamlined mechanics strip away detailed simulation in favor of accessible family-weight strategy, making it one of the early mass-market wargames aimed at a general audience. Various editions were produced through the 1960s.
+
+upgrades: []

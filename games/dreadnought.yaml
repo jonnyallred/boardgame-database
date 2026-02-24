@@ -1,0 +1,54 @@
+id: dreadnought
+name: "Dreadnought"
+alternate_names:
+  - Dreadnought: Surface Combat in the Battleship Era, 1906-45
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Maritime
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Michael Young
+  - Irad B. Hardy
+publisher:
+  - Simulations Publications Inc.
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Dreadnought, subtitled "Surface Combat in the Battleship Era, 1906-45," is a 1975 naval wargame from Simulations Publications, Inc. (SPI) that simulates battleship combat across nearly four decades of naval history. Counters are provided for every battleship that sailed from 1906 to 1945, and each game turn represents 15 minutes of battle. Mechanics include pre-radar ship-to-ship combat with elements of rangefinding, torpedoes, gunnery, and damage control, recreating the brutal tactical calculus of battleship engagements from Jutland through World War II.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: dunkirk-the-battle-of-france
+name: "Dunkirk: The Battle of France"
+alternate_names: []
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Gary Gygax
+publisher:
+  - Guidon Games
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 480
+min_age: 14
+
+description: |
+  Dunkirk: The Battle of France is a 1971 hex-and-counter wargame published by Guidon Games and designed by Gary Gygax, simulating Operation Dynamo — the desperate Allied evacuation from the beaches of Dunkirk during the fall of France in World War II. The game is a two-player simulation covering the strategic and operational situation of the German breakthrough and the Allied attempt to extract their forces. As an early Gygax design predating Dungeons & Dragons, it represents a significant artifact of the founder of modern tabletop roleplaying's wargame heritage.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: hellapagos
+name: "Hellapagos"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Negotiation
+  - Voting
+  - Traitor
+  - Social Deduction
+  - Party
+  - Survival
+
+evokes:
+  - Tension
+  - Persuasion
+  - Dread
+  - Rivalry
+  - Connection
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+true_counts: [6, 7, 8]
+
+designer:
+  - Laurence Gamelin
+  - Philippe Gamelin
+publisher:
+  - Gigamic
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Hellapagos is a semi-cooperative survival game for 3-12 players from Gigamic, where castaways on a desert island must cooperate to gather resources and build a raft before a hurricane destroys them — but the raft only holds so many. Players initially work together to collect wood, water, and food, but as supplies dwindle they must vote on which survivors to leave behind, transforming cooperation into ruthless social negotiation. The escalating tension between group survival and individual self-preservation, combined with the accessible rules and large player count, makes it a compelling party game experience.
+
+upgrades: []

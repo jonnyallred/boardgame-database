@@ -1,0 +1,53 @@
+id: four-battles-in-north-africa
+name: "Four Battles in North Africa"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Powerful
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - various
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Four Battles in North Africa is a 1976 SPI "quadrigame" — a box containing four separate wargames sharing a unified ruleset — simulating key engagements from the World War II North African campaign. Building on SPI's successful Blue and Gray quad format, each of the four games also includes multiple scenarios, offering considerable replay variety for the price. The package debuted at #2 on SPI's bestseller list at release. Graphic design was by Redmond A. Simonsen. Individual games from the set were also sold separately as folio games.
+
+upgrades: []

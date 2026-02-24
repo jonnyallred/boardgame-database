@@ -1,0 +1,52 @@
+id: dream-catcher
+name: "Dream Catcher"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Family
+
+evokes:
+  - Wonder
+  - Connection
+  - Lucky
+  - Discovery
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Laurent Escoffier
+  - David Franck
+publisher:
+  - Space Cow
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Dream Catcher is a 2020 children's board game published by Space Cow (an Asmodee imprint) for ages 4 and up, designed by Laurent Escoffier and David Franck. Players choose cuddly toy cards to fully cover a nightmare's shape, with smaller cuddly toys earning more Dream tokens to fill their cloud. The first player to fill their cloud wins. A cooperative mode for ages 3 and up is included in the box, making it accessible to very young children. The game won the Golden Ace 2020 in the Children's Game category and helps develop observation skills, spatial recognition, and shape assessment.
+
+upgrades: []

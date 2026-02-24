@@ -1,0 +1,52 @@
+id: dungeon-twister
+name: "Dungeon Twister"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Action Points
+  - Fantasy
+  - Abstract
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Clever
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Christophe Boelinger
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Dungeon Twister is a 2004 two-player strategy game by Christophe Boelinger and Asmodee, winner of the 2005 International Gamers Award for General Strategy: 2-Player. Each player commands a team of eight adventurers with different special powers, trapped in a dungeon of eight rooms that can be rotated and repositioned during play. Points are scored for successfully escaping characters off the board and for eliminating opponents' characters. The ability to twist the dungeon's rooms creates a constantly shifting tactical landscape demanding deep long-range planning. The game spawned numerous expansions adding new character types and room configurations.
+
+upgrades: []

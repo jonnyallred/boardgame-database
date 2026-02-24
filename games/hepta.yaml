@@ -1,0 +1,54 @@
+id: hepta
+name: "Hepta"
+alternate_names:
+  - "Magic 7"
+  - "Cover-up"
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Puzzle Solving
+  - Abstract
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Wonder
+  - Masterful
+
+possible_counts: [1, 2]
+true_counts: [1, 2]
+
+designer:
+  - Alex Randolph
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Hepta is a tile-placement puzzle and strategy game designed by Alex Randolph, published by Ravensburger in 1974 as part of their Traveller series. Players place 14 tiles on the board, aiming to cover all but one of the 7 colors — described as "a pleasing combination of puzzle and strategic game." The game was later released as Magic 7 by Ideal and Cover-up in 1982, demonstrating the design's enduring appeal. Alex Randolph's elegant spatial challenge distills competitive tile-laying into a focused, replayable brain exercise.
+
+upgrades: []

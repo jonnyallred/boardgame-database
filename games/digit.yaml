@@ -1,0 +1,49 @@
+id: digit
+name: "Digit"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Mystery
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Digit is a number-based deduction game with limited documentation available in English-language public sources. The game name suggests numerical or digital puzzle-solving mechanics. Multiple games share similar titles (such as "Digit Code" by Playte), and specific attribution details for this particular entry are not firmly established. This entry should be treated as a minimal record pending further research to disambiguate.
+
+upgrades: []

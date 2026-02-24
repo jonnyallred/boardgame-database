@@ -1,0 +1,53 @@
+id: dragonlord
+name: "Dragonlord"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Fantasy
+  - Wargame
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Lucky
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Bradley W. Schenck
+publisher:
+  - Wee Warriors
+artist:
+  - Bradley W. Schenck
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Dragonlord is a 1976 wargame from Wee Warriors simulating aerial combat between flying dragons, designed and illustrated by Bradley W. Schenck under the pseudonym "Morno." The map uses an unusual 2.5D perspective with a square grid rather than hexes, depicting terrain that the dragon lords fly over as they fight. Each dragon can attack with claw or fire, and combat is resolved with percentile dice compared against the defending dragon's previous aerial maneuver. The game earned praise for its striking artwork depicting the swirling chaos of dragon combat, though reviewers noted the complex combat resolution and the nonstandard grid as points of friction.
+
+upgrades: []

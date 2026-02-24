@@ -1,0 +1,50 @@
+id: dont-quote-me
+name: "Don't Quote Me"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Word Play
+
+evokes:
+  - Clever
+  - Rivalry
+  - Lucky
+  - Humor
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Wiggles 3D
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Don't Quote Me is a trivia board game in which players race pawns around a pentagon-shaped board by correctly identifying the speakers of famous quotations. Players score differently based on how much help they take: three spaces for guessing unassisted, two for using one biographical clue, or one for selecting from three given names. The game includes 150 pentagon cards with 750 quotes drawn from historical figures and contemporary celebrities, as well as 120 themed question cards. Winner of GAMES Magazine's GAMES 100 award in 2004, it has appeared in multiple themed editions including sports and TV versions.
+
+upgrades: []

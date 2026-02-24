@@ -1,0 +1,52 @@
+id: hands-down
+name: "Hands Down"
+alternate_names: []
+year: 1964
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Set Collection
+  - Family
+  - No Math
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [3, 4]
+true_counts: [4]
+
+designer:
+  - Marvin Glass
+publisher:
+  - Ideal Toy Company
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 5
+
+description: |
+  Hands Down is a fast-paced card game combining set collection with a physical reaction element, where the goal is to make the most pairs and score the most points. When a player completes a matching pair, all players must slap their color-coded hand paddle on the central unit as quickly as possible — the last to slap loses a card, and players can feint to trick opponents into false slaps. Created by Marvin Glass and Harvey "Hank" Kramer for Ideal Toy Company in 1964, the game has been published by multiple companies including Hasbro, Milton Bradley, and Pressman, remaining a beloved family classic across generations.
+
+upgrades: []

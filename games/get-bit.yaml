@@ -1,0 +1,54 @@
+id: get-bit
+name: "Get Bit!"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Simultaneous Action
+  - Press Your Luck
+  - Family
+  - Filler
+  - Greater Than Games
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Connection
+
+possible_counts: [4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer:
+  - Dave Chalker
+publisher:
+  - Mayday Games
+  - Greater Than Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Get Bit! is a frantic simultaneous-action card game for 4-7 players designed by Dave Chalker. Robot swimmers race to stay ahead of a shark by simultaneously playing numbered cards — the highest unique card moves to the front of the line, while players who tie cards don't move. The last swimmer in line at the end of each round is bitten, losing a limb; lose four limbs and you're out. The last swimmer still intact wins. Quick, tense, and hilarious, Get Bit! is a beloved gateway filler that delivers outsized fun per minute of play.
+
+upgrades: []

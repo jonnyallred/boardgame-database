@@ -1,0 +1,53 @@
+id: fighting-formations-grossdeutschland
+name: "Fighting Formations: Grossdeutschland Motorized Infantry Division"
+alternate_names:
+  - "Fighting Formations: Grossdeutschland Infantry Division"
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Chad Jensen
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 480
+min_age: 14
+
+description: |
+  Fighting Formations: Grossdeutschland Motorized Infantry Division is a WWII tactical wargame designed by Chad Jensen and published by GMT Games in 2011, covering combined-arms combat at the platoon and squad level on the Eastern Front. Each hex represents 75 meters and each turn about 5 minutes of real time, with units representing squads, gun crews, individual vehicles, and platoons. The game was widely acclaimed for its innovative approach to squad-level tactics and spawned a series of expansions covering battles at Kharkov and Kursk. It is considered one of the strongest entries in the modern wargame revival of squad-level WWII gaming.
+
+upgrades: []

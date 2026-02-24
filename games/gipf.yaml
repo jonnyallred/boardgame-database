@@ -1,0 +1,54 @@
+id: gipf
+name: "GIPF"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: "gipf-project"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Cult Classic
+  - Hex Map
+  - Pattern Building
+  - Area Control
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kris Burm
+publisher:
+  - Rio Grande Games
+  - Don & Co.
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  GIPF is the foundational game of the GIPF Project, a series of nine abstract strategy games by designer Kris Burm, Spiel des Jahres recommended in 1998. Two players take turns pushing pieces into a hexagonal board, attempting to form a line of four of their own pieces; when a row of four is achieved, those pieces and any opponent pieces extending the row are captured. Special "potential" pieces from other games in the GIPF Project can be introduced for added depth. With its elegant push mechanic and deep positional play, GIPF is considered one of the finest modern abstract strategy games.
+
+upgrades: []

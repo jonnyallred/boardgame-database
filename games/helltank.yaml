@@ -1,0 +1,52 @@
+id: helltank
+name: "Helltank"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: helltank
+edition: "original"
+base_game: null
+expansions:
+  - helltank-destroyer
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+  - War
+
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Metagaming Concepts
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Helltank is a science fiction microgame published by Metagaming Concepts in 1981 featuring combat between futuristic supertanks and other advanced weapons systems, based on the Ogre game concept. Published as part of Metagaming's MicroGame line and packaged in a ziplock bag, it presents fast-playing sci-fi armor combat at a small price point and physical footprint. A sequel, Helltank Destroyer, followed in 1982 as the 22nd and final game in the MicroGame series.
+
+upgrades: []

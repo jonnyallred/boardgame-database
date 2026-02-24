@@ -1,0 +1,53 @@
+id: greyhawk-wars
+name: "Greyhawk Wars"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Hex Map
+  - Fantasy
+  - Historical
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Agency
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - David Cook
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Greyhawk Wars is a strategic fantasy wargame designed by David Cook and published by TSR in 1991 as part of the Advanced Dungeons & Dragons product line. Set on the fictional world of Oerth, players command the armies of rival nations during the cataclysmic Greyhawk Wars, using cardboard chits, two detailed fold-out color maps, and a deck of event and mercenary cards. Scenarios support 2–6 players fighting to control territory through massed battles. Dragon magazine praised its sensible, fluid rules, and it remains a prized artifact of the World of Greyhawk campaign setting.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: dungeons-and-dragons-computer-labyrinth-game
+name: "Dungeons & Dragons Computer Labyrinth Game"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Dungeon Crawler
+  - Deduction
+
+evokes:
+  - Tension
+  - Discovery
+  - Lucky
+  - Mystery
+  - Rivalry
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Mattel
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  The Dungeons & Dragons Computer Labyrinth Game is a 1980 electronic board game published by Mattel under license from TSR. Players move warrior figurines across a plastic castle grid, guided by audio cues from the game's electronic brain (a TMS1100 microprocessor) that reveal what lies in each square. One or two players search for treasure while a waking dragon hunts them down using a simple pathfinding algorithm. The game can be played at basic or advanced difficulty. Though simple, it was a notable early example of electronics enhancing a D&D-branded experience and earned TSR an exclusive Mattel electronics licensing deal.
+
+upgrades: []

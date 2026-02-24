@@ -1,0 +1,50 @@
+id: eson-xorgol
+name: "Eson xorgol"
+alternate_names:
+  - "Eson Khorgol"
+year: 1963
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse (traditional game)
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Traditional
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 6
+
+description: |
+  Eson xorgol (Mongolian/Kazakh for "nine balls") is a traditional mancala game played by the Kazakh minority in the Bayan-Ölgii province of northwestern Mongolia. The game is played on a board with two rows of five holes, each starting with nine dung balls (giving the game its name), making it one of the largest mancala variants in terms of starting pieces. As a folk game first formally described in 1963, it has no credited designer or commercial publisher. Players alternate sowing balls around the board, capturing opponents' pieces according to traditional mancala rules, in a deeply strategic two-player abstract contest.
+
+upgrades: []

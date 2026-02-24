@@ -1,0 +1,55 @@
+id: friedrich
+name: "Friedrich"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Asymmetric
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Powerful
+  - Rivalry
+  - Unique
+
+possible_counts: [3, 4]
+true_counts: [4]
+
+designer:
+  - Richard Sivél
+publisher:
+  - Histogame
+  - Rio Grande Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Friedrich is a card-driven wargame designed by Richard Sivél, first published in 2004, simulating the Seven Years' War in Europe. One player controls Prussia under Frederick the Great, fighting outnumbered against coalitions of Russia, Austria, and France played by the other 2-3 players. Generals maneuver across a map of Europe, and battles are resolved using a card-based system tied to suit values, making hand management and timing critical. Prussia must survive long enough for its enemies to be weakened by historical events while the coalition players coordinate to capture key Prussian cities. Widely praised for its depth, historical flavor, and tense asymmetry, Friedrich won Games magazine's Best Historical Simulation award in 2006.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: flintloque
+name: "Flintloque"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Asymmetric
+  - Variable Player Powers
+  - Wargame
+  - Fantasy
+  - Historical
+  - War
+
+evokes:
+  - Humor
+  - Unique
+  - Powerful
+  - Rivalry
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Mac Coxhead
+  - Steve Blease
+publisher:
+  - Alternative Armies
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 14
+
+description: |
+  Flintloque is a Napoleonic fantasy skirmish miniatures wargame set in the World of Valon, where fantasy races battle with muskets, pistols, and cannons in a satirical reimagining of the Napoleonic Wars. "British" Orcs face off against "French" Elves, with Dwarves, Ogres, Zombies, and other races representing the major European powers. First published in 1995 by Alternative Armies, the game is scenario-based and character-driven, emphasizing playability and humor over historical minutiae. The 3rd Edition expanded the rules significantly and added four dedicated supplement books, making it one of the most beloved quirky miniatures games in the hobby.
+
+upgrades: []

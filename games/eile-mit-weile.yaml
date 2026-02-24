@@ -1,0 +1,51 @@
+id: eile-mit-weile
+name: "Eile mit Weile"
+alternate_names: []
+year: 1927
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Humor
+  - Tension
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Eile mit Weile is a classic German racing board game first published in the late 1920s and long produced by Ravensburger, among other publishers. Players move pieces representing a pedestrian, coachman, bicyclist, and motorist around separate tracks on the gameboard, with movement determined by dice rolls. Derived from the ancient Indian game Pachisi (similar to Parcheesi), each mode of transport has its own track, creating a thematic racing experience. The game is a perennial family favorite in German-speaking countries, valued for its simple rules and light competitive fun.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: grav-ball
+name: "Grav-Ball"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Dice Rolling
+  - Action Points
+  - Racing
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Agency
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Fred Bentley
+  - L. Ross Babcock III
+publisher:
+  - FASA
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Grav-Ball is a science fiction sports simulation game designed by Fred Bentley and L. Ross Babcock III and published by FASA in 1982. Set in an anti-gravity arena of the future, armored players compete to move a steel ball into the opposing goal while battering each other with regulated violence. The game uses an action point allowance system and dice rolling to resolve movement and combat, creating a tactical sports simulation in a futuristic setting. Its combination of combat and sports mechanics within a sci-fi framework anticipates later genre-blending sports wargames.
+
+upgrades: []

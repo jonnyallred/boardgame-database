@@ -1,0 +1,52 @@
+id: for-the-win
+name: "For The Win"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Action Points
+  - Abstract
+  - Pattern Building
+  - Take That
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - unknown
+publisher:
+  - For The Win Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  For The Win is an abstract strategy game in which each player controls ten tiles representing five character types — Monkeys, Zombies, Pirates, Aliens, and Ninjas — and races to connect five or more of their tiles (sides and corners count) with at least one of each character type forming the chain. Each round, players budget five actions that can be spent on placing, moving, shoving, using, or refreshing tiles, and the player who runs out of actions first gives their opponent the remaining actions all at once, creating opportunities for game-winning combos. Its light rules and quick playtime disguise meaningful tactical decisions about action management and positioning.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: game-of-the-amazons
+name: "Game of the Amazons"
+alternate_names:
+  - "El Juego de las Amazonas"
+  - "Amazons"
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Masterful
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Walter Zamkauskas
+publisher:
+  - Self-published
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  Game of the Amazons is a two-player abstract strategy game invented in 1988 by Argentine designer Walter Zamkauskas. Played on a 10x10 grid, each player commands four amazons that move like chess queens, but after each move the amazon fires a flaming arrow that permanently blocks a square. The game ends when one player can no longer move, making territorial control and movement restriction the central strategic concerns. Widely regarded as one of the great modern abstract games, it combines deep positional strategy with the elegant simplicity of a single rule set and has attracted serious computer science research.
+
+upgrades: []

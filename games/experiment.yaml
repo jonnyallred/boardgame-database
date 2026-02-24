@@ -1,0 +1,51 @@
+id: experiment
+name: "Experiment"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Family
+  - Party
+  - Filler
+
+evokes:
+  - Clever
+  - Lucky
+  - Tension
+  - Discovery
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Experiment is a 2006 dedicated deck card game that draws players into a light science-themed competitive experience. Players use a hand of themed cards to score combinations or advance their position, with each round creating a new configuration of challenges. The game was designed as an accessible entry point for families and casual gamers, featuring easy-to-learn rules that nonetheless create meaningful decisions each turn. Limited information is available about its designer and publisher, as the game is relatively obscure outside of German-language markets.
+
+upgrades: []

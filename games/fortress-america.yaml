@@ -1,0 +1,55 @@
+id: fortress-america
+name: "Fortress America"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Asymmetric
+  - 1 vs Many
+  - Wargame
+  - War
+  - Sci-Fi
+
+evokes:
+  - Powerful
+  - Tension
+  - Rivalry
+  - Dread
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Michael Gray
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Fortress America is a strategic wargame designed by Michael Gray and published by Milton Bradley in 1986 as part of the Gamemaster Series. Set in a near-future scenario, three invading world powers attack the United States from the east, west, and south simultaneously — one player commands the defending Americans while up to three others control the invading armies. The asymmetric design puts the US player in a desperate defensive war, using an advanced satellite laser defense system and guerrilla fighters, while the invaders push inland from all directions. The game won the Charles S. Roberts Award for Best 20th Century Game in 1987 and was later republished by Fantasy Flight Games in 2012.
+
+upgrades: []

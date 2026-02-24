@@ -1,0 +1,52 @@
+id: genial-spezial
+name: "Genial Spezial"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: ingenious
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Network Building
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Kosmos
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Genial Spezial is an abstract connection game designed by Reiner Knizia and part of the Ingenious family of games. Players place tiles to form tower connections on the board, competing to score across multiple colors while attempting to maximize their weakest color — since the final score is determined by the color in which you have the fewest points. The game adds wild-point bonuses for covering special spaces and linking tall towers, rewarding both offensive planning and defensive blocking. It is considered a tragically underrated entry in Knizia's abstract catalog and is noted as the design ancestor of the 2024 game Cascadero.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: grosz-jakosa
+name: "Grosz Jakosa"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dice Rolling
+  - Racing
+  - Press Your Luck
+  - Animals
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher:
+  - Uzhorodnhya Rikrosi
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Grosz Jakosa is a board game published in 1989 that simulates greyhound racing across a series of six races at a race meeting. The game features a clever system for simulating dog racing, earning a rating of 9 out of 10 from Games International magazine reviewer Stan Bowles, who praised the accuracy of its racing simulation. Players manage their bets and experience the highs and lows of a day at the greyhound track across multiple heats. Designer information for this title is not widely documented.
+
+upgrades: []

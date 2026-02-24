@@ -1,0 +1,54 @@
+id: fossil
+name: "Fossil"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Action Points
+  - Abstract
+  - Euro
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Complete
+  - Rivalry
+  - Tension
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Goldsieber Spiele
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Fossil is a set collection board game designed by Reiner Knizia and published by Goldsieber Spiele in 1997 (with an English edition from Rio Grande Games). Players act as competing paleontologists racing to assemble the most complete sets of fossil specimens. The game board is laid out with randomly placed fossil pieces, and players take turns moving a shared stone to collect fossils — but each move costs prestige points, forcing careful evaluation of whether each fossil piece is worth the trip. The game won Games Magazine's Game of the Year award in 1999, praised for its elegant tension between greed and efficiency.
+
+upgrades: []

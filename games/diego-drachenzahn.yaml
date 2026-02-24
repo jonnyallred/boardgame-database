@@ -1,0 +1,52 @@
+id: diego-drachenzahn
+name: "Diego Drachenzahn"
+alternate_names:
+  - "Diego Dragon Dart"
+  - "Dragon Diego"
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Connection
+  - Wonder
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Manfred Ludwig
+publisher: []
+artist:
+  - Peter Braun
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Diego Drachenzahn is a children's dexterity game designed by Manfred Ludwig, illustrated by Peter Braun, and published by HABA in 2009. Players take turns acting as Dragon Diego, rolling fireballs (balls) toward targets while the other players attempt to guess which target Diego is aiming for. The game won the Kinderspiel des Jahres (Children's Game of the Year) award in 2010, recognizing its accessible mechanics that promote fine motor skills and hand-eye coordination for children aged five and up.
+
+upgrades: []

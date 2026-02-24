@@ -1,0 +1,54 @@
+id: dont-give-up-the-ship
+name: "Don't Give Up the Ship!"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Maritime
+  - Historical
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dave Arneson
+  - Gary Gygax
+  - Mike Carr
+publisher:
+  - Guidon Games
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Don't Give Up the Ship! is a set of miniatures rules for naval wargaming in the Napoleonic era, first published by Guidon Games in 1972 and later republished by TSR in 1975. Notably, it represents the first collaboration between Dave Arneson and Gary Gygax—the co-creators of Dungeons & Dragons—along with co-designer Mike Carr. The rules cover ship movement, cannon fire, boarding actions, and other Age of Sail mechanics using miniature models, and can be adapted for any pike-and-musket-era naval battle beyond the Napoleonic period.
+
+upgrades: []

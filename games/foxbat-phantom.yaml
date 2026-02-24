@@ -1,0 +1,56 @@
+id: foxbat-phantom
+name: "Foxbat & Phantom"
+alternate_names:
+  - "Foxbat & Phantom: Tactical Aerial Combat in the 1970s"
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Asymmetric
+  - Wargame
+  - Historical
+  - War
+  - Aviation
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Dunnigan
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Foxbat & Phantom: Tactical Aerial Combat in the 1970s is a two-player wargame designed by Jim Dunnigan and published by SPI in 1973. Each player commands a flight of three jet aircraft chosen from a list of 14 different aircraft types, simulating dogfights between the Soviet MiG-25 Foxbat and the American F-4 Phantom during the Cold War era. The streamlined rules prioritize accessibility while still conveying authentic air combat tactics, making it one of SPI's more accessible tactical wargames. It placed 80th out of 202 games in a 1977 SPI poll of popular wargames in North America.
+
+upgrades: []

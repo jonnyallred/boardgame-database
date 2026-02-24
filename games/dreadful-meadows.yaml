@@ -1,0 +1,54 @@
+id: dreadful-meadows
+name: "Dreadful Meadows"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Variable Player Powers
+  - Set Collection
+  - Euro
+  - Family
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Lukus Adam
+publisher:
+  - Arkus Games
+artist: []
+playtime_minutes: 75
+min_playtime: 45
+max_playtime: 120
+min_age: 10
+
+description: |
+  Dreadful Meadows is a 2024 worker placement and tile placement game from Arkus Games in which players take on the roles of confectioners growing sinister candy crops in a whimsically dark meadow setting. Each turn, players sow and tend patches of magical candy plants, recruit Sugar Sprites with special abilities, and deploy Harvesters to maximize their yield. Victory points come from strategic patch placement, completing Concoction Cards, and leftover candy at game end. The game's charming but unsettling candy horror aesthetic sets it apart in the worker placement genre, and it supports solo play as well as up to four players.
+
+upgrades: []

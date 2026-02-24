@@ -1,0 +1,58 @@
+id: finspan
+name: "Finspan"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: wingspan
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Tableau Building
+  - Set Collection
+  - Hand Management
+  - Euro
+  - Family
+  - Animals
+  - Maritime
+  - Stonemaier Games
+
+evokes:
+  - Progress
+  - Wonder
+  - Clever
+  - Discovery
+  - Complete
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - David Gordon
+  - Michael O'Connell
+publisher:
+  - Stonemaier Games
+artist: []
+playtime_minutes: 60
+min_playtime: 40
+max_playtime: 90
+min_age: 10
+
+description: |
+  Finspan is a standalone engine-building game in Stonemaier Games' World of Wingspan family, themed around ocean fish and aquatic life. Designed by David Gordon and Michael O'Connell (with creative input from Wingspan designer Elizabeth Hargrave), it uses familiar Wingspan mechanisms — card drafting, bird-like fish powers, and tableau building — adapted for a lighter, more accessible experience. Players collect fish cards representing real aquatic species, diving between ocean zones to trigger cascading card powers and score objectives. Released in early 2025 as the third game in the Wingspan family alongside Wyrmspan, it is a standalone entry that can also be combined with Wingspan.
+
+upgrades: []

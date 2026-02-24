@@ -1,0 +1,51 @@
+id: coda
+name: "Coda"
+alternate_names:
+  - "The DaVinci Code Game"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Mystery
+  - Tension
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Nextoy
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Coda is a deduction game in which each player sets up a row of numbered plastic panels (0-11 plus a dash panel) in a secret sequence. On each turn players guess an opponent's hidden number — a correct guess knocks that panel down, revealing the digit, while an incorrect guess forces the guesser to expose one of their own panels. A new number enters play each turn, narrowing the possibilities. The first player to expose all of an opponent's panels wins. The game was also sold under the title "The DaVinci Code" game and shares its light-deduction hook with a wide audience.
+
+upgrades: []

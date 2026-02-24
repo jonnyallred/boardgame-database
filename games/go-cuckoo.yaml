@@ -1,0 +1,54 @@
+id: go-cuckoo
+name: "Go Cuckoo!"
+alternate_names:
+  - "Go Cuckoo"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dexterity
+  - Party
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Josep M. Allué
+  - Viktor Bautista i Roca
+publisher:
+  - HABA
+artist:
+  - Gabriela Silveira
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Go Cuckoo! is a dexterity nest-building game designed by Josep M. Allué and Viktor Bautista i Roca, published by HABA in 2016. Players draw sticks one at a time and weave them into a precarious nest atop a wooden base, following color-matching rules for which stick to draw next. Once a player places all their eggs in the nest, they attempt on their next turn to perch the oversized wooden cuckoo on the structure—the first to do so successfully wins. Deceptively simple for children but surprisingly entertaining for adults, its charm lies in the wobbling tension of each carefully placed stick.
+
+upgrades: []

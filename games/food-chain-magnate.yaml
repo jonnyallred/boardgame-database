@@ -1,0 +1,60 @@
+id: food-chain-magnate
+name: "Food Chain Magnate"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - food-chain-magnate-the-ketchup-mechanism
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 4  # Fierce
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Hand Management
+  - Economic
+  - Variable Setup
+  - Modular Board
+  - Cult Classic
+  - Euro
+  - Food Theme
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Powerful
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3]
+
+designer:
+  - Joris Wiersinga
+  - Jeroen Doumen
+publisher:
+  - Splotter Spellen
+artist:
+  - Joris Wiersinga
+  - Jeroen Doumen
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Food Chain Magnate is a punishing and deeply strategic economic game from Dutch publisher Splotter Spellen in which 2-5 players compete to build the most profitable fast food restaurant chain. Players hire staff using a card-driven human resource system, training employees up skill trees to unlock marketing, sales, and management capabilities, all while vying for position on a variable city-tile map. Advertising campaigns determine what customers demand, and the first company to fulfill those demands earns the most revenue — but smart competitors can muscle in and steal customers. Famous for its brutal cutthroat competition, permanent milestone cards, and nearly unlimited strategic depth, Food Chain Magnate is a modern cult classic of heavy euro design.
+
+upgrades: []

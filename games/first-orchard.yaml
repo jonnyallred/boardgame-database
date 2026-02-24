@@ -1,0 +1,52 @@
+id: first-orchard
+name: "First Orchard"
+alternate_names:
+  - "My Very First Games: First Orchard"
+  - "Mein erstes Obstgarten-Spiel"
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Connection
+  - Lucky
+  - Tension
+  - Progress
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - HABA
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 2
+
+description: |
+  First Orchard is HABA's iconic cooperative toddler game from their "My Very First Games" series, designed for children aged 2 and up. Players work together as a team to harvest all the fruit from the trees before the raven reaches the orchard: on each turn, a player rolls the color die and picks up the matching wooden fruit, unless the raven symbol is rolled — in which case the raven moves one step closer. If all fruit is picked before the raven arrives, everyone wins. Made in Germany with oversized wooden pieces sized for small hands, First Orchard has been introducing millions of children to cooperative play for decades.
+
+upgrades: []

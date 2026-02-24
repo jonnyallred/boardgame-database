@@ -1,0 +1,52 @@
+id: henne-berta
+name: "Henne Berta"
+alternate_names:
+  - "Hen Berta"
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - No Math
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Wonder
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - HABA
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Henne Berta is a HABA children's board game in which players help a wooden hen gather grain and in return collect eggs into little baskets. The game features a wooden board and large wooden pieces typical of HABA's preschool line, with the first player to collect three eggs winning the game. The large wooden components, bright colors, and simple rules make it well-suited for young children taking their first steps with structured board gaming.
+
+upgrades: []

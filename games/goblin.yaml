@@ -1,0 +1,50 @@
+id: goblin
+name: "Goblin"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Area Control
+  - Dice Rolling
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Agency
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Goblin is a fantasy battle game in which the Goblin King's raiders face off against the Baron's defending forces in fantastic medieval fantasy combat. Players command forces across a game board, managing unit movement and tactical skirmishes as goblins attempt to overwhelm the human defenders. The game's theme of goblin-versus-human conflict captures the classic fantasy warfare dynamic, with dice-driven combat and area control objectives. Information on this game is limited; details about the designer and publisher remain unclear from available sources.
+
+upgrades: []

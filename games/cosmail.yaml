@@ -1,0 +1,49 @@
+id: cosmail
+name: "Cosmail"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Trading
+  - Route Building
+  - Economic
+
+evokes:
+  - Progress
+  - Agency
+  - Rivalry
+  - Discovery
+  - Tension
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Cosmail is a trading and logistics board game playable by 3 to 6 players plus a game master, with each player operating two planes and one ship. Movement is determined by spending fuel resources — gas for planes or coal for ships — along travel routes marked with costs, with players able to travel between neighboring locations or bridge non-adjacent ones within resource limits. Goods are acquired by filing purchase options at harbors and then physically collecting merchandise with ships before rival players can intercept. The competitive trading system and dual-mode transport create a rich economic puzzle.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: dungeons-and-dragons-the-legend-of-drizzt-board-game
+name: "Dungeons & Dragons: The Legend of Drizzt Board Game"
+alternate_names:
+  - Legend of Drizzt
+year: 2011
+
+# Relationships
+game_family: dd-adventure-system
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - castle-ravenloft
+  - wrath-of-ashardalon
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dungeon Crawler
+  - Tile Placement
+  - Dice Rolling
+  - Fantasy
+  - Variable Player Powers
+
+evokes:
+  - Discovery
+  - Progress
+  - Powerful
+  - Connection
+  - Tension
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Wizards of the Coast
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Dungeons & Dragons: The Legend of Drizzt Board Game is a 2011 cooperative adventure game from Wizards of the Coast and the third entry in the D&D Adventure System series. Players take the roles of Drizzt Do'Urden and his iconic companions from R.A. Salvatore's bestselling Forgotten Realms novels, exploring a modular dungeon of interlocking tiles, battling monsters, and completing scenario objectives. The game includes 40 detailed plastic miniatures, 200 encounter and treasure cards, and a rulebook and scenario book with multiple adventures. Its contents are fully compatible with Castle Ravenloft and Wrath of Ashardalon, allowing fans to mix heroes and monsters across all three games.
+
+upgrades: []

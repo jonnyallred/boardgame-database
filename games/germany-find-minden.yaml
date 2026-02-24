@@ -1,0 +1,51 @@
+id: germany-find-minden
+name: "Germany: Find Minden"
+alternate_names:
+  - "Deutschland: Finden Sie Minden?"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Party
+
+evokes:
+  - Clever
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Günter Burkhardt
+publisher:
+  - Kosmos
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Germany: Find Minden (Deutschland: Finden Sie Minden?) is a topography trivia game published by Kosmos in which players draw cards describing German towns, landmarks, and popular sights and must then pinpoint them on a map of Germany as accurately as possible. The player who correctly locates cities and sites closest to their actual positions earns the most points. It is an educational family game suitable for geography enthusiasts and those looking to test their knowledge of German cities and regions, available in both standard and pocket editions.
+
+upgrades: []

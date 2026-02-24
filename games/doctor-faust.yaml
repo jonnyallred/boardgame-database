@@ -1,0 +1,51 @@
+id: doctor-faust
+name: "Doctor Faust"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Action Points
+  - Set Collection
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Reinhold Wittig
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Doctor Faust is a two-player abstract strategy game by Reinhold Wittig, published by Schmidt Spiele in 1990, in which two rival devils compete for control of Dr. Faust's soul. Each player moves their devil stone across a shared board, attempting to land on the same space as a crystal pyramid (the Soul) and then guide it onto their other devil stone to earn soul cards. Players can also place devil cards to block opponents, but landing next to an opponent's devil card ends the turn early. The winner is determined by the value of soul cards collected plus devil cards played, and the game won a SdJ Special Award for Beautiful Game.
+
+upgrades: []

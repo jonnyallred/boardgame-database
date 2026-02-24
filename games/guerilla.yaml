@@ -1,0 +1,55 @@
+id: guerilla
+name: "Guerilla"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Bluffing
+  - Traitor
+  - Hand Management
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Mystery
+  - Rivalry
+  - Powerful
+  - Persuasion
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Robert Ryer
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Guerilla is a multi-player card game simulation of conflict between rebel and government forces in a fictional Latin American country. Players simultaneously command both government and rebel forces while secretly backing one side, earning victory by controlling installations like ports and airfields, manipulating world opinion, and eliminating opposing forces. The clever dual-role mechanic creates fog of war: each player must appear to aid both sides while covertly favoring their secret allegiance. UN intervention, propaganda battles, and secret police add political and strategic layers that distinguish it from conventional wargames.
+
+upgrades: []

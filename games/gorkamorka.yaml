@@ -1,0 +1,54 @@
+id: gorkamorka
+name: "Gorkamorka"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Cult Classic
+  - Campaign Mode
+  - Ameritrash
+  - Sci-Fi
+  - Dice Rolling
+  - Variable Player Powers
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Discovery
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Gorkamorka is a tabletop skirmish wargame set in the Warhammer 40,000 universe, released by Games Workshop in 1997. Set on the desert world of Angelis, players assemble small mobs of Orks—6 to 15 fighters—equipped with customizable vehicles such as trukks and bikes, battling rival gangs for scrap and dominance in the settlement of Mektown. A rich campaign system tracks experience, injuries, upgrades, and earnings, making each mob feel unique over a season of play. The game became a cult classic for its combination of vehicular mayhem, narrative progression, and vivid Ork setting.
+
+upgrades: []

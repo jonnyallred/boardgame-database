@@ -1,0 +1,48 @@
+id: cover-up
+name: "Cover Up"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Cover Up is a board game with limited documentation available in public English-language sources. The title suggests a concealment or overlapping mechanic common in abstract games of the 20th century. Specific details regarding the publisher, designer, year of publication, and gameplay rules are not firmly established for this entry. Further research would be needed to produce a complete record.
+
+upgrades: []

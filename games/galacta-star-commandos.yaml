@@ -1,0 +1,51 @@
+id: galacta-star-commandos
+name: "Galacta: Star Commandos"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Area Control
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Galacta: Star Commandos is a 1980 science fiction adventure board game played with miniature figures, simulating futuristic combat during a great Rebellion against the interstellar Galactan Empire. Players command squads of space commandos in tactical missions set across the science fiction universe. Limited documentation exists about this title outside collector communities, but it is part of the Galacta game line and represents an early entry in the sci-fi miniatures board game genre.
+
+upgrades: []

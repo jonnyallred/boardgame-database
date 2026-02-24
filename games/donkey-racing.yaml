@@ -1,0 +1,49 @@
+id: donkey-racing
+name: "Donkey Racing"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Connection
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Donkey Racing is a modern reproduction of a Victorian-era family game inspired by the tradition of children riding donkeys on British beaches. Players spin a spinner and race their donkey pieces around the board, avoiding hazards and striving to be first around the track. The game requires players to obtain a "donkey boy" before they can begin moving, adding a small initial hurdle. Simple rules and cheerful donkey-themed pieces make this suitable for very young children and nostalgic family play.
+
+upgrades: []

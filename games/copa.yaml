@@ -1,0 +1,49 @@
+id: copa
+name: "Copa"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Bluffing
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Humor
+  - Lucky
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Copa is a publisher anniversary game packaged in an elegant white box containing wooden shells and beans, presenting a collection of four classic game disciplines: strategy, memory, skill, and bluff. Designed as a celebration of gaming traditions, the box functions as a portable multi-game set using minimalist components. Specific designer and publisher attribution details are limited in English-language sources. The game is notable as a curated anthology piece rather than a single standalone design.
+
+upgrades: []

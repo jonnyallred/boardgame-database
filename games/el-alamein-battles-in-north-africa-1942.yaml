@@ -1,0 +1,52 @@
+id: el-alamein-battles-in-north-africa-1942
+name: "El Alamein: Battles in North Africa, 1942"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Simulations Publications Inc.
+artist: []
+playtime_minutes: 300
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  El Alamein: Battles in North Africa, 1942 is a hex-and-counter wargame published by Simulations Publications Inc. (SPI) in 1973 that simulates the pivotal four-month North African campaign from July through October 1942. One player commands Rommel's Axis forces while the other leads Montgomery's British Eighth Army across the Egyptian desert toward the decisive Second Battle of El Alamein. The game covers the operational and tactical dimensions of desert warfare, including supply lines, armor, and the critical role of air power in the North African theater.
+
+upgrades: []

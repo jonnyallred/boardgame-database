@@ -1,0 +1,53 @@
+id: fiesta-de-los-muertos
+name: "Fiesta de los Muertos"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Cooperative
+  - Word Play
+  - Social Deduction
+  - Humor
+
+evokes:
+  - Humor
+  - Tension
+  - Connection
+  - Mystery
+  - Lucky
+
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [5, 6, 7]
+
+designer:
+  - Antonin Boccara
+publisher:
+  - OldChap Editions
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Fiesta de los Muertos is a cooperative word-transformation party game for 4-8 players themed around the Mexican Day of the Dead celebration. Players must guess the identity of deceased characters in order to honor their memory, but the clue word describing each character passes from hand to hand and changes slightly each time, creating a telephone-game effect. Players must deduce the original character from the transformed word chain — a quick, creative challenge blending imagination and deduction. The game was nominated for the 2020 Tric Trac Award and the As d'Or (Jeu de l'Année).
+
+upgrades: []

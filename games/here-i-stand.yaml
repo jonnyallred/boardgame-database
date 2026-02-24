@@ -1,0 +1,57 @@
+id: here-i-stand
+name: "Here I Stand"
+alternate_names:
+  - "Here I Stand: Wars of the Reformation, 1517-1555"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Area Control
+  - Negotiation
+  - Diplomacy
+  - Wargame
+  - Historical
+  - Asymmetric
+  - Variable Player Powers
+
+evokes:
+  - Masterful
+  - Tension
+  - Powerful
+  - Rivalry
+  - Persuasion
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [6]
+
+designer:
+  - Ed Beach
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 480
+min_playtime: 300
+max_playtime: 720
+min_age: 16
+
+description: |
+  Here I Stand is a card-driven multiplayer wargame published by GMT Games in 2006, simulating the struggle for religious and political dominance in early 16th century Europe during the Reformation (1517–1555). Up to six players command the Habsburg Empire, Ottoman Empire, England, France, the Papacy, and the Protestants — each with asymmetric objectives and mechanics reflecting their historical role, from military conquest to theological debate. The card system drives both operational actions and historical events across nine turns representing the tumultuous decades from Luther's Ninety-Five Theses to the Peace of Augsburg. Designed by Ed Beach, it won the 2006 Charles S. Roberts Award and has been consistently ranked among the finest wargames ever made.
+
+upgrades: []

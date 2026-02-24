@@ -1,0 +1,57 @@
+id: federation-and-empire
+name: "Federation and Empire"
+alternate_names:
+  - "Federation & Empire"
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Economic
+  - Area Control
+  - Hex Map
+  - Sci-Fi
+  - Space
+  - 4X
+
+evokes:
+  - Powerful
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [2, 3, 4]
+
+designer:
+  - Stephen V. Cole
+publisher:
+  - Task Force Games
+  - Amarillo Design Bureau
+artist: []
+playtime_minutes: 480
+min_playtime: 240
+max_playtime: 1440
+min_age: 14
+
+description: |
+  Federation and Empire is a strategic-level board wargame set in the Star Fleet Universe, a spinoff of the Star Trek setting. Players take command of one of several interstellar empires — including the United Federation of Planets, the Klingon Empire, and the Romulan Star Empire — managing economies, producing fleets, and fighting for galactic dominance across an 18-year General War campaign. The game emphasizes economic planning, force organization, and attrition warfare, with each hex representing 500 parsecs of space. It is an extremely deep, long-form simulation suitable only for dedicated wargamers, and spawned numerous expansion modules.
+
+upgrades: []

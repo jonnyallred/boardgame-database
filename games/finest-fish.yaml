@@ -1,0 +1,56 @@
+id: finest-fish
+name: "Finest Fish"
+alternate_names:
+  - "The Finest Fish"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Drafting
+  - Pattern Building
+  - Set Collection
+  - Family
+  - Gateway
+
+evokes:
+  - Complete
+  - Clever
+  - Wonder
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Nate Jenne
+  - Jake Jenne
+publisher:
+  - Last Night Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  The Finest Fish is a tile drafting and tile placement game for 2-4 players inspired by the competitive hobby of goldfish keeping. Players draft and place wooden scale tiles painted in six unique colors and patterns onto individual die-cut goldfish game boards, completing design objectives to score points and earn the Best in Show award. The beautiful wooden components and tactile scale-arranging puzzle make it a visually distinctive gateway game that balances accessibility with meaningful strategic decisions. It was a Barnes & Noble Game of the Month pick and received a Mensa recommendation.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: exxit
+name: "Exxit"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Area Control
+  - Hex Map
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Vincent Everaert
+publisher:
+  - Jactalea
+artist:
+  - Néstor Romeral Andrés
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Exxit is a 2006 abstract strategy game designed by Vincent Everaert and published by Jactalea, featuring area majority mechanics on a modular hexagonal grid. Players place and move pieces on a shared board, competing for control of zones through tile placement and tactical positioning, with the grid itself shifting and evolving as tiles are added. The game features mechanics including area majority/influence, grid movement, hex grid, and modular board design that create a constantly changing tactical puzzle. A later edition was produced by nestorgames, bringing the game to wider audiences.
+
+upgrades: []

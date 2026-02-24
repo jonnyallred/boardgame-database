@@ -1,0 +1,54 @@
+id: freiburg
+name: "Freiburg"
+alternate_names:
+  - "Freiburg: 3-9 August 1644 – Conquest of the Rhine Valley"
+year: 1976
+
+# Relationships
+game_family: thirty-years-war
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - various
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Freiburg (subtitled "3–9 August 1644 – Conquest of the Rhine Valley") is a board wargame published by SPI in 1976, simulating the Battle of Freiburg during the Thirty Years' War. Originally one of four games packaged together in SPI's Thirty Years War quadrigame, it was also sold as a standalone folio game. Critics generally regarded Freiburg as the weakest entry in the Thirty Years War set, describing it as a series of grinding attritional battles with limited strategic variety. The shared quadrigame rules system kept learning the game accessible for existing SPI wargamers.
+
+upgrades: []

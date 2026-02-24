@@ -1,0 +1,54 @@
+id: exit-the-game-the-polar-station
+name: "Exit: The Game – The Polar Station"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: exit-the-game
+edition: null
+base_game: exit-the-game
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light cooperative
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Deduction
+  - Party
+  - Family
+
+evokes:
+  - Mystery
+  - Clever
+  - Tension
+  - Dread
+  - Connection
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Exit: The Game – The Polar Station is a 2017 entry in the EXIT: The Game series designed by Inka and Markus Brand and published by KOSMOS. Players are stranded in an Arctic research station after an accident, with dwindling resources and a spreading danger forcing them to solve a series of puzzles to save themselves. The icy polar setting creates a sense of isolation and urgency that enhances the escape room atmosphere. Like all EXIT titles, no app is required — puzzles are solved using the series' distinctive code dial, and some components may be permanently modified as part of the challenge.
+
+upgrades: []

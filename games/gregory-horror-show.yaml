@@ -1,0 +1,49 @@
+id: gregory-horror-show
+name: "Gregory Horror Show"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Horror
+  - Anime/Manga
+  - Family
+
+evokes:
+  - Dread
+  - Mystery
+  - Humor
+  - Wonder
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Gregory Horror Show is a board game based on the Japanese CGI anime series of the same name, which was later adapted into a survival horror PlayStation 2 game by Capcom. Players navigate the strange and sinister hotel run by Gregory, collecting souls from unusual guests and avoiding the hotel's many supernatural hazards. The game comes with a board, figures, tokens, and cards, translating the anime's unique blend of dark humor and horror into tabletop form. It remains a niche collectible for fans of the anime series and early 2000s Japanese horror aesthetics.
+
+upgrades: []

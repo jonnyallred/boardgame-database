@@ -1,0 +1,53 @@
+id: fuzzy-heroes
+name: "Fuzzy Heroes"
+alternate_names:
+  - "Fuzzy Heroes: The Game of Conflict For Stuffed Animals and Toys"
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - fuzzy-sooper-heroes
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Dexterity
+  - Family
+
+evokes:
+  - Humor
+  - Unique
+  - Connection
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Christopher Clark
+publisher:
+  - Inner City Games Designs
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 6
+
+description: |
+  Fuzzy Heroes is a miniatures wargame published by Inner City Games Designs in which players pit their plush and plastic toys against each other in tabletop combat. No special components are required — players use toys they already own, with pillows and clothes serving as terrain. Each toy's stats (Energy Points, Defensive Classification, Movement, and so on) are determined by its actual physical characteristics such as size, material, and color. The game teaches strategy and basic math skills in a uniquely playful and accessible format that encourages creative use of household items.
+
+upgrades: []

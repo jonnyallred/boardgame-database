@@ -1,0 +1,47 @@
+id: fidchess
+name: "Fidchess"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 60
+min_age: 10
+
+description: |
+  Fidchess is a 2007 abstract strategy game, likely inspired by the ancient Irish game of Fidchell. Limited sourcing is available for this game; it appears to be a chess-variant or abstract two-player strategy game inspired by Celtic gaming traditions. Specific details on the designer, publisher, and full mechanics could not be fully confirmed from available sources.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: enemy-at-the-gates
+name: "Enemy at the Gates"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dean Essig
+publisher:
+  - The Gamers
+artist: []
+playtime_minutes: 600
+min_playtime: 360
+max_playtime: 1200
+min_age: 16
+
+description: |
+  Enemy at the Gates is a World War II operational-level wargame designed by Dean Essig and published by The Gamers in 1994, part of the Operational Combat Series. The game covers the Soviet Operation Uranus counteroffensive that encircled the German Sixth Army at Stalingrad, as well as Manstein's subsequent "Backhand Blow" counterattack in the Fourth Battle of Kharkov. Using the detailed OCS system, players manage supply lines, plan complex operational maneuvers, and conduct combined arms warfare at the corps and division level. The OCS system is renowned among wargame enthusiasts for its realistic portrayal of logistics and operational planning.
+
+upgrades: []

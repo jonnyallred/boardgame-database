@@ -1,0 +1,56 @@
+id: ghosts
+name: "Ghosts"
+alternate_names:
+  - "Good & Bad Ghosts"
+  - "Geister"
+  - "Fantômes"
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Deduction
+  - Bluffing
+  - Hidden Movement
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Alex Randolph
+publisher:
+  - Milton Bradley
+  - FX Schmid
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Ghosts (Geister, Good and Bad Ghosts) is a two-player abstract strategy game designed by Alex Randolph and published in 1982 by Milton Bradley. Each player has eight ghost pieces — four good (marked blue) and four evil (marked red) — but all pieces look identical from the front, hiding their alignment from the opponent. Players race to either capture all four of the opponent's good ghosts or escape one of their own good ghosts through an exit corner, but must avoid capturing opponent's evil ghosts since doing so loses the game. The deduction and bluffing created by hidden piece identities creates rich strategic tension in a remarkably simple game, which was recommended for the 1982 Spiel des Jahres.
+
+upgrades: []

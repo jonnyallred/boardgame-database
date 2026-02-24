@@ -1,0 +1,50 @@
+id: endodoi
+name: "Endodoi"
+alternate_names:
+  - "En Dodoi"
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Endodoi is a traditional mancala board game played by the Maasai people of Kenya and Tanzania. The game is closely related to the Yoruba game Ayoayo and is played on a wooden board with 2 rows of 6 to 10 holes, using seeds, stones, or beans as counters. Players take turns sowing and capturing seeds according to traditional mancala rules, with the goal of capturing more seeds than the opponent. Endodoi boards are carved from wood, often two feet long, and the game has been played for generations as part of Maasai culture. The year given is approximate, as this is an ancient traditional game without a recorded invention date.
+
+upgrades: []

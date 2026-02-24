@@ -1,0 +1,53 @@
+id: colour-whist
+name: "Colour Whist"
+alternate_names:
+  - "Kleurenwiezen"
+  - "Whist à la couleur"
+  - "Whist belge"
+  - "Suit Whist"
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Auctions/Bidding
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Bluffing
+
+possible_counts: [4]
+true_counts: [4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Colour Whist (French: "whist à la couleur"; Dutch: "Kleurenwiezen") is a Belgian variation of the card game Whist in which the trump suit is determined by a bidding process rather than a randomly revealed card. Suits have a hierarchy — hearts outrank diamonds, clubs, and spades — and players must bid one trick higher for a less-valued suit. A variety of contract types exist, including piccolo, abondance, misery, and soloist variants. Enormously popular throughout Belgium, the game has spawned countless local rule variations; it is a core social card game in Belgian culture, played with a standard 32 or 52-card deck.
+
+upgrades: []

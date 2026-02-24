@@ -1,0 +1,56 @@
+id: hammer-of-the-scots
+name: "Hammer of the Scots"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Historical
+  - Medieval
+  - War
+  - Asymmetric
+  - Variable Player Powers
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jerry Taylor
+  - Tom Dalgliesh
+publisher:
+  - Columbia Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Hammer of the Scots is a block wargame from Columbia Games simulating the First War of Scottish Independence (1296–1314), with players commanding English and Scottish forces across a map of medieval Scotland. The block system provides natural fog of war — units are wooden blocks that stand on their edges, showing strength to their owner but concealing information from the opponent — while also elegantly tracking step losses through rotation. Players recruit nobles, manage seasonal attrition, and fight battles for control of Scottish territories, with Robert the Bruce and William Wallace featured as special leaders. Designed by Jerry Taylor and Tom Dalgliesh, it is widely regarded as one of the finest block wargames ever made.
+
+upgrades: []

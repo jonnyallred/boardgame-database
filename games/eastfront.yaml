@@ -1,0 +1,54 @@
+id: eastfront
+name: "EastFront: The War in Russia 1941-45"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Craig Besinque
+  - Tom Dalgliesh
+publisher:
+  - Columbia Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  EastFront: The War in Russia 1941-45 is a block wargame designed by Craig Besinque and Tom Dalgliesh, published by Columbia Games. The game simulates the brutal conflict between Germany and the Soviet Union during World War II using Columbia Games' signature wooden block system, which creates a "fog of war" effect as players cannot see the strength of enemy units until combat. Players command large-scale armies across the Eastern Front in a game that combines operational flexibility with strategic depth. EastFront II is a revised and expanded second edition of this classic wargame.
+
+upgrades: []

@@ -1,0 +1,48 @@
+id: gym-jungle
+name: "Gym-Jungle"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dexterity
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 5
+
+description: |
+  Gym-Jungle is a 1989 children's board game with limited documented sources; specific designer, publisher, and full rules details are difficult to verify from available records. Based on its title and era, it appears to be a children's physical activity or dexterity game themed around playground equipment and jungle gyms, typical of family games produced in the late 1980s. Further research may be required to confirm full publication details.
+
+upgrades: []

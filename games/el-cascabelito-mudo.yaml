@@ -1,0 +1,50 @@
+id: el-cascabelito-mudo
+name: "El cascabelito mudo"
+alternate_names:
+  - "The Silent Bell"
+year: 1898
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Party
+  - Family
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Mystery
+  - Connection
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  El cascabelito mudo ("The Silent Bell") is a traditional Spanish parlor game played with five small brass bells, one of which is silent (contains no ball). A leader conceals all five bells in a handkerchief and presents them to players one by one; a player must identify the silent bell. Those who fail pay a forfeit. The game was collected by Professor Frederick Starr around 1898 and examples are held in museum collections. The year given is approximate based on collection date; the game's true origin is much older as a traditional folk game. No commercial publisher or designer is known.
+
+upgrades: []

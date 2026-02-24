@@ -1,0 +1,52 @@
+id: harry-potter-hogwarts
+name: "Harry Potter Hogwarts"
+alternate_names:
+  - "Harry Potter: Mystery at Hogwarts"
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Family
+  - Fantasy
+  - Mystery
+
+evokes:
+  - Mystery
+  - Discovery
+  - Wonder
+  - Tension
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Mattel
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Harry Potter Hogwarts (Mystery at Hogwarts) is a licensed deduction board game published by Mattel in 2000, set within the world of J.K. Rowling's Harry Potter series. Players navigate Hogwarts castle to solve a mystery using classic deductive reasoning, identifying the culprit, location, and means through process of elimination in a family-friendly format inspired by Clue. The game was one of several Mattel-published Harry Potter games released in the early 2000s to coincide with the film franchise's launch.
+
+upgrades: []

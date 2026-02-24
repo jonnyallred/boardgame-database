@@ -1,0 +1,53 @@
+id: fast-food-franchise
+name: "Fast Food Franchise"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Route Building
+  - Network Building
+  - Area Control
+  - Family
+
+evokes:
+  - Clever
+  - Progress
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - S. Craig Taylor
+publisher:
+  - TimJim Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Fast Food Franchise is a Monopoly-inspired economic strategy game in which players compete to build fast food restaurant chains across the United States. The board features an outer track for movement and an inner grid representing the country, where players place franchise markers and connect chains to earn income. Strategy lies in how players expand their chains on the inner board, block rivals, and use advertisement squares and event cards to gain advantages. The game rewards long-term planning and geographic network building over simple dice luck.
+
+upgrades: []

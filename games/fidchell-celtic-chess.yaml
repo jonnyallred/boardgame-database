@@ -1,0 +1,52 @@
+id: fidchell-celtic-chess
+name: "Fidchell: Celtic Chess"
+alternate_names:
+  - "Fidchell"
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+  - Medieval
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Quintessential Games
+publisher:
+  - Quintessential Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Fidchell: Celtic Chess is a modern recreation of the ancient Irish board game Fidchell (meaning "wood-wisdom"), published in 1990 by Quintessential Games. The original game dates to Celtic antiquity and was reserved for nobility, warriors, and druids. This version is played on a polar grid (concentric rings) and uses a single piece type (stones), with each player starting with 27 stones — 8 placed and 19 off-board — in a two-phase game of placement then movement. By the 15th century, the word "fidchell" had come to mean chess in Irish, and the original rules were forgotten; this 1990 publication represents a scholarly reconstruction of how the game may have been played.
+
+upgrades: []

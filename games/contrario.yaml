@@ -1,0 +1,48 @@
+id: contrario
+name: "Contrario"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Contrario is an abstract strategy game with limited English-language documentation available. The game appears to feature oppositional or contrary movement mechanics as suggested by its name. Specific details regarding the publisher, designer, year of publication, and complete ruleset are not readily accessible through public sources. This entry is based on limited available information and should be treated as a minimal record pending further research.
+
+upgrades: []

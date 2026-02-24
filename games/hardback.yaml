@@ -1,0 +1,56 @@
+id: hardback
+name: "Hardback"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Word Play
+  - Press Your Luck
+  - Hand Management
+  - Euro
+  - Gateway
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Complete
+  - Masterful
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Tim Fowers
+  - Jeff Beck
+publisher:
+  - Fowers Games
+artist:
+  - Ryan Goldsberry
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Hardback is a deck-building word game and prequel to Paperback, set in the 19th century where players portray aspiring novelists competing for literary prestige. Players draw five cards from their personal deck, use them to spell words, and generate coin and points — matching genre colors across cards activates powerful card abilities and the Ink system lets players press their luck for additional letters. Earned money buys new, more powerful cards to improve the deck, and the first player to accumulate 60 points wins. Designed by Tim Fowers and Jeff Beck with art by Ryan Goldsberry, it elegantly marries the cognitive challenge of word games with the satisfying engine-building of deck construction.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: game-of-thrones-the-card-game-2012
+name: "Game of Thrones: The Card Game"
+alternate_names:
+  - "Game of Thrones Card Game: HBO Edition"
+year: 2012
+
+# Relationships
+game_family: game-of-thrones-lcg
+edition: "HBO Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Card Drafting
+  - Fantasy
+  - Fantasy Flight Games
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 13
+
+description: |
+  Game of Thrones: The Card Game (HBO Edition) is a simplified two-player card game published by Fantasy Flight Games in 2012, based on HBO's television adaptation of A Song of Ice and Fire. Unlike the full Living Card Game system, this edition was designed as a standalone two-player experience accessible to fans of the show rather than dedicated card game enthusiasts. Players represent rival houses competing for dominance through hand management and card play, with artwork drawn from the HBO series. It serves as an accessible entry point into the Game of Thrones card game universe.
+
+upgrades: []

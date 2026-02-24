@@ -1,0 +1,53 @@
+id: duck-duck-go
+name: "duck! duck! Go!"
+alternate_names:
+  - Duck! Duck! Go!
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Programmed Movement
+  - Racing
+  - Hand Management
+  - Family
+  - Animals
+
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Rivalry
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - APE Games
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 35
+min_age: 6
+
+description: |
+  duck! duck! Go! is a 2009 rubber duckie racing game from APE Games in which players race their ducks around a bathtub-themed board to hit all three buoys before crossing the finish line drain. Each round, players simultaneously choose movement cards from their hand, steering their duck according to the card's directions. Real rubber ducks are included as playing pieces, adding tactile charm. The game made the Games Magazine Games 100 list and was nominated for an Origins Award for Best Family Game. A companion title, duck! duck! SAFARI!, uses the same system in a jungle setting.
+
+upgrades: []

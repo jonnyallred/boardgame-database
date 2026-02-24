@@ -1,0 +1,55 @@
+id: gnome-hollow
+name: "Gnome Hollow"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Euro
+  - Tile Placement
+  - Worker Placement
+  - Set Collection
+  - Pattern Building
+  - Fantasy
+
+evokes:
+  - Wonder
+  - Clever
+  - Complete
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Ammon Anderson
+publisher:
+  - USAopoly
+artist:
+  - Ammon Anderson
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Gnome Hollow is a tile-placement and worker-placement game designed and illustrated by Ammon Anderson, published by The Op (USAopoly) in 2024. Players grow a tabletop garden of mushrooms and flowers, placing gnome workers to claim and cultivate tiles while competing to fulfill objective sets. The game blends spatial puzzle-solving with set collection in a charming garden theme, and was B&N Game of the Month on launch. Ammon Anderson later co-founded Uncommons Publishing; Gnome Hollow received wide acclaim for its accessible depth and beautiful art.
+
+upgrades: []

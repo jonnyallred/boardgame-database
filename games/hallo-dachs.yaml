@@ -1,0 +1,54 @@
+id: hallo-dachs
+name: "Hallo Dachs!"
+alternate_names:
+  - "Hello Badger"
+  - "Badger Badger"
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - No Math
+  - Klaus Teuber
+
+evokes:
+  - Lucky
+  - Humor
+  - Connection
+  - Wonder
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Gold Sieber Spiele
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Hallo Dachs! is a children's memory and dice game designed by Klaus Teuber, where players help a badger gather meals hidden beneath tiles in a forest. On each turn, players roll a die a number of times equal to the meals depicted and must flip over matching tiles to feed the badger — combining gentle memory challenges with the thrill of dice luck. Published by Gold Sieber Spiele in 1996 and later reprinted by Mayfair Games as "Badger Badger," the game won the Deutscher Kinderspiele Preis (German Children's Game Prize) in 1996.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: dungeons-and-dragons-basic-game-2004
+name: "Dungeons & Dragons Basic Game (2004)"
+alternate_names:
+  - Dungeons & Dragons Basic Game
+  - D&D Basic Game
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dungeon Crawler
+  - Fantasy
+  - Dice Rolling
+
+evokes:
+  - Discovery
+  - Progress
+  - Tension
+  - Agency
+  - Powerful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Jonathan Tweet
+publisher:
+  - Wizards of the Coast
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  The Dungeons & Dragons Basic Game (2004) is an introductory boxed set from Wizards of the Coast designed to bridge the gap between traditional board gaming and tabletop RPGs. Created by Jonathan Tweet as an on-ramp for new players, the box includes Quick Start Rules, an Advanced Rulebook, pre-generated character sheets for four iconic D&D characters, 16 pre-painted plastic miniatures, double-sided dungeon tiles, and six dice. The set supports both basic adventures and a more advanced ruleset, making it a notable gateway product for the 3rd edition D&D era. A second edition of the Basic Game was released in 2006 with updated content.
+
+upgrades: []

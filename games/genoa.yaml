@@ -1,0 +1,58 @@
+id: genoa
+name: "Genoa"
+alternate_names:
+  - "The Traders of Genoa"
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Trading
+  - Auctions/Bidding
+  - Economic
+  - Historical
+  - Euro
+  - Wolfgang Kramer
+
+evokes:
+  - Persuasion
+  - Agency
+  - Clever
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Rüdiger Dorn
+publisher:
+  - Alea
+  - Rio Grande Games
+artist:
+  - Doris Matthäus
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  Genoa (The Traders of Genoa) is a 2001 negotiation and trading game designed by Rüdiger Dorn and published in the prestigious Alea big box series. Players move their trader towers through the streets of medieval Genoa, stopping at buildings to perform actions — but here, the twist is that all actions can be bought and sold between players, creating a rich environment of deals, counter-deals, and opportunistic negotiation. Goods, letters, and privileges are acquired and traded to achieve individual goals, and virtually every element of a turn is open for negotiation. Widely praised as one of the definitive games of its era for interaction and deal-making.
+
+upgrades: []

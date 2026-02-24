@@ -1,0 +1,54 @@
+id: for-a-crown
+name: "For a Crown"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Take That
+  - Events
+  - Family
+  - Medieval
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Surprise
+  - Lucky
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - unknown
+publisher:
+  - Repos Production
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  For a Crown is a single-deck deck-building game published by Repos Production in 2025. Players recruit mercenaries and other characters, placing cards into a personal sleeve of their own color, then all cards — player cards and shared event cards — are shuffled into a single combined deck and drawn one by one. When a player's card is revealed, they resolve its effect, triggering take-that moments, hidden point scoring, and resource manipulation. After four rounds the player with the most rubies wins. The innovative shared-deck format creates unpredictable, fast-playing sessions of royal deception and ambition.
+
+upgrades: []

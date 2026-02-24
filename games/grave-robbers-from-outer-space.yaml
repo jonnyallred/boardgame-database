@@ -1,0 +1,54 @@
+id: grave-robbers-from-outer-space
+name: "Grave Robbers from Outer Space"
+alternate_names: []
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Hand Management
+  - Horror
+  - Sci-Fi
+  - Humor
+  - Filler
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Stephen Tassie
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Grave Robbers from Outer Space is an open-format collectible card game designed by Stephen Tassie and originally published by Z-Man Games in 1996. Players take on the role of rival B-movie directors, building up their films with Characters, Props, Locations, and Special Effects cards while siccing Creature cards on opponents' productions. The game lovingly parodies science fiction and horror movie clichés, with each card referencing beloved schlock cinema archetypes. Its open-source design allowed community expansion packs and eventually a Director's Cut crowdfunding revival.
+
+upgrades: []

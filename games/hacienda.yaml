@@ -1,0 +1,54 @@
+id: hacienda
+name: "Hacienda"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Set Collection
+  - Hand Management
+  - Euro
+  - Family
+  - Wolfgang Kramer
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Kramer
+publisher:
+  - Hans im Glück
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Hacienda is a strategic area control game designed by Wolfgang Kramer, set in early 19th century Argentina where players compete to build the most prosperous hacienda. Players acquire land and livestock, establish market connections, manage water supplies, and construct haciendas to score the most points across two scoring phases. The game features two different boards requiring distinct strategic approaches, and rewards careful hand management and long-term planning over reactive play. It was recognized as Games Magazine's Best New Family Strategy Game in 2007.
+
+upgrades: []

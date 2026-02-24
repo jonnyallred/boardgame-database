@@ -1,0 +1,53 @@
+id: genestealer
+name: "Genestealer"
+alternate_names:
+  - "Space Hulk: Genestealer Expansion"
+year: 1990
+
+# Relationships
+game_family: space-hulk
+edition: null
+base_game: space-hulk
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Wargame
+  - Sci-Fi
+  - Modular Board
+
+evokes:
+  - Dread
+  - Tension
+  - Rivalry
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Genestealer is a 1990 expansion for Space Hulk, the acclaimed 1 vs many science fiction board game by Games Workshop set in the Warhammer 40,000 universe. The expansion adds psychic combat rules, Genestealer Hybrid units armed with ranged weapons (autocannon, conversion beamer, missile launcher), and five Marine Librarians in Terminator Aegis armour with force weapons. It introduces new tactical possibilities for both sides and significantly deepens the strategic options available in the base game. Genestealer won the 1991 Origins Award for Best Fantasy or Science Fiction Boardgame of 1990.
+
+upgrades: []

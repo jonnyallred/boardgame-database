@@ -1,0 +1,50 @@
+id: conquest-of-space
+name: "Conquest of Space"
+alternate_names: []
+year: 1956
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Discovery
+  - Wonder
+  - Lucky
+  - Progress
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Conquest of Space is a mid-20th-century board game with a space-race theme, reflecting the era's popular fascination with space exploration that preceded the real Space Race. Players race to explore and claim space territories using a combination of movement and chance mechanics. The game captures the optimistic spirit of 1950s space-age culture and represents an early example of science fiction-themed family board games. Specific designer and publisher details are obscure, and the game is primarily of historical interest as an artifact of its era.
+
+upgrades: []

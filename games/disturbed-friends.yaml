@@ -1,0 +1,51 @@
+id: disturbed-friends
+name: "Disturbed Friends"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Social Deduction
+  - Bluffing
+
+evokes:
+  - Humor
+  - Tension
+  - Mystery
+  - Persuasion
+  - Lucky
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [5, 6, 7, 8]
+
+designer:
+  - Maxwell Bengtsson
+publisher:
+  - Disturbed Friends
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 18
+
+description: |
+  Disturbed Friends is an adult party card game designed to reveal how dark or twisted your friends' minds truly are. Each round a Judge draws a question card presenting a crude, absurd, or morally questionable scenario, and all other players secretly choose the answer—A, B, or C—they believe the Judge will find most disturbing. Players simultaneously reveal their votes, then the Judge reveals their own choice; those who match win a card. The first player to collect 10 winning cards is declared the most disturbed friend. The game includes 380 cards.
+
+upgrades: []

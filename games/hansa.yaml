@@ -1,0 +1,54 @@
+id: hansa
+name: "Hansa"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Set Collection
+  - Trading
+  - Action Points
+  - Euro
+  - Gateway
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Michael Schacht
+publisher:
+  - ABACUSSPIELE
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Hansa is a route-building and trading game set among Hanseatic League merchants sailing the Baltic Sea in medieval times, designed by Michael Schacht and published by ABACUSSPIELE in 2004. The active player takes control of a shared boat and pays to move it port by port, choosing to buy goods, sell goods, or establish trading posts at each stop — while opponents can only react at visited ports. Players compete to gather sets of goods and translate them into victory points, with timing and position critical since the boat is shared and not owned. Its elegant use of action points and straightforward rules make it a popular gateway Euro.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: granada
+name: "Granada: The Fall of Moslem Spain"
+alternate_names:
+  - "Granada"
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Historical
+  - Medieval
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Mystery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Robert G. Markham
+publisher:
+  - Avalanche Press
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Granada: The Fall of Moslem Spain is a two-player wargame by Robert G. Markham and published by Avalanche Press, recreating the final decade of the Reconquista (1481–1492) in which Ferdinand and Isabella's forces sought to extinguish the last Moorish kingdom on the Iberian Peninsula. Players command either the Christian Spanish coalition or the Nasrid defenders of Granada, maneuvering forces across a historically detailed map. The game is praised for its physical beauty and for capturing the political and military complexity of the campaign in an accessible format.
+
+upgrades: []

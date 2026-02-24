@@ -1,0 +1,52 @@
+id: doorways-to-adventure
+name: "Doorways to Adventure"
+alternate_names:
+  - "Doorways to Adventure: The VCR Game"
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Narrative Heavy
+
+evokes:
+  - Discovery
+  - Humor
+  - Lucky
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Sid Sackson
+publisher:
+  - Pressman
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Doorways to Adventure is a VCR board game published by Pressman Toy Corporation in 1986, designed by Sid Sackson as part of an early wave of interactive videotape games. Players use a VHS tape featuring classic copyright-free Hollywood adventure footage as an interactive game element while following along on a board. The companion release Doorways to Horror used the same format with horror film footage. Both games represent a distinctive artifact of the mid-1980s VCR game craze, combining traditional board gameplay with a television screen as a dynamic game component.
+
+upgrades: []

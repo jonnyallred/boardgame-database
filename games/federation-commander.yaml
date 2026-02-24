@@ -1,0 +1,54 @@
+id: federation-commander
+name: "Federation Commander"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Action Points
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Stephen V. Cole
+  - Amarillo Design Bureau
+publisher:
+  - Amarillo Design Bureau
+artist: []
+playtime_minutes: 180
+min_playtime: 90
+max_playtime: 300
+min_age: 14
+
+description: |
+  Federation Commander is a tactical starship combat board game set in the Star Fleet Universe, a Star Trek-derived licensed setting. Players captain one or more starships on a hex grid, allocating energy between movement, weapons, shields, and special systems on each of eight impulse sub-steps per turn. Ship information is tracked on laminated cards showing weapons and systems for each vessel, and the game supports both Squadron and Fleet scale variants. It was designed as a more accessible streamlining of the older Star Fleet Battles system, with the same strategic depth but cleaner rules, and is supported by dozens of expansion modules covering different factions and scenarios.
+
+upgrades: []

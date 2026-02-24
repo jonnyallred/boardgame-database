@@ -1,0 +1,54 @@
+id: game-of-the-generals
+name: "Game of the Generals"
+alternate_names:
+  - "Salpakan"
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Hidden Movement
+  - Wargame
+  - Abstract
+  - Historical
+
+evokes:
+  - Mystery
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Sofronio H. Pasola Jr.
+publisher:
+  - AES Philippines
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  Game of the Generals (Salpakan) is a Filipino two-player war strategy game invented by Sofronio H. Pasola Jr. in 1970 and publicly released in 1973. Each player commands an army of 21 ranked pieces whose identities are hidden from the opponent; a neutral arbiter resolves all confrontations between opposing pieces. Higher-ranked pieces generally defeat lower-ranked ones, with exceptions for special pieces like the Spy. Players win by capturing the enemy Flag or escorting their own Flag to the opponent's back row. The "fog of war" mechanic — where neither player can see the opponent's piece identities — creates deep psychological gameplay involving bluffing, memory, and deduction.
+
+upgrades: []

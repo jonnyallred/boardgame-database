@@ -1,0 +1,50 @@
+id: hare-games
+name: "Hare Games"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+  - Medieval
+  - Animals
+
+evokes:
+  - Wonder
+  - Clever
+  - Rivalry
+  - Agency
+  - Mystery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 8
+
+description: |
+  Hare Games refers to a family of ancient Celtic board games featuring hare imagery, related to the broader tradition of hunt games where one side defends while the other pursues. Like the similar Welsh and Irish folk games, hare games appear in medieval archaeological and literary contexts across Britain and Ireland, though the specific rules of each variant differ. The exact game mechanics and original rules are not fully documented, making them primarily of historical and anthropological interest; modern reconstructions exist but vary by source.
+
+upgrades: []

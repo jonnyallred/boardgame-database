@@ -1,0 +1,53 @@
+id: formula-1-grand-prix
+name: "Formula 1 Grand Prix"
+alternate_names:
+  - "Grand Prix"
+year: 1960
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Action Points
+  - Family
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Progress
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - John Howarth
+  - Trevor Jones
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Formula 1 Grand Prix (also known as Grand Prix) is the American market equivalent of Waddingtons' 1962 Formula 1 board game, published by Parker Brothers. Nearly identical to the Waddingtons version, players race cars around a Formula One track but choose their own speed each turn rather than rolling for movement — dice are used only to determine penalties. Personal dashboards track speed, lap count, and wear. The game was a parallel release for the US market with essentially the same design by John Howarth and Trevor Jones.
+
+upgrades: []

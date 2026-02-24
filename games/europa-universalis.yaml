@@ -1,0 +1,56 @@
+id: europa-universalis
+name: "Europa Universalis"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Historical
+  - Wargame
+  - Economic
+  - Civilization
+  - Route Building
+  - Resource Management
+  - 4X
+
+evokes:
+  - Agency
+  - Powerful
+  - Progress
+  - Masterful
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Philippe Thibaut
+publisher:
+  - Azure Wish Enterprise
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Europa Universalis is a geopolitical strategy board game designed by Philippe Thibaut and released by Azure Wish Enterprise in 1993, set during the period 1492 to 1792 in which players command the great powers of Europe through exploration, conquest, trade, and diplomacy. The game is historically notable as the direct inspiration for Paradox Interactive's legendary video game series of the same name, which launched in 2000 and spawned multiple sequels. Players manage armies, fleets, and colonial ambitions across a map of the known world, competing for dominance through military, economic, and diplomatic means. Its comprehensive scope and rich historical simulation made it a landmark in geopolitical gaming.
+
+upgrades: []

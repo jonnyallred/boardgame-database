@@ -1,0 +1,56 @@
+id: global-war
+name: "Global War"
+alternate_names:
+  - "Global War: The War Against Germany and Japan, 1939-45"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Area Control
+  - Historical
+  - War
+  - Economic
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Dunnigan
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 720
+min_playtime: 480
+max_playtime: 1440
+min_age: 14
+
+description: |
+  Global War is a grand strategic and economic board wargame designed by Jim Dunnigan and published by Simulations Publications Inc. (SPI) in 1975, simulating the entire scope of World War II from 1939–1945. A classic "monster" wargame containing over 1,000 counters, one player controls the Allied powers and the other controls the Axis, managing economies, production, and massed operations across a global map. The game's enormous scope and complexity place it among the most ambitious wargames ever published, intended for serious historical gaming enthusiasts willing to invest dozens of hours in a single campaign.
+
+upgrades: []

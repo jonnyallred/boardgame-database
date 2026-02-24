@@ -1,0 +1,54 @@
+id: fire-in-the-sky
+name: "Fire in the Sky: The Great Pacific War 1941-1945"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Maritime
+
+evokes:
+  - Agency
+  - Tension
+  - Rivalry
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Tetsuya Nakamura
+publisher:
+  - Multi-Man Publishing
+  - Phalanx Games
+artist: []
+playtime_minutes: 300
+min_playtime: 180
+max_playtime: 600
+min_age: 14
+
+description: |
+  Fire in the Sky: The Great Pacific War 1941-1945 is a strategic two-player wargame designed by Tetsuya Nakamura, covering the full scope of the Pacific theater from Pearl Harbor to the Japanese surrender. Using just one map and 180 counters, the game distills years of Pacific War design experience into a highly accessible but deep simulation. One player controls the United States and Allies, the other Japan, each managing naval, air, and ground forces across the vast Pacific. The game is praised for its elegant economy of components that nonetheless captures the strategic essence of the entire conflict.
+
+upgrades: []

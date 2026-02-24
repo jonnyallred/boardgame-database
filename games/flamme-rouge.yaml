@@ -1,0 +1,58 @@
+id: flamme-rouge
+name: "Flamme Rouge"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Drafting
+  - Simultaneous Action
+  - Racing
+  - Euro
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Asger Harding Granerud
+publisher:
+  - Lautapelit.fi
+  - Stronghold Games
+artist:
+  - Ossi Hiekkala
+  - Jere Kasanen
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+description: |
+  Flamme Rouge is a fast-paced tactical bicycle racing game for 2-4 players where each player controls a team of two riders: a Rouleur (all-around cyclist) and a Sprinteur (sprinter). Players draw cards from each rider's separate deck and simultaneously select one to play, determining how far each rider advances along a modular track. Riders in the pack benefit from slipstreaming, recovering exhaustion cards that clog their hand, while leaders who push too hard tire out faster. With variable track layouts and simple rules, Flamme Rouge captures the drama of professional cycling through clever card management and positional tension, and won the Gioco dell'Anno award in 2018.
+
+upgrades: []

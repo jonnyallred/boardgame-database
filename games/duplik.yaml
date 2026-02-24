@@ -1,0 +1,51 @@
+id: duplik
+name: "Duplik"
+alternate_names:
+  - Identik
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Creative
+
+evokes:
+  - Humor
+  - Creative
+  - Connection
+  - Clever
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [5, 6, 7, 8]
+
+designer: []
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Duplik (also known as Identik) is a fast-paced party drawing game from Asmodee where one player acts as the Art Director, describing a bizarre and detailed image while other players — the Artists — race to draw it from the spoken description alone. When time is up, players trade drawings and evaluate each other's work against ten hidden criteria for the image, awarding points based on accuracy. The gap between what was said, what was imagined, and what was actually drawn is the source of all the comedy. The game requires no drawing skill and is designed to be funny regardless of artistic talent.
+
+upgrades: []

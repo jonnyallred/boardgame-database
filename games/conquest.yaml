@@ -1,0 +1,51 @@
+id: conquest
+name: "Conquest"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+  - Wargame
+  - Ancient
+
+evokes:
+  - Rivalry
+  - Agency
+  - Masterful
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Donald Benge
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Conquest is an abstract combinatorial wargame self-published by Donald Benge of Burbank, California, first released in 1972 with cardboard counters and later produced with plastic and deluxe pewter pieces. Set in an ancient island archipelago, players maneuver chess-like units — foot troops, cavalry, chariots, elephants, and ships — across a point-to-point map, attempting to capture opponents' fortifications and occupy designated "quest" locations. A four-player edition followed in 1974, and the game was sold directly by Benge for decades, achieving cult status among abstract strategy devotees who prize its chess-meets-wargame design.
+
+upgrades: []

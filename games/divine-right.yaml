@@ -1,0 +1,56 @@
+id: divine-right
+name: "Divine Right"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Area Control
+  - Negotiation
+  - Wargame
+  - Fantasy
+  - Medieval
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Agency
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Glenn Rahman
+  - Kenneth Rahman
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 360
+min_age: 12
+
+description: |
+  Divine Right is a 1979 fantasy board wargame set in the world of Minaria, in which 2–6 players take the roles of kings of human kingdoms or leaders of non-human factions—elves, trolls, dwarves, goblins—or sorcerous factions, battling for supremacy over 20 turns. Players control armies, fleets, diplomats, and monarch counters, earning victory points by plundering castles and capturing or killing opposing monarchs. Magical creatures and items add further complexity, and a robust diplomatic system allows alliances and betrayals. Designed as an early TSR title predating D&D's mass popularity, it blends wargame mechanics with role-playing inspiration.
+
+upgrades: []

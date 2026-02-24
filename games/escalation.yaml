@@ -1,0 +1,53 @@
+id: escalation
+name: "Escalation!"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Take That
+  - Family
+  - Party
+  - Filler
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Charles Pierce
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Escalation! is a fast-playing card game designed by Charles Pierce and published by Z-Man Games in which players race to empty their hands by playing cards of escalating value. Each player is dealt six cards, and on their turn must either play a card or set of cards totaling more than the previous play, or take the entire pile as penalty cards. Special "2" and "3" cards can reverse direction or reset the pile. The player who empties their hand first wins, while all others count their remaining cards as penalty points. Its simple rules and quick play time make it a go-to filler for groups of all ages.
+
+upgrades: []

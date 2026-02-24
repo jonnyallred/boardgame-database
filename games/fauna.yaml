@@ -1,0 +1,55 @@
+id: fauna
+name: "Fauna"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Family
+  - Gateway
+  - Animals
+  - Friedemann Friese
+
+evokes:
+  - Discovery
+  - Wonder
+  - Tension
+  - Lucky
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Friedemann Friese
+publisher:
+  - HUCH!
+  - Bezier Games
+artist:
+  - Lars-Arne Kalusky
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 8
+
+description: |
+  Fauna is a trivia and estimation game in which players guess biological facts about animals from around the globe. Each round, a single animal card is revealed showing only the animal's name and picture; players then place tokens on a world map to guess where the animal lives and on scale tracks to estimate its weight, length, height, and tail length. Tokens placed in the correct zone score points, and even adjacent zones earn partial credit, rewarding informed guessing. Nominated for the Spiel des Jahres in 2009, Fauna is praised for making natural history engaging and accessible for the whole family.
+
+upgrades: []

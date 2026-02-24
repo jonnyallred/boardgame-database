@@ -1,0 +1,49 @@
+id: ex-pion
+name: "Ex*Pion"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 8
+
+description: |
+  Ex*Pion is an abstract strategy game that won the prestigious As d'Or award at the 1990 Cannes game festival. The game centers on a unique neutral piece called the Ex*Pion, which players use as a tool to capture opponents' units by surrounding them, while the Ex*Pion itself cannot be captured. Players maneuver their pieces on the board to enclose enemy units, creating a layered strategic puzzle of offense and defense. Its elegant central mechanic — a shared, weaponizable but invincible piece — distinguishes it from conventional abstract enclosure games.
+
+upgrades: []

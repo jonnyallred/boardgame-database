@@ -1,0 +1,52 @@
+id: dogs
+name: "Dogs"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Set Collection
+  - Drafting
+  - Family
+  - Gateway
+  - Animals
+
+evokes:
+  - Lucky
+  - Clever
+  - Rivalry
+  - Tension
+  - Humor
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Dogs is a card game centered on adopting dog breeds and building the best pack of canine companions. Players compete to collect sets of dog cards through drafting and bidding, with scoring driven by completing breeds, traits, and other set conditions. The game's appealing dog-themed artwork and accessible mechanics make it a popular choice for family game nights and as a gateway game for newer players. Specific publisher information is limited in available sources.
+
+upgrades: []

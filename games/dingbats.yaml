@@ -1,0 +1,52 @@
+id: dingbats
+name: "Dingbats"
+alternate_names:
+  - "Whatzit?"
+  - "Katch-Its"
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Puzzle Solving
+  - Party
+
+evokes:
+  - Humor
+  - Clever
+  - Tension
+  - Discovery
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Paul Sellers
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Dingbats is a rebus puzzle franchise devised by Paul Sellers in 1980 and first published as a board game in 1987. Players solve rebuses — cryptic arrangements of symbols, letters, and pictures that hide a common word or phrase — competing to be first to crack each puzzle. Published under different names in different markets (Whatzit? in the USA by Parker Brothers, Katch-Its in Australia, and Dingbats everywhere else), the game became a long-running family staple particularly popular in the UK, where publisher Gibsons revived it for new editions decades later.
+
+upgrades: []

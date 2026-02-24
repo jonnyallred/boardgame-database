@@ -1,0 +1,57 @@
+id: espana-1936
+name: "España 1936"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - espana-1936-la-armada
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Card Drafting
+  - Dice Rolling
+  - Historical
+  - War
+  - Asymmetric
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Antonio Catalán
+publisher:
+  - Devir
+artist:
+  - Joan Guardiet
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  España 1936 is a two-player historical wargame designed by Antonio Catalán and published by Devir that simulates the Spanish Civil War (1936-1939) at the operational level. Each player commands either the Nationalist or Republican forces across a map of Spain divided into connected zones, spending ten turns moving troops, fighting battles, and controlling key objective areas. The game innovatively eliminates the traditional Combat Results Table — combat is resolved with dice modified by unit strength and card plays, keeping the pace brisk. Players receive event cards each turn that can be played either for their historical event effect or as combat modifiers, creating meaningful decisions throughout. A critically acclaimed and long-running title, it was nominated for multiple awards and received a revised 2024 edition.
+
+upgrades: []

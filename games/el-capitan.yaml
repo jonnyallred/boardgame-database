@@ -1,0 +1,57 @@
+id: el-capitan
+name: "El Capitán"
+alternate_names:
+  - "Tycoon"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Auctions/Bidding
+  - Economic
+  - Route Building
+  - Euro
+  - Historical
+  - Maritime
+
+evokes:
+  - Rivalry
+  - Progress
+  - Clever
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  El Capitán is a strategic trading game designed by Wolfgang Kramer and Horst-Rainer Rösner (with some editions crediting Michael Kiesling), published by Z-Man Games in 2007. Players take the roles of 15th-century Mediterranean merchants, sailing between port cities to establish warehouses and fortresses to control trade routes. The game blends area control, resource management, and competitive route-building as players race to dominate the most valuable trading cities while defending their holdings from rivals. El Capitán is a refined reimplementation of the earlier game Tycoon, with expanded rules, additional locations, and the threat of pirate interference.
+
+upgrades: []

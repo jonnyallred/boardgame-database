@@ -1,0 +1,58 @@
+id: guatemala-cafe
+name: "Guatemala Café"
+alternate_names:
+  - "Guatemala Cafe"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Euro
+  - Economic
+  - Resource Management
+  - Route Building
+  - Trading
+  - Agriculture
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - Eggertspiele
+  - Rio Grande Games
+artist:
+  - Matthias Catrein
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Guatemala Café is a Euro strategy game designed by Inka Brand and Markus Brand and published by Eggertspiele in 2006, placing 2nd in the Hippodice Spieleautorenwettbewerb competition. Players develop coffee plantations and road networks in Guatemala, producing different varieties of coffee to ship to European markets. A clever market overseer mechanism drives the pacing: players bid actions such as buying roads, huts, workers, or ships, while a scoring track marker constantly advances, ending the game when any player catches it. Its tight action economy and brisk playtime make it a satisfying medium-light Euro.
+
+upgrades: []

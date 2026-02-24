@@ -1,0 +1,59 @@
+id: europa-1945-2030
+name: "Europa 1945-2030"
+alternate_names:
+  - "Europa 1945/2030"
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Area Control
+  - Historical
+  - Economic
+  - Euro
+  - Civilization
+  - City Building
+
+evokes:
+  - Agency
+  - Progress
+  - Persuasion
+  - Tension
+  - Clever
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Duccio Vitale
+  - Leo Colovini
+publisher:
+  - Eurogames
+  - Descartes Editeur
+  - Studio Giochi
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Europa 1945-2030 is a political and cooperative negotiation game designed by Duccio Vitale and Leo Colovini and published by Eurogames in 1998 that traces the creation and expansion of the European Union from the post-war period through a projected future. Players represent EU delegates traveling across European nations, working through four historical turns to remake the history of European integration from 1945 onward. When a country accumulates enough delegate presence, it becomes eligible to join the Union — but only if the players can reach agreement. The game also models the threat of armed conflict that players must collectively avert to maintain standing, blending political negotiation with cooperative decision-making.
+
+upgrades: []

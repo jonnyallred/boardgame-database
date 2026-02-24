@@ -1,0 +1,52 @@
+id: djambi
+name: "Djambi"
+alternate_names:
+  - "Machiavelli's Chessboard"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+  - Negotiation
+  - Bluffing
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Persuasion
+  - Agency
+  - Tension
+
+possible_counts: [4]
+true_counts: [4]
+
+designer:
+  - Jean Anesto
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Djambi, subtitled "Machiavelli's Chessboard," is a 4-player abstract strategy game invented by Jean Anesto in 1975 and played on a 9×9 grid with a marked central "maze" square. Each player commands nine pieces of distinct types—chief, assassin, reporter, provocateur, necromobile, and four militants—representing the full toolkit of political wrongdoing. The goal is to achieve absolute power by being the last chief alive; a chief occupying the maze gains extra turns and control over surrounded chiefs' pieces. Eliminated pieces remain on the board as corpses usable for strategic blocking, making public alliances and betrayals central to the experience.
+
+upgrades: []

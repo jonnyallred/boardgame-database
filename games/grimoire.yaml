@@ -1,0 +1,53 @@
+id: grimoire
+name: "Grimoire"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Set Collection
+  - Simultaneous Action
+  - Fantasy
+  - Filler
+
+evokes:
+  - Clever
+  - Mystery
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Hayato Kisaragi
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Grimoire is a card game of rival wizards designed by Hayato Kisaragi and originally published by Japon Brand at Spiel 2010, with an English edition from Z-Man Games in 2012. Each turn, players simultaneously and secretly choose a spell from their spellbook, then reveal all selections at once; spells resolve from weakest to strongest, but some weak spells negate stronger ones, creating a mind-game of prediction and bluffing. Players claim quest cards—companions and treasures—building toward a victory condition of ten treasure cards or ten companions. Its blend of simultaneous selection and set collection rewards reading opponents as much as optimizing your own hand.
+
+upgrades: []

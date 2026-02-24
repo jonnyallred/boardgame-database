@@ -1,0 +1,56 @@
+id: famiglia
+name: "Famiglia"
+alternate_names:
+  - "La Famiglia: The Great Mafia War"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dudes on a Map
+  - Bluffing
+  - Negotiation
+  - Historical
+  - Asymmetric
+  - Ameritrash
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Agency
+  - Dread
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Maximilian Maria Thiel
+publisher:
+  - Boardgame Atelier
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Famiglia (also known as La Famiglia: The Great Mafia War) is a 2023 conflict game designed by Maximilian Maria Thiel and published by Boardgame Atelier, depicting the brutal Sicilian Mafia wars of the 1980s. Inspired by the Corleonesi clan's violent takeover of Cosa Nostra — which resulted in over 1,000 deaths between 1981 and 1983 — players control rival mafia families competing for dominance through area control, intimidation, and strategic conflict. The game won the As d'Or (Golden Ace) at the 2024 Cannes International Games Festival, though its subject matter sparked controversy in Italy. Its historical basis and unflinching thematic approach set it apart from more sanitized conflict games.
+
+upgrades: []

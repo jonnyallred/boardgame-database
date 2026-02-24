@@ -1,0 +1,52 @@
+id: heart-of-oak
+name: "Heart of Oak: Naval Miniatures for the Age of Fighting Sail"
+alternate_names:
+  - "Age of Fighting Sail: Heart of Oak"
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Maritime
+  - Modular Board
+
+evokes:
+  - Masterful
+  - Tension
+  - Powerful
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Fantasy Games Unlimited
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Heart of Oak is a set of naval miniature wargaming rules covering the Age of Sail from 1755 to 1815, published by Fantasy Games Unlimited in 1978 with a second edition in 1983. The rules govern ship-to-ship and fleet combat during the era of Nelson and Hornblower, covering gunnery, boarding, sailing mechanics, and morale, and include paper ship counters for those without miniature collections. The rules are noted for their historical accuracy and comprehensive coverage of the period's naval warfare.
+
+upgrades: []

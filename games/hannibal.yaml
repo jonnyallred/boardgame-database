@@ -1,0 +1,56 @@
+id: hannibal
+name: "Hannibal"
+alternate_names:
+  - "Hannibal: Rome vs. Carthage"
+year: 1996
+
+# Relationships
+game_family: hannibal-rome-vs-carthage
+edition: "original"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Area Control
+  - Wargame
+  - Historical
+  - Ancient
+  - Asymmetric
+  - Variable Player Powers
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mark Simonitch
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 300
+min_age: 14
+
+description: |
+  Hannibal is the original 1996 Avalon Hill release of Hannibal: Rome vs. Carthage, a landmark card-driven wargame simulating the Second Punic War (218–201 BC). Players take command of Hannibal's Carthaginian forces or the Roman Republic, using strategy cards to move armies, control provinces, and trigger historical events across the Mediterranean theater. Designed by Mark Simonitch, the game introduced the card-driven system to historical wargaming and set a standard for strategic depth and asymmetric play. A reimplementation titled Hannibal & Hamilcar: Rome vs. Carthage was published by Phalanx in 2018.
+
+upgrades: []

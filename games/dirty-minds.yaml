@@ -1,0 +1,51 @@
+id: dirty-minds
+name: "Dirty Minds"
+alternate_names:
+  - "Dirty Minds: The Game of Naughty Clues"
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Party
+
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Lucky
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Larry Balsamo
+  - Sandra Schaeffer
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 17
+
+description: |
+  Dirty Minds: The Game of Naughty Clues is an adult party game created in 1988 by Larry Balsamo and Sandra Schaeffer and published by TDC Games in Itasca, Illinois. Players listen to suggestive-sounding clues read from a puzzle booklet and must guess the clean, innocent answers — the humor arising from the gap between the risqué clues and their mundane solutions. The goal is to spell out "DIRTY" by collecting D, I, R, T, and Y letter cards, with Wild and Action cards adding variety. The game became a popular adult party staple throughout the 1990s and has been reprinted in multiple anniversary editions.
+
+upgrades: []

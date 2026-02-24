@@ -1,0 +1,54 @@
+id: gridiron-master
+name: "GridIron Master"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Racing
+  - Action Points
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Brett Proud
+  - Craig Proud
+  - Paul Morin
+  - Jordan Sampson
+publisher:
+  - PHI Sports Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  GridIron Master is a wooden board game published by Canadian company PHI Sports Games in 2007, designed by Brett Proud, Craig Proud, Paul Morin, and Jordan Sampson. The game fuses the strategic elements of gridiron football (American and Canadian) with chess-like positional play on a wooden exact-to-scale football field. Players call plays, move pieces, and attempt to advance the ball into the end zone, capturing the essential tension of football within a tabletop strategy format. Its premium wooden components and hybrid football-chess concept give it appeal as both a game and a keepsake.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: game-of-the-goose
+name: "Game of the Goose"
+alternate_names:
+  - "The Royal Game of Goose"
+  - "Juego de la Oca"
+  - "Jeu de l'Oie"
+year: 1597
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Historical
+
+evokes:
+  - Lucky
+  - Connection
+  - Humor
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Traditional
+publisher:
+  - Various
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 4
+
+description: |
+  Game of the Goose is widely regarded as the first commercially produced board game in history, originating in Italy as early as the 1500s and formally registered in England in 1597. Players race their pieces along a spiral track of 63 spaces by rolling dice, landing on special goose spaces to advance rapidly, or suffering penalties from hazard squares such as the Bridge, Prison, and Skull. The first player to land exactly on space 63 wins. Its elegant simplicity and centuries-long popularity across Europe established the roll-and-move race format that influenced countless later games.
+
+upgrades: []

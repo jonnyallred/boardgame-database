@@ -1,0 +1,55 @@
+id: conspiracy
+name: "Conspiracy"
+alternate_names:
+  - "The Sigma File"
+  - "Agent"
+  - "Casablanca"
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Deduction
+  - Hidden Movement
+  - Abstract
+  - Espionage
+
+evokes:
+  - Mystery
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Eric Solomon
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Conspiracy is a 1973 strategy-bluffing game designed by British game designer Eric Solomon and published by Milton Bradley, also released as "The Sigma File," "Agent," and "Casablanca." Players move agents secretly around a board, attempting to maneuver a key piece to their own side while blocking opponents. The hidden movement and bluffing core creates a tense cat-and-mouse experience with a spy theme. Solomon's elegant design stripped the espionage genre to its essentials and earned the game a long publishing history under multiple titles across different markets.
+
+upgrades: []

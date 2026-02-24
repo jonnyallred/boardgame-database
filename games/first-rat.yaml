@@ -1,0 +1,56 @@
+id: first-rat
+name: "First Rat"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Resource Management
+  - Set Collection
+  - Family
+  - Gateway
+  - Humor
+  - Animals
+
+evokes:
+  - Tension
+  - Progress
+  - Humor
+  - Agency
+  - Clever
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Virginio Gigli
+  - Gabriele Ausiello
+publisher:
+  - Pegasus Spiele
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 75
+min_age: 10
+
+description: |
+  First Rat is a family racing game for 1-5 players in which rival rat families scrounge parts from a junkyard to build rockets and race to be the first rats on the moon. Players choose each turn whether to move one rat up to five spaces or multiple rats up to three spaces each (each landing on a different space of the same color), then collect resources like cheese, apple cores, and bottle caps based on landing zones. Resources are converted into rocket components, Rattronaut training, and shop purchases in a tight resource management race. The game's reversible board and modular tiles offer variable setup, and a solo mode is included.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: gulf-strike
+name: "Gulf Strike"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Modular Board
+
+evokes:
+  - Masterful
+  - Tension
+  - Powerful
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mark Herman
+publisher:
+  - Victory Games
+artist: []
+playtime_minutes: 720
+min_playtime: 360
+max_playtime: 1440
+min_age: 14
+
+description: |
+  Gulf Strike is an operational-level wargame simulating potential superpower confrontation in the Persian Gulf region using 1980s equipment and doctrine, published by Victory Games in 1983 as their inaugural release. The game covers air, naval, and land combat across two large tactical maps and two strategic maps, with 910 counters in the first edition and a 60-page rulebook reflecting the complexity of multi-domain operations. Its five full scenarios range from limited engagements to full-scale superpower conflict, and the game famously anticipated the type and character of US forces that would later deploy during Desert Shield. Three editions were published, with later printings adding additional scenarios and counters.
+
+upgrades: []

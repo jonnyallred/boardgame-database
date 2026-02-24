@@ -1,0 +1,52 @@
+id: gammarauders
+name: "Gammarauders"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Post-Apocalyptic
+  - Area Control
+
+evokes:
+  - Humor
+  - Rivalry
+  - Powerful
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Gammarauders is a post-apocalyptic board wargame published by TSR in 1987 in which players command giant mutant creatures called bioborgs — such as Elvin the Tyrexian (a mutated T-Rex) or Kizaro the Chimpanzero — across a devastated future landscape. Players act as human handlers directing their bioborgs in humorous yet strategic combat, building up forces and competing for territory in a setting that blends the grim genre of post-apocalypse with comedic creature design. The game spawned an expansion (Revenge of the Factoids) and a 10-issue DC Comics tie-in series.
+
+upgrades: []

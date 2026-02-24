@@ -1,0 +1,50 @@
+id: dune-parker-brothers
+name: "Dune"
+alternate_names:
+  - Dune Adventure Game
+year: 1984
+
+# Relationships
+game_family: dune
+edition: "Parker Brothers 1984 Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Agency
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  The Parker Brothers Dune board game, published in 1984, is a separate game from the classic 1979 Avalon Hill title, released as a tie-in to David Lynch's Dune film adaptation of the same year. Players take on the roles of the Great Houses fighting for control of the planet Dune and its precious spice melange. Unlike the landmark Avalon Hill/GF9 design, this simpler mass-market version was aimed at a broader audience and lacks the deep faction asymmetry of its predecessor. It is a notable collector's piece as a product of the 1984 film cycle and marketed under Parker Brothers' product number 0451.
+
+upgrades: []

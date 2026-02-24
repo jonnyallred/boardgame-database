@@ -1,0 +1,48 @@
+id: gridlock
+name: "Gridlock"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Gridlock is an abstract strategy game in which players choose a piece to drop onto the grid, then rotate pieces in front of the dropped piece based on the number dropped, turning them to point away from the player. Only pieces lying flat are rotated, creating an evolving board state with each move. Players must anticipate how their drops will ripple through the board, rewarding spatial thinking and forward planning. Detailed designer and publisher information for this edition is not widely documented in available sources.
+
+upgrades: []

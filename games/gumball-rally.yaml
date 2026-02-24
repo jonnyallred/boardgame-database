@@ -1,0 +1,53 @@
+id: gumball-rally
+name: "Gumball Rally"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Racing
+  - Take That
+  - Family
+  - Filler
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Agency
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Ted Cheatham
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Gumball Rally is a fast-playing card race game for 3-8 players where go-karts jockey for position by playing numbered and colored cards. Higher numbers leap over lower-numbered karts, while matching colors let a kart jump past any same-color kart ahead of it — but a hazard card drawn at the end of each turn sends all matching-colored karts to the back of the pack. The game plays through two checkpoints before a final sprint to the finish, rewarding hand reading and a bit of color-management savvy in a very accessible package.
+
+upgrades: []

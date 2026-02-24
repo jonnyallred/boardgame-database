@@ -1,0 +1,51 @@
+id: free-willy-game
+name: "Free Willy Game"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Animals
+
+evokes:
+  - Tension
+  - Discovery
+  - Dread
+  - Connection
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - unknown
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  The Free Willy Game is a children's board game published by Milton Bradley in 1995, based on the popular Free Willy movie franchise about a killer whale. Players must help Willy and his whale friends escape from the villainous Rockland Stone, who pursues them with a high-tech vessel equipped with sonar. Designed for 2-4 players ages 6-10, the game captures the adventurous rescue theme of the films in a simple, accessible format aimed at young fans of the movie series.
+
+upgrades: []

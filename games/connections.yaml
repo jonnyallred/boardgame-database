@@ -1,0 +1,52 @@
+id: connections
+name: "Connections"
+alternate_names:
+  - "NYT Connections"
+  - "New York Times Connections"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Puzzle Solving
+  - Party
+
+evokes:
+  - Clever
+  - Mystery
+  - Humor
+  - Discovery
+  - Tension
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [1]
+
+designer:
+  - Wyna Liu
+publisher: []
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 10
+
+description: |
+  Connections is a daily category-matching word puzzle published by The New York Times, created by puzzle editor Wyna Liu and launched in beta on June 12, 2023. Players are presented with 16 words and must group them into four categories of four, with each category sharing a hidden common theme — categories range from straightforward to fiendishly tricky. The puzzle is color-coded by difficulty (yellow, green, blue, purple), and players get four chances before failing. It became one of the most viral word games of the 2020s, spawning licensed physical editions and a sports spin-off.
+
+upgrades: []

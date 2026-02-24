@@ -1,0 +1,53 @@
+id: doctor-who-the-game-of-time-and-space
+name: "Doctor Who: The Game of Time & Space"
+alternate_names:
+  - "Doctor Who: The Game of Time and Space"
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Dice Rolling
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Discovery
+  - Wonder
+  - Lucky
+  - Tension
+  - Mystery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Derek Carver
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Doctor Who: The Game of Time & Space is a 1980 board game published by Games Workshop, set in the universe of the long-running British television series. Players explore a board divided into 60 zones, searching planets for scientific items, Key Mission counters, and Key Part counters while defeating alien opponents. Movement is two squares in any direction, and players can teleport across the board using color-coded space/time warp squares. Aliens revealed during searches must be destroyed before their items can be collected, making the game a mix of adventure and resource gathering for 2–6 players.
+
+upgrades: []

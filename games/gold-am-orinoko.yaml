@@ -1,0 +1,52 @@
+id: gold-am-orinoko
+name: "Gold am Orinoko"
+alternate_names:
+  - "Gold on the Orinoco"
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dice Rolling
+  - Set Collection
+  - Adventure
+
+evokes:
+  - Lucky
+  - Discovery
+  - Tension
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Gold am Orinoko (Gold on the Orinoco) is a family adventure board game published by Ravensburger in 1992, set along the Orinoco River in South America as players search for hidden gold. The game involves dice rolling and movement across a jungle-themed board, with players collecting gold pieces while navigating obstacles and competing with rivals. Its accessible rules, treasure-hunting theme, and cheerful components make it a typical family game of its era—fun, quick, and suitable for younger players. Specific designer information for this title is not widely documented.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: correspondence-chess
+name: "Correspondence Chess"
+alternate_names:
+  - "Postal Chess"
+  - "Chess by Mail"
+  - "Email Chess"
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Clever
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: null
+min_playtime: null
+max_playtime: null
+min_age: 10
+
+description: |
+  Correspondence chess is a form of chess played by long-distance communication — traditionally by postal mail, later by email, and now via dedicated online servers. Each move is recorded in standard notation and transmitted to the opponent, who may take days or weeks to reply, making a single game last months or years. The practice dates to at least the early 19th century, with the first authenticated games between Dutch players in 1804; national and international competitions followed, with the International Correspondence Chess Federation (ICCF) founded in 1951. Correspondence play allows for deep opening preparation and engine-assisted analysis, producing some of the most theoretically refined chess ever played.
+
+upgrades: []

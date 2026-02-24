@@ -1,0 +1,53 @@
+id: eureka
+name: "Eureka"
+alternate_names:
+  - "Eureka!"
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Set Collection
+  - Family
+  - Abstract
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Discovery
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Eureka is a family deduction and pattern-recognition game published by Ravensburger in which players try to reconstruct hidden arrangements or match configurations before their opponents. The game features simple, accessible rules that make it suitable for a wide age range, with light strategic elements added through hand management and observation. Its compact format and short play time make it a solid choice for family game nights. The game is sometimes listed as Eureka! in various regional editions.
+
+upgrades: []

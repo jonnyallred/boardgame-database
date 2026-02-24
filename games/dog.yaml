@@ -1,0 +1,54 @@
+id: dog
+name: "DOG"
+alternate_names:
+  - "Brändi Dog"
+  - "Brändi Dog"
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Racing
+  - Teams
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Connection
+  - Tension
+  - Clever
+
+possible_counts: [2, 4, 6]
+true_counts: [4]
+
+designer: []
+publisher:
+  - Brändi
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 8
+
+description: |
+  DOG (also known as Brändi Dog) is a Swiss cult classic team racing game in which players move their marbles around a circular track using playing cards rather than dice. Pairs of players sit opposite each other and share a cooperative goal: a team wins only when all eight marbles of both partners reach the finish zone. Before each round, partners secretly exchange one card, enabling coordinated strategy. Cards offer varied movement options—a Four can move backward, a Seven can be split among multiple pieces, a Jack allows swapping pieces—and opponents' marbles can be sent back to the kennel by landing on them. One of the most beloved games in Switzerland.
+
+upgrades: []

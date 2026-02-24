@@ -1,0 +1,55 @@
+id: guardians
+name: "Guardians"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Hand Management
+  - Area Control
+  - Superheroes
+  - Asymmetric
+  - Variable Player Powers
+  - Plaid Hat Games
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Clever
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Callin Flores
+publisher:
+  - Plaid Hat Games
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 14
+
+description: |
+  Guardians is a two-player tactical superhero card game (with a 2-on-2 variant) designed by Callin Flores and published by Plaid Hat Games in 2018. Each player drafts a team of three heroes from a random selection, then battles for control of the city across multiple zones. Knocked-out heroes are restored rather than eliminated, keeping the action intense throughout without snowballing defeats. Asymmetric hero abilities and shifting zone priorities give the game a fresh feel each session.
+
+upgrades: []

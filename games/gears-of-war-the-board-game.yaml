@@ -1,0 +1,55 @@
+id: gears-of-war-the-board-game
+name: "Gears of War: The Board Game"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Modular Board
+  - Variable Setup
+  - Sci-Fi
+  - Campaign Mode
+  - Fantasy Flight Games
+  - Corey Konieczka
+
+evokes:
+  - Tension
+  - Dread
+  - Connection
+  - Agency
+  - Powerful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Corey Konieczka
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 17
+
+description: |
+  Gears of War: The Board Game is a 1-4 player fully cooperative dungeon-crawler-style board game designed by Corey Konieczka and based on the popular Xbox franchise. Players take on the roles of COG soldiers fighting their way through modular tile missions against the AI-driven Locust horde, using clever deck-based enemy AI cards to create dynamic and challenging opposition without a dedicated game master. The game features over 30 plastic miniatures, custom dice for attacks and defense, and mission-based campaign structure. It is particularly noted for its elegant solo-play implementation and its faithful translation of the video game's squad-level tactical feel.
+
+upgrades: []

@@ -1,0 +1,59 @@
+id: exploding-kittens-2015
+name: "Exploding Kittens"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Take That
+  - Press Your Luck
+  - Party
+  - Family
+  - Filler
+  - Humor
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Elan Lee
+  - Matthew Inman
+  - Shane Small
+publisher:
+  - Exploding Kittens
+artist:
+  - Matthew Inman
+  - Shane Small
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Exploding Kittens is a 2015 card game designed by Elan Lee, Matthew Inman (of The Oatmeal webcomic), and Shane Small, funded via Kickstarter where it raised $8.7 million from 219,382 backers — at the time the most-backed project in Kickstarter history. Players take turns drawing cards from a shuffled deck, trying to avoid drawing an Exploding Kitten which eliminates them from the game. Various action cards allow players to skip their draw, peek at the deck, shuffle it, steal cards, or force opponents to draw more cards, creating a chaotic last-one-standing dynamic. The game's irreverent humor, absurdist art by Matthew Inman, and simple rules made it a massive commercial success, spawning numerous expansions and spin-offs.
+
+upgrades: []

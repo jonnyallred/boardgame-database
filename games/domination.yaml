@@ -1,0 +1,52 @@
+id: domination
+name: "Domination"
+alternate_names:
+  - "Focus"
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Action Points
+  - Area Control
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Sid Sackson
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Domination (also known as Focus) is an abstract strategy game designed by Sid Sackson, published by Milton Bradley in 1982. Players move stacks of pieces based on the number of pieces in the stack (a stack of three moves three spaces), and when a stack grows beyond five pieces, the excess are removed from the bottom. Your own color pieces removed this way are reserved to re-enter the game; opponent pieces are captured. The goal is to leave your opponent without any legal moves. Sid Sackson considered Focus one of his finest designs, and it has been republished under several names.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: election
+name: "Election"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Negotiation
+  - Economic
+  - Family
+
+evokes:
+  - Agency
+  - Rivalry
+  - Tension
+  - Persuasion
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Intellect Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Election is a political board game published by Intellect Games in 1972 in which players campaign across ten regions of a board to win votes and secure electoral victory. Players move around the board campaigning in key regions, spending resources to gain support and outmaneuver opponents. The game simulates the strategic decisions of a political campaign — where to concentrate effort, how to respond to opponents, and how to build a winning coalition of regional support. It is an early example of the political simulation genre that predates more elaborate modern electoral games.
+
+upgrades: []

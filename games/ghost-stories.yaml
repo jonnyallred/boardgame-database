@@ -1,0 +1,56 @@
+id: ghost-stories
+name: "Ghost Stories"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Tile Placement
+  - Variable Player Powers
+  - Horror
+  - Mythology
+  - Antoine Bauza
+  - Asmodee
+
+evokes:
+  - Dread
+  - Tension
+  - Connection
+  - Agency
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Antoine Bauza
+publisher:
+  - Repos Production
+  - Asmodee
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Ghost Stories is a brutally challenging cooperative board game for 1-4 players designed by Antoine Bauza and published by Repos Production. Players take on the roles of Taoist monks defending a remote Chinese mountain village from a relentless horde of ghosts summoned by the demon lord Wu-Feng. Each monk has unique powers; on each turn, the haunting intensifies as new ghost tiles enter the board, threatening to overrun the village. Players must coordinate carefully, manage limited resources, and work together to exorcise ghosts before the village falls. Celebrated for its stunning artwork and punishing difficulty, it is considered one of the finest cooperative games ever designed.
+
+upgrades: []

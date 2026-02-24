@@ -1,0 +1,53 @@
+id: colony-delta
+name: "Colony Delta"
+alternate_names:
+  - "Colony Delta: Earth vs. Sigma Draconis"
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Economic
+  - Wargame
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Discovery
+  - Progress
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Adam L. Gruen
+publisher: []
+artist:
+  - Jeff Dee
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Colony Delta is a science fiction board wargame published by Fantasy Games Unlimited in 1979, subtitled "Earth vs. Sigma Draconis." Two players — one human, one alien — compete for control of a wealthy colony world in the 23rd century through mining, agriculture, and territorial expansion. War is not inevitable: diplomatic and other non-military options are available, making economic strategy as important as military positioning. Reviewer S. J. Hackett praised the way the game's "initial economic basis of colonisation leads to tension between the two sides," giving it a rare combination of economic depth and wargame tension.
+
+upgrades: []

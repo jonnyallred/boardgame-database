@@ -1,0 +1,55 @@
+id: feudal-lord
+name: "Feudal Lord"
+alternate_names:
+  - "Sengoku Daimyo"
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Dice Rolling
+  - Historical
+  - Medieval
+
+evokes:
+  - Powerful
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+true_counts: [4, 5, 6]
+
+designer:
+  - Yukihiro Kuroda
+publisher:
+  - Epoch
+  - Sunset Games
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 240
+min_age: 12
+
+description: |
+  Feudal Lord (originally "Sengoku Daimyo") is a wargame simulating Japan's Sengoku period (late 16th century), in which players control rival feudal lords competing to unify the country under a single shogun. Players manage military units, fortresses, leaders, and ships across historically detailed maps using over 1,300 diecut counters, with 20 scenarios reflecting major campaigns of the era. The game supports an unusually wide player range (1-16) and combines area movement, dice-based combat, and economic management to create a broad-scale historical simulation of Japan's civil war period.
+
+upgrades: []

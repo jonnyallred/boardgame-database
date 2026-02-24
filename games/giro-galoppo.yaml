@@ -1,0 +1,52 @@
+id: giro-galoppo
+name: "Giro Galoppo"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Racing
+  - Simultaneous Action
+  - Animals
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Jürgen P. Grunau
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 6
+
+description: |
+  Giro Galoppo is a family horse-racing game designed by Jürgen P. Grunau and published by Rio Grande Games in 2006, winner of the Japan Boardgame Prize for Best Children's Game and nominated for the Kinderspiel des Jahres. All players receive identical sets of cards numbered 1–6 and simultaneously choose one each round; the player with the lowest card (breaking ties by position) moves first, and landing on another's horse pushes it backward. Players also place jump obstacles before the race, adding blocking strategy to the card-selection bluffing. Its simultaneous play and short runtime make it a fast, exciting family game.
+
+upgrades: []

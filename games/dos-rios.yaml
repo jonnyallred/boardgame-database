@@ -1,0 +1,54 @@
+id: dos-rios
+name: "Dos Rios"
+alternate_names:
+  - "Valley of Two Rivers"
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Worker Placement
+  - Modular Board
+  - Resource Management
+  - Euro
+
+evokes:
+  - Agency
+  - Clever
+  - Tension
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Franz-Benno Delonge
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Dos Rios (Valley of Two Rivers) is a Euro strategy game for 2–4 players designed by Franz-Benno Delonge, in which players move workers across a hex-based modular board building houses along the banks of two rivers. Players earn money from river-adjacent hexes and spend lumber (built from dams) to redirect the flow of the rivers, changing which hexes pay out. The first player to construct all five of their buildings—four houses and one hacienda—or a hacienda plus three river-adjacent houses wins. Published by Mayfair Games in English, the game rewards spatial planning and river manipulation.
+
+upgrades: []

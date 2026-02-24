@@ -1,0 +1,49 @@
+id: crescendo
+name: "Crescendo"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Racing
+  - Family
+
+evokes:
+  - Progress
+  - Rivalry
+  - Clever
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Crescendo is an abstract board game played on 60 squares in which 2 to 4 players maneuver pawns with the goal of building a tower as quickly as possible. Multiple game board configurations can be used, developing players' vigilance and tactical thinking. The game name suggests escalating stakes, fitting its tower-building race theme. Specific publisher and designer credits are not well-documented in available English-language sources; this entry should be treated as a minimal record pending further research.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: fight-in-the-skies
+name: "Fight in the Skies"
+alternate_names:
+  - "Dawn Patrol"
+year: 1966
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Aviation
+  - Dice Rolling
+
+evokes:
+  - Agency
+  - Tension
+  - Rivalry
+  - Lucky
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+true_counts: [4, 5, 6]
+
+designer:
+  - Mike Carr
+publisher:
+  - TSR
+  - Guidon Games
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 240
+min_age: 12
+
+description: |
+  Fight in the Skies (later renamed Dawn Patrol by TSR) is a WWI aerial combat board game first self-published by Mike Carr in 1966 and one of the longest-running games in hobby gaming history. Each player controls a WWI aircraft, using a grid and cardboard counters to track position and altitude (recorded on a log), then fires at opponents in sight at turn's end using dice to resolve hits and damage. The game supports 2-12 players and is famous for being the only game to appear on the event schedule of every Gen Con since Gen Con I. TSR published the 7th edition under the name Dawn Patrol in 1982.
+
+upgrades: []

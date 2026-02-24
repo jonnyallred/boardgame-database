@@ -1,0 +1,56 @@
+id: evacuation-2023
+name: "Evacuation"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Resource Management
+  - Worker Placement
+  - Action Points
+  - Sci-Fi
+  - Euro
+  - Variable Setup
+
+evokes:
+  - Progress
+  - Tension
+  - Agency
+  - Clever
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Vladimír Suchý
+publisher:
+  - Delicious Games
+  - Rio Grande Games
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 150
+min_age: 12
+
+description: |
+  Evacuation is a 2023 sci-fi Euro game designed by Vladimír Suchý and published by Delicious Games in which players race to move their entire civilization from a dying planet to a new one in just four rounds. Each player manages a growing population of workers, factories, and resources, optimizing the logistics of shuttling people and production across the stars while expanding their engine on the new world. The game presents a unique puzzle of dismantling everything you build on the old planet while simultaneously constructing infrastructure on the new one, creating an inventive "reverse engine building" arc. It received widespread critical acclaim after its debut at Essen Spiel 2023, briefly reaching the top of the BGG Hotness.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: excalibur
+name: "Excalibur"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Fantasy
+  - Medieval
+  - Simultaneous Action
+  - Negotiation
+
+evokes:
+  - Agency
+  - Rivalry
+  - Tension
+  - Powerful
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Wotan Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Excalibur is a medieval strategy board game published by Wotan Games in 1989 set in the legendary valley of Camelot, where each player commands one of the Knights of the Grail competing to prove their right to rule Britain. The game is structured around four seasons per turn, with players moving knights and mercenaries simultaneously (or via secretly written orders) to conquer fiefs, fight rivals, and besiege castles and monasteries. Strategic layering of simultaneous movement with siege mechanics gives the game a distinct hidden-information tension. The title is part of Wotan Games' broader Arthurian series alongside King Arthur and the Knights of the Round Table and Merlin.
+
+upgrades: []

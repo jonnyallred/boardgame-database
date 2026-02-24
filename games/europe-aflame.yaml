@@ -1,0 +1,55 @@
+id: europe-aflame
+name: "Europe Aflame"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Hex Map
+  - Historical
+  - War
+  - Resource Management
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - David Cook
+  - Edward G. Sollers
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Europe Aflame is a grand strategic wargame published by TSR in 1989, designed by David "Zeb" Cook and Edward G. Sollers, simulating the European and Middle East theatres of World War II. The two-player game places opposing commanders in charge of the Axis and Allied forces across a theater-level map, managing armies, supply lines, and strategic resources over the course of the war. As a product from TSR's wargame line, it features the detailed hex-and-counter systems common to that era of wargame design. The game provides a comprehensive simulation of the European conflict at the operational and strategic levels.
+
+upgrades: []

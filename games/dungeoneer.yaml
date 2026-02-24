@@ -1,0 +1,55 @@
+id: dungeoneer
+name: "Dungeoneer"
+alternate_names:
+  - Dungeoneer: Tomb of the Lich Lord
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Variable Player Powers
+  - Dungeon Crawler
+  - Fantasy
+  - Modular Board
+
+evokes:
+  - Discovery
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Thomas Denmark
+publisher:
+  - Atlas Games
+artist:
+  - Thomas Denmark
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Dungeoneer is a 2003 non-collectible card game series from Atlas Games designed by Thomas Denmark, originally launched as "Tomb of the Lich Lord." Players each control one of six heroes with asymmetric abilities, building a dungeon map from white-backed map cards while drawing adventure, quest, and hero cards to drive a dungeon-crawl narrative. Each player must complete their own quests while also managing threats that emerge for other players. The game was followed by multiple standalone expansions — including Vault of the Fiends, Haunted Woods of Malthorin, Den of the Wererats, Dragons of the Forsaken Desert, and others — each compatible with the others.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: eagle-day-the-battle-of-britain
+name: "Eagle Day: The Battle of Britain"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+  - Aviation
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Masterful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Gamescience
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Eagle Day: The Battle of Britain is a two-player hex-and-counter wargame simulating the pivotal 1940 air campaign over southern England. One player controls German bombers attempting to strike British targets, while the other commands RAF fighter squadrons defending the homeland. Published by Gamescience in 1973, the game uses a hex grid map depicting the coast of France and southeast England, with 142 die-cut counters representing aircraft units. It is notable as a compact wargame that captures the tension of the Battle of Britain in a manageable format.
+
+upgrades: []

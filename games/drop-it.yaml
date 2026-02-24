@@ -1,0 +1,53 @@
+id: drop-it
+name: "Drop It"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Bernhard Lach
+  - Uwe Rapp
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Drop It is a 2018 dexterity and abstract game from KOSMOS often described as "Connect Four for gamers." Players take turns dropping geometric wooden shapes — squares, triangles, circles, and diamonds — into an upright plastic tray, scoring points based on how high their piece lands. The twist: you score nothing if your piece touches another shape or color that matches your own, demanding both careful aim and spatial reasoning. Physics plays a key role, as pieces bounce, slide, and settle unpredictably. The game uses birch wood pieces of high quality and has been recommended by the American Tabletop Early Gamers association.
+
+upgrades: []

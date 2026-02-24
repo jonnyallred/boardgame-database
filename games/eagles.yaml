@@ -1,0 +1,52 @@
+id: eagles
+name: "Eagles"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - Ancient
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Eagles is a board wargame set in ancient history, published by Game Designers' Workshop in 1974. The game simulates military conflicts of the ancient world using hex-grid maps and counter-based units. Players command ancient armies in tactical or operational scenarios, managing unit movement, combat resolution, and terrain effects. As a GDW title, Eagles represents the mid-1970s wargame tradition of accessible yet historically grounded simulation.
+
+upgrades: []

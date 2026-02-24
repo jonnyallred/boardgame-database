@@ -1,0 +1,51 @@
+id: gwyddbwyll
+name: "Gwyddbwyll"
+alternate_names:
+  - "Fidchell"
+  - "Wood-Wisdom"
+year: 500
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+  - Medieval
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Clever
+  - Agency
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 20
+max_playtime: 90
+min_age: 8
+
+description: |
+  Gwyddbwyll is an ancient Celtic board game whose name translates as "wood-wisdom" or "wood-sense," played between two players with equal numbers of pieces using custodial capture — a mechanism shared with the Roman game ludus latrunculorum. Appearing frequently in medieval Welsh literature, most famously in The Dream of Rhonabwy where King Arthur plays it on a golden board with silver pieces, the game held profound cultural and even mystical significance among the Celts. The exact rules are lost to history; modern Welsh uses "gwyddbwyll" as the word for chess, though the ancient game is distinct. It is closely related to the Irish fidchell and represents one of the oldest known board game traditions in the British Isles.
+
+upgrades: []

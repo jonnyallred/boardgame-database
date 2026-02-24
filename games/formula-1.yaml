@@ -1,0 +1,54 @@
+id: formula-1
+name: "Formula 1"
+alternate_names:
+  - "Formula One"
+year: 1962
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Action Points
+  - Family
+  - Historical
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Progress
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - John Howarth
+  - Trevor Jones
+publisher:
+  - Waddingtons
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Formula 1 is a motor racing board game designed by John Howarth and Trevor Jones and published by Waddingtons in 1962. Unlike typical racing games of the era, players choose their own speed each turn rather than rolling dice for movement — dice are reserved only for applying penalties. Each player's current speed is tracked on a personal cardboard dashboard with a speedometer, lap indicator, and wear gauge. The unusual mechanic of self-determined speed creates genuine tactical decisions about risk and wear management. An original copy of the game is held in the Victoria and Albert Museum in London, and the game was released in international editions throughout the following two decades.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: fiction
+name: "Fiction"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Deduction
+  - Social Deduction
+  - Party
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Mystery
+  - Humor
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Dan Hallagan
+publisher:
+  - Allplay
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Fiction is a Wordle-inspired word guessing game for 2-8 players with an asymmetric twist: one player is the "Lie-brarian" who chooses a secret five-letter word drawn from cards featuring passages from classic literature (A Christmas Carol, The Great Gatsby, Pride and Prejudice, and more). The remaining players work cooperatively to guess the word within 10 guesses or 20 minutes, but the Lie-brarian must tell exactly one lie per guess report about whether a letter is correct or in the wrong position. The guessing team holds Fact/Fiction tokens that can force the Lie-brarian to tell the truth, creating cat-and-mouse tension across two halves of play.
+
+upgrades: []

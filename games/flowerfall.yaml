@@ -1,0 +1,54 @@
+id: flowerfall
+name: "FlowerFall"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Set Collection
+  - Area Control
+  - Party
+  - Abstract
+  - Carl Chudyk
+
+evokes:
+  - Lucky
+  - Humor
+  - Unique
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [3, 4, 5]
+
+designer:
+  - Carl Chudyk
+publisher:
+  - Asmadi Games
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 6
+
+description: |
+  FlowerFall is a dexterity card game designed by Carl Chudyk (of Innovation fame) and published by Asmadi Games. Players drop flower-patterned cards from above the table, letting them flutter and land freely, then score points for the largest continuous patches of their color. The central mechanic of physically dropping cards — allowing gravity, air currents, and skill to determine their resting position — creates unpredictable and chaotic garden arrangements that change every game. Supporting 2-7 players in about 10 minutes, FlowerFall is a delightfully simple yet whimsical filler that rewards spatial thinking mixed with environmental luck.
+
+upgrades: []

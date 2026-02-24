@@ -1,0 +1,53 @@
+id: habana-taxi
+name: "Habana Taxi"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Negotiation
+  - Hand Management
+  - Family
+  - Filler
+
+evokes:
+  - Humor
+  - Persuasion
+  - Lucky
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Dominique Ehrhard
+publisher:
+  - Erudia
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Habana Taxi is a light bluffing and negotiation game set against the backdrop of Cuban tourism, where players take on the roles of tourists competing to visit as many representative sites of Cuba as possible. The game centers on clever card play and reading opponents rather than deep strategy, capturing a breezy atmosphere of Havana's colorful taxi culture. Designed by Dominique Ehrhard and published by Erudia in 2004, it offers a quick and social gaming experience suited for casual groups.
+
+upgrades: []

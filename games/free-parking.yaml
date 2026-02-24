@@ -1,0 +1,51 @@
+id: free-parking
+name: "Free Parking"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Connection
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Charles Phillips
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Free Parking is a children's card game published by Parker Brothers in 1988, designed by Charles Phillips and branded using imagery from the Monopoly board game. Each player manages a personal parking meter and is dealt five cards per round, attempting to score points (represented as parking minutes) before their meter expires. The first player to score 200 points wins. Despite using Monopoly's Free Parking visual branding, the game has no mechanical connection to Monopoly, and was later distributed by Winning Moves under Hasbro's trademark.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: dorada
+name: "Dorada"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Dorada is a 1988 Ravensburger strategy game for 2–4 players in which each player races four tokens toward a finish line using dice rolls. The twist is that some board spaces are "holes"—the first piece to land on a hole is lost from play, but it also fills the hole and flips it into a safe space for future pieces. Crucially, a piece that finishes later scores more points, so players must weigh the risk of going fast (and losing pieces to holes) against the reward of being last to finish. Pieces that fail to reach the finish score nothing.
+
+upgrades: []

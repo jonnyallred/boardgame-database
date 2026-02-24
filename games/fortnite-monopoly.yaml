@@ -1,0 +1,54 @@
+id: fortnite-monopoly
+name: "Fortnite Monopoly"
+alternate_names:
+  - "Monopoly: Fortnite Edition"
+year: 2018
+
+# Relationships
+game_family: monopoly
+edition: fortnite
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Area Control
+  - Take That
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer:
+  - Hasbro (uncredited)
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  Monopoly: Fortnite Edition is a licensed reskin of the classic Monopoly property game published by Hasbro in 2018, themed around the massively popular Fortnite Battle Royale video game. Rather than buying properties with money, players claim locations from Fortnite's Chapter 1 island map and manage Health Points (HP) instead of cash. An action die introduces battle royale mechanics — picking up health packs, building walls, and dealing damage to opponents — while a Storm mechanic triggers each time a player passes Go, potentially damaging anyone caught in it. The last player with HP remaining wins, creating a survival-focused twist on the classic Monopoly formula.
+
+upgrades: []

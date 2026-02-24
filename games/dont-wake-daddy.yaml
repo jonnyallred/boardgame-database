@@ -1,0 +1,50 @@
+id: dont-wake-daddy
+name: "Don't Wake Daddy"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Press Your Luck
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 3
+
+description: |
+  Don't Wake Daddy is a 1992 Parker Brothers children's game in which players take the roles of children sneaking to the refrigerator for a midnight snack without waking their sleeping father lying in the center of the board. Movement is determined by a spinner, and landing on noise spaces may require pressing the alarm clock button next to Dad a set number of times—triggering him to bolt upright if pressed too many times, sending the guilty child back to start. The first player to reach the refrigerator wins. The tension of pressing the alarm clock button is the game's central thrill.
+
+upgrades: []

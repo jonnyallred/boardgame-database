@@ -1,0 +1,49 @@
+id: corona
+name: "Corona"
+alternate_names:
+  - "Corona (card game)"
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Corona is a card or board game with limited detailed documentation available in English-language sources. Multiple games share this title, including a Finnish/Swedish carrom variant known as Korona. The Wikipedia article on "Corona (card game)" suggests it is a traditional card game with simple mechanics. Specific publisher, designer, and year details are not firmly established for this entry, which reflects the most likely candidate game from available sources. Further research may be required to disambiguate between Corona game variants.
+
+upgrades: []

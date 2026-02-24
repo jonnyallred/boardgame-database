@@ -1,0 +1,51 @@
+id: fortune
+name: "Fortune"
+alternate_names: []
+year: 1935
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Economic
+  - Family
+
+evokes:
+  - Lucky
+  - Progress
+  - Tension
+  - Rivalry
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Charles Darrow
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Fortune is a property trading board game published by Parker Brothers in 1935 as an alternative to Monopoly, produced in a limited run of approximately 10,000 copies primarily to secure trademark rights to the name. Based on the same core real estate and trading mechanics as Monopoly, Fortune features players buying and trading properties while navigating the board. Its limited production makes it a significant collector's item among vintage board game enthusiasts, and it remains largely obscure outside of Monopoly history discussions.
+
+upgrades: []

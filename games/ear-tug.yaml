@@ -1,0 +1,52 @@
+id: ear-tug
+name: "Ear Tug"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Connection
+  - Wonder
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Brigitte Pokornik
+publisher:
+  - HABA
+artist:
+  - Antje Flad
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 3
+
+description: |
+  Ear Tug is a children's sensory and sorting game designed by Brigitte Pokornik and published by HABA in 2004. Players roll dice and perform physical actions with colorful cloth bags shaped like animal ears, developing fine motor skills and sensory awareness. Designed for young children aged 3 and up, the game emphasizes playful interaction and tactile exploration over competitive strategy, making it an ideal early childhood game.
+
+upgrades: []

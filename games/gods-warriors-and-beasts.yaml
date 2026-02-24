@@ -1,0 +1,51 @@
+id: gods-warriors-and-beasts
+name: "Gods, Warriors & Beasts"
+alternate_names:
+  - "Gods Warriors and Beasts"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Mythology
+  - Fantasy
+  - Narrative Heavy
+  - Variable Player Powers
+
+evokes:
+  - Wonder
+  - Powerful
+  - Discovery
+  - Unique
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Gods, Warriors & Beasts is a tabletop game described as a mirror of life's path, in which players can seek either material triumph or spiritual truth through mythology-themed gameplay. The game draws on the archetypes of gods, warriors, and beasts as symbols guiding player journeys. Detailed information about the designer, publisher, and full mechanics is limited in publicly available sources; this entry reflects what is known from BoardGameGeek listings.
+
+upgrades: []

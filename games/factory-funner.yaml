@@ -1,0 +1,56 @@
+id: factory-funner
+name: "Factory Funner"
+alternate_names:
+  - "Factory Funner & Bigger"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Simultaneous Action
+  - Puzzle Solving
+  - Euro
+  - Economic
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Corné van Moorsel
+publisher:
+  - Cwali
+  - Allplay
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Factory Funner is a simultaneous tile-placement puzzle game designed by Corné van Moorsel, originally published by Cwali and refreshed by Allplay in 2021. Players are factory managers competing to install machines and connect their input and output pipes to reservoirs and other machines in the most profitable configuration possible. Each round, all players simultaneously select one machine tile from a shared pool, racing to identify optimal pipe connections before other players grab the tile they want. After eight rounds, the player who has built the most efficient and lucrative factory wins. It is a refresh of the cult classic Factory Fun with updated artwork and components.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: hammers-slammers
+name: "Hammer's Slammers"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+  - War
+
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Griffin
+  - H. N. Voss
+  - Neil Zimmerer
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Hammer's Slammers is a science fiction wargame published by Mayfair Games in 1984, based on David Drake's acclaimed military science fiction short story collection of the same name. Players command futuristic armored combat units including supertanks and air-cushion vehicles across hex-map battlefields, with rules capturing the brutal efficiency of Drake's mercenary tank regiment in the far future. The game faithfully adapts the high-tech lethality and combined-arms tactics of the source material into a playable wargaming system.
+
+upgrades: []

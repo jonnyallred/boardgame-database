@@ -1,0 +1,51 @@
+id: doctor-who-battles-in-time
+name: "Doctor Who – Battles in Time"
+alternate_names:
+  - "Doctor Who: Battles in Time"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Rivalry
+  - Lucky
+  - Tension
+  - Powerful
+  - Wonder
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - GE Fabbri
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Doctor Who – Battles in Time is a collectible trading card game published by GE Fabbri under BBC licence, originally released fortnightly in magazine format starting in 2006. Players build decks of character cards drawn from Doctor Who television series and battle by comparing attribute scores across five categories. The main variants—Bunch of Fives and Bonus Buster—each require a 20-card deck, with players alternately calling attributes to compete for cards. The game proved enormously popular with younger Doctor Who fans, and a revival was announced in 2025 to coincide with the game's 20th anniversary.
+
+upgrades: []

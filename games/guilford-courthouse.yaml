@@ -1,0 +1,55 @@
+id: guilford-courthouse
+name: "Guilford Courthouse"
+alternate_names:
+  - "The Battle of Guilford Courthouse"
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Frank Chadwick
+  - Marc Miller
+  - Greg Novak
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Guilford Courthouse is a hex-and-counter wargame simulating the 1781 Battle of Guilford Court House during the American Revolutionary War, designed by Frank Chadwick, Marc Miller, and Greg Novak for Game Designers' Workshop. Players command British forces under Cornwallis against Nathanael Greene's Continental Army in one of the war's most tactically significant engagements, using period-accurate unit types and formations. Originally released in 1978 as a ziplock game, it was later reissued in 1980 as a boxed set and again in 2002 by GMT Games with an expanded version covering both Guilford Courthouse and Eutaw Springs.
+
+upgrades: []

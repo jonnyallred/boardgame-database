@@ -1,0 +1,52 @@
+id: gunfight-in-the-valley-of-tears
+name: "Gunfight in the Valley of Tears, October 9, 1973"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Perry Moore
+publisher:
+  - Perry Moore Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Gunfight in the Valley of Tears, October 9, 1973 is a desktop-published (DTP) tactical wargame simulating the decisive three-hour tank battle between Israel and Syria on the Golan Heights during the 1973 Yom Kippur War. The game operates at a scale of 200 yards per hex with individual tanks and infantry squads, and 20-minute turns capturing the rapid intensity of what became a turning point in the conflict. Designed as an accessible introductory wargame, it was released by Perry Moore in a plastic sleeve with a paper map and uncut counters, making it inexpensive and portable while covering one of the most consequential small-unit armor engagements in modern military history.
+
+upgrades: []

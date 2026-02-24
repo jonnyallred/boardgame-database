@@ -1,0 +1,53 @@
+id: globbo
+name: "Globbo!"
+alternate_names:
+  - "Globbo"
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Sci-Fi
+  - Humor
+
+evokes:
+  - Humor
+  - Rivalry
+  - Tension
+  - Clever
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Allen Varney
+publisher:
+  - Steve Jackson Games
+artist:
+  - Allen Varney
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Globbo! is an eccentric two-player game designed and illustrated by Allen Varney, published by Steve Jackson Games in 1983. Set on the alien planet Ticketa-Koo, one player controls Globbo—a giant amoeba-like babysitter armed with blue zap guns and red slapping hands, programmed to destroy the blob children—while the other player controls the blob children (biters, blips, and yeasts) trying to survive. Its absurdist premise and asymmetric play make it a uniquely odd curiosity in the Steve Jackson Games catalog, beloved by fans of unconventional wargame themes.
+
+upgrades: []

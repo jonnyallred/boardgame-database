@@ -1,0 +1,55 @@
+id: foto-fish
+name: "Foto Fish"
+alternate_names:
+  - "Photo Fish"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Deduction
+  - Puzzle Solving
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Tension
+  - Discovery
+  - Connection
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Michael Kallauch
+publisher:
+  - LOGIS
+  - Pegasus Spiele
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Foto Fish is a children's reaction and memory game designed by Michael Kallauch and published by LOGIS, with a German edition from Pegasus Spiele. Players dive into an underwater world of interchangeable aquarium tiles, using miniature cameras to "photograph" matching fish details on their game boards. The game features two aquarium boards with 24 interchangeable detail pieces, four camera components, and dice to determine difficulty, making it highly adaptable for different skill levels and player counts. Nominated for the 2020 Kinderspiel des Jahres (Children's Game of the Year), Foto Fish blends memory training with quick-reaction gameplay in a charming fish-themed package.
+
+upgrades: []

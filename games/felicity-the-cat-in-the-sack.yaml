@@ -1,0 +1,57 @@
+id: felicity-the-cat-in-the-sack
+name: "Felicity: The Cat in the Sack"
+alternate_names:
+  - "Filou: Le Chat dans le Sac"
+  - "Felix: The Cat in the Sack"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Bluffing
+  - Hand Management
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Humor
+  - Clever
+  - Rivalry
+  - Lucky
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Bruno Cathala
+  - Ludovic Maublanc
+publisher:
+  - Bombyx
+  - Asmodee
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Felicity: The Cat in the Sack is a fast and light bidding and bluffing game for 3-6 players lasting 9 rounds. Each round, players take turns adding cat cards (with values ranging from -8 to +15) and other pet cards (dogs and rabbits) to a communal sack, then the player willing to spend the most mice tokens wins the bag. The twist is that players can manipulate the bag's contents to include valuable or worthless animals, and possessing the worst cats at game end counts against you. Designed by Bruno Cathala and Ludovic Maublanc, it delivers tense bluffing decisions in an accessible family-friendly package.
+
+upgrades: []

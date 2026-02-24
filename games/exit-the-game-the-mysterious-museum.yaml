@@ -1,0 +1,54 @@
+id: exit-the-game-the-mysterious-museum
+name: "Exit: The Game – The Mysterious Museum"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: exit-the-game
+edition: null
+base_game: exit-the-game
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool (easier entry)
+strategic_depth: 1  # Light
+feel: 1  # Light cooperative
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Deduction
+  - Party
+  - Family
+
+evokes:
+  - Mystery
+  - Clever
+  - Connection
+  - Discovery
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Exit: The Game – The Mysterious Museum is a 2018 entry in the EXIT: The Game series designed by Inka and Markus Brand and published by KOSMOS. Players are locked inside a natural history museum after closing time and must solve a series of puzzles to escape before the alarm goes off. With one of the lower difficulty ratings in the series (around 2 out of 5), The Mysterious Museum is particularly accessible for younger players and families new to the EXIT format, featuring museum-themed puzzles involving exhibits, artifacts, and hidden clues.
+
+upgrades: []

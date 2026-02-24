@@ -1,0 +1,56 @@
+id: exit-the-game-the-sunken-treasure
+name: "Exit: The Game – The Sunken Treasure"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: exit-the-game
+edition: null
+base_game: exit-the-game
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool (one of the easier entries)
+strategic_depth: 1  # Light
+feel: 1  # Light cooperative
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Deduction
+  - Party
+  - Family
+  - Pirates
+  - Maritime
+
+evokes:
+  - Mystery
+  - Clever
+  - Connection
+  - Discovery
+  - Lucky
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Exit: The Game – The Sunken Treasure is a 2018 entry in the EXIT: The Game series designed by Inka and Markus Brand and published by KOSMOS. Players take on the role of treasure hunters diving to a sunken shipwreck in search of legendary riches, solving a chain of underwater-themed puzzles and maritime riddles to recover the treasure and return safely to the surface. With one of the lower difficulty ratings in the series, The Sunken Treasure is particularly well-suited for families and younger players. Its aquatic adventure theme and accessible puzzle design make it an inviting entry point into the EXIT series.
+
+upgrades: []

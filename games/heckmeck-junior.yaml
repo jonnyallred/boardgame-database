@@ -1,0 +1,54 @@
+id: heckmeck-junior
+name: "Heckmeck Junior"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Set Collection
+  - Press Your Luck
+  - Family
+  - No Math
+  - Reiner Knizia
+
+evokes:
+  - Lucky
+  - Humor
+  - Connection
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Zoch Verlag
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 5
+
+description: |
+  Heckmeck Junior is a children's dice game designed by Reiner Knizia for Zoch Verlag, adapted from the Heckmeck/Pickomino family of push-your-luck games for younger players. Children roll dice to collect ingredients for the Mac Heck burger, with the player who gathers the tastiest combination crowned "Worm King of the Day." The game simplifies the core press-your-luck mechanism of the parent game to create an engaging and accessible experience appropriate for ages 5 and up, and was nominated for the Golden Geek Best Children's Board Game award.
+
+upgrades: []

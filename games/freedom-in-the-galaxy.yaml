@@ -1,0 +1,55 @@
+id: freedom-in-the-galaxy
+name: "Freedom in the Galaxy"
+alternate_names:
+  - "Freedom in the Galaxy: The Star Rebellions, 5764 AD"
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Asymmetric
+  - Wargame
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Powerful
+  - Tension
+  - Discovery
+  - Unique
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Howard Barasch
+  - John H. Butterfield
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Freedom in the Galaxy: The Star Rebellions, 5764 AD is a space opera wargame published by SPI in 1979, designed by Howard Barasch and John H. Butterfield. Inspired by Star Wars (though without an official license), the game pits a Rebellion player against a Galactic Empire player, with rebels seeking to win the support of planetary populations, raise armies, and ultimately defeat Imperial forces across a star map. The game offers both a shorter and a full campaign version. Its original Star Wars-flavored premise drove it to SPI's Top Ten Bestseller List for six months after release, and it was later reprinted by Avalon Hill.
+
+upgrades: []

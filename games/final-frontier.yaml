@@ -1,0 +1,50 @@
+id: final-frontier
+name: "Final Frontier"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Agency
+  - Rivalry
+  - Tension
+  - Powerful
+  - Discovery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Ral Partha
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Final Frontier is a 1980 miniatures game published by Ral Partha in which Terran infantry forces oppose the alien Krudz in tactical sci-fi combat. It is an early entry in the sci-fi miniatures wargame genre, offering players small-unit tactical scenarios in a future conflict setting. Detailed information about mechanics, player count, and full rules is limited in available sources, but the game represents Ral Partha's foray into science fiction gaming alongside their better-known fantasy miniature lines.
+
+upgrades: []

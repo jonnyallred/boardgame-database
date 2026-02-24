@@ -1,0 +1,53 @@
+id: gumshoe
+name: "Gumshoe"
+alternate_names:
+  - "Gumshoe: The Hard-Boiled Detective in the Thirties"
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Deduction
+  - Narrative Heavy
+  - Mystery
+
+evokes:
+  - Mystery
+  - Discovery
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer:
+  - Gary Grady
+publisher:
+  - Sleuth Publications
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 12
+
+description: |
+  Gumshoe is a detective investigation game set in 1930s San Francisco, where players are operatives of the Continental Detective Agency working to solve a series of interlocking cases over nine in-game days. Rather than a traditional board, the game presents numbered clues, fingerprint reports, newspaper clippings, autopsy results, and phone directories that players consult to trace branching leads through car chases, stakeouts, and interrogations. Time spent traveling across the city is tracked on a daily pad, demanding careful planning of movements. The game appeared on Games magazine's prestigious Games 100 list in both 1985 and 1986.
+
+upgrades: []

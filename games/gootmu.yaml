@@ -1,0 +1,53 @@
+id: gootmu
+name: "G.O.O.T.M.U."
+alternate_names:
+  - "Get Out of the Maze Unit"
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Modular Board
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Discovery
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Tom Jolly
+publisher:
+  - Jolly Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  G.O.O.T.M.U. (Get Out of the Maze Unit) is an abstract tile-laying game for 2-6 players designed by Tom Jolly, creator of the beloved Wiz-War. Players navigate through a maze constructed from randomly placed tiles, competing to be the first to reach the exit. Like Wiz-War, the board is assembled from random tile placement, ensuring a different maze configuration in every game. The game offers a lighter, more accessible experience than Wiz-War while retaining the emergent puzzle quality of Jolly's design style.
+
+upgrades: []

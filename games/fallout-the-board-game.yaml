@@ -1,0 +1,57 @@
+id: fallout-the-board-game
+name: "Fallout: The Board Game"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (competitive/solo)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Campaign Mode
+  - Narrative Heavy
+  - Variable Player Powers
+  - Area Control
+  - Post-Apocalyptic
+  - Sci-Fi
+  - Ameritrash
+  - Fantasy Flight Games
+
+evokes:
+  - Discovery
+  - Agency
+  - Powerful
+  - Tension
+  - Unique
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Andrew Fischer
+  - Nathan I. Hajek
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Fallout: The Board Game is a 2017 narrative adventure game designed by Andrew Fischer and Nathan I. Hajek and published by Fantasy Flight Games, set in the iconic post-apocalyptic universe of Bethesda's Fallout video game series. Players take on the roles of survivors exploring the irradiated wastes, completing quests, building their characters, scavenging supplies, and navigating a dynamic faction conflict that determines the fate of the wasteland. Each scenario is driven by a scenario-specific agenda deck that creates a branching story reflecting players' choices and deeds. The game supports both cooperative and competitive modes, and features extensive thematic integration of locations, characters, and factions from the Fallout franchise.
+
+upgrades: []

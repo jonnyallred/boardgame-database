@@ -1,0 +1,57 @@
+id: dixit-journey
+name: "Dixit: Journey"
+alternate_names:
+  - "Dixit 3: Journey"
+year: 2011
+
+# Relationships
+game_family: dixit
+edition: null
+base_game: dixit
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Social Deduction
+  - Bluffing
+  - Family
+  - Gateway
+  - Fantasy
+
+evokes:
+  - Creative
+  - Wonder
+  - Mystery
+  - Connection
+  - Clever
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Jean-Louis Roubira
+publisher:
+  - Libellud
+  - Asmodee
+artist:
+  - Xavier Collette
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Dixit: Journey is the third expansion for the award-winning storytelling game Dixit, illustrated by Xavier Collette with an otherworldly voyage theme. It adds 84 new large-format dreamlike illustrated cards compatible with the Dixit base game and all other Dixit expansions. Players use the standard Dixit rules: the storyteller gives a clue inspired by their chosen card, others play matching cards from their hands, and everyone votes to identify the original. The expansion can also be combined freely with other Dixit sets for a richer experience each session.
+
+upgrades: []

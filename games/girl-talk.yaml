@@ -1,0 +1,51 @@
+id: girl-talk
+name: "Girl Talk"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Social Deduction
+
+evokes:
+  - Humor
+  - Connection
+  - Lucky
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Catherine Rondeau
+publisher:
+  - Golden
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Girl Talk is a party board game first published by Golden in 1988, aimed primarily at teenage girls and inspired by truth-or-dare gameplay. Players take turns spinning a wheel to determine whether they must answer a special question, perform a stunt, or draw a fortune card from one of four life categories: career, children, marriage, and special moments. The first player to collect one fortune card from each category wins, but the real appeal lies in the dares, confessions, and silliness along the way. Milton Bradley later acquired and redesigned the game in 1995, making it a nostalgic staple of 1990s sleepovers.
+
+upgrades: []

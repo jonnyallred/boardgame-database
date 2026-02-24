@@ -1,0 +1,54 @@
+id: empires-in-arms
+name: "Empires in Arms"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Negotiation
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Powerful
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [7]
+
+designer:
+  - Greg Pinder
+  - Harry Rowland
+publisher:
+  - Australian Design Group
+artist: []
+playtime_minutes: 1440
+min_playtime: 720
+max_playtime: 2880
+min_age: 16
+
+description: |
+  Empires in Arms is an epic grand strategy wargame designed by Greg Pinder and Harry Rowland, published by the Australian Design Group in 1983 and later licensed to Avalon Hill. Set during the Napoleonic Wars of 1805-1815, the game accommodates up to seven players each controlling a major European power. Monthly turns encompass diplomacy, economic management, and military operations, with battles occurring through simultaneous movement impulses. Empires in Arms won inclusion in Games magazine's Top 100 of 1986 and is legendary in wargaming circles for its historical depth and the extraordinary time commitment it demands — full campaigns can take days or even weeks to complete.
+
+upgrades: []

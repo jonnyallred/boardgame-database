@@ -1,0 +1,53 @@
+id: exorbitare
+name: "Exorbitare"
+alternate_names:
+  - "Quantum Jump"
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Discovery
+  - Tension
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Nicholas Brennan
+  - Bob Edwards
+publisher:
+  - Orca Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Exorbitare (also known as Quantum Jump) is a 1981 abstract family game designed by Nicholas Brennan and Bob Edwards and published by British company Orca Games. The circular board represents the first 86 elements of the Periodic Table of Elements — from hydrogen to radon — arranged around the various electron energy levels of an atom, giving the game a scientific educational theme unusual for abstract games of its era. Players move pieces around this atomic board according to quantum jump-inspired rules, aiming to position tokens advantageously. Orca Games produced only three titles, with Exorbitare being among their first releases.
+
+upgrades: []

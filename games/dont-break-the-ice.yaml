@@ -1,0 +1,49 @@
+id: dont-break-the-ice
+name: "Don't Break the Ice"
+alternate_names: []
+year: 1968
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Schaper Toys
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 3
+
+description: |
+  Don't Break the Ice is a classic children's dexterity game originally marketed by Schaper Toys in 1968 and later acquired by Milton Bradley (Hasbro). Players take turns tapping out individual ice blocks from a plastic frame with small hammers, trying not to be the one whose tap causes the central character (Phillip the Penguin or similar figure) to fall through the ice. The game combines a fun physical mechanic with simple rules suitable for preschool-age children, and remains a popular introductory game for very young players.
+
+upgrades: []

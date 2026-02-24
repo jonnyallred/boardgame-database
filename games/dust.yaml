@@ -1,0 +1,52 @@
+id: dust
+name: "Dust"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Sci-Fi
+  - Ameritrash
+  - Fantasy Flight Games
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Agency
+  - Tension
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Paolo Parente
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Dust is a 2007 area control strategy board game from Fantasy Flight Games with artwork by Paolo Parente, set in an alternate science fiction history where unending world war and new technologies have drastically altered global geopolitics. Players seize power sources and capitals, develop infrastructure, and build vast high-tech armies in a global conflict for domination. Praised for its creative alternate history setting and streamlined but strategically deep approach to the "Risk-style" conflict model, the game represents an early entry in the Dust universe that later expanded into miniatures wargame territory.
+
+upgrades: []

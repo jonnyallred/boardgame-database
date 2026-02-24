@@ -1,0 +1,55 @@
+id: gambit-royale
+name: "Gambit Royale"
+alternate_names:
+  - "Ruse & Bruise"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Hand Management
+  - Card Drafting
+  - Medieval
+  - Family
+  - Filler
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Humor
+  - Persuasion
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Gambit Royale, originally published as Ruse and Bruise, is a fast-paced medieval card game in the tradition of Citadels. Players deploy magicians, dragons, kings, and princesses in a contest for fame, playing cards face-down until a column is completed, at which point cards are revealed simultaneously. The hidden-placement mechanic creates rich bluffing opportunities as players try to anticipate opponents' moves while manipulating their own royal household to score points. The game packs meaningful decisions and player interaction into a short play time.
+
+upgrades: []

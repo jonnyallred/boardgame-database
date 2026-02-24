@@ -48,3 +48,114 @@
 - Aquaretto designed by Michael Schacht (not Kramer/Kiesling); published 2008 Rio Grande Games
 - Andada (BGG unknown): no sources found — mark Failed
 - Arcanor: no sources found — mark Failed
+
+## Catan Extended Family Notes
+- Catan 3D Collector's Edition: premium resin 3D tiles; includes base + Cities & Knights; year ~2000
+- Catan Geographies: fixed historical maps; require base Catan game; Germany (2008), Hesse (2006)
+- Catan Historical Scenarios I: Cheops (pyramid building) + Alexander (empire expansion); publisher Mayfair/Kosmos 1998
+- Catan Scenarios: Frenemies (2012) by Benjamin Teuber; Crop Trust (2018) semi-cooperative
+- Catan Event Cards (2006): deck replaces dice; 37 cards with narrative events
+- Catan Histories: Rise of the Inkas (2018) by Klaus+Benjamin Teuber; decline mechanic unique
+- Catan: Ancient Egypt: standalone variant, also has god cards variant; year ~2014
+- Catan New Energies (2024): energy/climate theme; fossil fuel + renewable mechanic
+
+## Well-Known Classic Games (write from knowledge, no search needed)
+- Candy Land (1949): Eleanor Abbott; Parker Brothers; pure luck/no decisions; 50M+ sold
+- Careers (1955): James Cook Brown; Parker Brothers; variable victory conditions (60 pts of fame/money/happiness)
+- Can't Stop (1980): Sid Sackson; Parker Brothers/Ravensburger; classic push-your-luck
+- Camelot (1930): George S. Parker; Parker Brothers; originally "Chivalry" (1882)
+- Carabande = PitchCar; Jacques Zeimet; 1996 Spiel des Jahres special award; Goldsieber Spiele
+
+## Batch Notes: C-Games (100-game run)
+- Cockroach Poker: alternate name "Kakerlakenpoker"; Drei Magier Spiele / Ravensburger; Spiel des Jahres nominated 2004
+- COIN / COIN Series entries in master list: these are series identifiers, not standalone games — mark Failed
+- Connect 4 (1974) and Connect Four are the same game — `connect-four.yaml` covers both #47 and #49
+- Complots = French version of Coup; different inquisitor card; publisher Ferti
+- Crescendo of Doom = Squad Leader expansion by Avalon Hill; Don Greenwood designer
+- Congkak: traditional Malay mancala; use approximate year ~1400 CE (15th century AD)
+- Conspirateurs: traditional abstract from ~1789 France; no known designer
+- Continuo (1982): won Game of the Year UK 1982; Maureen Hiron designer; tile placement
+- Colonial Twilight: first 2-player COIN game; game_family: coin-series
+- Combat Commander: Europe + Pacific share game_family: combat-commander
+- Commands & Colors games share game_family: commands-and-colors
+- CoraQuest: designer Dan Hughes (with daughter Cora); year 2021 (not 2024); publisher BeGe
+- Comic Hunters: originally Brazilian; Robert Coelho designer; features Marvel comics covers
+- Critter Kitchen: designer Alex Cutler + Peter C. Hayward; publisher Lucky Duck Games
+- Courtisans: ultra-fast 21-min card game; publisher Catch Up Games / Pandasaurus; Romaric Galonnier + Anthony Perone
+
+## Batch Notes: C-D Games (50-game run, Feb 2026)
+- Coda: also sold as "The DaVinci Code" game; publisher Nextoy; deduction with numbered panels
+- Codename: Kids Next Door TCG: Wizards of the Coast 2005; not 2004; designer unknown
+- Coin Hopping—Washington D.C.: designer J. F. Cartier; 2007; 2-6 players; won iParenting Media award
+- Colony Delta (1979): Adam L. Gruen designer; Fantasy Games Unlimited; artist Jeff Dee; sci-fi wargame
+- Colorforms (1951): creative activity toy/game, not a competitive board game; open-ended
+- Colorito (1892): Victorian abstract; 10x10 octagon grid; published London by Hayford & Sons
+- Colour Whist: Belgian trick-taking variant; also "Kleurenwiezen"; no known designer; traditional
+- Combined Arms (Warlord Games): WWII campaign game linking Bolt Action etc.; 2022
+- Composio: word-building with alphabet board tracks; obscure; no publisher/designer found
+- Conan CCG: designed Jason Robinette; Comic Images; 2006 (not 1994 — that was trading cards)
+- Conflict (Parker Brothers, 1940): abstract air/sea/land combat; multiple editions through 1960s
+- Connect 4x4: Milton Bradley 2009; 4-player double-grid extension of Connect Four
+- Connections (NYT, 2023): Wyna Liu designer; 16-word category matching puzzle
+- Conspiracy (1973): designer Eric Solomon; Milton Bradley; also "The Sigma File," "Agent," "Casablanca"
+- Die Verbotene Stadt (1992): Alex Randolph + Johann Rüttinger; Ravensburger; bluffing/grid movement
+- Diego Drachenzahn (2009): Manfred Ludwig; HABA; Kinderspiel des Jahres 2010; dexterity
+- Dindons & Dragons (2003): Sylvie Barc; La Haute Roche; trolls distributing adventurer prey
+- Dingbats (1987): Paul Sellers; rebus puzzles; "Whatzit?" in USA, "Katch-Its" in Australia
+- Dimension (2014): Lauge Luchau; KOSMOS; simultaneous 3D ball-stacking puzzle
+- Dimension Demons (1981): Fred Askew; Metagaming Concepts MicroGame #17; Delium mineral mining
+- Dipole: Mark Steere designer; free/print-and-play abstract; no commercial publisher
+- Direct Conflict in Dimension Six (1977): Dimension Six Inc.; sci-fi mining wargame; Delium mineral
+- Dirtside II (1993): Jon Tuffley; Ground Zero Games; 1:300 scale sci-fi miniatures rules
+- Dirty Minds (1988): Balsamo + Schaeffer; TDC Games; adult party game; multiple anniversary editions
+- COIN / COIN Series: series identifiers, not standalone games — mark as Failed
+- Corsaro (1991): Italian piracy-themed game; no English documentation found; minimal entry
+- Cosmail: trading/logistics game with planes and ships; no publisher/designer found
+- Conquest (1972): Donald Benge self-published; ancient island abstract wargame with chess-like pieces
+- Conquest of Space (1956): obscure space-race family game; minimal sources available
+- Contrario / Copa / Corona / Cover Up / Crescendo / Cosmic Journey / Digit: obscure games with very limited sources; wrote minimal entries
+
+## Batch Notes: G-H Games (47-game run, Feb 2026)
+- Guerilla (1974): Avalon Hill; multi-player card wargame with hidden allegiance; 3-6 players
+- Guess Who? (1979): Ora + Theo Coster; Milton Bradley; also "Wie is het?" (Dutch original)
+- Guesstures (1990): Jeffrey Breslow + Howard Morrison; Milton Bradley; timed charades with Mimer-Timer device
+- Guilford Courthouse (1978): Frank Chadwick + Marc Miller + Greg Novak; GDW; American Revolutionary War
+- Gulf Strike (1983): Mark Herman; Victory Games first release; large-scale operational wargame
+- Gumball Rally (2007): Ted Cheatham; Z-Man Games; fast card racing game 3-8 players
+- Gumshoe (1985): Gary Grady; Sleuth Publications; detective investigation with in-game time tracking
+- Gunfight in the Valley of Tears: Perry Moore; 2003 DTP wargame; Golan Heights 1973
+- Gunjin Shogi: traditional Japanese military chess ~1895; similar to Stratego; needs referee
+- Gute Freunde: Alex Randolph; Selecta 1988; children's cooperative frog game; SdJ special award 1989
+- Gwyddbwyll: ancient Celtic abstract game; related to Irish fidchell; rules not fully documented
+- Hallo Dachs! (1996): Klaus Teuber; Gold Sieber Spiele; won Deutscher Kinderspiele Preis 1996
+- Hacienda (2005): Wolfgang Kramer; Hans im Glück; area control + set collection in Argentina
+- Hammer of the Scots (2002): Jerry Taylor + Tom Dalgliesh; Columbia Games; block wargame
+- Hammers Slammers (1984): Griffin/Voss/Zimmerer; Mayfair Games; sci-fi based on David Drake stories
+- Hanamikoji (2013): Kota Nakayama; EmperorS4; 2-player geisha card game; artist Maisherly
+- Hands Down (1964): Marvin Glass; Ideal Toy; card game with physical paddle slapping
+- Hannibal (1996) = Hannibal: Rome vs. Carthage; Mark Simonitch; Avalon Hill; card-driven 2nd Punic War
+- Hannibal: Rome vs. Carthage: same game as "Hannibal" — wrote both entries linking via game_family
+- Hannin Wa Odoru (2013): Pesu Nabeno; Nabeno Kikaku; Japanese criminal bluffing card game
+- Hansa (2004): Michael Schacht; ABACUSSPIELE; Baltic trade route game; shared boat mechanic
+- Happy Little Dinosaurs (2021): Ramy Badie; TeeTurtle; dinosaur disaster dodge card game
+- Hardback (2018): Tim Fowers + Jeff Beck; Fowers Games; deck-building word game; art Ryan Goldsberry
+- Havana (2009): Reinhard Staupe; Rio Grande Games; sequel to Cuba; simultaneous action cards
+- Havok & Hijinks (2014): Adam Trzonkowski; Epic Slant Press; baby dragon treasure card game
+- Headache (1968): Kohner Bros.; Pop-O-Matic bubble with 2 dice; stacking cone pieces
+- Heart of Oak (1978): Fantasy Games Unlimited; Age of Sail naval miniatures rules 1755-1815
+- Hecatomb (2005): Wizards of the Coast; pentagonal stackable plastic CCG cards; discontinued
+- Heckmeck Junior: Reiner Knizia; Zoch Verlag; ~2010; children's dice game; burgers + worms theme
+- Hedbanz (1991): Spin Master; headband picture guessing game; many editions
+- Hellapagos: Laurence + Philippe Gamelin; Gigamic; 3-12 player survival semi-cooperative game
+- Helltank (1981) + Helltank Destroyer (1982): Metagaming Concepts MicroGame line; sci-fi supertanks
+- Herd Mentality (2019): Dan Penn; Big Potato Games; write-same-answer party game; 4-20 players
+- Here I Stand (2006): Ed Beach; GMT Games; 6-player Reformation card-driven wargame; Charles S. Roberts winner
+
+## Slug Edge Cases
+- Buck Rogers 1934: use `buck-rogers-1934` to distinguish from later game
+- Castle (2000): slug `castle-2000` to distinguish from other Castle games
+- Catan: Ancient Egypt: slug `catan-ancient-egypt`
+- Catan: Event Cards: slug `coda-event-cards` (colon stripped)
+- business chess: lowercase title preserved in YAML `name` field
+- Dindons & Dragons: slug is `dindons-et-dragons` (ampersand → et, per French original title)
+- Coin Hopping—Washington D.C.: em-dash in title; slug is `coin-hopping-washington-dc`

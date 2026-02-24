@@ -1,0 +1,51 @@
+id: el-nuevo-coyote
+name: "El nuevo coyote"
+alternate_names:
+  - "New Coyote"
+year: 1930
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+  - Historical
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist:
+  - Guadalupe Posada
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  El nuevo coyote ("New Coyote") is a traditional Mexican board game dating to approximately 1930-1950, featuring illustrations by artist Guadalupe Posada. Played on a folding board with a grid framed by coyote illustrations and Spanish-language instructions, the game is similar to checkers: one player controls a coyote that captures chickens by jumping over them, while the other player (controlling twelve chickens) attempts to corner the coyote so it can no longer move. The game is a variant of the ancient "fox and hens" family of asymmetric hunt games. Examples are preserved in museum collections as historical artifacts of Mexican folk game culture.
+
+upgrades: []

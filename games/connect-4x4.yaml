@@ -1,0 +1,49 @@
+id: connect-4x4
+name: "Connect 4x4"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Connect 4x4 is a three-dimensional strategy game published by Milton Bradley in 2009, expanding on the classic Connect Four formula with a double grid system and two different types of game pieces that support up to four players simultaneously. Players take turns dropping pieces onto the board and attempt to connect four of their pieces in a row horizontally, vertically, or diagonally across the three-dimensional structure. The four-player format and dual-grid board add complexity and interaction compared to the original two-player Connect Four.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: ghettopoly
+name: "Ghettopoly"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+
+evokes:
+  - Rivalry
+  - Humor
+  - Lucky
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - David Chang
+publisher:
+  - Urban Outlaw Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 18
+
+description: |
+  Ghettopoly is a deeply controversial 2003 Monopoly parody created by Taiwanese-American David Chang that replaces the classic board game's properties with liquor stores, and its houses and hotels with crack houses and projects. The seven player tokens include a pimp, a hoe, and drug paraphernalia. Released without authorization, the game sparked national protests, condemnation from the NAACP, and a successful lawsuit by Hasbro over trademark infringement. It is documented here primarily as a significant cultural artifact in the history of controversial board games, not as a recommended product.
+
+upgrades: []

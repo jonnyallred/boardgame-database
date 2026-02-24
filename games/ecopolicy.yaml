@@ -1,0 +1,54 @@
+id: ecopolicy
+name: "Ecopolicy"
+alternate_names:
+  - "Ökolopoly"
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Resource Management
+  - Economic
+  - Euro
+  - Nature
+
+evokes:
+  - Progress
+  - Tension
+  - Agency
+  - Wonder
+  - Dread
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Frederic Vester
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Ecopolicy (originally published in German as Ökolopoly) is a cybernetic simulation game designed by systems theorist Frederic Vester and published by Ravensburger in 1984. Players choose between managing an industrialized nation or a developing country, adjusting nine interconnected dials each round to balance ecological, economic, and social conditions. The game was designed to illustrate systems thinking, showing how decisions ripple through complex feedback loops — often with catastrophic unintended consequences. It was selected as Game of the Year by German magazine Stern and later adapted into a computer game as Ecopolicy.
+
+upgrades: []

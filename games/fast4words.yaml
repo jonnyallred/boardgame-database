@@ -1,0 +1,52 @@
+id: fast4words
+name: "Fast4Words"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Real-time
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Fast4Words is a two-player real-time word game that combines elements of Boggle and Connect 4. Players race against a timer to place letter cubes into a two-sided grid, forming words while strategically altering the board to challenge their opponent. After the placement phase, each player searches for as many valid words as possible on their side of the grid, scoring points for each word found. The simultaneous real-time pressure and spatial word-building make it a quick but engaging duel for word game fans.
+
+upgrades: []

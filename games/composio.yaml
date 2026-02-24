@@ -1,0 +1,48 @@
+id: composio
+name: "Composio"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Mystery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Composio is a word-building game played on a board with tracks under each letter of the alphabet, with differently colored pieces for each player. The first player secretly thinks of a word and deposits a piece under one of its letters; subsequent players must think of a word containing that letter plus at least one new letter, expanding the hidden word step by step. When a player cannot continue, they pass; the last player standing must announce their word, scoring if valid or losing points if not. Cards played at the start of each round add restrictions — such as banning a specific letter — that force players to search for creative alternatives.
+
+upgrades: []

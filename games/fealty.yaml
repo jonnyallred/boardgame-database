@@ -1,0 +1,53 @@
+id: fealty
+name: "Fealty"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+  - Tile Placement
+  - Simultaneous Action
+  - Variable Setup
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer:
+  - Chris Cieslik
+publisher:
+  - Asmadi Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Fealty is an abstract territory control game in which players take turns simultaneously adding one piece per round to a shared board over eight rounds, with increasing placement constraints as the board fills. Each player starts with three cards and reveals them simultaneously, with the lowest-numbered card acting first. Players cannot place in the same duchy as another player in the same round and cannot repeat a row or column from their prior placements. After eight rounds, scores are tallied based on territory influence, rewarding players who think ahead while adapting to opponent placements.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: gladiator
+name: "Gladiator"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Dice Rolling
+  - Hex Map
+  - Historical
+  - Ancient
+  - Action Points
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Michael E. Matheny
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Gladiator is a detailed wargame of man-to-man combat in the Roman arena, designed by Michael E. Matheny and first published by Battleline in 1979, then republished by Avalon Hill in 1981. Each player builds a gladiator by distributing points across training, strength, agility, constitution, and armor, then pits those fighters against opponents on a hex grid. The basic game features the secutor armed with gladius and shield; the advanced game introduces the retiarius with net and trident; a campaign mode allows players to manage stables of gladiators as wealthy Roman patrons. Not designed for beginners, the game rewards detailed tactical thinking and careful resource allocation.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: golan
+name: "Golan"
+alternate_names:
+  - "Golan: Syrian-Israeli Combat in the '73 War"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Irad B. Hardy
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Golan is an operational-level hex-and-counter wargame designed by Irad B. Hardy with graphic design by Redmond A. Simonsen, published by Simulations Publications Inc. (SPI) in 1975. The game simulates ground combat between Syrian and Israeli forces on the Golan Heights during the 1973 Yom Kippur War, originally packaged as part of SPI's Modern Battles quadrigame alongside Chinese Farm, Wurzburg, and Mukden. Players command armored and infantry units in a fast-moving operational scenario that captured the lightning pace of the actual 1973 campaign; it ranked an impressive 33rd out of 202 games in SPI's 1976 popularity poll.
+
+upgrades: []

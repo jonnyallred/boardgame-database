@@ -1,0 +1,51 @@
+id: german-solo
+name: "German Solo"
+alternate_names:
+  - "Solo"
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Auctions/Bidding
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [4]
+true_counts: [4]
+
+designer:
+  - Traditional
+publisher:
+  - Various
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  German Solo is a traditional four-player plain-trick card game played with a 32-card German- or French-suited Skat pack, descended from the 18th-century game of Quadrille. Players bid for the right to declare trumps and decide whether to play alone as a soloist or with a partner; the declaring side must take at least five of the eight tricks to succeed. The game influenced the development of Skat, the most popular German card game, and represents an important link in the evolution of central European trick-taking traditions.
+
+upgrades: []

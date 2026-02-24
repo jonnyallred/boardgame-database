@@ -1,0 +1,56 @@
+id: discat
+name: "Discat"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Family
+  - Party
+  - Gateway
+
+evokes:
+  - Clever
+  - Lucky
+  - Rivalry
+  - Humor
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Bernard Cabarrou
+publisher:
+  - Red Cat Games
+artist:
+  - Alyona Rychagova
+  - Isgerd Var
+  - Marina Chulkova
+playtime_minutes: 10
+min_playtime: 10
+max_playtime: 10
+min_age: 8
+
+description: |
+  Discat is a quick card game in which every card features hidden cats among its artwork. Players race to discard as many cards as possible to their personal discard pile, scoring points for each card collected. Groups of cards with matching numbers can be played for combos, and a group of five cards triggers an immediate victory condition. Players may also hinder opponents' discarding efforts, making the game a lively and energetic battle to discat as fast as possible.
+
+upgrades: []

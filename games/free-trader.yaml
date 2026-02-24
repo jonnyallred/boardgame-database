@@ -1,0 +1,53 @@
+id: free-trader
+name: "Free Trader"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Trading
+  - Route Building
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Discovery
+  - Agency
+  - Tension
+  - Progress
+  - Lucky
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - unknown
+publisher:
+  - GDW
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Free Trader is a solitaire board game of interstellar commerce published by GDW (Game Designers' Workshop) in 1982. Players open trade routes across a tile-based galaxy while fighting off pirates and evading police patrols, drawing event cards that determine trade prices and hazards encountered along the routes. The game evokes the flavor of GDW's Traveller science fiction RPG setting, centering on a lone free trader ship navigating a dangerous galaxy for profit. Information on full mechanics and designer credits is limited in English-language sources.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: empires-age-of-discovery
+name: "Empires: Age of Discovery"
+alternate_names:
+  - "Age of Empires III: The Age of Discovery"
+  - "Glenn Drover's Empires: The Age of Discovery"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Area Control
+  - Tableau Building
+  - Resource Management
+  - Historical
+  - Civilization
+
+evokes:
+  - Progress
+  - Powerful
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Glenn Drover
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Empires: Age of Discovery (originally published in 2007 as Age of Empires III: The Age of Discovery, renamed after losing the licensing rights) is a worker placement and area control game designed by Glenn Drover. Players take the roles of European colonial powers competing to explore, settle, and exploit the New World, deploying multiple distinct worker types — Merchants, Soldiers, Missionaries, and Captains — each serving different strategic purposes. The game was notable at release for being among the first to feature multiple differentiated worker types, predating later games that would make this a standard Euro mechanic. A deluxe edition was published by Eagle-Gryphon Games in 2015.
+
+upgrades: []

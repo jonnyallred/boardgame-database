@@ -1,0 +1,54 @@
+id: havok-and-hijinks
+name: "Havok & Hijinks"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Family
+  - Fantasy
+  - Filler
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Adam Trzonkowski
+publisher:
+  - Epic Slant Press
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Havok & Hijinks is a card game published by Epic Slant Press in 2014 in which players become baby dragons competing to amass the mightiest hoard of treasure. Players collect cards representing treasures and abilities, playing offense and defense as they race to accumulate 15 points worth of treasure before their rivals. The game's charming dragon art, light rules, and quick play time make it a family-friendly gateway game with enough take-that interaction to keep the competition lively.
+
+upgrades: []

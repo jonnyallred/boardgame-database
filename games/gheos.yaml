@@ -1,0 +1,55 @@
+id: gheos
+name: "Gheos"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Area Control
+  - Civilization
+  - Mythology
+  - Euro
+  - Z-Man Games
+
+evokes:
+  - Clever
+  - Agency
+  - Wonder
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - René Wiersma
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Gheos is an original 2006 tile-laying game designed by René Wiersma and published by Z-Man Games in which players take the roles of gods shaping the world itself. Triangular tiles are placed to form continents, coastlines, and civilizations adorned with resources such as wheat, swords, temples, and pyramids. Players invest their "followers" in emerging civilizations and score points for the resources those civilizations control — but civilizations can be altered or destroyed by other players repositioning tiles. The interplay between building up and tearing down creates a tense, strategic experience with a distinctive mythological atmosphere.
+
+upgrades: []

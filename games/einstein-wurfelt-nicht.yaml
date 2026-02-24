@@ -1,0 +1,51 @@
+id: einstein-wurfelt-nicht
+name: "EinStein würfelt nicht!"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Dice Rolling
+  - Racing
+
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Ingo Althöfer
+publisher:
+  - Noris
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  EinStein würfelt nicht! (German for "Einstein doesn't roll dice") is a two-player abstract game of chance and strategy designed by mathematician Ingo Althöfer and published in 2004. Each player has six numbered cubes (1-6) on a 5x5 grid, and each turn a die roll determines which cube the active player must move toward the opponent's corner. The blend of dice luck with genuine tactical choice — selecting which of several valid cubes to move — gives the game its distinctive character. The game was the official game of the Einstein Year 2005 exhibition in Germany and has been the subject of academic AI research.
+
+upgrades: []

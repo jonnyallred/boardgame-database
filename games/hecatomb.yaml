@@ -1,0 +1,53 @@
+id: hecatomb
+name: "Hecatomb"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Horror
+  - Cthulhu
+
+evokes:
+  - Powerful
+  - Tension
+  - Rivalry
+  - Clever
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Paul Barclay
+  - Mike Elliott
+publisher:
+  - Wizards of the Coast
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 13
+
+description: |
+  Hecatomb is an out-of-print collectible card game released by Wizards of the Coast in August 2005, distinguished by its use of five-sided, stackable plastic cards rather than conventional paperboard. Players build abominations by layering pentagonal cards, with each card's edges connecting to adjacent ones to form increasingly powerful creatures. The game's dark Lovecraftian horror theme and innovative card format generated significant interest at its Gen Con debut, though the product line was ultimately discontinued. Hecatomb represents a bold if short-lived experiment in rethinking the physical medium of CCG cards.
+
+upgrades: []

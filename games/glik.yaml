@@ -1,0 +1,50 @@
+id: glik
+name: "Glik"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Racing
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Adam Kałuża
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Glik is a light abstract strategy game designed by Adam Kałuża, available as a print-and-play game sharing components with its sibling game Glak. Players attempt to transport all their pieces from a starting position to a home position, with pieces sliding until they hit a wall or a special blocker piece. The movement interplay between standard pieces and blocker pieces creates tactical opportunities for impeding opponents while advancing your own. Its minimal rules and compact design make it an accessible introduction to abstract racing-style puzzles.
+
+upgrades: []

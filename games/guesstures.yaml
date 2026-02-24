@@ -1,0 +1,54 @@
+id: guesstures
+name: "Guesstures"
+alternate_names:
+  - "Guesstures: The Game of Split-Second Charades"
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Party
+  - Teams
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Connection
+  - Rivalry
+
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [6, 8]
+
+designer:
+  - Jeffrey Breslow
+  - Howard Morrison
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Guesstures is a split-second team charades game where players must act out words while racing against a mechanical timer device called the Mimer-Timer. The active player loads four cards into the timer, selects one word per card to act out, and must have teammates guess it before the timer ejects the card — unguessed cards are lost forever. Designed as charades on speed, the time pressure transforms standard mime into frantic, laugh-filled performances and rewards quick thinking over polished acting.
+
+upgrades: []

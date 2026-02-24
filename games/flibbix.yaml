@@ -1,0 +1,53 @@
+id: flibbix
+name: "Flibbix"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Variable Setup
+  - Tile Placement
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Creative
+  - Lucky
+  - Unique
+  - Humor
+  - Discovery
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - unknown
+publisher:
+  - Merillian Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Flibbix is a customizable family board game by Merillian Games that lets players build their own game board using 45 magnetic tiles before each play session. Players select from dozens of rule combinations using a "Make Your Own Rules" sheet, then race across the assembled board by rolling a die and playing cards that allow special moves such as swapping places with opponents, flipping tiles to change their effects, or swapping the start and finish positions entirely. This modular design gives each session a different feel, and the ability to alter the board mid-game adds a chaotic, playful unpredictability that appeals to younger family audiences.
+
+upgrades: []

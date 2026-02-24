@@ -1,0 +1,55 @@
+id: exit-the-game-the-pharaohs-tomb
+name: "Exit: The Game – The Pharaoh's Tomb"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: exit-the-game
+edition: null
+base_game: exit-the-game
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 1  # Light cooperative
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Deduction
+  - Party
+  - Family
+  - Ancient
+
+evokes:
+  - Mystery
+  - Clever
+  - Tension
+  - Connection
+  - Discovery
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Exit: The Game – The Pharaoh's Tomb is one of the three original 2016 entries in the EXIT: The Game series designed by Inka and Markus Brand and published by KOSMOS. Players find themselves trapped inside an ancient Egyptian tomb after a cave-in during an archaeological dig, and must decipher hieroglyphs, decode ancient mechanisms, and solve interconnected puzzles to escape before their air runs out. With a difficulty rating of 4 out of 5, it is one of the more challenging entries from the first season of the series, featuring elaborate layered puzzle chains that demand creative lateral thinking.
+
+upgrades: []

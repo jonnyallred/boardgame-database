@@ -1,0 +1,55 @@
+id: dungeonquest
+name: "DungeonQuest"
+alternate_names:
+  - Dungeonquest
+  - Drakborgen
+year: 1987
+
+# Relationships
+game_family: dungeonquest
+edition: "Games Workshop 1987 Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Modular Board
+  - Dungeon Crawler
+  - Press Your Luck
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Tension
+  - Lucky
+  - Dread
+  - Discovery
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 12
+
+description: |
+  DungeonQuest is a 1987 Games Workshop publication (originally released in Sweden in 1985 as Drakborgen by Alga AB) in which one to four adventurers enter the ruins of Dragonfire Castle to steal from the sleeping dragon's hoard. Players must navigate a modular dungeon of random tiles, collect treasure from the central lair, and escape before sunset — at which point the dragon awakens and kills all remaining characters. The game is notorious for its extreme lethality, with statistically very few characters surviving a given session. Fantasy Flight Games produced a revised edition in 2010, and the game's "survive against the odds" tension is its defining feature.
+
+upgrades: []

@@ -1,0 +1,48 @@
+id: gioul
+name: "Gioul"
+alternate_names: []
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Racing
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Gioul is a traditional tables game of Middle Eastern origin, most common in the Levant, played similarly to Greek Plakoto but with a distinctive doublet mechanic. On rolling a doublet, the player plays the number rolled four times, then the next higher number four times, cascading up until four sixes are played—potentially keeping an opponent off the board for an entire turn. Players move in opposite directions and may not hit or pin opposing pieces, only pass them; the goal is to bear off all fifteen pieces first. Its extreme doublet power creates dramatic swings of momentum absent in standard backgammon variants.
+
+upgrades: []

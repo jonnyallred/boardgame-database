@@ -1,0 +1,54 @@
+id: fire-and-steel
+name: "Fire and Steel"
+alternate_names:
+  - "Fire & Steel"
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Rivalry
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Greg Novak
+  - John Harshman
+  - Paul Richard Banner
+publisher:
+  - GDW
+artist: []
+playtime_minutes: 180
+min_playtime: 90
+max_playtime: 360
+min_age: 14
+
+description: |
+  Fire & Steel is GDW's 1978 set of miniatures wargame rules for 15mm Napoleonic battles, covering European conflicts between approximately 1808 and 1858. The rules are designed to simulate brigade-level engagements during the Napoleonic era and the subsequent decades, providing army lists, weapon data, and tactical guidelines for recreating historical battles from the period. As a GDW publication, it stands among the foundational texts of the miniatures wargaming hobby for the Napoleonic period.
+
+upgrades: []

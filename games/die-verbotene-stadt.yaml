@@ -1,0 +1,54 @@
+id: die-verbotene-stadt
+name: "Die Verbotene Stadt"
+alternate_names:
+  - "The Forbidden City"
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Deduction
+  - Abstract
+  - Historical
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Alex Randolph
+publisher:
+  - Ravensburger
+artist:
+  - Ulrich Lichthardt
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Die Verbotene Stadt (The Forbidden City) is a 1992 bluffing and deduction game designed by Alex Randolph and published by Ravensburger, set against the backdrop of imperial China's Forbidden City. Players navigate a grid board using hidden movement, trying to achieve objectives while deceiving their opponents about their intended paths and actions. Co-designed with Johann Rüttinger and illustrated by Ulrich Lichthardt, the game blends the spatial puzzle of grid movement with the psychological tension of bluffing, typical of Randolph's elegant, idea-focused designs.
+
+upgrades: []

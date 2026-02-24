@@ -1,0 +1,52 @@
+id: ghost-fightin-treasure-hunters
+name: "Ghost Fightin' Treasure Hunters"
+alternate_names:
+  - "Geister, Geister, Schatzsuchmeister!"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Family
+  - Horror
+
+evokes:
+  - Tension
+  - Connection
+  - Lucky
+  - Dread
+  - Wonder
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Brian Yu
+publisher:
+  - Mattel
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Ghost Fightin' Treasure Hunters (originally published as Geister, Geister, Schatzsuchmeister!) is a cooperative family board game designed by Brian Yu and published by Mattel. Players work together as a team to collect eight treasure jewels hidden throughout a haunted house and escape before it becomes fully overrun by ghosts. The game features dice-driven movement and ghost spawning mechanics that steadily raise tension over the course of play, and includes a Head Haunter mode where one player controls the ghosts against the others. The original German edition won the prestigious Kinderspiel des Jahres 2014 (Children's Game of the Year).
+
+upgrades: []

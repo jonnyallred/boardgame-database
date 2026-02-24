@@ -1,0 +1,61 @@
+id: eclipse
+name: "Eclipse"
+alternate_names:
+  - "Eclipse: New Dawn for the Galaxy"
+year: 2011
+
+# Relationships
+game_family: eclipse
+edition: first-edition
+base_game: null
+expansions:
+  - eclipse-rise-of-the-ancients
+  - eclipse-ship-pack-one
+  - eclipse-shadow-of-the-rift
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - 4X
+  - Area Control
+  - Tech Tree
+  - Resource Management
+  - Modular Board
+  - Variable Player Powers
+  - Hex Map
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Powerful
+  - Progress
+  - Discovery
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Touko Tahkokallio
+publisher:
+  - Lautapelit.fi
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 200
+min_age: 14
+
+description: |
+  Eclipse: New Dawn for the Galaxy is a sprawling 4X science fiction strategy game designed by Touko Tahkokallio and published by Lautapelit.fi in 2011. Players command unique alien or human civilizations, building interstellar empires through resource management, technological advancement, territorial expansion, and fleet combat across a modular hex-tile galaxy. The game features over 100 technology tiles across population, fleet, and science tracks, allowing deep ship customization and strategic specialization. Eclipse is celebrated for delivering a comprehensive 4X experience in a manageable session length compared to other games of its scope, and was reimplemented as Eclipse: Second Dawn for the Galaxy in 2020.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: finger-baseball
+name: "Finger Baseball"
+alternate_names: []
+year: 1950
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Racing
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Finger Baseball is a dexterity-based baseball simulation game in which players flick a marker across a game board to simulate an at-bat. Depending on where the marker lands, the result is a ball, a strike, or a pending hit — if a pending hit, the batter must flick again to the corresponding hit zone or be called out. The game requires no equipment beyond the board and marker, making it one of the simplest sports simulations. Specific publication details, designer, and precise year of origin are not well documented in available sources.
+
+upgrades: []

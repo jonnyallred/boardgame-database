@@ -1,0 +1,52 @@
+id: gute-freunde
+name: "Gute Freunde"
+alternate_names:
+  - "Good Friends"
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Family
+  - No Math
+
+evokes:
+  - Connection
+  - Lucky
+  - Humor
+  - Wonder
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Alex Randolph
+publisher:
+  - Selecta
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Gute Freunde is a charming cooperative children's game designed by Alex Randolph for Selecta in 1988, using twelve beautifully painted wooden water lily leaves arranged into a circuit for frog playing pieces. When two or more players' frogs land on the same lily leaf, they hold hands and say "Gute Freunde" (Good Friends), earning the chance to draw a wooden coin from a bag — making cooperation and shared spaces the heart of the experience. The game won the special children's games award at the Spiel des Jahres in 1989, and was later reprinted by Drei Magier Spiele in 2005.
+
+upgrades: []

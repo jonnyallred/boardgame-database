@@ -1,0 +1,52 @@
+id: divine-wind
+name: "Divine Wind"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Steve Newberg
+publisher:
+  - Simulations Canada
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Divine Wind is a two-player strategic board wargame simulating the Pacific War from the attack on Pearl Harbor onward, with one player controlling Japanese forces and the other commanding the Allies. Published by Simulations Canada in 1981, the game covers naval, air, and ground operations across the Pacific theater using hex-based maps and detailed counter sets. The title references the kamikazes (divine wind) employed by Japan, and the game is noted for its depth in recreating the operational challenges and strategic dilemmas faced by both sides throughout the conflict.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: finca
+name: "Finca"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Euro
+  - Mancala
+  - Resource Management
+  - Set Collection
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Rüdiger Dorn
+  - Wolfgang Sentker
+publisher:
+  - Rio Grande Games
+  - Hans im Glück
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Finca is a euro strategy game set on the Spanish island of Mallorca, in which players manage fruit-harvesting operations at windmill-powered farms. The game's distinctive mancala-style mechanism governs how farmers move around the board to collect almonds, oranges, lemons, figs, and grapes, then deliver crops to fulfill orders. The number of farmers in a group determines how many move, creating an elegant push-pull between timing and efficiency. A reprint in 2024 by Pandasaurus Games introduced new art, streamlined gameplay, and a fifth player to revive this out-of-print classic.
+
+upgrades: []

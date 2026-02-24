@@ -1,0 +1,53 @@
+id: fury-in-the-west
+name: "Fury in the West"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Stephen Peek
+publisher:
+  - Battleline Publications
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Fury in the West is a two-player hex-and-counter wargame simulating the Battle of Shiloh during the American Civil War. Originally published by Battleline in 1977 and later revised and republished by Avalon Hill, the game introduced several rules innovations that were considered novel at the time. Players command Union and Confederate forces across a hex grid, managing unit positioning and supply lines to achieve historical or alternate-history outcomes at this pivotal 1862 engagement.
+
+upgrades: []

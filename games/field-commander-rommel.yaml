@@ -1,0 +1,52 @@
+id: field-commander-rommel
+name: "Field Commander: Rommel"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Cooperative
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Masterful
+  - Powerful
+  - Progress
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Dan Verssen
+publisher:
+  - Dan Verssen Games
+artist: []
+playtime_minutes: 180
+min_playtime: 90
+max_playtime: 360
+min_age: 14
+
+description: |
+  Field Commander: Rommel is the first game in DVG's Field Commander solitaire series, in which the player commands General Erwin Rommel's forces across three WWII campaigns: France 1940, North Africa 1941, and D-Day 1944. A system of "Battle Plan" and "Operation Plan" chits manages Allied movement, combat, and reinforcements automatically, creating a challenging but fair solo opponent. Each campaign includes historical options that can be toggled to adjust difficulty and improve replay value. The game is designed as an accessible entry point to historical wargaming, with clean mechanics and manageable complexity for solo sessions of 1-3 hours.
+
+upgrades: []

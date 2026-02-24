@@ -1,0 +1,55 @@
+id: disney-villainous
+name: "Disney Villainous"
+alternate_names:
+  - "Villainous"
+year: 2018
+
+# Relationships
+game_family: disney-villainous
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Variable Player Powers
+  - Asymmetric
+  - Family
+  - Fantasy
+  - Disney
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Unique
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Prospero Hall
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 60
+min_playtime: 40
+max_playtime: 80
+min_age: 10
+
+description: |
+  Disney Villainous is a competitive asymmetric strategy game for 2–6 players in which each player takes the role of a classic Disney villain—including Captain Hook, Maleficent, Jafar, Ursula, the Queen of Hearts, and Prince John—each with a unique game board and win condition. On their turn, players move their villain to a location and take available actions such as gaining power, playing cards, or defeating heroes. Crucially, players can play Fate cards from opponents' decks, sending heroes and obstacles to thwart their plans. The 2019 TOTY Game of the Year Award winner, it launched a prolific line of expansions and standalone games.
+
+upgrades: []

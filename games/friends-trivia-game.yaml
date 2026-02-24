@@ -1,0 +1,51 @@
+id: friends-trivia-game
+name: "Friends Trivia Game"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Connection
+  - Lucky
+  - Discovery
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - unknown
+publisher:
+  - Cardinal
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Friends Trivia Game is a licensed trivia board game published by Cardinal in 2002, based on the massively popular NBC sitcom Friends. Players roll a die, move around a board themed around the show's locations, and answer questions about the lives and adventures of Joey, Chandler, Monica, Rachel, Phoebe, and Ross from the show's 10 seasons. The game includes 200 trivia cards with 1,000 questions. Players must correctly answer questions on apartment spaces a set number of times before racing to Central Perk for a final winning question. Several editions and tin versions of the game have been released over the years.
+
+upgrades: []

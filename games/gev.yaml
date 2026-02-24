@@ -1,0 +1,55 @@
+id: gev
+name: "G.E.V."
+alternate_names:
+  - "Ogre/G.E.V."
+year: 1978
+
+# Relationships
+game_family: ogre
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - ogre
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Steve Jackson
+publisher:
+  - Metagaming Concepts
+  - Steve Jackson Games
+artist:
+  - Denis Loubet
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  G.E.V. is a two-player tactical ground combat wargame set in the late 21st century and a direct sequel to Ogre, designed by Steve Jackson. The game expands the Ogre universe by introducing Ground Effect Vehicles (fast-moving hovercraft), Mark IV Ogres, and new stacking and terrain rules, alongside updated scenarios including Raid, Breakthrough, and The Train. Wholly compatible with Ogre, the two games were later combined into the Ogre/G.E.V. boxed edition. G.E.V. occupies an important place in wargame history as a polished expansion of one of the genre's landmark titles.
+
+upgrades: []

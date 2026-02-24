@@ -1,0 +1,50 @@
+id: herakles
+name: "Herakles"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Card Drafting
+  - Mythology
+  - Filler
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 10
+
+description: |
+  Herakles is a microgame in which players receive two cards each round handed to them by their neighbors and must play one of them. Players try to place heroic deed cards in their play area, but if a player places a third heroic deed, the gods deem them too heroic and they are eliminated from the game. The tension lies in managing what you take and what you pass, navigating the constraint of exactly two deeds allowed in your area. Specific publisher and release year details could not be confirmed from available sources.
+
+upgrades: []

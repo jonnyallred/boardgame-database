@@ -1,0 +1,50 @@
+id: gespensterburg
+name: "Gespensterburg"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Horror
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Unknown
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Gespensterburg is a children's haunted castle board game in which players answer trivia questions, complete rhymes, and recite tongue twisters based on classic horror stories and films as they race through a ghostly castle. The first player to reach the Black Raven wins the game. With its lighthearted horror theme and activity-based challenges, it offers a fun and educational experience for young players interested in spooky stories and games.
+
+upgrades: []

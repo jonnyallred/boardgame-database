@@ -1,0 +1,56 @@
+id: hanamikoji
+name: "Hanamikoji"
+alternate_names:
+  - "Geisha's Road"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Simultaneous Action
+  - Euro
+  - Abstract
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kota Nakayama
+publisher:
+  - EmperorS4
+artist:
+  - Maisherly
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 10
+
+description: |
+  Hanamikoji is a tense two-player card game set in the geisha districts of Kyoto, where players compete to earn the favor of seven geisha masters by collecting the performance items each excels in. Each player has only four actions available — secretly set aside cards, discard cards face-down, offer the opponent a choice, and split cards for the opponent to choose — creating a puzzle of constrained decisions where every move gifts information or opportunity to the rival. The elegance lies in using four simple action types to generate profound tactical depth, making it a celebrated example of minimalist Euro design that rewards repeated play.
+
+upgrades: []

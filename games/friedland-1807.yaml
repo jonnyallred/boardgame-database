@@ -1,0 +1,52 @@
+id: friedland-1807
+name: "Friedland 1807"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jon Baxley
+publisher:
+  - Imperial Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Friedland 1807 is a beginner-level board wargame designed by Jon Baxley and published by Imperial Games in 1974, simulating Napoleon's pivotal victory over the Russian army at the Battle of Friedland. Based on the introductory Napoleonic wargame system established by SPI's Napoleon at Waterloo, the game features only 120 counters and a small hex grid map, making it accessible to new wargamers. One player commands the French forces, the other the Russians. Despite its simplicity, the game placed 80th out of 202 games in a 1976 SPI poll of popular North American wargames.
+
+upgrades: []

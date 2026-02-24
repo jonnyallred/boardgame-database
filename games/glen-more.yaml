@@ -1,0 +1,55 @@
+id: glen-more
+name: "Glen More"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Euro
+  - Tile Placement
+  - Rondel
+  - Resource Management
+  - Economic
+  - Variable Player Powers
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Matthias Cramer
+publisher:
+  - Ravensburger
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Glen More is a tile-placement and rondel game designed by Matthias Cramer and published in 2010, set in 17th-century Scotland where players lead clans expanding their territory and wealth. Tiles are selected from a circular track where picking a tile determines both the actions you gain from adjacent tiles in your territory and the timing of your next turn—players with fewer tiles get more turns, creating a natural catch-up mechanism. Players develop pastures for cattle, grow grain for whisky production, trade at markets, and invest in lochs and castles. The elegant turn-order mechanic and tight resource decisions make it a beloved medium-weight Euro.
+
+upgrades: []

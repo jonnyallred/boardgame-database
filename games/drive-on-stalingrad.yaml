@@ -1,0 +1,52 @@
+id: drive-on-stalingrad
+name: "Drive on Stalingrad: Battle for Southern Russia Game"
+alternate_names:
+  - Drive on Stalingrad
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Simulations Publications Inc.
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 600
+min_age: 14
+
+description: |
+  Drive on Stalingrad: Battle for Southern Russia Game is a 1977 two-player hex-and-counter wargame from Simulations Publications, Inc. (SPI) that simulates Germany's 1942 summer campaign on the Eastern Front, including the push toward Stalingrad. Rules are built upon the foundation established in SPI's Panzergruppe Guderian, with additional mechanics for rail movement, Soviet strategic movement, supply trucks, untried units, air supply, and tactical air units. A standout feature is the "Hitler Directive" mechanic — at the start of every turn, the German player draws a random directive that may radically alter their entire operational strategy. The game was later re-released by TSR in a box edition with updated artwork.
+
+upgrades: []

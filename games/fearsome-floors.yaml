@@ -1,0 +1,58 @@
+id: fearsome-floors
+name: "Fearsome Floors"
+alternate_names:
+  - "Finstere Flure"
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Programmed Movement
+  - Puzzle Solving
+  - Family
+  - Humor
+  - Fantasy
+  - Friedemann Friese
+
+evokes:
+  - Tension
+  - Humor
+  - Dread
+  - Clever
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer:
+  - Friedemann Friese
+publisher:
+  - Rio Grande Games
+  - 2F-Spiele
+artist:
+  - Maura Kalusky
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 8
+
+description: |
+  Fearsome Floors is a race game for 2-7 players in which adventurers must escape a dungeon while being hunted by a terrifying monster named Furunkulus. Each round, players move their characters using action points, but Furunkulus follows strict, deterministic movement rules that players must learn to predict and exploit. The game's brilliance lies in Furunkulus's AI: his behavior is logical enough to anticipate but chaotic enough to constantly surprise, forcing players to use rivals as decoys while planning their own escape route. Friedemann Friese's characteristic humor and alliterative naming runs throughout, making this an accessible yet engaging semi-cooperative race.
+
+upgrades: []

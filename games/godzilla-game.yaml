@@ -1,0 +1,51 @@
+id: godzilla-game
+name: "Godzilla Game"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Press Your Luck
+  - Sci-Fi
+  - Dexterity
+
+evokes:
+  - Dread
+  - Lucky
+  - Tension
+  - Humor
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Mattel
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  The Godzilla Game is a children's board game manufactured by Mattel in 1978 as a licensed product from Toho's Godzilla franchise. Players attach their miniature spaceships to a rotating platform and take turns spinning a numbered wheel, moving the platform based on the result; occasionally the spin releases a spring-loaded Godzilla figure that reaches out and "eats" one of the ships. Each player controls six spaceships designed after the P-1 spacecraft from Invasion of the Astro-Monster (1965), and the last player with any ship surviving wins. Its novel spring-loaded action piece and kaiju theme made it a beloved novelty toy of the late 1970s.
+
+upgrades: []

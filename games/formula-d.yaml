@@ -1,0 +1,56 @@
+id: formula-d
+name: "Formula D"
+alternate_names:
+  - "Formula Dé"
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Action Points
+  - Modular Board
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Lucky
+  - Rivalry
+  - Powerful
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [4, 5, 6]
+
+designer:
+  - Eric Randall
+  - Laurent Lavaur
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Formula D (originally Formula Dé) is a Formula 1 racing board game designed by Eric Randall and Laurent Lavaur, originally published by Ludodélire in 1991 and now published by Asmodee. Players manage a race car's gear selection each turn, rolling the corresponding specialized die to determine movement — a higher gear means more speed but a wider movement range, making exact positioning through corners critical. Overshooting a corner causes damage to car systems tracked on personal dashboards, and any system damaged too far eliminates that car from the race. The game accommodates up to 10 players on its large dual-sided track board and captures the tension of gear management and positional racing in an accessible package.
+
+upgrades: []

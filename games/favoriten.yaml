@@ -1,0 +1,53 @@
+id: favoriten
+name: "Favoriten"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Press Your Luck
+  - Dice Rolling
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Lucky
+  - Rivalry
+  - Clever
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Gunter Cornett
+publisher:
+  - Walter Müller's Spielewerkstatt
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 60
+min_age: 9
+
+description: |
+  Favoriten is a horse racing and betting game nominated for the Spiel des Jahres 1990 and winner of the Deutscher Spielepreis 1990. Players do not own horses but instead each hold three betting chips, and they take turns rolling a die to advance one of five horses along the track. The key decision each turn is when to place a bet on a horse before rolling, as the payout system rewards the first player to back the winning horse. The tension between wanting information before betting and claiming the best odds before rivals creates an engaging push-and-pull that plays quickly and accessibly.
+
+upgrades: []

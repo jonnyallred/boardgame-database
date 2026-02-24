@@ -1,0 +1,52 @@
+id: herd-mentality
+name: "Herd Mentality"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Social Deduction
+  - Family
+  - No Math
+
+evokes:
+  - Humor
+  - Connection
+  - Lucky
+  - Tension
+  - Persuasion
+
+possible_counts: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+true_counts: [6, 7, 8]
+
+designer:
+  - Dan Penn
+publisher:
+  - Big Potato Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Herd Mentality is a party game from Big Potato Games where the goal is simple: think like the herd. Players are asked a question and must write down the same answer as everyone else — popular answers earn cow tokens, but whoever gives the unique odd-one-out answer gets stuck with the angry Pink Cow, making all their accumulated cows worthless until they can offload it. The first player to collect eight cows wins. Its accessibility, large player count support (up to 20), and laugh-generating disagreements make it a natural hit for family gatherings and game nights.
+
+upgrades: []

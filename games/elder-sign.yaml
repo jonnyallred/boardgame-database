@@ -1,0 +1,55 @@
+id: elder-sign
+name: "Elder Sign"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: arkham-horror
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Hand Management
+  - Horror
+  - Cthulhu
+  - Fantasy Flight Games
+
+evokes:
+  - Dread
+  - Tension
+  - Connection
+  - Lucky
+  - Discovery
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [2, 3, 4]
+
+designer:
+  - Richard Launius
+  - Kevin Wilson
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Elder Sign is a fast-paced cooperative dice game of supernatural intrigue designed by Richard Launius and Kevin Wilson (the creators of Arkham Horror) and published by Fantasy Flight Games in 2011. Players take the roles of investigators racing against time inside a haunted museum to find Elder Signs — mystical symbols that can seal away an awakening Ancient One from the Cthulhu Mythos. Each turn investigators choose adventures (cards) to attempt, rolling custom dice against requirements while managing limited tools, spells, and allies. Elder Sign distills the Arkham Horror experience into a 1-2 hour session, making the Lovecraftian universe accessible to a broader audience without sacrificing thematic atmosphere.
+
+upgrades: []

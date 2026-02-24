@@ -1,0 +1,54 @@
+id: flashback-zombie-kidz
+name: "Flashback: Zombie Kidz"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: zombie-kidz
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Mystery
+  - Family
+  - Zombies
+
+evokes:
+  - Mystery
+  - Discovery
+  - Connection
+  - Tension
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Baptiste Derrez
+  - Marc-Antoine Doyon
+publisher:
+  - Scorpion Masque
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Flashback: Zombie Kidz is a cooperative investigation game set in the Zombie Kidz universe, designed for younger players. Unlike Zombie Kidz: Evolution, which features legacy-style tower defense gameplay, Flashback uses a memory-mystery format where players look for clues and reveal cards together to solve mysteries. There are no turns or rounds — everyone collaborates simultaneously to examine cards and deduce solutions. The game is accessible enough that players can jump in with minimal rules explanation, making it an ideal entry point for introducing children to cooperative deduction games.
+
+upgrades: []

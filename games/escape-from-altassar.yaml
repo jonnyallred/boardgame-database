@@ -1,0 +1,52 @@
+id: escape-from-altassar
+name: "Escape from Altassar"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Hex Map
+  - Area Control
+  - Historical
+
+evokes:
+  - Tension
+  - Dread
+  - Rivalry
+  - Agency
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Task Force Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Escape from Altassar is a 1982 science fiction wargame published by Task Force Games as part of their Pocket Games series. Set in a distant future, the game simulates an attempted escape by human prisoners from an alien penal colony on the planet Altassar, with one player controlling the escaping prisoners and the other managing the alien Spikus pursuers. It uses a compact hex-based system typical of Task Force Games' small-format wargames. The title was part of a short-lived product line that was discontinued in 1983 when the Pocket Games series proved unprofitable.
+
+upgrades: []

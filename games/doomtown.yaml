@@ -1,0 +1,53 @@
+id: doomtown
+name: "Doomtown"
+alternate_names:
+  - "Deadlands: Doomtown"
+  - "Doomtown: Reloaded"
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Area Control
+  - Western
+  - Cult Classic
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Agency
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Wizards of the Coast
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Doomtown (originally Deadlands: Doomtown) is an expandable collectible card game set in the Weird West of Pinnacle Entertainment's Deadlands roleplaying game universe. Players construct decks representing factions competing for control of the cursed boomtown of Gomorra, using card abilities representing shootouts, hexes, and political machinations. Originally published by Wizards of the Coast in 1998, the license transferred to Alderac Entertainment Group in 2000. The game won the 1998 Origins Awards for Best Trading Card Game and Best Graphic Presentation, and was relaunched as Doomtown: Reloaded in 2014 by AEG before Pine Box Entertainment assumed stewardship in 2017.
+
+upgrades: []

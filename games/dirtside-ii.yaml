@@ -1,0 +1,50 @@
+id: dirtside-ii
+name: "Dirtside II"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Hex Map
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Jon Tuffley
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Dirtside II is a comprehensive science fiction miniatures wargame designed by Jon Tuffley and published by Ground Zero Games in 1993, designed for use with 1:300/1:285 scale miniatures. The rules simulate combined-arms science fiction battles from platoon up to battalion level, covering infantry, armored fighting vehicles, artillery, aerospace support, landing operations, and combat walkers. The system is deliberately generic, allowing it to be applied to virtually any science fiction setting or "future history," making it a flexible toolkit for miniature enthusiasts who want to stage large-scale ground combat.
+
+upgrades: []

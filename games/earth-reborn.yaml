@@ -1,0 +1,55 @@
+id: earth-reborn
+name: "Earth Reborn"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Variable Player Powers
+  - Asymmetric
+  - Action Points
+  - Campaign Mode
+  - Sci-Fi
+  - Post-Apocalyptic
+
+evokes:
+  - Powerful
+  - Discovery
+  - Masterful
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Christophe Boelinger
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 13
+
+description: |
+  Earth Reborn is a tactical miniatures board game designed by Christophe Boelinger and published by Z-Man Games in 2010. Set 500 years after a global cataclysm, two factions — NORAD (undead) and Salemites (living humans) — compete across nine escalating scenarios of rescue, retrieval, and escort missions through ruined labs, mansions, and towns. The game features a unique tutorial-style campaign where each scenario introduces new rules, and a customizable Order Programming System that allows unprecedented tactical depth. Earth Reborn is praised for its innovative mechanics and high production quality, though its complexity and lengthy playtime make it a dedicated gamer's title.
+
+upgrades: []

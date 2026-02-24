@@ -1,0 +1,49 @@
+id: fire-and-ice
+name: "Fire and Ice"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jens-Peter Schliemann
+publisher:
+  - Pin International
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Fire and Ice is a two-player abstract strategy game played on a board composed of seven small triangles arranged in one large triangle, each with seven peg holes. Players take turns moving one of their pegs: either one space along a line in its current small triangle, or to the same position on any other small triangle. After moving, the opponent places a peg in the vacated space. The game creates unusual spatial puzzles as both players compete for control of the three connecting triangles. It earned a Mensa Select recognition for its elegant simplicity and strategic depth.
+
+upgrades: []

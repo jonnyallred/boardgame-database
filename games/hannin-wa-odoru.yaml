@@ -1,0 +1,56 @@
+id: hannin-wa-odoru
+name: "Hannin Wa Odoru"
+alternate_names:
+  - "The Criminal Dances"
+  - "Criminal Dance"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Bluffing
+  - Hand Management
+  - Take That
+  - Party
+  - Filler
+
+evokes:
+  - Humor
+  - Mystery
+  - Tension
+  - Lucky
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Pesu Nabeno
+publisher:
+  - Nabeno Kikaku
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Hannin Wa Odoru (The Criminal Dances) is a Japanese bluffing and deduction card game for 3-8 players in which one player secretly holds the "Criminal" card and tries to avoid detection while the others try to identify and catch them. Players each hold four cards and play them one by one; the Criminal wins by playing their card without being caught, while other players win by catching the Criminal through card play and deduction. The game's fast, chaotic energy and simple hand management make it a popular filler and party game across Japan and internationally.
+
+upgrades: []

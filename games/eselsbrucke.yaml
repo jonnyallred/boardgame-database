@@ -1,0 +1,54 @@
+id: eselsbrucke
+name: "Eselsbrücke"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Word Play
+  - Narrative Heavy
+  - Creative
+
+evokes:
+  - Humor
+  - Clever
+  - Connection
+  - Creative
+  - Lucky
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+true_counts: [5, 6, 7, 8]
+
+designer:
+  - Stefan Dorra
+  - Ralf zur Linde
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Eselsbrücke (German for "mnemonic" or literally "donkey's bridge") is a 2011 party game designed by Stefan Dorra and Ralf zur Linde, published by Schmidt Spiele, and nominated for the 2012 Spiel des Jahres. Players draw random symbol and object cards and must construct memorable stories or mnemonics linking those symbols in a specific order so that other players can recall the sequence afterward. The sillier and more creative the story, the better the other players remember it. A second edition simplified the rules for shorter play. The game rewards storytelling creativity and lateral thinking in a light, social format that works well for large groups.
+
+upgrades: []

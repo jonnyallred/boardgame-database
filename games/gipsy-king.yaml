@@ -1,0 +1,53 @@
+id: gipsy-king
+name: "Gipsy King"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+  - Tile Placement
+  - Modular Board
+  - Network Building
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Progress
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Corné van Moorsel
+publisher:
+  - Cwali
+artist: []
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 40
+min_age: 8
+
+description: |
+  Gipsy King is an abstract area-control and network-building game for 2–5 players designed by Corné van Moorsel and published by Cwali in 2007. Players build caravan routes across a modular board of free lands near lakes, vying to claim the most lucrative and popular spots for their Gipsy families. Scoring rewards controlling lakes with gold coins and maintaining connected caravan groups over two rounds of play. The player who amasses the most points across both rounds is crowned the Gipsy King.
+
+upgrades: []

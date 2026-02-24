@@ -1,0 +1,53 @@
+id: headache
+name: "Headache"
+alternate_names:
+  - "Pop-O-Matic Headache"
+year: 1968
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Take That
+  - Family
+  - No Math
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer: []
+publisher:
+  - Kohner Bros.
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Headache is a classic family race-and-capture game first released by Kohner in 1968, featuring the iconic Pop-O-Matic bubble in the center of a circular board containing two dice — one standard and one with a special red-dot side granting a bonus turn. Players move cone-shaped pieces around the board and can stack their cones on top of opponents' cones to capture them, with unlimited stacking depth creating cascading takeovers. The game's distinctive mechanics and satisfying bubble-popping dice mechanic have made it an enduring part of family gaming culture, with editions published by multiple companies over the decades.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: flight-of-the-goeben
+name: "Flight of the Goeben"
+alternate_names:
+  - "The Flight of the Goeben: World War I Naval Operations in the Mediterranean"
+year: 1970
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hidden Movement
+  - Hex Map
+  - Wargame
+  - Historical
+  - Maritime
+  - War
+
+evokes:
+  - Tension
+  - Mystery
+  - Rivalry
+  - Masterful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dave Williams
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Flight of the Goeben is a two-player naval wargame simulating the dramatic escape of the German battlecruiser SMS Goeben and light cruiser SMS Breslau through the Mediterranean at the outbreak of World War I in August 1914. One player commands the German ships attempting to evade the British and French fleets, while the other commands the pursuing Allies trying to intercept them. The game uses a hidden movement mechanic on a hex map of the Mediterranean — each player has their own copy of the board — creating a tense cat-and-mouse hunt. Originally published as one of the first pull-out wargames in Strategy & Tactics magazine (Issue 21, 1970), it is a notable early example of hidden-movement wargame design.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: federation-space
+name: "Federation Space"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Area Control
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Powerful
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [2, 3, 4]
+
+designer:
+  - Stephen Wilcox
+publisher:
+  - Task Force Games
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 480
+min_age: 12
+
+description: |
+  Federation Space is a strategic fleet action board game set in the Star Fleet Universe, designed as a companion to the more tactical Star Fleet Battles system. Players each control an entire fleet of starships for one of eight interstellar races, with the goal of destroying rival fleets across 26 included scenarios covering everything from Klingon rebellions to full-scale galactic wars. Combat uses a simple two-step damage reduction system where ships are either normal or damaged, making the game faster than its tactical counterpart while still rewarding strategic maneuvering and force management.
+
+upgrades: []

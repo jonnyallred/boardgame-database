@@ -1,0 +1,49 @@
+id: colorito
+name: "Colorito"
+alternate_names:
+  - "The New Game of Colorito"
+year: 1892
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Progress
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Hayford & Sons
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Colorito is a Victorian-era abstract strategy game first published in London in 1892, played on a 10×10 grid of octagons. Each player has 20 numbered pieces in two colors arranged on the first two rows of their side; pieces may step one space or jump over another piece, landing on a same-colored space, or perform a step-then-jump in a single turn. The goal is to maneuver all pieces to the opposite side, placing each on its corresponding numbered octagon. The game's key innovation — numbered pieces combined with a two-color-per-player system — makes it a historically significant entry in the race/abstract genre, and it has been revived in modern print-and-play and boutique editions.
+
+upgrades: []

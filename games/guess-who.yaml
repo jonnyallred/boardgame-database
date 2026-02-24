@@ -1,0 +1,54 @@
+id: guess-who
+name: "Guess Who?"
+alternate_names:
+  - "Wie is het?"
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Family
+  - Gateway
+  - No Math
+
+evokes:
+  - Mystery
+  - Tension
+  - Rivalry
+  - Clever
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Ora Coster
+  - Theo Coster
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Guess Who? is a two-player deduction game where each player draws a mystery face card and must identify their opponent's character before their own is revealed. Players take turns asking yes/no questions about physical attributes — hair color, glasses, hats, facial hair — and eliminate possibilities by folding down faces on their board. The game distills the parlor tradition of 20 Questions into a physical, tactile format accessible to young children, and has been a perennial family classic since its 1979 Milton Bradley release.
+
+upgrades: []

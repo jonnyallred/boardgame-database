@@ -1,0 +1,48 @@
+id: codename-kids-next-door-trading-card-game
+name: "Codename: Kids Next Door Trading Card Game"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Connection
+  - Humor
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Codename: Kids Next Door Trading Card Game is a licensed collectible card game based on the Cartoon Network animated series, published by Wizards of the Coast in 2005. Players build decks around the five KND agents, each on differently colored cards, and on their turn choose to either flip a card from their deck in a face-off (comparing battle numbers) or place it in their KND treehouse headquarters. The player who first accumulates five cards in their WINS area is victorious. Designed as a gentle entry point for young children into the TCG format, it features simplified mechanics suitable for ages six and up.
+
+upgrades: []

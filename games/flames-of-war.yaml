@@ -1,0 +1,54 @@
+id: flames-of-war
+name: "Flames of War"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Asymmetric
+  - Variable Player Powers
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Masterful
+  - Tension
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Phil Yates
+publisher:
+  - Battlefront Miniatures
+artist: []
+playtime_minutes: 180
+min_playtime: 90
+max_playtime: 360
+min_age: 14
+
+description: |
+  Flames of War is a World War II tabletop miniatures wargame produced by New Zealand's Battlefront Miniatures, first published in 2002. Players command company-level forces using 15mm (1/100 scale) miniatures representing infantry, armor, artillery, and support units from any of the major combatant nations across Early War (1939-41), Mid War (1942-43), and Late War (1944-45) periods. The game uses an alternating I-Go-You-Go sequence of movement, shooting, and close assault, and is backed by extensive army lists and historically-inspired scenarios. It is one of the most popular WWII miniatures systems in the world, known for its depth of historical detail and wide range of supported forces.
+
+upgrades: []

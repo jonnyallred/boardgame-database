@@ -1,0 +1,53 @@
+id: eurobusiness
+name: "Eurobusiness"
+alternate_names:
+  - "Eurobiznes"
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Negotiation
+  - Trading
+  - Roll & Write
+  - Family
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Lucky
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Labo Market
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 8
+
+description: |
+  Eurobusiness (known in Poland as Eurobiznes) is a Polish variant of Monopoly published in 1983 by Labo Market that localizes the classic real estate trading game with Polish cities and culturally relevant surprise card scenarios. Players buy properties, build cottages and hotels, collect rent from opponents, and aim to bankrupt all rivals. Debuting on the Polish market in 1983, it became one of the most iconic board games in Poland, achieving cult status over four decades of continuous popularity. The game is nearly identical in rules to Monopoly but features Polish place names and economic scenarios that resonate with local players.
+
+upgrades: []

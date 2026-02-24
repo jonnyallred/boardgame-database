@@ -1,0 +1,57 @@
+id: firefly-the-game
+name: "Firefly: The Game"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Card Drafting
+  - Dice Rolling
+  - Variable Player Powers
+  - Action Points
+  - Sci-Fi
+  - Ameritrash
+
+evokes:
+  - Discovery
+  - Agency
+  - Humor
+  - Progress
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Aaron Dill
+  - John Kovaleski
+  - Sean Sweigart
+publisher:
+  - Gale Force Nine
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 13
+
+description: |
+  Firefly: The Game is a licensed board game based on Joss Whedon's beloved TV series, published by Gale Force Nine in 2013. Players captain their own Firefly-class transport ship across a map of the 'Verse, hiring crew members, loading cargo, and taking on jobs — legal or otherwise — to earn enough to keep flying. The game faithfully captures the show's "space western" atmosphere with card drafting, open trading, and a rich narrative mission structure. Fans of the series will recognize iconic characters and locations, while the open-ended sandbox gameplay rewards creative route-planning and risk management.
+
+upgrades: []

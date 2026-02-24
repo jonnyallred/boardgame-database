@@ -1,0 +1,53 @@
+id: gother-than-thou
+name: "Gother Than Thou"
+alternate_names:
+  - "Gother Than Thou: The Most Pretentious Card Game Ever Made"
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Hand Management
+  - Filler
+  - Humor
+
+evokes:
+  - Humor
+  - Rivalry
+  - Unique
+  - Tension
+  - Lucky
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - R. Hunter Gough
+publisher:
+  - Savant Garde Entertainment
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 14
+
+description: |
+  Gother Than Thou: The Most Pretentious Card Game Ever Made is a 55-card game of backstabbing and one-upmanship within the gothic subculture, designed by R. Hunter Gough and published by Savant Garde Entertainment in 2000. Players accumulate Goth Points through cards representing cloves, absinthe, eyeliner, and boots, while combating opponents' cards for Sickness, Debt, and the dreaded Visit from Mom. Its sharp satirical wit earned it a spot on the 2001 Games 100 list and a nomination for the 2002 Origins Award for Best Graphic Presentation of a Card Game. A beloved niche party game for goths and those who love to laugh at them.
+
+upgrades: []

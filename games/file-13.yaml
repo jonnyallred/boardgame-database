@@ -1,0 +1,51 @@
+id: file-13
+name: "File 13"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Family
+  - Humor
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Tom Wham
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  File 13 is a 1983 humor-themed board game designed by Tom Wham and published by TSR (originally appearing in Dragon Magazine #72). Players take on the roles of competing game publishers, each attempting to develop and market "hot item" games before their rivals can. "File 13" is a humorous euphemism for the trash can, which figures into the game's theme. The roll-and-move mechanics keep the game accessible and quick, making it a lighthearted novelty within TSR's catalog. It was later reprinted in the "Best of the Dragon Magazine Games" boxed set.
+
+upgrades: []

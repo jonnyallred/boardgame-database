@@ -1,0 +1,54 @@
+id: fabulantica
+name: "Fabulantica"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Fantasy
+  - Set Collection
+  - Racing
+  - Pattern Building
+
+evokes:
+  - Discovery
+  - Wonder
+  - Lucky
+  - Connection
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Marco Teubner
+publisher:
+  - Matagot
+  - Pegasus Spiele
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 35
+min_age: 6
+
+description: |
+  Fabulantica is a 2020 fairy-tale memory and movement game designed by Marco Teubner and published by Matagot, nominated for the 2019 Kinderspiel des Jahres (Children's Game of the Year). A magical spell has scattered the residents of Fabulantica across the land, taking refuge in towers, and players must find and reunite specific pairs of inhabitants. Each turn players play travel cards corresponding to different path types to move across the modular board, or use a Magic Carpet to teleport anywhere they choose. With three open mission cards to track simultaneously, the game rewards both memory and planning in an accessible package designed for ages 6 and up.
+
+upgrades: []

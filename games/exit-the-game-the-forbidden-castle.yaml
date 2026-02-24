@@ -1,0 +1,55 @@
+id: exit-the-game-the-forbidden-castle
+name: "Exit: The Game – The Forbidden Castle"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: exit-the-game
+edition: null
+base_game: exit-the-game
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light cooperative
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Deduction
+  - Party
+  - Family
+  - Fantasy
+
+evokes:
+  - Mystery
+  - Clever
+  - Tension
+  - Connection
+  - Discovery
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Exit: The Game – The Forbidden Castle is a 2017 entry in the EXIT: The Game series designed by Inka and Markus Brand and published by KOSMOS. Players find themselves transported to a magical, forbidden castle from which they must escape by solving a series of fantasy-themed riddles and puzzles using the series' signature card-and-dial system. The medieval castle setting adds a fantastical dimension to the familiar escape room formula, with puzzles themed around castle architecture, secret passages, and mysterious artifacts. Components may require folding or cutting as part of the solution, making each copy a single-use experience.
+
+upgrades: []

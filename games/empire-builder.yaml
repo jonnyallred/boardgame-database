@@ -1,0 +1,54 @@
+id: empire-builder
+name: "Empire Builder"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: empire-builder-rail-games
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Network Building
+  - Route Building
+  - Economic
+  - Wargame
+  - Trains
+
+evokes:
+  - Progress
+  - Agency
+  - Rivalry
+  - Clever
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Bill Fawcett
+  - Darwin Bromley
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 12
+
+description: |
+  Empire Builder is a railroad building board game designed by Bill Fawcett and Darwin Bromley, published by Mayfair Games in 1982. Players use wax crayons to draw railroad track directly on the reusable laminated board — earning it and its relatives the nickname "crayon rail games" — then transport goods between cities to earn money and ultimately build a transcontinental network. The game spawned an extensive series of spin-offs covering other geographies and fantasy settings (British Rails, Eurorails, Australian Rails, Iron Dragon, Martian Rails, etc.). Empire Builder is notable for its freeform track-laying mechanic, which gives players genuine creative freedom in designing their rail networks.
+
+upgrades: []

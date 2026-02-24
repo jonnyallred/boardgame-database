@@ -1,0 +1,55 @@
+id: drang-nach-osten
+name: "Drang Nach Osten!"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: europa
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Frank Chadwick
+  - Paul R. Banner
+publisher:
+  - Game Designers Workshop
+artist:
+  - Don Lowry
+playtime_minutes: 1200
+min_playtime: 600
+max_playtime: 2400
+min_age: 16
+
+description: |
+  Drang Nach Osten! ("Drive to the East!") is a 1973 monster wargame from Game Designers' Workshop, designed by Frank Chadwick and Paul R. Banner, that simulates Operation Barbarossa — the German invasion of the Soviet Union — from June 1941 through the Soviet winter counteroffensive of March 1942. With over 1,000 counters and a massive hex-grid mapboard, it was the first entry in the Europa series, a planned grand simulation of the entire Second World War in Europe using unified rules and map scale. The companion game Unentschieden extends the campaign through May 1945. In a 1976 Simulations Publications poll of 202 games, the DNO/Unentschieden combination was voted the most popular wargame in North America.
+
+upgrades: []

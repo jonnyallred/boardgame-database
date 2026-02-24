@@ -1,0 +1,57 @@
+id: eurofront
+name: "EuroFront"
+alternate_names:
+  - "EuroFront: War in Europe, 1939-45"
+  - "EuroFront: The War in Europe, 1936-45"
+year: 1995
+
+# Relationships
+game_family: eurofront
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Hex Map
+  - Historical
+  - War
+  - Modular Board
+  - Resource Management
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Powerful
+  - Rival
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Besinque
+publisher:
+  - Columbia Games
+artist: []
+playtime_minutes: 480
+min_playtime: 360
+max_playtime: 720
+min_age: 14
+
+description: |
+  EuroFront is a grand strategic block wargame published by Columbia Games in 1995 that allows the companion games EastFront, WestFront, and MedFront to be combined into a single massive campaign simulating the entire European Theatre of World War II from 1939 to 1945. Using Columbia's distinctive wooden block system for unit counters, the game spans six annual scenarios and requires approximately 4 x 6 feet of table space to accommodate the combined maps. In addition to military operations, EuroFront incorporates diplomatic mechanics governing potential entry of neutral nations and a supply-production system requiring players to manage reinforcements across multiple theatres simultaneously. Designer Besinque revised all four games in 2006 for a comprehensive Second Edition release.
+
+upgrades: []

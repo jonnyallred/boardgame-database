@@ -1,0 +1,53 @@
+id: domain
+name: "Domain"
+alternate_names:
+  - "Boomerang"
+  - "Chameleon"
+  - "Kiss"
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Abstract
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Domain is a tile-placement abstract strategy game first published across Europe in 1982 under various names—Boomerang (France), Chameleon (UK), Kiss (Italy)—before Parker Brothers released it in North America in 1983 under the name Domain. Players alternate placing multicolored polyomino tiles (labeled 2–5 for their square counts) on a 9×9 grid, flipping any adjacent opponent tiles to their own color upon placement, similar in spirit to Othello. The player whose color covers the most squares at game end wins. It is a straightforward yet strategically rich territory-capture game for 2–4 players.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: frederick-the-great
+name: "Frederick the Great"
+alternate_names:
+  - "Frederick the Great: The Campaigns of The Soldier King 1756-1759"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Frank Davis
+  - Edward Curran
+publisher:
+  - SPI
+  - Avalon Hill
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Frederick the Great: The Campaigns of The Soldier King 1756–1759 is a board wargame designed by Frank Davis and Edward Curran, originally published by SPI in 1975 (first as a Strategy & Tactics #49 pull-out game, then as a standalone flatpack). The game simulates Frederick the Great's campaigns during the Seven Years' War in Central Europe, covering multiple engagements against the coalition of Austria, France, and Russia. When SPI encountered financial difficulties in 1981, Avalon Hill acquired the title and released a second edition in 1982. The game is a classic hex-and-counter wargame with Redmond A. Simonsen's distinctive graphic design.
+
+upgrades: []

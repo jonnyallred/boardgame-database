@@ -1,0 +1,53 @@
+id: combined-arms
+name: "Combined Arms"
+alternate_names:
+  - "Combined Arms: The World War II Campaign Game"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Campaign Mode
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Masterful
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Combined Arms is a strategic WWII campaign board game published by Warlord Games that functions both as a standalone game and as a campaign layer linking multiple miniature wargames including Bolt Action, Blood Red Skies, Cruel Seas, and Victory at Sea. Players command armies across a continent-spanning theater, making high-level strategic decisions that feed into individual tabletop battles. The game captures combined-arms doctrine — coordinating infantry, armor, naval, and air assets — at the grand strategic level, rewarding players who allocate resources across multiple fronts.
+
+upgrades: []

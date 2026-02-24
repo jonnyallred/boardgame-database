@@ -1,0 +1,49 @@
+id: fields-of-action
+name: "Fields of Action"
+alternate_names: []
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Sid Sackson
+publisher:
+  - Games Magazine
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Fields of Action is an abstract strategy game designed by Sid Sackson, originally appearing in his influential 1969 book A Gamut of Games and later published in Games Magazine (1989). The game is inspired by Lines of Action and uses similar movement rules: a piece can move in one direction a number of squares equal to the number of pieces adjacent to it, landing only in empty squares. The objective is to capture five opposing pieces in numerical sequence, requiring careful positional play and spatial awareness. It can be played with a standard checkerboard and chess pieces, making it immediately accessible.
+
+upgrades: []

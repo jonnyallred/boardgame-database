@@ -1,0 +1,54 @@
+id: goblins-drool-fairies-rule
+name: "Goblins Drool, Fairies Rule!"
+alternate_names:
+  - "Goblins Drool Fairies Rule"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Hand Management
+  - Set Collection
+  - Fantasy
+
+evokes:
+  - Humor
+  - Clever
+  - Rivalry
+  - Lucky
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - David Luis Sanhueza
+publisher:
+  - Game Salute
+artist:
+  - Mike Maihack
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Goblins Drool, Fairies Rule! is a rhyming card game for 1–4 players designed by David Luis Sanhueza and illustrated by Mike Maihack, published by Game Salute in 2013. Players collect matching sets of eight fantastical creatures while trying to avoid the Goblin, using colorful illustrated cards and simple hand-management rules accessible to young children. The game's unique feature is that every card name rhymes with another—balancing the Goblin against Fairy cards through whimsical verse. Its charming art and lightweight rules make it equally appealing to preschoolers and adults seeking a breezy filler.
+
+upgrades: []

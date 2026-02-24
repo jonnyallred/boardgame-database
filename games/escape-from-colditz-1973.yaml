@@ -1,0 +1,57 @@
+id: escape-from-colditz-1973
+name: "Escape from Colditz"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: escape-from-colditz
+edition: "1973"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Asymmetric
+  - 1 vs Many
+  - Historical
+  - Wargame
+  - Modular Board
+  - Hand Management
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Dread
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Pat Reid
+  - Major P.R. Reid
+publisher:
+  - Gibsons Games
+  - Parker Brothers
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Escape from Colditz is a classic board game first published in 1973 by Gibsons Games of London, co-designed by Pat Reid, a British officer who actually escaped from Colditz Castle (Oflag IV-C) during World War II. One player takes the role of the German security officer while the remaining players represent Allied POWs of different nationalities — British, French, Dutch, and Polish — each attempting to gather equipment cards and make a successful escape from the castle. Released to coincide with the popular BBC television series of the same name, the game became a best-seller in the UK and proved especially popular in Spain. A new edition with updated artwork and rules was released by Osprey Games in 2016.
+
+upgrades: []

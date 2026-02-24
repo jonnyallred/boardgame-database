@@ -1,0 +1,48 @@
+id: hawalis
+name: "Hawalis"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Hawalis is an abstract strategy game with limited available documentation in English-language sources; specific designer, publisher, year, and full gameplay details could not be confirmed from available records at time of research. Based on available context, it appears to be a mancala-type abstract strategy game. Further research may be required to provide accurate publication details and a complete game description.
+
+upgrades: []

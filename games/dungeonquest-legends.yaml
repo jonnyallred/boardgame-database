@@ -1,0 +1,52 @@
+id: dungeonquest-legends
+name: "DungeonQuest Legends"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: dungeonquest
+edition: null
+base_game: dungeonquest
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Modular Board
+  - Dungeon Crawler
+  - Press Your Luck
+  - Fantasy
+
+evokes:
+  - Tension
+  - Lucky
+  - Dread
+  - Powerful
+  - Discovery
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 12
+
+description: |
+  DungeonQuest Legends is an expansion supplement for the Fantasy Flight Games edition of DungeonQuest (Revised Edition, 2014), introducing new legendary heroes and enhanced encounters for the classic treasure-hunt dungeon game. Players delve into Dragonfire Castle attempting to steal from the sleeping dragon's hoard before sunset, now with expanded hero options and additional legendary content. The expansion maintains the notoriously lethal press-your-luck character of the base game while adding new story and mechanical variety for experienced players.
+
+upgrades: []

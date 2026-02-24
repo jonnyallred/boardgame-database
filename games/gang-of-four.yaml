@@ -1,0 +1,53 @@
+id: gang-of-four
+name: "Gang of Four"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Hand Management
+  - Family
+  - Filler
+  - Days of Wonder
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Lee Yih
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Gang of Four is a competitive card game inspired by the Asian climbing game tradition, designed by Lee Yih and brought to Western audiences by Days of Wonder. Players race to empty their hands by playing increasingly powerful combinations of cards — pairs, triples, runs, and special combinations — before their opponents. The 64-card deck includes suits numbered 1-10 plus powerful special cards like the Phoenix and the Red Dragon, which can override standard play. Simple to learn but rewarding to master, it works well as a fast, interactive filler for groups who enjoy trick-taking or climbing card games.
+
+upgrades: []

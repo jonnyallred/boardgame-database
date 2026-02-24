@@ -1,0 +1,56 @@
+id: escape-from-new-york-1981
+name: "Escape from New York"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Adventure
+  - Sci-Fi
+  - Family
+  - Deduction
+
+evokes:
+  - Tension
+  - Dread
+  - Mystery
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Harold Johnson
+  - David Cook
+publisher:
+  - TSR
+artist:
+  - Erol Otus
+  - Bill Willingham
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Escape from New York is a 1981 adventure board game published by TSR, Inc. and based on John Carpenter's dystopian thriller film of the same year. Players take on the role of Snake Plissken and his allies, navigating the prison island of Manhattan to rescue the kidnapped President of the United States or recover the critical cassette tape he carries. Players collect clue cards revealing the locations of these objectives while avoiding dangerous hazards throughout the board. Designed by Harold Johnson and David Cook with iconic illustrations by Erol Otus and Bill Willingham, the game was created using only the film's advance press kit as source material.
+
+upgrades: []

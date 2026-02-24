@@ -1,0 +1,48 @@
+id: dodge-bowl
+name: "Dodge Bowl"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+
+evokes:
+  - Rivalry
+  - Lucky
+  - Humor
+  - Tension
+  - Connection
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Dodge Bowl is a two-player dexterity game in which each player sets up five bowling-pin targets on their side of the board and places three blocking cubes in the center. Players take turns rolling a marble through a curved tube, attempting to knock down their opponent's pins while the blocking cubes can deflect shots. The first player to knock down all of the opponent's pins wins. The game's simple construction and quick play time make it an accessible activity for children.
+
+upgrades: []

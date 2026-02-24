@@ -1,0 +1,51 @@
+id: game-for-fame
+name: "Game For Fame"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Teams
+
+evokes:
+  - Humor
+  - Connection
+  - Lucky
+  - Rivalry
+  - Tension
+
+possible_counts: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+true_counts: [6, 8, 10]
+
+designer:
+  - David McGranaghan
+  - Joseph Pitcher
+publisher:
+  - McMiLLER
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Game For Fame is a hilarious team-based party board game for 4-16 players, developed in 2010. Teams compete in a variety of physical and social challenges, earning in-game money for successful performances. Players work both with and against teammates across several rounds of outrageous stunts and activities, with the player holding the most money at the end declared the winner. The game is well suited to large groups seeking a lively, active party experience.
+
+upgrades: []

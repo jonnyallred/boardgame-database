@@ -1,0 +1,51 @@
+id: dimension
+name: "Dimension"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Simultaneous Action
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Progress
+  - Masterful
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Lauge Luchau
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Dimension is a fast-paced 3D puzzle game published by KOSMOS and designed by Lauge Luchau in which all players compete simultaneously to stack 60 colorful spheres according to six task cards revealed each round. The cards dictate which colors must be adjacent to or on top of others, creating a spatial logic puzzle that must be solved under time pressure before an hourglass runs out. Points are scored for each task completed, with bonuses for using all five colored balls, and penalties for leftover spheres. The game won the Parents' Choice Silver Honor and Oppenheim Toy Portfolio Platinum Award.
+
+upgrades: []

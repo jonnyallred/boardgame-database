@@ -1,0 +1,51 @@
+id: fury-of-the-clansmen
+name: "Fury of the Clansmen"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Area Control
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Unknown
+publisher:
+  - Target Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Fury of the Clansmen is a tactical miniatures board game set in the Mutant Chronicles universe, released in 1994. Players control squads of Imperial's Wolfbane Commandos or Necromutant forces of the Dark Legion in skirmish-level combat missions on the planet Venus. A companion to Siege of the Citadel with somewhat more complex rules, the game emphasizes unit positioning and squad tactics in a grimdark sci-fi setting. It is primarily of interest to Mutant Chronicles fans and collectors of 1990s miniature wargames.
+
+upgrades: []

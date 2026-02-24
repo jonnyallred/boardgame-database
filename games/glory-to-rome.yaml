@@ -1,0 +1,57 @@
+id: glory-to-rome
+name: "Glory to Rome"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cult Classic
+  - Card Drafting
+  - Hand Management
+  - Tableau Building
+  - Engine Building
+  - Historical
+  - Ancient
+  - Carl Chudyk
+
+evokes:
+  - Clever
+  - Agency
+  - Masterful
+  - Rivalry
+  - Unique
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Carl Chudyk
+  - Ed Carter
+publisher:
+  - Cambridge Games Factory
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 13
+
+description: |
+  Glory to Rome is a card-driven city-building game set in Rome after the Great Fire of 64 AD, designed by Carl Chudyk and Ed Carter and published by Cambridge Games Factory in 2005. Its signature mechanic is that every card serves multiple purposes: as a building to construct, a client who provides ongoing abilities, a raw material needed for construction, or a valuable resource to sell. Players react to each other's role selections—following or refusing actions in a hand-management dance of timing and opportunity. Long out of print and highly sought after, Glory to Rome has achieved cult classic status for its depth, interaction, and nearly infinite replay value.
+
+upgrades: []

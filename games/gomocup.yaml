@@ -1,0 +1,48 @@
+id: gomocup
+name: "Gomocup"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Clever
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 10
+
+description: |
+  Gomocup is the premier worldwide artificial intelligence tournament for Gomoku and Renju, held annually since 2000. Based on the ancient abstract game Gomoku (five-in-a-row), players or AI programs alternate placing black or white stones on a grid, aiming to form an unbroken line of five; Renju adds forbidden-move rules to balance the game for human play. The Gomocup tournament has grown to around 40 AI participants from ten or more countries and serves as the definitive benchmark for Gomoku AI strength. As a physical abstract game, Gomoku itself requires only a Go board and stones, making it freely playable anywhere.
+
+upgrades: []

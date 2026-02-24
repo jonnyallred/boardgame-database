@@ -1,0 +1,51 @@
+id: gambler-1975
+name: "Gambler"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Unknown
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Gambler is a 1975 Parker Brothers dice game in which players start with $100 and race to accumulate $1,000 through betting and dice rolls. Each turn, players make wagers before shaking a special Dice Shaker device containing six dice, with results determining payouts. The game combines luck-based dice mechanics with simple social wagering to create a family-friendly simulation of casino-style gambling. A redesigned edition was released in 1977.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: doctor-who-solitaire-story-game
+name: "Doctor Who: Solitaire Story Game"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 0  # Impulse (free download)
+
+affinity: null
+hotness: null
+
+categories:
+  - Narrative Heavy
+  - Puzzle Solving
+  - Sci-Fi
+
+evokes:
+  - Discovery
+  - Mystery
+  - Agency
+  - Wonder
+  - Tension
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Simon Cogan
+publisher:
+  - Simon Cogan Games
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 12
+
+description: |
+  Doctor Who: Solitaire Story Game is a fan-made paragraph-driven solo experience designed by Simon Cogan, available as a free download. Drawing inspiration from classic 1980s solitaire games like Barbarian Prince and Star Smuggler, it sends the player on adventures through the Doctor Who universe by reading numbered sections whose order is determined by rules, dice tables, and player choices. Four rulebooks guide the player through varied situations and encounters, ensuring each playthrough offers a fresh narrative experience. While unofficial, it is widely praised as a faithful and creative tribute to both the source material and the solitaire game format.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: existensminimum
+name: "Existensminimum"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Narrative Heavy
+  - Events
+  - Family
+  - Cooperative
+
+evokes:
+  - Agency
+  - Tension
+  - Discovery
+  - Connection
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Ann-Sofie Persson
+  - Anna Lindmark
+  - David Lindmark
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Existensminimum (Swedish for "minimum subsistence") is a 2003 Swedish board game designed by Ann-Sofie Persson and two collaborators as a response to the endless wealth-accumulation games dominating the market. Rather than striving to become a millionaire, players take on the roles of economically disadvantaged people trying simply to survive and improve their circumstances — perhaps saving enough for a car, an education, or other basic necessities. Persson, a single mother of five, drew from personal experience to create a more grounded and socially conscious alternative to Monopoly-style games. The game sparked discussion about poverty, social inequality, and the values embedded in mainstream board games.
+
+upgrades: []

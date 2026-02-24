@@ -1,0 +1,55 @@
+id: eos-island-of-angels
+name: "EOS: Island of Angels"
+alternate_names:
+  - "EOS - Island of Angels"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Asymmetric
+  - Variable Player Powers
+  - Fantasy
+  - Mythology
+
+evokes:
+  - Powerful
+  - Progress
+  - Discovery
+  - Tension
+  - Unique
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Till Bröstl
+  - Felix Mertikat
+publisher:
+  - King Racoon Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  EOS: Island of Angels is an asymmetric engine-building game designed by Till Bröstl and Felix Mertikat, published by King Racoon Games and funded through Kickstarter. Players take on the roles of captains leading crews of heroes across a mythical island, awakening angels, battling demons, and accumulating glory. The game features asymmetric faction abilities and an engine-building progression system where players develop their crew's powers over the course of the game. Featuring thematic art and diverse hero abilities, EOS offers both competitive depth and a rich fantasy narrative experience.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: falling
+name: "Falling"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Hand Management
+  - Party
+  - Filler
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Rivalry
+  - Agency
+
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [5, 6, 7]
+
+designer:
+  - James Ernest
+publisher:
+  - Cheapass Games
+artist: []
+playtime_minutes: 5
+min_playtime: 3
+max_playtime: 10
+min_age: 8
+
+description: |
+  Falling is a real-time card game designed by James Ernest and published by Cheapass Games in 1998 in which all players are simultaneously falling from the sky and trying to hit the ground last. One player acts as the dealer, whose sole role is to steadily deal cards face-up in front of each player; players must immediately react to their cards and can play action cards — called riders — onto themselves or opponents. The object is simply to outlast everyone else, as the first players to accumulate ground cards are eliminated. Falling was the first full-color and first real-time card game from James Ernest, pioneering a format that would later become much more common in hobby gaming.
+
+upgrades: []

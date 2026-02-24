@@ -1,0 +1,52 @@
+id: gangsters
+name: "Gangsters"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Economic
+  - Historical
+  - Negotiation
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Don Greenwood
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Gangsters is an Avalon Hill board game for 2-4 players set in Prohibition-era Chicago, designed by Don Greenwood and published in 1992. Players lead rival criminal organizations, accumulating money through extortion and crime while purchasing properties and bribing law enforcement to expand their influence. Strategic territory control is balanced against the ever-present threat of rival gangs and police crackdowns. The game captures the atmosphere of 1920s organized crime with tight competitive play and meaningful economic decisions.
+
+upgrades: []

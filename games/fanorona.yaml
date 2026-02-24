@@ -1,0 +1,50 @@
+id: fanorona
+name: "Fanorona"
+alternate_names:
+  - "Fanoron-Sivy"
+year: 1680
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse (traditional game)
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Traditional
+  - Asymmetric
+
+evokes:
+  - Agency
+  - Masterful
+  - Clever
+  - Tension
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 60
+min_age: 8
+
+description: |
+  Fanorona is a traditional two-player abstract strategy game indigenous to Madagascar, dating to approximately 1680, where it holds cultural significance as a royal pastime and even played a role in divination. The most common version (Fanoron-Sivy) is played on a 9x5 grid with 22 pieces per player. The game's defining feature is its capture mechanic: unlike checkers where pieces jump over opponents, Fanorona captures by moving toward (approach) or away from (withdrawal) enemy pieces, potentially removing entire lines at once. Players must capture when possible, though they can choose which capture to make when multiple are available. According to legend, the last queen of Madagascar, Ranavalona III, placed faith in a ritual game of Fanorona rather than her armed forces when French forces invaded in 1895.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: found-objects
+name: "Found Objects"
+alternate_names:
+  - "Objets Trouvés"
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Bluffing
+  - Party
+
+evokes:
+  - Creative
+  - Humor
+  - Connection
+  - Mystery
+  - Clever
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Philippe Des Pallières
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Found Objects (Objets Trouvés in French) is a creative guessing party game published by Asmodee in 2005, designed by Philippe Des Pallières. One player acts as the "artist" who must represent a secret concept — chosen from six options — using 13 physical objects, constructing a kind of sculptural tableau for others to decipher. Other players bet on what they think the artist is depicting, with faster correct guesses earning more points and the artist scoring if they successfully communicate their concept. The game celebrates imagination and unconventional thinking, rewarding players who can see meaning in arrangements of everyday objects.
+
+upgrades: []

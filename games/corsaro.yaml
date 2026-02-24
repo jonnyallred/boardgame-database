@@ -1,0 +1,49 @@
+id: corsaro
+name: "Corsaro"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Maritime
+  - Pirates
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Discovery
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Corsaro is a 1991 Italian board game with a piracy or maritime theme, as suggested by its name (Italian for "corsair" or privateer). English-language documentation for this specific 1991 edition is limited, and details regarding the publisher and designer are not readily available in public sources. The game appears to involve maritime conflict or trading with piracy elements. This entry represents a minimal record based on available information.
+
+upgrades: []

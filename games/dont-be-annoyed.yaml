@@ -1,0 +1,54 @@
+id: dont-be-annoyed
+name: "Don't Be Annoyed"
+alternate_names:
+  - "Mensch ärgere Dich nicht"
+  - "Man, Don't Get Angry"
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Humor
+  - Tension
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Josef Friedrich Schmidt
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 5
+
+description: |
+  Don't Be Annoyed (Mensch ärgere Dich nicht, "Man, Don't Get Angry") is one of the most popular board games in the German-speaking world, invented by Josef Friedrich Schmidt around 1907/1908 and first published in 1914, with over 70 million copies sold. Each player races four pieces from start to home around a cross-shaped track by rolling dice, but landing on an opponent's piece sends it back to start. The year 1999 noted here reflects a particular edition; the original game has been produced continuously by Schmidt Spiele and remains a beloved family staple.
+
+upgrades: []

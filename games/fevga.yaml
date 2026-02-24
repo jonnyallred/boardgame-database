@@ -1,0 +1,51 @@
+id: fevga
+name: "Fevga"
+alternate_names:
+  - "Moultezim"
+  - "Tawla 31"
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Dice Rolling
+  - Racing
+
+evokes:
+  - Tension
+  - Agency
+  - Clever
+  - Lucky
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 8
+
+description: |
+  Fevga is a traditional two-player Greek tables game (related to backgammon) and one of the three games played in succession as Tavli in Greek coffee shops and social gatherings. Unlike backgammon, Fevga is a running game of parallel movement: both players start in opposite corners but move in the same anticlockwise direction, and — crucially — there is no hitting. A single checker controls a point and blocks opponents from landing there, making the game about building primes (chains of blocked points) to trap the rival. Players bear off once all 15 checkers have reached the home table, with the first to bear all pieces off winning.
+
+upgrades: []

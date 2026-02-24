@@ -1,0 +1,52 @@
+id: easy-money
+name: "Easy Money"
+alternate_names: []
+year: 1935
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Negotiation
+  - Trading
+  - Economic
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Progress
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+description: |
+  Easy Money is a real estate board game introduced by Milton Bradley Company in 1935, designed as a direct competitor to Monopoly following Parker Brothers' purchase of that game. Like Monopoly, Easy Money is derived from Elizabeth Magie's Landlord's Game, featuring property purchases, rent collection, card draws, and movement around a track via dice. The game underwent several rule changes after Parker Brothers sued Milton Bradley for patent infringement, resulting in distinct editions across the decades. Easy Money was produced continuously from 1935 through 1974, with a brief revival in 2005.
+
+upgrades: []

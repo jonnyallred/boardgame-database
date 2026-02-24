@@ -1,0 +1,48 @@
+id: dipole
+name: "Dipole"
+alternate_names: []
+year: null
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mark Steere
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Dipole is an original abstract strategy game designed by Mark Steere, who has created numerous two-player abstract games distributed freely online. The objective is to eliminate an opponent's pieces from the board before they eliminate yours, using movement mechanics based on dipole principles where pieces interact in constrained, attraction-repulsion patterns. Like other Steere designs, Dipole is freely available as print-and-play and playable on several abstract game servers including Boardspace.net, with no commercial publisher.
+
+upgrades: []

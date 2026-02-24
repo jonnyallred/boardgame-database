@@ -1,0 +1,51 @@
+id: fragrances
+name: "Fragrances"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Discovery
+  - Connection
+  - Lucky
+  - Mystery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - unknown
+publisher:
+  - SentoSphere
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Fragrances is an olfactory party game published by SentoSphere of Paris in 1990, described as "an amusing original family game about perfume." Players engage their sense of smell to identify and match various fragrance samples in a guessing-game format suitable for 2-6 players aged 12 and up. The game is notable for incorporating real scents as a core game component, making it a distinctive sensory experience that diverges from purely visual or tactile board game mechanics. Information on detailed rules and mechanics is limited in English-language sources.
+
+upgrades: []

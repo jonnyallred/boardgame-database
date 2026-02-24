@@ -1,0 +1,57 @@
+id: dungeon-petz
+name: "Dungeon Petz"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: dungeon-lords
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Auctions/Bidding
+  - Set Collection
+  - Hand Management
+  - Euro
+  - Fantasy
+  - Vlaada Chvatil
+  - Czech Games Edition
+
+evokes:
+  - Progress
+  - Clever
+  - Humor
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Vlaada Chvatil
+publisher:
+  - Czech Games Edition
+artist:
+  - David Cochard
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Dungeon Petz is a 2011 worker placement game by Vlaada Chvatil and Czech Games Edition, set in the same universe as Dungeon Lords. Players run a family of imps who have set up a pet shop, breeding magical monster cubs and selling them to dungeon lords. The unusual worker placement mechanism has players simultaneously and secretly assign groups of imps to tasks — bigger groups go first but are more expensive to feed. Each pet has ongoing needs (food, attention, magic) represented by need cards, and must be timed for sale when it is at peak impressive quality rather than sick or relieving itself at inopportune moments. The game's darkly comic theme and satisfying multi-stage engine make it a Czech Games Edition highlight.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: conan-collectible-card-game
+name: "Conan Collectible Card Game"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Fantasy
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Agency
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jason Robinette
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 13
+
+description: |
+  The Conan Collectible Card Game is a CCG published by Comic Images in 2006, designed by Jason Robinette, based on Robert E. Howard's sword-and-sorcery character. Players build decks featuring Conan and his allies, battling opponents using combat mechanics that evoke the brutal, fast-paced action of the source material. The game was a later entry in the CCG market and had a limited print run, making it a niche collectible among fans of the Conan license. It is distinct from the earlier Conan trading card sets produced by Comic Images in the early 1990s.
+
+upgrades: []

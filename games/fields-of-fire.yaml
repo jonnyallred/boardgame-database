@@ -1,0 +1,52 @@
+id: fields-of-fire
+name: "Fields of Fire"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 0  # Solitary
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Cooperative
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Masterful
+  - Dread
+  - Progress
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Ben Hull
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 16
+
+description: |
+  Fields of Fire is a solitaire card-driven wargame designed by Ben Hull in which the player commands a rifle company across WWII, Korea, and Vietnam campaigns based on the real experiences of the 9th US Infantry. Notably, the game is entirely diceless — two card decks handle all actions: the Terrain Deck builds a map for each mission, and the Action Deck drives combat, command, and activity resolution. A mission takes about 1-2 hours, and the game's deep system rewards study and repeat play. The Deluxe Edition (2019) refines 15 years of feedback into a more accessible version while retaining the full strategic complexity fans prize.
+
+upgrades: []

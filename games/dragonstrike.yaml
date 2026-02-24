@@ -1,0 +1,55 @@
+id: dragonstrike
+name: "DragonStrike"
+alternate_names:
+  - Dragon Strike
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - 1 vs Many
+  - Dungeon Crawler
+  - Modular Board
+  - Fantasy
+
+evokes:
+  - Discovery
+  - Tension
+  - Powerful
+  - Progress
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Bruce Nesmith
+  - Andria Hayday
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  DragonStrike is a 1993 adventure board game from TSR designed as an accessible gateway to Dungeons & Dragons. One player takes the role of the Dragon Master, controlling monsters and setting adventure challenges, while up to four other players each command a hero — Warrior, Wizard, Thief, Elf, or Dwarf — across four different game boards including an outdoor map. The game bears strong similarities to HeroQuest but features a more advanced combat system using polyhedral dice and famously included an instructional VHS video. Praised as "perhaps the most lavishly packaged, user-friendliest introduction to role-playing ever published," it remains a nostalgic collector's piece.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: go-nuts
+name: "Go Nuts!"
+alternate_names:
+  - "Go Nuts"
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dice Rolling
+  - Press Your Luck
+  - Animals
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Michael S. Steer
+  - Brian S. Spence
+  - Garrett J. Donner
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Go Nuts! is a press-your-luck dice game published by Gamewright in 2008. Players take the role of squirrels gathering acorns while avoiding cars, rolling dice and pressing their luck for additional nuts—but rolling all squirrels lets you attempt an extra scoring run before opponents' dogs chase you away. The game is fast-playing and designed for families with young children, emphasizing the push-your-luck thrill of deciding when to bank your acorns versus going for one more roll. Its short playtime and accessible theme make it a popular filler for younger players.
+
+upgrades: []

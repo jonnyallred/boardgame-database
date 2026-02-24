@@ -1,0 +1,53 @@
+id: go-gecko-go
+name: "Go Gecko Go!"
+alternate_names:
+  - "Go Gecko Go"
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dice Rolling
+  - Racing
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Wonder
+  - Connection
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jürgen Adams
+publisher:
+  - Zoch Verlag
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 6
+
+description: |
+  Go Gecko Go! is a family racing game designed by Jürgen Adams and published by Zoch Verlag in 2019, nominated for the Kinderspiel des Jahres award. Players roll colored dice to move their crocodile, turtle, frog, and gecko from one end of a river to the other—animals can hitch rides on each other's backs, with larger animals able to carry smaller ones. The stacking and hitching mechanic creates amusing situations as animals piggyback their way toward the finish line while ducking under bridges. Its accessible rules, charming wooden components, and fun animal-stacking interactions make it ideal for young families.
+
+upgrades: []

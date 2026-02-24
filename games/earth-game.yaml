@@ -1,0 +1,51 @@
+id: earth-game
+name: "Earth Game"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Negotiation
+  - Trading
+  - Family
+  - Nature
+
+evokes:
+  - Connection
+  - Agency
+  - Progress
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 9
+
+description: |
+  Earth Game is a cooperative board game in which players manage fictional nations on Spaceship Earth, balancing resources and resolving emerging global problems. Players must engage in consultation, trade agreements, economic communities, and peacekeeping efforts to collectively solve worldwide challenges. The game is won when Earth's problems are solved cooperatively, and lost if a World War breaks out. Published with eco-friendly materials including recycled boards, soy-based inks, and water-based glues, the game has a strong environmental and peace-oriented ethos.
+
+upgrades: []

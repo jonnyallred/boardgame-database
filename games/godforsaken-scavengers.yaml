@@ -1,0 +1,55 @@
+id: godforsaken-scavengers
+name: "Godforsaken Scavengers"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dungeon Crawler
+  - Campaign Mode
+  - Horror
+  - Cthulhu
+  - Survival
+  - Card Drafting
+
+evokes:
+  - Dread
+  - Tension
+  - Discovery
+  - Powerful
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2, 3]
+
+designer:
+  - Tomáš Bachtík
+publisher:
+  - Drawblack Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Godforsaken Scavengers is a survival adventure card game designed by Tomáš Bachtík and published by Drawblack Games in 2017, originally funded through Kickstarter. Players take on the roles of desperate survivors in a dark and deadly world inspired by Lovecraftian horror, facing an unforgiving dungeon-crawler campaign across five unique game modes with distinct characters. The game features a progressive campaign where choices carry lasting consequences, and its brutal difficulty is a defining feature rather than a flaw. It can be played solo or cooperatively, emphasizing tension, resource management, and narrative dread.
+
+upgrades: []

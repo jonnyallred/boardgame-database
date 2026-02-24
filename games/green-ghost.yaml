@@ -1,0 +1,50 @@
+id: green-ghost
+name: "Green Ghost"
+alternate_names: []
+year: 1965
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Horror
+  - Party
+
+evokes:
+  - Dread
+  - Mystery
+  - Wonder
+  - Humor
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Transogram
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Green Ghost is a vintage board game published by Transogram in 1965, notable as the first board game designed to be played in the dark—its components, especially the spinner, were made with phosphorescent plastic that glows in the dark. The three-dimensional board depicts a spooky town with winding paths and standing scenery inspired by campy horror aesthetics similar to The Addams Family. Players navigate the glowing board, collecting pieces as they move through the haunted landscape. A collectible classic with multiple editions, it was rereleased in a 30th Anniversary edition by Marx Toys in 1997.
+
+upgrades: []

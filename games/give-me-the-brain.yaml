@@ -1,0 +1,54 @@
+id: give-me-the-brain
+name: "Give Me the Brain!"
+alternate_names:
+  - "Give Me the Brain"
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Hand Management
+  - Zombies
+  - Humor
+  - Filler
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - James Ernest
+publisher:
+  - Cheapass Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Give Me the Brain! is a card game designed by James Ernest and published by Cheapass Games in 1996, winner of the Origins Award for Best Traditional Card Game in 1997. Players are zombies working at Friedey's, "the fast-food restaurant of the damned," each trying to complete their task cards for the day—but only one brain exists among the whole crew. Cards representing tasks require the brain to complete; players bid for the brain when it is dropped, and the goal is to be the first to discard your entire hand. Dark, fast, and absurd, it is the original entry in Cheapass's beloved Friedey's series.
+
+upgrades: []

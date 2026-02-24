@@ -1,0 +1,51 @@
+id: entropy
+name: "Entropy"
+alternate_names:
+  - "Hyle"
+  - "Hyle7"
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Eric Solomon
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 8
+
+description: |
+  Entropy is a two-player abstract strategy game designed by Eric Solomon in 1977, sold commercially as Hyle (on a 5×5 board) and Hyle7 (on a 7×7 board). The game embodies the concept of order versus chaos: one player acts as Order, trying to form patterns horizontally and vertically on the board, while the other plays as Chaos, randomly placing colored pieces to disrupt those patterns. The asymmetric roles create a deeply original tension — Order must plan ahead while Chaos embraces randomness strategically. Entropy has been featured at the Mind Sports Olympiad and is considered a "modern classic" of abstract game design.
+
+upgrades: []

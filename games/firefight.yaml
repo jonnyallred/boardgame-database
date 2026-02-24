@@ -1,0 +1,55 @@
+id: firefight
+name: "Firefight: Modern U.S. and Soviet Small Unit Tactics"
+alternate_names:
+  - "Firefight"
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Tension
+  - Rivalry
+  - Dread
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Dunnigan
+publisher:
+  - SPI
+  - Decision Games
+artist:
+  - Redmond Simonsen
+playtime_minutes: 300
+min_playtime: 120
+max_playtime: 600
+min_age: 14
+
+description: |
+  Firefight: Modern U.S. and Soviet Small Unit Tactics is a 1976 SPI hex wargame originally commissioned by the U.S. Army as small-unit training material for soldiers serving in Europe during the Cold War, then converted to a commercial product by designer Jim Dunnigan. The game hypothesizes Cold War-era squad combat between American and Soviet forces in West Germany, with each hex representing 50 meters and each counter a 2-4 person fire team or vehicle. The lethality is high — its core design principle is "if you can see it, you can kill it" — and the rules are divided into three graduated modules (Firefight I, II, and III) allowing players to ramp up complexity. Decision Games later acquired and reprinted it.
+
+upgrades: []
