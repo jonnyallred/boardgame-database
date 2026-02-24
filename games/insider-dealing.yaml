@@ -1,0 +1,53 @@
+id: insider-dealing
+name: "Insider Dealing"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Bluffing
+  - Trading
+  - Dice Rolling
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Ian Doull
+publisher:
+  - Fantasy Games Ltd
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Insider Dealing is a stock market board game simulating the London Stock Exchange, where players trade shares in twelve fictional companies on a hexagonal floor board. A separate circuit board tracks trading periods and dividend payments. The key mechanic involves information cards that reveal future price movements — players who collect them can buy or sell ahead of the market. The game rewards those who exploit insider knowledge while navigating a spatial trading floor. An obscure British economic game combining movement, information asymmetry, and stock market speculation.
+
+upgrades: []

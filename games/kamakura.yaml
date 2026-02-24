@@ -1,0 +1,53 @@
+id: kamakura
+name: "Kamakura"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Negotiation
+  - Area Control
+  - Historical
+  - Medieval
+
+evokes:
+  - Powerful
+  - Tension
+  - Persuasion
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - West End Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Kamakura is a 1981 West End Games wargame and diplomacy game set during Japan's Kamakura Shogunate (1192-1333), the era when Japanese feudalism and the samurai class reached their height. Two to six players represent competing clans and power factions, maneuvering forces, fighting land and sea battles, and conducting intricate negotiations in a race to become Shogun. The blend of military conflict with Machiavellian political diplomacy among multiple players creates a dynamic multiplayer wargame with high social interaction and shifting alliances.
+
+upgrades: []

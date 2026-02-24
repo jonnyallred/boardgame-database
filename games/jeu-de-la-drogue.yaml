@@ -1,0 +1,50 @@
+id: jeu-de-la-drogue
+name: "Jeu de la drogue"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Events
+  - Narrative Heavy
+
+evokes:
+  - Tension
+  - Discovery
+  - Dread
+  - Connection
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Jeu de la drogue (The Drug Game) is a French educational board game designed for drug prevention and awareness, intended for use in schools and youth organizations. Players encounter scenarios related to substance use and are challenged to discuss choices, consequences, and peer pressure. The game uses information and discussion prompts to engage participants with drug education topics in an interactive format. An example of the serious games movement applied to public health education in France. Limited detailed information is available due to its specialized educational distribution.
+
+upgrades: []

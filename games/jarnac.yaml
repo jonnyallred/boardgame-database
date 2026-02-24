@@ -1,0 +1,51 @@
+id: jarnac
+name: "Jarnac"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Abstract
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Emile Lombard
+publisher:
+  - Blackrock Editions
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Jarnac is a two-player competitive word game created by Maître Emile Lombard in the late 1970s, described as a "duel of words without mercy." Players compete to form progressively longer words, while also attempting to steal their opponent's words by extending or rearranging the letters. The game demands vocabulary, quick thinking, and the ability to spot letter combinations the opponent has formed. A classic of French word gaming, it has been republished by several companies including Blackrock Editions, and remains popular as an intense heads-up word duel.
+
+upgrades: []

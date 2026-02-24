@@ -1,0 +1,52 @@
+id: hounds-and-jackals
+name: "Hounds and Jackals"
+alternate_names:
+  - "Dogs and Jackals"
+  - "58 Holes"
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Ancient
+  - Racing
+  - Dice Rolling
+
+evokes:
+  - Lucky
+  - Discovery
+  - Wonder
+  - Connection
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Hounds and Jackals is a reconstruction of an ancient Egyptian race game that dates to approximately 2000 BC and was widely popular during the Middle Kingdom period. The original game is known from several preserved boards featuring 29 holes per side, with ten pegs topped by either hound or jackal heads. Players move their pegs by rolling dice or throwing sticks, with certain holes connected by shortcuts or penalties similar to Snakes and Ladders. The original rules are lost, but several reconstructions exist; modern reproductions are available as historical curiosities and family games.
+
+upgrades: []

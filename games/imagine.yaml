@@ -1,0 +1,56 @@
+id: imagine
+name: "Imagine"
+alternate_names:
+  - "Imagine: The Visual Charades Game"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Deduction
+  - Gateway
+
+evokes:
+  - Clever
+  - Humor
+  - Connection
+  - Lucky
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Shotaro Nakashima
+  - Shingo Fujita
+  - Motoyuki Ohki
+  - Hiromi Oikawa
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Imagine is a visual charades party game designed by a Japanese team and published by Gamewright in 2016, originally from Japan via French publishing partners Cocktail Games. Players use 61 transparent icon cards depicting simple shapes and symbols to communicate a hidden word or phrase through visual layering and combination, without speaking. The transparent overlapping cards allow for creative compositions that can hint at nearly any concept. The game is notable for its elegant simplicity—anyone can play immediately—and the surprising expressiveness of its minimal visual vocabulary.
+
+upgrades: []

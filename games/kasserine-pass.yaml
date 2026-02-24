@@ -1,0 +1,55 @@
+id: kasserine-pass
+name: "Kasserine Pass"
+alternate_names:
+  - Kasserine: Baptism of Fire
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jay Nelson
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Kasserine Pass (also subtitled Baptism of Fire, February 1943) is an SPI wargame simulating the Battle of Kasserine Pass in Tunisia, one of the first major engagements between American and Axis forces in World War II. Part of the Four Battles in North Africa quadrigame series and also available as a standalone folio game, it depicts fast-moving mountain warfare where narrow tracks channel units through difficult terrain, artillery plays a pivotal role, and both sides have viable paths to victory. A compact and accessible hex-and-counter wargame that gives both the American defender and Axis attacker an equal chance.
+
+upgrades: []

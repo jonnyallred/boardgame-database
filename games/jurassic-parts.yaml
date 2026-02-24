@@ -1,0 +1,55 @@
+id: jurassic-parts
+name: "Jurassic Parts"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Set Collection
+  - Tile Placement
+  - Family
+  - Animals
+
+evokes:
+  - Clever
+  - Tension
+  - Complete
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Kevin Lanzing
+publisher:
+  - 25th Century Games
+artist:
+  - Andrew Bosley
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Jurassic Parts is a light area enclosure and set collection game where players are paleontologists excavating a shared slab of rock made of hex tiles representing dinosaur fossils. On their turn, players place chisels around hex tile edges to claim sections; when a section breaks free, tiles are divided with the largest contributor taking the most. Collected tiles are assembled into dinosaur skeletons worth varying victory points, rewarding both opportunistic play and long-term fossil completion. Illustrated by Andrew Bosley (Everdell), the game offers an accessible and visually charming experience for families and casual groups.
+
+upgrades: []

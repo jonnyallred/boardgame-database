@@ -1,0 +1,57 @@
+id: ironbottom-sound
+name: "Ironbottom Sound"
+alternate_names:
+  - Iron Bottom Sound II
+  - Iron Bottom Sound III
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - Maritime
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jack Greene
+publisher:
+  - Quarterdeck Games
+artist:
+  - Bill Haggart
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Ironbottom Sound is an award-winning simultaneous-plotting hex-based naval wargame simulating the Guadalcanal naval campaign of World War II. Each ship has a detailed damage sheet tracking individual turrets, guns, torpedo mounts, and armor locations, with hits determined by range-modified dice against tables. Players plot moves and fire orders simultaneously, then resolve combat, creating realistic fog-of-war tension. Ten scenarios are provided — five historical, five balanced — at a scale of 600 yards per hex. Winner of the Charles Roberts Award at Origins 1982, it has been revised and republished multiple times, with designer Jack Greene inducted into the Origins Hall of Fame in 1990.
+
+upgrades: []

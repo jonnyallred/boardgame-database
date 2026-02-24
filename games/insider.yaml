@@ -1,0 +1,57 @@
+id: insider
+name: "Insider"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Traitor
+  - Cooperative
+  - Bluffing
+  - Party
+
+evokes:
+  - Mystery
+  - Tension
+  - Persuasion
+  - Humor
+  - Clever
+
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [5, 6]
+
+designer:
+  - Akihiro Itoh
+  - Kwaji
+  - Daichi Okano
+publisher:
+  - Oink Games
+artist:
+  - Jun Sasaki
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 9
+
+description: |
+  Insider is a social deduction party game from Oink Games in which one player is the Master who holds the secret word, one player is the hidden Insider who already knows the word, and the rest are Commons trying to guess it through yes/no questions. The Insider secretly steers the group toward the correct answer while hiding their identity. After the word is guessed (or time runs out), players discuss and vote to unmask the Insider — if they succeed, the Commons win; if the Insider escapes detection, the Insider wins. The genius of the game is its dual-layer tension: solving the word puzzle while simultaneously tracking who is guiding the conversation.
+
+upgrades: []

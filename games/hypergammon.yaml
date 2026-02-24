@@ -1,0 +1,51 @@
+id: hypergammon
+name: "hypergammon"
+alternate_names:
+  - "Hypergammon"
+year: 1994
+
+# Relationships
+game_family: backgammon
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Dice Rolling
+  - Racing
+
+evokes:
+  - Clever
+  - Lucky
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Nack Ballard
+publisher: []
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 20
+min_age: 10
+
+description: |
+  Hypergammon is a fast-paced backgammon variant invented by Nack Ballard in which each player uses only three checkers rather than the standard fifteen, with all three pieces starting on the 22nd, 23rd, and 24th points. The reduced piece count makes the game dramatically faster while preserving the core mechanics of dice rolling, bearing off, and the doubling cube. Because both players nearly always have exposed blots due to the difficulty of making points with so few pieces, there is near-constant hitting and tactical decision-making despite the abbreviated format.
+
+upgrades: []

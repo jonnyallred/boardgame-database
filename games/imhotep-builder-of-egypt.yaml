@@ -1,0 +1,58 @@
+id: imhotep-builder-of-egypt
+name: "Imhotep: Builder of Egypt"
+alternate_names:
+  - "Imhotep"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Area Control
+  - Hand Management
+  - Ancient
+  - Euro
+  - Gateway
+  - Phil Walker-Harding
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Phil Walker-Harding
+publisher:
+  - Thames & Kosmos
+artist:
+  - Miguel Coimbra
+  - Michaela Kienle
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Imhotep: Builder of Egypt is a gateway strategy game designed by Phil Walker-Harding and published by Thames & Kosmos in 2016. Players quarry stone blocks, load them onto boats, and sail those boats to one of five Egyptian monument sites (obelisk, pyramid, burial chamber, temple, and market) to score points. The key tension arises because anyone can sail any boat already loaded with stones, meaning opponents can redirect your carefully placed blocks to sites you did not intend. Quick to teach yet deeply interactive, Imhotep received a Kennerspiel des Jahres nomination and rewards players who anticipate opponent intentions.
+
+upgrades: []

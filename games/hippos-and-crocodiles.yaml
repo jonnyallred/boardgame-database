@@ -1,0 +1,51 @@
+id: hippos-and-crocodiles
+name: "Hippos & Crocodiles"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Animals
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Néstor Romeral Andrés
+publisher:
+  - nestorgames
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 20
+min_age: 6
+
+description: |
+  Hippos & Crocodiles is a two-to-four player abstract game designed by Néstor Romeral Andrés and published by nestorgames in 2009. Players place animal tokens on a lake board, competing to be the last player able to place a piece. The game is notable for its extremely short playtime and simple rules, making it accessible even for young children while offering enough positional decisions for a light strategic experience.
+
+upgrades: []

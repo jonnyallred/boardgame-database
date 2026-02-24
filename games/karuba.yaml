@@ -1,0 +1,56 @@
+id: karuba
+name: "Karuba"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Puzzle Solving
+  - Racing
+  - Simultaneous Action
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Complete
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Rüdiger Dorn
+publisher:
+  - HABA
+artist:
+  - Claus Stephan
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+description: |
+  Karuba is a simultaneous tile-laying puzzle race game in which all players race to connect their four explorers to their matching temples across a private jungle grid. One player draws numbered tiles and all players place the same tile on their own board, deciding whether to lay the tile (extending pathways) or discard it (moving an explorer along an existing path). Each player thus builds a unique jungle from the same tile sequence, with faster routes yielding more treasure but fewer points per temple. Nominated for the 2016 Spiel des Jahres, Karuba is a smart, accessible family game that feels like a puzzle race where everyone is competing on their own board simultaneously.
+
+upgrades: []

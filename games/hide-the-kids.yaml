@@ -1,0 +1,51 @@
+id: hide-the-kids
+name: "Hide the Kids!"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Bluffing
+  - Hidden Movement
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Mystery
+  - Connection
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Frederic Moyersoen
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Hide the Kids! is a children's board game designed by Frederic Moyersoen and published by Asmodee around 2009. Players hide children from a seeking player using bluffing and deduction, creating a playful take on classic hide-and-seek dynamics. The game won the 2009 Golden Ace and French Children's Game of the Year awards, and is designed to be quick and accessible for young players while offering enough light strategy to engage adults playing alongside children.
+
+upgrades: []

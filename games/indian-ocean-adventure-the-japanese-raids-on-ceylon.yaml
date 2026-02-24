@@ -1,0 +1,54 @@
+id: indian-ocean-adventure-the-japanese-raids-on-ceylon
+name: "Indian Ocean Adventure: The Japanese Raids on Ceylon"
+alternate_names:
+  - "Indian Ocean Adventure"
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+  - Maritime
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Dread
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Marc Miller
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Indian Ocean Adventure: The Japanese Raids on Ceylon is a two-player naval wargame published by Game Designers' Workshop (GDW) in 1978, simulating the April 1942 Japanese carrier fleet raids into the Indian Ocean. Admiral Nagumo's powerful strike force — including five fleet carriers — raids British ports and shipping around Sri Lanka (Ceylon) in an attempt to lure Admiral Somerville's inferior Eastern Fleet into a decisive engagement. The game shares its core carrier fleet rule system with GDW's companion wargames Coral Sea and Battle for Midway, adding special rules for night operations specific to the Indian Ocean campaign. One player commands the Japanese carrier force seeking to destroy the British fleet, while the other must preserve British naval power in the face of overwhelming Japanese air superiority.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: ka-bala
+name: "Ka-Bala"
+alternate_names:
+  - Kabala
+year: 1967
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Events
+
+evokes:
+  - Mystery
+  - Dread
+  - Humor
+  - Wonder
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Transogram
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Ka-Bala is a glow-in-the-dark divination board game published by Transogram in 1967, combining elements of the Ouija board, Tarot, and astrology into a single occult-themed experience. Unlike traditional talking boards, Ka-Bala uses a large black marble that rolls around a circular track lined with letters, numbers, and Yes/No indicators. Players rest their fingers on "solary projector" handles at either side of the board. Listed by the Museum of Talking Boards as the "weirdest talking board," Ka-Bala is a fascinating curiosity of 1960s pop occultism and novelty game design.
+
+upgrades: []

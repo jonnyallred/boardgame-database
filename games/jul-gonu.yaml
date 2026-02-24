@@ -1,0 +1,50 @@
+id: jul-gonu
+name: "jul-gonu"
+alternate_names:
+  - Jul-Gonu
+  - ne-jul-gonu
+year: 1400
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Jul-gonu (줄 고누) is a traditional Korean two-player abstract strategy game from the gonu family, played on a 4x4 grid. Each player places four pieces on the four nearest intersections and takes turns moving one piece horizontally or vertically to an adjacent empty space. A piece is captured when sandwiched on two opposite sides by opponent pieces. The goal is to capture all of the opponent's pieces. "Jul" means "lines," referring to the grid lines traditionally drawn on the ground with sticks. A simple and historically significant Korean folk game representative of the broader gonu tradition.
+
+upgrades: []

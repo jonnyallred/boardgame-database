@@ -1,0 +1,49 @@
+id: high-jump
+name: "high jump"
+alternate_names:
+  - "High Jump"
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Ancient
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  High jump is a traditional two-player abstract strategy game from Somalia, related to draughts and alquerque but played with orthogonal rather than diagonal movement. Played on a 5x5 square board, each player controls twelve pieces that move one space orthogonally per turn onto vacant squares, or may capture opponent pieces by leaping over them to a vacant square beyond. The central square serves as a sanctuary, protecting any piece occupying it from capture. The game is documented in historical studies of African traditional games.
+
+upgrades: []

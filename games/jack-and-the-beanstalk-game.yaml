@@ -1,0 +1,52 @@
+id: jack-and-the-beanstalk-game
+name: "Jack and the Beanstalk Game"
+alternate_names: []
+year: 1895
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+  - Fantasy
+
+evokes:
+  - Lucky
+  - Discovery
+  - Tension
+  - Humor
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  The Jack and the Beanstalk Game is a classic 1895 Parker Brothers children's board game based on the beloved fairy tale. Players move along a path connecting Jack's home and the Giant's castle, with the objective of either helping Jack escape with the Giant's Harp or allowing the Giant to catch him, depending on the player's role. Special marked spaces create encounters along the journey. One of the earlier thematic race games based on a storybook property, it set a template for fairy tale adaptations in board gaming.
+
+upgrades: []

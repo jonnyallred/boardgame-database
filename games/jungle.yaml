@@ -1,0 +1,54 @@
+id: jungle
+name: "Jungle"
+alternate_names:
+  - Dou Shou Qi
+  - Jungle King
+  - The Jungle Game
+year: 1950
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Animals
+  - Family
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Waddingtons
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Jungle (also known as Dou Shou Qi in its Chinese original or Jungle King in the British Waddingtons edition) is a two-player abstract strategy game in which each player commands eight animal pieces of different ranks — from elephant down to mouse — attempting to capture the opponent's den. Higher-ranked animals capture lower-ranked ones, but the mouse can capture the elephant, and special terrain (rivers and traps) create unique tactical rules. First published in the West by Waddingtons in the 1950s, Jungle is a deeply thematic abstract that introduces children to layered strategic thinking through its animal hierarchy.
+
+upgrades: []

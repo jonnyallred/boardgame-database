@@ -1,0 +1,50 @@
+id: kampen-om-rai
+name: "Kampen om Rai"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+  - Wargame
+
+evokes:
+  - Masterful
+  - Agency
+  - Rivalry
+  - Tension
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Kampen om Rai is a two-player abstract strategy game in which each player has a hidden treasure concealed within one of their armies, with the objective of getting both treasures to Rai — the central capital — and holding them there for three consecutive turns. Players maneuver armies through varied terrain that provides different advantages to different unit types, creating a spatial strategy game of positioning, deception, and terrain exploitation. An obscure Norwegian abstract design with hidden-information elements adding uncertainty to the strategic positioning challenge.
+
+upgrades: []

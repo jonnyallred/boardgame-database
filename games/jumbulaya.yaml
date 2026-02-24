@@ -1,0 +1,52 @@
+id: jumbulaya
+name: "Jumbulaya"
+alternate_names:
+  - Jumbulaya: The Rearranging, Ever-Changing Word Jumble Game
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Party
+  - Hand Management
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Platypus Games LLC
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 13
+
+description: |
+  Jumbulaya is an ever-changing word jumble game for 2-4 players where players build and rearrange words on a nine-row board. Unlike traditional word games, players may trade tiles with those already on the board and rearrange any complete row to form new words, making the puzzle dynamic and constantly shifting. A player wins by building a 10-letter word, claiming all 9 rows, or calling a JUMBULAYA — a word using one letter from seven or more words already on the board. The ability to restructure existing words rather than just adding to them gives Jumbulaya a distinctly strategic character among word games.
+
+upgrades: []

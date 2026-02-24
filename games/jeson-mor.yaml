@@ -1,0 +1,49 @@
+id: jeson-mor
+name: "Jeson Mor"
+alternate_names:
+  - Nine Horses
+year: 1200
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Jeson Mor ("Nine Horses") is a traditional Mongolian abstract strategy game played on a 9x9 checkered board, considered a chess variant. Each player commands nine chess knights lined up on their back rank; knights move and capture exactly as in chess. The primary objective is to be the first player to occupy the central square with a knight and then leave it — a deceptively simple goal that creates intricate tactical play. A player also wins by capturing all opponent knights. Considered part of Mongolia's cultural heritage, Jeson Mor is a distinctive and historically significant chess variant.
+
+upgrades: []

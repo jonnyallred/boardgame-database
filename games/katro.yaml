@@ -1,0 +1,50 @@
+id: katro
+name: "Katro"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Set Collection
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Katro is a traditional mancala board game played by the Betsileo people in the Fianarantsoa Province of Madagascar, first formally described by researcher Alex de Voogt in 1998. The game is played on a distinctive 6x6 board of 36 pits (six rows of six), with each player controlling three rows of the board. Players sow and capture seeds according to mancala rules, aiming to seize all of the opponent's pieces or leave them unable to move. Katro represents a unique variant in the global mancala family, distinguished by its larger square board format unusual among African mancala traditions.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: kensington
+name: "Kensington"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Brian Taylor
+  - Peter Forbes
+publisher:
+  - Forbes-Taylor
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Kensington is a two-player abstract strategy game invented by Brian Taylor and Peter Forbes in 1979, named after London's Kensington Gardens and patterned on its mosaic tiling. The board combines hexagons, squares, and triangles in a rhombitrihexagonal tiling pattern; players take turns placing and then sliding pieces on vertices, aiming to capture hexagons by occupying all six surrounding vertices. Special tactical bonuses trigger when a player controls all points of a triangle (reposition one opponent piece) or square (reposition two). UK Game of the Year winner that earned significant press attention, Kensington is a geometrically rich abstract with simple rules and deep positional strategy.
+
+upgrades: []

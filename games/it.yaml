@@ -1,0 +1,53 @@
+id: it
+name: "It"
+alternate_names:
+  - IT: Evil Below
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Press Your Luck
+  - Dice Rolling
+  - Horror
+
+evokes:
+  - Dread
+  - Tension
+  - Connection
+  - Lucky
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - USAopoly
+artist: []
+playtime_minutes: 50
+min_playtime: 40
+max_playtime: 60
+min_age: 17
+
+description: |
+  IT: Evil Below is a 2019 USAopoly cooperative push-your-luck game based on the Stephen King IT property, in which players work together as members of the Losers' Club to defeat Pennywise the Dancing Clown. Players roll multiple dice and move around a board depicting Derry locations — the Barrens, the Neibolt House, the Standpipe — gathering items needed to confront Pennywise. The clown lurks as a constant AI threat and if any one member of the Losers' Club dies, everyone loses. A light, accessible horror cooperative licensed game designed to evoke the atmosphere of the films.
+
+upgrades: []

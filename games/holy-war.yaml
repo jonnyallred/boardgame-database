@@ -1,0 +1,51 @@
+id: holy-war
+name: "Holy War"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Abstract
+  - Sci-Fi
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Lynn Willis
+publisher:
+  - Metagaming Concepts
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Holy War is a two-player microgame designed by Lynn Willis and published by Metagaming Concepts in 1979. One player commands the Sunthrowers and the other controls the Holy Band in a compact tactical conflict, with combat conducted across three-dimensional space using a dual horizontal and vertical movement system. As part of Metagaming's pioneering microgame format, it was designed to be a fast and portable wargame that could be learned in minutes.
+
+upgrades: []

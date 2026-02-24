@@ -1,0 +1,53 @@
+id: katarenga
+name: "Katarenga"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Variable Setup
+  - Modular Board
+
+evokes:
+  - Masterful
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jens Junge
+publisher:
+  - Game Brewer
+  - Rio Grande Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Katarenga is a two-player abstract strategy game with a remarkable modular board system: four double-sided quarter-boards can be arranged in any orientation, yielding over 24,000 distinct 8x8 boards. The central mechanic ties piece movement to board color — red squares move like rooks, yellow like bishops, green like knights, blue like kings — so each move changes what your own piece can do next turn. The objective is to advance two figures past the opponent's baseline. This elegant fusion of chess movement with territory-dependent rules creates a uniquely dynamic abstract game that rewards tactical foresight and spatial pattern recognition.
+
+upgrades: []

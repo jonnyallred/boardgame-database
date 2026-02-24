@@ -1,0 +1,59 @@
+id: kanagawa
+name: "Kanagawa"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Set Collection
+  - Pattern Building
+  - Press Your Luck
+  - Hand Management
+  - Euro
+  - Family
+  - Bruno Cathala
+
+evokes:
+  - Wonder
+  - Clever
+  - Complete
+  - Tension
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Bruno Cathala
+  - Charles Chevallier
+publisher:
+  - IELLO
+artist:
+  - Jade Mosch
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Kanagawa is a drafting and set collection game themed around painting school students of the master Hokusai in 19th-century Japan. Each round players draft lesson cards that extend either their studio (gaining abilities) or their painting scroll (scoring sets of subjects — trees, animals, buildings, characters). The press-your-luck element comes from choosing when to finalize your scroll: waiting longer allows a more harmonious and higher-scoring painting, but risks rivals securing the cards you need. Beautiful ukiyo-e-style artwork and elegant multi-use card mechanics make Kanagawa a visually and mechanically satisfying light Euro.
+
+upgrades: []

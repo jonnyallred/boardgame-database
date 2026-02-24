@@ -1,0 +1,53 @@
+id: high-bid
+name: "High-Bid"
+alternate_names:
+  - "High Bid: The Auction Game"
+  - "The Collector"
+  - "Auction"
+year: 1963
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Economic
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Lucky
+  - Persuasion
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - 3M
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  High-Bid is an auction game published by 3M as part of their Bookshelf Games series in 1963, simulating the buying and selling of items at auction. Players bid against each other for various objects, trying to acquire the most valuable collection within a budget. The game sold well enough to prompt numerous new editions through 1975, and was later republished by Avalon Hill as The Collector (1977) and Auction (1989). It was one of the early mass-market games to popularize auction mechanics as a core gameplay system.
+
+upgrades: []

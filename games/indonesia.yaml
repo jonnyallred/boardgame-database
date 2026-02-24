@@ -1,0 +1,56 @@
+id: indonesia
+name: "Indonesia"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Trading
+  - Negotiation
+  - Auctions/Bidding
+  - Route Building
+  - Euro
+  - Cult Classic
+
+evokes:
+  - Clever
+  - Agency
+  - Progress
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Jeroen Doumen
+  - Joris Wiersinga
+publisher:
+  - Splotter Spellen
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Indonesia is a sprawling economic game designed by Jeroen Doumen and Joris Wiersinga of Splotter Spellen, first published in 2005. Players build production companies that generate rice, spices, rubber, or oil, and shipping companies to transport those goods to cities across the Indonesian archipelago. Companies earn income for each good delivered but must pay shipping costs, creating complex profit calculations. Mergers allow players to absorb rivals' operations, and the evolving city-growth system ensures that the most lucrative trade routes shift throughout the game. Notorious for its brutal economic competition and minimal luck.
+
+upgrades: []

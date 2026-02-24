@@ -1,0 +1,50 @@
+id: hookipa
+name: "Hookipa"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Set Collection
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Pandaluna Studio
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Hookipa is an abstract board game published by Pandaluna Studio. Players compete to achieve scoring patterns or sets on a shared board, with the game designed around a clean, wave-themed aesthetic. As a compact abstract game, it is suited for quick sessions and travel play, providing accessible strategic decisions without requiring complex rules knowledge.
+
+upgrades: []

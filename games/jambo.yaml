@@ -1,0 +1,55 @@
+id: jambo
+name: "Jambo"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Economic
+  - Trading
+  - Set Collection
+  - Euro
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+  - Progress
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Rüdiger Dorn
+publisher:
+  - KOSMOS
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Jambo is a two-player card game set in an East African marketplace where players are competing traders buying and selling six types of goods — tea, hide, fruits, salt, silk, and trinkets — to reach 60 gold first. Each turn players have five actions to draw cards, buy and sell wares, or play market stalls and helper cards from their hand. The rich card variety and hand management decisions give Jambo surprising strategic depth for a game of its size. Nominated for the 2005 Spiel des Jahres, Jambo is a tightly designed and engaging two-player market game from Rüdiger Dorn.
+
+upgrades: []

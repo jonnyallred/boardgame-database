@@ -1,0 +1,48 @@
+id: i-am-i-do
+name: "I Am, I Do"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Social Deduction
+
+evokes:
+  - Humor
+  - Connection
+  - Lucky
+  - Tension
+  - Persuasion
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  I Am, I Do is a social party game in which players make statements about themselves and their habits, and other players try to guess or match the answers. The game encourages players to learn new things about their friends and family while competing to be the best predictor of others' behaviors and self-descriptions. It is designed as a quick icebreaker suitable for casual game nights and family gatherings.
+
+upgrades: []

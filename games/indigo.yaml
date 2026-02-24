@@ -1,0 +1,53 @@
+id: indigo
+name: "Indigo"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Family
+  - Gateway
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 50
+min_age: 8
+
+description: |
+  Indigo is an abstract tile-placement game designed by Reiner Knizia and published by Ravensburger in 2012, receiving a Spiel des Jahres recommendation that year. Players place hexagonal path tiles on a honeycomb grid, guiding colored gemstones from the center toward the edges where players own goal spaces. When a tile placement moves a gem to a goal, the owner (or both owners if shared) claims it. Collision between gems eliminates both, and players in the three- and four-player variants share ownership of some goal spaces, creating opportunities for shifting alliances and betrayals.
+
+upgrades: []

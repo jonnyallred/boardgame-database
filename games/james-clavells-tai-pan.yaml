@@ -1,0 +1,56 @@
+id: james-clavells-tai-pan
+name: "James Clavell's Tai-Pan"
+alternate_names:
+  - Tai-Pan
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Trading
+  - Route Building
+  - Historical
+  - Maritime
+
+evokes:
+  - Progress
+  - Rivalry
+  - Agency
+  - Tension
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Ian Bailey
+  - Albie Fiore
+publisher:
+  - FASA
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  James Clavell's Tai-Pan is a board game published by FASA in 1981 based on James Clavell's 1966 novel of the same name, set along the exotic Chinese coast of the 1830s. Players use clipper ships to transport opium from India to China, then acquire Chinese goods like silk and tea to race back to England for the highest prices. The first clipper to return to England wins. Produced in the wake of the successful 1981 TV miniseries of another Clavell novel, it captures the cutthroat spirit of international trade during the opium trade era.
+
+upgrades: []

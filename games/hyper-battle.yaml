@@ -1,0 +1,50 @@
+id: hyper-battle
+name: "Hyper Battle"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Future and Fantasy Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Hyper Battle is a tactical space wargame published by Future and Fantasy Games in 1981, set in a future conflict between Earth and an Alpha Centauri colony. Players command opposing forces in tactical space combat scenarios, managing units across a conflict that spans interstellar distances. As a product of the early 1980s small-press wargaming scene, it offered science fiction themes at a time when space opera settings were beginning to proliferate in the hobby.
+
+upgrades: []

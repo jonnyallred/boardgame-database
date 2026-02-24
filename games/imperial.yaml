@@ -1,0 +1,54 @@
+id: imperial
+name: "Imperial"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: imperial
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Rondel
+  - Area Control
+  - Economic
+  - Historical
+  - Euro
+  - Mac Gerdts
+
+evokes:
+  - Clever
+  - Powerful
+  - Agency
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Mac Gerdts
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Imperial is a strategy board game designed by Mac Gerdts and published by Rio Grande Games in 2006, set in pre-World War I Europe. Rather than controlling a nation directly, players act as international investors who hold bonds in the six great powers (Austria, Italy, France, Great Britain, Germany, and Russia) and take actions on behalf of whichever nation they currently control. Nations activate actions via Mac Gerdts's signature rondel mechanism, choosing from building factories, armies, and fleets, recruiting, moving forces, taxing, or paying dividends. The game's central tension lies in accumulating wealth while ensuring the nations you invest in remain competitive.
+
+upgrades: []

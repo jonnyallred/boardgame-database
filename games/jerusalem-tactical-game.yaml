@@ -1,0 +1,54 @@
+id: jerusalem-tactical-game
+name: "Jerusalem! Tactical Game of the 1948 War"
+alternate_names:
+  - Jerusalem: The Tactical Game of the 1948 Arab-Israeli War
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+  - Area Control
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Simulations Design Corporation
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Jerusalem! Tactical Game of the 1948 War is a two-player hex-and-counter wargame published by Simulations Design Corporation in 1975 simulating the 1948 Arab-Israeli War battle for Jerusalem. One player commands Israeli forces while the other controls Arab forces, with the Israelis needing to get a convoy of supplies through to the besieged city along a declared route. The game borrows mechanics from SDC's earlier Battle for Hue and runs twelve turns. A second edition was published by Mayfair Games in 1982 as a boxed game, and a third edition with a new scenario appeared in 2007.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: hexdame
+name: "Hexdame"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Hex Map
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Christian Freeling
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Hexdame is a two-player abstract strategy game invented by Christian Freeling in 1979 as a direct adaptation of International Draughts (checkers) played on a hexagonal grid of 61 cells. Each player begins with 16 men that can move forward to adjacent empty cells or capture opponent pieces by jumping over them. Men promoted to kings gain full multi-directional movement and jumping. The game retains the complete rule set of International Draughts, including mandatory captures and chain jumps, while the hexagonal board creates richer positional dynamics.
+
+upgrades: []

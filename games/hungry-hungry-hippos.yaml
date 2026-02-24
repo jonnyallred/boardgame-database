@@ -1,0 +1,52 @@
+id: hungry-hungry-hippos
+name: "Hungry Hungry Hippos"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Animals
+  - Real-time
+  - Dexterity
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Fred Kroll
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 5
+min_playtime: 5
+max_playtime: 15
+min_age: 4
+
+description: |
+  Hungry Hungry Hippos is a frenzied children's dexterity game first introduced in 1978 by Milton Bradley (now Hasbro). Each of four players controls a plastic hippo with a lever that snaps the animal's mouth open and shut, attempting to gobble up as many marbles released into the center as possible. The player whose hippo eats the most marbles wins. The game is beloved for its chaotic, simultaneous play and the satisfying sound of clicking hippos competing for marbles, and it has remained a staple children's toy for over four decades.
+
+upgrades: []

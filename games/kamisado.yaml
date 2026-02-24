@@ -1,0 +1,51 @@
+id: kamisado
+name: "Kamisado"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Variable Player Powers
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Clever
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Peter Burley
+publisher:
+  - Burley Games
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 8
+
+description: |
+  Kamisado is a two-player abstract strategy game played on an 8x8 multicolored board where each player controls eight octagonal dragon tower pieces, each matching one of eight colors on the board. The key constraint: after your opponent moves, you must move the piece whose color matches the square your opponent just landed on — so each move determines what your opponent can do next, creating chains of forced and opportunistic plays. Pieces can be promoted to Sumos with the ability to push opponents backward. Elegant in its simplicity yet deep in strategy, Kamisado rewards pattern recognition and long-range planning.
+
+upgrades: []

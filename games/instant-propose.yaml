@@ -1,0 +1,51 @@
+id: instant-propose
+name: "Instant Propose"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Word Play
+  - Real-time
+
+evokes:
+  - Humor
+  - Creative
+  - Connection
+  - Lucky
+  - Tension
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Takaratomy Arts
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 13
+
+description: |
+  Instant Propose is a Japanese party card game in which players race to combine word cards to construct the most compelling marriage proposal before time runs out. One player per round puts their head down and counts to ten, while all other players frantically combine initial cards with word cards to assemble a creative and emotional proposal phrase. The judge then picks their favorite proposal and awards a ring counter. Winner of the Game Market Award 2018 Excellent Work Award, it is an engagingly absurd creativity and word combination game for social gatherings.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: key-to-the-kingdom
+name: "Key to the Kingdom"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Modular Board
+  - Fantasy
+  - Adventure
+  - Family
+
+evokes:
+  - Discovery
+  - Wonder
+  - Lucky
+  - Tension
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Alan Brandreth
+publisher:
+  - Milton Bradley
+  - Restoration Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Key to the Kingdom is a fantasy adventure board game originally published by Milton Bradley in 1990, with a notable restoration by Restoration Games. Players take the roles of quirky heroes — Pitiless Pixie, Knovice Knight, Unique Unicorn, and others — gathering three pieces of a magic key to defeat the Demon King. The signature mechanic is a hole-in-the-board portal system: stepping on whirlpool spaces physically opens or closes board sections, revealing new terrain. Mini adventure dice games scattered throughout the journey provide variety, while an item system lets players modify dice rolls. A beloved family adventure classic with imaginative physical board design.
+
+upgrades: []

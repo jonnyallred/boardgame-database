@@ -1,0 +1,52 @@
+id: international-cricket
+name: "International Cricket"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Historical
+
+evokes:
+  - Tension
+  - Lucky
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Terry Goodchild
+publisher:
+  - Lambourne Games
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 10
+
+description: |
+  International Cricket is a two-player simulation board game published by Lambourne Games in 1985, recreating the experience of one-day international cricket using 120 cards representing top international players of the mid-1980s. The bowler rolls red dice matched against the bowler's card, and the batter rolls blue dice matched against the batter's card, with an additional white die for pitch, weather, and fielding modifiers. Designed by Terry Goodchild by merging his earlier "One-Day International" and "Test Match Replay" games, it is a faithful statistical simulation of cricket for fans of the sport.
+
+upgrades: []

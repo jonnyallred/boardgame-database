@@ -1,0 +1,52 @@
+id: infantry-attacks-series
+name: "Infantry Attacks series"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: infantry-attacks
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mike Rinella
+publisher:
+  - Avalanche Press
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Infantry Attacks is a series of hex-and-counter wargames published by Avalanche Press, designed to simulate World War I infantry combat at the company and battalion level. The series draws on Erwin Rommel's classic military memoir Infantry Attacks as a conceptual source, focusing on the aggressive infiltration tactics that defined the war's later phases. Multiple titles in the series cover different campaigns and theaters, with consistent rules allowing players to mix and match scenarios across the product line.
+
+upgrades: []

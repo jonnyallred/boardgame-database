@@ -1,0 +1,53 @@
+id: homesteaders
+name: "Homesteaders"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Resource Management
+  - Engine Building
+  - Economic
+  - Euro
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Alex Rockwell
+publisher:
+  - Tasty Minstrel Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Homesteaders is an auction and resource management game designed by Alex Rockwell and published by Tasty Minstrel Games in 2009. Over ten rounds, players bid on the right to build specific types of frontier buildings, then spend resource cubes to construct one building from the available options. Each building provides ongoing income in resources or victory points, and players must manage trade rails and debts to fund their growing settlement. The fixed-placement auction system creates meaningful competition for key building types, and economic engines must be carefully planned to maximize the final score.
+
+upgrades: []

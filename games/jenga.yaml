@@ -1,0 +1,52 @@
+id: jenga
+name: "Jenga"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Party
+  - Family
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Leslie Scott
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Jenga is the classic dexterity game in which players take turns removing one wooden block at a time from a tower of 54 stacked blocks and placing it on top, gradually making the tower taller and more precarious. The challenge is to extract blocks without toppling the whole structure, requiring steady hands and careful judgment of which blocks are load-bearing. Invented by Leslie Scott and sold to Hasbro, Jenga is one of the best-selling board games of all time and remains a staple of family game nights and social gatherings worldwide for its simple rules and suspenseful play.
+
+upgrades: []

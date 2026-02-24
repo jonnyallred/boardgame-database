@@ -1,0 +1,51 @@
+id: icetowers
+name: "IceTowers"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: icehouse
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Real-time
+  - Dexterity
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Andrew Looney
+publisher:
+  - Looney Labs
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  IceTowers is a fast-paced, simultaneous real-time game designed by Andrew Looney and published by Looney Labs using the Icehouse pyramid pieces system. Players compete without turns, each stacking their colored pyramids on towers across any flat surface, with the goal of controlling the most pieces at the game's end. The three basic actions—Capping (taking control of a tower), Mining (retrieving your pieces), and Splitting (dividing a tower)—create a chaotic, competitive experience where good spatial awareness and quick decision-making win out. Everyone plays at the same time, making it one of the most energetic games in the Icehouse family.
+
+upgrades: []

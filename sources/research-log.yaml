@@ -8974,3 +8974,263 @@ entries:
     game_id: crash-by-crash
     url: "https://boardgameguys.com/crash-by-crash/"
     description: "Game information page — boardgameguys.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: hexagony
+    url: "https://boardgameguys.com/hexagony/"
+    description: "Game information page — boardgameguys.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: hexagony
+    url: "https://en.wikipedia.org/wiki/Hexagony"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: hexagony
+    url: "https://eu.nobleknight.com/P/11686/Hexagony"
+    description: "Game information page — eu.nobleknight.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: high-frontier
+    url: "https://en.wikipedia.org/wiki/High_Frontier_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: high-frontier
+    url: "https://www.meeplemountain.com/boardgame/high-frontier/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: insider
+    url: "https://oinkgames.com/en/games/analog/insider/"
+    description: "Game information page — oinkgames.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: insider
+    url: "https://opinionatedgamers.com/2017/02/17/insider-game-review-by-chris-wray/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: insider
+    url: "https://www.ultraboardgames.com/insider/game-rules.php"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: jamaica
+    url: "http://www.analoggames.com/story/jamaica-a-pirate-themed-tactical-race-game-with-player-interaction-and-side-goals-sebastien-pauchon-gameworks-tabletop/"
+    description: "Game information page — analoggames.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: jamaica
+    url: "https://gamerules.com/rules/jamaica/"
+    description: "Game information page — gamerules.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: jamaica
+    url: "https://www.ultraboardgames.com/jamaica/game-rules.php"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: history-of-the-world
+    url: "https://en.wikipedia.org/wiki/History_of_the_World_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: history-of-the-world
+    url: "https://therewillbe.games/boardgames/735-history-of-the-world"
+    description: "Game information page — therewillbe.games"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: history-of-the-world
+    url: "https://www.nobleknight.com/P/15300/History-of-the-World"
+    description: "Game information page — nobleknight.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: homesteaders
+    url: "http://hiewandboardgames.blogspot.com/2010/05/homesteaders.html"
+    description: "Game information page — hiewandboardgames.blogspot.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: homesteaders
+    url: "https://opinionatedgamers.com/2019/11/05/homesteaders-10th-anniversary-edition-and-new-beginnings-expansion/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: homesteaders
+    url: "https://www.coolstuffinc.com/p/138976"
+    description: "Retailer product listing — coolstuffinc.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: hues-and-cues
+    url: "https://tabletopbellhop.com/game-reviews/hues-and-cues/"
+    description: "Game information page — tabletopbellhop.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: hues-and-cues
+    url: "https://theop.games/products/hues-and-cues"
+    description: "Game information page — theop.games"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: hues-and-cues
+    url: "https://www.geekyhobbies.com/hues-and-cues-board-game-rules-and-instructions-for-how-to-play/"
+    description: "Game information page — geekyhobbies.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: illuminati
+    url: "https://en.wikipedia.org/wiki/Illuminati_(game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: illuminati
+    url: "https://www.sjgames.com/illuminati/designart.html"
+    description: "Game information page — sjgames.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: illuminati
+    url: "https://www.sjgames.com/illuminati/firstedition/index.html"
+    description: "Game information page — sjgames.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: inis
+    url: "https://ipa-gameshop.com/en/expert-games/173-inis.html"
+    description: "Game information page — ipa-gameshop.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: inis
+    url: "https://www.amazon.com/Strategy-Mythology-Majority-Drafting-Matagot/dp/B01JA0L6U8"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: inis
+    url: "https://www.meeplemountain.com/reviews/inis/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: indonesia
+    url: "https://talkingshelfspace.com/review-indonesia/"
+    description: "Game information page — talkingshelfspace.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: indonesia
+    url: "https://www.coolstuffinc.com/p/165278"
+    description: "Retailer product listing — coolstuffinc.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: indonesia
+    url: "https://www.splottershop.com/products/indonesia"
+    description: "Game information page — splottershop.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: imperial
+    url: "http://www.gateplay.com/imperial-board-game.aspx"
+    description: "Game information page — gateplay.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: imperial
+    url: "https://en.wikipedia.org/wiki/Imperial_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: imperial
+    url: "https://www.pd-verlag.de/Imperial"
+    description: "Game information page — pd-verlag.de"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: iki
+    url: "https://punchboard.co.uk/iki-board-game-review/"
+    description: "Game information page — punchboard.co.uk"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: iki
+    url: "https://www.gameosity.com/2022/07/06/iki-a-game-of-edo-artisans-review/"
+    description: "Game information page — gameosity.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: iki
+    url: "https://www.meeplemountain.com/reviews/iki/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: ingenious
+    url: "https://en.wikipedia.org/wiki/Ingenious_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: ingenious
+    url: "https://www.amazon.com/Thames-Kosmos-Ingenious-Ultimate-Strategy/dp/B06W52W1CF"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: ingenious
+    url: "https://www.meeplemountain.com/reviews/ingenious/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: in-the-year-of-the-dragon
+    url: "https://boardgameguys.com/in-the-year-of-the-dragon/"
+    description: "Game information page — boardgameguys.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: in-the-year-of-the-dragon
+    url: "https://meepleandthemoose.com/2025/01/25/in-the-year-of-the-dragon-board-game-review/"
+    description: "Game information page — meepleandthemoose.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: in-the-year-of-the-dragon
+    url: "https://www.meeplemountain.com/reviews/ingenious/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: insider
+    url: "https://boardgameguys.com/insider/"
+    description: "Game information page — boardgameguys.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: insider
+    url: "https://oinkgames.com/en/games/analog/insider/"
+    description: "Game information page — oinkgames.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: insider
+    url: "https://opinionatedgamers.com/2017/02/17/insider-game-review-by-chris-wray/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: insider
+    url: "https://www.ultraboardgames.com/insider/game-rules.php"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: jamaica
+    url: "http://www.analoggames.com/story/jamaica-a-pirate-themed-tactical-race-game-with-player-interaction-and-side-goals-sebastien-pauchon-gameworks-tabletop/"
+    description: "Game information page — analoggames.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: jamaica
+    url: "https://boardgameguys.com/jamaica/"
+    description: "Game information page — boardgameguys.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: jamaica
+    url: "https://gamerules.com/rules/jamaica/"
+    description: "Game information page — gamerules.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: jamaica
+    url: "https://www.jestatharogue.com/game-reviews/review-jamaica/"
+    description: "Game information page — jestatharogue.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: jamaica
+    url: "https://www.ultraboardgames.com/jamaica/game-rules.php"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: imhotep-builder-of-egypt
+    url: "https://boardgamesland.com/imhotep-board-game-review/"
+    description: "Game information page — boardgamesland.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: imhotep-builder-of-egypt
+    url: "https://opinionatedgamers.com/2016/06/27/imhotep-game-review-by-chris-wray/"
+    description: "Game information page — opinionatedgamers.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: imhotep-builder-of-egypt
+    url: "https://tabletopbellhop.com/game-reviews/imhotep-review/"
+    description: "Game information page — tabletopbellhop.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: imperial-2030
+    url: "https://boardlandia.com/products/imperial-2030"
+    description: "Game information page — boardlandia.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: imperial-2030
+    url: "https://en.wikipedia.org/wiki/Imperial_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: imperial-2030
+    url: "https://www.pd-verlag.de/Imperial-2030/en"
+    description: "Game information page — pd-verlag.de"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: imperium-classics
+    url: "https://stidjenplayssolo.wordpress.com/2023/04/06/imperium-classics-a-solo-review/"
+    description: "Game information page — stidjenplayssolo.wordpress.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: imperium-classics
+    url: "https://www.meeplemountain.com/reviews/imperium-classics/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: imperium-classics
+    url: "https://www.ospreypublishing.com/us/imperium-classics-9781472844743/"
+    description: "Game information page — ospreypublishing.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: in-the-year-of-the-dragon
+    url: "https://boardgameguys.com/in-the-year-of-the-dragon/"
+    description: "Game information page — boardgameguys.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: in-the-year-of-the-dragon
+    url: "https://meepleandthemoose.com/2025/01/25/in-the-year-of-the-dragon-board-game-review/"
+    description: "Game information page — meepleandthemoose.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: in-the-year-of-the-dragon
+    url: "https://www.coolstuffinc.com/p/135737"
+    description: "Retailer product listing — coolstuffinc.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: in-the-year-of-the-dragon
+    url: "https://www.meeplemountain.com/reviews/ingenious/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: indian-ocean-adventure-the-japanese-raids-on-ceylon
+    url: "https://en.wikipedia.org/wiki/Indian_Ocean_Adventure:_The_Japanese_Raids_on_Ceylon"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: indian-ocean-adventure-the-japanese-raids-on-ceylon
+    url: "https://www.nobleknight.com/P/2147357989/Indian-Ocean-Adventure"
+    description: "Game information page — nobleknight.com"

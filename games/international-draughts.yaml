@@ -1,0 +1,50 @@
+id: international-draughts
+name: "International draughts"
+alternate_names:
+  - Polish draughts
+  - International checkers
+year: 1720
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 8
+
+description: |
+  International draughts is the standard form of draughts played on a 10x10 board with 20 pieces per player, governed by the World Draughts Federation. Unlike the English 8x8 version, pieces may capture backward as well as forward, and crowned kings become long-range "flying kings" able to move and capture across multiple squares in any diagonal direction. Players must maximize captures when given the option, adding tactical complexity. Widely played across Europe, Africa, and Asia, International draughts is one of the most deeply studied abstract strategy games and has been the subject of extensive computer analysis.
+
+upgrades: []

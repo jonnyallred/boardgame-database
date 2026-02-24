@@ -1,0 +1,54 @@
+id: inkognito
+name: "Inkognito"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Hidden Movement
+  - Bluffing
+  - Social Deduction
+  - Teams
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Connection
+  - Humor
+
+possible_counts: [3, 4]
+true_counts: [4]
+
+designer:
+  - Alex Randolph
+  - Leo Colovini
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Inkognito is a deduction and hidden movement game designed by Alex Randolph and Leo Colovini, first published by Milton Bradley in 1988, winning a Spiel des Jahres special award for most beautiful game that year. Players navigate Venice as secret agents, each needing to identify their partner while keeping their own identity hidden from opponents. Movement is conducted via disguise tokens, and players interrogate each other using coded questions, gradually narrowing down identities through process of elimination. The beautiful Venice-themed board and mysterious atmosphere make it a memorable experience for fans of social deduction.
+
+upgrades: []

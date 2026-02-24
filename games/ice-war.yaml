@@ -1,0 +1,51 @@
+id: ice-war
+name: "Ice War"
+alternate_names:
+  - "MicroGame #9: Ice War"
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Dread
+  - Lucky
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Keith Gross
+publisher:
+  - Metagaming Concepts
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Ice War is the ninth game in Metagaming Concepts' pioneering MicroGame series, designed by Keith Gross and published in 1978. The game hypothesizes a Eurasian military attack against American oil infrastructure in Alaska, placing players in command of opposing forces in a cold-climate tactical conflict. Packaged in the characteristic small format of Metagaming's microgames, it was designed to be quickly learned and played in under an hour, targeting players who wanted accessible wargaming without complex rules.
+
+upgrades: []

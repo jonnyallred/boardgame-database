@@ -1,0 +1,54 @@
+id: jurassic-world-the-legacy-of-isla-nublar
+name: "Jurassic World: The Legacy of Isla Nublar"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Legacy
+  - Cooperative
+  - Campaign Mode
+  - Narrative Heavy
+  - Puzzle Solving
+
+evokes:
+  - Discovery
+  - Tension
+  - Progress
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Prospero Hall
+publisher:
+  - Funko Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Jurassic World: The Legacy of Isla Nublar is a cooperative legacy board game in which players work together through 12 linked adventures retelling the story of the first five Jurassic Park films. Each session's choices permanently alter the board with stickers, dinosaur populations, and park decisions that carry forward into future games. Players must agree on actions as a team, and permanent consequences make every decision meaningful. Created by Prospero Hall for Funko Games, it was the first film-based legacy game and is noted for its strong narrative integration and accessible cooperative gameplay.
+
+upgrades: []

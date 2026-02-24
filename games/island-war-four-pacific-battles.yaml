@@ -1,0 +1,56 @@
+id: island-war-four-pacific-battles
+name: "Island War: Four Pacific Battles"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kevin Zucker
+  - Kip Allen
+  - Jay Nelson
+  - Larry Pinsky
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Island War: Four Pacific Battles is a quad-game from SPI (1975) containing four thematically linked wargames simulating American-Japanese island battles of World War II: Bloody Ridge (Guadalcanal), Saipan, Leyte, and Okinawa. All four games share a common rules system, allowing players to learn one set of mechanics and apply it across the four scenarios. Each battle represents a distinct strategic challenge and escalating scale of the Pacific campaign, from 1942 through to the final Japanese defense in 1945. A significant historical design that contributed to the development of the quadrigame format in wargaming.
+
+upgrades: []

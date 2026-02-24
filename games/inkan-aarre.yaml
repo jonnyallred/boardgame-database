@@ -1,0 +1,52 @@
+id: inkan-aarre
+name: "Inkan aarre"
+alternate_names:
+  - "Inca Treasure"
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Racing
+  - Dice Rolling
+
+evokes:
+  - Lucky
+  - Discovery
+  - Wonder
+  - Tension
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Kari Mannerla
+publisher:
+  - Peliko
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 4
+
+description: |
+  Inkan aarre (Inca Treasure) is a Finnish board game designed by Kari Mannerla in 2005 as a direct sequel to his 1951 classic Afrikan tähti (Star of Africa). Rather than Africa, players travel around South America seeking the treasure of the Inca. Once the treasure is found, the first player to return it to Machu Picchu wins. The game uses the same simple movement and discovery mechanics as Afrikan tähti, making it accessible to young children while providing the thrill of exploration and treasure hunting.
+
+upgrades: []

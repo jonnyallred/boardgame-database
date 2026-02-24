@@ -1,0 +1,55 @@
+id: jurassic-snack
+name: "Jurassic Snack"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+  - Animals
+  - Bruno Cathala
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Clever
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Bruno Cathala
+  - Théo Rivière
+publisher:
+  - The Flying Games
+  - IELLO
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 7
+
+description: |
+  Jurassic Snack is a light two-player abstract game where players guide herds of chunky diplodocus dinosaurs across a terrain of face-down vegetation tokens, munching food as they move in straight lines. Tokens are revealed when collected, showing varying point values, volcanic eruptions, or occasionally a ravenous T-Rex that replaces one of your friendly herbivores. The hidden token element adds just enough uncertainty to keep both players engaged and surprised. Designed by Bruno Cathala and Théo Rivière, Jurassic Snack is a charming entry-level game well-suited for children and family gaming.
+
+upgrades: []

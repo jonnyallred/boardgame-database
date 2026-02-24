@@ -1,0 +1,54 @@
+id: jekyll-and-hyde-vs-scotland-yard
+name: "Jekyll & Hyde vs Scotland Yard"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Cooperative
+  - Hand Management
+  - Mystery
+  - Historical
+
+evokes:
+  - Tension
+  - Clever
+  - Mystery
+  - Connection
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - David Mortimer
+publisher:
+  - 25th Century Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Jekyll & Hyde vs Scotland Yard is a cooperative two-player trick-taking game where both players work together as the dual-natured Jekyll and Hyde, attempting to evade Scotland Yard through the streets of London. Players must carefully balance their trick wins: movement forward is determined by the lower-scoring player's tricks, so over-performance moves Scotland Yard closer to catching them. Played over two rounds with communication limits, the game demands precise coordination and reading your partner's hand. A clever spin on cooperative trick-taking that creates unique tension through its constraint-based movement system.
+
+upgrades: []

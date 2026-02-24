@@ -1,0 +1,58 @@
+id: java
+name: "Java"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Action Points
+  - Area Control
+  - Modular Board
+  - Euro
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+evokes:
+  - Clever
+  - Agency
+  - Progress
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - Ravensburger
+  - Rio Grande Games
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  Java is an action-point tile-placement game set on the Indonesian island of Java, the second game in Kramer and Kiesling's mask trilogy following Tikal. Players take turns spending action points to place hexagonal terrain tiles and build up the island, then score points by hosting palace festivals at elevated vantage points. Timing the festival celebrations for maximum advantage while denying opponents scoring opportunities creates sharp tactical tension. Winning the Deutscher Spiele Preis and Games Magazine's Best Advanced Strategy award in 2001-2002, Java is regarded as a refined and elegant mid-weight Euro.
+
+upgrades: []

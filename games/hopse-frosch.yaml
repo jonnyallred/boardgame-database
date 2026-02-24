@@ -1,0 +1,49 @@
+id: hopse-frosch
+name: "Hopse Frosch"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Animals
+  - Dexterity
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Hopse Frosch is a German children's game featuring frogs as its central theme, designed for young players. The game uses a simple action or dexterity mechanism involving frog-shaped pieces, typical of children's games aimed at preschool and early elementary age groups. Specific design and publishing details are limited in available sources.
+
+upgrades: []

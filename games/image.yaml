@@ -1,0 +1,51 @@
+id: image
+name: "Image"
+alternate_names:
+  - "Image: The Game of Personality Profiles"
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Trivia
+
+evokes:
+  - Clever
+  - Lucky
+  - Discovery
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - 3M
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Image is a trivia and personality profile game published by 3M as part of their acclaimed Bookshelf Games series in 1972. Players recreate famous persons of history and the present by placing them in their correct time period, country of origin, and major field of endeavor using a combination of profile and letter cards. Players score when a played letter card matches the last initial of the profiled person, rewarding broad historical and cultural knowledge. The game was packaged in the distinctive book-spine format that made 3M's games a mid-century design classic.
+
+upgrades: []

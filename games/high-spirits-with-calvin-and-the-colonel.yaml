@@ -1,0 +1,49 @@
+id: high-spirits-with-calvin-and-the-colonel
+name: "High Spirits with Calvin and the Colonel"
+alternate_names: []
+year: 1962
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Humor
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  High Spirits with Calvin and the Colonel is a children's board game published by Milton Bradley in 1962, based on the animated TV series Calvin and the Colonel which ran from 1961 to 1962. The series was an animated adaptation of the Amos 'n' Andy radio and television programs, following a Southern bear and fox living in a northern city. The game reflects the lighthearted comedic tone of the cartoon and is primarily a collector's item today given its connection to early 1960s television history.
+
+upgrades: []

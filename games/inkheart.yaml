@@ -1,0 +1,51 @@
+id: inkheart
+name: "Inkheart"
+alternate_names:
+  - "Tintenherz"
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Fantasy
+  - Narrative Heavy
+
+evokes:
+  - Discovery
+  - Wonder
+  - Lucky
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Inkheart is a board game published by Ravensburger in 2009 as a tie-in to the fantasy film adaptation of Cornelia Funke's beloved novel. Players navigate the world of the Inkworld, encountering characters and situations from the story as they race to complete story-driven objectives. The game targets families and fans of the book and film, using the rich Inkheart setting to provide a narrative context for its accessible adventure mechanics.
+
+upgrades: []

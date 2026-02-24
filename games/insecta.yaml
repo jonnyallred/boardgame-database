@@ -1,0 +1,52 @@
+id: insecta
+name: "Insecta"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Nature
+  - Variable Player Powers
+  - Cooperative
+
+evokes:
+  - Clever
+  - Discovery
+  - Agency
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [3, 4, 5]
+
+designer:
+  - Phil Eklund
+publisher:
+  - Sierra Madre Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Insecta is a board game designed by Phil Eklund and published by Sierra Madre Games in 1992, in which players design mutant insects by selecting a head, front legs, rear legs, appendages, and a tail from a range of body part options. Teams of player-designed insects must then work cooperatively to escape from a Hive by defeating guardian creatures including black widow spiders, praying mantises, and honey bees. The game blends cooperative combat with the creative joy of building customized arthropod creatures, reflecting Eklund's interest in biology and natural systems.
+
+upgrades: []

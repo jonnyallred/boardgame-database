@@ -1,0 +1,56 @@
+id: iron-dragon
+name: "Iron Dragon"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Network Building
+  - Route Building
+  - Economic
+  - Resource Management
+  - Fantasy
+  - Trains
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Rivalry
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Darwin Bromley
+  - Anne Nichols
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 300
+min_age: 12
+
+description: |
+  Iron Dragon is a fantasy rail-building game using Mayfair's famous crayon rail system, set in a world of dragons, dwarves, elves, and magic. Players draw their own rail networks directly on the laminated board with crayons, picking up and delivering goods between cities to earn income and build toward a winning network. Fantasy foremen of different races offer terrain-specific building discounts, and ships can connect distant rail networks. Part of the Empire Builder family of games, Iron Dragon brings the classic pick-up-and-deliver railroad formula to a richly imagined fantasy continent.
+
+upgrades: []

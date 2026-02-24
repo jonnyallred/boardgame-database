@@ -1,0 +1,54 @@
+id: isolation
+name: "Isolation"
+alternate_names:
+  - Isola
+  - Stranded
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Frank Thibault
+publisher:
+  - Lakeside Games
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Isolation is a classic two-player abstract strategy game originally published as Isola by Ravensburger in 1972. Players take turns moving their pawn one square in any direction and then removing any tile from the board, creating a hole that neither player can enter. The goal is to trap your opponent so they cannot move. Simple rules conceal deep tactical complexity as the board shrinks and movement options narrow — chosen by Games magazine for "The Games 100" in 1980 and republished internationally under multiple names including Stranded and Isolation.
+
+upgrades: []

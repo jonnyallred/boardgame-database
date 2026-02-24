@@ -1,0 +1,52 @@
+id: hyena-chase
+name: "Hyena chase"
+alternate_names:
+  - "Hyena"
+  - "L'ib el merafib"
+year: 1925
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Racing
+  - Dice Rolling
+  - Animals
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Hyena chase is a traditional North African spiral race game originating in Sudan, where it is called l'ib el merafib (game of the hyena). Players race their "mother" pieces along a spiral track from the village to the well and back, rolling dice to determine movement and needing a six to enter from the starting village. Once a player's mother washes at the well they need another six to begin the return journey, and whoever returns first is awarded the role of the hyena for additional entertainment. The game was recorded by R. Davies in 1925 and has since been widely studied as an example of African traditional game design.
+
+upgrades: []

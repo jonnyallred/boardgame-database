@@ -1,0 +1,51 @@
+id: hystericoach
+name: "HysteriCoach"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Teams
+  - Real-time
+
+evokes:
+  - Humor
+  - Connection
+  - Tension
+  - Lucky
+  - Rivalry
+
+possible_counts: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+true_counts: [6, 8, 10, 12]
+
+designer:
+  - Walter Obert
+publisher:
+  - Kikigagne
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  HysteriCoach is a team party game designed by Walter Obert and published by Kikigagne for four to fourteen players. Coaches direct their team members using only gestures and by calling out player names, without verbal instructions, to accomplish comedic physical tasks or answer challenges. The game is available in both a football-themed original edition and the HysteriCoach Hockey edition for the Canadian and American market. Its physical, communicative gameplay makes it ideal for large group events and team-building activities.
+
+upgrades: []

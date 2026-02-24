@@ -1,0 +1,54 @@
+id: invasion-america
+name: "Invasion America"
+alternate_names:
+  - Invasion: America – Death Throes of the Superpower
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Powerful
+  - Masterful
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Redmond A. Simonsen
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 600
+min_age: 14
+
+description: |
+  Invasion America is a 1976 SPI wargame depicting a fictional near-future scenario in which three mega-national alliances — the European Socialist coalition, the South American Union, and the Pan Asiatic League — jointly invade the United States and Canada in the year 2000. Played using hex-and-counter mechanics with an "I go, You go" sequence, the game features untried units that simulate fog of war, multi-front strategic management, and six shorter scenarios plus a massive 60-turn campaign game. A notable Cold War-era wargame that imagines a plausible alternate military catastrophe on American soil.
+
+upgrades: []

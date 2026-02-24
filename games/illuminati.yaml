@@ -1,0 +1,54 @@
+id: illuminati
+name: "Illuminati"
+alternate_names:
+  - "Illuminati: The Game of Conspiracy"
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Bluffing
+  - Trading
+  - Take That
+  - Cult Classic
+
+evokes:
+  - Persuasion
+  - Humor
+  - Powerful
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Steve Jackson
+publisher:
+  - Steve Jackson Games
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 360
+min_age: 13
+
+description: |
+  Illuminati is a card game designed by Steve Jackson and published by Steve Jackson Games in 1982, inspired by the Illuminatus! Trilogy by Robert Shea and Robert Anton Wilson. Players each control a secret Illuminati faction competing to take over the world by gaining control of groups ranging from the International Communist Conspiracy to the Secret Masters of Fandom. Players spend money to attack and control other groups, building a power structure of linked cards while negotiating deals and forming temporary alliances. The game won the 1982 Origins Award and is celebrated as a tongue-in-cheek conspiracy satire.
+
+upgrades: []

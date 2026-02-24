@@ -1,0 +1,54 @@
+id: ironclads-series
+name: "Ironclads series"
+alternate_names:
+  - The Ironclads
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Maritime
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Powerful
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John W. Fuseler
+publisher:
+  - Yaquinto Games
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  The Ironclads is a tactical-level American Civil War naval combat board game published by Yaquinto in 1979, simulating battles between ironclad warships like the Monitor and the Merrimack. Each gun on each ship is fired and resolved individually, creating a highly detailed damage-tracking simulation where armor locations, turret health, and flotation are all carefully modeled. An expansion kit with additional ships and scenarios was published the following year. Winner of the Charles Roberts Award for Best Initial Release of 1979, The Ironclads became a touchstone of naval wargame design and was republished by Excalibre Games in 1993.
+
+upgrades: []

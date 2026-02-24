@@ -1,0 +1,56 @@
+id: inis
+name: "Inis"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Card Drafting
+  - Drafting
+  - Hand Management
+  - Mythology
+  - Medieval
+  - Euro
+  - Cult Classic
+
+evokes:
+  - Tension
+  - Clever
+  - Powerful
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Christian Martinez
+publisher:
+  - Matagot
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  Inis is a Celtic-themed area control and card drafting game designed by Christian Martinez and published by Matagot in 2016. Players compete to become King of the Island (Inis) through one of three victory conditions: controlling a majority of territories, having clans present in a certain number of territories containing sanctuaries, or having clans in territories ruled by a set number of enemy chieftains. Each round begins with a draft of action cards that determine available maneuvers, and the interaction between drafted cards creates rich decision-making. The game is renowned for its elegant tension between the three different winning paths, which shift with each card draft.
+
+upgrades: []

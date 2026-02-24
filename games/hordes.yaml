@@ -1,0 +1,54 @@
+id: hordes
+name: "Hordes"
+alternate_names:
+  - "Hordes: Monstrous Miniatures Combat"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Asymmetric
+  - Variable Player Powers
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Masterful
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jason Soles
+  - Matt Wilson
+publisher:
+  - Privateer Press
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Hordes is a 30mm tabletop miniature wargame designed by Jason Soles and Matt Wilson, published by Privateer Press in 2006 as a companion game to their flagship Warmachine system. Players command warlocks and their warbeasts—powerful fantasy monsters from various savage factions—in tactical skirmishes, with the key distinction that warbeasts generate fury rather than the focus used by Warmachine warcasters. Fully cross-compatible with Warmachine, Hordes won the 2006 Origins Award for Miniatures Game or Expansion of the Year and remains an active competitive miniatures game system.
+
+upgrades: []

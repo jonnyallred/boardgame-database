@@ -1,0 +1,56 @@
+id: islebound
+name: "Islebound"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Modular Board
+  - Fantasy
+  - Maritime
+  - Red Raven Games
+
+evokes:
+  - Discovery
+  - Wonder
+  - Agency
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Ryan Laukat
+publisher:
+  - Red Raven Games
+artist:
+  - Ryan Laukat
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Islebound is a seafaring exploration game set in Ryan Laukat's richly illustrated fantasy world of sea monsters, pirates, and mystical island towns. Players sail between islands to gather resources, hire crew, and conquer or befriend towns — either through combat with pirates and sea monsters, or by completing diplomatic events. Conquered towns are commissioned as buildings in each player's capital city, granting unique abilities and scoring bonuses. The modular map changes every game, and the variety of strategies (conqueror, diplomat, merchant) gives Islebound strong replayability alongside its gorgeous art direction.
+
+upgrades: []

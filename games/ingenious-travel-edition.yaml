@@ -1,0 +1,52 @@
+id: ingenious-travel-edition
+name: "Ingenious: Travel Edition"
+alternate_names:
+  - "Einfach Genial - Reiseedition"
+year: 2007
+
+# Relationships
+game_family: null
+edition: "Travel"
+base_game: ingenious
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Agency
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Ingenious: Travel Edition is a compact two-player adaptation of Reiner Knizia's abstract tile-placement game Ingenious, published by Fantasy Flight Games in 2007 (US edition). The game retains the core mechanic of placing domino-like tiles to score for contiguous lines of matching symbols, with the distinctive rule that your score equals your lowest-scoring color. Designed for portability, the travel edition condenses the full game experience into a smaller format suitable for on-the-go play.
+
+upgrades: []

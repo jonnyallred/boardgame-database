@@ -1,0 +1,54 @@
+id: hurtgen-forest
+name: "Hurtgen Forest"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kip Allen
+  - Howard Barasch
+  - Redmond A. Simonsen
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Hurtgen Forest is a board wargame designed by Kip Allen, Howard Barasch, and Redmond A. Simonsen, published by Simulations Publications Inc. (SPI) in 1976 as part of the Westwall: Four Battles to Germany quadrigame collection. The game simulates the brutal and costly Allied campaign in the Hurtgen Forest on the German border in late 1944, one of the longest battles fought by the U.S. Army in World War II. The folio-format microgame was also sold individually and is known for capturing the attritional nature of fighting through dense forested terrain.
+
+upgrades: []

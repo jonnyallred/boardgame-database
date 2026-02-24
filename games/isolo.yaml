@@ -1,0 +1,50 @@
+id: isolo
+name: "isolo"
+alternate_names:
+  - Nsolo
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Mancala
+
+evokes:
+  - Masterful
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 60
+min_age: 8
+
+description: |
+  Isolo is a family of traditional mancala games played across East and Central Africa, with distinct variants played by the Bemba of Zambia and the Sukuma of Tanzania (with separate versions for boys and girls). Played on a 4x8 board, players take turns sowing seeds counterclockwise from holes on their side, capturing opponent seeds through specific landing rules. More than a recreational game, Isolo reflects African social traditions and is passed down across generations, with different rule variants encoding community-specific cultural meanings. A significant example of African board game heritage.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: keythedral
+name: "Keythedral"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Resource Management
+  - Auctions/Bidding
+  - Set Collection
+  - Modular Board
+  - Euro
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Richard Breese
+publisher:
+  - R&D Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Keythedral is a Euro strategy game from Richard Breese's Key series in which players build a medieval village and compete to contribute stained glass windows to a great cathedral. Workers collect resources from fields adjacent to their cottages, with an adjacency placement restriction creating spatial tension, and players compete to fulfill building contracts and cathedral window sets. Incorporating tile laying, worker placement, resource management, and bidding mechanics, Keythedral reached the top 100 on release and remains a fondly regarded gateway to heavier Euro games.
+
+upgrades: []

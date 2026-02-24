@@ -1,0 +1,58 @@
+id: jamaica
+name: "Jamaica"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Hand Management
+  - Simultaneous Action
+  - Pirates
+  - Family
+
+evokes:
+  - Rivalry
+  - Lucky
+  - Tension
+  - Humor
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Malcolm Braff
+  - Bruno Cathala
+  - Sébastien Pauchon
+publisher:
+  - GameWorks
+artist:
+  - Miguel Coimbra
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 8
+
+description: |
+  Jamaica is a pirate-themed racing game set on the high seas where players sail their ships around the island of Jamaica, battling rivals and collecting treasure. Each round the captain player rolls two dice and assigns them to day or night actions — all players simultaneously choose a card to play, balancing movement, food, gold, and cannons. Cutthroat combat erupts when ships occupy the same space, with the loser losing cargo. Players race to finish first while accumulating the most gold and victory points, creating a lively mix of racing tactics and opportunistic piracy that works well with families and casual groups.
+
+upgrades: []

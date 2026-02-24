@@ -1,0 +1,53 @@
+id: intruder
+name: "Intruder"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Sci-Fi
+  - Horror
+  - Puzzle Solving
+  - Hidden Movement
+
+evokes:
+  - Dread
+  - Tension
+  - Mystery
+  - Agency
+  - Masterful
+
+possible_counts: [1]
+true_counts: [1]
+
+designer: []
+publisher:
+  - Task Force Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Intruder is a solitaire science fiction microgame published by Task Force Games in 1980, inspired by the film Alien. An alien creature has escaped the labs of space station Prometheus and hunts crew members as it matures and gains new abilities. The player controls the crew, working to capture the alien while young or kill it before losses become unacceptable, with the option of triggering a self-destruct as a last resort. Strategic decisions snowball quickly, creating a tense 45-minute experience of escalating threat management aboard a doomed space station.
+
+upgrades: []

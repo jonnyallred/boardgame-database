@@ -1,0 +1,54 @@
+id: hickory-dickory
+name: "Hickory Dickory"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Set Collection
+  - Tile Placement
+  - Cooperative
+  - Family
+  - Plaid Hat Games
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Agency
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Sawyer West
+publisher:
+  - Plaid Hat Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Hickory Dickory is a worker rotation scavenger hunt game published by Plaid Hat Games in 2023, supporting one to four players. Players take on the roles of mice scrambling up a grandfather clock to collect treasures during the brief moments when the sleeping cat is not watching. The game uses a worker rotation mechanism in which mice placed on the clock face move each round like the hands of a clock, creating a dynamic planning puzzle. Set collection and tile placement combine to reward clever routing and timing in this family-weight cooperative experience.
+
+upgrades: []

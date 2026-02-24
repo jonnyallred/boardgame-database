@@ -1,0 +1,53 @@
+id: kami
+name: "Kami"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Abstract
+  - Medieval
+  - Japanese
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer: []
+publisher:
+  - Oka Luda
+artist:
+  - Pauline Berdal
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Kami is a card game for 1-4 players that updates mechanics from the ancient Japanese game of Goita Shogi, casting players as feudal Japanese forces in cerebral strategic combat. Each player is dealt eight cards forming their army from eight distinct force types of varying numbers and strength in the deck. Strategic passing — forgoing your turn even when you can counter — is a key tool, as it manipulates the cards others must play in subsequent turns. Published by Oka Luda with beautiful art by Pauline Berdal, Kami packs significant strategic depth into a small, elegantly themed package.
+
+upgrades: []

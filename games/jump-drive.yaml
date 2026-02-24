@@ -1,0 +1,56 @@
+id: jump-drive
+name: "Jump Drive"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Hand Management
+  - Tableau Building
+  - Simultaneous Action
+  - Sci-Fi
+  - Gateway
+
+evokes:
+  - Progress
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Tom Lehmann
+publisher:
+  - Rio Grande Games
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Jump Drive is a fast-playing standalone card game that distills the engine-building concepts of Race for the Galaxy into a 15-20 minute experience for 2-4 players. Players simultaneously select cards to play from their hands, paying for them by discarding other cards, and race to accumulate 50 victory points through developed worlds and technological advances. The discard-to-play mechanic creates constant hand management tension, as every card played means another card sacrificed. Designed as an accessible introduction to the Race for the Galaxy universe, Jump Drive rewards efficient planning and swift engine construction.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: iuopoly
+name: "I.U.opoly"
+alternate_names:
+  - "IUopoly"
+  - "IU Opoly"
+year: 1987
+
+# Relationships
+game_family: monopoly
+edition: "Indiana University"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Progress
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Late for the Sky Productions
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 8
+
+description: |
+  I.U.opoly is an Indiana University-themed Monopoly variant published by Late for the Sky Productions in 1987, featuring Hoosier-themed properties, landmarks, and university locations instead of the standard Atlantic City streets. Players buy, trade, and develop IU properties while competing to bankrupt opponents in the classic Monopoly fashion. Like all university Monopoly editions, it serves as both a souvenir and a functional game for fans and alumni of Indiana University.
+
+upgrades: []

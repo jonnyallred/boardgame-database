@@ -1,0 +1,50 @@
+id: kaplansky-s-game
+name: "Kaplansky's game"
+alternate_names:
+  - Kaplansky's n-in-a-line
+year: 1950
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 0  # Preschool
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Clever
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Irving Kaplansky
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 20
+max_playtime: 120
+min_age: 10
+
+description: |
+  Kaplansky's game (or Kaplansky's n-in-a-line) is a combinatorial abstract strategy game named after mathematician Irving Kaplansky, played on an infinite lattice board. Two players alternate placing stones of their color; the winner is the first to form a line of k stones of their own color containing no opponent stones on that line. For k of 8 or more, the game is always a draw via pairing strategies. The game is studied in combinatorial game theory as an example where the winning strategy is intuitively plausible but mathematically unproven — a significant puzzle in the field.
+
+upgrades: []

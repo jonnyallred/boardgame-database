@@ -1,0 +1,53 @@
+id: hexagony
+name: "Hexagony"
+alternate_names:
+  - "Bin'Fa"
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+  - Dice Rolling
+  - Variable Player Powers
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Ken Hodkinson
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Hexagony is an abstract strategy game for two to six players, published by Avalon Hill in 1980 as a redesign of Ken Hodkinson's Bin'Fa. Players place and maneuver stacks of tokens across a large hexagonal board divided into six colored triangular territories, paying supply chits and rolling dice to move pieces. The game involves creating stacks of two or three tokens that can both attack and defend, with singletons having no offensive or defensive capability. Developed with input from Alan Moon during his early days at Avalon Hill, the game blends supply management with tactical positioning.
+
+upgrades: []

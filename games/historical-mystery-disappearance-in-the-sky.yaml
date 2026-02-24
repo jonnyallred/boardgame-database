@@ -1,0 +1,51 @@
+id: historical-mystery-disappearance-in-the-sky
+name: "Historical Mystery: Disappearance in the Sky"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: historical-mystery
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Mystery
+  - Historical
+  - Puzzle Solving
+
+evokes:
+  - Mystery
+  - Tension
+  - Discovery
+  - Clever
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Hobby World
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Historical Mystery: Disappearance in the Sky is part of Hobby World International's Historical Mystery deduction game series, each entry based on a real historical case. Players investigate a mysterious disappearance involving aviation, gathering clues by visiting locations and questioning witnesses over a fixed number of moves before answering a series of case-resolution questions. The series is notable for grounding its mysteries in verifiable historical events, giving players educational context alongside the deduction gameplay.
+
+upgrades: []

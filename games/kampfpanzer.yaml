@@ -1,0 +1,55 @@
+id: kampfpanzer
+name: "KampfPanzer: Armored Combat, 1937–40"
+alternate_names:
+  - KampfPanzer
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Dunnigan
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  KampfPanzer: Armored Combat, 1937-40 (German for "battle tank") is a 1973 SPI wargame designed by Jim Dunnigan simulating the earliest tank-versus-tank combat engagements, featuring various combinations of tanks, infantry, and artillery from the first years of armored warfare. Originally published as a pull-out game in Strategy & Tactics magazine No. 41, it was also released in a flat-pack box. The game introduced the SiMov simultaneous movement system, which was criticized as too cumbersome; it placed 136th out of 202 games in SPI's 1976 North American popularity poll, leading SPI to abandon the system. A historical curiosity for wargame design history.
+
+upgrades: []

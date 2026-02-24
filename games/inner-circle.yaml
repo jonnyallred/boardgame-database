@@ -1,0 +1,52 @@
+id: inner-circle
+name: "Inner Circle"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Economic
+  - Dice Rolling
+
+evokes:
+  - Tension
+  - Lucky
+  - Rivalry
+  - Progress
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Virginia Charves
+  - Wayne J. Yee
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Inner Circle is a board game designed by Virginia Charves and Wayne J. Yee, published by Milton Bradley in 1981. Played on a unique multi-level gameboard, players navigate from the outer ring toward the inner circle, encountering opportunities and hazards along the way. The game was marketed as a survival-themed board game in which strategic movement and resource management determine who reaches the coveted inner circle first.
+
+upgrades: []

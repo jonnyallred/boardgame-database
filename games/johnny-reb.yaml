@@ -1,0 +1,54 @@
+id: johnny-reb
+name: "Johnny Reb"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Dudes on a Map
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Hill
+publisher:
+  - Adventure Games
+  - GDW
+artist: []
+playtime_minutes: 360
+min_playtime: 180
+max_playtime: 600
+min_age: 14
+
+description: |
+  Johnny Reb is a miniatures wargame designed by John Hill for regimental-level American Civil War battles. Each game turn represents approximately 15 minutes of real battle time, giving engagements a realistic flow and pacing. The rules accommodate almost any scale of miniatures from 9mm to 25mm, and include complete order-of-battle systems, morale, command, and combat resolution. Published first by Adventure Games in 1983, Johnny Reb spawned two subsequent editions and remains a respected rule set in the historical wargaming community for its accessible yet detailed simulation of Civil War infantry, cavalry, and artillery combat.
+
+upgrades: []

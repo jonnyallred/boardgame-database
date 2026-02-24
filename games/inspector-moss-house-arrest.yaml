@@ -1,0 +1,54 @@
+id: inspector-moss-house-arrest
+name: "Inspector Moss: House Arrest"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Dice Rolling
+  - Puzzle Solving
+  - Mystery
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Agency
+  - Discovery
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer:
+  - Émile Garet
+publisher:
+  - Mazzy & Co
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Inspector Moss: House Arrest is a deduction puzzle game in which players take the role of Inspector Moss investigating the murder of millionaire baker John Dough at his country manor. Players explore a 25-tile house grid, rolling dice to move, gather evidence, and obtain assistance. Uniquely, the identity of the murderer is not set at the start — it emerges through evidence collected during play, requiring players to uncover the truth before time runs out. The dice-based resource system and tile-based exploration give the game a refreshing procedural detective feel.
+
+upgrades: []

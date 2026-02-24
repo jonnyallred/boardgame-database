@@ -1,0 +1,58 @@
+id: jantaris
+name: "Jantaris"
+alternate_names:
+  - The Guild of Merchants
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Area Control
+  - Economic
+  - Trading
+  - Medieval
+  - Euro
+
+evokes:
+  - Agency
+  - Rivalry
+  - Progress
+  - Tension
+  - Clever
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Zbyněk Vrana
+publisher:
+  - Czech Board Games
+artist:
+  - Tomáš Kučerovský
+  - Jan Kantor
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 8
+
+description: |
+  Jantaris is a Euro strategy board game published by Czech Board Games in 2007, originally conceived under the title The Guild of Merchants. Each player leads a minor guild seeking to rise in regional importance by controlling provinces, bidding at an auction hall for valuable goods, and selling wares at the town market square. The game combines area control with bidding and economic competition, offering accessible but engaging guild management gameplay for three to four players.
+
+upgrades: []

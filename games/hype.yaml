@@ -1,0 +1,51 @@
+id: hype
+name: "Hype"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Family
+
+evokes:
+  - Progress
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Steve Fairnie
+  - Willie Williams
+publisher:
+  - Virgin Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Hype is a board game designed by Steve Fairnie (lead singer of British post-punk bands Writz and The Technos) and Willie Williams, published by Virgin Games in 1985. Players start as unknown pop bands and must climb from performing local gigs and recording demos all the way to getting a record deal and flying on a private jet, with the first band to land a Number 1 hit winning. The game simulates the music industry's economics and luck-driven nature, reflecting the era's vibrant UK pop music scene.
+
+upgrades: []

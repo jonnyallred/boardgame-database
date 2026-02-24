@@ -1,0 +1,49 @@
+id: hexxagon
+name: "Hexxagon"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Hex Map
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Argo Games
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Hexxagon is a two-player abstract strategy game played on a hexagonal grid in which players compete to control the majority of pieces at the end of the game. On each turn, a player can either move one space (cloning a piece at the destination) or jump two spaces (moving without cloning). Any opponent pieces adjacent to a placed piece are converted to the active player's color. The game requires balancing aggressive conversion plays with positional awareness, and has been widely adapted as a digital game on multiple platforms.
+
+upgrades: []

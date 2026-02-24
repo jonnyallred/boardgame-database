@@ -1,0 +1,57 @@
+id: imperium-classics
+name: "Imperium: Classics"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: imperium
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Civilization
+  - Historical
+  - Asymmetric
+  - Variable Player Powers
+  - Tableau Building
+  - Osprey Games
+
+evokes:
+  - Progress
+  - Discovery
+  - Powerful
+  - Agency
+  - Unique
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Nigel Buckle
+  - Daniele Tascini
+publisher:
+  - Osprey Games
+artist:
+  - Mihajlo Dimitrievski
+playtime_minutes: 120
+min_playtime: 40
+max_playtime: 160
+min_age: 14
+
+description: |
+  Imperium: Classics is an asymmetric deck-building civilization game designed by Nigel Buckle and Dávid Turczi, published by Osprey Games in 2021. Each of eight historical civilizations (Carthaginian, Celt, Greek, Macedonian, Persian, Roman, Scythian, and Viking) has its own unique starter deck and development path, progressing from barbarian origins to a fully developed civilization through card acquisitions and conquests. The game supports solo play with an included automaton opponent and is fully compatible with its companion game Imperium: Legends for expanded civilization options. Play time scales with player count at approximately 40 minutes per player.
+
+upgrades: []

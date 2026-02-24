@@ -1,0 +1,54 @@
+id: intent-to-kill
+name: "Intent to Kill"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - 1 vs Many
+  - Asymmetric
+  - Hidden Movement
+  - Mystery
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Artur Khodzhikov
+publisher:
+  - Hobby World
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Intent to Kill is a 2024 asymmetric deduction game pitting one player as a secretive murderer against another playing a detective in a noir-tinged crime thriller. The murderer commits five murders following a hidden motive, intimidating civilians to prevent questioning and masking their identity. After the fifth murder, the detective must correctly identify both the murderer and the motive to win — one wrong guess and the killer walks free. The murderer's phase of intimidating and selecting victims creates a tense information game, while the detective must balance logic, probability, and social observation to unravel the pattern.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: icbm
+name: "I.C.B.M."
+alternate_names:
+  - "ICBM"
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Abstract
+
+evokes:
+  - Tension
+  - Dread
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Neil Zimmerer
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  I.C.B.M. is a two-player wargame designed by Neil Zimmerer and published by Mayfair Games in 1981 as one of the publisher's early releases. Players engage in nuclear warfare using intercontinental ballistic missiles and anti-ballistic missile defenses in a tense Cold War simulation. The game reflects the nuclear anxiety of the era and challenges players to manage offensive strike capabilities against defensive countermeasures in a game of strategic deterrence and escalation.
+
+upgrades: []

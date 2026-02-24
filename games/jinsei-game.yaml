@@ -1,0 +1,54 @@
+id: jinsei-game
+name: "Jinsei Game"
+alternate_names:
+  - The Game of Life (Japan)
+  - 人生ゲーム
+year: 1968
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+  - Economic
+
+evokes:
+  - Lucky
+  - Humor
+  - Progress
+  - Discovery
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Takara
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 6
+
+description: |
+  Jinsei Game (人生ゲーム, "Life Game") is the Japanese edition of The Game of Life, released by Takara in 1968 during Japan's era of rapid economic growth. Players spin a roulette wheel and progress through life stages — including elementary school, junior high, high school, and either university or career — before accumulating wealth. Unlike the North American version, players begin in their toddler years, giving the Japanese edition a distinct cultural arc. With over 55 editions released since 1968, each version reflects the social trends and popular culture of its era, making Jinsei Game a living document of postwar Japanese society.
+
+upgrades: []

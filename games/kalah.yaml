@@ -1,0 +1,53 @@
+id: kalah
+name: "Kalah"
+alternate_names:
+  - Mancala
+year: 1940
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Mancala
+  - No Math
+
+evokes:
+  - Masterful
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - William Julius Champion Jr.
+publisher:
+  - Kalah Game Company
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Kalah is a modern variant of the ancient mancala family of games, invented by William Julius Champion Jr. in 1940 and commercially sold from 1944 onward. Played on a board of two rows of six pits plus two stores (kalahs) at each end, players take turns sowing seeds counterclockwise from their pits, with bonus turns for landing in their own store and captures triggered by landing in empty opponent-adjacent pits. Simple to learn yet strategically rich, Kalah is one of the most widely sold and recognized abstract strategy games in the world, forming the basis for most commercial Mancala sets.
+
+upgrades: []

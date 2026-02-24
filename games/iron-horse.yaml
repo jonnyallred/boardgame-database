@@ -1,0 +1,54 @@
+id: iron-horse
+name: "Iron Horse"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Network Building
+  - Route Building
+  - Economic
+  - Trains
+  - Historical
+
+evokes:
+  - Progress
+  - Agency
+  - Rivalry
+  - Clever
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5]
+
+designer:
+  - R. K. Geier
+publisher:
+  - Icarus Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Iron Horse is a 1983 train card game by R.K. Geier and Icarus Games, simulating the development of the American railroad network. Players build routes between city cards using a distance system based on Cartesian coordinates (Manhattan metric: dx+dy), creating a geometric puzzle underlying the railroad theme. Supporting up to 8 players, Iron Horse uses card play to develop North American rail connections. It represents an early and mechanically distinctive approach to the railroad network-building genre that later became popular.
+
+upgrades: []

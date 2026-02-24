@@ -1,0 +1,51 @@
+id: historical-mystery-death-at-the-ball
+name: "Historical Mystery: Death at the Ball"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: historical-mystery
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Mystery
+  - Historical
+  - Puzzle Solving
+
+evokes:
+  - Mystery
+  - Tension
+  - Discovery
+  - Clever
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Hobby World
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Historical Mystery: Death at the Ball is a deduction game in which a French nobleman has been poisoned during a lavish ball, and players must uncover the killer. Published by Hobby World International in 2023, players visit wealthy households and interrogate aristocrats and commoners over 24 moves before being quizzed on the details of the case. Each game in the Historical Mystery series is based on real historical events and presents a single self-contained investigation.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: ido
+name: "Ido"
+alternate_names:
+  - "IDO"
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Ido is a visually striking abstract strategy game published by Rio Grande Games in 1998, named a Game of the Year by Games Magazine. Players move colorful blocks on an abstract board, trying to get four of their blocks from one side to the other. Uniquely, players may also move the board itself, rotating it to change the geometric pattern and shift pieces closer to their goal. The combination of piece movement and board manipulation creates an innovative spatial puzzle that won acclaim for its beauty and originality.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: hey-pa-theres-a-goat-on-the-roof
+name: "Hey Pa! There's a Goat on the Roof"
+alternate_names: []
+year: 1966
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Animals
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Wonder
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Hey Pa! There's a Goat on the Roof is a children's board game published by Parker Brothers in 1966. Designed around a farm theme, players navigate a simple board while dealing with the mischief of goats. The game is a lighthearted race or action game aimed at young children, featuring the kind of silly farm animal humor that made it a novelty item of the 1960s.
+
+upgrades: []

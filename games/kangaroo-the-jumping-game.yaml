@@ -1,0 +1,50 @@
+id: kangaroo-the-jumping-game
+name: "Kangaroo: The Jumping Game"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Flagg
+publisher:
+  - The Flaggs, Inc.
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 8
+
+description: |
+  Kangaroo: The Jumping Game is a two-player abstract strategy game played on an 8x8 grid, designed by John Flagg and published by The Flaggs, Inc. in 1977. Each player starts with two rows of pieces and takes turns jumping over pieces — their own or their opponent's — in any direction, with jumped opponent pieces removed. Multi-jump chains are allowed as in checkers, but pieces move in all directions (not just forward). Pieces that reach the opponent's end of the board are worth double points. Victory goes to the player with the most points at game end, rewarding calculated aggressive jumping and defensive positioning.
+
+upgrades: []

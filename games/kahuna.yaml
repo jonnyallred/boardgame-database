@@ -1,0 +1,54 @@
+id: kahuna
+name: "Kahuna"
+alternate_names:
+  - Arabana-Ikibiti
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - Abstract
+  - Gateway
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Günter Cornett
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 35
+min_playtime: 25
+max_playtime: 40
+min_age: 10
+
+description: |
+  Kahuna is a two-player area control card game set in a Polynesian archipelago of 12 islands, where players compete to dominate islands by placing bridge tokens. Players play cards matching island names to place bridges, and when a player owns the majority of bridges around an island they capture it and remove all opponent bridges — triggering chain reactions. The game is played over three short rounds with mid-game scoring, rewarding tactical hand management and chain-capture tactics. Originally published as Arabana-Ikibiti by Bambus Spieleverlag, the Kosmos edition brought it into the well-regarded two-player game series.
+
+upgrades: []

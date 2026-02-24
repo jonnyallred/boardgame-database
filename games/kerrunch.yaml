@@ -1,0 +1,52 @@
+id: kerrunch
+name: "Kerrunch"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Fantasy
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Kerrunch is a simplified fantasy sports board game published by Games Workshop in 1991, set in the Warhammer universe and inspired by Blood Bowl. Teams of heavily armored Orcs, Dwarfs, Humans, and Elves battle their way across the pitch to score touchdowns, with violence and chaos an integral part of the sport. Designed as a more accessible entry point to the Blood Bowl experience for younger players aged 8 and up, Kerrunch strips away the deeper strategic layers while retaining the anarchic fantasy football spirit of its parent game.
+
+upgrades: []

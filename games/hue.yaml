@@ -1,0 +1,52 @@
+id: hue
+name: "Hue"
+alternate_names:
+  - "Pack O Game: HUE"
+year: 2015
+
+# Relationships
+game_family: pack-o-game
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Hand Management
+  - Set Collection
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Chris Handy
+publisher:
+  - Perplext
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 8
+
+description: |
+  Hue is a tile-laying strategy card game from the Pack O Game series designed by Chris Handy and published by Perplext. Players secretly choose three colors at the start and then build the largest color sections on a shared abstract board over ten minutes of play. The Pack O Game series is notable for packaging complete games in gum-pack-sized boxes, making Hue extremely portable. Players compete to maximize the area covered by their secretly chosen colors while constraining opponents.
+
+upgrades: []

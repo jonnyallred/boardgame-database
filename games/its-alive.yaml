@@ -1,0 +1,55 @@
+id: its-alive
+name: "It's Alive!"
+alternate_names:
+  - Candle Quest
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Auctions/Bidding
+  - Hand Management
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Humor
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Yehuda Berlinger
+publisher:
+  - Reiver Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  It's Alive! is a light auction and set collection card game published by Reiver Games in 2007 in which players compete as mad scientists racing to assemble a complete monster from body parts. Each turn, a body part card is flipped and players bid to acquire it or take gold instead, creating a tense push-and-pull between collecting and banking. The game ends when one player completes their monster and cries "It's Alive!" A third edition was published as Candle Quest by Victory Point Games with a Hanukkah theme, reflecting the game's original mockup concept.
+
+upgrades: []

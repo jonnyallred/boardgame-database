@@ -1,0 +1,55 @@
+id: just-4-fun
+name: "Just 4 Fun"
+alternate_names:
+  - Just4Fun
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Pattern Building
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jürgen P. Grunau
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 9
+
+description: |
+  Just 4 Fun is an abstract card game published by KOSMOS in which players hold cards numbered 1 through 19 and play one to four cards per turn to place stones on a 36-square numbered grid. The goal is to form a line of four stones horizontally, vertically, or diagonally. Strategic card play and blocking opponents while building your own lines creates genuine tension in a compact format. Winner of the 2006 Japan Boardgame Prize Best Foreign Game for Beginners and nominated for multiple family game awards, Just 4 Fun successfully bridges the gap between abstract strategy and accessible family gaming.
+
+upgrades: []

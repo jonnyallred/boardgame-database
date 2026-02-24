@@ -1,0 +1,54 @@
+id: imperial-2030
+name: "Imperial 2030"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: imperial
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Rondel
+  - Area Control
+  - Economic
+  - Sci-Fi
+  - Euro
+  - Mac Gerdts
+
+evokes:
+  - Clever
+  - Powerful
+  - Agency
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Mac Gerdts
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Imperial 2030 is a near-future reimagining of Mac Gerdts's Imperial, published by Rio Grande Games in 2009. Six global powers (USA, Europe, Russia, China, India, and Brazil) compete to control neutral territories around the world, activated through the same investor-nation rondel system. Players act as international investors who fund and direct these six nations, earning dividends based on bond holdings rather than territorial allegiance. The modern setting updates the theme while retaining the elegant investment-and-rondel mechanics that made the original Imperial a Euro classic.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: kerala-the-way-of-the-elephant
+name: "Kerala: The Way of the Elephant"
+alternate_names:
+  - Kerala
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Pattern Building
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Kirsten Hiese
+publisher:
+  - Thames & Kosmos
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Kerala: The Way of the Elephant is a tile placement game set during a Kerala elephant festival in India, where players build their festival platforms by moving elephants to claim and place colorful tiles. Each round players move one of their two elephants to take a new tile and expand their grid; the goal is to have all colors represented on their platform with each color forming a single contiguous group. Tiles show elephant symbols that score points, but isolated color groups must be discarded at game end — creating a spatial puzzle that demands careful planning with limited moves.
+
+upgrades: []

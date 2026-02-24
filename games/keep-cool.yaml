@@ -1,0 +1,55 @@
+id: keep-cool
+name: "Keep Cool"
+alternate_names:
+  - Keep Cool: Gambling with the Climate
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Economic
+  - Events
+  - Civilization
+
+evokes:
+  - Tension
+  - Persuasion
+  - Agency
+  - Dread
+  - Clever
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Klaus Eisenack
+  - Gerhard Petschel-Held
+publisher:
+  - Spieltrieb
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Keep Cool: Gambling with the Climate is an educational negotiation game developed by scientists at the Potsdam Institute for Climate Impact Research, in which 3-6 players represent groups of nations — such as Europe, OPEC, and developing countries — navigating the tension between economic growth and climate stability. Players choose between "black" (polluting) or "green" growth strategies while negotiating emissions agreements, adapting to climate impacts like droughts and floods that intensify as global temperature rises. Created as a serious game for environmental education, Keep Cool has been used in schools, universities, and by the German Federal Ministry for the Environment as a teaching tool.
+
+upgrades: []

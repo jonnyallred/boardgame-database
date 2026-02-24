@@ -1,0 +1,51 @@
+id: hitlers-last-gamble
+name: "Hitler's Last Gamble"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - 3W
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Hitler's Last Gamble is a two-player operational-level board wargame published by 3W in 1989, simulating the Battle of the Bulge—Germany's final major offensive in the West during World War II in December 1944. Players command either Allied or German forces across two paper maps, contesting critical Belgian and Luxembourg terrain. The game focuses on the desperate German attempt to split Allied lines and capture the port of Antwerp, while the Allied player scrambles to stem the breakthrough and counterattack.
+
+upgrades: []

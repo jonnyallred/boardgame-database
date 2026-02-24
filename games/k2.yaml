@@ -1,0 +1,56 @@
+id: k2
+name: "K2"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Variable Setup
+  - Resource Management
+  - Nature
+  - Family
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Rivalry
+  - Lucky
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Adam Kałuża
+publisher:
+  - Rebel
+artist:
+  - Piotr Foksowicz
+  - Zbigniew Umgelter
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 8
+
+description: |
+  K2 is a hand management game where players control two mountaineers racing to summit the world's second-highest and most deadly peak. Each player has an identical deck of movement and acclimatization cards; the captain each round picks a weather tile affecting conditions for all climbers. Players must balance climbing speed against acclimatization — move too fast without adjusting and your climbers risk dying. The double-sided board and variable weather create four combinations of difficulty. Notable as the first Polish game ever nominated for the Spiel des Jahres, K2 offers a gripping survival tension rarely matched in its weight class.
+
+upgrades: []

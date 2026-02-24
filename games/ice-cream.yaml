@@ -1,0 +1,49 @@
+id: ice-cream
+name: "Ice Cream"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Food Theme
+  - Set Collection
+
+evokes:
+  - Lucky
+  - Humor
+  - Connection
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Ice Cream is a children's board game themed around collecting and building ice cream sundaes or cones. Players compete to gather the right ingredients or scoops to complete their ice cream orders before opponents, using simple mechanics appropriate for young children. The game's bright, appetizing artwork and food theme make it an approachable first game for young players.
+
+upgrades: []

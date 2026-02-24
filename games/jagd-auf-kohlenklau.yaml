@@ -1,0 +1,52 @@
+id: jagd-auf-kohlenklau
+name: "Jagd auf Kohlenklau"
+alternate_names:
+  - Hunt for the Coal Thief
+year: 1943
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Discovery
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Leptien-Schiffers
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Jagd auf Kohlenklau ("Hunt for the Coal Thief") is a 1943 Nazi German propaganda board game produced by Leptien-Schiffers as part of the wartime "Kampf dem Kohlenklau" (Fight the Coal Thief) energy conservation campaign. Players roll a die and race across 50 spaces in pursuit of the cartoon Kohlenklau figure symbolizing household energy waste undermining the German war effort. Four million copies were produced and distributed to large households. The Kohlenklau character became a widely recognized propaganda icon appearing across German media. A historically significant artifact of WWII-era state propaganda through board gaming.
+
+upgrades: []

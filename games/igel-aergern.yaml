@@ -1,0 +1,55 @@
+id: igel-aergern
+name: "Igel Ärgern"
+alternate_names:
+  - "Hedgehogs in a Hurry"
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dice Rolling
+  - Racing
+  - Animals
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Doris Matthäus
+  - Frank Nestel
+publisher:
+  - Doris & Frank
+artist:
+  - Doris Matthäus
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 7
+
+description: |
+  Igel Ärgern (Hedgehogs in a Hurry) is a racing game designed by Doris Matthäus and Frank Nestel, published by Doris & Frank in 1990. Players race wooden hedgehog discs along six parallel tracks toward the finish, rolling a die to determine which row to move. The game's clever wrinkle is that any hedgehog can be moved in that row, not just your own, so players can advance rivals or create blocking stacks to frustrate opponents. Stacks of hedgehogs move together as a unit, adding a spatial puzzle element to what could otherwise be a simple race game.
+
+upgrades: []

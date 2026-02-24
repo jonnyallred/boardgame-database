@@ -1,0 +1,52 @@
+id: hues-and-cues
+name: "Hues and Cues"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Deduction
+  - Gateway
+
+evokes:
+  - Clever
+  - Connection
+  - Humor
+  - Tension
+  - Lucky
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [4, 5, 6]
+
+designer:
+  - Scott Brady
+publisher:
+  - The Op Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Hues and Cues is a color-guessing party game published by The Op Games in 2020 in which one player gives one-word and two-word verbal clues to direct others toward a specific shade among 480 colors displayed on a large board. Guessers place pawns where they think the target color sits, then the active player frames a 3x3 area around the actual color, with scoring based on proximity. The game's brilliance lies in how it reveals the surprising differences in how people perceive and name colors, making every session a conversation starter. It supports up to ten players, making it ideal for large gatherings.
+
+upgrades: []

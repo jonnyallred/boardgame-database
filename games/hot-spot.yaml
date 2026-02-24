@@ -1,0 +1,50 @@
+id: hot-spot
+name: "Hot Spot"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Wargame
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - W.G. Armintrout
+publisher:
+  - Metagaming Concepts
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Hot Spot is a wargame microgame designed by W.G. Armintrout and published by Metagaming Concepts in 1979 as part of their pioneering small-box microgame format. Players command forces in a compact tactical scenario where positioning and resource allocation determine victory. As a microgame, it was designed to be learned quickly and played in under an hour, making it an accessible entry point to wargaming.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: high-frontier
+name: "High Frontier"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: high-frontier
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Sci-Fi
+  - Space
+  - Economic
+  - Route Building
+  - Tech Tree
+  - Variable Player Powers
+
+evokes:
+  - Discovery
+  - Progress
+  - Agency
+  - Wonder
+  - Masterful
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Phil Eklund
+publisher:
+  - Sierra Madre Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  High Frontier is a complex science-fiction board game designed by Phil Eklund and published by Sierra Madre Games in 2010, based on Gerard K. O'Neill's vision of space colonization using real near-future technology. Players compete as space agencies or private corporations racing to industrialize the solar system by acquiring patents for rockets, robotics, and refineries, then launching expeditions to asteroids, moons, and planets to establish factories. The game is renowned for its extreme rules complexity and scientific realism, with a technology deck drawn from actual physics and aerospace research. A fourth edition, High Frontier 4 All, was published in 2021 by ION Game Design.
+
+upgrades: []

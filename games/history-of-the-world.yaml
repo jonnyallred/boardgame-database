@@ -1,0 +1,57 @@
+id: history-of-the-world
+name: "History of the World"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Civilization
+  - Historical
+  - Wargame
+  - Dudes on a Map
+  - Variable Player Powers
+  - Card Drafting
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Discovery
+  - Progress
+  - Tension
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Gary Dicken
+  - Steve Kendall
+  - Phil Kendall
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 300
+min_age: 12
+
+description: |
+  History of the World is a civilization-building board game originally published in 1991 by Ragnar Brothers and republished in a definitive edition by Avalon Hill in 1993. Players each control a succession of historical empires across seven epochs spanning from ancient Mesopotamia to the modern era, with each epoch assigning different civilizations to each player. The goal is to accumulate the most points through territorial conquest and monument building, but since civilizations are handed off each epoch, no one player benefits entirely from their previous empire. This creates a unique tension between building for yourself and not leaving too strong a position for whoever inherits your civilization.
+
+upgrades: []

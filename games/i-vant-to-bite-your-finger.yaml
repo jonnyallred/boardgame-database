@@ -1,0 +1,52 @@
+id: i-vant-to-bite-your-finger
+name: "I Vant to Bite Your Finger"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Horror
+  - Dexterity
+
+evokes:
+  - Humor
+  - Dread
+  - Tension
+  - Lucky
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Charles Phillips
+  - Charlie Leicht
+publisher:
+  - Ideal Toys
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  I Vant to Bite Your Finger is a children's board game with a vampire theme designed by Charles Phillips and Charlie Leicht, published by Ideal Toys in 1979. Players must progress through the game while avoiding having their finger bitten by a Dracula-themed mechanism. The game mixes horror theming with child-friendly suspense, capitalizing on the 1970s popularity of vampire-themed entertainment, and its dramatic biting gimmick made it a memorable novelty of its era.
+
+upgrades: []

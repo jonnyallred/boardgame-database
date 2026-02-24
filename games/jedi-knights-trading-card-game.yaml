@@ -1,0 +1,53 @@
+id: jedi-knights-trading-card-game
+name: "Jedi Knights Trading Card Game"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Area Control
+  - Hand Management
+  - Sci-Fi
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Decipher Inc.
+publisher:
+  - Decipher
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  The Jedi Knights Trading Card Game is a collectible card game released by Decipher in April 2001 set in the Star Wars universe. Players compete to control a majority of four double-sided location cards (Tatooine, Bespin, Hoth, and Endor) by deploying characters and starships whose power ratings determine site control. Unlike the earlier Star Wars CCG, Jedi Knights blurs the line between light and dark side decks. Two expansions (Scum and Villainy; Masters of the Force) were released before Decipher lost the Star Wars license and was forced to discontinue the game, making complete sets a collector's item.
+
+upgrades: []

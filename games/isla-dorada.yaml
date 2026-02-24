@@ -1,0 +1,58 @@
+id: isla-dorada
+name: "Isla Dorada"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Route Building
+  - Hand Management
+  - Fantasy
+  - Adventure
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+  - Discovery
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Bruno Faidutti
+  - Alan R. Moon
+  - Andrea Angiolino
+  - Piergiorgio Paglia
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Patrick Semaan
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Isla Dorada is a bidding and exploration game where a single expedition figure moves through a mysterious island map and players compete to control where it goes. Each turn, players bid cards to direct the expedition along mountain, jungle, desert, river, or sea routes — different card types unlock different terrain. Players hold secret treasure and destiny cards that reward visiting specific locations, plus curse cards they want to avoid, creating rich hidden-information tension. Designed by a quartet including Bruno Faidutti and Alan R. Moon, Isla Dorada blends competitive bidding with deductive play about what destinations opponents secretly prize.
+
+upgrades: []

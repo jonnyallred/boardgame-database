@@ -1,0 +1,52 @@
+id: jacquet
+name: "jacquet"
+alternate_names:
+  - Jacquet
+year: 1827
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Dice Rolling
+  - Racing
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Jacquet is a French tables game closely related to backgammon that was the dominant backgammon variant in France and much of Europe from roughly 1800 until the 1960s, when it was displaced by the Anglo-American game. Its defining feature is the "postilion" — one man that must reach the final quarter of the board before any others can move forward, creating a distinctive opening strategy. Players form six-adjacent-point blockades (bouchons) to bottleneck opponents, and the goal is to bear all 15 men off the board first. A historically important race game that bridged the French trictrac tradition and modern backgammon.
+
+upgrades: []

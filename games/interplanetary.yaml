@@ -1,0 +1,52 @@
+id: interplanetary
+name: "Interplanetary"
+alternate_names: []
+year: 1943
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Sci-Fi
+  - Space
+  - Racing
+  - Economic
+
+evokes:
+  - Wonder
+  - Lucky
+  - Discovery
+  - Tension
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Art Widner
+publisher: []
+artist: []
+playtime_minutes: 480
+min_playtime: 300
+max_playtime: 720
+min_age: 12
+
+description: |
+  Interplanetary is a 1943 science fiction board game created by fan Art Widner and considered one of the earliest original science fiction board games ever designed. Combining elements of a race game and Monopoly, players travel the solar system mining nearer planets to fund expeditions to increasingly distant ones, with Pluto harboring "Immortality Dust" as the ultimate prize. Planets move dynamically, and hazards including a negasphere (black hole), space pirates, and solar gravity threaten each voyage. Influenced by E.E. Smith's Lensman novels, the full game took 8-12 hours; a streamlined version remained popular in science fiction fan circles into the 1960s. Never commercially published, Interplanetary is a historical artifact of science fiction fandom's gaming culture.
+
+upgrades: []

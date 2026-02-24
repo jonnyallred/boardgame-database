@@ -1,0 +1,56 @@
+id: johari
+name: "Johari"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Simultaneous Action
+  - Hand Management
+  - Set Collection
+  - Economic
+  - Trading
+  - Euro
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Carlo Lavezzi
+publisher:
+  - Lookout Games
+  - Mayfair Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Johari is a gem market game set in Jaipur's world-famous jewelry market, where players buy and sell precious stones, hire nobles, and compete for the most valuable market position over ten market days. Each player selects actions simultaneously from an identical hand of seven cards, with timing being crucial — later-played actions cost less gold. Players sell to jewelers requiring four different gem types or to collectors demanding majority holdings. The tension between timing, gem acquisition, and managing sales to maximize points gives Johari elegant depth in a compact package.
+
+upgrades: []

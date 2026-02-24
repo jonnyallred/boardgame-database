@@ -1,0 +1,52 @@
+id: in-the-footsteps-of-darwin
+name: "In the Footsteps of Darwin"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Family
+  - Nature
+  - Gateway
+
+evokes:
+  - Discovery
+  - Wonder
+  - Clever
+  - Complete
+  - Progress
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Sorry We Are French
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  In the Footsteps of Darwin is a tile-placement game published by Sorry We Are French in 2023, based on Charles Darwin's voyages of natural discovery. Players place tiles representing species and environments, building a tableau of the natural world while collecting sets of creatures that Darwin documented on his expeditions. A winner of the Mensa Select award, the game is designed as an educational yet engaging family experience, celebrating the beauty and diversity of the natural world through approachable set collection mechanics.
+
+upgrades: []

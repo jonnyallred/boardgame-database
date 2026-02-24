@@ -1,0 +1,51 @@
+id: kaooa
+name: "Kaooa"
+alternate_names:
+  - Vultures and Crows
+year: 1400
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - 1 vs Many
+  - Asymmetric
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Kaooa (also called Vultures and Crows) is a traditional asymmetric abstract strategy hunt game from India, thought to originate over 600 years ago. Played on a five-pointed star (pentagram) board, one player controls a single vulture while the other places and moves seven crows. The vulture wins by capturing four crows through diagonal jumping; the crows win by surrounding the vulture so it cannot move. Crows are dropped onto the board one at a time before they can move, creating a tense build-up phase. A compact and elegant predator-versus-prey design from the Indian subcontinent.
+
+upgrades: []

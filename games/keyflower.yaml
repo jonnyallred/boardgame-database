@@ -1,0 +1,59 @@
+id: keyflower
+name: "Keyflower"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Auctions/Bidding
+  - Resource Management
+  - Tile Placement
+  - Modular Board
+  - Euro
+  - Cult Classic
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Sebastian Bleasdale
+  - Richard Breese
+publisher:
+  - R&D Games
+artist:
+  - Jo Wass
+  - Anne Pätzke
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Keyflower is a critically acclaimed Euro game of bidding and worker placement set over four seasons, where players bid for and activate hexagonal village tiles using color-coded worker meeples. The twist is that workers used to bid on a tile are then left there and can be used by others to activate it — creating a fascinating push-pull between bidding aggressively and conserving workers. Building a cohesive village that efficiently converts resources into victory points requires long-term planning across all four rounds. Part of Richard Breese's Key series, Keyflower is widely regarded as one of the most elegantly interlocking Euro designs ever published.
+
+upgrades: []

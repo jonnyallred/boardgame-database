@@ -1,0 +1,51 @@
+id: im-marchenwald
+name: "Im Märchenwald"
+alternate_names:
+  - "In the Fairy Tale Forest"
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Fantasy
+  - Cooperative
+  - Puzzle Solving
+
+evokes:
+  - Discovery
+  - Wonder
+  - Lucky
+  - Tension
+  - Connection
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Im Märchenwald (In the Fairy Tale Forest) is a German family board game in which players navigate a fairy tale forest represented by a 7x7 grid of cards, with the goal of rescuing a sick princess while avoiding obstacles including goblins, witches, and crows. The grid layout creates a modular exploration puzzle in which the path through the enchanted forest changes each game, and solo play is also supported. The fairy tale theme and accessible mechanics make it suitable for younger children and family play.
+
+upgrades: []

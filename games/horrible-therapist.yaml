@@ -1,0 +1,52 @@
+id: horrible-therapist
+name: "Horrible Therapist"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Humor
+  - Hand Management
+  - Simultaneous Action
+
+evokes:
+  - Humor
+  - Connection
+  - Lucky
+  - Persuasion
+  - Tension
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Matthew Inman
+publisher:
+  - Exploding Kittens
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 17
+
+description: |
+  Horrible Therapist is an adult party card game designed by Matthew Inman (The Oatmeal) and published by Exploding Kittens in 2024. Players take turns acting as the Therapist, flipping a Question card and selecting an Answer card for the second panel of a therapy comic strip. All other players then secretly choose a Treatment card for the third panel, competing to create the funniest or most unhinged conclusion. The Therapist judges the submissions and awards points, with the first player to three points winning the game.
+
+upgrades: []

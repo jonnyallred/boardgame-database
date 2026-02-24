@@ -1,0 +1,52 @@
+id: hundred-kingdoms
+name: "Hundred Kingdoms"
+alternate_names:
+  - "Conquest: The Hundred Kingdoms"
+year: 2021
+
+# Relationships
+game_family: conquest
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Asymmetric
+  - Variable Player Powers
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Masterful
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Para Bellum Wargames
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Hundred Kingdoms is a fantasy faction in the Conquest tabletop miniatures game system published by Para Bellum Wargames. It represents a feudal human civilization struggling to maintain order through mercenary companies, knightly orders, and city militia forces. The Conquest system uses 38mm scale miniatures in ranked regiment-style play, with the Hundred Kingdoms starter sets and warband boxes providing entry points into the faction's diverse range of infantry, cavalry, and specialist units.
+
+upgrades: []

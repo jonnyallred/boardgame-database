@@ -1,0 +1,52 @@
+id: in-the-kingdom-of-the-polar-bear
+name: "In the Kingdom of the Polar Bear"
+alternate_names:
+  - "Im Reich des weißen Bären"
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Animals
+  - Nature
+
+evokes:
+  - Discovery
+  - Wonder
+  - Lucky
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Charles Larue
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  In the Kingdom of the Polar Bear (Im Reich des weißen Bären) is a family board game designed by Charles Larue and published by Schmidt Spiele in 1991. Set in the Arctic environment of polar bears, the game uses a nature theme to engage young players in exploration and movement across an icy landscape. Its accessible design and arctic wildlife theme make it suitable for family play with younger children.
+
+upgrades: []

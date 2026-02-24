@@ -1,0 +1,54 @@
+id: iki
+name: "Iki"
+alternate_names:
+  - "IKI: A Game of Edo Artisans"
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Rondel
+  - Worker Placement
+  - Set Collection
+  - Euro
+  - Historical
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Discovery
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Koota Yamada
+publisher:
+  - Sorry We Are French
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  Iki is a worker placement and set collection game designed by Koota Yamada, set in the bustling markets of Edo-period Tokyo (Japan). Players hire artisans who sell goods and attract customers, moving them around a large rondel that doubles as the town map, earning bonuses when visiting rival shops and eventually retiring artisans to their player boards for end-game scoring. A fire mechanic periodically threatens the market, requiring players to contribute firefighting strength or risk losing progress. The game's elegant rondel mechanism and beautiful artwork make it a standout Euro with a distinctive Japanese aesthetic.
+
+upgrades: []

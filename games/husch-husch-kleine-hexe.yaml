@@ -1,0 +1,52 @@
+id: husch-husch-kleine-hexe
+name: "Husch Husch kleine Hexe"
+alternate_names:
+  - "Rush Rush Little Witch"
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Fantasy
+  - Deduction
+
+evokes:
+  - Humor
+  - Lucky
+  - Mystery
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Heinz Meister
+publisher:
+  - Zoch Verlag
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 3
+
+description: |
+  Husch Husch kleine Hexe is a children's memory and deduction game designed by Heinz Meister and published by Zoch Verlag, winner of the 1994 Deutscher Spiele Preis Best Children's Game. Five witch tokens in different colors are hidden under witch-hat covers, and players must remember or deduce which witch is hiding where. The game is designed for very young children, with simple mechanics, charming witch-themed components, and a game time short enough to hold preschoolers' attention.
+
+upgrades: []

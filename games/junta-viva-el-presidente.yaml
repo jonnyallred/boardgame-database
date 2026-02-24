@@ -1,0 +1,56 @@
+id: junta-viva-el-presidente
+name: "Junta: Viva el Presidente!"
+alternate_names:
+  - Junta: Las Cartas
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: junta
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 4  # Fierce
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Negotiation
+  - Take That
+  - Traitor
+  - Party
+
+evokes:
+  - Persuasion
+  - Tension
+  - Humor
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [5, 6, 7]
+
+designer:
+  - Vincent Tsao
+publisher:
+  - Z-Man Games
+  - Alderac Entertainment Group
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Junta: Viva el Presidente! is a streamlined card game adaptation of the classic Junta board game, set in the same fictional banana republic. The President secretly distributes foreign aid money (and may lie about amounts), while other players scheme, vote, and plot coups to gain control of five power centers. Assassination attempts, betrayals, and surprise coup announcements make every round explosive. A lighter, faster take on the original game's political satire and cutthroat social dynamics, it distills the essence of Junta into a compact card game format accessible to a broader audience.
+
+upgrades: []

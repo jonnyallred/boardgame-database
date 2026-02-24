@@ -1,0 +1,51 @@
+id: hong-kong-monopoly
+name: "Hong Kong Monopoly"
+alternate_names: []
+year: 1965
+
+# Relationships
+game_family: monopoly
+edition: "Hong Kong"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Dice Rolling
+  - Family
+  - Negotiation
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Progress
+  - Tension
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - John Waddingtons
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 8
+
+description: |
+  Hong Kong Monopoly is a localized edition of the classic Monopoly board game first published by John Waddingtons in 1965 and later by Parker Brothers and Hasbro for the Hong Kong market. The game replaces the standard Atlantic City properties with Hong Kong streets and landmarks, providing local flavor while using the same buy, build, and collect rent mechanics as the original. A 1997 commemorative edition was produced to mark the Transfer of Sovereignty of Hong Kong, and a 2007 limited edition celebrated the handover's 10th anniversary.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: key-largo
+name: "Key Largo"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Resource Management
+  - Economic
+  - Simultaneous Action
+  - Euro
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Discovery
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Richard Breese
+publisher:
+  - Hans im Glück
+  - R&D Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Key Largo is an early entry in Richard Breese's Key series, published by Hans im Glück in 1997. Players take on the roles of deep-sea diving entrepreneurs who hire divers, purchase equipment, and explore underwater wrecks in the Florida Keys. A simultaneous action selection mechanic drives the game — players secretly choose locations for their ships twice each day, over a ten-day game sequence. Competing for dive sites and wreck treasures creates tense overlap and interference. Key Largo is an intriguing forerunner to the more celebrated later Key games, showcasing Breese's interest in simultaneous action and maritime themes.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: if-wishes-were-fishes
+name: "If Wishes Were Fishes!"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Trading
+  - Negotiation
+  - Family
+  - Gateway
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Clever
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Peter Sarrett
+  - Michael Adams
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  If Wishes Were Fishes! is a light set collection and trading game designed by Peter Sarrett and Michael Adams, published by Rio Grande Games in 2007. Players are fishermen competing to catch and trade fish in a harbor market, negotiating with other players to complete sets and score the most points. The trading element is central to the game, and players must balance their own needs with what they are willing to give away to the harbor or other players. The game plays quickly and rewards both deal-making and card management.
+
+upgrades: []

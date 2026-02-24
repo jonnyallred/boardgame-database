@@ -1,0 +1,56 @@
+id: ingenious
+name: "Ingenious"
+alternate_names:
+  - "Einfach Genial"
+  - "Simply Ingenious"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Set Collection
+  - Family
+  - Gateway
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Agency
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Ingenious is an abstract tile-placement game designed by Reiner Knizia and published by Kosmos in 2004, later widely distributed by Ravensburger. Players take turns placing domino-like tiles bearing two colored symbols on a hexagonal board, scoring for each continuous line of matching symbols created by the placement. The critical scoring mechanism is that a player's final score equals their lowest-scoring color, not their highest, forcing balanced play across all six colors rather than specialization in one. This anti-specialization rule creates deep tactical tension and was nominated for the 2004 Spiel des Jahres.
+
+upgrades: []

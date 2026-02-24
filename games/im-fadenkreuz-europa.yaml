@@ -1,0 +1,50 @@
+id: im-fadenkreuz-europa
+name: "Im Fadenkreuz: Europa"
+alternate_names:
+  - "In the Crosshairs: Europe"
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Dread
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Im Fadenkreuz: Europa (In the Crosshairs: Europe) is a German wargame simulating military conflict across the European theater. Players command opposing Cold War-era forces in a strategic simulation of territorial control and military operations in Europe. As a German-language wargame, it was part of a small but dedicated European tradition of hex-and-counter conflict simulation games during the 1980s.
+
+upgrades: []

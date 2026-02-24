@@ -1,0 +1,51 @@
+id: historical-mystery-bets-are-made
+name: "Historical Mystery: Bets are Made"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: historical-mystery
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Mystery
+  - Historical
+  - Puzzle Solving
+
+evokes:
+  - Mystery
+  - Tension
+  - Discovery
+  - Clever
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Hobby World
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Historical Mystery: Bets are Made is part of a series of deduction games based on real historical events, published by Hobby World International. Players investigate a historical mystery by visiting locations, interrogating suspects, and examining crime scenes over a limited number of moves, then answering a series of questions about the case. The series structure, in which each box presents a single self-contained historical case, makes it well-suited for one-off game nights with players who enjoy detective and mystery themes.
+
+upgrades: []

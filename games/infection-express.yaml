@@ -1,0 +1,49 @@
+id: infection-express
+name: "Infection Express"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Take That
+  - Set Collection
+
+evokes:
+  - Tension
+  - Lucky
+  - Rivalry
+  - Humor
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Infection Express is a board game themed around the spread of disease, in which players attempt to infect rivals while avoiding illness themselves. The game uses take-that card or action mechanics to spread disease tokens across a shared board, rewarding aggressive play and timing. As a light, quick filler, it occupies the niche of games that are easy to explain and set up while providing entertaining player interaction.
+
+upgrades: []

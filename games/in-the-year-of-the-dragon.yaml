@@ -1,0 +1,54 @@
+id: in-the-year-of-the-dragon
+name: "In the Year of the Dragon"
+alternate_names:
+  - "Im Jahr des Drachen"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Action Points
+  - Hand Management
+  - Euro
+  - Historical
+  - Stefan Feld
+
+evokes:
+  - Tension
+  - Clever
+  - Agency
+  - Progress
+  - Masterful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Alea
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  In the Year of the Dragon is a hand management and action selection game designed by Stefan Feld and published by Alea in 2007, set in ancient China circa 1000 AD. Players take on the roles of Chinese rulers navigating a year that grows progressively worse, as disease, drought, and Mongol raids threaten their population. Each month players must choose which specialist to recruit (monks, farmers, doctors, fireworks makers, or warriors) to mitigate the incoming disaster, while simultaneously managing their palace population and scoring ritual fireworks points for the Emperor. The game's distinctive downward spiral of mounting catastrophes rewards careful planning and ruthless prioritization.
+
+upgrades: []

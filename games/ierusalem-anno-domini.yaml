@@ -1,0 +1,53 @@
+id: ierusalem-anno-domini
+name: "Ierusalem: Anno Domini"
+alternate_names:
+  - "Jerusalem: Anno Domini"
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Hand Management
+  - Historical
+  - Narrative Heavy
+
+evokes:
+  - Discovery
+  - Tension
+  - Agency
+  - Mystery
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Carmen García Jiménez
+publisher:
+  - Devir
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Ierusalem: Anno Domini is a strategy board game designed by Carmen García Jiménez and published by Devir in 2023, set in Jerusalem during the spring of 33 AD as Jesus prepares to celebrate the Passover seder. Players navigate the social and political dynamics of the city in the days of the Last Supper, managing relationships with apostles, followers, and city authorities. The game combines worker placement with hand management to tell one of history's most pivotal stories through the lens of interactive historical strategy.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: hitstory
+name: "Hitstory"
+alternate_names:
+  - "Hitstory Platinium"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Family
+  - Trivia
+
+evokes:
+  - Clever
+  - Lucky
+  - Rivalry
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - BD2 Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Hitstory is a music trivia board game published by BD2 Games in which players answer questions about hit songs and music history. Players compete to identify songs, artists, and chart-toppers across different eras, making it a test of musical knowledge and pop culture familiarity. The Hitstory Platinium edition extended the game's content with additional cards and categories.
+
+upgrades: []

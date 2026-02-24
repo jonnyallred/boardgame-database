@@ -1,0 +1,47 @@
+id: hubba-bubba
+name: "Hubba + Bubba"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Hubba + Bubba is a children's board game tied to the Hubba Bubba bubble gum brand, offered as a promotional item or collectible for gum fans. Players navigate a simple game board using the colorful candy-themed components, competing in a lighthearted race or matching challenge. As a branded promotional game, it is primarily of interest to collectors of 1980s pop culture memorabilia.
+
+upgrades: []

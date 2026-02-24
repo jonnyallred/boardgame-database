@@ -1,0 +1,54 @@
+id: kaleidos
+name: "Kaleidos"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Party
+  - Real-time
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Humor
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Jean-Marc Bigo
+publisher:
+  - CMON
+artist:
+  - Elena Prette
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Kaleidos is a fast-paced party game where all players simultaneously study the same richly detailed illustration on their easels and race to write down as many objects as possible whose names begin with the randomly drawn letter of the round. Players score one point for each word others also found, but three points for unique observations — rewarding both careful observation and creative lateral thinking. Originally published in 1994 and republished by CMON, Kaleidos is a delightful shared-observation game that works well for mixed-age groups.
+
+upgrades: []

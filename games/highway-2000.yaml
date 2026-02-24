@@ -1,0 +1,51 @@
+id: highway-2000
+name: "Highway 2000"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Racing
+  - Sci-Fi
+  - Action Points
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Agency
+  - Lucky
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Threshold Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Highway 2000 is a near-future vehicle combat game published by Threshold Games in 1981 in which three to five players design heavily armed and armored cars and then fight each other on a futuristic five-lane highway in a battle royale. The three-piece modular board represents a scrolling highway, and as the action moves forward the rear section of the track can be shifted to the front to extend the road endlessly. Players create their vehicles with different weapons and armor configurations, then navigate combat alongside random civilian traffic entering the highway from various directions.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: journey-through-europe
+name: "Journey through Europe"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Dice Rolling
+  - Racing
+  - Historical
+  - Family
+
+evokes:
+  - Discovery
+  - Lucky
+  - Tension
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Wolfgang Kramer
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Journey through Europe is a Ravensburger geography travel game set on a detailed map of Europe, where players pick a home city and draw eight destination cards they must visit before returning home. Each turn players roll the die and choose to travel by road, sea, or air — each with different movement rules and costs — while 63 special cities on the map can yield bonuses or penalties. First player to complete all destinations and return home wins. A classic family game with genuine educational value, it helped popularize European geography-themed tabletop travel racing.
+
+upgrades: []

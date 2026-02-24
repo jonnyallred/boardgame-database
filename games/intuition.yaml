@@ -1,0 +1,53 @@
+id: intuition
+name: "Intuition"
+alternate_names:
+  - Intuition: The Ultimate Game of Perception
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Social Deduction
+  - Deduction
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Humor
+  - Mystery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - TechGames
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Intuition: The Ultimate Game of Perception is a party game published by TechGames in 1979 that challenges players to make rapid judgments and predictions about other players' choices and behaviors. Players rely on gut instinct and psychological insight rather than concrete knowledge, testing their perceptual accuracy against their opponents. A product of the late-1970s party game boom that emphasized interpersonal dynamics and social reading over trivia or skill. Limited detailed information is available due to its obscurity.
+
+upgrades: []

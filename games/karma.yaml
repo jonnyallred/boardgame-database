@@ -1,0 +1,53 @@
+id: karma
+name: "Karma"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Take That
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Marsha J. Falco
+publisher:
+  - Set Enterprises
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Karma is a fast-playing elimination card game from Set Enterprises, where the last player holding cards loses. Players must play cards of equal or higher value onto a discard pile, but if they cannot, they take the entire pile. Players start with face-up and face-down table cards that are only playable after the hand is empty — adding a hidden uncertainty at game end. Special Karma wild cards introduce chaos with effects like "Give the Pile to a Friend" and "Bottoms Up." Quick, mean, and entertaining, Karma is an accessible take-that game well-suited for family game nights.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: jungle-party
+name: "Jungle Party"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Animals
+  - Memory
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Connection
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Thames & Kosmos
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Jungle Party is a light family adventure game in which players journey through a jungle to reach the Toad King, passing memorable locations including a wobbly bridge, glowing fireflies, a mossy log, and a waterfall. The game develops visual-spatial skills, physical coordination, and manual dexterity through its jungle-themed obstacles and activities. Published by Thames & Kosmos, it is designed as an accessible, physical family game ideal for young children, emphasizing movement, memory, and cooperative discovery of the jungle landscape.
+
+upgrades: []

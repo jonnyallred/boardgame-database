@@ -1,0 +1,54 @@
+id: jena-auerstadt
+name: "Jena-Auerstadt: The Battle for Prussia, 14 October 1806"
+alternate_names:
+  - Jena-Auerstadt
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Young
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Jena-Auerstadt: The Battle for Prussia, 14 October 1806 is an SPI folio wargame simulating the twin Napoleonic battles that crushed Prussia in a single day. Part of the Napoleon at War quadrigame series, it can also be played as a standalone game with only 100 counters, two rules sheets, and a 17x22 inch hex map at 400 meters per hex. One player commands Napoleon's forces, the other the Prussians, in a compact and accessible recreation of one of history's most decisive single-day military engagements. Its simplicity and small footprint make it a strong entry point into Napoleonic hex wargaming.
+
+upgrades: []

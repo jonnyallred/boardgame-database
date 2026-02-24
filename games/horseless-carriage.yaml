@@ -1,0 +1,56 @@
+id: horseless-carriage
+name: "Horseless Carriage"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Engine Building
+  - Economic
+  - Tech Tree
+  - Modular Board
+  - Pattern Building
+  - Euro
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Masterful
+  - Puzzle Solving
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Jeroen Doumen
+  - Joris Wiersinga
+publisher:
+  - Splotter Spellen
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Horseless Carriage is an economic tile-placement game designed by Jeroen Doumen and Joris Wiersinga of Splotter Spellen, set during the dawn of the automobile industry. Players are industrialists racing to divine what features consumers will value in the new horseless carriage, producing vehicles and selling them to an evolving market. The game features an intricate tile-laying factory-building system where players must plan production chains and optimize their manufacturing processes across multiple rounds. Published in 2022, it is celebrated as a demanding, highly replayable puzzle for experienced gamers.
+
+upgrades: []

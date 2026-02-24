@@ -1,0 +1,53 @@
+id: hotel
+name: "Hotel"
+alternate_names:
+  - "Hotels"
+  - "Hotel Tycoon"
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Economic
+  - Dice Rolling
+
+evokes:
+  - Progress
+  - Rivalry
+  - Lucky
+  - Connection
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Geoff Hayes
+publisher:
+  - Denys Fisher Toys
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Hotel is a family board game originally designed by Geoff Hayes and published by Denys Fisher Toys in 1974, later republished by Milton Bradley as Hotels in 1987. Players purchase and construct hotels on various properties, then charge rent when opponents land on their locations. The game features three-dimensional plastic hotel buildings as a key visual attraction, making setup and play feel more tactile than traditional flat board games. It blends the real estate competition of Monopoly with a construction and building element that gives players a satisfying sense of progress.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: kakelorum
+name: "Kakelorum"
+alternate_names: []
+year: 1850
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Kakelorum is a traditional game of chance originating in Upper Austria in the mid-19th century that spread throughout the Alpine region and became a common fixture in Viennese lottery shops. A wooden hollow figure (20-30 cm tall) stands at the edge of a circular game board (25-35 cm in diameter); players drop a marble through a spiral run inside the figure, which then rolls onto the board below. The board contains 58 shallow numbered depressions, and players score based on the numbered depression the marble settles into. Landing the marble in the center depression (number 58) wins the game immediately. A purely chance-based parlor game representative of 19th-century European carnival and lottery gaming culture.
+
+upgrades: []

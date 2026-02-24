@@ -1,0 +1,50 @@
+id: hydro-battle
+name: "Hydro Battle!"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Real-time
+  - Dexterity
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Pressman
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Hydro Battle! is an electronic water battle game published by Pressman in 1999, inspired by the classic Battleship concept but adding a water element. Players fire streams of water at their opponents' naval vessels in a fast-paced, physical version of the naval guessing game. The electronic component tracks hits, making the game self-refereed and adding lights and sounds to the experience.
+
+upgrades: []

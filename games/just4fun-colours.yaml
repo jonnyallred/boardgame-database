@@ -1,0 +1,55 @@
+id: just4fun-colours
+name: "Just4Fun Colours"
+alternate_names:
+  - Just 4 Fun Colours
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: just-4-fun
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Pattern Building
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jürgen P. Grunau
+publisher:
+  - KOSMOS
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 9
+
+description: |
+  Just4Fun Colours is a color-based variant of Just 4 Fun by Jürgen Grunau and KOSMOS. Players play color cards from their hand to place stackable stones on matching colored spaces on the game board, aiming to form a line of four in a row. When a space is already occupied, the active player must play additional color cards to build on top — making contested spaces increasingly costly. The color-based version is slightly more accessible than the number-based original, while preserving the same quick, engaging four-in-a-row competitive tension.
+
+upgrades: []

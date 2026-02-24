@@ -1,0 +1,51 @@
+id: husker-du
+name: "Hūsker Dū?"
+alternate_names:
+  - "Husker Du"
+  - "Do You Remember?"
+year: 1970
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Deduction
+
+evokes:
+  - Lucky
+  - Connection
+  - Tension
+  - Rivalry
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Regina Products
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Hūsker Dū? (meaning "Do you remember?" in Danish) is a children's memory game first published in America in 1970 by Regina Products Inc. Players take turns removing two of 36 playing pieces from openings on the gameboard to reveal and match pictures hidden beneath. The clever design rotates a wheel under the board so that pictures appear in different locations in each game, ensuring the game cannot be memorized from session to session. Later editions were published by Lakeside and Parker Brothers, and the game remains a classic childhood memory-training toy.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: im-the-boss
+name: "I'm the Boss!"
+alternate_names:
+  - "Kohle, Kies & Knete"
+  - "I'm the Boss"
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Bluffing
+  - Trading
+  - Family
+  - Cult Classic
+
+evokes:
+  - Persuasion
+  - Humor
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Sid Sackson
+publisher:
+  - Face2Face Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  I'm the Boss! is a negotiation and deal-making game designed by Sid Sackson, originally published in German as Kohle, Kies & Knete in 1994 and receiving a Spiel des Jahres recommendation that year. Players control Investor pawns on a deal track, and whoever controls the Boss piece at deal time gets to organize a business deal among players who have the required investors present—splitting the money however they choose among participants. The game is celebrated for its chaotic social dynamics, the joy of suddenly seizing the Boss role, and the delightfully direct negotiations it generates.
+
+upgrades: []

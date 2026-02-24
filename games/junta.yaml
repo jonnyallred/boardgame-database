@@ -1,0 +1,56 @@
+id: junta
+name: "Junta"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 4  # Fierce
+
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Bluffing
+  - Area Control
+  - Traitor
+  - Take That
+  - Dice Rolling
+  - Ameritrash
+
+evokes:
+  - Persuasion
+  - Tension
+  - Humor
+  - Rivalry
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [5, 6, 7]
+
+designer:
+  - Vincent Tsao
+publisher:
+  - West End Games
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Junta is a satirical political game set in the fictional banana republic of Republica de los Bananas, where players represent corrupt elite families trying to funnel foreign aid money into their Swiss bank accounts before the republic runs dry. Play alternates between a political card phase of elections, assassinations, and intrigue, and explosive coup d'état board battles when someone declares a coup. The President distributes aid money (often inequitably) each turn, incentivizing betrayal and counter-coups. A cult classic for its blend of dark political satire, chaotic negotiation, and savage backstabbing that can last many hours.
+
+upgrades: []

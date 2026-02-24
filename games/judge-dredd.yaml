@@ -1,0 +1,57 @@
+id: judge-dredd
+name: "Judge Dredd"
+alternate_names:
+  - Judge Dredd: The Game of Crime-Fighting in Mega-City One
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - Dice Rolling
+  - Sci-Fi
+  - Ameritrash
+
+evokes:
+  - Rivalry
+  - Tension
+  - Humor
+  - Lucky
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Ian Livingstone
+publisher:
+  - Games Workshop
+artist:
+  - Brian Bolland
+  - Ian Gibson
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Judge Dredd is a 1982 Games Workshop board game set in the dystopian Mega-City One from the iconic British comic strip. Players take the roles of Judges racing to arrest the most criminals as perp and crime cards randomly spawn across the sprawling city map. Judges move and play action cards to win combat rolls against criminals, with each card usable in two different ways, adding decision-making to what is otherwise a light competitive race. Designed by Ian Livingstone with striking art by Brian Bolland, it is an accessible thematic game that captures the anarchic energy of the source material.
+
+upgrades: []
