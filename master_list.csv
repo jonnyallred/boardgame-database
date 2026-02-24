@@ -661,7 +661,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 7644,Cherry Ames' Nursing Game,,boardgame,,,
 171,chess,,boardgame,,,
 19685,Chess Mutation,,boardgame,,,
-,"Chessboard and chess pieces used by Napoleon and his entourage at Longwood, Saint Helena",,boardgame,,,
+,"Chessboard and chess pieces used by Napoleon and his entourage at Longwood, Saint Helena",,boardgame,skip,"Museum artifact, not a board game",
 13036,Cheyenne,,boardgame,,,
 1398,Chicago,1986,boardgame,,,chicago-1986
 280203,Chicken Chicken,2019,boardgame,,,
@@ -737,13 +737,13 @@ bgg_id,name,year,type,status,notes,yaml_id
 178900,Codenames,2015,boardgame,,,
 ,Codenames Duet,2017,boardgame,,,
 84783,Coerceo,,boardgame,,,
-94746,Coffee,,boardgame,,,
+94746,Coffee,,boardgame,ambiguous,"Too generic, no unique board game match",
 377061,Coffee Rush,2023,boardgame,,,
-,COIN,,boardgame,,,
+,COIN,,boardgame,ambiguous,"Genre acronym (Counter-Insurgency), not a specific game",
 ,Coin Hopping--Washington D.C.,,boardgame,,,
-,COIN Series,,boardgame,,,
+,COIN Series,,boardgame,skip,"Series label, not a specific game",
 24742,Cold War: CIA vs KGB,,boardgame,,,
-11607,Collection particulière,,boardgame,,,
+11607,Collection particulière,,boardgame,skip,Not a board game,
 10005,Colomino,,boardgame,,,
 250,Colonial Diplomacy,,boardgame,,,
 180199,Colonial Twilight: The French-Algerian War,2017,boardgame,,,colonial-twilight
@@ -756,7 +756,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Colour whist,,boardgame,,,
 158899,Colt Express,2014,boardgame,,,
 256883,Comanauts,2019,boardgame,,,
-8429,Combat Command,,boardgame,,,
+8429,Combat Command,,boardgame,ambiguous,Multiple games share this title,
 21050,Combat Commander: Europe,,boardgame,,,
 28181,Combat Commander: Pacific,,boardgame,,,
 ,Combined Arms,,boardgame,,,
@@ -966,7 +966,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 7256,Digit,,boardgame,,,
 153318,Dimension,,boardgame,,,
 ,Dimension Demons,,boardgame,,,
-11484,Dindons & Dragons,,boardgame,,,
+11484,Dindons & Dragons,,boardgame,,,dindons-et-dragons
 3768,Dingbats,,boardgame,,,
 235927,Dino World,2017,boardgame,,,
 23541,Dinosaurus,2006,boardgame,,,
@@ -988,7 +988,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 2492,Doctor Faust,1990,boardgame,,,
 25337,Doctor Who – Battles in Time,,boardgame,,,
 42142,Doctor Who: Solitaire Story Game,,boardgame,,,
-3090,Doctor Who: The Game of Time & Space,1980,boardgame,,,
+3090,Doctor Who: The Game of Time & Space,1980,boardgame,,,doctor-who-the-game-of-time-and-space
 28665,Dodge Bowl,,boardgame,,,
 ,Dodo – Rettet das Wackel-Ei,,boardgame,,,
 2633,DOG,,boardgame,,,
@@ -1001,14 +1001,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Dominion,2009,boardgame,,,
 ,Dominion (Second Edition),2016,boardgame,,,
 210,Don Pepe,,boardgame,,,
-7116,Don't Be Annoyed,1999,boardgame,,,
-4888,Don't Break the Ice,,boardgame,,,
-32687,Don't Drop the Soap,,boardgame,,,
-7791,Don't Give Up the Ship!,,boardgame,,,
-1420,Don't Go to Jail,,boardgame,,,
-4407,Don't Miss the Boat!,1965,boardgame,,,
-10917,Don't Quote Me,,boardgame,,,
-6535,Don't Wake Daddy,,boardgame,,,
+7116,Don't Be Annoyed,1999,boardgame,,,dont-be-annoyed
+4888,Don't Break the Ice,,boardgame,,,dont-break-the-ice
+32687,Don't Drop the Soap,,boardgame,,,dont-drop-the-soap
+7791,Don't Give Up the Ship!,,boardgame,,,dont-give-up-the-ship
+1420,Don't Go to Jail,,boardgame,,,dont-go-to-jail
+4407,Don't Miss the Boat!,1965,boardgame,,,dont-miss-the-boat
+10917,Don't Quote Me,,boardgame,,,dont-quote-me
+6535,Don't Wake Daddy,,boardgame,,,dont-wake-daddy
 ,Donjons & Dominos,2022,boardgame,,,donjons-et-dominos
 150558,Donkey Racing,,boardgame,,,
 299939,Doodle Dungeon,2020,boardgame,,,
@@ -1039,20 +1039,20 @@ bgg_id,name,year,type,status,notes,yaml_id
 803,Dragonhunt,1982,boardgame,,,
 795,Dragonlance,1988,boardgame,,,
 25030,Dragonlord,,boardgame,,,
-30210,Dragons,,boardgame,,,
+30210,Dragons,,boardgame,ambiguous,"Too generic, multiple games",
 23055,Dragons of Kir,,boardgame,,,
 5610,Dragons of Underearth,,boardgame,,,
 4486,Dragonslayer,,boardgame,,,
 1149,DragonStrike,,boardgame,,,
 172933,Dragonwood,,boardgame,,,
-102237,Drako: Dragon & Dwarves,,boardgame,,,
+102237,Drako: Dragon & Dwarves,,boardgame,,,drako
 6942,Drang Nach Osten!,1973,boardgame,,,
 15020,Draw Out,,boardgame,,,
 4236,Dreadnought,,boardgame,,,
 299028,Dream Catcher,,boardgame,,,
 194880,Dream Home,2016,boardgame,,,
 ,Dreams,1992,boardgame,,,
-,Drive on Stalingrad: Battle for Southern Russia Game,,boardgame,,,
+,Drive on Stalingrad: Battle for Southern Russia Game,,boardgame,,,drive-on-stalingrad
 2337,Droids,,boardgame,,,
 244916,Drop It,,boardgame,,,
 19,Drunter und Drüber,1991,boardgame,,,drunter-und-druber
@@ -1079,11 +1079,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Dungeoneer,,boardgame,,,
 472,Dungeonquest,,boardgame,,,
 5177,DungeonQuest Legends,,boardgame,,,
-17804,Dungeons & Dragons Basic Game,2004,boardgame,,,
-4746,Dungeons & Dragons Computer Labyrinth Game,1980,boardgame,,,
+17804,Dungeons & Dragons Basic Game,2004,boardgame,,,dungeons-and-dragons-basic-game-2004
+4746,Dungeons & Dragons Computer Labyrinth Game,1980,boardgame,,,dungeons-and-dragons-computer-labyrinth-game
 59946,Dungeons & Dragons: Castle Ravenloft Board Game,,boardgame,,,castle-ravenloft
 6366,Dungeons & Dragons: The Fantasy Adventure Board Game,2003,boardgame,,,dungeons-and-dragons-the-fantasy-adventure-board-game
-91872,Dungeons & Dragons: The Legend of Drizzt Board Game,,boardgame,,,
+91872,Dungeons & Dragons: The Legend of Drizzt Board Game,,boardgame,,,dungeons-and-dragons-the-legend-of-drizzt-board-game
 26519,Dunkirk: The Battle of France,,boardgame,,,
 22348,Duplik,,boardgame,,,
 29109,Dust,,boardgame,,,
@@ -1104,7 +1104,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Earth Game,,boardgame,,,
 73171,Earth Reborn,,boardgame,,,
 ,Earthborne Rangers,2023,boardgame,,,
-22143,EastFront: The War in Russia 1941-45,,boardgame,,,
+22143,EastFront: The War in Russia 1941-45,,boardgame,,,eastfront
 4779,Easy Money,1935,boardgame,,,
 ,Echelon,,boardgame,,,
 72125,Eclipse,2011,boardgame,,,
@@ -1120,9 +1120,9 @@ bgg_id,name,year,type,status,notes,yaml_id
 293207,Eila and Something Shiny,2021,boardgame,,,
 299150,Eile mit Weile,,boardgame,,,
 ,Einfach Genial 3D,2024,boardgame,,,
-18699,EinStein würfelt nicht!,,boardgame,,,
+18699,EinStein würfelt nicht!,,boardgame,,,einstein-wurfelt-nicht
 ,"El Alamein: Battles in North Africa, 1942",,boardgame,,,
-29972,El Capitán,,boardgame,,,
+29972,El Capitán,,boardgame,,,el-capitan
 ,El cascabelito mudo,,boardgame,,,
 93,El Grande,1995,boardgame,,,
 ,El nuevo coyote,,boardgame,,,
@@ -1158,7 +1158,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Enkeshui,,boardgame,,,
 1334,Entdecker,2001,boardgame,,,
 1329,Entropy,,boardgame,,,
-10431,Epic,,boardgame,,,
+10431,Epic,,boardgame,ambiguous,"Too generic, multiple games",
 112686,Epic Spell Wars of the Battle Wizards: Duel at Mt. Skullzfyre,,boardgame,,,
 103368,Epigo,,boardgame,,,
 41898,Epäillyt,,boardgame,,,
@@ -1166,13 +1166,13 @@ bgg_id,name,year,type,status,notes,yaml_id
 9379,Escalado,,boardgame,,,
 26884,Escalation!,,boardgame,,,
 ,Escape from Altassar,,boardgame,,,
-715,Escape from Colditz,1973,boardgame,,,
-731,Escape from New York,1981,boardgame,,,
+715,Escape from Colditz,1973,boardgame,,,escape-from-colditz-1973
+731,Escape from New York,1981,boardgame,,,escape-from-new-york-1981
 444,Escape from the Hidden Castle,,boardgame,,,
 ,Escape from the Hidden Castle (dup),,boardgame,,,
-90009,Eselsbrücke,,boardgame,,,
+90009,Eselsbrücke,,boardgame,,,eselsbrucke
 ,Eson xorgol,,boardgame,,,
-31291,España 1936,,boardgame,,,
+31291,España 1936,,boardgame,,,espana-1936
 343898,Espresso Doppio,2021,boardgame,,,
 ,Eternal Decks,2025,boardgame,,,
 206718,Ethnos,2017,boardgame,,,
@@ -1198,7 +1198,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 215840,Exit: The Game – The Forbidden Castle,,boardgame,,,
 215841,Exit: The Game – The Forgotten Island,,boardgame,,,
 244918,Exit: The Game – The Mysterious Museum,,boardgame,,,
-203416,Exit: The Game – The Pharaoh's Tomb,,boardgame,,,
+203416,Exit: The Game – The Pharaoh's Tomb,,boardgame,,,exit-the-game-the-pharaohs-tomb
 215842,Exit: The Game – The Polar Station,,boardgame,,,
 203417,Exit: The Game – The Secret Lab,,boardgame,,,
 226518,Exit: The Game – The Sunken Treasure,,boardgame,,,
@@ -1236,7 +1236,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 271601,Feed the Kraken,2022,boardgame,,,
 32125,Felicity: The Cat in the Sack,,boardgame,,,
 137830,Felli,,boardgame,,,
-,Ferris Bueller's Day Off,,boardgame,,,
+,Ferris Bueller's Day Off,,boardgame,,,ferris-buellers-day-off
 ,Fetaix,,boardgame,,,
 6744,Feudal Lord,1983,boardgame,,,
 163839,Feudum,,boardgame,,,
@@ -1252,7 +1252,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 285253,Fiesta de los Muertos,,boardgame,,,
 ,Fight for the Sky,,boardgame,,,
 6638,Fight in the Skies,,boardgame,,,
-39217,Fighting Formations: Grossdeutschland Motorized Infantry Division,,boardgame,,,
+39217,Fighting Formations: Grossdeutschland Motorized Infantry Division,,boardgame,,,fighting-formations-grossdeutschland
 9526,Figure It Out,,boardgame,,,
 2916,File 13,,boardgame,,,
 ,Final Frontier,,boardgame,,,
@@ -1262,12 +1262,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 28516,Finger Baseball,,boardgame,,,
 27768,Finis ton Assiette,2005,boardgame,,,
 436126,Finspan,2025,boardgame,,,
-19134,Fire & Steel,,boardgame,,,
+19134,Fire & Steel,,boardgame,,,fire-and-steel
 4643,Fire and Ice,,boardgame,,,
 144189,Fire in the Lake,2014,boardgame,,,
-14083,Fire in the Sky: The Great Pacific War 1941-1945,,boardgame,,,
+14083,Fire in the Sky: The Great Pacific War 1941-1945,,boardgame,,,fire-in-the-sky
 1768,Fireball Island,,boardgame,,,
-,Firefight: Modern U.S. and Soviet Small Unit Tactics,,boardgame,,,
+,Firefight: Modern U.S. and Soviet Small Unit Tactics,,boardgame,,,firefight
 138161,Firefly: The Game,,boardgame,,,
 41302,First Orchard,,boardgame,,,
 4370,"Fish, fluff, meatballs",2002,boardgame,,,
@@ -1291,7 +1291,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Fliptoons,2025,boardgame,,,
 154681,Flizz & Miez,,boardgame,,,
 125315,FlowerFall,,boardgame,,,
-,Flux,,boardgame,,,
+,Flux,,boardgame,,,fluxx
 1101,Flying Carpet,1987,boardgame,,,
 ,Flying Fortress I & II,,boardgame,,,
 789,Focus,,boardgame,,,
@@ -1322,11 +1322,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 21022,Found Objects,,boardgame,,,
 284189,Foundations of Rome,2022,boardgame,,,
 11054,Four Battles in North Africa,1976,boardgame,,,
-10213,Fox games,,boardgame,,,
+10213,Fox games,,boardgame,ambiguous,"Category of games, not a specific title",
 ,Foxbat & Phantom,,boardgame,,,
 2025,Frag,,boardgame,,,
 17281,Fragrances,,boardgame,,,
-19030,Frankenstein,2005,boardgame,,,
+19030,Frankenstein,2005,boardgame,,,frankenstein-2005
 706,Frederick the Great,,boardgame,,,
 2115,Free Parking,,boardgame,,,
 36659,Free Trader,,boardgame,,,
@@ -1341,13 +1341,13 @@ bgg_id,name,year,type,status,notes,yaml_id
 9372,Friedland 1807,1974,boardgame,,,
 12891,Friedrich,,boardgame,,,
 4694,Friends Trivia Game,,boardgame,,,
-,Frigate: Sea War in the Age of Sail,,boardgame,,,
+,Frigate: Sea War in the Age of Sail,,boardgame,,,frigate
 384213,Fromage,2024,boardgame,,,
 295770,Frosthaven,2022,boardgame,,,
 16144,Fruit Spy,,boardgame,,,
 33799,Fruttirelli,2007,boardgame,,,
 169855,Fujian Trader,,boardgame,,,
-20,Full Metal Planète,1988,boardgame,,,
+20,Full Metal Planète,1988,boardgame,,,full-metal-planete
 ,Fullrigger,,boardgame,,,
 ,Fully,1989,boardgame,,,
 370164,Fun Facts,2022,boardgame,,,
@@ -1360,8 +1360,8 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Fury of the Clansmen,,boardgame,,,
 ,Fuzzy Heroes,,boardgame,,,
 ,Fuzzy Sooper Heroes,,boardgame,,,
-5205,G.E.V.,,boardgame,,,
-1908,G.O.O.T.M.U.,,boardgame,,,
+5205,G.E.V.,,boardgame,,,gev
+1908,G.O.O.T.M.U.,,boardgame,,,gootmu
 220308,Gaia Project,2017,boardgame,,,
 235213,Galacta: Star Commandos,,boardgame,,,
 ,Galactic Cruise,2025,boardgame,,,
@@ -1369,20 +1369,20 @@ bgg_id,name,year,type,status,notes,yaml_id
 31481,Galaxy Trucker,,boardgame,,,
 47046,Gambit 7,,boardgame,,,
 24509,Gambit Royale,,boardgame,,,
-4123,Gambler,1975,boardgame,,,
+4123,Gambler,1975,boardgame,,,gambler-1975
 182516,Game For Fame,,boardgame,,,
 2125,Game of the Amazons,1988,boardgame,,,
 2728,Game of the Generals,,boardgame,,,
 2785,Game of the Goose,,boardgame,,,
-179719,Game of Thrones Risk,2015,boardgame,,,
-129976,Game of Thrones: The Card Game,2012,boardgame,,,
-,Games played with Mahjong equipment,,boardgame,,,
-,Gaming board from Knossos,,boardgame,,,
+179719,Game of Thrones Risk,2015,boardgame,,,game-of-thrones-risk-2015
+129976,Game of Thrones: The Card Game,2012,boardgame,,,game-of-thrones-the-card-game-2012
+,Games played with Mahjong equipment,,boardgame,skip,"Category description, not a specific game",
+,Gaming board from Knossos,,boardgame,skip,"Archaeological artifact, not a board game",
 1408,Gammarauders,,boardgame,,,
 3085,Gang of Four,,boardgame,,,
 1471,Gangsters,,boardgame,,,
 25260,Garden Party,2006,boardgame,,,
-28989,Garçon,2007,boardgame,,,
+28989,Garçon,2007,boardgame,,,garcon
 42776,Gears of War: The Board Game,,boardgame,,,
 ,Genestealer,,boardgame,,,
 40830,Genial Spezial,,boardgame,,,
@@ -1431,7 +1431,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Goblin,,boardgame,,,
 124390,"Goblins Drool, Fairies Rule!",,boardgame,,,
 208663,Godforsaken Scavengers,2017,boardgame,,,
-458063,"Gods, Warriors & Beasts",,boardgame,,,
+458063,"Gods, Warriors & Beasts",,boardgame,,,gods-warriors-and-beasts
 18737,Godzilla Game,,boardgame,,,
 8748,Golan,,boardgame,,,
 137480,Gold am Orinoko,,boardgame,,,
@@ -1469,12 +1469,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 2076,Gulf Strike,,boardgame,,,
 32016,Gumball Rally,,boardgame,,,
 3365,Gumshoe,1985,boardgame,,,
-14830,"Gunfight in the Valley of Tears, October 9, 1973",,boardgame,,,
-,Gunjin Shōgi,,boardgame,,,
+14830,"Gunfight in the Valley of Tears, October 9, 1973",,boardgame,,,gunfight-in-the-valley-of-tears
+,Gunjin Shōgi,,boardgame,,,gunjin-shogi
 10511,Gute Freunde,,boardgame,,,
 33685,Gwyddbwyll,,boardgame,,,
 ,Gym-Jungle,1989,boardgame,,,
-11948,Généric,,boardgame,,,
+11948,Généric,,boardgame,,,generique
 9805,Habana Taxi,,boardgame,,,
 19100,Hacienda,,boardgame,,,
 ,Hadara,2019,boardgame,,,
@@ -1484,7 +1484,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Halusa,,boardgame,,,
 30381,Hamburgum,2007,boardgame,,,
 3685,Hammer of the Scots,,boardgame,,,
-,Hammer's Slammers,,boardgame,,,
+,Hammer's Slammers,,boardgame,,,hammers-slammers
 ,Hanabi,2013,boardgame,,,
 ,Hands Down,,boardgame,,,
 ,Hannibal,,boardgame,,,
@@ -1500,13 +1500,13 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Harrow County: The Game of Gothic Conflict,2024,boardgame,,,harrow-county-gothic-conflict
 67436,Harry Potter Hogwarts,,boardgame,,,
 57925,Havana,,boardgame,,,
-142645,Havok & Hijinks,,boardgame,,,
+142645,Havok & Hijinks,,boardgame,,,havok-and-hijinks
 106217,Hawaii,2011,boardgame,,,
 42246,Hawalis,,boardgame,,,
-17457,He & She,,boardgame,,,
+17457,He & She,,boardgame,,,he-and-she
 9921,Headache,,boardgame,,,
 38778,Heads of State,2008,boardgame,,,
-7779,Heart of Oak: Naval Miniatures for the Age of Fighting Sail,1978,boardgame,,,
+7779,Heart of Oak: Naval Miniatures for the Age of Fighting Sail,1978,boardgame,,,heart-of-oak
 ,Heat,2022,boardgame,,,heat-pedal-to-the-metal
 366013,Heat: Pedal to the Metal,2022,boardgame,,,
 227789,Heaven & Ale,2017,boardgame,,,heaven-and-ale
@@ -2055,7 +2055,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 10630,Memoir '44,,boardgame,,,
 244608,Menara,2018,boardgame,,,
 19846,Menhir,,boardgame,,,
-2136,Mensch ärgere dich nicht,1907,boardgame,,,
+2136,Mensch ärgere dich nicht,1907,boardgame,,,dont-be-annoyed
 230,Merchant of Venus,,boardgame,,,
 32114,Merchants,,boardgame,,,
 25292,Merchants & Marauders,2010,boardgame,,,
@@ -3164,7 +3164,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,The Final Campaign,,boardgame,,,
 10521,The Final Frontier (board game),1992,boardgame,,,
 5310,The First Galaxy G1,,boardgame,,,
-,The Flight of the Goeben,,boardgame,,,
+,The Flight of the Goeben,,boardgame,,,flight-of-the-goeben
 305,The Flying Dutchman,1992,boardgame,,,
 5043,The Forever War,,boardgame,,,
 ,The Franco-Prussian War,,boardgame,,,
@@ -3753,7 +3753,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Mancala,,boardgame,,,
 ,Connect 4,1974,boardgame,,,connect-four
 ,Munchkin,2001,boardgame,,,
-,Exploding Kittens,2015,boardgame,,,
+,Exploding Kittens,2015,boardgame,,,exploding-kittens-2015
 ,Cards Against Humanity,2011,boardgame,,,
 ,Unstable Unicorns,2017,boardgame,,,
 ,What Do You Meme?,2016,boardgame,,,
@@ -3825,7 +3825,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,First Rat,2022,boardgame,,,
 ,The Red Cathedral,2020,boardgame,,,
 ,Horseless Carriage,2023,boardgame,,,
-,Evacuation,2023,boardgame,,,
+,Evacuation,2023,boardgame,,,evacuation-2023
 ,Knarr,2023,boardgame,,,
 ,Windmill Valley,2024,boardgame,,,
 ,Sail,2023,boardgame,,,
