@@ -1,0 +1,50 @@
+id: epaillyt
+name: "Epäillyt"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Mystery
+
+evokes:
+  - Mystery
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Kimmo Sorsamo
+publisher:
+  - Educa Borras
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Epäillyt is a Finnish deduction game designed by Kimmo Sorsamo in which players attempt to identify which three of twelve characters — drawn from three categories of wealthy men, women, and laborers — are the murderers. Players gather clues through questioning and elimination, narrowing suspects across each category until one culprit per group is unmasked. The game blends a Cluedo-style whodunit structure with lightweight Finnish design sensibilities, making it accessible for families.
+
+upgrades: []

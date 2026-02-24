@@ -1,0 +1,54 @@
+id: double-star
+name: "Double Star"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Resource Management
+  - Wargame
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+  - Progress
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Marc Miller
+publisher:
+  - GDW (Game Designers Workshop)
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Double Star is a 1979 two-player science fiction wargame from Game Designers' Workshop set in a binary solar system where two rival human colonies — one of Chinese descent, one of Arab descent — wage an interplanetary war for resources. Each player builds task forces of spaceships, organizes them into tactical formations (cone, wedge, cylinder, globe), and launches expensive offensives across the vast distance between the two stars. Players must budget carefully, purchasing ships, defense units, power plants, and training; launching kinetic asteroid strikes at enemy planets adds another dangerous strategic layer. Praised by reviewers as one of the most solid science-fiction wargames of its era, Double Star rewards meticulous long-range planning because offensive fleets take many turns to reach their targets.
+
+upgrades: []

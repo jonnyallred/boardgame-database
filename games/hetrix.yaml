@@ -1,0 +1,50 @@
+id: hetrix
+name: "Hetrix"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Complete
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - AURUM
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Hetrix is a 2010 abstract tile-laying game published by AURUM in which players build a matrix over four rounds using tiles bearing six colors of gems, scoring by forming the longest color link on the board or by creating the most links possible. The game was reviewed positively by Tom Vasel of The Dice Tower as an accessible and visually appealing abstract. Simple rules and colorful components make it approachable for families while offering enough strategic depth to interest dedicated abstract game fans.
+
+upgrades: []

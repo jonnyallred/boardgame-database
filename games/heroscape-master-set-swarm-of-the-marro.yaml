@@ -1,0 +1,55 @@
+id: heroscape-master-set-swarm-of-the-marro
+name: "Heroscape Master Set: Swarm of the Marro"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: heroscape
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Sci-Fi
+  - Area Control
+  - Dice Rolling
+  - Hex Map
+  - Modular Board
+  - Variable Player Powers
+  - Asymmetric
+
+evokes:
+  - Powerful
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+description: |
+  Heroscape Master Set: Swarm of the Marro is the second master set for Hasbro's Heroscape miniatures game, released in August 2007 by Milton Bradley. Players build 3D battlefields from interlocking hexagonal terrain tiles and draft armies up to a predetermined point value from a roster of fantasy and sci-fi miniatures, with the Marro — an insectoid alien species — as the central new faction. Combat is resolved by rolling attack and defense dice with skulls indicating damage, and each miniature comes with a card detailing its special powers and movement capabilities.
+
+upgrades: []

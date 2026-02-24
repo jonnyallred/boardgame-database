@@ -1,0 +1,49 @@
+id: fully
+name: "Fully"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Abstract
+  - Set Collection
+
+evokes:
+  - Lucky
+  - Connection
+  - Humor
+  - Wonder
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Fully is a lightweight children's board game with simple rules designed for very young players. Limited information is available about this title's specific publisher and designer. Based on available sources it is a simple abstract or set-collection game accessible to preschool-aged children, emphasizing playful interaction and basic pattern recognition.
+
+upgrades: []

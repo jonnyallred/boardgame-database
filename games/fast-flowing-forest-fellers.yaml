@@ -1,0 +1,53 @@
+id: fast-flowing-forest-fellers
+name: "Fast Flowing Forest Fellers"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Racing
+  - Hand Management
+  - Nature
+  - Friedemann Friese
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Friedemann Friese
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Fast Flowing Forest Fellers is a log-riding lumberjack racing game designed by Friedemann Friese and published by Rio Grande Games in 2009. Each player controls two or three lumberjack pawns and manages a shared hand of cards for all of them, requiring clever timing as you decide when to rush ahead and when to hold back on a modular river course with obstacles and blocked passages. The 6 double-sided game boards provide dozens of different races, while the racing elements introduce entertaining blocking and bumping as teams jostle for the lead.
+
+upgrades: []

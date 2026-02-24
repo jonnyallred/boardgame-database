@@ -1,0 +1,53 @@
+id: dragons-breath
+name: "Dragon's Breath"
+alternate_names: ["Drachen Atem"]
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Press Your Luck
+  - Family
+  - Fantasy
+
+evokes:
+  - Lucky
+  - Wonder
+  - Humor
+  - Complete
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Gunter Burkhardt
+  - Lena Burkhardt
+publisher:
+  - HABA
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 5
+
+description: |
+  Dragon's Breath is a 2017 children's game from HABA designed by Gunter and Lena Burkhardt, winner of the 2018 Kinderspiel des Jahres. Dragon children Mira, Feo, Luna, and Diego have discovered a column of ice with sparkling gems frozen inside. Each round, players secretly choose which gem color they hope will fall when the dragon father uses his fiery breath to melt the next ring from the ice column. Once all players have picked, the ring is removed and gems tumble out to be collected by those who guessed correctly. The charming push-your-luck gem-guessing mechanic and tactile ice-column centerpiece make it an ideal first game for young children.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: heroes-of-land-air-and-sea
+name: "Heroes of Land, Air & Sea"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - 4X
+  - Worker Placement
+  - Area Control
+  - Resource Management
+  - Variable Player Powers
+  - Asymmetric
+
+evokes:
+  - Powerful
+  - Agency
+  - Rivalry
+  - Progress
+  - Tension
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Michael Coe
+publisher:
+  - Gamelyn Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Heroes of Land, Air & Sea is an RTS-inspired 4X miniatures board game designed by Michael Coe and published by Gamelyn Games in 2018, set in the fantasy world of Aughmoore. Players control distinct kingdoms and compete to conquer through two intertwined economic systems: traditional resource acquisition (food, ore, mana) and a twist on worker placement deploying serfs to construct buildings. Combat is resolved through secretly selected tactics cards, with outcomes shaped by the units committed — rewarding both planning and bluffing.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: delirphone
+name: "Délir'phone"
+alternate_names: ["Délirophone"]
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Bluffing
+  - Word Play
+
+evokes:
+  - Humor
+  - Tension
+  - Clever
+  - Connection
+  - Mystery
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Dujardin
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Délir'phone is a 2002 French party game published by Dujardin that uses a plastic toy phone as its central prop. Each turn, the active player draws a "situation" card describing an absurd telephone scenario (surgeon, disgruntled boss, etc.) and reads it aloud. Then they draw a "secret words" card and roll special dice to determine which three words they must secretly weave into their improvised phone call. Opponents score a point for each secret word they correctly identify; the active player scores for each word that goes undetected. The first player to reach 25 points wins. The 80-second phone call structure creates frantic and often hilarious improvised conversations.
+
+upgrades: []

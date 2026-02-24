@@ -1,0 +1,50 @@
+id: duck-pond
+name: "Duck Pond"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dice Rolling
+  - No Math
+
+evokes:
+  - Lucky
+  - Connection
+  - Wonder
+  - Humor
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Orchard Toys
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 3
+
+description: |
+  Duck Pond is a simple children's board game involving basic image recognition and rudimentary dice-based movement. Players roll a die and move their duck to the indicated section of the pond to feed it, collecting cards as they go. The game is designed as a first board game for very young children, developing early number recognition, color matching, and turn-taking skills through a cheerful pond-and-duck theme. Limited documentation is available in English-language sources for this particular title.
+
+upgrades: []

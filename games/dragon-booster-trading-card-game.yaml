@@ -1,0 +1,52 @@
+id: dragon-booster-trading-card-game
+name: "Dragon Booster Trading Card Game"
+alternate_names: ["Dragon Booster TCG"]
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Deck Building
+  - Racing
+  - Fantasy
+  - Dragons in theme (Fantasy)
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Score Entertainment
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Dragon Booster is a collectible card game based on the animated television series of the same name, released by Score Entertainment in 2005. Set in Dragon City where racing and combat combine in 200-mile-per-hour competitions, two players build decks around dragon racers and use draconium gear and dragon energy cards to outmaneuver opponents. Victory is achieved either by being the first to cross the 30-point finish line or by exhausting all rival players' decks. Only one set, "Release the Dragon," was ever published before the game was discontinued; a second set was completed but never printed.
+
+upgrades: []

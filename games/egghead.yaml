@@ -1,0 +1,50 @@
+id: egghead
+name: "Egghead"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Deduction
+  - No Math
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Agency
+  - Tension
+
+possible_counts: [1]
+true_counts: [1]
+
+designer: []
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Egghead is a solo logic puzzle game from Gamewright. Players select one of 40 challenge cards that provide number and color clues, then use logic to determine the correct placement of 16 egg-shaped pieces on a grid. Difficulty ramps through the included challenge levels, providing a satisfying solo brain-teaser for players who enjoy deductive reasoning in a compact, portable format. The game includes a carrying case with lid, making it ideal for travel.
+
+upgrades: []

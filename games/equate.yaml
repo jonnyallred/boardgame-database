@@ -1,0 +1,52 @@
+id: equate
+name: "Equate"
+alternate_names:
+  - "Equate: The Equation Thinking Game"
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Abstract
+  - Word Play
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Progress
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Conceptual Math Media
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Equate is an educational board game published by Conceptual Math Media in which players score points by forming valid mathematical equations on a 19x19 grid in the style of Scrabble, using tiles bearing digits and arithmetic operators instead of letters. Equations must be mathematically correct and appear across or down in crossword fashion, with premium board positions rewarding the use of fractions and division. The game scales from elementary arithmetic to advanced play using optional tile sets with integers, exponents, and negative numbers.
+
+upgrades: []

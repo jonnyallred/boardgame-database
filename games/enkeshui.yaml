@@ -1,0 +1,49 @@
+id: enkeshui
+name: "Enkeshui"
+alternate_names:
+  - "Engesho"
+year: 1895
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Mancala
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 60
+min_age: 10
+
+description: |
+  Enkeshui (also known as Engesho) is a traditional mancala game of the Maasai people of Kenya and Tanzania, one of the more complex games in the Mancala II family of two-row sowing games. Played on a board of two rows with 8, 10, or 12 pits per row and 48 seeds (a number considered auspicious in Maasai culture), the game features simultaneous opening sowing, relay-sow mechanics, and special "bull pit" rules that shape the endgame. Seeds are called cows and pits are enclosures, with the game's terminology deeply rooted in Maasai cattle-farming metaphors.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: epigo
+name: "Epigo"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Programmed Movement
+  - Simultaneous Action
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2, 4]
+true_counts: [2]
+
+designer:
+  - Chris Gosselin
+  - Chris Kreuter
+publisher:
+  - Masquerade Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Epigo is a two-or-four-player abstract strategy game published by Masquerade Games in 2011, in which players race to push three of their opponent's Epigons off the edge of the board. Each round, players simultaneously select and stack three orders from their hand, with piece rank (1-7) determining movement speed — and matching ranks causing cancellation. The game ships with 21 built-in variants and more available online, giving it exceptional replayability for a fast-playing abstract.
+
+upgrades: []

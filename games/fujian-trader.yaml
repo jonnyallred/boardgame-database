@@ -1,0 +1,56 @@
+id: fujian-trader
+name: "Fujian Trader"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Historical
+  - Route Building
+  - Trading
+  - Economic
+  - Resource Management
+  - Maritime
+  - Gateway
+
+evokes:
+  - Discovery
+  - Progress
+  - Agency
+  - Clever
+  - Rivalry
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Robert Batchelor
+  - Sari Gilbert
+publisher:
+  - Thinking Past
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 13
+
+description: |
+  Fujian Trader is a victory-point gateway game published by Thinking Past, themed around Ming-era merchant families trading along routes depicted in the rediscovered 17th-century Selden Map of the East China Sea. Players follow historical trading lanes, bartering iron, silk, and rice for silver and influence, with options to raid rivals' goods as well as trade peacefully. The game was designed by Robert Batchelor and Sari Gilbert to bring the history of Chinese maritime trade to life through its mechanics and artwork.
+
+upgrades: []

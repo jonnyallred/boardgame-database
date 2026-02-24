@@ -1,0 +1,52 @@
+id: dragon-hordes
+name: "Dragon Hordes"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Fantasy
+  - Asymmetric
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Agency
+  - Masterful
+  - Unique
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Chessex
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Dragon Hordes is a large-scale fantasy wargame set on the world of Eorthe, where six asymmetric factions — the Theofas (continental humans), Alefs (elves), Dhurgoths (dwarves), the Forgotten (humans with dinosaurs), Selicum (island mixed-race with sea creatures), and Swaerthan (Chaos/undead) — fight over drying magical Eorthewells. The game is designed for miniature figures but ships with cardstock counters covering dragons, catapults, giant insects, wizards, flying machines, cannons, naval ships, and more across land, air, and sea combat. Players wage large battles on multiple fronts in a system reminiscent of Warhammer, capturing the epic scale of a planet-girdling war.
+
+upgrades: []

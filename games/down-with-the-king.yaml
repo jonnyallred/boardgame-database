@@ -1,0 +1,56 @@
+id: down-with-the-king
+name: "Down with the King"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Negotiation
+  - Variable Player Powers
+  - Traitor
+  - Historical
+  - Medieval
+
+evokes:
+  - Persuasion
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Glenn Rahman
+  - Kenneth Rahman
+  - Alan R. Moon
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Down with the King is a political card game for 2-6 players set in the fictional European Baroque nation of Fandonia. Each player portrays a noble seeking to depose the current monarch and place their own lackey on the throne. Players build their faction's skills, influence, and prestige, earning the loyalty of non-player characters and securing political offices. While all players must cooperate to destabilize the reigning monarch, only one can ultimately claim the crown — making betrayal an ever-present concern. Designed by Glenn Rahman, Kenneth Rahman, and Alan R. Moon, the game features both cooperative and competitive elements with freeform negotiation and hidden agendas.
+
+upgrades: []

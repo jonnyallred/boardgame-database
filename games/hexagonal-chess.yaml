@@ -1,0 +1,50 @@
+id: hexagonal-chess
+name: "Hexagonal Chess"
+alternate_names:
+  - "Glinski's Hexagonal Chess"
+year: 1936
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Masterful
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Wladyslaw Glinski
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 10
+
+description: |
+  Hexagonal Chess refers primarily to the variant invented in 1936 by Polish designer Wladyslaw Glinski, played on a symmetric 91-cell hexagonal board with three colors of hexagons. The game uses standard chess pieces but adapts their movement to the six-direction hexagonal grid, requiring three bishops per player (one for each hex color), and is played by over half a million people mostly in Eastern Europe. Since each non-edge hex cell has six neighbors, most pieces have greater mobility than on a standard chessboard, opening up new tactical and strategic possibilities.
+
+upgrades: []

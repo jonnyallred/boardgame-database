@@ -1,0 +1,51 @@
+id: dobutsu-shogi
+name: "Dōbutsu shōgi"
+alternate_names: ["Animal Shogi", "Let's Catch the Lion!"]
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Madoka Kitao
+publisher:
+  - Nekomado
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 3
+
+description: |
+  Dōbutsu shōgi (Animal Shogi) is a compact shogi variant for two players invented in 2008 by women's professional shogi player Madoka Kitao, designed partly to introduce young girls to the game of shogi. Played on a tiny 3x4 board with charming animal-themed pieces (Lion, Elephant, Giraffe, and Chick/Hen), players win by either capturing the opponent's Lion or advancing their own Lion into the promotion zone without entering check. Captured pieces can be re-dropped onto the board as in standard shogi. Despite its simplicity, the game has been strongly solved — revealing that the second player holds a theoretical advantage requiring up to 78 plies to realize — making it a fascinating subject for both children and computer scientists.
+
+upgrades: []

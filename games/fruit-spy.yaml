@@ -1,0 +1,51 @@
+id: fruit-spy
+name: "Fruit Spy"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Bluffing
+  - Auctions/Bidding
+  - Animals
+  - Food Theme
+
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Humor
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Fruit Spy is a 2005 family bluffing game in which players take the roles of small animal rascals sneaking into Farmer Papa's orchard to collect fruit. Each player secretly places spy cards face-down on farmhouse boards to build their strength, with fruit tokens awarded to the strongest player at each location. The game's simple hidden placement and bluffing mechanics make it accessible for families while offering some tension around deducing where opponents have committed their forces.
+
+upgrades: []

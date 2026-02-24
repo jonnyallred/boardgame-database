@@ -1,0 +1,52 @@
+id: engine-engine-no-9
+name: "Engine, Engine No. 9"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Tile Placement
+  - Dice Rolling
+  - Trains
+
+evokes:
+  - Lucky
+  - Progress
+  - Connection
+  - Wonder
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Bob Lindner
+publisher:
+  - Amigo
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Engine, Engine No. 9 is a children's board game published by AMIGO where players race to get all three of their toy trains into the depot first. Players roll dice and place train tiles on the board to advance their engines, making it an accessible and colorful entry point for young players. The game won the 2011 Graf Ludo Best Children's Game Graphics award and was nominated for the Kinderspielexperten award for 5-to-9-year-olds.
+
+upgrades: []

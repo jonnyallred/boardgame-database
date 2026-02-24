@@ -1,0 +1,50 @@
+id: defifoo
+name: "Défifoo"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Real-time
+  - Teams
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Connection
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+true_counts: [6, 9, 12]
+
+designer: []
+publisher:
+  - Gigamic
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 7
+
+description: |
+  Défifoo is a 1998 French party game published by Gigamic that has become a reference French family game, accommodating up to 18 players. Three teams rotate between competing and refereeing: two teams face off in 150 zany challenges spanning mime, drawing, action, speed, memory, and skill, while the third team acts as referee. The first team to win seven challenges wins the game. The celebration of its 25th anniversary led to a reinvented edition with updated challenges for new generations of players.
+
+upgrades: []

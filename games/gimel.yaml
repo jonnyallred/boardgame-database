@@ -1,0 +1,48 @@
+id: gimel
+name: "Gimel"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Gimel is an abstract strategy game played on an 8x18 board in which each player commands 24 pieces of three types — horus (large cylinders, worth 6 points), bastets (large triangles, worth 3 points), and scarabs (small round buttons, worth 1 point). Players alternate between placing new pieces anywhere on the empty board or moving existing pieces according to their type's movement restrictions, with the winner determined by the total point value of captured pieces rather than count. The game blends a placement phase and a maneuvering phase in a way that makes long-range planning challenging, as new pieces can appear anywhere at any time.
+
+upgrades: []

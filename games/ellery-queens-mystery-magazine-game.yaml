@@ -1,0 +1,51 @@
+id: ellery-queens-mystery-magazine-game
+name: "Ellery Queen's Mystery Magazine Game"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Mystery
+  - Cooperative
+  - Narrative Heavy
+
+evokes:
+  - Mystery
+  - Clever
+  - Tension
+  - Agency
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Ellery Queen's Mystery Magazine Game is a mystery deduction game published by Mayfair Games, broadly similar in structure to Sherlock Holmes Consulting Detective. Players select one of five included mysteries set in Manhattan or Bromlee Station, then move detectives across the board gathering clues. In the Basic game, clues are read aloud for all players; in the Advanced game, clues are read silently and kept secret, requiring players to independently deduce the solution. When a player believes they have solved the mystery, they announce their conclusion and privately verify it against the solution. Five unique mysteries offer substantial replay value.
+
+upgrades: []

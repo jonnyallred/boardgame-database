@@ -1,0 +1,54 @@
+id: flying-fortress-i-and-ii
+name: "Flying Fortress I & II"
+alternate_names:
+  - "Flying Fortress I"
+  - "Flying Fortress II"
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Aviation
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jim Dunnigan
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Flying Fortress I & II are companion board wargames designed by Jim Dunnigan and published by Poultron Press in 1969 (which shortly became Simulations Publications Inc.), simulating the American daylight bombing campaign over Europe during World War II. The two versions represent an experimental test series in which Dunnigan intended to determine which design worked better for potential republication as a game called Luftwaffe — though that follow-up was never released. The games are historically significant as early examples of the SPI-style hex-and-counter wargame approach.
+
+upgrades: []

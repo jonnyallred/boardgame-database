@@ -1,0 +1,52 @@
+id: hero-a-game-of-adventure-in-the-catacombs
+name: "Hero: A Game of Adventure in the Catacombs"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Dungeon Crawler
+  - 1 vs Many
+  - Variable Player Powers
+
+evokes:
+  - Discovery
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2, 3]
+true_counts: [2, 3]
+
+designer:
+  - John Hagen
+publisher:
+  - Yaquinto
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Hero: A Game of Adventure in the Catacombs is a 1980 dungeon crawl adventure game designed by John Hagen and published by Yaquinto as one of their Album Game series. Each player builds a hero using point-buy attributes — Courage, Comeliness, Class, Intelligence, and Luck — and races to navigate a labyrinthine catacomb to reach the dungeon exit, while also controlling monsters in opponents' separate dungeons to slow or eliminate rival heroes. The first player whose hero exits their catacomb wins the hand of Princess Alysa and the game.
+
+upgrades: []

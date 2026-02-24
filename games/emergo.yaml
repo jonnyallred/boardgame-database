@@ -1,0 +1,51 @@
+id: emergo
+name: "Emergo"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Deduction
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Christian Freeling
+  - Ed van Zon
+publisher:
+  - MindSports
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  Emergo is an abstract strategy game created by Christian Freeling and Ed van Zon in 1986, belonging to the tradition of column checkers alongside Bashni and Lasca. It is played on a 9x9 checkered board where pieces stack into columns, and the game unfolds in two phases: an entering phase and a movement phase. Players must capture three of their opponent's Epigons by pushing them off the board's edge, and of all games Christian Freeling has created, Emergo is his personal favourite for its elegant depth and beauty.
+
+upgrades: []

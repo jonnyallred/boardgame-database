@@ -1,0 +1,54 @@
+id: dungeon-in-a-tin
+name: "Dungeon in a Tin"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Tile Placement
+  - Dice Rolling
+  - Dungeon Crawler
+  - Fantasy
+  - Puzzle Solving
+
+evokes:
+  - Discovery
+  - Tension
+  - Lucky
+  - Progress
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1]
+
+designer:
+  - Jake Staines
+publisher:
+  - Self-Published (PnP)
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Dungeon in a Tin is a 2011 solo or cooperative print-and-play dungeon crawl designed by Jake Staines for a single-sheet label design contest on BoardGameGeek, intended to fit physically inside an Altoids tin. Players descend into a randomly laid-out dungeon built from a stack of tiles, fighting through orc and goblin hordes to rescue a kidnapped maiden and collect treasure. Each new room triggers a monster dice roll to determine enemies and loot; combat is resolved by matching a hand card against the monster's attack die. A charming compact design that proves a complete dungeon crawl experience can fit on one printed sheet.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: faraway
+name: "Faraway"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Card Drafting
+  - Set Collection
+  - Tableau Building
+  - Simultaneous Action
+  - Euro
+  - Gateway
+
+evokes:
+  - Discovery
+  - Clever
+  - Agency
+  - Wonder
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Johannes Goupy
+  - Corentin Lebrat
+publisher:
+  - Pandasaurus Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Faraway is a card game for 2-6 players published by Pandasaurus Games in 2023, designed by Johannes Goupy and Corentin Lebrat. Players simultaneously select cards to build a row of eight region cards, with the game's signature twist being that scoring is calculated in reverse order from how cards were played — meaning early decisions only pay off based on conditions met later. A priority system governs card selection from a face-up river, creating meaningful tension around timing and hand management in a deceptively simple fantasy exploration framework.
+
+upgrades: []

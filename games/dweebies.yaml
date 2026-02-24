@@ -1,0 +1,52 @@
+id: dweebies
+name: "Dweebies"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Complete
+  - Lucky
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Forrest-Pruzan Creative
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Dweebies is a card game from Gamewright in which players take turns placing one card adjacent to a card already on the table. If the card at either end of any row matches the card just placed, the player collects those two matching cards and all the cards between them. Each Dweebie character has a profession-themed name (Super Dweebie, Dr. Dweebie, Fix-it Dweebie) and appears in the deck as a singleton, twin, triplet, or quadruplet. Incredibly easy to learn but surprisingly tricky to win, the game rewards spatial awareness and patience while offering the satisfying sweep of capturing a long run of cards.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: duel-arcane
+name: "Duel Arcane"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Fantasy
+  - Abstract
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Shannonhouse
+publisher:
+  - Gamelords
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Duel Arcane is a 1980 two-player fantasy game published by Gamelords and designed by John Shannonhouse. Before play begins each player creates a mage by rolling dice to generate values for five abilities: Talent, Reflexes, Perception, Stamina, and Resistance. The two mages then battle using shapeshifting abilities — transforming into various animals with different combat characteristics — in an arena-style duel that blends role-playing character creation with tactical combat resolution. The game reflects the early days of RPG-adjacent wargames popular in the late 1970s and early 1980s.
+
+upgrades: []

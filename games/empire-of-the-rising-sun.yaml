@@ -1,0 +1,53 @@
+id: empire-of-the-rising-sun
+name: "Empire of the Rising Sun"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Area Control
+  - Hex Map
+
+evokes:
+  - Agency
+  - Rivalry
+  - Tension
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Bruce Harper
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Empire of the Rising Sun is a two-player World War II Pacific theater wargame published by Avalon Hill in 1995, winner of the Origins Award. Designed by Bruce Harper with significant naval warfare input from Dave Casper, the game covers the entire Pacific conflict from Pearl Harbor to 1945. Players command either the Allied forces or Japan across a detailed hex map, managing air, sea, and land operations in a grand-scale operational simulation.
+
+upgrades: []

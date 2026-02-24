@@ -1,0 +1,53 @@
+id: dutch-blitz
+name: "Dutch Blitz"
+alternate_names: []
+year: 1960
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Simultaneous Action
+  - Set Collection
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Humor
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Werner Ernst George Muller
+publisher:
+  - Dutch Blitz Game Company
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Dutch Blitz is a fast-paced real-time card game created by a German immigrant to Pennsylvania and first published around 1960, originally popular in Pennsylvania Dutch communities. Each player has their own 40-card deck with numbers 1-10 in four colors, and simultaneously races to empty their personal Blitz Pile by playing cards onto shared Dutch Piles in ascending order and matching colors. The player who first empties their Blitz Pile calls "Blitz!" to end the round; players then score one point per card played to Dutch Piles minus two per card remaining in their Blitz Pile. Renowned for its frenetic simultaneous play and the coordination-breaking chaos of four people all grabbing at shared center piles at once.
+
+upgrades: []

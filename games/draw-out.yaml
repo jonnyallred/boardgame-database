@@ -1,0 +1,50 @@
+id: draw-out
+name: "Draw Out"
+alternate_names: []
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Spear's Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Draw Out is a drawing party game published by Spear's Games. Players roll a die to determine a category color, then draw a clue from that category against a sand timer while other players race to guess the correct answer. The combination of timed pressure, random category selection, and free-form drawing makes it an accessible party game for families and groups. Limited documentation is available in English-language sources for this title.
+
+upgrades: []

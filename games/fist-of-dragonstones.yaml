@@ -1,0 +1,54 @@
+id: fist-of-dragonstones
+name: "Fist of Dragonstones"
+alternate_names:
+  - "Fist of Dragonstones: The Tavern Edition"
+year: 2002
+
+# Relationships
+game_family: fist-of-dragonstones
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Auctions/Bidding
+  - Bluffing
+  - Hand Management
+  - Days of Wonder
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Persuasion
+  - Lucky
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Bruno Cathala
+publisher:
+  - Days of Wonder
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Fist of Dragonstones is a blind-bidding fantasy auction game designed by Bruno Faidutti and Michael Schacht and originally published by Days of Wonder in 2002. Players use gold and magic coins held in their closed fists to outbid rivals for enchanted character cards, whose powers help collect valuable Dragonstones — but every player pays their bid whether they win or not, giving the game a uniquely tense bluffing dimension. A Tavern Edition was republished by Stronghold Games in 2018 with updated components and slight rule refinements.
+
+upgrades: []

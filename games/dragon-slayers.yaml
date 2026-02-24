@@ -1,0 +1,50 @@
+id: dragon-slayers
+name: "Dragon-Slayers"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Roll & Write
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher:
+  - SPI (Simulations Publications, Inc.)
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Dragon-Slayers is a 1981 fantasy wargame published by SPI (Simulations Publications, Inc.) in which players take the roles of competing hero-kings in a land threatened by a great dragon. Information on this title is limited in available English-language sources; the game is documented in board game databases as a 1981 SPI fantasy release. Players likely compete to slay the dragon or accumulate glory in a scenario-driven fantasy setting typical of SPI's fantasy wargame output of the era.
+
+upgrades: []

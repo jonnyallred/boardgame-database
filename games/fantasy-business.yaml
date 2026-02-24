@@ -1,0 +1,52 @@
+id: fantasy-business
+name: "Fantasy Business"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Auctions/Bidding
+  - Trading
+  - Economic
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Christophe Boelinger
+publisher:
+  - Descartes Editeur
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Fantasy Business is a 2002 fantasy trading game designed by Christophe Boelinger and published by Descartes Editeur, nominated for the Tric Trac award. Players operate shops selling swords, magical powders, horses, and other fantasy goods, competing to buy commodities at low prices through bidding and resell them at higher prices. The game's commodity speculation and auction mechanics create a lively economic experience for 3-8 players in a fun fantasy market setting.
+
+upgrades: []

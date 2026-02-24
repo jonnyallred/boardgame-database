@@ -1,0 +1,54 @@
+id: heroes-of-barcadia
+name: "Heroes of Barcadia"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Dungeon Crawler
+  - Dice Rolling
+  - Tile Placement
+  - Cooperative
+  - Party
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Discovery
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Madison O'Neil
+publisher:
+  - Rollacrit
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 18
+
+description: |
+  Heroes of Barcadia is a tile-based dungeon-crawling party game designed by Madison O'Neil and published by Rollacrit in 2022, featuring the game's signature Liquid Life System where players track their character's health through the drink in their cup. Players explore modular dungeon tiles, battle monsters, and collect loot in a cooperative framework that doubles as a social drinking experience. The game blends approachable dungeon crawler mechanics with party game energy, making it popular for game nights where fun trumps strategy.
+
+upgrades: []

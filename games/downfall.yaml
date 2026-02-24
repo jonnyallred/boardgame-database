@@ -1,0 +1,51 @@
+id: downfall
+name: "Downfall"
+alternate_names: []
+year: 1970
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+  - Puzzle Solving
+  - No Math
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Lucky
+  - Progress
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Downfall is a two-player abstract strategy game first published by Milton Bradley in 1970. The game features a vertical board with five rotating slotted dials on each side; each player starts with ten numbered discs at the top and must maneuver them to the bottom of the board in ascending numerical order. On each turn a player rotates one of the shared dials — but the exact position of the disc channels is only partially visible, so neither player knows precisely whether a rotation helps or hinders their opponent. The first player to drop all their discs through to the collection tray in correct sequence wins. The game was later re-released by Hasbro as New Downfall.
+
+upgrades: []

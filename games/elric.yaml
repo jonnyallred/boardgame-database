@@ -1,0 +1,52 @@
+id: elric
+name: "Elric"
+alternate_names: ["Elric: Battle at the End of Time"]
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Area Control
+  - Hand Management
+
+evokes:
+  - Powerful
+  - Tension
+  - Rivalry
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Chaosium
+artist:
+  - William Church
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Elric is a 1977 licensed board game published by Chaosium based on Michael Moorcock's Elric of Melniboné novels — Chaosium's first licensed game following their 1975 founding. Players command warring armies and iconic heroes in a cosmic conflict between the forces of Chaos and Law, mediated by a Cosmic Balance mechanic. The original 1977 ziploc edition includes a large color map by William Church, a full sheet of 1-inch character and army counters, and magic cards that introduce unique fantasy elements not found in standard wargames. A revised boxed edition followed in 1981. The game stands as an early example of literary fantasy wargaming that predates the RPG era's full dominance of the hobby.
+
+upgrades: []

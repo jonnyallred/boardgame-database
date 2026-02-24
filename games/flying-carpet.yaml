@@ -1,0 +1,53 @@
+id: flying-carpet
+name: "Flying Carpet"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Racing
+  - Hand Management
+
+evokes:
+  - Lucky
+  - Humor
+  - Wonder
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Elke Flogaus
+  - Kurt Feyerabend
+  - Tilman Michalski
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Flying Carpet is a 1987 family racing game published by Ravensburger in which players race their flying carpets across a fantasy board by playing cards that determine movement direction and distance. The game received a Spiel des Jahres nomination, recognizing it as one of the more noteworthy family games of its era. With simple card-play mechanics and a colorful Arabian Nights theme, it offers light strategic choices within an accessible racing format.
+
+upgrades: []

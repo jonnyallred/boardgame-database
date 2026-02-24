@@ -1,0 +1,54 @@
+id: dragon-rage
+name: "Dragon Rage"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (asymmetric — one player is monsters, other is city)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Hex Map
+  - Wargame
+  - Fantasy
+  - Asymmetric
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Agency
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Lewis Pulsipher
+publisher:
+  - Dwarfstar Games
+artist:
+  - David Helber
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Dragon Rage is a 1982 asymmetric two-player wargame published by Dwarfstar Games (a division of Heritage Models), designed by Lewis Pulsipher with art by David Helber. One player commands a horde of fantasy monsters — including dragons, giants, goblins, orcs, trolls, great birds, and wizards — seeking revenge against a walled medieval city that destroyed their eggs; the other player commands the city's defenses, including knights, infantry, heroes, and wizards. Six included scenarios offer different combinations of attackers and defenders, and rules allow players to create their own configurations. Despite Dwarfstar's bankruptcy shortly after publication, the game was reissued in an expanded format by Belgium's Flatlined Games in 2011.
+
+upgrades: []

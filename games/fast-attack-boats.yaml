@@ -1,0 +1,56 @@
+id: fast-attack-boats
+name: "Fast Attack Boats"
+alternate_names:
+  - "Fast Attack Boats: A Game of the Arab-Israeli Naval War 1973"
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Maritime
+  - Hex Map
+  - Dice Rolling
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Powerful
+
+possible_counts: [2, 3]
+true_counts: [2]
+
+designer:
+  - Neil Zimmerer
+publisher:
+  - Yaquinto
+artist:
+  - Charles Micah
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Fast Attack Boats is a hex-and-counter wargame published by Yaquinto in 1980 covering naval actions of the Arab-Israeli War of October 1973. Players command small naval craft and attempt to sink opponents using missiles, torpedoes, guns, and ramming in fast-paced tactical scenarios. Published as a Yaquinto "Album Game" — packaged in a double vinyl record album jacket with the mapboard printed inside — the game was praised for authentically capturing the flavor of missile-boat warfare in the Mediterranean.
+
+upgrades: []

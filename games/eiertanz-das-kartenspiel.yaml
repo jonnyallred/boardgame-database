@@ -1,0 +1,51 @@
+id: eiertanz-das-kartenspiel
+name: "Eiertanz, Das Kartenspiel"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Party
+  - Family
+  - Real-time
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - HABA
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Eiertanz, Das Kartenspiel is a physical card game published by HABA that combines card play with absurd dexterity challenges. Players try to snatch the most egg-shaped cards, but whoever receives an egg card must then clasp it under their chin, between their knees, or in other unlikely positions on their body. The game rewards quick reflexes and nimble body management; holding multiple eggs in improbable positions while continuing to play cards is as funny for observers as it is challenging for participants. Though nominally a children's game, it is equally entertaining for adults.
+
+upgrades: []

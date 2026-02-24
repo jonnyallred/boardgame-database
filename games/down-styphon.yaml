@@ -1,0 +1,52 @@
+id: down-styphon
+name: "Down Styphon!"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Fantasy
+  - Hex Map
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mike Gilbert
+publisher:
+  - Fantasy Games Unlimited
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Down Styphon! is a 1977 miniatures wargame published by Fantasy Games Unlimited, based on H. Beam Piper's novel Lord Kalvan of Otherwhen. Using a modified version of the Musket and Pike rules (originally published by SPI in 1973), the game recreates 16th and 17th century pike-and-shot battles, with the addition of elements from Piper's alternate-history setting where the gunpowder monopoly of the god Styphon has been broken. The rules include complete army organizations, flags, and uniforms for a full campaign, and can also be adapted for other historical pike-and-musket periods such as the English Civil War. Designed for use with 15mm miniature soldiers, counter sheets are included for tabletop play without purchasing miniatures.
+
+upgrades: []

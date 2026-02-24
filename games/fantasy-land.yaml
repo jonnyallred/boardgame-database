@@ -1,0 +1,53 @@
+id: fantasy-land
+name: "Fantasy Land"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Sci-Fi
+  - Historical
+  - Dice Rolling
+  - Variable Player Powers
+
+evokes:
+  - Discovery
+  - Humor
+  - Agency
+  - Powerful
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Gary Lange
+publisher:
+  - Lange Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Fantasy Land is a 1981 board game designed by Gary Lange and published by Lange Games, in which player characters are transported to a realm where they must compete in World War I aerial dogfights, magical duels, gunfights, jousts, space battles, and gladiatorial contests. The game's eclectic mix of historical and fantastical combat scenarios gives it an anything-goes character that blends multiple genres in a single gaming experience. Its ambitious scope and diverse encounter types made it a distinctive entry in the early 1980s wave of hybrid adventure games.
+
+upgrades: []

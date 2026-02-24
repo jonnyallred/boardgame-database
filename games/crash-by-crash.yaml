@@ -1,0 +1,50 @@
+id: crash-by-crash
+name: "Crash by Crash"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Take That
+  - Family
+
+evokes:
+  - Rivalry
+  - Tension
+  - Lucky
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Crash by Crash is a 2008 bumper car racing and positioning game in which players drive cars for their respective teams, pushing opponents out of the way to achieve a better scoring position at the right moment. The game's core mechanic rewards strategic jostling and timing — players must judge when they are in a winning position to score rather than simply staying out in front. Limited documentation is available in English-language sources for this title beyond its core concept.
+
+upgrades: []

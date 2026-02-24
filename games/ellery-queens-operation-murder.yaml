@@ -1,0 +1,50 @@
+id: ellery-queens-operation-murder
+name: "Ellery Queen's Operation: Murder"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Mystery
+  - Narrative Heavy
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Discovery
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher:
+  - Spinnaker Software
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Ellery Queen's Operation: Murder is a 1986 interactive mystery game published by Spinnaker Software that combines VHS video with board game elements. Players watch a 30-minute dramatic video presenting a murder mystery based on Ellery Queen's The Dutch Shoe Mystery, pausing between segments to discuss clues read from eight playing cards. After watching the complete video, players pool their deductions to identify the killer of Abby Doorn. One of the early "VCR board games" that emerged in the mid-1980s, it blends passive media with cooperative deduction in a format that was innovative for its time.
+
+upgrades: []

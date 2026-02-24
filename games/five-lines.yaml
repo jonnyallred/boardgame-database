@@ -1,0 +1,52 @@
+id: five-lines
+name: "Five Lines"
+alternate_names:
+  - "Pente Grammai"
+  - "Five Lines: The Ancient Greek Board Game"
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Ancient
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - NewVenture Games
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Five Lines (Pente Grammai) is one of the oldest known board games, documented in ancient Greece around 650 BCE and referenced by the poet Alkaios around 600 BC. The game is played on five parallel lines where players maneuver pieces in a race-like contest, with archaeological examples found on gaming tables in terracotta from the same era. Modern reproductions of this ancient Greek game are sold by retailers such as NewVenture Games, Mainly Medieval, and Creative Crafthouse, making this millennia-old game accessible to contemporary players.
+
+upgrades: []

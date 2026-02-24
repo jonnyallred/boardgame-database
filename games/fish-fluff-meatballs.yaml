@@ -1,0 +1,50 @@
+id: fish-fluff-meatballs
+name: "Fish, Fluff, Meatballs"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Food Theme
+  - Animals
+  - Set Collection
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Wonder
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Fish, Fluff, Meatballs is a children's card or tile game with a whimsical food-and-animal theme, designed for very young players. Limited information is available about this title's specific publisher and designer, but it sits within the lightweight family game category focused on simple collection or matching mechanics appropriate for preschool-age children. Its playful title and theme suggest an accessible, colorful production aimed at early childhood play.
+
+upgrades: []

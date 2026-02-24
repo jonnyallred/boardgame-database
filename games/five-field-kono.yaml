@@ -1,0 +1,49 @@
+id: five-field-kono
+name: "Five-Field Kono"
+alternate_names:
+  - "Five Field Kono"
+  - "오밭고누"
+year: 1895
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Five-Field Kono is a traditional Korean abstract strategy game of unknown ancient origin, first recorded in western literature in 1895. Played on a 5x5 grid, each player starts with seven pieces arranged in the two rows nearest to them and takes turns moving one piece diagonally one space at a time, with the goal of being the first to occupy all the starting positions of the opponent. There is no capturing — only blocking — making the game a pure spatial puzzle of patience and foresight.
+
+upgrades: []

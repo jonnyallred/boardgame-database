@@ -1,0 +1,56 @@
+id: heroquest
+name: "HeroQuest"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Dungeon Crawler
+  - 1 vs Many
+  - Modular Board
+  - Dice Rolling
+  - Variable Player Powers
+  - Ameritrash
+  - Cult Classic
+
+evokes:
+  - Discovery
+  - Powerful
+  - Agency
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Stephen Baker
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  HeroQuest is a landmark adventure board game designed by Stephen Baker, created jointly by Milton Bradley and Games Workshop in 1989. One player serves as the game master Zargon, controlling monsters and revealing a modular dungeon, while up to four players command the Barbarian, Dwarf, Elf, and Wizard on scripted quests filled with combat, traps, and treasure. The game bridged board games and tabletop RPGs for a generation of players and has remained influential, inspiring modern dungeon crawlers like Gloomhaven; Hasbro republished it through Avalon Hill in 2021.
+
+upgrades: []

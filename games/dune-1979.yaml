@@ -1,0 +1,57 @@
+id: dune-1979
+name: "Dune"
+alternate_names: ["Dune: The Board Game"]
+year: 1979
+
+# Relationships
+game_family: dune
+edition: "1979 Avalon Hill Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Negotiation
+  - Asymmetric
+  - Variable Player Powers
+  - Traitor
+  - Sci-Fi
+  - Cult Classic
+
+evokes:
+  - Unique
+  - Agency
+  - Rivalry
+  - Tension
+  - Persuasion
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [6]
+
+designer:
+  - Bill Eberle
+  - Jack Kittredge
+  - Peter Olotka
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 12
+
+description: |
+  Dune is a 1979 strategy board game by Bill Eberle, Jack Kittredge, and Peter Olotka, published by Avalon Hill, set in Frank Herbert's Dune universe. Up to six players each control an asymmetric faction — including House Atreides, the Harkonnen, the Bene Gesserit, the Fremen, the Spacing Guild, and the Emperor — each with unique powers and alternative victory conditions. Players move forces across a map of Arrakis to control key strongholds, while a recurring sandstorm sweeps the board and spice blow refreshes resources each turn. A hidden traitor mechanic allows players to secretly recruit enemy leaders onto their payroll, enabling automatic victory in certain combats. Widely regarded as a masterpiece of asymmetric design and negotiation-heavy multiplayer gaming, the game was reprinted by Gale Force Nine in 2019.
+
+upgrades: []

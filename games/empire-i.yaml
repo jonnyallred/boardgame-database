@@ -1,0 +1,51 @@
+id: empire-i
+name: "Empire I"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Sci-Fi
+  - Wargame
+  - Area Control
+  - Hex Map
+
+evokes:
+  - Rivalry
+  - Agency
+  - Powerful
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Empire I is an interstellar wargame published by SPI in which four empires battle for ultimate control of the galaxy. Players command fleets and planetary forces across a hex-grid star map, using area control and strategic maneuvering to outmaneuver rivals. The game represents SPI's foray into science fiction wargaming with the depth of mechanics typical of their hex-and-counter design approach.
+
+upgrades: []

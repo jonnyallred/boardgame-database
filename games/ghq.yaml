@@ -1,0 +1,52 @@
+id: ghq
+name: "GHQ"
+alternate_names:
+  - "Kurt Vonnegut's GHQ: The Lost Board Game"
+  - "General Headquarters"
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Deduction
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Mars International
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  GHQ is an abstract strategy game designed by the novelist Kurt Vonnegut in the 1950s and finally published by Mars International in 2024. Played on an 8x8 board, each player controls Infantry and Artillery pieces with the goal of capturing the opponent's Headquarters; Infantry capture by surrounding enemy pieces while Artillery bombard distant squares. The game is historically notable for potentially containing the world's first instance of zone-of-control rules, and its 70-year journey from Vonnegut's desk to store shelves makes it one of the most storied game discoveries in recent memory.
+
+upgrades: []

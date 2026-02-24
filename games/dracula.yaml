@@ -1,0 +1,53 @@
+id: dracula
+name: "Dracula"
+alternate_names: ["Game of Dracula"]
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Family
+  - Vampires
+  - Horror
+
+evokes:
+  - Dread
+  - Tension
+  - Lucky
+  - Mystery
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Steve Curtis
+  - Martin Earl
+publisher:
+  - Waddingtons
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 7
+
+description: |
+  Dracula (also known as Game of Dracula) is a 1977 children's board game published by Waddingtons in which players attempt to escape Castle Dracula before the Count and his vampires find them. Players plot their escape through the castle's rooms, moving stealthily toward the exit. The first player to be caught by Dracula becomes a "green vampire" and dons a face mask, then flits from room to room seeking another victim; further victims return to the vault and must attempt their escape from the start. A light horror game designed for family play, emphasizing tension and the thrill of pursuit.
+
+upgrades: []

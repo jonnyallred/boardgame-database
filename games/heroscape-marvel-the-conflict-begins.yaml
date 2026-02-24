@@ -1,0 +1,55 @@
+id: heroscape-marvel-the-conflict-begins
+name: "Heroscape Marvel: The Conflict Begins"
+alternate_names:
+  - "Heroscape: Marvel — The Conflict Begins"
+year: 2007
+
+# Relationships
+game_family: heroscape
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Superheroes
+  - Marvel
+  - Area Control
+  - Dice Rolling
+  - Hex Map
+  - Modular Board
+  - Variable Player Powers
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Agency
+  - Wonder
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Heroscape Marvel: The Conflict Begins is a 2007 Marvel-themed master set for the Heroscape system, published by Milton Bradley under Hasbro. Players build modular 3D hex terrain incorporating new warehouse, asphalt, and concrete sections, then command iconic Marvel heroes and villains — including Spider-Man, Iron Man, Hulk, Captain America, Venom, Thanos, and Doctor Doom — each with unique stat cards. Like the original Heroscape, it includes both a streamlined basic game and a full master game with special powers and engagement rules.
+
+upgrades: []

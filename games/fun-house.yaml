@@ -1,0 +1,50 @@
+id: fun-house
+name: "Fun House"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Dexterity
+  - Racing
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Tension
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Pressman
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Fun House is a 1988 Pressman stunt board game in which players race to the finish line by completing physical challenges and dexterity tasks. The game captures the spirit of the popular TV show of the same era, combining trivia with physical stunts to create a chaotic family experience. Its simple race-to-the-end structure and physical challenge elements make it entertaining for younger players at family game nights.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: dreams
+name: "Dreams"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Bluffing
+  - Social Deduction
+  - Party
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Connection
+  - Humor
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Zoch Verlag
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Dreams is a 2016 social deduction game published by Zoch Verlag featuring 72 large illustration cards by eight different artists. Each round four pictures are revealed and the players, acting as gods, secretly select one to transfer onto the night sky as a new constellation — all players but one know which image was chosen. The uninformed player tries to blend in and avoid detection while the others lay star tokens on the central mat interpreting the chosen constellation. After placement, the gods vote on who they think was ignorant, while the ignorant player tries to name the chosen picture. The game rewards perceptive bluffing and pattern reading.
+
+upgrades: []

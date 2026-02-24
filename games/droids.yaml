@@ -1,0 +1,51 @@
+id: droids
+name: "Droids"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Programmed Movement
+  - Simultaneous Action
+  - Sci-Fi
+  - Abstract
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Waddingtons
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Droids is a science fiction board game in which players program and pilot robots around a board, attempting to eliminate their opponents' robots. Orders for robot movement and actions are given through programming tiles placed on each player's programming board before execution, creating the simultaneous reveal typical of programmed-movement games. Players must anticipate where opponents will move to outmaneuver and destroy rival robots. Limited documentation is available in English-language sources for this title beyond the core programmed-movement mechanic.
+
+upgrades: []

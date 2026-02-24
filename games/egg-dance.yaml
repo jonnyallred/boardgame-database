@@ -1,0 +1,52 @@
+id: egg-dance
+name: "egg dance"
+alternate_names: ["Dancing Eggs", "Eiertanz"]
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Family
+  - Party
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Roberto Fraga
+publisher:
+  - HABA
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  egg dance (also known as Dancing Eggs or Eiertanz) is a boisterous 2003 dexterity game from HABA designed by Roberto Fraga. Players roll two dice each turn: the red die indicates where on the body an egg must be held (under the chin, between the knees, in the crook of the arm, etc.), while the white die determines a speed action such as running around the table or making chicken sounds. Players collect egg cards by successfully completing challenges with eggs balanced on their bodies; the wooden yellow egg is worth double points. The game comes packaged in a real egg carton and is designed for riotous fun from age 5.
+
+upgrades: []

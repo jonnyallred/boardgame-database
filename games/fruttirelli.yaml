@@ -1,0 +1,52 @@
+id: fruttirelli
+name: "Fruttirelli"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Family
+  - Animals
+  - Food Theme
+  - Racing
+
+evokes:
+  - Connection
+  - Lucky
+  - Wonder
+  - Humor
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Sylvia Schlosser
+publisher:
+  - Selecta
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 4
+
+description: |
+  Fruttirelli is a children's board game published by Selecta Spielzeug in which players help little woodland animals — a hedgehog, hare, squirrel, and badger — forage for apples, mushrooms, and berries to bring back to their families. Players race to return home first while collecting sufficient provisions, with simple mechanics that require no reading or language. The game's charming animal theme and accessible rules make it an ideal introduction to board gaming for very young children.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: derive
+name: "Dérive"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Unknown
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Dérive is an abstract board game with limited documentation available in English-language sources. Based on the game's listing in board game databases, it appears to be a light strategic game. The title means "drift" in French, suggesting a flowing or movement-based theme. Further details including designer, publisher, and precise publication year could not be confirmed from available sources.
+
+upgrades: []

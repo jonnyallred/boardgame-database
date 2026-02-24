@@ -1,0 +1,51 @@
+id: duel-magical
+name: "Duel Magical"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Abstract
+  - Roll & Write
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dave Nalle
+publisher:
+  - Ragnarok Enterprises
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Duel Magical is a 1982 two-player fantasy arena game published by Ragnarok Enterprises and designed by Dave Nalle. Two mages meet in a high-sorcery arena for a simple but atmospheric battle resolved through card play or dice mechanics in the tradition of early wizard-duel games. The game brings to life a world of high sorcery through streamlined confrontational mechanics typical of small-press fantasy games of the early 1980s. Documentation for this title is limited in modern English-language sources.
+
+upgrades: []

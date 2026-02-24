@@ -1,0 +1,52 @@
+id: dynasty-league-baseball
+name: "Dynasty League Baseball"
+alternate_names: ["Pursue the Pennant", "Dynasty League Baseball Powered by Pursue the Pennant"]
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Economic
+  - Racing
+  - Historical
+
+evokes:
+  - Masterful
+  - Progress
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Michael Cieslinski
+publisher:
+  - Design Depot
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Dynasty League Baseball Powered by Pursue the Pennant is a tabletop baseball simulation game published by Design Depot in 1994, designed by Michael Cieslinski. A direct translation of the original Pursue the Pennant board game, it simulates realistic baseball through player rating cards, dice, and a rich set of ballpark effects, clutch hitting and pitching modifiers, pitcher fatigue rules, and fielding stumbles. Season player card sets for historical years allow players to replay famous seasons with accurate rosters. The system has since expanded to digital formats for Mac, Windows, iOS, and Android, but the board game remains the foundational product.
+
+upgrades: []

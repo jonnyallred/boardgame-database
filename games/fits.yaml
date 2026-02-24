@@ -1,0 +1,56 @@
+id: fits
+name: "FITS"
+alternate_names:
+  - "Fill In The Spaces"
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Pattern Building
+  - Family
+  - Gateway
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Tension
+  - Complete
+  - Rivalry
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Ravensburger
+artist:
+  - Piotr Kania
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  FITS (Fill In The Spaces) is a Tetris-inspired polyomino puzzle game designed by Reiner Knizia and published by Ravensburger in 2009. Players use an inclined player board to receive polyomino shapes one at a time, placing each at the top and letting it slide straight down — once committed, there is no rotating or shifting, only the choice of column. Scoring rewards covering blank spaces and penalizes uncovered gaps, with multiple board configurations adding variety across the game's four rounds.
+
+upgrades: []

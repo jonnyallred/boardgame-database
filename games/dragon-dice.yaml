@@ -1,0 +1,54 @@
+id: dragon-dice
+name: "Dragon Dice"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Set Collection
+  - Area Control
+  - Fantasy
+  - Asymmetric
+  - Variable Player Powers
+
+evokes:
+  - Rivalry
+  - Tension
+  - Lucky
+  - Powerful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Lester Smith
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Dragon Dice is a 1995 collectible dice game published by TSR and designed by Lester Smith, simulating combat between fantasy armies battling for control of the elemental world of Esfah. Players assemble armies of custom dice representing different races — each composed of two elemental affinities (air, earth, fire, water, or death) — and roll them to generate combat results. The game won the 1996 Origins Award for Best Fantasy or Science-Fiction Board Game, but aggressive production led to an unexpected glut of returned units that contributed to TSR's financial collapse and eventual sale to Wizards of the Coast. Today SFR, Inc. continues to produce and support the game.
+
+upgrades: []

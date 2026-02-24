@@ -1,0 +1,51 @@
+id: electronic-dream-phone
+name: "Electronic Dream Phone"
+alternate_names: ["Dream Phone"]
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Family
+  - Party
+
+evokes:
+  - Mystery
+  - Humor
+  - Lucky
+  - Tension
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Michael Gray
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 9
+
+description: |
+  Electronic Dream Phone is a 1991 deduction game published by Milton Bradley and designed by Michael Gray (creator of Mall Madness). Players use an included electronic pink toy phone to call one of 24 fictional teenage boys, gathering clues about clothes, sports, food, and hangout spots in order to identify which boy has a secret crush on them. A Speakerphone card allows all players to hear a call, while a Share a Secret card lets two players listen privately. The process-of-elimination gameplay and pop-culture teen theme made it an iconic 1990s girls' game and a significant piece of nostalgic board game history.
+
+upgrades: []

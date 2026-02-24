@@ -1,0 +1,56 @@
+id: heroscape-age-of-annihilation
+name: "Heroscape Age of Annihilation"
+alternate_names:
+  - "Heroscape: Master Set — Age of Annihilation"
+year: 2024
+
+# Relationships
+game_family: heroscape
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Area Control
+  - Dice Rolling
+  - Hex Map
+  - Modular Board
+  - Variable Player Powers
+  - Asymmetric
+
+evokes:
+  - Powerful
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Rob Daviau
+publisher:
+  - Renegade Game Studios
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Heroscape Age of Annihilation is the 2024 reboot of the beloved Heroscape miniatures game, published by Renegade Game Studios after acquiring the license from Hasbro. Players build 3D hexagonal terrain and command units of fantasy and sci-fi warriors, with each round involving secret order-marker assignment and alternating unit activation. The game features both basic and advanced rules sets, zone-of-control mechanics, and line-of-sight resolution on fully three-dimensional terrain, preserving the tactical depth and spectacle that made the original Heroscape a cult classic.
+
+upgrades: []

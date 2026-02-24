@@ -1,0 +1,50 @@
+id: elefun
+name: "Elefun"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Family
+
+evokes:
+  - Lucky
+  - Wonder
+  - Humor
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 3
+
+description: |
+  Elefun is a preschool dexterity game published by Milton Bradley in which a motorized elephant figure blows nylon butterflies up through its four-foot trunk and into the air. Players 3 and older scurry around with nets to catch butterflies as they drift and fall. The player who catches the special blue butterfly earns a token, as does whoever collects the most butterflies after the elephant finishes blowing; the first player to accumulate three tokens wins. The delightful spectacle of butterflies flying through the air makes it an ideal first game and a perennial favorite for young children.
+
+upgrades: []

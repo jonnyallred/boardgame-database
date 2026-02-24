@@ -1,0 +1,57 @@
+id: fit-to-print
+name: "Fit to Print"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Tile Placement
+  - Set Collection
+  - Pattern Building
+  - Drafting
+  - Animals
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Humor
+  - Agency
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Peter McPherson
+publisher:
+  - Alderac Entertainment Group
+artist:
+  - Ian O'Toole
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Fit to Print is a real-time tile-laying puzzle game set in the charming woodland newsroom of a small-town newspaper, designed by Peter McPherson and published by Alderac Entertainment Group in 2023. Players simultaneously draft newspaper tiles, stacking them on their desk until shouting "Layout!" to begin assembling the perfect front page — balancing centerpieces, articles, photos, and advertisements. The game includes both a timed real-time mode and a "slo-mode" for those who prefer a relaxed experience, plus 6 unique character abilities and over 100 distinct tile designs.
+
+upgrades: []

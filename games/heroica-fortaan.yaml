@@ -1,0 +1,54 @@
+id: heroica-fortaan
+name: "Heroica: Fortaan"
+alternate_names:
+  - "LEGO Heroica: Castle Fortaan"
+  - "Heroica: Castle Fortaan"
+year: 2011
+
+# Relationships
+game_family: heroica
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Fantasy
+  - Dungeon Crawler
+  - Dice Rolling
+  - Modular Board
+  - Family
+
+evokes:
+  - Discovery
+  - Wonder
+  - Lucky
+  - Connection
+  - Adventure
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - LEGO
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Heroica: Fortaan is a LEGO Games dungeon crawler released in 2011 as part of the expandable LEGO Heroica line. Set in a castle environment with a throne room and gated corridors, players move through rooms on a grey LEGO brick grid, collecting treasure and fighting enemies through simple dice rolls, with results triggering either movement or special weapon abilities. Instead of character sheets, players manage equipment in physical "backpacks" — a charming physical representation that matches the LEGO building theme and makes the game appealing to young children.
+
+upgrades: []
