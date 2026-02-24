@@ -789,7 +789,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 92044,Conquest of Nerath,,boardgame,,,
 ,Conquest of Space,,boardgame,,,
 97,Conquest of the Empire,,boardgame,,,
-1868,Conquistador,,boardgame,,,
+1868,Conquistador,,boardgame,,,conquistador-the-age-of-exploration
 1506,Conquistador: The Age of Exploration,,boardgame,,,
 166976,Consentacle,2014,boardgame,,,
 697,Conspiracy,,boardgame,,,
@@ -984,7 +984,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 121288,Dixit: Journey,,boardgame,,,
 92499,Djam,,boardgame,,,
 17691,Djambi,,boardgame,,,
-38388,Do you know Di?,,boardgame,,,
+38388,Do you know Di?,,boardgame,failed,No identifiable board game sources found,
 2492,Doctor Faust,1990,boardgame,,,
 25337,Doctor Who – Battles in Time,,boardgame,,,
 42142,Doctor Who: Solitaire Story Game,,boardgame,,,
@@ -1033,7 +1033,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Dragon Hordes,,boardgame,,,
 3110,Dragon Rage,,boardgame,,,
 73725,Dragon Riders Triumphant,,boardgame,,,
-235655,Dragon'g Breath,,boardgame,,,
+235655,Dragon'g Breath,,boardgame,,,dragons-breath
 1042,Dragon's Gold,2001,boardgame,,,dragons-gold
 ,Dragon-Slayers,2024,boardgame,,,
 803,Dragonhunt,1982,boardgame,,,
@@ -1091,12 +1091,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 65814,Dweebies,,boardgame,,,
 ,Dwellings of Eldervale,2020,boardgame,,,
 7290,Dynasty League Baseball,,boardgame,,,
-19113,Déconnaissance,1993,boardgame,,,
-33061,Défifoo,1998,boardgame,,,
-123665,Délir'phone,,boardgame,,,
-,Dérive,,boardgame,,,
-56796,Dōbutsu shōgi,2008,boardgame,,,
-11147,Ea$y Money,1988,boardgame,,,
+19113,Déconnaissance,1993,boardgame,,,deconnaissance
+33061,Défifoo,1998,boardgame,,,defifoo
+123665,Délir'phone,,boardgame,,,delirphone
+,Dérive,,boardgame,,,derive
+56796,Dōbutsu shōgi,2008,boardgame,,,dobutsu-shogi
+11147,Ea$y Money,1988,boardgame,,,easy-money
 7032,Eagle Day: The Battle of Britain,1973,boardgame,,,
 ,Eagles,,boardgame,,,
 25236,Ear Tug,2004,boardgame,,,
@@ -1134,8 +1134,8 @@ bgg_id,name,year,type,status,notes,yaml_id
 6578,Electronic Dream Phone,1991,boardgame,,,
 7320,Elefun,,boardgame,,,
 10,Elfenland,1998,boardgame,,,
-,Ellery Queen's Mystery Magazine Game,,boardgame,,,
-,Ellery Queen's Operation: Murder,,boardgame,,,
+,Ellery Queen's Mystery Magazine Game,,boardgame,,,ellery-queens-mystery-magazine-game
+,Ellery Queen's Operation: Murder,,boardgame,,,ellery-queens-operation-murder
 1628,Elric,1977,boardgame,,,
 163968,Elysium,2015,boardgame,,,
 14438,Emergo,,boardgame,,,
@@ -1161,7 +1161,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 10431,Epic,,boardgame,ambiguous,"Too generic, multiple games",
 112686,Epic Spell Wars of the Battle Wizards: Duel at Mt. Skullzfyre,,boardgame,,,
 103368,Epigo,,boardgame,,,
-41898,Epäillyt,,boardgame,,,
+41898,Epäillyt,,boardgame,,,epaillyt
 2499,Equate,,boardgame,,,
 9379,Escalado,,boardgame,,,
 26884,Escalation!,,boardgame,,,
@@ -1169,7 +1169,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 715,Escape from Colditz,1973,boardgame,,,escape-from-colditz-1973
 731,Escape from New York,1981,boardgame,,,escape-from-new-york-1981
 444,Escape from the Hidden Castle,,boardgame,,,
-,Escape from the Hidden Castle (dup),,boardgame,,,
+,Escape from the Hidden Castle (dup),,boardgame,duplicate,Same as Escape from the Hidden Castle,
 90009,Eselsbrücke,,boardgame,,,eselsbrucke
 ,Eson xorgol,,boardgame,,,
 31291,España 1936,,boardgame,,,espana-1936
@@ -1237,7 +1237,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 32125,Felicity: The Cat in the Sack,,boardgame,,,
 137830,Felli,,boardgame,,,
 ,Ferris Bueller's Day Off,,boardgame,,,ferris-buellers-day-off
-,Fetaix,,boardgame,,,
+,Fetaix,,boardgame,failed,No sources found under any spelling variation,
 6744,Feudal Lord,1983,boardgame,,,
 163839,Feudum,,boardgame,,,
 ,Fevga,,boardgame,,,
@@ -1293,7 +1293,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 125315,FlowerFall,,boardgame,,,
 ,Flux,,boardgame,,,fluxx
 1101,Flying Carpet,1987,boardgame,,,
-,Flying Fortress I & II,,boardgame,,,
+,Flying Fortress I & II,,boardgame,,,flying-fortress-i-and-ii
 789,Focus,,boardgame,,,
 175324,Fog of love,2017,boardgame,,,
 175914,Food Chain Magnate,,boardgame,,,
@@ -1348,7 +1348,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 33799,Fruttirelli,2007,boardgame,,,
 169855,Fujian Trader,,boardgame,,,
 20,Full Metal Planète,1988,boardgame,,,full-metal-planete
-,Fullrigger,,boardgame,,,
+,Fullrigger,,boardgame,,,fuldrigger
 ,Fully,1989,boardgame,,,
 370164,Fun Facts,2022,boardgame,,,
 16982,Fun House,,boardgame,,,
@@ -1365,7 +1365,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 220308,Gaia Project,2017,boardgame,,,
 235213,Galacta: Star Commandos,,boardgame,,,
 ,Galactic Cruise,2025,boardgame,,,
-,galagapy,,boardgame,,,
+,galagapy,,boardgame,failed,No board game found; only arcade video game clones,
 31481,Galaxy Trucker,,boardgame,,,
 47046,Gambit 7,,boardgame,,,
 24509,Gambit Royale,,boardgame,,,
@@ -1392,14 +1392,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 28436,Germany: Find Minden,,boardgame,,,
 229553,Gespensterburg,,boardgame,,,
 30539,Get Bit!,,boardgame,,,
-147114,Get the white!,,boardgame,,,
+147114,Get the white!,,boardgame,failed,No specific board game found,
 23730,Gheos,,boardgame,,,
 8063,Ghettopoly,,boardgame,,,
 275032,Ghost Adventure,2020,boardgame,,,
 146312,Ghost Fightin' Treasure Hunters,,boardgame,,,
 37046,Ghost Stories,,boardgame,,,
 2290,Ghosts,,boardgame,,,
-2402,Ghoulash: The Last Game on Earth,2001,boardgame,,,
+2402,Ghoulash: The Last Game on Earth,2001,boardgame,,,ghoulash
 ,GHQ,,boardgame,,,
 23686,Gift Trap,,boardgame,,,
 170969,Gigamons,,boardgame,,,
@@ -1528,7 +1528,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 299252,Here to Slay,2020,boardgame,,,
 ,Heredity: The Book of Swan,2023,boardgame,,,
 1560,Hero: A Game of Adventure in the Catacombs,1980,boardgame,,,
-198830,"Heroes of Land, Air & Sea",,boardgame,,,
+198830,"Heroes of Land, Air & Sea",,boardgame,,,heroes-of-land-air-and-sea
 53093,Heroes of Normandie,2013,boardgame,,,
 94731,Heroica: Fortaan,,boardgame,,,
 699,HeroQuest,,boardgame,,,
@@ -3789,7 +3789,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Monopoly Deal,2008,boardgame,,,
 ,Red Flags,2015,boardgame,,,
 ,Heroscape Age of Annihilation,2024,boardgame,,,
-,Kurt Vonnegut's GHQ,2024,boardgame,,,
+,Kurt Vonnegut's GHQ,2024,boardgame,,,ghq
 ,Masters of Crime: Vendetta,2024,boardgame,,,
 ,Masters of Crime: Shadows,2023,boardgame,,,
 ,Agatha Christie: Death on the Cards,2018,boardgame,,,
@@ -3858,7 +3858,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Lure,2024,boardgame,,,
 ,Ahoy,2022,boardgame,,,
 ,Bomb Busters,2024,boardgame,,,
-,Dune: The Board Game,2019,boardgame,,,
+,Dune: The Board Game,2019,boardgame,,,dune-1979
 ,Bus,1999,boardgame,,,
 ,Circus Flohcati,1998,boardgame,,,
 ,Unconscious Mind,2024,boardgame,,,
