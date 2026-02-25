@@ -1,0 +1,54 @@
+id: no-retreat-the-russian-front
+name: "No Retreat! The Russian Front"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Events
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Carl Paradis
+publisher:
+  - GMT Games
+artist:
+  - Mark Mahaffey
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  No Retreat! The Russian Front is a card-driven hex wargame designed by Carl Paradis, originally published by Victory Point Games in 2008 and republished in a deluxe edition by GMT Games in 2011. The game covers the German-Soviet war on the Eastern Front from 1941 to 1945 at the operational level, blending classic hex-and-counter movement with a card system where each major power's 55-card deck drives events, special actions, and operational decisions. German units have two steps while Soviet units are rebuilt from scratch, modeling historical attrition asymmetry. Its accessible rules and story-driven design made it a landmark entry in card-driven wargaming.
+
+upgrades: []

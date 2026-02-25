@@ -1,0 +1,52 @@
+id: middle-earth-ccg
+name: "Middle-earth Collectible Card Game"
+alternate_names: ["MECCG", "Middle-Earth: The Wizards"]
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Fantasy
+  - Lord of the Rings
+
+evokes:
+  - Discovery
+  - Tension
+  - Powerful
+  - Masterful
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Iron Crown Enterprises
+publisher:
+  - Iron Crown Enterprises
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  The Middle-earth Collectible Card Game (MECCG) is a collectible card game released by Iron Crown Enterprises in 1995, the first CCG based on J.R.R. Tolkien's Middle-earth. Players control Wizards guiding Fellowship members on quests through Middle-earth, with cards depicting the iconic characters, locations, and events drawn from Tolkien's writings and ICE's own MERP roleplaying sourcebooks. The game featured art by celebrated Tolkien illustrators including John Howe, Ted Nasmith, and Angus McBride. Production ended in 1999 when ICE lost the license, but a dedicated fan community keeps the game alive online through GCCG platforms. MECCG won the Origins Award for Best Card Game of 1995.
+
+upgrades: []

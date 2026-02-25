@@ -1,0 +1,55 @@
+id: monster-hunter-world-the-board-game
+name: "Monster Hunter World: The Board Game"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 1  # Light
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Variable Player Powers
+  - Dice Rolling
+  - Dungeon Crawler
+  - Fantasy
+
+evokes:
+  - Powerful
+  - Progress
+  - Tension
+  - Discovery
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Sherwin Matthews
+  - Mat Hart
+publisher:
+  - Steamforged Games
+artist:
+  - Russ Charles
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Monster Hunter World: The Board Game is a cooperative arena combat game developed by Steamforged Games under license from Capcom and published in 2022. Players take on the roles of hunters tracking and battling iconic monsters from the video game, with each monster possessing a unique behavior deck that dictates its movements and attacks, creating an adaptive and unpredictable hunt. The game launched as two separate core sets (Ancient Forest and Wildspire Waste) each featuring different monsters, with hunters upgrading their equipment between hunts. It successfully crowdfunded on Kickstarter, raising over $1 million in 90 minutes.
+
+upgrades: []

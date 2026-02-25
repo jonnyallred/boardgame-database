@@ -1,0 +1,53 @@
+id: mind-mgmt
+name: "Mind MGMT: The Psychic Espionage Game"
+alternate_names: ['Mind MGMT: The Psychic Espionage "Game."']
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Hidden Movement
+  - Deduction
+  - Cooperative
+  - Espionage
+
+evokes:
+  - Mystery
+  - Tension
+  - Dread
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Jay Cormier
+publisher:
+  - Off the Page Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Mind MGMT: The Psychic Espionage Game is a one-versus-many hidden movement game by Jay Cormier, published by Off the Page Games in 2022 and based on Matt Kindt's graphic novel series. One player acts as the Recruiter, moving secretly behind a screen trying to visit locations matching their feature cards while deploying Immortals to protect key sites; the other players work cooperatively as rogue agents, using dry-erase mental notes to deduce the Recruiter's whereabouts by asking questions and interpreting cryptic answers. The game won multiple awards for innovation and delivers a tense cat-and-mouse experience that feels unlike other hidden movement games.
+
+upgrades: []

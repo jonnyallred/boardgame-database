@@ -1,0 +1,51 @@
+id: mouse-trap
+name: "Mouse Trap"
+alternate_names: ["Mousetrap"]
+year: 1963
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Wonder
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Marvin Glass
+publisher:
+  - Ideal
+  - Hasbro
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 5
+
+description: |
+  Mouse Trap is one of the first mass-produced three-dimensional board games, designed by Marvin Glass and Associates and published by Ideal in 1963. Players move mouse tokens around the board while cooperatively and then competitively building an elaborate Rube Goldberg-inspired trap mechanism of over 20 interlocking parts. Once completed, players attempt to use the trap to eliminate opponent mice from the game, with the last surviving mouse winning. The game is famously known more for the spectacle of its contraption than for strategic depth, and has remained a children's classic for over six decades.
+
+upgrades: []

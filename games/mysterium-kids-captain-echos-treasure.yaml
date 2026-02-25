@@ -1,0 +1,53 @@
+id: mysterium-kids-captain-echos-treasure
+name: "Mysterium Kids: Captain Echo's Treasure"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: mysterium
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Puzzle Solving
+  - Family
+
+evokes:
+  - Connection
+  - Mystery
+  - Discovery
+  - Clever
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Yves Hirschfeld
+publisher:
+  - Asmodee
+artist:
+  - Xavier Collette
+playtime_minutes: 21
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Mysterium Kids: Captain Echo's Treasure is a cooperative deduction game for young players published by Libellud/Asmodee in 2021. Each round one child plays the ghost of Captain Echo, communicating clues by tapping rhythms on a tambourine to help teammates identify the correct Noise card that points toward hidden treasure. The game builds communication and listening skills through imaginative play, with a reversible game board offering two difficulty levels. It is a standalone children's spin-off of Mysterium, stripping away the visual card-matching of the original in favor of sound-based clue-giving suited to ages 6 and up.
+
+upgrades: []

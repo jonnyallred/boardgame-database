@@ -1,0 +1,52 @@
+id: monopoly-paris
+name: "Monopoly - Paris"
+alternate_names: ["Monopoly Paris Edition"]
+year: 2012
+
+# Relationships
+game_family: monopoly
+edition: null
+base_game: monopoly
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Trading
+  - Economic
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Persuasion
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Hasbro
+  - Winning Moves
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 240
+min_age: 8
+
+description: |
+  Monopoly - Paris is a city-themed edition of the classic Monopoly board game, replacing the standard Atlantic City properties with famous Parisian streets, landmarks, and neighborhoods such as the Champs-Élysées, the Eiffel Tower, and Montmartre. Standard Monopoly rules apply — players buy and develop properties, collect rent from opponents, and attempt to bankrupt the competition. City-themed editions like this one are popular as souvenirs and gifts for lovers of the featured city.
+
+upgrades: []

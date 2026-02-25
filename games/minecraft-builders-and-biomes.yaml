@@ -1,0 +1,54 @@
+id: minecraft-builders-and-biomes
+name: "Minecraft: Builders & Biomes"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Modular Board
+  - Family
+  - Gateway
+  - Ravensburger
+
+evokes:
+  - Progress
+  - Complete
+  - Discovery
+  - Clever
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Corne van Moorsel
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Minecraft: Builders & Biomes is a licensed strategy board game published by Ravensburger in 2019, translating the iconic video game into a family-friendly tabletop experience. Players mine a central 3D cube of blocks to gather resources, reveal monsters and buildings in the Overworld, collect weapons to defeat mobs, and construct structures. Three scoring rounds occur as layers of the cube are stripped away, each scoring different aspects — biomes, building materials, and structure types. The game captures the exploration and building spirit of Minecraft while delivering a satisfying and accessible Euro-style experience.
+
+upgrades: []

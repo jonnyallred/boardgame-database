@@ -1,0 +1,51 @@
+id: minuteman
+name: "Minuteman: The Second American Revolution"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Historical
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - James Dunnigan
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Minuteman: The Second American Revolution is a 1976 wargame by Jim Dunnigan, published by SPI as a counter-cultural commentary during America's Bicentennial. The game hypothesizes a second American revolution fueled by widespread social unrest, with one player controlling rebel forces trying to spread dissent and ultimately declare revolution, while the opposing player controls government forces attempting to suppress the movement. Combining political game mechanics with traditional wargame elements, the game features optional rules for foreign intervention by Canada and Mexico and multi-rebel faction variants. Dunnigan designed it as a deliberate counterpoint to the patriotic celebrations of 1976.
+
+upgrades: []

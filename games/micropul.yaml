@@ -1,0 +1,52 @@
+id: micropul
+name: "Micropul"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Complete
+  - Masterful
+  - Agency
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Jean-François Lassonde
+publisher:
+  - self-published
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Micropul is a strategic tile-laying game self-published by Jean-François Lassonde in 2004, in which players act as scientists extracting precious micropul matter from an energy core. Players take turns placing tiles and stones, with each new tile placed so that a micropul of one tile is adjacent to a matching color micropul on an existing tile. Groups of the same-colored micropuls form across the table and can be claimed; closed groups at game end score significant points. The game also offers a solitaire puzzle mode in which the player tries to beat their previous optimal score.
+
+upgrades: []

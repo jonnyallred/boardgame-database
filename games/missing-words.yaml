@@ -1,0 +1,49 @@
+id: missing-words
+name: "Missing Words"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Missing Words is a party word game in which players are read short stories with blanks at certain points and must supply the correct missing words. The player who fills in the most correct words wins the game. The box also contains two additional modest party games, making it a versatile party filler. The game is designed for groups and social gatherings, rewarding vocabulary and cultural knowledge. Specific designer and publisher information is not well documented in available sources.
+
+upgrades: []

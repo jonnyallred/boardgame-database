@@ -1,0 +1,51 @@
+id: monopoly-animal-crossing
+name: "Monopoly: Animal Crossing"
+alternate_names: ["Monopoly Animal Crossing New Horizons"]
+year: 2021
+
+# Relationships
+game_family: monopoly
+edition: null
+base_game: monopoly
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Trading
+  - Economic
+  - Family
+
+evokes:
+  - Lucky
+  - Connection
+  - Humor
+  - Progress
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 8
+
+description: |
+  Monopoly: Animal Crossing is a licensed edition of Monopoly published by Hasbro in 2021, based on Nintendo's beloved Animal Crossing: New Horizons video game. The board features islands, villagers, and landmarks from the game, with players buying and developing properties themed around the Animal Crossing universe. Custom tokens represent iconic characters and items from the series, while event cards replace the traditional Community Chest and Chance decks with Animal Crossing-themed surprises. The game appeals to both Animal Crossing fans and Monopoly players alike.
+
+upgrades: []

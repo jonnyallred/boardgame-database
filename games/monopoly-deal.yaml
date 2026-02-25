@@ -1,0 +1,52 @@
+id: monopoly-deal
+name: "Monopoly Deal"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: monopoly
+edition: null
+base_game: monopoly
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Family
+  - Filler
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Monopoly Deal is a fast-paced card game version of Monopoly published by Hasbro in 2008, playable in 15 minutes with 2 to 5 players. Using a 110-card deck of Property, Money, and Action cards, players race to be the first to collect three complete property sets of different colors. Action cards allow charging rent, stealing properties, demanding money, and blocking opponents' moves, creating an explosive and cutthroat atmosphere. Monopoly Deal captures the wheeling-and-dealing spirit of the original game in a portable, quick format.
+
+upgrades: []

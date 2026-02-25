@@ -1,0 +1,51 @@
+id: moon-base-clavius
+name: "Moon Base Clavius"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kerry Anderson
+publisher:
+  - Task Force Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Moon Base Clavius is a 1981 science fiction wargame designed by Kerry Anderson and published by Task Force Games. Set in the mid-21st century, one player commands the invading Soviet Lunar Army while the other defends the American lunar colony established in the Clavius Crater on the Moon. The game pits an attacking ground force against entrenched defenders in a tactical scenario inspired by cold war extrapolation, using the signature compact wargame format typical of Task Force Games' microgame line.
+
+upgrades: []

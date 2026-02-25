@@ -1,0 +1,54 @@
+id: mesopotamia
+name: "Mesopotamia"
+alternate_names: ["Mesopotamia: Cradle of Civilization"]
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Resource Management
+  - Action Points
+  - Euro
+  - Ancient
+
+evokes:
+  - Progress
+  - Discovery
+  - Clever
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Klaus-Jürgen Wrede
+publisher:
+  - Phalanx Games
+  - Mayfair Games
+artist: []
+playtime_minutes: 75
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Mesopotamia is a strategy game by Carcassonne designer Klaus-Jürgen Wrede, published by Phalanx Games and Mayfair Games in 2005. Set in the ancient cradle of civilization, players lead tribes competing to be the first to sacrifice their four offering markers at the central temple. To accomplish this, tribes must harvest resources such as mana from special forests, quarries, and volcanic regions, build villages to improve efficiency, and strategically place tribesmen on the expanding hexagonal tile map. Like Carcassonne, players gradually reveal the landscape by flipping tiles, creating a dynamic and ever-changing board.
+
+upgrades: []

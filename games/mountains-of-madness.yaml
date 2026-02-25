@@ -1,0 +1,55 @@
+id: mountains-of-madness
+name: "Mountains of Madness"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Real-time
+  - Hand Management
+  - Cthulhu
+  - Horror
+  - Party
+
+evokes:
+  - Humor
+  - Tension
+  - Dread
+  - Connection
+  - Lucky
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Rob Daviau
+publisher:
+  - Iello
+artist:
+  - Miguel Coimbra
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  Mountains of Madness is a cooperative Lovecraftian party game designed by Rob Daviau and published by Iello in 2017, inspired by H.P. Lovecraft's novella At the Mountains of Madness. Players are Antarctic expedition members trying to escape the frozen plateau by collectively contributing cards to overcome challenge tiles, but crucially, they cannot show cards to each other and have only 30 seconds to communicate. As the expedition progresses, players accumulate madness cards that disrupt how they can interact — forcing players to whisper, yell, shake hands, or perform other disorienting behaviors. The game deliberately opts for a lighter, often comedic tone rather than the dread typical of Lovecraftian games.
+
+upgrades: []

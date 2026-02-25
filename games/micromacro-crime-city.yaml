@@ -1,0 +1,56 @@
+id: micromacro-crime-city
+name: "MicroMacro: Crime City"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: micromacro
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Puzzle Solving
+  - Mystery
+  - Family
+  - Gateway
+
+evokes:
+  - Mystery
+  - Discovery
+  - Clever
+  - Connection
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Johannes Sich
+publisher:
+  - Edition Spielwiese
+  - Pegasus Spiele
+artist:
+  - Johannes Sich
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 12
+
+description: |
+  MicroMacro: Crime City is a cooperative hidden-object mystery game designed by Johannes Sich and published by Edition Spielwiese in 2020. Players unfold a poster-sized (45 x 30 inches) illustrated city map teeming with characters engaged in everyday life — and criminal activity. Working through a deck of case cards, players act as detectives piecing together crimes ranging from petty theft to murder by searching the detailed scene for clues. The game blends elements of Where's Wally? with Sherlock Holmes-style deduction, and its accessibility and unique format earned it the Spiel des Jahres award in 2021.
+
+upgrades: []

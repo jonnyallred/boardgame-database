@@ -1,0 +1,53 @@
+id: my-first-stone-age
+name: "My First Stone Age"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: stone-age
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Cooperative
+  - Family
+  - Ancient
+
+evokes:
+  - Discovery
+  - Progress
+  - Connection
+  - Complete
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Marco Teubner
+publisher:
+  - Z-Man Games
+artist:
+  - Fiore GmbH
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  My First Stone Age is a children's gateway game designed by Marco Teubner, published by 999 Games and Z-Man Games, designed to introduce young players to basic resource collection and memory mechanics. Players flip forest tokens to move their meeples around the board, gathering berries, bones, and stones to build their Stone Age settlements. A helper dog token named Guff assists players who need any resource when it's time to construct a hut. The game gently introduces concepts from its parent game Stone Age in an accessible 15-minute format perfectly suited for ages 5 and up.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: no-thanks
+name: "No Thanks!"
+alternate_names:
+  - "Geschenkt"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Press Your Luck
+  - Hand Management
+  - Filler
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Rivalry
+  - Humor
+
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5]
+
+designer:
+  - Thorsten Gimmler
+publisher:
+  - Amigo
+artist:
+  - Oliver Freudenreich
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  No Thanks! is a brilliantly simple card-and-chip game designed by Thorsten Gimmler, published by Amigo Spiele in 2004. A deck of 33 numbered cards (3–35, with nine randomly removed) is placed face-down; each turn the active player must either take the top card and its accumulated chips or pay a chip to pass. Since you only score the lowest card in each consecutive run, clever play involves knowing when to take a painful card to block an even worse one. The game earned a Spiel des Jahres nomination in 2005 and remains a perfect example of elegant design achieving maximum tension with minimal rules.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: minion-hunter
+name: "Minion Hunter"
+alternate_names: ["DC1 Minion Hunter", "Minion Hunter: The Dark Conspiracy Boardgame"]
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Sci-Fi
+  - Horror
+  - Narrative Heavy
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Connection
+  - Mystery
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Lester W. Smith
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Minion Hunter: The Dark Conspiracy Boardgame is a 1992 cooperative board game designed by Lester W. Smith and published by Game Designers' Workshop as a companion product to their Dark Conspiracy role-playing game. Players work cooperatively to stall or defeat the plans of four Dark Minion races as the primary goal, while also pursuing individual character advancement as a secondary objective. The game blends horror and conspiracy themes with a cooperative structure, rewarding teamwork and strategic planning to overcome the alien menace threatening humanity.
+
+upgrades: []

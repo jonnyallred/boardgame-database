@@ -1,0 +1,52 @@
+id: mooki-island
+name: "Mooki Island"
+alternate_names: ["Mookie Island"]
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Clever
+  - Humor
+  - Complete
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Florian Sirieix
+publisher:
+  - Scorpion Masque
+artist:
+  - Seppyo
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 4
+
+description: |
+  Mooki Island is a quick two-player set collection card game designed by Florian Sirieix and published by Scorpion Masqué, illustrated by Seppyo. Players take turns drawing and placing cards, collecting as many Mookies (whimsical island creatures) from each family as possible to win trophies. The extremely simple rules — each player draws a card and places it in front of themselves — make it ideal for very young children as an introduction to majority collection mechanics. The game plays in about ten minutes and is aimed at ages four and up.
+
+upgrades: []

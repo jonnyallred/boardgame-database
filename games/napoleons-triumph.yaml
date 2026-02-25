@@ -1,0 +1,53 @@
+id: napoleons-triumph
+name: "Napoleon's Triumph"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Deduction
+  - Area Control
+
+evokes:
+  - Tension
+  - Masterful
+  - Mystery
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Bowen Simmons
+publisher:
+  - Simmons Games
+artist:
+  - Bowen Simmons
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Napoleon's Triumph is a two-player operational wargame by Bowen Simmons, published by Simmons Games in 2007, simulating the Battle of Austerlitz on a large double-sided 44"×34" map. The game uses no dice — movement and combat are resolved through a unique polygon-based map system and block-style hidden-strength mechanics where each player knows where enemy units are positioned but not their type or strength. This hidden-information system creates constant tension and demands careful inference. Building on the acclaimed Bonaparte at Marengo, Napoleon's Triumph is praised by wargamers as one of the most elegantly designed abstractions of Napoleonic battlefield command.
+
+upgrades: []

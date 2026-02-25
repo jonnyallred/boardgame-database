@@ -1,0 +1,54 @@
+id: middle-earth
+name: "Middle Earth"
+alternate_names: ["The Games of Middle Earth"]
+year: 1977
+
+# Relationships
+game_family: middle-earth
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Lord of the Rings
+  - Hex Map
+  - Historical
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Howard Barasch
+  - Richard Berg
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Middle Earth (also known as The Games of Middle Earth) is a boxed wargame set published by Simulations Publications, Inc. (SPI) in 1977, designed by Howard Barasch and Richard Berg, based on J.R.R. Tolkien's The Lord of the Rings. The set contains three games: War of the Ring, Gondor: The Siege of Minas Tirith, and Sauron, each simulating major conflicts from the books using hex-map wargame mechanics. War of the Ring won the Charles S. Roberts Award for Best Fantasy Board Game of 1977 and was one of SPI's bestselling titles, entering the publisher's Top Ten list at number one based on pre-orders alone. The games can be played individually or combined for an epic campaign spanning the full scope of Tolkien's world.
+
+upgrades: []

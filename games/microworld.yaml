@@ -1,0 +1,53 @@
+id: microworld
+name: "Microworld"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mario Chiacchiera
+publisher:
+  - Cranio Creations
+artist:
+  - Ruslan Audia
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 20
+min_age: 8
+
+description: |
+  Microworld is a two-player abstract strategy game designed by Mario Chiacchiera and published by Cranio Creations in 2016, in which one player controls invading germs and the other commands the immune system's antibodies. Players alternate placing tiles on the board, scoring points for neighboring tiles they control and competing for area majority at the end of the game. Special tokens with unique abilities add tactical variety to each session. Modular rules allow additional complexity through thematic scenarios, making the game scalable for both newcomers and experienced players.
+
+upgrades: []

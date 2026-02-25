@@ -1,0 +1,51 @@
+id: monopoly-gamer
+name: "Monopoly Gamer"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: monopoly
+edition: null
+base_game: monopoly
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Economic
+  - Family
+  - Variable Player Powers
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Humor
+  - Complete
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Monopoly Gamer is a Nintendo-themed edition of Monopoly published by Hasbro in 2017. Players choose from Super Mario characters — Mario, Princess Peach, Yoshi, and Donkey Kong — each with unique power-up abilities activated by landing on Super Star spaces. The game adds a Power-up Die alongside the standard die, introduces Boss cards for special challenges, and awards victory to the player with the most points from coins collected, properties owned, and bosses defeated rather than through bankruptcy. The Nintendo characters and special power mechanics give the game a faster, more action-oriented feel than classic Monopoly.
+
+upgrades: []

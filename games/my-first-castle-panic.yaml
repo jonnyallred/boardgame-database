@@ -1,0 +1,53 @@
+id: my-first-castle-panic
+name: "My First Castle Panic"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: castle-panic
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - Family
+  - Fantasy
+
+evokes:
+  - Connection
+  - Tension
+  - Lucky
+  - Discovery
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Justin De Witt
+publisher:
+  - Fireside Games
+artist:
+  - Fireside Games
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 4
+
+description: |
+  My First Castle Panic is a cooperative tower-defense game designed by Justin De Witt and published by Fireside Games, based on the best-selling Castle Panic series. Designed for ages 4 and up, the game requires no reading — players simply match color and shape to send defenders to catch monsters before they smash the castle. Each monster follows a single winding path toward the castle, and players work together to intercept them. The game introduces young children to core cooperative play concepts, turn-taking, and color/shape matching in a friendly 20-minute format.
+
+upgrades: []

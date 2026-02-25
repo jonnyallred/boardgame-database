@@ -1,0 +1,51 @@
+id: mosaix
+name: "Mosaix"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Pattern Building
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Lucky
+  - Tension
+  - Complete
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Mosaix is a 2009 abstract dice game published by Schmidt Spiele in which players roll symbol dice and arrange them in a sequence that all other players then transcribe into their personal 7x7 grid. The goal is to create the largest cohesive areas of matching symbols by the end of the game, rewarding spatial planning and opportunistic placement. The simultaneous nature of transcription keeps all players engaged throughout each round, making it a fast-playing and accessible family filler with a light competitive edge.
+
+upgrades: []

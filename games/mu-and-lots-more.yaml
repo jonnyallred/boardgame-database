@@ -1,0 +1,58 @@
+id: mu-and-lots-more
+name: "Mu and Lots More"
+alternate_names:
+  - "Mu & Lots More"
+  - "Mu & More"
+  - "Mu & Mehr"
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Auctions/Bidding
+  - Hand Management
+  - Teams
+  - Filler
+
+evokes:
+  - Clever
+  - Tension
+  - Partnership
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [5, 6]
+
+designer:
+  - Doris Matthaeus
+  - Frank Nestel
+publisher:
+  - Rio Grande Games
+artist:
+  - Doris Matthaeus
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Mu and Lots More is a collection of trick-taking card games designed by Doris Matthäus and Frank Nestel, published in English by Rio Grande Games (originally 1995 by Doris & Frank). The centerpiece game, Mü, features a distinctive bidding phase where players bid to become Chief or Vice by selecting their own hand cards and determining trump collaboratively, creating a shifting partnership dynamic each round. The collection also includes Njet by Stefan Dorra, Meinz by Günter Burkhardt, and Was sticht? by Karl-Heinz Schmiel, offering four variations on the trick-taking format. Mü received a Spiel des Jahres recommendation in 1996.
+
+upgrades: []

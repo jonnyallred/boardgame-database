@@ -1,0 +1,58 @@
+id: mythos-tales
+name: "Mythos Tales"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Deduction
+  - Puzzle Solving
+  - Cthulhu
+  - Horror
+
+evokes:
+  - Mystery
+  - Dread
+  - Discovery
+  - Tension
+  - Clever
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [2, 3, 4]
+
+designer:
+  - Hal Eccles
+  - Will Kenyon
+  - Jason Maxwell
+  - Tim Uren
+publisher:
+  - Grey Fox Games
+artist:
+  - Michael Caplan
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Mythos Tales is a narrative deduction game by 8th Summit/Grey Fox Games (2016) set in H.P. Lovecraft's Arkham, Massachusetts. Players take on the roles of investigators solving eight chilling mysteries drawn from the Cthulhu Mythos, consulting location entries in an included booklet to gather clues, follow leads, and piece together the truth about what happened. Rather than a fixed solution path, the game scores investigators on the quality of their answers at the end, rewarding thorough exploration and lateral thinking. The cooperative format allows groups to discuss theories together, making it an atmospheric and engaging alternative to escape-room-style narrative games.
+
+upgrades: []

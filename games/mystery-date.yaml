@@ -1,0 +1,54 @@
+id: mystery-date
+name: "Mystery Date"
+alternate_names: []
+year: 1965
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Dice Rolling
+  - Family
+  - Mystery
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Discovery
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Marvin Glass
+  - Henry Stan
+publisher:
+  - Hasbro
+artist:
+  - Milton Bradley
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Mystery Date is a classic board game designed by Marvin Glass and Henry Stan, originally published by Milton Bradley in 1965 and periodically reprinted since. Players collect sets of four cards that match one of five hidden "dates" behind a plastic door in the center of the board; when ready, they open the door to reveal their mystery date — or the infamous "dud." The game became a cultural touchstone of 1960s toy design and is considered one of the most sought-after vintage games from the era, reflecting the pop-romance themes aimed at girls of the period. Later editions updated the artwork and character designs for contemporary audiences.
+
+upgrades: []

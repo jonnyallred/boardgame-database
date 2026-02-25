@@ -1,0 +1,55 @@
+id: napoleon-the-waterloo-campaign
+name: "Napoleon: The Waterloo Campaign, 1815"
+alternate_names:
+  - "Napoleon"
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Historical
+  - War
+  - Deduction
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Mystery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Tom Dalgliesh
+publisher:
+  - Columbia Games
+artist:
+  - Columbia Games
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Napoleon: The Waterloo Campaign, 1815 is a pioneering block wargame designed by Tom Dalgliesh, originally published in 1974 by Gamma Two Games (now Columbia Games). Players command the French and Allied forces across the Waterloo campaign, with wooden blocks standing on their edges to hide unit strength from the opponent — creating the "fog of war" that became the hallmark of Columbia Games' block wargame series. Updated editions have been released through 2013, each refining the rules while preserving the elegant core system. The game is widely recognized as one of the most influential block wargames ever designed.
+
+upgrades: []

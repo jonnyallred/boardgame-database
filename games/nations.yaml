@@ -1,0 +1,58 @@
+id: nations
+name: "Nations"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Hand Management
+  - Set Collection
+  - Drafting
+  - Resource Management
+  - Tech Tree
+  - Euro
+  - Civilization
+  - Historical
+
+evokes:
+  - Progress
+  - Clever
+  - Masterful
+  - Wonder
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Rustan Hakansson
+publisher:
+  - Leder Games
+artist:
+  - Micha Lebovitz
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Nations is an intense card-driven civilization game for 1–5 players designed by Rustan Håkansson and published by Lautapelit.fi in 2013. Players guide their nations from prehistoric times through the dawn of World War I across eight rounds, purchasing cards representing leaders, military forces, technological advances, wonders, and buildings to grow their power. Unlike typical civilization games, Nations uses a card-drafting market mechanism where a limited row of cards refreshes each round, forcing players to compete for the most impactful advances. Victory points are earned primarily through a Heritage track and end-game bonuses from buildings and wonders.
+
+upgrades: []

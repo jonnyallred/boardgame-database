@@ -1,0 +1,56 @@
+id: nexus-ops
+name: "Nexus Ops"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hex Map
+  - Dice Rolling
+  - Resource Management
+  - Variable Player Powers
+  - Sci-Fi
+  - Dudes on a Map
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Charlie Catino
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Brian Schomburg
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Nexus Ops is a light wargame of alien mining and combat by Charlie Catino, originally published by Avalon Hill in 2005 and reprinted by Fantasy Flight Games in 2012. Players race to mine rubium — a fictional metal — on a distant moon, using it to recruit diverse alien units including fungoids, rock striders, and powerful rubium dragons, each with unique combat abilities. The hex-based board is randomly generated, and victory requires accumulating 12 victory points through battles and secret mission cards. Its streamlined rules and aggressive player interaction make it a gateway wargame with a satisfying escalation of power.
+
+upgrades: []

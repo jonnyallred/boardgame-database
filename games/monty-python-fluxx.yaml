@@ -1,0 +1,52 @@
+id: monty-python-fluxx
+name: "Monty Python Fluxx"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: fluxx
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Party
+  - Family
+  - Filler
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Unique
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Andrew Looney
+publisher:
+  - Looney Labs
+artist: []
+playtime_minutes: 25
+min_playtime: 10
+max_playtime: 40
+min_age: 13
+
+description: |
+  Monty Python Fluxx is a licensed variant of the ever-changing Fluxx card game by Looney Labs, published in 2008 under dual license from Toy Vault and Python (Monty) Pictures Limited. The game focuses on the movies and TV sketches of the Monty Python comedy troupe, particularly Monty Python and the Holy Grail, with players helping King Arthur and his Knights find the Holy Grail while dealing with the Knights Who Say Ni. Like all Fluxx games, play begins with Draw 1, Play 1, but as rule cards are played the game's mechanics shift constantly, creating a wildly unpredictable and comedic experience. It was the first Fluxx game based on a licensed property and Looney Labs' longest-running licensed product as of 2025.
+
+upgrades: []

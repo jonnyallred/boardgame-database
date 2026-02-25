@@ -1,0 +1,52 @@
+id: mord-im-arosa
+name: "Mord im Arosa"
+alternate_names: ["Murder at the Arosa"]
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Bluffing
+  - Family
+  - Party
+
+evokes:
+  - Mystery
+  - Tension
+  - Humor
+  - Clever
+  - Lucky
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Alessandro Zucchini
+publisher:
+  - Zoch Verlag
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Mord im Arosa (Murder at the Arosa) is a deduction and bluffing game designed by Alessandro Zucchini and published by Zoch Verlag in 2011, named after the famous Essen hotel that hosts Spiel. Two murders have occurred at the hotel, and players are all suspects — the winner is whoever accumulates the least suspicion by the game's end. The core mechanic is auditory: wooden clue cubes are dropped down a shaft in a miniature hotel tower, and players must listen carefully to determine which floor the cubes land on, using that information to place blame on opponents. Despite its murder theme, the game involves no deduction of a culprit — only the deflection of suspicion.
+
+upgrades: []

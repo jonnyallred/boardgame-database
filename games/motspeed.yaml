@@ -1,0 +1,49 @@
+id: motspeed
+name: "Motspeed"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Party
+  - Real-time
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Motspeed is an obscure word-speed game with very limited information available in English-language sources. The name suggests it may be a fast-paced word game, possibly Scandinavian in origin given the name construction. No reliable publisher, designer, or detailed mechanical information could be confirmed through available research. It may be a regional publication with limited international distribution.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: nobody-is-perfect
+name: "Nobody is Perfect"
+alternate_names:
+  - "Wer besser spinnt, gewinnt"
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Word Play
+  - Party
+  - Social Deduction
+
+evokes:
+  - Humor
+  - Persuasion
+  - Clever
+  - Lucky
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [5, 6]
+
+designer:
+  - Bertram Kaes
+publisher:
+  - Ravensburger
+artist:
+  - Ravensburger
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Nobody is Perfect is a bluffing party game by Bertram Kaes, published by Ravensburger in 1992. Each round the active player draws a card with an obscure term or unusual event, reading the true definition only to themselves, while all other players write convincing fake definitions. All answers — real and invented — are read aloud, and players bet chips on which one they believe is correct; convincing others with your fabrication scores additional points. The game rewards creative writing, deadpan delivery, and a good sense of what sounds plausible, making it an excellent social game for adults who enjoy wordplay and light deception.
+
+upgrades: []

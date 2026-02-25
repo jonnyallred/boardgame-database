@@ -1,0 +1,52 @@
+id: mountain-goats
+name: "Mountain Goats"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Allplay
+publisher:
+  - Allplay
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Mountain Goats is a light press-your-luck dice game in which players roll dice to move their goats to the tops of six different mountains. A goat at the top of a mountain scores points for as long as it stays there, but opponents can knock it down by landing their own goat higher up. The game combines tactical goat placement decisions with dice randomness, creating a quick and accessible experience. Published by Allplay, Mountain Goats plays in about 20 minutes and is suitable for families and casual players.
+
+upgrades: []

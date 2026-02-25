@@ -1,0 +1,52 @@
+id: midway
+name: "Midway"
+alternate_names: []
+year: 1964
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Avalon Hill
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Midway is a two-player naval wargame published by Avalon Hill in 1964 simulating the pivotal Battle of Midway during World War II. The Japanese player must successfully invade Midway Island by bringing a heavy cruiser ashore within the game's time limit, while the American player seeks to prevent this and sink opposing ships. The game operates at the individual ship and air squadron level, using a divided search map to maintain the fog of war as players hunt for each other's fleets. Praised for its simplicity as an introduction to wargaming, a revised Smithsonian Edition was released in 1991 to mark the 50th anniversary of Pearl Harbor.
+
+upgrades: []

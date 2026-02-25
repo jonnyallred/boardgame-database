@@ -1,0 +1,49 @@
+id: monte-rolla
+name: "Monte Rolla"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Monte Rolla is a light family dice game played on a raised board with hollowed sections to guide marble pieces. Players roll dice to move marbles representing climbers ascending from a lake at the bottom toward the mountain peak. Landing on an occupied space sends the occupant rolling back down to the lake, forcing them to start the climb again. The combination of dice luck and satisfying physical marble movement makes it an accessible and entertaining game for young children.
+
+upgrades: []

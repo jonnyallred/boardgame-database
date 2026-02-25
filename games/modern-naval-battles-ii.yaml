@@ -1,0 +1,53 @@
+id: modern-naval-battles-ii
+name: "Modern Naval Battles II: The Campaign Game"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: modern-naval-battles
+edition: null
+base_game: modern-naval-battles
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Campaign Mode
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Dan Verssen
+  - Alan Emrich
+publisher:
+  - 3W
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 12
+
+description: |
+  Modern Naval Battles II: The Campaign Game is the second volume in the Modern Naval Battles series designed by Dan Verssen and Alan Emrich and published by 3W in the early 1990s. It is a wargame expansion that builds on the base rules, extending the original card-based fleet combat system into a larger campaign format in which players command national fleets across a series of linked battles. The rules progress from the base game's Rule 15 through Rule 30, adding operational depth and strategic campaign elements to the underlying tactical naval combat framework.
+
+upgrades: []

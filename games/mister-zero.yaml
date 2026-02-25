@@ -1,0 +1,51 @@
+id: mister-zero
+name: "Mister Zero"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Programmed Movement
+  - Route Building
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Mystery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Zoch Verlag
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Mister Zero is an abstract strategy game published by Zoch Verlag in which a central figure, Mr. Zero, navigates a network of roads according to a strict rule: at every intersection, he always follows the road marked with the lowest-numbered chip. Players take turns placing numbered chips from 0 to 9 on the road network, attempting to guide Mr. Zero toward their own goal spaces by the time all chips have been placed. The game elegantly separates the decision phase from the resolution phase, creating a unique blend of strategic planning and deductive anticipation of how other players will influence the route.
+
+upgrades: []

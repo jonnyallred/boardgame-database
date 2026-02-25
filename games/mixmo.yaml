@@ -1,0 +1,55 @@
+id: mixmo
+name: "Mixmo"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Word Play
+  - Party
+  - Family
+  - Filler
+
+evokes:
+  - Clever
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Julien Faubet
+  - Sylvain Hatesse
+publisher:
+  - Cocktail Games
+  - Asmodee
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Mixmo is a fast-paced French word game designed by Julien Faubet and Sylvain Hatesse, published by Cocktail Games and distributed by Asmodee. Players each pick six letter tokens and race to arrange all their letters into interlocking crossword-style words in front of them as quickly as possible. The first player to successfully place all their letters wins the round. The game has a Bananagrams-like spirit but tailored for French-language play, making it a quick and portable filler for word game enthusiasts.
+
+upgrades: []

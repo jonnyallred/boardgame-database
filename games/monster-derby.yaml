@@ -1,0 +1,52 @@
+id: monster-derby
+name: "Monster Derby"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Fantasy
+  - Bluffing
+  - Simultaneous Action
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Jeff Siadek
+publisher:
+  - Gamesmiths
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Monster Derby is a 1994 fantasy racing board game designed by Jeff Siadek and published by Gamesmiths, later republished by Gorilla Games. Fantasy monsters race across a modular terrain course, and before the race begins, each player secretly predicts the finishing order of all the monsters. Players then take turns moving different monsters, creating strategic tension as they try to influence outcomes in their favor without revealing their hidden predictions to the other players. The combination of secret goals and shared control of all racing monsters produces a uniquely chaotic and humorous competition.
+
+upgrades: []

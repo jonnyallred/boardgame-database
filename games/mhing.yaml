@@ -1,0 +1,50 @@
+id: mhing
+name: "Mhing"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Family
+
+evokes:
+  - Lucky
+  - Clever
+  - Complete
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Suntex International
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Mhing is a card game based on Mah Jongg, published by Suntex International in 1982, using a 150-card deck organized into three suits (bamboo, characters, and coins numbered 1-9) plus honor cards (four winds and three dragons) and special wild Mhing cards. Like Mah Jongg, the objective is to be the first player to collect four sets of three cards plus one pair, with sets being either sequences or triplets in the same suit. After someone calls Mhing, bonus credits are awarded for special hand configurations such as sequence-only hands or identical double sequences. The Chinese art theme and familiar rummy-like mechanics make it an accessible introduction to Mah Jongg principles.
+
+upgrades: []

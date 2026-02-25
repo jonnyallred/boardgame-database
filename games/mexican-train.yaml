@@ -1,0 +1,52 @@
+id: mexican-train
+name: "Mexican Train"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Family
+  - Party
+
+evokes:
+  - Lucky
+  - Connection
+  - Humor
+  - Progress
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Puremco
+  - Cardinal
+  - Pressman
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 5
+
+description: |
+  Mexican Train is a popular domino game played with a standard Double Twelve set of 91 dominoes, first commercially published by Puremco and Cardinal in 1994. Players take turns extending lines of dominoes called "trains" connected to a central hub, with the unique twist of a communal Mexican Train that anyone can add to. The objective is to be the first player to play all your dominoes, scoring zero points while opponents score the pip total of their remaining tiles. The game is extremely accessible and widely popular at family gatherings, casinos, and senior centers.
+
+upgrades: []

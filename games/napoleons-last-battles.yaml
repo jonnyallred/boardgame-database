@@ -1,0 +1,54 @@
+id: napoleons-last-battles
+name: "Napoleon's Last Battles"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kevin Zucker
+  - Jay Nelson
+publisher:
+  - Decision Games
+artist:
+  - Redmond Simonsen
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 480
+min_age: 14
+
+description: |
+  Napoleon's Last Battles is a hex-and-counter wargame quadrigame designed by Kevin Zucker and Jay Nelson, originally published by Simulations Publications Inc. (SPI) in 1976, with later editions by TSR and Decision Games. The box contains four linked battle scenarios from Napoleon's final 1815 Waterloo campaign — including Ligny, Quatre Bras, Wavre, and Waterloo — all using a shared ruleset so players can experience individual battles or combine them. The game reached the top 5 on SPI's bestseller list at launch and remains a foundational design in Napoleonic wargaming, praised for its elegant quadrigame format and historical fidelity.
+
+upgrades: []

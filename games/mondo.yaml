@@ -1,0 +1,52 @@
+id: mondo
+name: "Mondo"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Tile Placement
+  - Puzzle Solving
+  - Family
+
+evokes:
+  - Tension
+  - Lucky
+  - Clever
+  - Rivalry
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Michael Schacht
+publisher:
+  - Hans im Glück
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Mondo is a real-time tile-placement game designed by Michael Schacht and published by Hans im Glück in 2011. All players simultaneously race against a sand timer to grab tiles from a central pool and place them on their individual world boards, trying to create complete, matching biome regions populated with animals while avoiding volcanoes and mismatched edges. When the timer expires, players score for completed regions, animal diversity, and bonuses while losing points for incompletions and exposed volcanoes. Mondo includes three difficulty levels, additional challenge goals, and solo rules, making it a flexible and fast filler.
+
+upgrades: []

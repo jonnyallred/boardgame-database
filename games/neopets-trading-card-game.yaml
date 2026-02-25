@@ -1,0 +1,55 @@
+id: neopets-trading-card-game
+name: "Neopets Trading Card Game"
+alternate_names:
+  - "Neopets TCG"
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Take That
+  - Animals
+  - Fantasy
+
+evokes:
+  - Rivalry
+  - Lucky
+  - Clever
+  - Discovery
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Wizards of the Coast
+publisher:
+  - Wizards of the Coast
+artist:
+  - Wizards of the Coast
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  The Neopets Trading Card Game is a collectible card game published by Wizards of the Coast in 2003, based on the popular online virtual pet website Neopets. Players compete across four arenas — Strength, Agility, Intelligence, and Magic — using Neopet creatures, Items, Equipment, and Location cards to bank 21 points worth of cards and win. Each player uses a deck of at least 40 cards and 10 Basic Neopets, with the game designed for a slightly younger audience than Wizards' flagship Magic: The Gathering. The game was discontinued in 2006, and original print run cards have since become collectibles.
+
+upgrades: []

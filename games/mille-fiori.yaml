@@ -1,0 +1,53 @@
+id: mille-fiori
+name: "Mille Fiori"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Area Control
+  - Set Collection
+  - Euro
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Complete
+  - Progress
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Devir
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Mille Fiori (Italian for "a thousand flowers") is a strategy game designed by Reiner Knizia set in the world of Venetian Renaissance glassmaking, published by Devir in 2021. Players draft cards to place translucent diamond-shaped tiles across five districts representing the glass production cycle: workshops, houses, patron supporters, trade shops, and the harbor. Each district scores differently, and the 110-card deck corresponds exactly to the 110 spaces on the board, creating a taut and interconnected drafting puzzle. The game is notable for its beautiful glass-themed components and Knizia's elegant design balancing short-term scoring with long-term positioning.
+
+upgrades: []

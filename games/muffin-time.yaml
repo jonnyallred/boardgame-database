@@ -1,0 +1,53 @@
+id: muffin-time
+name: "Muffin Time"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Take That
+  - Party
+  - Humor
+
+evokes:
+  - Humor
+  - Lucky
+  - Chaos
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - TomSka
+publisher:
+  - Big Potato
+artist:
+  - TomSka
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Muffin Time is a chaotic hand-management card game based on the TomSka/asdfmovie internet series, published by Big Potato Games following a successful 2019 Kickstarter. The goal is to be the first player to have exactly 10 cards in hand at the start of their turn. Players draw, play action cards to attack opponents or gain advantages, place hidden trap cards that trigger on opponents' turns, and counter-play with response cards at any time. The game captures the anarchic absurdist humor of its source material, making it a lighthearted party filler with high chaos and minimal strategy.
+
+upgrades: []

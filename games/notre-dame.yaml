@@ -1,0 +1,56 @@
+id: notre-dame
+name: "Notre Dame"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Area Control
+  - Resource Management
+  - Variable Setup
+  - Euro
+  - Medieval
+  - Stefan Feld
+
+evokes:
+  - Tension
+  - Clever
+  - Agency
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Rio Grande Games
+artist:
+  - Michael Menzel
+playtime_minutes: 75
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Notre Dame is a card-drafting area-influence game by Stefan Feld, published by alea and Rio Grande Games in 2007. Players each control one of the boroughs surrounding the Notre Dame cathedral in medieval Paris, using a three-card draft to activate a shared set of actions — building improvements, placing persons, gathering resources, and advancing their carriage to the cathedral. Each round also introduces a plague rat threat that grows in each borough unless mitigated, punishing neglectful players with devastating point losses. One of Feld's earliest designs, it established the hallmarks of his style: multiple competing priorities, elegant card flow, and memorable pain.
+
+upgrades: []

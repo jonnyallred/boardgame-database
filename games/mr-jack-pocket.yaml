@@ -1,0 +1,57 @@
+id: mr-jack-pocket
+name: "Mr. Jack Pocket"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: mr-jack
+edition: null
+base_game: mr-jack
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 4  # Fierce
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hidden Movement
+  - Deduction
+  - 1 vs Many
+  - Asymmetric
+  - Mystery
+  - Bruno Cathala
+
+evokes:
+  - Tension
+  - Mystery
+  - Rivalry
+  - Clever
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Bruno Cathala
+  - Ludovic Maublanc
+publisher:
+  - Hurrican
+  - Asmodee
+artist:
+  - Jean-Marie Minguez
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 14
+
+description: |
+  Mr. Jack Pocket is a compact two-player deduction game by Bruno Cathala and Ludovic Maublanc, published by Hurrican in 2010 as a streamlined version of Mr. Jack. The 3x3 grid of London street cards serves simultaneously as a board and as the nine suspects, with Watson, Holmes, and a police dog token placed around it. Players take turns rotating cards and moving detective tokens, with Jack trying to maintain alibi by staying out of sight of investigators, and the detective trying to isolate and identify him. Playing in under 15 minutes, it won nominations for Best 2-Player Game and is an ideal portable entry point to the Mr. Jack series.
+
+upgrades: []

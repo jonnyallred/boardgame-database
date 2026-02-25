@@ -1,0 +1,51 @@
+id: mindtrap
+name: "MindTrap"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Puzzle Solving
+  - Party
+  - Family
+
+evokes:
+  - Clever
+  - Humor
+  - Tension
+  - Rivalry
+  - Mystery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher:
+  - Pressman Toy Corporation
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 60
+min_age: 12
+
+description: |
+  MindTrap is a lateral thinking puzzle game originally published by Pressman Toy Corporation in 1991, played by two individuals or teams. Players are read riddles and logic puzzles from a set of cards within a time limit, with correct answers advancing that player or team along a scoring track. The puzzles frequently feature recurring characters such as Detective Shadow and magician Dee Septor, and are designed to mislead with unnecessary information that plays on common assumptions. The game spawned numerous editions and expansions, becoming a long-running series focused on testing creative problem-solving skills.
+
+upgrades: []

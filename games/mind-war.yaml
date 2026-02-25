@@ -1,0 +1,51 @@
+id: mind-war
+name: "Mind War"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Abstract
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Lester W. Smith
+publisher:
+  - Fact and Fantasy Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Mind War is a 1976 science fiction wargame published by Fact and Fantasy Games, in which future psionic warriors engage in mental combat. Designed as a standalone two-player experience, it is the first game in the Warriors of the Green Planet Trilogy. The rules are simple to learn and fast-moving, with most sessions completable in under an hour, making it an accessible entry point to the psionics-themed microgame genre popular in the late 1970s.
+
+upgrades: []

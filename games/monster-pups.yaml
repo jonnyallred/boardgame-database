@@ -1,0 +1,52 @@
+id: monster-pups
+name: "Monster-Pups"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Animals
+  - Humor
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Connection
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Klaus Kreowski
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 5
+
+description: |
+  Monster-Pups is a children's dice game designed by Klaus Kreowski and published by Ravensburger, featuring a humorous bathroom-themed premise with silly monster puppy characters. Players roll dice and interact with the monster pups in a light, fast-playing format suitable for very young children. The game's absurd humor and colorful components make it an entertaining introductory game for ages five and up.
+
+upgrades: []

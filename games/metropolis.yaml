@@ -1,0 +1,52 @@
+id: metropolis
+name: "Metropolis"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Negotiation
+  - City Building
+  - Euro
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Complete
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Sid Sackson
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Metropolis is a city-building board game designed by Sid Sackson and published by Ravensburger in 1984. The abstract city board consists of nine blocks with ten plots each, represented by a matching numbered card deck. Players take turns selecting plot cards and claiming ownership with their colored markers, with adjacency restrictions applying once a block fills up. Three-dimensional plastic buildings are placed to signify developed plots, and the game combines spatial planning with set collection and area control principles. Metropolis was recommended by the Spiel des Jahres jury in 1984 and is now out of print.
+
+upgrades: []

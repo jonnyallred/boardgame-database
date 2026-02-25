@@ -1,0 +1,53 @@
+id: mole-rats-in-space
+name: "Mole Rats in Space"
+alternate_names: ["Space Escape"]
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Family
+  - Animals
+  - Space
+
+evokes:
+  - Tension
+  - Connection
+  - Lucky
+  - Progress
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Matt Leacock
+publisher:
+  - Peaceable Kingdom
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Mole Rats in Space is a cooperative children's game designed by Pandemic creator Matt Leacock and published by Peaceable Kingdom in 2017. Players work together to help a team of mole rat astronauts collect four essential items (duct tape, toothbrush, radishes, and a map) from their space station before snakes escaping from air vents overwhelm them. Each turn, a card is played to move mole rats and manage the snake threat, requiring careful team coordination to balance item retrieval with snake containment. The game successfully adapts the classic Snakes and Ladders concept with modern cooperative design principles, making it an excellent introduction to cooperative gaming for young children.
+
+upgrades: []

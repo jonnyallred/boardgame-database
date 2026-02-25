@@ -1,0 +1,51 @@
+id: micro-armour-wwii
+name: "Micro Armour: The Game – WWII"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Powerful
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - GHQ Models
+publisher:
+  - GHQ Models
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Micro Armour: The Game – WWII is a set of miniature wargaming rules published by GHQ Models in 2001, designed to use their trademarked 1:285 scale micro armour miniatures that have been produced since 1967. Players command World War II era armored forces on a tabletop, using a scale where the small model size means a game requires only one-ninth the playing space of equivalent 1:87 scale games. The rules cover WWII combined arms combat with infantry, armor, artillery, and air support, allowing players to fight historical and hypothetical engagements from the European and Pacific theaters.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: monsters-menace-america
+name: "Monsters Menace America"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Take That
+  - Dudes on a Map
+  - Ameritrash
+
+evokes:
+  - Powerful
+  - Humor
+  - Rivalry
+  - Tension
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - J.C. Connors
+  - Ben Knight
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Monsters Menace America is a light-strategy B-Movie monster game designed by J.C. Connors and Ben Knight, published by Avalon Hill (Hasbro) in 2005 as a redesigned version of Monsters Ravage America. Players control giant movie monsters rampaging across the United States — destroying cities, gaining mutations at radioactive sites, and battling military forces and famous landmarks. Each player also commands a branch of the U.S. armed forces to attack rival monsters. The game culminates in a final Monster Challenge, where all surviving monsters fight each other to crown the ultimate King of the Monsters.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: mr-trucker
+name: "Mr. Trucker"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Route Building
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Progress
+  - Lucky
+  - Discovery
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Myrna Hunter
+  - Larry Hunter
+publisher:
+  - self-published
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Mr. Trucker is a board game designed by husband-and-wife interstate trucking team Myrna and Larry Hunter, published circa 1987 in Ontario, Canada. The game is designed to teach players the basics of long-haul trucking — covering regulations, tariffs, borrowing money, and picking up and delivering loads between cities. Players roll dice to move their trucks across routes, collect cargo and payment, and navigate the economic challenges of the trucking industry. The game reflects the authentic experiences of professional truckers with an educational intent for players of all ages.
+
+upgrades: []

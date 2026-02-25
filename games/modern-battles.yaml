@@ -1,0 +1,56 @@
+id: modern-battles
+name: "Modern Battles: Four Contemporary Conflicts"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hex Map
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Howard Barasch
+  - Irad B. Hardy
+  - David Isby
+  - James Dunnigan
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Modern Battles: Four Contemporary Conflicts is a quadrigame published by SPI in 1975, containing four separate wargames sharing a common rule system. Three of the four games are set in the early 1970s, with Chinese Farm and Golan based on battles from the 1973 Yom Kippur War, Mukden based on a hypothetical Soviet incursion into Manchuria, and Wurzburg depicting a hypothetical Warsaw Pact invasion of West Germany. Each game features its own map and counters while using the unified rules covering modern combined-arms combat. The game reached #3 on SPI's bestseller list upon release and remained in the top ten for four months.
+
+upgrades: []

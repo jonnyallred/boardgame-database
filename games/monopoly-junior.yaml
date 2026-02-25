@@ -1,0 +1,50 @@
+id: monopoly-junior
+name: "Monopoly Junior"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: monopoly
+edition: null
+base_game: monopoly
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Economic
+  - Family
+
+evokes:
+  - Lucky
+  - Connection
+  - Progress
+  - Complete
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 5
+
+description: |
+  Monopoly Junior is a simplified children's version of Monopoly published by Parker Brothers (now Hasbro) since 1990, designed for players ages 5 to 8. The smaller fairground-themed board features 16 amusements — such as a zoo, pizza restaurant, and arcade — instead of the standard 28 properties, and players must immediately buy any unowned amusement they land on. There are no auctions, houses, or hotels, and play continues until a player goes bankrupt, with the player holding the most cash winning. The game successfully introduces young children to the basic trading and property ownership concepts of Monopoly.
+
+upgrades: []

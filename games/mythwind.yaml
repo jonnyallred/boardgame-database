@@ -1,0 +1,56 @@
+id: mythwind
+name: "Mythwind"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Variable Player Powers
+  - Asymmetric
+  - Narrative Heavy
+  - Campaign Mode
+  - Fantasy
+
+evokes:
+  - Progress
+  - Connection
+  - Discovery
+  - Wonder
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Nathan Lige
+  - Brendan McCaskell
+publisher:
+  - Open Owl Studios
+artist:
+  - Open Owl Studios
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Mythwind is a cooperative "cozy" persistent-world board game designed by Nathan Lige and Brendan McCaskell, published by Open Owl Studios. Players take on the roles of unique characters — each with their own profession, skills, and storyline — working together to establish and grow a new town in the magical Mythwind Valley. Between sessions the town and characters persist without resetting, allowing players to dip in and out with no pressure of campaign failure. The game blends town-building, character development, sprite relationships, and light adventure in a format that emphasizes relaxed collaborative play over competitive stakes.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: modern-art
+name: "Modern Art"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Hand Management
+  - Set Collection
+  - Euro
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Persuasion
+  - Masterful
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Hans im Glück
+  - Mayfair Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Modern Art is an acclaimed auction game by Reiner Knizia, first published in 1992 by Hans im Glück. Players act as art dealers who both sell and purchase works by five fictional artists, using several different auction formats — open, fixed-price, one-offer, hidden bid, and double — determined by the artwork card being offered. At the end of each of four rounds, players sell paintings back to the bank based on artist popularity as determined by how many works have been auctioned that round. The game's elegant combination of auction mechanics and market valuation creates a rich economic tension that rewards reading both the art market and your opponents. Recommended for the 1993 Spiel des Jahres.
+
+upgrades: []

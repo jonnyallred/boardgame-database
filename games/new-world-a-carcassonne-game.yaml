@@ -1,0 +1,56 @@
+id: new-world-a-carcassonne-game
+name: "New World: A Carcassonne Game"
+alternate_names:
+  - "Mayflower"
+year: 2008
+
+# Relationships
+game_family: carcassonne
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Modular Board
+  - Euro
+  - Family
+  - Historical
+
+evokes:
+  - Clever
+  - Discovery
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Klaus-Jurgen Wrede
+publisher:
+  - Rio Grande Games
+artist:
+  - Anne Pätzke
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  New World: A Carcassonne Game is a standalone tile-placement game by Klaus-Jürgen Wrede, published by Hans im Glück and Rio Grande Games in 2008 (originally released in German as Mayflower). Set during the colonization of North America rather than medieval France, the game uses the familiar Carcassonne tile-drawing and meeple-placement system but replaces roads and cities with native American trails, farmland, and settlements. A westward migration mechanic adds a distinctive twist: as play advances, a "migration line" moves east to west across the board, removing meeples in low-scoring positions and forcing players to continually push forward.
+
+upgrades: []

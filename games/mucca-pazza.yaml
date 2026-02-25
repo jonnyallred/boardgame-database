@@ -1,0 +1,52 @@
+id: mucca-pazza
+name: "Mucca Pazza"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Family
+  - Animals
+
+evokes:
+  - Clever
+  - Humor
+  - Lucky
+  - Discovery
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Iris Rossbach
+publisher:
+  - Zoch Verlag
+artist:
+  - Iris Rossbach
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Mucca Pazza (Italian for "mad cow") is a children's sliding puzzle game designed by Iris Rossbach and published by Zoch Verlag. The game board features three sliding rails holding the mixed-up heads, bodies, and legs of ten different animals; on each turn, a player makes up to three sliding moves to correctly reassemble a target animal shown on a chit, claiming it to score a point. With ten chits always available above the board and a simplified mode using only five animals for younger players, Mucca Pazza offers a lively and accessible spatial reasoning challenge that plays in just 15 minutes.
+
+upgrades: []

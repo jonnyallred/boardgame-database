@@ -1,0 +1,54 @@
+id: munchkin
+name: "Munchkin"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Take That
+  - Humor
+  - Fantasy
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Humor
+  - Tension
+  - Powerful
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Steve Jackson
+publisher:
+  - Steve Jackson Games
+artist:
+  - John Kovalic
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 10
+
+description: |
+  Munchkin is a humorous card game parody of dungeon-crawling role-playing games, designed by Steve Jackson and illustrated by John Kovalic. Players kick open doors to fight monsters, collect treasures, and level up their characters in a race to reach level 10 first. The game is notorious for its player interaction — anyone can backstab, bribe, or assist fellow players mid-combat — creating chaotic and often hilarious swings of fortune. With dozens of expansions and themed editions, Munchkin has become one of the best-selling card games of all time.
+
+upgrades: []

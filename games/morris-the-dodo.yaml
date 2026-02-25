@@ -1,0 +1,53 @@
+id: morris-the-dodo
+name: "Morris the Dodo"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dexterity
+  - Animals
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Connection
+  - Lucky
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jerome Soleil
+  - Emilie Soleil
+publisher:
+  - Blue Orange
+artist: []
+playtime_minutes: 10
+min_playtime: 10
+max_playtime: 15
+min_age: 3
+
+description: |
+  Morris the Dodo is a cooperative children's dexterity game designed by Jérôme Soleil and Emilie Soleil, published by Blue Orange. Players work together to help Morris the dodo hide his eggs from an explorer by sliding Morris down a waterfall and carefully placing eggs in hidden spots around the board. The simple cooperative premise and tactile sliding mechanic make it an ideal introductory game for very young children, encouraging teamwork and fine motor coordination through lighthearted play.
+
+upgrades: []

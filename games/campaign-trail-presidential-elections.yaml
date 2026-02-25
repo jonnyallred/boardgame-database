@@ -1,0 +1,51 @@
+id: campaign-trail-presidential-elections
+name: "Campaign Trail: The Game of Presidential Elections"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Route Building
+  - Historical
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Persuasion
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Game Designers' Workshop
+publisher:
+  - Game Designers' Workshop
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Campaign Trail: The Game of Presidential Elections is a political strategy board game published by Game Designers' Workshop in 1984. Players take on the roles of presidential candidates, traveling the country to collect votes by moving their tokens across the electoral map of the United States. The goal is to win enough electoral votes to secure the presidency, with players balancing resource management, geographic strategy, and voter outreach. The game supports 2 to 6 players and provides a lively simulation of American presidential campaigning.
+
+upgrades: []

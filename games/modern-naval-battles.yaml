@@ -1,0 +1,53 @@
+id: modern-naval-battles
+name: "Modern Naval Battles"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: modern-naval-battles
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hand Management
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Dan Verssen
+  - Alan Emrich
+publisher:
+  - 3W
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Modern Naval Battles is a card-based naval combat game designed by Dan Verssen and Alan Emrich, published by 3W in 1989. Players use cards representing modern warships and weapons to sink each other's fleets, earning points for each enemy vessel destroyed, with the game ending when a player reaches the required point total or all opposing ships are sunk. The game spawned two expansions: The Campaign Game (a wargame building on the base rules) and The Expansion Kit. The rights have since reverted to designer Dan Verssen, who later reimagined the concept for a modern edition.
+
+upgrades: []

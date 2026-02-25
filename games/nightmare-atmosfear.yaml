@@ -1,0 +1,56 @@
+id: nightmare-atmosfear
+name: "Nightmare"
+alternate_names:
+  - "Atmosfear"
+year: 1991
+
+# Relationships
+game_family: atmosfear
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Press Your Luck
+  - Events
+  - Horror
+  - Party
+
+evokes:
+  - Dread
+  - Tension
+  - Lucky
+  - Humor
+  - Discovery
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Brett Clements
+  - Phillip Tanner
+publisher:
+  - JW Spear and Sons
+artist:
+  - JW Spear and Sons
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 60
+min_age: 15
+
+description: |
+  Nightmare (also known as Atmosfear) is a VHS-driven interactive board game published by A Couple 'A Cowboys/J.W. Spear & Sons in 1991. Players race around the board collecting six keys while being terrorized by the Gatekeeper — a sinister host who appears on the tape at unpredictable intervals to taunt, punish, and direct players. Each player adopts a supernatural persona (werewolf, poltergeist, mummy, zombie, witch, or vampire) and must race against a 60-minute real-time clock to gather their keys and reach the Nightmare in the center. The game became a cult classic of the VHS board game era and launched the broader Atmosfear franchise.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: monkey-palace
+name: "Monkey Palace"
+alternate_names: ["LEGO Monkey Palace"]
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Family
+  - Gateway
+  - Animals
+
+evokes:
+  - Creative
+  - Wonder
+  - Clever
+  - Progress
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - David Gordon
+  - Tin Aung Myaing
+publisher:
+  - Asmodee
+  - LEGO Group
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Monkey Palace is the first jointly developed board game from the LEGO Group and Asmodee, designed by David Gordon and Tin Aung Myaing (TAM) and released at Essen Spiel 2024. Players use real LEGO building elements to collaboratively construct the Monkey Palace on a shared 32x32 plate while simultaneously competing for the highest brick income and points under the watchful Monkey's gaze. The game uniquely combines tactile LEGO building with strategic card play, creating an experience that is simultaneously cooperative and competitive in a jungle-themed setting.
+
+upgrades: []

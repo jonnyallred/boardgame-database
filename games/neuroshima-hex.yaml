@@ -1,0 +1,56 @@
+id: neuroshima-hex
+name: "Neuroshima Hex!"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Hex Map
+  - Asymmetric
+  - Variable Player Powers
+  - Area Control
+  - Wargame
+  - Post-Apocalyptic
+
+evokes:
+  - Rivalry
+  - Tension
+  - Masterful
+  - Powerful
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Michal Oracz
+publisher:
+  - Portal Games
+artist:
+  - Michal Oracz
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 12
+
+description: |
+  Neuroshima Hex! is a fast-paced tactical tile-placement game set in a post-apocalyptic world, designed by Michal Oracz and published by Portal Games. Each of the four asymmetric factions — Borgo, Hegemony, Moloch, and Outpost — is represented by a unique deck of 34 hex tiles. Players place army tiles on a shared hexagonal board, positioning soldiers, support units, and special actions to surround and destroy the enemy HQ, which starts with 20 hit points. The game rewards careful spatial reasoning and faction mastery, and its tight play time and fierce head-to-head battles made it the first Polish board game to achieve major international acclaim.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: momentum
+name: "Momentum"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Dexterity
+  - Area Control
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Momentum Force Game Systems Inc.
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Momentum is a two-player abstract strategy game in which players take turns dropping glass marbles onto a square 7x7 game board. The marble mechanics simulate the physical dynamics of the classic marble game scaled up to a board game format, with players competing to achieve positional dominance and area control. The game rewards spatial awareness and forward planning while delivering a satisfyingly tactile experience through its marble components.
+
+upgrades: []

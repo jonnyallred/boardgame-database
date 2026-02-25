@@ -1,0 +1,54 @@
+id: mow
+name: "Mow"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Take That
+  - Party
+  - Filler
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Laurent Escoffier
+publisher:
+  - Asmodee
+  - Hurrican
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Mow is a simple and fast card game published by Asmodee in which players try to get rid of all their cow cards. The game involves playing cards into a sequence on the table, with cows moving across the board or field in a chain of plays. Players must follow suit or play special action cards, and the first to empty their hand wins. Mow is quick, light, and family-friendly, making it a popular filler game in the Asmodee catalog.
+
+upgrades: []

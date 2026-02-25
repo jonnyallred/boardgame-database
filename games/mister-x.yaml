@@ -1,0 +1,52 @@
+id: mister-x
+name: "Mister X"
+alternate_names: ["Mister X: Flucht durch Europa"]
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hidden Movement
+  - 1 vs Many
+  - Deduction
+  - Family
+  - Mystery
+
+evokes:
+  - Tension
+  - Mystery
+  - Rivalry
+  - Agency
+  - Dread
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Mister X is a 2009 hidden movement board game published by Ravensburger and a modernized successor to the classic Scotland Yard, shifting the fugitive's chase from the streets of London to the whole continent of Europe. One player takes on the role of the elusive criminal Mister X while the remaining players control detectives attempting to track him down. New gameplay mechanics give both Mister X additional tricks for evasion and the detectives new tools for pursuit, including knowledge of Mr. X's intended destination. The game retains the asymmetric tension that made Scotland Yard a Spiel des Jahres winner, refreshed with a continental scale.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: moruba
+name: "Moruba"
+alternate_names: ["Maruba"]
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 7
+
+description: |
+  Moruba (also spelled Maruba) is a traditional mancala game played by the Pedi people in the South African provinces of Limpopo and Mpumalanga. The game is played on a four-row board with 12 holes per side and was historically a social activity for men, used to strategize about community affairs and wartime planning. Like other mancala variants, players capture stones from the opponent's rows, with the player who still has stones when the opponent is depleted winning the game. Moruba remains an important piece of South African cultural heritage and is recognized in the country's national Indigenous Games program.
+
+upgrades: []

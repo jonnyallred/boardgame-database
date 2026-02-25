@@ -1,0 +1,57 @@
+id: mission-red-planet
+name: "Mission: Red Planet"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Simultaneous Action
+  - Hand Management
+  - Euro
+  - Steampunk
+  - Space
+  - Bruno Cathala
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Bruno Cathala
+  - Bruno Faidutti
+publisher:
+  - Matagot
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Mission: Red Planet is a steampunk-themed area control game designed by Bruno Cathala and Bruno Faidutti, originally published by Matagot in 2005. Players control Victorian-era mining corporations racing to exploit the mineral ores and ice deposits of Mars. On each round, all players simultaneously choose one of nine astronaut role cards that dictate special actions and launch order, sending rockets and personnel to colonize Martian territories. Controlling the most resource-rich zones at game end determines victory. The game is celebrated for its elegant simultaneous action selection combined with tense area majority scoring.
+
+upgrades: []

@@ -1,0 +1,58 @@
+id: nauticus
+name: "Nauticus"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Action Points
+  - Set Collection
+  - Tile Placement
+  - Modular Board
+  - Euro
+  - Maritime
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - KOSMOS
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Nauticus is a shipbuilding and trading game designed by Wolfgang Kramer and Michael Kiesling, published by KOSMOS in 2013. Players take on the roles of wealthy shipbuilders, constructing sailing vessels by adding masts and sails across five rounds, then loading those ships with goods to score points. Each round comprises seven action phases during which players select from a shared set of actions, competing to take the most valuable options first. The familiar Kramer/Kiesling pedigree shows in its clean action-drafting structure and accessible mid-weight play suited to hobby gamers and families alike.
+
+upgrades: []

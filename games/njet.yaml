@@ -1,0 +1,55 @@
+id: njet
+name: "Njet!"
+alternate_names:
+  - "Nyet!"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Hand Management
+  - Teams
+  - Filler
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+  - Humor
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [4]
+
+designer:
+  - Stefan Dorra
+publisher:
+  - IELLO
+artist:
+  - Biboun
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Njet! is a trick-taking card game designed by Stefan Dorra, published in updated form by IELLO in 2013 (originally 1997 by Goldsieber). Before each round, players take turns eliminating options on a negotiation grid, collectively determining the trump suit, starting player, pass direction, and value of tricks for that hand, with eliminated options having no effect. This setup phase creates fascinating pre-game negotiation that sets Njet! apart from conventional trick-takers. The game supports 2–5 players with a variable partnership dynamic and delivers sharp, replayable sessions.
+
+upgrades: []

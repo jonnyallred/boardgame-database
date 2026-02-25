@@ -1,0 +1,50 @@
+id: mixtour
+name: "Mixtour"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dieter Stein
+publisher:
+  - spielstein
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Mixtour is a two-player abstract stacking game designed by Dieter Stein, born out of a stacking game design contest in the rec.games.abstract newsgroup around 2010-2011. Starting with an empty board, players alternately enter new pieces and move existing stacks, with movement range determined by the height of the target stack rather than the moving piece. The goal is to build a stack of five or more pieces with your own color on top — but opponents' pieces can also be moved, so towers become cooperative constructions of both colors. The game was recognized by the Spiel des Jahres organization. It is published by Stein's own spielstein label.
+
+upgrades: []

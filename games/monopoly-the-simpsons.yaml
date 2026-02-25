@@ -1,0 +1,52 @@
+id: monopoly-the-simpsons
+name: "Monopoly: The Simpsons"
+alternate_names: ["The Simpsons Monopoly"]
+year: 2001
+
+# Relationships
+game_family: monopoly
+edition: null
+base_game: monopoly
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Trading
+  - Economic
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Hasbro
+  - USAopoly
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 240
+min_age: 8
+
+description: |
+  Monopoly: The Simpsons is a licensed edition of Monopoly based on the long-running Fox animated television series, replacing properties with Springfield locations and characters. Players buy famous spots from the show like Moe's Tavern, the Kwik-E-Mart, and Springfield Elementary, using tokens modeled on iconic Simpsons characters. All standard Monopoly rules apply, with Chance and Community Chest cards replaced with Springfield-themed event cards. The game is a popular collectible for fans of the series and the classic board game franchise.
+
+upgrades: []

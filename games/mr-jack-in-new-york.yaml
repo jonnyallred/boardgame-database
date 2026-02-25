@@ -1,0 +1,56 @@
+id: mr-jack-in-new-york
+name: "Mr. Jack in New York"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: mr-jack
+edition: null
+base_game: mr-jack
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hidden Movement
+  - Deduction
+  - 1 vs Many
+  - Asymmetric
+  - Mystery
+  - Bruno Cathala
+
+evokes:
+  - Tension
+  - Mystery
+  - Rivalry
+  - Clever
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Bruno Cathala
+  - Ludovic Maublanc
+publisher:
+  - Hurrican
+  - Asmodee
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 14
+
+description: |
+  Mr. Jack in New York is a standalone sequel to the acclaimed two-player deduction game Mr. Jack, designed by Bruno Cathala and Ludovic Maublanc and published by Hurrican in 2012. One player controls Jack the Ripper hiding among suspects in Manhattan, trying to escape while the other player controls the detective and their assistants hunting him down. The Manhattan setting introduces gaslights and manholes as moveable pawns, and the board is constructed dynamically from decor tiles placed by players, meaning a blocked route can suddenly open or close during play. Though more complex than the original and recommended for players familiar with Mr. Jack, it offers greater strategic depth.
+
+upgrades: []

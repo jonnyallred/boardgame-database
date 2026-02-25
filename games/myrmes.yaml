@@ -1,0 +1,55 @@
+id: myrmes
+name: "Myrmes"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Resource Management
+  - Action Points
+  - Euro
+  - Animals
+  - Nature
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Yoann Levet
+publisher:
+  - Rio Grande Games
+artist:
+  - Arnaud Demaegd
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Myrmes is a deeply strategic worker-placement game by Yoann Levet, published by Ystari/Rio Grande Games in 2012, in which players manage competing ant colonies. The game takes place over three years divided into seasons, with dice rolled at the start of each year determining seasonal events that shape the strategic landscape. Players develop their colony on individual boards — breeding nurses, soldiers, and workers — then send foragers into a shared outdoor board to gather resources, lay pheromones, fight insects, and claim tiles. The tension between colony development and external competition makes Myrmes a demanding but rewarding puzzle for experienced gamers, winner of the 2012 Tric Trac Gold Award.
+
+upgrades: []

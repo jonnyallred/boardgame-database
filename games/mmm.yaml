@@ -1,0 +1,54 @@
+id: mmm
+name: "Mmm!"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Press Your Luck
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Dread
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Ravensbuger
+  - Goodwin Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Mmm! is a cooperative press-your-luck dice game designed by Reiner Knizia for one to six players, in which the players take the roles of mice sneaking into the Smith family's pantry to eat their food before being caught by the family cat. Players cooperate to collect food tokens by rolling dice while managing the risk that each additional roll might awaken the cat and end the raid. The simple mechanics and low age requirement make it an ideal first cooperative game for young children, combining playful suspense with easy-to-learn rules.
+
+upgrades: []

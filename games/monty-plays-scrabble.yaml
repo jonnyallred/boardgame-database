@@ -1,0 +1,50 @@
+id: monty-plays-scrabble
+name: "Monty Plays Scrabble"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer: []
+publisher:
+  - Ritam
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 10
+
+description: |
+  Monty Plays Scrabble is a 1982/1983 computer program by Ritam Corporation that allows up to four players to play the official Scrabble board game against a computer opponent named Monty. Officially licensed by Selchow and Righter (Scrabble's trademark holder), the program runs on TRS-80 and various home computers and requires a physical Scrabble board to be kept synchronized with the on-screen display. The game features four skill levels including Novice, Intermediate, Advanced, and Scholar, with Monty's thinking time increasing significantly at higher difficulties. It was later licensed to Leisure Genius for computer versions and is notable as one of the earliest commercially available computer Scrabble opponents.
+
+upgrades: []

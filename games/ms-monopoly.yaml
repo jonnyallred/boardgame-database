@@ -1,0 +1,52 @@
+id: ms-monopoly
+name: "Ms. Monopoly"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: monopoly
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Progress
+  - Tension
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Hasbro
+publisher:
+  - Hasbro
+artist:
+  - Hasbro
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+description: |
+  Ms. Monopoly is a 2019 Hasbro variant of the classic Monopoly franchise that celebrates women inventors and entrepreneurs. Instead of real estate, players buy inventions credited to women throughout history — such as WiFi, chocolate chip cookies, and Kevlar. Female players start with more money ($1,900 vs. $1,500) and collect a higher salary when passing Go ($240 vs. $200). Buildings are replaced with "headquarters," and gameplay otherwise follows familiar Monopoly mechanics with dice rolling, Chance and Community Chest cards. The game was released to media attention due to its uneven starting conditions intended as social commentary.
+
+upgrades: []

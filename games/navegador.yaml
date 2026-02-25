@@ -1,0 +1,57 @@
+id: navegador
+name: "Navegador"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Rondel
+  - Economic
+  - Route Building
+  - Resource Management
+  - Euro
+  - Historical
+  - Maritime
+  - Mac Gerdts
+
+evokes:
+  - Clever
+  - Progress
+  - Masterful
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Mac Gerdts
+publisher:
+  - Rio Grande Games
+artist:
+  - Mac Gerdts
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  Navegador is an economic strategy game by Mac Gerdts set during the Golden Age of Portuguese Exploration, published by PD-Verlag and Rio Grande Games in 2010. Players take on the role of Portuguese merchant families, sailing to new colonies, building factories, acquiring privileges, and trading goods across an expanding map. The game's signature mechanism is the rondel — a circular action wheel shared by all players — where each player moves their token up to three spaces for free, paying ships for additional movement. The tension between action efficiency and keeping pace with rivals makes Navegador one of the most refined entries in Gerdts' acclaimed rondel series.
+
+upgrades: []

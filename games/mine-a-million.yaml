@@ -1,0 +1,54 @@
+id: mine-a-million
+name: "Mine a Million"
+alternate_names: ["The Business Game"]
+year: 1965
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Dice Rolling
+  - Trading
+  - Route Building
+  - Family
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Peter Bergner
+  - Philip Bergner
+publisher:
+  - Waddingtons
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Mine a Million (also sold as The Business Game) is an economic simulation board game designed by Peter and Philip Bergner and published by Waddingtons in 1965. Set in a developing country where all transport must travel fully loaded — a rule imposed by the Minister for Transport — players manage tin mines, rolling dice to produce ore and then subcontracting transport to get it to Newport warehouse where it can be sold. The goal is to be the first player to accumulate a million pounds in profit, requiring careful management of production capacity, logistics, and the transport subcontracting system.
+
+upgrades: []

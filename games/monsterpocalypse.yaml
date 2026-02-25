@@ -1,0 +1,53 @@
+id: monsterpocalypse
+name: "Monsterpocalypse"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dudes on a Map
+  - Dice Rolling
+  - Area Control
+  - Asymmetric
+  - Sci-Fi
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Humor
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Privateer Press
+publisher:
+  - Privateer Press
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Monsterpocalypse is a Kaiju-themed skirmish miniatures game published by Privateer Press, originally released in 2008 as a collectible game before transitioning to a non-collectible format. Players control giant monsters and their supporting units battling across city boards, knocking each other through buildings and vying for power points. Each monster faction has a unique playstyle and power set, creating asymmetric matchups. The game later partnered with Mythic Games for a big-box board game edition that maintained full compatibility with existing miniatures, though that crowdfunding project encountered fulfillment difficulties.
+
+upgrades: []

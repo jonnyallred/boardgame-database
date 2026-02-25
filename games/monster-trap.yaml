@@ -1,0 +1,52 @@
+id: monster-trap
+name: "Monster Trap"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dexterity
+  - Family
+
+evokes:
+  - Tension
+  - Connection
+  - Humor
+  - Lucky
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Markus Brand
+  - Inka Brand
+publisher:
+  - 999 Games
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 25
+min_age: 5
+
+description: |
+  Monster Trap is a cooperative dexterity children's game designed by Markus Brand and Inka Brand, published by 999 Games in 2011 and also distributed through Thames & Kosmos. Players work together, each controlling a set of sliders — one player handles vertical movement, another horizontal — to push a monster piece along the corridors of a mansion toward the central trap. The cooperative split of controls makes communication and coordination essential, creating a fun challenge for young players while promoting teamwork and fine motor skills.
+
+upgrades: []

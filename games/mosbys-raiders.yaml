@@ -1,0 +1,52 @@
+id: mosbys-raiders
+name: "Mosby's Raiders"
+alternate_names: ["Mosby's Raiders: Guerrilla Warfare in the Civil War"]
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Puzzle Solving
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Dread
+  - Discovery
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Eric Lee Smith
+publisher:
+  - Victory Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Mosby's Raiders is a solitaire board wargame designed by Eric Lee Smith and published by Victory Games (an Avalon Hill subsidiary) in 1985, based on the Confederate partisan operations of Colonel John S. Mosby during the American Civil War. The solo player assumes the role of Mosby, selecting targets for raids against Federal supply depots, rail lines, and bridges in Northern Virginia's "Mosby's Confederacy" between 1862 and 1864. The game captures the asymmetric nature of guerrilla warfare, with the player using small, mobile forces to maximize disruption against a larger conventional enemy.
+
+upgrades: []

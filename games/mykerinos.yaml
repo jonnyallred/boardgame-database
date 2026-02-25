@@ -1,0 +1,55 @@
+id: mykerinos
+name: "Mykerinos"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Set Collection
+  - Worker Placement
+  - Euro
+  - Ancient
+  - Historical
+
+evokes:
+  - Rivalry
+  - Clever
+  - Agency
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Nicolas Oury
+publisher:
+  - Rio Grande Games
+artist:
+  - Jean-Louis Mourlevat
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Mykerinos is an area-control game by Nicolas Oury, published by Ystari Games and Rio Grande Games in 2006. Players take on the roles of archaeologists in ancient Egypt competing to excavate relics and secure the patronage of powerful benefactors for a final museum exhibition. Each round players place workers on a 5×5 excavation grid of cards representing different artifacts, with the player holding the majority in each row or column claiming that site's cards at round end. Patrons provide special scoring bonuses or action powers, rewarding thoughtful alignment of excavation strategy with the right sponsor, across a tight and engaging four-round game.
+
+upgrades: []

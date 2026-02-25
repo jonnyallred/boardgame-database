@@ -1,0 +1,52 @@
+id: mighty-warriors
+name: "Mighty Warriors"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dungeon Crawler
+  - Dice Rolling
+  - Fantasy
+  - Wargame
+
+evokes:
+  - Discovery
+  - Powerful
+  - Tension
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Games Workshop
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Mighty Warriors is an adventure board game published by Games Workshop in 1991, set in the Warhammer Fantasy universe. Players explore randomly generated dungeons and battle randomly generated monsters in a dungeon-crawl format. The game allows heroes to level up and acquire equipment as they delve deeper, providing a narrative adventure experience in the classic Warhammer aesthetic of grimdark fantasy. Though less well-known than Games Workshop's more prominent releases, it represents an accessible entry point to the Warhammer Fantasy world.
+
+upgrades: []

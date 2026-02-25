@@ -1,0 +1,55 @@
+id: next-station-london
+name: "Next Station: London"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Network Building
+  - Pattern Building
+  - Simultaneous Action
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Agency
+  - Progress
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Matthew Dunstan
+publisher:
+  - Blue Orange Games
+artist:
+  - Evan Lapic
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+description: |
+  Next Station: London is a flip-and-write route-building game by Matthew Dunstan, published by Blue Orange Games in 2022. Players redesign London's Underground network across four colored lines, flipping cards to determine which station symbol they must connect to next on their personal map. Tracks cannot cross except through stations, creating satisfying spatial puzzles as players try to serve the most boroughs, connect tourist sites, and share stations across multiple lines. With a 25-minute play time, colorful pencil-drawing gameplay, and intuitive rules, it became a hit family game praised for its balance of accessibility and replayability.
+
+upgrades: []

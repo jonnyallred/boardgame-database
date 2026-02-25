@@ -1,0 +1,55 @@
+id: napoleon-in-europe
+name: "Napoleon in Europe"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Negotiation
+  - Historical
+  - War
+  - Dudes on a Map
+
+evokes:
+  - Powerful
+  - Agency
+  - Rivalry
+  - Masterful
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [5, 6, 7]
+
+designer:
+  - Eagle-Gryphon Games
+publisher:
+  - Eagle-Gryphon Games
+artist:
+  - Eagle Games
+playtime_minutes: 480
+min_playtime: 360
+max_playtime: 720
+min_age: 14
+
+description: |
+  Napoleon in Europe is a grand strategy board game published by Eagle Games in 2001, simulating the Napoleonic Wars across the whole of Europe with up to seven players each controlling a major power — France, Great Britain, Russia, Austria, Prussia, Spain, or the Ottoman Empire. Players build armies using plastic 1/72-scale miniatures and engage in tactical battles featuring infantry, cavalry, and artillery, while also managing economics, diplomacy, and alliances. Each turn represents a month, making the game an epic undertaking that combines military, economic, and political simulation in a sprawling multi-player experience.
+
+upgrades: []

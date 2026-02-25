@@ -1,0 +1,57 @@
+id: nova-luna
+name: "Nova Luna"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Pattern Building
+  - Set Collection
+  - Abstract
+  - Euro
+  - Family
+  - Uwe Rosenberg
+
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Uwe Rosenberg
+  - Corne van Moorsel
+publisher:
+  - Edition Spielwiese
+artist:
+  - Lukas Siegmon
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Nova Luna is a serene yet deeply tactical tile-placement game co-designed by Uwe Rosenberg (inspired by Corné van Moorsel's Habitats), published by Edition Spielwiese in 2019. Players select lunar tiles from a circular moon wheel using a time-track turn order mechanism — the player furthest behind always goes next, and each tile shows how far it advances your marker. Tiles must be placed adjacently and each carries color-coded tasks requiring neighboring tiles of specific colors to complete; finishing a task lets you place one of your scoring discs. The first player to place all their discs wins, making it a race game wrapped in a meditative tile puzzle.
+
+upgrades: []

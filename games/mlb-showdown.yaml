@@ -1,0 +1,51 @@
+id: mlb-showdown
+name: "MLB Showdown"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Dice Rolling
+  - Racing
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Clever
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Wizards of the Coast
+publisher:
+  - Wizards of the Coast
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  MLB Showdown is an out-of-print collectible card game published by Wizards of the Coast from 2000 to 2005, simulating authentic Major League Baseball play. Players build teams from cards representing real MLB players, using a 20-sided die alongside pitcher and batter cards to resolve at-bats, advancing runners around the bases toward scoring. Each starter deck included two 12-card teams, strategy cards, a 20-sided die, and an official baseball diamond playmat. Named Card Trade Magazine's 2000 CCG of the Year, MLB Showdown was the first major licensed sports collectible card game and found an audience among both baseball fans and card game enthusiasts before its cancellation in 2006.
+
+upgrades: []

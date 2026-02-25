@@ -1,0 +1,57 @@
+id: mexica
+name: "Mexica"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: mask-trilogy
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Action Points
+  - Tile Placement
+  - Euro
+  - Ancient
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+evokes:
+  - Agency
+  - Clever
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - Ravensburger
+  - Rio Grande Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Mexica is the third game in Wolfgang Kramer and Michael Kiesling's Mask Trilogy, following Tikal and Java, published in 2002. Set in ancient Tenochtitlan, players take on the roles of Aztec architects competing to partition and develop the city built on Lake Texcoco. Players use action points to construct canals that divide the city into districts, place buildings to develop those districts, and score influence when districts are completed. Unlike traditional area control games, players in Mexica must actively create the contested regions before fighting over them. The game placed 5th in the 2002 Deutscher Spiele Preis.
+
+upgrades: []

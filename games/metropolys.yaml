@@ -1,0 +1,54 @@
+id: metropolys
+name: "Metropolys"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Area Control
+  - City Building
+  - Euro
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Sébastien Pauchon
+publisher:
+  - Ystari Games
+  - Rio Grande Games
+artist:
+  - Mathieu Leyssenne
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Metropolys is an urban planning strategy game designed by Sébastien Pauchon and published by Ystari Games in 2008. Players act as rival urban developers competing to build the most prestigious skyscrapers in the city of Metropolys, divided into housing, park, leisure, industrial, and administrative districts. On each turn, a player places a building with a visible value; to outbid, the next player must place a higher-valued building in an adjacent district, creating a geographical auction that spreads around the board. Players must manage their hand of building tokens carefully, balancing secret personal objectives against area control goals.
+
+upgrades: []

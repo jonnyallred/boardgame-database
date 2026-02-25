@@ -1,0 +1,56 @@
+id: newton
+name: "Newton"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Tableau Building
+  - Tech Tree
+  - Action Points
+  - Euro
+  - Historical
+
+evokes:
+  - Clever
+  - Progress
+  - Masterful
+  - Agency
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Simone Luciani
+  - Nestore Mangone
+publisher:
+  - Cranio Creations
+artist:
+  - Gio Lahtinen
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Newton is a hand-management and tableau-building game by Simone Luciani and Nestore Mangone, published by Cranio Creations in 2018. Players take on roles of young scientists traveling through 17th-century Europe, playing five cards each round to trigger actions such as movement, book acquisition, and laboratory advancement. The twist: at the end of each round, one of the five played cards is permanently retained in the player's book collection rather than returned to hand, boosting that action's future power but permanently reducing hand flexibility. Over six rounds, players build an increasingly potent engine, competing across tracks for scholarly prestige and end-game bonuses.
+
+upgrades: []

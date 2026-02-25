@@ -1,0 +1,52 @@
+id: mr-president
+name: "Mr. President"
+alternate_names: ["Mr. President: The American Presidency, 2001-2020"]
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 0  # Solitary
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Events
+  - Puzzle Solving
+  - Historical
+
+evokes:
+  - Agency
+  - Tension
+  - Dread
+  - Masterful
+  - Powerful
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Gene Billingsley
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 600
+min_age: 16
+
+description: |
+  Mr. President is a sprawling solitaire board game published by GMT Games in 2023, in which the player takes the role of the President of the United States navigating the complex challenges of governing in the early 21st century. This is not an election game — it begins after the election, focusing on resource management, domestic politics, foreign policy, and crisis response. The player must prioritize a limited action budget to advance their agenda against a never-ending stream of unpredictable events and crises. The game comes in a massive box with multiple mounted game boards, extensive rulebooks, and hundreds of components, making it one of the most ambitious solitaire experiences in modern board gaming.
+
+upgrades: []

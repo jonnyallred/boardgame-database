@@ -1,0 +1,54 @@
+id: napoleon-at-bay
+name: "Napoleon at Bay"
+alternate_names:
+  - "Napoleon at Bay: Prelude to Waterloo"
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kevin Zucker
+publisher:
+  - Operational Studies Group
+artist:
+  - Kevin Zucker
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Napoleon at Bay is an operational-level two-player board wargame by Kevin Zucker, published by Tactical Studies Group (later Operational Studies Group) in 1978, simulating the 1814 Campaign in France — Napoleon's desperate defensive campaign as Allied armies converged on Paris. The game uses Zucker's own rule system developed after his tenure at SPI, covering operational movement, supply, and combat across a hex-based map. It was a finalist for the 1979 Origins Awards Charles S. Roberts Award for Best Pre-Twentieth Century Game, and became a foundational title in the Operational Studies Group Napoleonic wargame catalog.
+
+upgrades: []

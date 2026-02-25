@@ -1,0 +1,53 @@
+id: bushido-game
+name: "Bushido"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 4  # Fierce
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Dice Rolling
+  - Hand Management
+  - Abstract
+  - Medieval
+
+evokes:
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Grey Fox Games
+publisher:
+  - Grey Fox Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 14
+
+description: |
+  Bushido is a two-player dueling board game published by Grey Fox Games in which players take on the roles of samurai warriors competing through a system of card drafting and dice mechanics. During the training phase, players draft technique cards from five schools — Earth, Fire, Wind, Water, and Shadow — before arming for combat and then engaging in a simultaneous duel. Players attack and defend using dice and special tokens, playing technique cards or changing guard to gain advantage, with victory going to the fighter who reduces their opponent to zero health first. The game captures the tension of martial arts philosophy and the disciplined craft of the samurai duel.
+
+upgrades: []

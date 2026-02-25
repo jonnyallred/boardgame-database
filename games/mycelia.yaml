@@ -1,0 +1,55 @@
+id: mycelia
+name: "Mycelia"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Action Points
+  - Variable Player Powers
+  - Euro
+  - Nature
+  - Animals
+
+evokes:
+  - Wonder
+  - Clever
+  - Progress
+  - Discovery
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - J.J. Neville
+publisher:
+  - Split Stone Games
+artist:
+  - J.J. Neville
+playtime_minutes: 60
+min_playtime: 40
+max_playtime: 90
+min_age: 10
+
+description: |
+  Mycelia is a tactical tile-placement game designed and illustrated by J.J. Neville, published by Split Stone Games in 2023. Players guide the lifecycle of fungi through six possible actions per turn — move, spore, explore, fruit, discover, and decay — placing mushroom tiles to grow their mycelial network across a shared board. The artwork features botanically accurate depictions of over 69 real mushroom species, creating an educational dimension alongside the gameplay. Scoring rewards players for fruiting mushrooms, expanding their network, and using decay actions to unlock powerful special effects, resulting in a medium-weight game with strong thematic integration.
+
+upgrades: []

@@ -1,0 +1,58 @@
+id: mystery-of-the-abbey
+name: "Mystery of the Abbey"
+alternate_names:
+  - "Mystere a l'Abbaye"
+  - "Meurtre a l'Abbaye"
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Puzzle Solving
+  - Hand Management
+  - Mystery
+  - Medieval
+  - Days of Wonder
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Discovery
+  - Humor
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Bruno Faidutti
+  - Serge Laget
+publisher:
+  - Days of Wonder
+artist:
+  - Julien Delval
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 10
+
+description: |
+  Mystery of the Abbey is a deduction game by Bruno Faidutti and Serge Laget, republished by Days of Wonder in 2003 (originally 1998 as Meurtre à l'Abbaye). Players move through the rooms of a medieval monastery, questioning fellow monk-players about cards in their hands to eliminate suspects from a murder investigation, evoking the spirit of Umberto Eco's The Name of the Rose. Unlike traditional Cluedo, questioning is open and interactive — what you reveal is as important as what you learn. Card events shake up play periodically, keeping the game lively and unpredictable across its engaging 75-minute runtime.
+
+upgrades: []

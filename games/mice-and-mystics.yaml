@@ -1,0 +1,58 @@
+id: mice-and-mystics
+name: "Mice and Mystics"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Modular Board
+  - Variable Player Powers
+  - Dice Rolling
+  - Narrative Heavy
+  - Campaign Mode
+  - Dungeon Crawler
+  - Fantasy
+  - Animals
+  - Plaid Hat Games
+
+evokes:
+  - Discovery
+  - Wonder
+  - Connection
+  - Progress
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jerry Hawthorne
+publisher:
+  - Plaid Hat Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 7
+
+description: |
+  Mice and Mystics is a cooperative dungeon-crawling adventure game designed by Jerry Hawthorne and published by Plaid Hat Games in 2012. Players take on the roles of royal heroes magically transformed into mice, fighting their way through a corrupted castle on a quest to save their king from the evil sorceress Vanessa. The game weaves together storybook narration with tactical dice-based combat, character progression, and modular tile-based boards, with six unique mouse heroes possessing distinct abilities. It is especially beloved for its imaginative theme, accessibility for family play, and chapter-by-chapter story that unfolds across multiple sessions.
+
+upgrades: []

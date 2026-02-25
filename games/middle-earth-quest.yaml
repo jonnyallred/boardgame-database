@@ -1,0 +1,58 @@
+id: middle-earth-quest
+name: "Middle-Earth Quest"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Variable Player Powers
+  - Hand Management
+  - Narrative Heavy
+  - Fantasy
+  - Lord of the Rings
+  - Dungeon Crawler
+  - Corey Konieczka
+  - Fantasy Flight Games
+
+evokes:
+  - Discovery
+  - Tension
+  - Dread
+  - Powerful
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Corey Konieczka
+  - Christian T. Petersen
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 13
+
+description: |
+  Middle-Earth Quest is a 1-versus-many board game designed by Corey Konieczka and published by Fantasy Flight Games in 2009. Set during the seventeen years between Bilbo's birthday party and the Ring's departure from the Shire, one player controls Sauron who deploys minions and plots across Middle-earth, while up to three other players take on hero characters who must thwart Sauron's plans through dangerous quests and consultations with iconic Tolkien characters. The game features card-based movement and combat that blend luck and strategy, with heroes gaining experience and equipment as they race to prevent Sauron from completing his nefarious schemes before Gandalf's plans mature.
+
+upgrades: []

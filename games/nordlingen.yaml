@@ -1,0 +1,55 @@
+id: nordlingen
+name: "Nordlingen"
+alternate_names:
+  - "Nordlingen: 6 September 1634"
+year: 1976
+
+# Relationships
+game_family: thirty-years-war
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Brad Hessel
+  - Greg Costikyan
+publisher:
+  - Decision Games
+artist:
+  - Redmond Simonsen
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Nordlingen is a tactical hex-and-counter wargame originally published by Simulations Publications Inc. (SPI) in 1976, simulating the Battle of Nordlingen on September 6, 1634, during the Thirty Years' War — when Imperialist and Spanish forces decisively defeated the Swedish army. Originally one of four scenarios in SPI's Thirty Years War quadrigame, Nordlingen was also released as a standalone game and was considered by many critics the best of the four scenarios. The battle's terrain — featuring eight major hills, woods, and multiple towns — creates a rich tactical puzzle on the map that the game is particularly praised for.
+
+upgrades: []

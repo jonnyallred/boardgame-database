@@ -1,0 +1,57 @@
+id: napoleon-at-war-four-battles
+name: "Napoleon at War: Four Battles"
+alternate_names:
+  - "Napoleon at War"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - David Isby
+  - Tom Walczyk
+  - Irad Hardy
+  - Edward Curran
+publisher:
+  - Decision Games
+artist:
+  - Redmond Simonsen
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Napoleon at War: Four Battles is a SPI quadrigame published in 1975, containing four separate hex-and-counter wargames covering key Napoleonic battles: Marengo (1800), Jena-Auerstadt (1806), Wagram (1809), and the Battle of Nations at Leipzig (1813). Each game has its own designer but shares a common rules framework, allowing players to experience Napoleon's campaigns across different eras of the Napoleonic Wars. The quadrigame format, pioneered by SPI in the 1970s, made it possible to own four complete wargames in one box, making this series influential in the history of hobby wargaming.
+
+upgrades: []

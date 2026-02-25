@@ -1,0 +1,53 @@
+id: monster-my-neighbor
+name: "Monster My Neighbor"
+alternate_names: ["Monster My Neighbour"]
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Deduction
+  - Social Deduction
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Mystery
+  - Clever
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [5, 6, 7]
+
+designer:
+  - Pesu Nabeno
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Monster My Neighbor is a bluffing and deduction card game published by Z-Man Games in 2015, designed by Pesu Nabeno. Players secretly hold identity cards identifying them as either a human or a hidden monster, and use voting and deduction mechanics to figure out which neighbors are actually monsters in disguise. The game combines lighthearted social deduction with short, snappy rounds, making it an accessible filler for mixed groups of adults and older children. Multiple international publishers including dV Giochi and Filosofia Editions distributed regional editions of the game.
+
+upgrades: []

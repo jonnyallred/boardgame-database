@@ -1,0 +1,52 @@
+id: mole-in-the-hole
+name: "Mole in the Hole"
+alternate_names: ["The Mole in the Hole"]
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Animals
+
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Virginia Charves
+  - Bertram Kaes
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 4
+
+description: |
+  Mole in the Hole (also known as The Mole in the Hole) is a children's board game designed by Virginia Charves and Bertram Kaes, published by Ravensburger in 1995. The multi-layered board features four stacked boards, each with holes leading down to the next level, growing fewer with each descent. Players use numbered cards to move their moles toward holes, with each mole that fails to reach a hole before a board is removed being eliminated. The winner is the mole that burrows all the way down to discover the Golden Shovel at the deepest level. The game won Children's Game of the Year in both Finland and Sweden in 1995.
+
+upgrades: []

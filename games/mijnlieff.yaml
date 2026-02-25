@@ -1,0 +1,50 @@
+id: mijnlieff
+name: "Mijnlieff"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Andy Hopwood
+publisher:
+  - Hopwood Games
+artist: []
+playtime_minutes: 5
+min_playtime: 5
+max_playtime: 15
+min_age: 8
+
+description: |
+  Mijnlieff is a two-player abstract strategy game designed by Andy Hopwood and published by Hopwood Games, winner of the Best Abstract Game at the UK Games Expo 2010. Players take turns placing tiles on a 4x4 grid, with each tile type constraining where the opponent must play next — Pullers force adjacent placement, Pushers require placement further away, Straights restrict movement to orthogonal spaces, and Diagonals to diagonal ones. The goal is to form a line of three of your own pieces, but mastering the constraint mechanic adds a remarkable depth to what appear to be very simple rules.
+
+upgrades: []

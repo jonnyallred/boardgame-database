@@ -9346,3 +9346,31 @@ entries:
     game_id: knight-of-justice
     url: "https://www.wikidata.org/wiki/Q28195081"
     description: "Game information page — wikidata.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: microworld
+    url: "https://www.nobleknight.com/P/2147909421/Microworld"
+    description: "Game information page — nobleknight.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: middle-earth
+    url: "https://en.wikipedia.org/wiki/Middle_Earth_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: middle-passage
+    url: "https://mrkatz.weebly.com/middle-passage-board-game.html"
+    description: "Game information page — mrkatz.weebly.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: mississippi
+    url: "https://www.wikidata.org/wiki/Q84815492"
+    description: "Game information page — wikidata.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: mister-x
+    url: "https://boardgame.tips/mister-x"
+    description: "Game information page — boardgame.tips"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: monty-plays-scrabble
+    url: "https://boardgameguys.com/mindtrap/"
+    description: "Game information page — boardgameguys.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: missa-lahjat
+    url: "https://www.wikidata.org/wiki/Q11883025"
+    description: "Game information page — wikidata.org"

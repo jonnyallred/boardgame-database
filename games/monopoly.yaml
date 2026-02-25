@@ -1,0 +1,56 @@
+id: monopoly
+name: "Monopoly"
+alternate_names: []
+year: 1935
+
+# Relationships
+game_family: monopoly
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Trading
+  - Negotiation
+  - Economic
+  - Take That
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Persuasion
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5]
+
+designer:
+  - Charles Darrow
+  - Lizzie Magie
+publisher:
+  - Hasbro
+  - Parker Brothers
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 240
+min_age: 8
+
+description: |
+  Monopoly is one of the world's most famous and commercially successful board games, published by Parker Brothers (now Hasbro) since 1935, derived from Lizzie Magie's The Landlord's Game of 1903. Players move around the board buying properties, building houses and hotels, and collecting rent from opponents who land on their holdings, with the goal of driving all other players to bankruptcy. Chance and Community Chest cards introduce random events, while trading and negotiation between players create dynamic deals. Though widely criticized by game designers for its luck-heavy mechanics and elimination, Monopoly remains a global cultural institution with hundreds of licensed editions.
+
+upgrades: []

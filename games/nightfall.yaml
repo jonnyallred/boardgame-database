@@ -1,0 +1,57 @@
+id: nightfall
+name: "Nightfall"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Drafting
+  - Card Drafting
+  - Hand Management
+  - Take That
+  - Horror
+  - Fantasy
+  - Vampires
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Lucky
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - David Gregg
+publisher:
+  - Renegade Game Studios
+artist:
+  - Rk Post
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 13
+
+description: |
+  Nightfall is a competitive deck-building card game designed by David Gregg and published by Alderac Entertainment Group (AEG) in 2011. Players marshall vampires, werewolves, and ghouls in a dark urban setting, aiming to fill opponents' decks with wound cards — the player with the fewest wounds when the deck runs out wins. Nightfall introduces a unique chaining system where cards can be sequentially linked if their colors match, triggering powerful combos within a single turn. A pre-game draft determines which card types are available each session, ensuring variety and strategic depth across plays.
+
+upgrades: []

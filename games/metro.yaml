@@ -1,0 +1,53 @@
+id: metro
+name: "Metro"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Network Building
+  - Route Building
+  - Euro
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Dirk Henn
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Metro is a tile-placement game designed by Dirk Henn and published by Queen Games in 2000, set during the construction of the Paris Metro for the 1900 World's Fair. Players take turns placing track tiles on a 10x10 grid to extend underground rail lines, with each player assigned stations on the board's edge. Connecting lines to the central main stations earns double points, and the player whose trains travel the most distance wins. Metro was nominated for the Spiel des Jahres in 2000 and received the Mensa Select award in 2001.
+
+upgrades: []

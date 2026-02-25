@@ -1,0 +1,49 @@
+id: missa-lahjat-herra-hakkarainen
+name: "Missä lahjat herra Hakkarainen?"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Complete
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 4
+
+description: |
+  Missä lahjat herra Hakkarainen? (Where are the gifts, Mr. Hakkarainen?) is a Finnish children's board game based on the beloved character Herra Hakkarainen from author-illustrator Mauri Kunnas's popular children's books. Mr. Hakkarainen has mixed up birthday presents in his vans, and each player races to find their own gifts as quickly as possible. Movement is determined by a spinner wheel attached to the gameboard that dictates how many steps a player may move and triggers special events. The game serves as a gentle introduction to board game mechanics for very young Finnish children.
+
+upgrades: []
