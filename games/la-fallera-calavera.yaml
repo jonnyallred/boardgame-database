@@ -1,0 +1,53 @@
+id: la-fallera-calavera
+name: "La Fallera Calavera"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Humor
+  - Zombies
+  - Party
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Zombi Paella
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  La Fallera Calavera is a 2014 Spanish card game published by Zombi Paella set in the Valencian folklore tradition, where a young Fallera killed in a fireworks accident rises as a furious zombie and awakens other traditional Valencian figures as zombies. Players compete to collect five ingredient cards to cook a paella that will calm the zombie Fallera's rage, using battle cards to steal ingredients from opponents by comparing attack and defense values. Deeply rooted in Valencian culture and humor, the game has sold over 130,000 copies in Spain and spawned multiple sequels. An irreverent celebration of regional identity through a zombie lens.
+
+upgrades: []

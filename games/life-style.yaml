@@ -1,0 +1,52 @@
+id: life-style
+name: "Life Style"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+  - Events
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - MB Games
+  - Whitman
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Life Style is a life simulation board game in the tradition of games like The Game of Life, in which players make choices and encounter random events as they progress through various stages of adult life. Players navigate education, career, family, and financial decisions on a board track, with dice and card draws determining outcomes and the final winner being the player who best manages their life path's challenges and opportunities. Published in the early 1970s, it reflects the era's popular life-planning game genre exemplified by Milton Bradley's Game of Life, with a somewhat more modern framing of lifestyle choices.
+
+upgrades: []

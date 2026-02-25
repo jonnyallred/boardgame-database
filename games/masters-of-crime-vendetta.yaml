@@ -1,0 +1,55 @@
+id: masters-of-crime-vendetta
+name: "Masters of Crime: Vendetta"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: "masters-of-crime"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Deduction
+  - Puzzle Solving
+  - Mystery
+
+evokes:
+  - Mystery
+  - Tension
+  - Discovery
+  - Clever
+  - Connection
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Lukas Setzke
+  - Martin Student
+  - Verena Wiechens
+publisher:
+  - Thames & Kosmos
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 16
+
+description: |
+  Masters of Crime: Vendetta is a cooperative deductive murder mystery game by Thames & Kosmos set in New York's criminal underworld. Players are mafia insiders tasked with uncovering the mole who caused the godfather's eldest son's death, navigating a branching choose-your-own-adventure narrative driven by a deck of cards, hidden clue documents, and real online resources including voice messages, maps, and websites. Players make decisions that alter the story's course and must solve escape-room style puzzles to progress. Part of the Masters of Crime series alongside Shadows, Vendetta delivers 120–240 minutes of atmospheric crime-thriller play.
+
+upgrades: []

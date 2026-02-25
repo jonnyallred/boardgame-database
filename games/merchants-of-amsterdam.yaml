@@ -1,0 +1,55 @@
+id: merchants-of-amsterdam
+name: "Merchants of Amsterdam"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Trading
+  - Area Control
+  - Economic
+  - Historical
+  - Reiner Knizia
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Jumbo
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Merchants of Amsterdam is a Dutch auction game designed by Reiner Knizia and published by Jumbo in 2000. The game includes a physical spring-driven auction clock that counts down prices — when a player likes the current price, they slam the clock to claim an item at that amount. Players are 17th-century merchant families trading spices, precious stones, sugar, and silk while establishing storehouses in Amsterdam and trading posts in overseas colonies. The tactile clock mechanic and the tension of watching prices tick down create a uniquely physical auction experience that distinguishes it from purely card-based bidding games.
+
+upgrades: []

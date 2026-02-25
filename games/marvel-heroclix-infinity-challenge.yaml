@@ -1,0 +1,55 @@
+id: marvel-heroclix-infinity-challenge
+name: "Marvel HeroClix: Infinity Challenge"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: "heroclix"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Asymmetric
+  - Variable Player Powers
+  - Dice Rolling
+  - Teams
+  - Superheroes
+  - Marvel
+  - Ameritrash
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Unique
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Jordan Weisman
+publisher:
+  - WizKids
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  Marvel HeroClix: Infinity Challenge is the first Marvel HeroClix set, published by WizKids in May 2002. Using the Clix combat dial system developed for Mage Knight, players build teams from 150 pre-painted collectible Marvel Comics miniatures — including X-Men, Avengers, Brotherhood of Evil Mutants, and more — and battle on grid maps. Each figure's rotating base dial tracks damage and shifts stats as it takes hits, eliminating the need for record sheets. The set introduced 50 distinct Marvel characters with variant rarity levels, combining collectible strategy with accessible superhero combat rules.
+
+upgrades: []

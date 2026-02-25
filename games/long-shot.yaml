@@ -1,0 +1,53 @@
+id: long-shot
+name: "Long Shot"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: long-shot
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Auctions/Bidding
+  - Press Your Luck
+  - Racing
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [5, 6, 7, 8]
+
+designer:
+  - Chris Handy
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Long Shot is a horse racing board game for up to 8 players in which participants bet on and buy horses as a race unfolds turn by turn. Each round dice determine which horse advances, and players can use action cards to influence the race — speeding up their horse, slowing opponents, or buying horses mid-race for a share of any winnings. The combination of betting, ownership, and card play creates an exciting social experience where fortunes can shift dramatically. Originally published by Z-Man Games in 2009, the game captures the unpredictable excitement of the racetrack and plays best with a larger group.
+
+upgrades: []

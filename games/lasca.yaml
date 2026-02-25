@@ -1,0 +1,49 @@
+id: lasca
+name: "Lasca"
+alternate_names: []
+year: 1911
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+
+evokes:
+  - Clever
+  - Rivalry
+  - Masterful
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Emanuel Lasker
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Lasca is an abstract strategy game invented by Emanuel Lasker, the legendary world chess champion, around 1911. Played on a 7x7 board with a subset of checkers-style pieces, it introduces a distinctive stacking mechanic: when a piece is captured, it goes beneath the capturing piece, forming a column commanded by the topmost piece. A captured stack's top piece is removed, revealing the piece below (which may be the opponent's), so captured forces can be "liberated." Players win by reducing all opponent columns to a single top piece under their own command. This elegant variation on draughts rewards deep positional thinking and remains a curiosity of abstract game design.
+
+upgrades: []

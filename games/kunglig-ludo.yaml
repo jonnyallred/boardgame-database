@@ -1,0 +1,52 @@
+id: kunglig-ludo
+name: "Kunglig ludo"
+alternate_names:
+  - Royal Ludo
+  - Kunglig Ludo
+year: 1950
+
+# Relationships
+game_family: ludo
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 5
+
+description: |
+  Kunglig ludo (Royal Ludo) is a Swedish variant of the traditional Fia (Ludo) race game in which certain board spaces are marked with crowns and feathers. A special die replaces the 3 and 6 pips with matching royal crown and feather symbols, triggering special rules when these spaces are landed on or rolled. The Danish variant is called Glob-ludo and uses globes and stars instead of crowns. As a further development of the ubiquitous Ludo family, Kunglig ludo adds a distinctive Swedish royal flavor to the classic four-color race game format while maintaining its accessible, luck-driven appeal.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: masters-of-crime-shadows
+name: "Masters of Crime: Shadows"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: "masters-of-crime"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Deduction
+  - Puzzle Solving
+  - Mystery
+
+evokes:
+  - Mystery
+  - Tension
+  - Discovery
+  - Clever
+  - Connection
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Lukas Setzke
+  - Martin Student
+  - Verena Wiechens
+publisher:
+  - Thames & Kosmos
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 16
+
+description: |
+  Masters of Crime: Shadows is a cooperative immersive crime game published by Thames & Kosmos, set in Amsterdam where players must plan and execute a heist at the famous Bachmann Gallery to steal a mysterious painting. The game integrates real-world resources — Google Maps, websites, phone numbers — into an interactive narrative that changes based on players' choices, blending escape-room puzzle solving with detective investigation. Players scout the gallery, hack security systems, and recruit underworld contacts across 120–240 minutes of branching narrative play. Part of the Masters of Crime series, Shadows emphasizes atmospheric storytelling alongside physical and digital puzzle challenges.
+
+upgrades: []

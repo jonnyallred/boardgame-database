@@ -1,0 +1,53 @@
+id: lost-and-found
+name: "Lost & Found"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Puzzle Solving
+  - No Math
+  - Family
+
+evokes:
+  - Connection
+  - Discovery
+  - Clever
+  - Complete
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - Zoch
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 6
+
+description: |
+  Lost & Found is a cooperative children's game designed by the Brand duo (creators of Exit: The Game) in which players work together to help a lost child find their way back through a simple labyrinth or puzzle environment. The cooperative format encourages communication and shared problem-solving between children, making it suitable for family play with young children. Published by Zoch, it sits at the lighter end of cooperative game design, prioritizing accessibility and the sense of shared accomplishment over strategic challenge. A gentle introduction to cooperative board game concepts for young players.
+
+upgrades: []

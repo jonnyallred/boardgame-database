@@ -1,0 +1,51 @@
+id: magic-labyrinth-card-game
+name: "Magic Labyrinth: Card Game"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: "magic-labyrinth"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - No Math
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Complete
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Drei Magier Spiele
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 6
+
+description: |
+  Magic Labyrinth: Card Game is a card-based spinoff of the award-winning Magic Labyrinth board game published by Drei Magier Spiele. Players navigate the theme of the magical labyrinth through a card game format, collecting objects while avoiding dead ends. The game retains the family-friendly memory and spatial puzzle elements of the original game in a more portable and faster-playing format. Limited English-language sources are available for this specific edition.
+
+upgrades: []

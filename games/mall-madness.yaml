@@ -1,0 +1,54 @@
+id: mall-madness
+name: "Mall Madness"
+alternate_names:
+  - "Electronic Mall Madness"
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Racing
+  - Family
+  - No Math
+
+evokes:
+  - Lucky
+  - Humor
+  - Wonder
+  - Complete
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Michael Gray
+publisher:
+  - Milton Bradley
+  - Hasbro
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 9
+
+description: |
+  Mall Madness is a classic shopping-themed electronic board game designed by Michael Gray and published by Milton Bradley in 1988, with a talking electronic edition following in 1989. Players race around a two-story mall map to be the first to buy six items on their shopping list and return to the parking lot, guided by an electronic unit that announces sales, restocks stores, and hands out money. The electronic talking component was groundbreaking for its era, making it one of the most memorable children's games of the late 1980s and 1990s with multiple generations of redesigns to follow.
+
+upgrades: []

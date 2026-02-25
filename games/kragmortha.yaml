@@ -1,0 +1,52 @@
+id: kragmortha
+name: "Kragmortha"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Narrative Heavy
+  - Party
+  - Fantasy
+  - Humor
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Agency
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+description: |
+  Kragmortha is a 2007 Mayfair Games party game based on Aye, Dark Overlord! in which 2-8 players take on the roles of clumsy goblin underlings trying to avoid the wrath of their evil master Rigor Mortis. Players move about Rigor Mortis's library attempting to steal magical tomes, while the Dark Overlord can punish them with dreadful spells manifested as physical tasks — such as balancing cards on your head or speaking with your mouth closed. The game won the 2007 Lucca Games Best of Show award and delivers its comedy through the escalating physical challenges imposed on increasingly desperate goblins.
+
+upgrades: []

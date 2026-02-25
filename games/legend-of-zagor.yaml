@@ -1,0 +1,54 @@
+id: legend-of-zagor
+name: "Legend of Zagor"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dungeon Crawler
+  - Cooperative
+  - Dice Rolling
+  - Fantasy
+  - Adventure
+
+evokes:
+  - Discovery
+  - Tension
+  - Powerful
+  - Dread
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Ian Livingstone
+publisher:
+  - MB Games
+  - Hasbro
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Legend of Zagor is a cooperative dungeon crawling board game published by MB Games in 1993, based on Ian Livingstone's Fighting Fantasy gamebook series. Players work together as adventurers exploring a modular dungeon to find and defeat the evil warlock Zagor, battling monsters and collecting treasure along the way. The game uses a mix of cards and dice for combat resolution and features the atmospheric artwork and monster roster familiar from the Fighting Fantasy books. Aimed at younger players entering the dungeon-crawl genre, it offers accessible cooperative adventure with nostalgic appeal for Fighting Fantasy fans.
+
+upgrades: []

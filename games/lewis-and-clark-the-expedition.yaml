@@ -1,0 +1,56 @@
+id: lewis-and-clark-the-expedition
+name: "Lewis & Clark: The Expedition"
+alternate_names:
+  - "Lewis and Clark"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Resource Management
+  - Racing
+  - Euro
+  - Historical
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Masterful
+  - Rivalry
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Cédrick Chaboussit
+publisher:
+  - Ludonaute
+artist:
+  - Vincent Dutrait
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Lewis & Clark: The Expedition is a competitive racing game for 1-5 players in which each player leads their own expedition to be the first to cross the North American continent and reach the Pacific Ocean. The game features a unique card-management system where cards can be played either for their action or spent to power up another card, requiring players to carefully pace their hand and constantly rebuild their expedition crew. Scouting ahead, hiring Native American guides, and managing resources like food, horses, and canoes creates a rich puzzle as the terrain changes. Illustrated in the style of N.C. Wyeth by Vincent Dutrait, this 2013 Euro was Cédrick Chaboussit's debut design and remains highly regarded for its clever hand-use mechanics.
+
+upgrades: []

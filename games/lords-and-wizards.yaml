@@ -1,0 +1,52 @@
+id: lords-and-wizards
+name: "Lords & Wizards"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Fantasy
+  - Medieval
+  - Variable Player Powers
+
+evokes:
+  - Powerful
+  - Agency
+  - Masterful
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Nexus Editrice
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Lords & Wizards is a fantasy conquest game in which players command medieval armies supplemented by powerful magical units — wizards, dragons, and other fantastic creatures — competing for territorial control across a fantasy map. Military strength is augmented by spells and magical items that can dramatically swing battles, requiring players to balance conventional military expansion with magical development. Variable player powers through unique faction abilities or starting positions add asymmetry to the competition. Published by Italian publisher Nexus Editrice, it fits in the tradition of fantasy wargames that blend medieval strategy with fantasy elements.
+
+upgrades: []

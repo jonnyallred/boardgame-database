@@ -1,0 +1,54 @@
+id: lord-of-the-rings-the-adventure-deck-game
+name: "Lord of the Rings: The Adventure Deck Game"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deck Building
+  - Hand Management
+  - Fantasy
+  - Lord of the Rings
+
+evokes:
+  - Discovery
+  - Tension
+  - Powerful
+  - Connection
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Sophisticated Games
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  The Lord of the Rings: The Adventure Deck Game is a cooperative card game designed by Reiner Knizia in which players take the roles of the Fellowship of the Ring, working together to guide Frodo and Sam to Mordor while managing the threat of Sauron. Players play adventure cards representing the Fellowship's journey through key events from the books, trying to complete each stage before Sauron's corruption overwhelms the hobbits. The game uses a deck that gradually reveals the narrative of the story, making each play through the story feel like a race against time. Knizia's distinctive mathematical elegance is applied here to create genuine cooperative tension in a beloved setting.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: masterpiece
+name: "Masterpiece"
+alternate_names:
+  - "Masterpiece: The Art Auction Game"
+year: 1970
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Bluffing
+  - Set Collection
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Clever
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Jeffrey Breslow
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 9
+
+description: |
+  Masterpiece is an art auction board game designed by Jeffrey Breslow and published by Parker Brothers in 1970. Players are art collectors competing to amass the greatest fortune by buying and selling famous paintings reproduced on full-color postcards, with each painting's hidden value card ranging from a worthless forgery to one million dollars. The bluffing element — bidding aggressively on a painting you know is a forgery to trick opponents into overpaying — gives the game a delightful social edge. A family classic, Masterpiece introduced generations of children to the concept of auctions, bluffing, and art appreciation.
+
+upgrades: []

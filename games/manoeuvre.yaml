@@ -1,0 +1,56 @@
+id: manoeuvre
+name: "Manoeuvre"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Hand Management
+  - Area Control
+  - Historical
+  - War
+  - Wargame
+  - Card Drafting
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jeff Horger
+  - Joe Roush
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Manoeuvre is a fast-playing two-player card-driven wargame published by GMT Games in 2008, set on early 19th-century Napoleonic battlefields. Each of the eight playable nations — France, Britain, Russia, Spain, Austria, Turkey, Prussia, and the USA — has its own unique 60-card national deck reflecting its historical strengths and tactics. Players maneuver units across geomorphic chessboard-sized maps, winning either by eliminating five enemy units or by controlling more of the opponent's territory when both decks are exhausted. Praised as an accessible gateway wargame, Manoeuvre delivers genuine tactical depth without overwhelming rules complexity.
+
+upgrades: []

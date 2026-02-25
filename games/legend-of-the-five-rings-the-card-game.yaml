@@ -1,0 +1,56 @@
+id: legend-of-the-five-rings-the-card-game
+name: "Legend of the Five Rings: The Card Game"
+alternate_names:
+  - "L5R LCG"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Drafting
+  - Fantasy Flight Games
+  - Fantasy
+  - Medieval
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Powerful
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Nate French
+  - Brad Andres
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  Legend of the Five Rings: The Card Game is a two-player Living Card Game (LCG) published by Fantasy Flight Games, set in the feudal Japanese-inspired land of Rokugan. Players choose one of seven Great Clans and compete across two distinct conflicts — military and political — simultaneously, requiring careful resource management between both provinces. The game's innovative dual-deck system separates dynasty cards (characters and holdings) from conflict cards (events and attachments), creating a rich strategic experience. Originally produced by AEG as a CCG from 1995-2015, this LCG reboot ran from 2017 to 2021 before Fantasy Flight discontinued the line.
+
+upgrades: []

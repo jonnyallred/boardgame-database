@@ -1,0 +1,54 @@
+id: macroscope
+name: "Macroscope"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Dice Rolling
+  - Party
+  - Family
+  - Puzzle Solving
+  - No Math
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Lucky
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Martin Nedergaard Andersen
+publisher:
+  - Mayday Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Macroscope is an image deduction party game published by Mayday Games in 2017. Players take turns rolling dice and removing numbered tokens from the front of the Macroscope device, each removal revealing a bit more of the hidden picture inside. A player can keep revealing tokens to see more of the image or attempt to guess what it depicts — but the fewer tokens remain when a correct guess is made, the more victory points earned. After ten rounds the player with the most points wins. The tactile reveal mechanic and the tension between seeing enough and guessing early make it an engaging family and party game.
+
+upgrades: []

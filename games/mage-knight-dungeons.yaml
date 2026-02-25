@@ -1,0 +1,55 @@
+id: mage-knight-dungeons
+name: "Mage Knight Dungeons"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: "mage-knight"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dungeon Crawler
+  - Variable Player Powers
+  - Asymmetric
+  - Campaign Mode
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Discovery
+  - Powerful
+  - Progress
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jordan Weisman
+  - Kevin Barrett
+publisher:
+  - WizKids
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Mage Knight Dungeons is a 2002 expansion to the Mage Knight collectible miniatures line from WizKids that introduced dungeon-crawl style gameplay. Players select teams of Hero characters and explore tile-laid dungeon maps filled with wandering monsters and treasure chests, with opponents controlling the monsters when a hero encounters them. Heroes gain experience across five levels of advancement, and adventures can be played as standalone sessions or as part of a connected campaign. The dungeon crawl format was released in blind booster packs alongside the original wargame format.
+
+upgrades: []

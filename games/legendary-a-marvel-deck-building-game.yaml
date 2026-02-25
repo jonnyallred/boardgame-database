@@ -1,0 +1,55 @@
+id: legendary-a-marvel-deck-building-game
+name: "Legendary: A Marvel Deck Building Game"
+alternate_names:
+  - "Legendary Marvel"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Cooperative
+  - Hand Management
+  - Variable Player Powers
+  - Superheroes
+  - Marvel
+
+evokes:
+  - Powerful
+  - Progress
+  - Clever
+  - Unique
+  - Tension
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Devin Low
+publisher:
+  - Upper Deck Entertainment
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Legendary: A Marvel Deck Building Game is a semi-cooperative deck builder for 1-5 players in which players recruit Marvel heroes to build powerful decks and defeat a villainous Mastermind and their scheme. Each game, players select a Mastermind (like Magneto or Dr. Doom), a scheme, villain groups, and hero decks from dozens of options, creating enormous replayability. Players recruit heroes to add to their personal decks, using their combined might to battle villains threatening the city and ultimately defeat the Mastermind. The modular setup system and hundreds of expansions have made it one of the most expansive deck-building systems in the hobby, blending cooperative play with individual deck-building optimization.
+
+upgrades: []

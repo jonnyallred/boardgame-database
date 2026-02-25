@@ -1,0 +1,54 @@
+id: mahjong
+name: "Mahjong"
+alternate_names:
+  - "Mah-jongg"
+  - "Mah Jong"
+year: 1880
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Trick-taking
+  - Hand Management
+  - Tile Placement
+  - No Math
+  - Abstract
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Lucky
+  - Complete
+
+possible_counts: [4]
+true_counts: [4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+description: |
+  Mahjong is a tile-based game developed in China during the Qing Dynasty, with the earliest surviving sets dating to the 1870s. Four players draw and discard tiles, working to assemble a winning hand of four melds (sets of three) and one pair from 136 to 144 tiles across three suits plus honor tiles (winds and dragons). The clacking sound of shuffled tiles — said to resemble chattering sparrows, the game's original name — is iconic worldwide. Brought to the United States by businessman Joseph P. Babcock in the 1920s, mahjong became a global phenomenon with dozens of regional variants each boasting distinct rules, scoring systems, and cultural traditions.
+
+upgrades: []

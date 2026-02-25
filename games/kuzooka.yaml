@@ -1,0 +1,53 @@
+id: kuzooka
+name: "KuZOOkA"
+alternate_names:
+  - KuZOOka
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Animals
+  - Family
+  - Variable Player Powers
+
+evokes:
+  - Connection
+  - Tension
+  - Humor
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Pegasus Spiele
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 8
+
+description: |
+  KuZOOkA is a 2022 cooperative game by Pegasus Spiele for 2-6 players in which zoo animals secretly work together to stage a daring escape. Each player controls one of ten animals with a unique power and must covertly coordinate with teammates using zoo visitor trash as crafting materials for an escape plan. Players move along a color-coded path on the board, playing cards to advance their animals while keeping communication subtle enough to avoid being detected. The game's charm comes from its animal ensemble cast and the secret-cooperation mechanic that requires coordination without open discussion.
+
+upgrades: []

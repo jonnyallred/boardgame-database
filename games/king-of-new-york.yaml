@@ -1,0 +1,55 @@
+id: king-of-new-york
+name: "King of New York"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: king-of-tokyo
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Take That
+  - Variable Player Powers
+  - Family
+  - Gateway
+  - Richard Garfield
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Powerful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Richard Garfield
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  King of New York is Richard Garfield's 2014 standalone spin-off of King of Tokyo, pitting giant monsters against each other — and against the city itself — across the five boroughs of New York. Players roll dice to deal damage, heal, and earn energy for powerful card upgrades, while competing to dominate Manhattan and become a media superstar. New mechanics include military units defending against rampaging monsters, buildings to destroy for bonus rewards, and district-based positioning, adding strategic texture to the core dice-chucking excitement. The game supports 2-6 players and delivers the same fast, accessible monster-battle thrills as its predecessor with added depth.
+
+upgrades: []

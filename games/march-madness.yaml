@@ -1,0 +1,52 @@
+id: march-madness
+name: "March Madness"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Wargame
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer:
+  - Bob Toole
+  - Steve Thompson
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  March Madness is a college basketball tournament simulation game published by Avalon Hill in 1991, the first board game based on the NCAA tournament format. Players use historical team statistics cards and dice rolls to simulate basketball games, competing through a 64-team bracket to determine a champion. The game allows two players to replay classic Final Four matchups or stage full tournament brackets. It blends sports statistics with probability-based dice resolution in the classic Avalon Hill wargame tradition.
+
+upgrades: []

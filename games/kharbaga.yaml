@@ -1,0 +1,49 @@
+id: kharbaga
+name: "Kharbaga"
+alternate_names:
+  - Kharabaga
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 8
+
+description: |
+  Kharbaga is a traditional two-player abstract strategy game from North Africa, particularly popular in Tunisia and Algeria, belonging to the Zamma family of draughts variants. The game is played on a 4×4 grid with diagonal lines, where each player controls 20 pieces that move forward until promoted to "Mullah" (equivalent to a King in checkers). Pieces capture by jumping, and the player who captures all of their opponent's pieces wins. Kharbaga can be improvised on any surface with pebbles or other tokens, contributing to its enduring popularity across generations.
+
+upgrades: []

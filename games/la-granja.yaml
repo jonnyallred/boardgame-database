@@ -1,0 +1,58 @@
+id: la-granja
+name: "La Granja"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Dice Rolling
+  - Resource Management
+  - Route Building
+  - Tableau Building
+  - Euro
+  - Agriculture
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Andreas Odendahl
+  - Michael Keller
+publisher:
+  - Stronghold Games
+  - PD-Verlag
+artist:
+  - Harald Lieske
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  La Granja is a 2014 farm management euro game by Andreas Odendahl and Michael Keller in which 1-4 players develop small Mallorcan estates near the village of Esporles, expanding fields, adding farm extensions, and delivering goods across six game rounds. Each multi-use card can be played in four different ways — as a field, extension, market barrow, or helper — creating rich decision chains around how to deploy each card. Dice add an element of uncertainty to each round while player turn order manipulation adds a tactical layer. Published by Stronghold Games with detailed art by Harald Lieske, it rewards sophisticated planning and multi-turn efficiency.
+
+upgrades: []

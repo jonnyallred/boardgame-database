@@ -1,0 +1,56 @@
+id: magic-realm
+name: "Magic Realm"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Modular Board
+  - Variable Player Powers
+  - Asymmetric
+  - Narrative Heavy
+  - Fantasy
+  - Wargame
+  - Cult Classic
+
+evokes:
+  - Discovery
+  - Agency
+  - Masterful
+  - Wonder
+  - Unique
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+true_counts: [2, 3, 4]
+
+designer:
+  - Richard Hamblen
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 600
+min_age: 12
+
+description: |
+  Magic Realm is a legendary fantasy adventure game designed by Richard Hamblen and published by Avalon Hill in 1979, notable for its extraordinary complexity and depth. Players choose from 16 highly asymmetric characters — from the White Knight to the Witch — each with unique abilities, and explore a modular hex-tile wilderness filled with monsters, treasures, and ancient ruins. The game blends wargame precision with role-playing elements across a rules tome approaching 100 pages, earning it Avalon Hill's highest difficulty rating of 9 out of 10. Despite going out of print in 1998, it retains a devoted cult following and inspired digital implementations decades later.
+
+upgrades: []

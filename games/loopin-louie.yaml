@@ -1,0 +1,54 @@
+id: loopin-louie
+name: "Loopin' Louie"
+alternate_names:
+  - "Looping Louie"
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Family
+  - Party
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Carol Wiseley
+publisher:
+  - Milton Bradley
+  - Hasbro
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 4
+
+description: |
+  Loopin' Louie is an electronic dexterity game for 2-4 players in which a motorized biplane (Louie) rotates around a central tower, and each player must flick their lever at the right moment to deflect the plane away from their chicken tokens. The player who keeps at least one chicken token on their side when opponents have lost all theirs wins. Designed for young children but beloved by adults for its frantic, reflexive excitement, it won the Kinderspiel des Jahres in 1994. The simple tactile mechanics and escalating tension as chicken tokens are lost have made it an enduring classic that plays in minutes.
+
+upgrades: []

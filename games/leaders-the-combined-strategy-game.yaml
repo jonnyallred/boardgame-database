@@ -1,0 +1,52 @@
+id: leaders-the-combined-strategy-game
+name: "LEADERS: The Combined Strategy Game"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Economic
+  - Historical
+  - War
+
+evokes:
+  - Powerful
+  - Masterful
+  - Agency
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer: []
+publisher:
+  - LEADERS Game
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  LEADERS: The Combined Strategy Game is a complex multi-player strategic war and political simulation game in which players take the roles of world leaders competing for global dominance through military force, economic power, and diplomatic maneuvering. Players manage nations' resources, armies, and international relationships across a world map, balancing military aggression with economic development and alliance politics. The game combines elements of wargaming and economic strategy in a grand-strategy format aimed at players seeking a comprehensive geopolitical simulation experience. Limited specific documentation is available about this title's precise publication details and rules in widely accessible English-language sources.
+
+upgrades: []

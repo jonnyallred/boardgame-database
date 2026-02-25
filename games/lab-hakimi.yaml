@@ -1,0 +1,51 @@
+id: lab-hakimi
+name: "La'b Hakimi"
+alternate_names:
+  - Lab Hakimi
+  - Rational Game
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Agency
+  - Masterful
+  - Tension
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  La'b Hakimi ("Rational Game") is a Syrian mancala game documented in Damascus cafes in the 19th century by ethnographer Stewart Culin, closely related to Al-manqala, the Palestinian mancala tradition. Played on a wooden board with two rows of pits, players begin with seven seeds per pit and sow counter-clockwise, capturing when the last seed creates a group of two or four. A chain capture rule extends captures to consecutive pits with 2 or 4 seeds before the point of capture, creating deep reading opportunities. The wooden boards were traditionally made of olive oil-soaked oak covered with tar, with white beads as playing pieces.
+
+upgrades: []

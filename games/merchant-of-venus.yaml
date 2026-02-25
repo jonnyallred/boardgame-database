@@ -1,0 +1,55 @@
+id: merchant-of-venus
+name: "Merchant of Venus"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Trading
+  - Economic
+  - Modular Board
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Discovery
+  - Progress
+  - Agency
+  - Wonder
+  - Lucky
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Richard Hamblen
+publisher:
+  - Avalon Hill
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Merchant of Venus is a classic space trading game designed by Richard Hamblen and published by Avalon Hill in 1988. Players pilot ships through an unexplored galaxy, discovering alien civilizations and trading goods between them for profit — each culture wants what others produce and pays a premium for it, creating rich trading route puzzles. The game was originally designed for McCormick Spices as a spice trading game before being rethemed to science fiction. Rereleased by Fantasy Flight Games in 2012 with updated components and an alternative modern ruleset, it remains a beloved deep-cut classic of space exploration gaming.
+
+upgrades: []

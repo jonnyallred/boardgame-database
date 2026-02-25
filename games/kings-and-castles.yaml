@@ -1,0 +1,50 @@
+id: kings-and-castles
+name: "Kings & Castles"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Fantasy
+  - Medieval
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Athena Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Kings & Castles is a 1980 fantasy board game published by Athena Games for 2-8 players in which individual kings wage war against each other for territorial dominance. Players command armies to conquer rivals, defending their castles while pressing offensives across the game map. The game captures the medieval fantasy war game spirit popular in the early 1980s, with straightforward conquest mechanics suited for larger groups. Limited documentation exists beyond its publisher and basic gameplay framework.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: masons
+name: "Masons"
+alternate_names:
+  - "Mauerbauer"
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Hand Management
+  - Set Collection
+  - City Building
+  - Abstract
+  - Euro
+  - Family
+
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Leo Colovini
+publisher:
+  - Rio Grande Games
+  - Hurrican
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Masons is an abstract city-building game designed by Leo Colovini in which players collaboratively build walled cities on a shared landscape while competing for points. Each turn a player places a wall section using dice that determine tower colors and house colors on each side; when walls enclose a city, all players score based on the guild cards they hold. The reactive interplay between dice rolls and hand management creates a light but strategic game where timing the right card for the right city completion is the key skill. Published in the United States by Rio Grande Games, Masons is a quick-playing Euro with broad family appeal.
+
+upgrades: []

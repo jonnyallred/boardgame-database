@@ -1,0 +1,52 @@
+id: menara
+name: "Menara"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dexterity
+  - Puzzle Solving
+  - Family
+
+evokes:
+  - Tension
+  - Connection
+  - Clever
+  - Complete
+  - Humor
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Oliver Richtberg
+publisher:
+  - Zoch Verlag
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Menara is a cooperative dexterity game designed by Oliver Richtberg and published by Zoch Verlag in 2018. Players work together to reconstruct an ancient temple by stacking column pieces on progressively narrower floor tiles, building upward without toppling the structure. Unlike pure dexterity games, Menara incorporates meaningful strategic decisions about which columns to place and where, adding planning to the physical challenge. The game's campaign system introduces increasingly demanding building requirements across multiple sessions, making it distinctive among dexterity games for its blend of cooperative puzzle-solving and physical tension.
+
+upgrades: []

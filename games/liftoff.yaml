@@ -1,0 +1,55 @@
+id: liftoff
+name: "Liftoff!"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Set Collection
+  - Hand Management
+  - Family
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Dennis Kirps
+  - Jürgen Mayer
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Liftoff! is a card drafting and set collection game from Queen Games in which players compete to build the best rocket ship by drafting component cards across multiple rounds. Each player assembles a rocket from nose cone, fuel tank, body, and engine sections — scoring points based on how well the parts match in color and how complete the rocket is. The simultaneous drafting creates light tension as players compete for the same limited components, while the colorful space theme and accessible rules make it suitable for families. A quick filler game that delivers a satisfying drafting puzzle in under 30 minutes.
+
+upgrades: []

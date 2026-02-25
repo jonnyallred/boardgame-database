@@ -1,0 +1,51 @@
+id: legions-of-the-petal-throne
+name: "Legions of the Petal Throne"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - M.A.R. Barker
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Legions of the Petal Throne is a miniatures wargame published by TSR in 1977, designed by M.A.R. Barker set in his invented world of Tékumel — the same richly detailed alien fantasy world that formed the basis of the roleplaying game Empire of the Petal Throne. Players command armies of Tékumel's various human empires and alien non-human races in large-scale fantasy battles, using miniatures to represent detailed troop types including infantry, cavalry, and magical creatures specific to the world's unique non-Western mythology. One of the earliest fantasy miniatures games tied to a roleplaying game setting, it is prized by collectors and Tékumel enthusiasts.
+
+upgrades: []

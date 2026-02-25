@@ -1,0 +1,52 @@
+id: marvel-super-dice
+name: "Marvel Super Dice"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Superheroes
+  - Marvel
+  - Press Your Luck
+  - Party
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Powerful
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Marvel Super Dice is a collectible superhero dice game published by TSR in 1997, featuring characters from the Marvel Comics universe. Players roll custom dice representing Marvel heroes and villains to resolve battles, with each character bringing unique dice and abilities to the fight. The collectible format allowed players to expand their roster of superheroes, bringing the trading element of collectible card games to dice-based superhero combat. Limited English-language review sources are available for this title.
+
+upgrades: []

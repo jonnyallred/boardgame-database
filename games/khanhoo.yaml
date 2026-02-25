@@ -1,0 +1,56 @@
+id: khanhoo
+name: "Khanhoo"
+alternate_names:
+  - Kanhu
+  - Kanhoo
+  - Kan Hu
+year: 1891
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Trick-taking
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - William Henry Wilkinson
+publisher:
+  - Charles Goodall & Son
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Khanhoo is a Chinese draw-and-discard card game adapted for Western audiences by British diplomat Sir William Henry Wilkinson, who had the card maker Charles Goodall issue a special edition in 1891. Rooted in the late Ming dynasty game 看虎 ("watching the tiger"), it is widely considered a likely ancestor of all rummy games, sharing structural DNA with Mahjong. Players draw and discard from a shared deck aiming to meld all their cards into valid sets, with the dealer beginning the game already holding a complete winning hand — a unique asymmetry that sets the starting tension.
+
+upgrades: []

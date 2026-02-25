@@ -1,0 +1,49 @@
+id: kruzno
+name: "Kruzno"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Kruzno
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Kruzno is a 2005 two-player abstract strategy game played on a hexagonal board using chess pieces, though it functions more as a variant of hexagonal checkers. Players begin with nine pieces each — three rooks, three knights, and three bishops — governed by an intransitive rock-paper-scissors capture rule: rooks capture knights, knights capture bishops, and bishops capture rooks. A piece may also jump (without capturing) over pieces of the same type or its own color, creating a unique movement system unlike traditional checkers. This layered system of intransitive dominance and selective jumping rewards deep strategic planning.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: lego-heroica
+name: "Lego Heroica"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dungeon Crawler
+  - Dice Rolling
+  - Modular Board
+  - Family
+  - Fantasy
+
+evokes:
+  - Discovery
+  - Tension
+  - Powerful
+  - Lucky
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Lego
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 7
+
+description: |
+  Lego Heroica is a line of buildable dungeon-crawling board games released by Lego in 2011 as part of their Heroica system. Players assemble the dungeon from actual Lego bricks before playing, then control miniature Lego hero figures navigating through rooms and fighting monsters using a custom die. The game is designed for children ages 7 and up, with modular dungeons from multiple sets (Fortaan, Nathuz, Draida Bay, Waldurk Forest, and others) that can be combined for larger adventures. The tactile satisfaction of building your game board and the approachable dungeon-crawl mechanics make it an excellent entry point for younger players.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: knockout
+name: "Knockout"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Knockout is a 1991 Milton Bradley dexterity and stacking game in which players use a rammer hammer mechanism to knock pieces out of a stacking structure. Players take turns using the hammer device to pop out "stoppers," with the goal of controlling more pieces on the grid when the game ends. The game's satisfying physical mechanism and fast play made it a popular children's title. A later Bob the Builder-themed edition was released in 2002.
+
+upgrades: []

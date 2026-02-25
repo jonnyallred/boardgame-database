@@ -1,0 +1,53 @@
+id: kryptos
+name: "Kryptos"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Bluffing
+  - Puzzle Solving
+  - Espionage
+  - Abstract
+
+evokes:
+  - Mystery
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Piotr Silka
+publisher:
+  - Ginger Fox
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Kryptos is a spy-themed deduction game for 3-6 players by Piotr Silka published by Ginger Fox, where players attempt to deduce the hidden numerical values of each other's hand of colored cards. Each player holds numbered cards from 1-48 in four colors, and all players know the colors — but not the numbers — held by opponents. Through targeted questioning and logical elimination, players try to crack each other's "codes" while protecting their own. Fast, tense, and uncomplicated, the game rewards sharp deductive reasoning and careful information management.
+
+upgrades: []

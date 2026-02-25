@@ -1,0 +1,55 @@
+id: man-o-war
+name: "Man O' War"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Teams
+  - Asymmetric
+  - Variable Player Powers
+  - Fantasy
+  - Wargame
+  - Maritime
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Nigel Stillman
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Man O' War is a naval warfare miniatures game set in the Warhammer Fantasy universe, designed by Nigel Stillman with Andy Jones and Bill King, and published by Games Workshop in 1993. Players command fleets of richly detailed model ships representing Human, Elf, Dwarf, Orc, Chaos, and other factions in battles across the fantastical seas of the Old World. Each fleet has unique ships with asymmetric abilities, and tactical play revolves around positioning, wind management, and ramming or broadside fire. The game garnered a devoted following before being discontinued, and it remains a beloved specialist game in Games Workshop history.
+
+upgrades: []

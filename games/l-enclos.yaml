@@ -1,0 +1,49 @@
+id: l-enclos
+name: "L'Enclos"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Michel Boutin
+publisher:
+  - CEMEA
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  L'Enclos is a 1986 two-player abstract strategy game designed by Michel Boutin and first published in the French educational journal Vers l'Éducation Nouvelle. The game lasts approximately 15 minutes and offers a compact strategic challenge. Being an obscure publication from a French educational publication, detailed rules are not widely available in English, but it represents an example of abstract game design from French educational gaming circles of the 1980s.
+
+upgrades: []

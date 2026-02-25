@@ -1,0 +1,50 @@
+id: lingua
+name: "Lingua"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Party
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Winning Moves
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Lingua is a word game in which players form words from a set of letter tiles or cards, competing to create the longest or most valuable word within time pressure. The game emphasizes vocabulary and speed over complex strategy, making it a light party game suitable for language enthusiasts. Published by Winning Moves, it fits within the tradition of family word games that reward broad vocabulary while remaining accessible enough for mixed-age groups. Limited information is available in English-language sources about this specific title's mechanics and publication history.
+
+upgrades: []

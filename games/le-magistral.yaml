@@ -1,0 +1,48 @@
+id: le-magistral
+name: "Le Magistral"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Le Magistral is a French abstract strategy game with minimal documentation available in English-language sources. The title suggests a game of masterful or authoritative skill, likely involving strategic placement, movement, or area control on a board. Specific details about its designer, publisher, rules, and year of publication are not widely available through English-language research sources. It appears to be a regional French publication with limited international distribution or coverage in the broader board gaming community.
+
+upgrades: []

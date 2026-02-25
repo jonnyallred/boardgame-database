@@ -1,0 +1,50 @@
+id: le-defi-du-sphinx
+name: "Le Défi du Sphinx"
+alternate_names:
+  - "The Sphinx's Challenge"
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Deduction
+  - Family
+
+evokes:
+  - Mystery
+  - Clever
+  - Tension
+  - Discovery
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Le Défi du Sphinx ("The Sphinx's Challenge") is a French-language puzzle and deduction game with an Ancient Egyptian theme centered on solving riddles or challenges posed by the Sphinx. Players likely answer questions or solve puzzles to advance, with the winner being the first to successfully complete the Sphinx's challenges. Limited information is available in English-language sources about this specific title's full mechanics and publisher. The Egyptian mythology theme and puzzle-solving format suggest it was aimed at children and families interested in ancient history and riddle-based gameplay.
+
+upgrades: []

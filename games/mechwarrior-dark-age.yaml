@@ -1,0 +1,55 @@
+id: mechwarrior-dark-age
+name: "MechWarrior: Dark Age"
+alternate_names:
+  - "MechWarrior Dark Age"
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Asymmetric
+  - Variable Player Powers
+  - Dice Rolling
+  - Sci-Fi
+  - Wargame
+  - Ameritrash
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Jordan Weisman
+publisher:
+  - WizKids
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  MechWarrior: Dark Age is a collectible miniatures wargame published by WizKids from 2002 to 2008, set in the BattleTech universe during the 32nd century. Using the Clix system, players field pre-painted infantry squads, vehicles, and giant BattleMech walking war machines whose combat dials replace traditional record sheets, enabling combined-arms battles to resolve dramatically faster than classic BattleTech. The game won the 2002 Origins Awards for Game of the Year and Best Sci-Fi Miniatures Series. Despite its success, it was discontinued in 2008 following WizKids' sale to Topps.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: last-message
+name: "Last Message"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Social Deduction
+  - Party
+  - Family
+  - Puzzle Solving
+
+evokes:
+  - Mystery
+  - Tension
+  - Connection
+  - Clever
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Lee Ju-Hwa
+  - Giung Kim
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Last Message is a cooperative deduction party game in which a crime has been committed and the victim is desperately trying to sketch the culprit before their last breath fades. One player acts as the victim and draws clues identifying the criminal, but each turn the culprit player gets to erase part of the sketch to obscure the evidence. The detective players must study the evolving (and increasingly smudged) drawing and identify the criminal from a lineup. Quick, tactile, and accessible, it offers an inventive social experience that plays in about 20 minutes and works well as a warm-up or party game.
+
+upgrades: []

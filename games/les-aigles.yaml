@@ -1,0 +1,53 @@
+id: les-aigles
+name: "Les Aigles"
+alternate_names:
+  - "The Eagles"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Frédéric Bey
+publisher:
+  - Vae Victis
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Les Aigles is a French-published series of wargames covering Napoleonic battles, designed by Frédéric Bey and published by Vae Victis magazine. The series uses a consistent hex-and-counter system to model battles from the Napoleonic Wars at the battalion and regimental scale, with particular attention to period-accurate command limitations, corps structure, and the fog of war. Each volume covers a specific engagement, and the consistent rules system allows players to move between battles easily. Highly regarded among Napoleonic wargame enthusiasts for its historical accuracy and the tactical depth it achieves within an accessible system.
+
+upgrades: []

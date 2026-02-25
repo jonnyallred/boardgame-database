@@ -1,0 +1,51 @@
+id: laborigines
+name: "Laborigines"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Resource Management
+  - Family
+
+evokes:
+  - Clever
+  - Lucky
+  - Tension
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Jakub Uhlir
+  - Tomas Uhlir
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Laborigines is a board game for 2-6 players designed by Jakub and Tomas Uhlir featuring dice-driven gameplay with memory elements. The game incorporates a disease system, Moa and bacteria dice distribution, and an energy cube resource system, creating layered decisions within a relatively accessible framework. Limited documentation exists beyond the game's Czech and European origin, its player count and age range, and its distinctive combination of dice mechanics with memory and resource management elements.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: luck-of-the-draw
+name: "Luck of the Draw"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Creative
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Creative
+  - Connection
+  - Lucky
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [5, 6, 7, 8]
+
+designer: []
+publisher:
+  - University Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Luck of the Draw is a party game in which players compete in quick drawing challenges against the clock, with others guessing or judging the results. Players draw words or phrases under time pressure, combining elements of Pictionary-style drawing games with a light competitive or social format. The game emphasizes humor over artistic skill, with the funniest or most creative attempts often winning points regardless of drawing ability. Published by University Games, it fits in the tradition of accessible creative party games designed for mixed groups seeking lighthearted social entertainment.
+
+upgrades: []

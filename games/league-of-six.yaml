@@ -1,0 +1,56 @@
+id: league-of-six
+name: "League of Six"
+alternate_names:
+  - "Šestimestí"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Area Control
+  - Resource Management
+  - Euro
+  - Historical
+  - Medieval
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Vladimír Suchý
+publisher:
+  - Czech Games Edition
+artist:
+  - Jakub Politzer
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  League of Six is a strategy game set in 1430 during a period of unrest in Central Europe, where players become tax collectors visiting six wealthy Lusatian cities that banded together to defend their commercial interests. Each round, players visit cities to collect goods and gain influence in the court of King Sigismund, balancing placement decisions against what rivals might do. Vladimír Suchý's debut design, first published by Czech Games Edition, offers a tightly constructed Euro experience with meaningful auctions and area influence mechanics. A complete edition combining the base game with its expansion has since been released by Czech publisher Dino Toys.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: khalkhin-gol
+name: "Khalkhin-Gol"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dana Lombardy
+publisher:
+  - Simulations Design Corporation
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Khalkhin-Gol is a 1973 two-player hex-and-counter wargame published by Simulations Design Corporation that simulates the decisive 1939 Soviet-Japanese border conflict on the sandy plains and marshes of Mongolia. Players command regimental-level forces including infantry, tanks, cavalry, and artillery in this tactical recreation of the battle that ended the Soviet-Japanese border wars. Designed by Dana Lombardy, the game is a compact and historically focused simulation of a frequently overlooked but strategically significant WWII prelude conflict.
+
+upgrades: []

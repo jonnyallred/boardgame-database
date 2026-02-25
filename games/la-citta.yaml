@@ -1,0 +1,56 @@
+id: la-citta
+name: "La Città"
+alternate_names:
+  - La Citta
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Resource Management
+  - Area Control
+  - Euro
+  - City Building
+  - Historical
+
+evokes:
+  - Progress
+  - Rivalry
+  - Agency
+  - Clever
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Gerd Fenchel
+publisher:
+  - Kosmos
+  - Rio Grande Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  La Città is a 2000 city-building strategy game by Gerd Fenchel in which 2-5 players develop competing Italian city-states by managing food production, finances, health, culture, and education to attract and maintain population. Each turn players must feed their citizens, manage growth through new buildings like farms, quarries, marketplaces, and bathhouses, and try to attract citizens from rivals' cities by offering better services. The game's win condition rewards the most successful population management rather than direct military conquest, creating an elegant economic competition. Published by Kosmos and honored with a 2000 Spiel des Jahres recommendation.
+
+upgrades: []

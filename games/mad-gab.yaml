@@ -1,0 +1,53 @@
+id: mad-gab
+name: "Mad Gab"
+alternate_names: []
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Teams
+  - Party
+  - No Math
+  - Real-time
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Connection
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+true_counts: [6, 8, 10]
+
+designer:
+  - Terry White
+publisher:
+  - Mattel
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Mad Gab is a hilarious word party game by Terry White and Mattel in which teams compete to decode phonetic puzzle cards in 30 seconds. The puzzle cards display nonsense word strings — like "Ice Mail Ask Hunk" — which, when read aloud quickly enough, sound like a recognizable word or phrase ("I smell a skunk"). One team reads and guesses while the opposing team listens for the answer, ready to steal if time runs out. The game's irresistible auditory illusions and the moment of sudden recognition create consistent bursts of laughter, making it a perennial party game favorite since the mid-1990s.
+
+upgrades: []

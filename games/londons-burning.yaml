@@ -1,0 +1,52 @@
+id: londons-burning
+name: "London's Burning"
+alternate_names: []
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Aviation
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  London's Burning is an aerial wargame covering the Battle of Britain in the summer and autumn of 1940, published by Avalon Hill. Players command the RAF Fighter Command defending Britain against waves of Luftwaffe bombers and fighters attempting to destroy British airfields, factories, and radar stations as a prelude to invasion. The game models the daily attrition of aircraft and pilots, the radar network giving early warning of raids, and the strategic decisions about when and where to commit squadrons. It captures the desperate calculus of the Battle of Britain — trading fighter losses against the need to intercept bombers reaching vital targets.
+
+upgrades: []

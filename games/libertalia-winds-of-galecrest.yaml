@@ -1,0 +1,56 @@
+id: libertalia-winds-of-galecrest
+name: "Libertalia: Winds of Galecrest"
+alternate_names:
+  - "Libertalia"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Simultaneous Action
+  - Set Collection
+  - Stonemaier Games
+  - Fantasy
+  - Pirates
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Humor
+  - Unique
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Paolo Mori
+publisher:
+  - Stonemaier Games
+artist:
+  - Lamaro Smith
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  Libertalia: Winds of Galecrest is a simultaneous-action selection and hand management game in which rival sky-pirate admirals deploy crew members to the same island each day, hoping to claim the best loot. Each player has an identical starting crew of 40 fantastical animal characters with unique powers, but since everyone plays from the same character pool, knowing what your opponents might play — and how characters interact — is the key to victory. The 2022 edition by Stonemaier Games reimagines the 2012 original with new art, an expanded character roster, a solo mode, and a reputation track to break ties elegantly. Its blend of reading opponents and adapting strategy to shared characters creates sharp, social tension in each round.
+
+upgrades: []

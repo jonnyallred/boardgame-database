@@ -1,0 +1,56 @@
+id: maple-valley
+name: "Maple Valley"
+alternate_names:
+  - "Creature Comforts: Maple Valley"
+year: 2023
+
+# Relationships
+game_family: "creature-comforts"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Action Points
+  - Animals
+  - Nature
+  - Family
+  - Euro
+
+evokes:
+  - Progress
+  - Complete
+  - Discovery
+  - Connection
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Roberta Taylor
+publisher:
+  - Kids Table BG
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 8
+
+description: |
+  Maple Valley is a strategy game published by Kids Table BG in 2023, set in the same charming woodland universe as Creature Comforts. Players guide critter scouts through trails, collect spring ingredients, and recruit Friends whose abilities provide movement, resources, special actions, and end-game points. Over five rounds, players build up their team of friends and complete Favour and Patch cards to score victory points, culminating in a spring celebration. The game blends gentle worker-placement and set-collection into an accessible but satisfying family experience with beautiful animal artwork.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: krazy-maze
+name: "Krazy Maze"
+alternate_names: []
+year: 1943
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Historical
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Allen & Howell
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Krazy Maze is a 1943 Australian board game manufactured by Allen & Howell under licence from G. N. Raymond, in which two players race counters along separate winding paths through a densely illustrated picturesque landscape. Players spin a "spino" (a spinning top numbered 1 to 8) to determine movement, and landing on lettered squares triggers special instructions listed inside the game's lid. The game represents a charming snapshot of mid-20th-century Australian tabletop entertainment, with its illustrated landscape and spinner mechanism typical of the era's family games.
+
+upgrades: []

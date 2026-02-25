@@ -1,0 +1,51 @@
+id: ludus-duodecim-scriptorum
+name: "ludus duodecim scriptorum"
+alternate_names:
+  - "Game of Twelve Lines"
+year: -100
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Abstract
+  - Ancient
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Ludus duodecim scriptorum ("game of twelve lines") was a popular Roman board game and a forerunner to backgammon, played on a board of three rows of twelve points each. Two players raced fifteen pieces each around the track, using three cubic dice (later astragali) to determine movement, with the goal of bearing all pieces off the board first. Archaeological evidence of boards has been found across the Roman Empire — carved into stone floors in the Forum and Colosseum — and the game is frequently mentioned in Roman literature. It was eventually superseded by tabula (which used a two-row track), the direct ancestor of modern backgammon.
+
+upgrades: []

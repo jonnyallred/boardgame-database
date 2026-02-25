@@ -1,0 +1,52 @@
+id: leningrad-advance-army-group-north
+name: "Leningrad: The Advance of Army Group North, Summer 1941"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mark Herman
+publisher:
+  - Victory Games
+artist: []
+playtime_minutes: 300
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Leningrad: The Advance of Army Group North, Summer 1941 is an operational hex-and-counter wargame covering the German invasion from East Prussia to the gates of Leningrad during the opening months of Operation Barbarossa. One player commands the Wehrmacht's Army Group North attempting to reach and besiege Leningrad as rapidly as possible, while the Soviet player manages a desperate defensive retreat with limited forces before reinforcements can arrive. The game models the dramatic speed of the German advance and the Soviet struggle to form coherent defensive lines. Published by Victory Games, it belongs to the classic era of operational Eastern Front wargames.
+
+upgrades: []

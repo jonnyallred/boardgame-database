@@ -1,0 +1,52 @@
+id: la-bataille-d-albuera
+name: "La Bataille d'Albuera: Espagnol"
+alternate_names:
+  - La Bataille d'Albuera
+year: 1987
+
+# Relationships
+game_family: la-bataille
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Clash of Arms Games
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 16
+
+description: |
+  La Bataille d'Albuera: Espagnol is a 1987 battalion and regimental-level wargame published by Clash of Arms Games simulating the 1811 Battle of Albuera in the Peninsular War, one of the bloodiest engagements of the Napoleonic campaigns in Spain. Part of the long-running La Bataille series that began in the 1970s, the game uses the detailed and refined system developed over multiple editions for representing Napoleonic tactics at the unit level. Clash of Arms acquired the series in 1984 and polished it through successive rule revisions. Reviewed favorably as an ideal entry point into the La Bataille system, earning 4 out of 5 stars in Games International.
+
+upgrades: []

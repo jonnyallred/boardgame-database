@@ -1,0 +1,53 @@
+id: maatac
+name: "MAATAC"
+alternate_names:
+  - "Multi-functional Armed & Armored Tactical Attack Computer"
+year: 1979
+
+# Relationships
+game_family: "starfleet-wars"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Asymmetric
+  - Variable Player Powers
+  - Sci-Fi
+  - Wargame
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Superior Models
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  MAATAC (Multi-functional Armed & Armored Tactical Attack Computer) is a 1979 sci-fi wargame published by Superior Models, set in the Starfleet Wars universe. The game covers ground combat between robots and tanks from five asymmetric races — Terrans, Entomolians, Avarians, Carnivorans, and Aquarians — each with distinct units and capabilities. Relatively simple and fast-playing for a wargame of its era, MAATAC was originally published alongside the Starfleet Wars naval miniatures system and has been republished through several successor publishers including Monday Knight Productions.
+
+upgrades: []

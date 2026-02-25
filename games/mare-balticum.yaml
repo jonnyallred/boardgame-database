@@ -1,0 +1,53 @@
+id: mare-balticum
+name: "Mare Balticum"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Action Points
+  - Maritime
+  - Family
+  - Euro
+
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Complete
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Nova Suecia Games
+  - Gry Leonardo
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Mare Balticum is a family fishing game set on the Baltic Sea, published by Nova Suecia Games. Players control fishing fleets collecting five types of fish, choosing on each turn to catch fish at their current location, move their ships to richer fishing grounds, or store their catch at port. When clock tokens are drawn, players must commit multipliers to the fish types they expect to dominate at game end, adding a forecasting element to the collection puzzle. The game is distinguished by its beautiful claymation-style artwork that brings the Baltic coast to life in a tactile, warmly textured visual style.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: master-labyrinth
+name: "Master Labyrinth"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: "labyrinth"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Tile Placement
+  - Puzzle Solving
+  - Family
+  - Fantasy
+
+evokes:
+  - Clever
+  - Tension
+  - Complete
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Max Kobbert
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Master Labyrinth is a fantasy maze game published by Ravensburger in 1991, designed by Max Kobbert, who was inspired by the opening and closing of his desk drawer to create the sliding board mechanic. Players are wizards-in-training who must collect numbered ingredient tokens to complete their secret recipe, navigating a constantly shifting maze by sliding a spare tile onto the board each turn to open new paths and close off opponents'. The game won the 1991 Spiel des Jahres special award for Most Beautiful Game, Mensa Select, and Deutscher Spiele Preis. It paved the way for the enormously popular Labyrinth series.
+
+upgrades: []

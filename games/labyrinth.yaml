@@ -1,0 +1,55 @@
+id: labyrinth
+name: "Labyrinth"
+alternate_names:
+  - Das verrückte Labyrinth
+  - The Amazing Labyrinth
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Puzzle Solving
+  - Family
+  - Gateway
+  - Ravensburger
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Max Kobbert
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 7
+
+description: |
+  Labyrinth is a 1986 Ravensburger classic designed by German psychologist Max Kobbert in which 2-4 players navigate a shifting maze to collect treasure tokens. The game board consists of both fixed and sliding tile sections; on each turn, a player inserts a spare tile from the edge to push the row or column, reshaping the maze before moving their token. Players race to reach all their treasures in the order dictated by their cards, using the ever-changing pathways to their advantage while blocking opponents. Published as "Das verrückte Labyrinth" in Germany, it has spawned over 60 versions in nearly 40 years and remains Ravensburger's signature family game title.
+
+upgrades: []

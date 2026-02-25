@@ -1,0 +1,52 @@
+id: lost-patrol
+name: "Lost Patrol"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Dice Rolling
+  - Wargame
+  - War
+  - Historical
+
+evokes:
+  - Tension
+  - Dread
+  - Survival
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Lost Patrol is an asymmetric two-player game published by Games Workshop in 1987 set in the science fiction universe of Warhammer 40,000, in which a small squad of Space Marine Scouts attempts to fight through a hostile jungle crawling with Tyranid Genestealers. One player controls the desperate Marines trying to reach an extraction point, while the other commands ever-replenishing waves of Genestealers emerging from the dense jungle tiles. The modular jungle tile system creates a different board each game, and the Marines' attrition mechanic — they cannot be reinforced — creates relentless tension. A revised edition was published in 2016.
+
+upgrades: []

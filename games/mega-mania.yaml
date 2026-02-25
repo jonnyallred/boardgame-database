@@ -1,0 +1,52 @@
+id: mega-mania
+name: "Mega-Mania"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: "block-mania"
+edition: null
+base_game: "block-mania"
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 4  # Fierce
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Take That
+  - Sci-Fi
+  - Ameritrash
+
+evokes:
+  - Humor
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+
+possible_counts: [3, 4]
+true_counts: [4]
+
+designer:
+  - Richard Halliwell
+publisher:
+  - Games Workshop
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Mega-Mania is a 1987 expansion for Block Mania published by Games Workshop, designed by Richard Halliwell. Set in the dystopian world of Judge Dredd's Mega-City One, the expansion adds two additional city block boards to the base game, enabling play for up to four players simultaneously. Residents of each city block vie to cause maximum chaos and devastation to neighboring blocks before the Judges arrive to restore order. The expansion amplifies Block Mania's anarchic four-way conflict with additional factions and new opportunities for multi-front warfare.
+
+upgrades: []

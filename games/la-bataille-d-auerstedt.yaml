@@ -1,0 +1,56 @@
+id: la-bataille-d-auerstedt
+name: "La Bataille d'Auerstædt"
+alternate_names:
+  - La Bataille d'Auerstedt
+year: 1977
+
+# Relationships
+game_family: la-bataille
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Monte Mattson
+  - Ed Wimble
+  - Dennis A. Spors
+publisher:
+  - Marshal Enterprises
+  - Clash of Arms Games
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 16
+
+description: |
+  La Bataille d'Auerstædt is a 1977 Napoleonic wargame by Marshal Enterprises designed by Monte Mattson, Ed Wimble, and Dennis A. Spors, simulating the October 1806 Battle of Auerstadt in which Davout's single corps remarkably defeated the main Prussian army under the Duke of Brunswick. First released in a ziplock bag, a revised second edition appeared in 1984, and Clash of Arms later re-released it in 1991 after acquiring the entire La Bataille series. Despite early criticism of its rules clarity and production values, the game represents an important early entry in the landmark La Bataille series of Napoleonic simulations.
+
+upgrades: []

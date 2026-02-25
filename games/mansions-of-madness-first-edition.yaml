@@ -1,0 +1,57 @@
+id: mansions-of-madness-first-edition
+name: "Mansions of Madness: First Edition"
+alternate_names:
+  - "Mansions of Madness"
+year: 2011
+
+# Relationships
+game_family: "mansions-of-madness"
+edition: "first"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Narrative Heavy
+  - Modular Board
+  - Cooperative
+  - Horror
+  - Cthulhu
+  - Fantasy Flight Games
+  - Corey Konieczka
+
+evokes:
+  - Dread
+  - Mystery
+  - Tension
+  - Discovery
+  - Unique
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Corey Konieczka
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 180
+min_age: 13
+
+description: |
+  Mansions of Madness: First Edition is a story-driven horror game set in the Arkham Horror universe, designed by Corey Konieczka and published by Fantasy Flight Games in 2011. One player takes the role of the Keeper who controls monsters, manages traps, and guides the narrative while the remaining players cooperatively control investigators exploring a cursed location. Players must uncover clues, solve puzzles, and survive long enough to complete the scenario's objective before the Keeper's plans reach fruition. The game is notable for its immersive 1-vs-many structure and Lovecraftian atmosphere, though it was eventually succeeded by the app-driven Second Edition.
+
+upgrades: []

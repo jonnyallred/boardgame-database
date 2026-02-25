@@ -1,0 +1,59 @@
+id: love-letter
+name: "Love Letter"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Deduction
+  - Bluffing
+  - Set Collection
+  - Party
+  - Family
+  - Filler
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Rivalry
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Seiji Kanai
+publisher:
+  - Z-Man Games
+  - Alderac Entertainment Group
+artist:
+  - Citalli Reyes
+  - Jeff Himmelman
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 10
+
+description: |
+  Love Letter is a compact deduction card game for 2-4 players, played with a tiny deck of just 16 cards representing courtly characters ranked from 1 (the Guard) to 8 (the Princess). On each turn, a player draws one card and must play one of their two cards, triggering its effect — peeking at hands, forcing discards, or eliminating rivals. The last player remaining, or the one holding the highest card when the deck runs out, wins a favor token; collecting enough tokens wins the game. Designed by Seiji Kanai and originally self-published in Japan in 2012, Love Letter became a massive global hit for its brilliant distillation of tension and deduction into just 16 cards.
+
+upgrades: []

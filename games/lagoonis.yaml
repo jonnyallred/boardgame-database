@@ -1,0 +1,50 @@
+id: lagoonis
+name: "Lagoonis"
+alternate_names:
+  - Glupschgeister
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Wonder
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Kosmos
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 6
+
+description: |
+  Lagoonis (known as Glupschgeister in German) is a three-dimensional children's game in which players hunt for creatures called Lagoonies — big-eyed, pale green sea creatures visible through frosted underwater windows that distort their appearance. Each round an octopus spinner determines which Lagoonies must be found, with players discovering and blocking off windows with starfish tokens. The atmospheric deep-sea presentation and tactile three-dimensional board create an immersive and whimsical experience for young players. A player collects nine Lagoonies to win.
+
+upgrades: []

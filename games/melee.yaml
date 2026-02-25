@@ -1,0 +1,54 @@
+id: melee
+name: "Melee"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: "the-fantasy-trip"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Action Points
+  - Dice Rolling
+  - Fantasy
+  - Wargame
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Steve Jackson
+publisher:
+  - Metagaming Concepts
+  - Steve Jackson Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Melee is a tactical arena combat game designed by Steve Jackson and published by Metagaming Concepts in 1977, part of The Fantasy Trip system. Players create characters by distributing points between Strength (hit points and weapon size) and Dexterity (attack accuracy), then maneuver them on a hex grid using precise facing and movement rules while resolving combat through opposed die rolls. Designed as a reaction to Dungeons & Dragons' complex combat, Melee strips arena fighting to its tactical essentials — it is simple to learn yet rewards deep tactical thinking. Re-released by Steve Jackson Games in 2019, it remains a gateway to tactical wargaming.
+
+upgrades: []

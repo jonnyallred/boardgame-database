@@ -1,0 +1,55 @@
+id: magic-maze
+name: "Magic Maze"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Real-time
+  - Modular Board
+  - Tile Placement
+  - Puzzle Solving
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Clever
+  - Humor
+  - Connection
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5]
+
+designer:
+  - Kasper Lapp
+publisher:
+  - Sit Down!
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Magic Maze is a real-time cooperative game for one to eight players in which four fantasy heroes must rob a mall and escape before the sand timer runs out. Each player controls a specific directional action for all heroes — one player moves everyone north, another south, and so on — but players are normally forbidden from speaking, communicating only through a large "Do Something!" pawn they can shove at a teammate. The game's 17 escalating scenarios introduce new rules gradually, making it both a great gateway game and a deceptively tense puzzle. It was a Spiel des Jahres nominee in 2017.
+
+upgrades: []

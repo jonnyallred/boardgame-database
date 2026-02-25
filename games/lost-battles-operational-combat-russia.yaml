@@ -1,0 +1,51 @@
+id: lost-battles-operational-combat-russia
+name: "Lost Battles: Operational Combat in Russia"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Multi-Man Publishing
+artist: []
+playtime_minutes: 300
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Lost Battles: Operational Combat in Russia is an operational-level wargame covering the Eastern Front of World War II at the division and corps level. Players command German and Soviet forces in scenarios ranging from the initial 1941 Barbarossa drives to the war's turning point battles of 1942-43. The game focuses on the asymmetric capabilities of the two sides — Germany's initial doctrinal and equipment superiority against the Soviets' vast manpower and the eventual modernization of the Red Army. Operational tempo, logistics, and the interaction between armor, infantry, and air support are central to the system's modeling of this theater's unique character.
+
+upgrades: []

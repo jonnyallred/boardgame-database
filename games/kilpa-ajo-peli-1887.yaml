@@ -1,0 +1,49 @@
+id: kilpa-ajo-peli-1887
+name: "Kilpa-ajo-peli 1887"
+alternate_names: []
+year: 1887
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Historical
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Kilpa-ajo-peli 1887 is a Finnish racing board game from 1887, one of the earliest known Finnish board games. The game is a simple track-based racing game with period-appropriate components including a printed game board in Finnish. It represents an important artifact in the history of Finnish board gaming culture, with board and game piece images preserved in Wikimedia Commons. Little is known about specific rules beyond its racing format and origins.
+
+upgrades: []

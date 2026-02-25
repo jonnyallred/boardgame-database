@@ -1,0 +1,53 @@
+id: klondike
+name: "Klondike"
+alternate_names:
+  - Solitaire
+  - Patience
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Puzzle Solving
+  - Abstract
+  - Historical
+
+evokes:
+  - Lucky
+  - Clever
+  - Tension
+  - Progress
+  - Complete
+
+possible_counts: [1]
+true_counts: [1]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Klondike is the most well-known solitaire card game in the world, so ubiquitous that "solitaire" in North America typically refers to this game specifically. Using a standard 52-card deck, the single player arranges seven tableau piles in descending alternating-color sequences while simultaneously building four foundation piles sorted by suit from Ace to King. Cards are cycled from a draw pile in groups of one or three, with the goal of moving all 52 cards onto the foundations. The game's near-universal digital popularity through Microsoft's bundled version introduced an entire generation of computer users to patience games.
+
+upgrades: []

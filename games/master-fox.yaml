@@ -1,0 +1,53 @@
+id: master-fox
+name: "Master Fox"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Dexterity
+  - Party
+  - Family
+  - No Math
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Frédéric Vuagnat
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Master Fox is a frenetic tactile dexterity party game designed by Frédéric Vuagnat and published by IELLO in 2015. Players wear fox masks that block their vision and simultaneously reach into the game box with one hand to feel for and grab their target shape among the wooden tokens inside. The simultaneous blind scramble creates chaotic, hilarious moments as players grope for the right piece by touch alone. Quick, silly, and accessible from age 7 upward, Master Fox is a guaranteed crowd-pleaser for family game nights and party settings.
+
+upgrades: []

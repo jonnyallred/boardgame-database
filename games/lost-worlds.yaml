@@ -1,0 +1,53 @@
+id: lost-worlds
+name: "Lost Worlds"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Programmed Movement
+  - Fantasy
+  - Wargame
+  - Racing
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Alfred Leonardi
+publisher:
+  - Nova Game Designs
+  - Books Are Fun
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Lost Worlds is a simultaneous-movement combat system published in 1983 in which each player holds a booklet representing a fantasy combatant — warrior, mage, or creature — and chooses movement and action codes each round that are looked up to reveal illustrated outcomes. Players simultaneously reveal their choices and cross-reference results in their books to see who struck whom and for how much damage. The booklet format is central to the design: each booklet depicts fights from that character's perspective, so different combinations of booklets create different combat scenarios. Published in a long series of individual booklets, Lost Worlds pioneered the "gamebook combat" genre.
+
+upgrades: []

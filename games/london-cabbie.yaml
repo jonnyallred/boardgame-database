@@ -1,0 +1,50 @@
+id: london-cabbie
+name: "London Cabbie"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Route Building
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Waddingtons
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  London Cabbie is a family board game published by Waddingtons in which players take on the role of London taxi drivers, picking up and dropping off passengers around a simplified map of London's landmarks and streets. Players race to complete fares by moving their taxi between pickup and dropoff locations, accumulating the most money in fares to win. The London street map setting and taxi driver theme were novel for its time, and the game offered a gentle introduction to route planning and resource management for families. A light, nostalgic British game from the golden era of Waddingtons family games.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: little-town
+name: "Little Town"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Tile Placement
+  - Resource Management
+  - Euro
+  - Family
+  - City Building
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Agency
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Shun Taguchi
+  - Aya Taguchi
+publisher:
+  - IELLO
+artist:
+  - Sabrina Miramon
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Little Town is a family-weight worker placement and tile placement game for 2-4 players, designed by the husband-and-wife team of Shun and Aya Taguchi. Over four rounds, players place workers onto a central board to collect adjacent resources — wood, stone, fish, and wheat — and use those resources to build buildings on the town board, which in turn generate new resources and points when workers land nearby. The elegant economy of workers-trigger-buildings creates satisfying chain reactions, while a double-sided board offers variety between plays. Quick to learn but rewarding to master, Little Town is a gateway Euro that distills worker placement into its most approachable form.
+
+upgrades: []

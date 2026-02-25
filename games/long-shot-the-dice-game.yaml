@@ -1,0 +1,55 @@
+id: long-shot-the-dice-game
+name: "Long Shot: The Dice Game"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: long-shot
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Dice Rolling
+  - Press Your Luck
+  - Racing
+  - Family
+  - Filler
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Chris Handy
+publisher:
+  - Perplext
+artist:
+  - Clau Souza
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 14
+
+description: |
+  Long Shot: The Dice Game is a roll-and-write horse racing game for 1-8 players in which dice rolls each round determine which horses move and what special actions players can take. Players mark their personal sheets to buy horses, place bets, and apply special abilities, with the game ending once three horses cross the finish line and the player with the most money wins. The simultaneous play means little downtime even at high player counts, and the push-your-luck decisions around when to commit to specific horses create genuine tension. Part of Chris Handy's Roland Wright design series, it successfully translates the excitement of the original Long Shot into a streamlined dice game format.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: korsar
+name: "Korsar"
+alternate_names:
+  - Pirat
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Take That
+  - Bluffing
+  - Family
+  - Gateway
+  - Pirates
+  - Reiner Knizia
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Lucky
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Amigo Spiel
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Korsar (originally titled "Pirat") is a 1991 pirate card game by Reiner Knizia for 2-6 or 8 players, in which players send trading ships on voyages while launching pirate attacks against opponents. Players defend their merchant vessels using pirate and captain cards, while trying to plunder enemy shipping with their own fleet. The single shared deck contains 25 merchant ships, 48 pirate ships, and 5 personality cards. The game won the 1992 Fairplay À la carte Winner award and the 2005 Mensa Select award, demonstrating its enduring appeal as a quick, thematic card game.
+
+upgrades: []

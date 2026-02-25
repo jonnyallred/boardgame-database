@@ -1,0 +1,54 @@
+id: last-will
+name: "Last Will"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Hand Management
+  - Action Points
+  - Euro
+  - Historical
+
+evokes:
+  - Humor
+  - Clever
+  - Rivalry
+  - Progress
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Vladimír Suchý
+publisher:
+  - Czech Games Edition
+artist:
+  - Milan Vavron
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 13
+
+description: |
+  Last Will is a worker placement and hand management game set in Victorian England with an absurd premise: your eccentric uncle has left his fortune to whichever relative can spend their inheritance the fastest. Each round, players choose a plan that determines how many actions they can take and how many cards they can play, then race to burn through money by throwing lavish parties, buying up properties, and keeping expensive horses. The interplay between your plan selection and hand management creates meaningful decisions, and the humorous theme gives the engine-burning mechanics a distinctive flavor. Published by Czech Games Edition, it rewards repeated plays as players master more extravagant spending strategies.
+
+upgrades: []

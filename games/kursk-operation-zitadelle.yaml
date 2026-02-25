@@ -1,0 +1,53 @@
+id: kursk-operation-zitadelle
+name: "Kursk: Operation Zitadelle"
+alternate_names: []
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Sterling S. Hart
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Kursk: Operation Zitadelle is a 1971 SPI hex-and-counter wargame simulating the July 1943 Battle of Kursk, one of the largest tank engagements in history. Designed by Sterling S. Hart with development by Jim Dunnigan, it was one of the first games to simulate a single battle rather than an entire campaign, focusing on the German summer offensive against strongly entrenched Soviet armor. One player commands the attacking German forces while the other defends as the Soviets, across historical and hypothetical scenarios. Dunnigan added an extra movement phase for mechanized forces to simulate tank exploitation breakthroughs, a design innovation that influenced later wargames.
+
+upgrades: []

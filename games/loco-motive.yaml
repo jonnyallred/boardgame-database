@@ -1,0 +1,51 @@
+id: loco-motive
+name: "Loco Motive"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Mystery
+  - Narrative Heavy
+  - Historical
+
+evokes:
+  - Mystery
+  - Tension
+  - Discovery
+  - Clever
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Abacusspiele
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Loco Motive is a deduction and mystery board game set aboard a moving locomotive, in which players investigate a crime that has occurred on the train. Players gather clues from other passengers and different train cars, piecing together the suspect, weapon, and motive before the train reaches its destination. The combination of a locked-room mystery format with the confined geography of a passenger train creates an atmospheric puzzle. The humorous title plays on the word "locomotive" while hinting at the sometimes comical nature of the investigation. Note: limited English-language documentation distinguishes this title from other games and media using the same name.
+
+upgrades: []

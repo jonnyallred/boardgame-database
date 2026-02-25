@@ -1,0 +1,51 @@
+id: life-as-a-blackman
+name: "Life as a BlackMan"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Narrative Heavy
+  - Events
+  - Family
+
+evokes:
+  - Discovery
+  - Tension
+  - Agency
+  - Mystery
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Charles Shell
+publisher:
+  - Cultural Connections
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 15
+
+description: |
+  Life as a BlackMan is an educational board game designed by Charles Shell and published by Cultural Connections in 1999, intended to illustrate the social and systemic challenges faced by African Americans in the United States. Players navigate life events as a Black man in America, encountering barriers, opportunities, and outcomes shaped by institutional racism, economic inequality, and community support systems. The game sparked significant attention and debate, and was used in educational contexts to facilitate conversations about race and privilege. Despite controversy, it has been cited as a pioneering attempt to create board games addressing social justice themes.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: maria
+name: "Maria"
+alternate_names:
+  - "Maria: The War of the Austrian Succession"
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Hand Management
+  - Area Control
+  - Historical
+  - War
+  - Wargame
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Clever
+
+possible_counts: [3]
+true_counts: [3]
+
+designer:
+  - Richard Sivél
+publisher:
+  - Histogame
+  - Rio Grande Games
+artist: []
+playtime_minutes: 180
+min_playtime: 150
+max_playtime: 240
+min_age: 14
+
+description: |
+  Maria is an award-winning three-player wargame designed by Richard Sivél and published in 2009, covering the War of the Austrian Succession from 1741 to 1744. One player controls Austria, a second controls France and Bavaria, while the third plays the unusual dual role of commanding both Prussia (Austria's enemy) and the Pragmatic Army (Austria's ally) across two separate theaters — Bohemia and Flanders — simultaneously. Cards drive strategic options, while hex-based movement and fortress sieges provide tactical depth. Derived from the acclaimed Friedrich, Maria is considered a masterpiece of asymmetric three-player wargame design.
+
+upgrades: []

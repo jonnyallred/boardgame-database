@@ -1,0 +1,58 @@
+id: knarr
+name: "Knarr"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Hand Management
+  - Set Collection
+  - Tableau Building
+  - Euro
+  - Gateway
+  - Historical
+  - Maritime
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Discovery
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Thomas Dupont
+publisher:
+  - Bombyx
+  - Pandasaurus Games
+artist:
+  - Antoine Carrion
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Knarr is a 2023 medium-light engine-building card game by Thomas Dupont in which players lead Viking clans on expeditions, recruiting crew members and sending them to explore destinations for trade and glory. On each turn, players either add a new Viking to their crew (activating all crew members sharing that Viking's icon and drafting another from the matching color column) or explore new destinations to gain rewards and reputation. The game triggers its finale when a player reaches 40 points, with elegant card chaining creating a satisfying engine that grows noticeably more powerful across the 30-minute play session.
+
+upgrades: []

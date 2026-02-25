@@ -1,0 +1,57 @@
+id: knights-of-camelot
+name: "Knights of Camelot"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Variable Setup
+  - Narrative Heavy
+  - Fantasy
+  - Medieval
+  - Mythology
+
+evokes:
+  - Discovery
+  - Agency
+  - Tension
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Glenn Rahman
+  - Kenneth Rahman
+publisher:
+  - TSR
+artist:
+  - Jeff Dee
+  - Darlene Pekul
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Knights of Camelot is a 1980 TSR board game designed by Glenn and Kenneth Rahman (also known for Divine Right) in which 2-6 players take on the roles of freshly knighted knights wandering the Arthurian realm. Players encounter damsels in distress, monsters, brigands, and rival knights across Darlene Pekul's detailed play map, using extensive random tables in the spirit of early RPG adventure. The game sits at the intersection of wargame and role-playing game, offering narrative adventure with competitive victory conditions. It was a finalist at the 1980 Charles S. Roberts Awards in two categories.
+
+upgrades: []

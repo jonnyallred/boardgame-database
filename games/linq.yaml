@@ -1,0 +1,52 @@
+id: linq
+name: "Linq"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Deduction
+  - Word Play
+  - Party
+
+evokes:
+  - Humor
+  - Mystery
+  - Tension
+  - Connection
+  - Clever
+
+possible_counts: [4, 5, 6, 7, 8]
+true_counts: [5, 6, 7, 8]
+
+designer:
+  - Mike Fitzgerald
+publisher:
+  - USAopoly
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 10
+
+description: |
+  Linq is a social deduction word game in which one pair of secretly connected players must find each other by giving one-word clues related to their shared secret word — without revealing it to the other players. All players give a one-word clue, then everyone votes on who they think is linked. The linked pair scores points for finding each other while hiding their connection; the others score for unmasking them. This compact and quick design rewards clever misdirection and reading opponents, and plays well as a warm-up or party game. Its simplicity makes it highly accessible, though experienced groups will exhaust the word list quickly.
+
+upgrades: []

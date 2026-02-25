@@ -1,0 +1,56 @@
+id: mamma-mia
+name: "Mamma Mia!"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - No Math
+  - Family
+  - Filler
+  - Food Theme
+  - Uwe Rosenberg
+
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Humor
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Abacus Spiele
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 7
+
+description: |
+  Mamma Mia! is a light pizza-themed memory card game designed by Uwe Rosenberg and published by Abacus Spiele in 1999. Players layer ingredient cards into a common pile and strategically place their pizza order cards among them, trying to time their placement so the right ingredients appear in the stack when their pizza card is resolved. After three rounds of play, the player who has fulfilled the most pizza orders wins. The game's memory challenge — keeping track of which ingredients have been buried and in what order — gives it surprising depth for such a compact design.
+
+upgrades: []

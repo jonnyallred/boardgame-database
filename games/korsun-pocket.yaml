@@ -1,0 +1,53 @@
+id: korsun-pocket
+name: "Korsun Pocket: Little Stalingrad on the Dnepr"
+alternate_names:
+  - Korsun Pocket
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Jack Radey
+publisher:
+  - People's War Games
+artist: []
+playtime_minutes: 2400
+min_playtime: 1200
+max_playtime: 4800
+min_age: 16
+
+description: |
+  Korsun Pocket: Little Stalingrad on the Dnepr is a 1979 grand-tactical operational "monster" wargame by Jack Radey and People's War Games simulating the encirclement battle at Korsun-Shevchenkovsky (January 25 – February 17, 1944) — the first large-scale German encirclement after Stalingrad. Played at 1:100,000 scale with one mile per hex and battalion-level units, the game features over 1,200 playing pieces and 800 markers and divides each day into two five-hour day turns and a 14-hour night turn. A Game Designers' Guild Select Award Winner in 1979, the game was later updated as Korsun Pocket 2 by Pacific Rim Publishing in 2022.
+
+upgrades: []

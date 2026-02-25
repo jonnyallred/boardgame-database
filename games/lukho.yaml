@@ -1,0 +1,49 @@
+id: lukho
+name: "Lukho"
+alternate_names: []
+year: 1000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Ancient
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Lukho is a traditional African mancala-family game, related to other sowing games played across the African continent. Players distribute seeds or stones around a board of rows and holes using the characteristic mancala mechanic of sowing and capturing, aiming to accumulate the most seeds. Like many traditional African board games, Lukho exists in multiple regional variants with slightly differing rules, and can be played without manufactured equipment using holes dug in earth and pebbles or seeds as pieces. Mancala games are among humanity's oldest recorded board games, with evidence dating back thousands of years.
+
+upgrades: []

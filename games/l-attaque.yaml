@@ -1,0 +1,53 @@
+id: l-attaque
+name: "L'Attaque"
+alternate_names: []
+year: 1909
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Hidden Movement
+  - Abstract
+  - Wargame
+  - Historical
+
+evokes:
+  - Mystery
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Hermance Edan
+publisher:
+  - H. P. Gibson
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  L'Attaque is a 1909 French board game designed by Hermance Edan and patented in November 1908 as "a battle game with mobile pieces on a gameboard." Players deploy 36 pieces each on a 9×10 board, with piece rankings hidden from the opponent until pieces clash — the higher-ranked piece eliminates the lower-ranked. The goal is to capture the opponent's flag. L'Attaque is the direct ancestor of Stratego (1946) and all hidden-information military strategy games of the 20th century. Edan sold English-language rights to H. P. Gibson in the 1920s, helping spread the game internationally.
+
+upgrades: []

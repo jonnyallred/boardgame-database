@@ -1,0 +1,51 @@
+id: la-bataille-de-valmy
+name: "La Bataille de Valmy"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: la-bataille
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Jeux Descartes
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  La Bataille de Valmy is a Napoleonic-era wargame published by Jeux Descartes simulating the Franco-Prussian engagement at the start of the French Revolutionary Wars on 20 September 1792 — the "Miracle of Valmy" that halted the Prussian invasion of France. Part of the La Bataille system of Napoleonic tactical simulations, the game uses the battalion/regimental level rules developed across the series to model the unique characteristics of early Revolutionary War armies. The engagement was historically remarkable for a French citizen army repelling the professional Prussian military, and the game captures the tactical dynamics of this pivotal battle.
+
+upgrades: []

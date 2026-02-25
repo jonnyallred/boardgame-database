@@ -1,0 +1,58 @@
+id: kingdoms
+name: "Kingdoms"
+alternate_names:
+  - Auf Heller und Pfennig
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Pattern Building
+  - Abstract
+  - Euro
+  - Family
+  - Gateway
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Fantasy Flight Games
+  - Kosmos
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Kingdoms is a 2002 tile-placement game by Reiner Knizia in which players build medieval kingdoms by placing tiles on a 5x8 grid, each tile bearing resource values from +6 to -6. Players score at the end of rounds by multiplying each row and column's total tile value by the number of their castle towers in that row or column, rewarding clever positioning of both neutral tiles and personal castles. Originally published as the bazaar-themed "Auf Heller und Pfennig," the medieval retheme suits Knizia's signature style of deceptively simple rules with deep strategic implications. Over three rounds, fortunes shift dramatically as the board fills and scoring opportunities crystallize.
+
+upgrades: []

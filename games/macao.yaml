@@ -1,0 +1,58 @@
+id: macao
+name: "Macao"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Hand Management
+  - Resource Management
+  - Route Building
+  - Euro
+  - Stefan Feld
+
+evokes:
+  - Clever
+  - Progress
+  - Masterful
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Stefan Feld
+publisher:
+  - alea
+  - Rio Grande Games
+  - Ravensburger
+artist:
+  - Julien Delval
+  - Harald Lieske
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Macao is a complex Euro game by Stefan Feld, the 13th entry in the alea big box series, set in the legendary Portuguese trading port in 17th-century China. Each round players draft colored dice rolled by the current player, receiving a matching number of cubes that can only be spent a corresponding number of rounds in the future, creating a demanding puzzle of resource planning. Cubes are spent to activate cards, build city quarters, move ships to deliver goods, and gain gold, all culminating in a tight twelve-round race for victory points. Considered one of Feld's most demanding designs, Macao is celebrated for its unique dice-as-delayed-resources mechanism.
+
+upgrades: []

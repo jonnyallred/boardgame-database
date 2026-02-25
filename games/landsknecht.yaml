@@ -1,0 +1,51 @@
+id: landsknecht
+name: "Landsknecht"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Medieval
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Landsknecht Publishing Services
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Landsknecht is a Renaissance-era wargame that uses individual counters representing footmen and horsemen to simulate tactical combat during the late Middle Ages and early Renaissance in Europe. The game introduces basic military concepts including formation, drill, enfilade, defilade, and battlefield maneuver at a realistic tactical scale. A distinctive feature of the rules is a no-dice mechanism intended to restore fun and suspense through tactical positioning rather than random resolution. The game covers the period of the famous German Landsknecht mercenary infantry formations that dominated European warfare in the 15th and 16th centuries.
+
+upgrades: []

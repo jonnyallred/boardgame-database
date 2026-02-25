@@ -1,0 +1,49 @@
+id: livequiz
+name: "Livequiz"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Trivia
+  - Party
+  - Real-time
+
+evokes:
+  - Tension
+  - Humor
+  - Rivalry
+  - Lucky
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6, 7, 8]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Livequiz is a trivia party game designed to recreate the experience of a live quiz night or pub quiz in board game form. Players or teams answer questions across multiple categories, competing to accumulate points through correct answers, with the fastest correct response often earning bonus points to reward quick thinking. The game typically includes question cards across general knowledge, pop culture, sports, science, and entertainment categories. Limited specific documentation is available about this title's designer and publisher in English-language sources. It serves as a home alternative to organized pub quiz events.
+
+upgrades: []

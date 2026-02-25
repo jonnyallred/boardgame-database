@@ -1,0 +1,56 @@
+id: kingmaker
+name: "Kingmaker"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Negotiation
+  - Variable Player Powers
+  - Wargame
+  - Historical
+  - Medieval
+  - War
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Andrew McNeil
+publisher:
+  - PhilMar Ltd.
+  - Avalon Hill
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Kingmaker is a 1974 diplomatic simulation of England's Wars of the Roses in which 2-6 players control factions of noble families vying to place a royal claimant on the throne. Players maneuver noble cards controlling armies and claimants across a map of England, using military force, intrigue, and diplomacy to outmaneuver rivals. The game captures the shifting alliances and betrayals of the Plantagenet succession crisis from 1450 to 1490, and has been praised as one of the finest diplomacy-oriented simulations available. Originally published by PhilMar in the UK, Avalon Hill's 1976 revised edition added improved Parliament rules and broader distribution.
+
+upgrades: []

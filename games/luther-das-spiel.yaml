@@ -1,0 +1,54 @@
+id: luther-das-spiel
+name: "Luther: Das Spiel"
+alternate_names:
+  - "Luther: The Game"
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Euro
+  - Historical
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Michael Palm
+  - Lukas Zach
+publisher:
+  - Spielworxx
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Luther: Das Spiel is a historical strategy game designed by Michael Palm and Lukas Zach, published by Spielworxx to commemorate the 500th anniversary of the Protestant Reformation. Players compete for influence across the religious and political landscape of early 16th-century Germany and Europe, spreading the influence of either the Reformation or the Catholic Counter-Reformation through a combination of area control and resource management. The game captures the complex political geography of the Holy Roman Empire and the radical transformation that Martin Luther's 95 Theses set in motion. It received attention as a thematically distinctive Euro that approached the Reformation from a strategic simulation angle.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: kraken-attack
+name: "Kraken Attack!"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Action Points
+  - Family
+  - Pirates
+  - Antoine Bauza
+
+evokes:
+  - Tension
+  - Connection
+  - Agency
+  - Lucky
+  - Humor
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Antoine Bauza
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 7
+
+description: |
+  Kraken Attack! is a 2020 cooperative tower-defense board game by Antoine Bauza, published under IELLO's Loki children's imprint, in which 1-4 pirate players coordinate to defend their ship against a tentacled monster's relentless assault. The ship is divided into four quarters connected to eight horizontal sea lanes, each containing one of the Kraken's tentacles, and players must move their pirate pawns between quarters to combat the tentacles threatening their vessel. Intended as a child-friendly introduction to cooperative and tower-defense mechanics, it features a gorgeous Kraken figurine, eight tentacle miniatures, and card-driven player actions.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: medici
+name: "Medici"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Set Collection
+  - Trading
+  - Euro
+  - Historical
+  - Reiner Knizia
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Amigo
+  - Rio Grande Games
+  - Steamforged Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Medici is a classic German auction game by Reiner Knizia, first published by Amigo in 1995. Players are Renaissance merchants competing to acquire the most valuable cargo from a shared deck of commodity cards, with each round featuring a Dutch-style bidding process for lots of one to three cards. Victory points come from the value of goods loaded onto your ship and from having a majority in each commodity type at game end. The tension between paying too much for a great lot and letting opponents grab it cheaply is the game's elegant core, and its short play time and simple rules made it a Spiel des Jahres recommended game.
+
+upgrades: []

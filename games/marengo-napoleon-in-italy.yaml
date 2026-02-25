@@ -1,0 +1,54 @@
+id: marengo-napoleon-in-italy
+name: "Marengo: Napoleon in Italy, 14 June 1800"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: "napoleon-at-war-quadrigame"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Historical
+  - War
+  - Wargame
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - David Isby
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Marengo: Napoleon in Italy, 14 June 1800 is a hex-and-counter board wargame published by Simulations Publications Inc. (SPI) in 1975 as part of the Napoleon at War quadrigame. Designed by David Isby with graphic design by Redmond A. Simonsen, it simulates the famous Battle of Marengo between Napoleon's French forces and the Austrian army under General Melas at the operational level. One of four related games packaged together, it represents a key moment in the Italian campaign of the French Revolutionary Wars and was a foundational wargame title in SPI's prolific catalog.
+
+upgrades: []

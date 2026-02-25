@@ -1,0 +1,56 @@
+id: kings-breakfast
+name: "King's Breakfast"
+alternate_names:
+  - King Lui
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Auctions/Bidding
+  - Family
+  - Gateway
+  - Alan R. Moon
+
+evokes:
+  - Clever
+  - Tension
+  - Humor
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Alan R. Moon
+  - Aaron Weissblum
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  King's Breakfast is a light 2003 card game designed by Alan R. Moon and Aaron Weissblum, published by Rio Grande Games, in which players are guests at the king's breakfast table competing to eat the most of the dishes the king prefers. Players draw and pass cards representing courses, but there is a strict rule: no guest may eat more of any dish than the king does. The king's gluttonous pet dragon Emerald steals food periodically, adding unpredictability to the meal. Beloved by Moon himself for its elegant simplicity and surprising balance in just a small card set.
+
+upgrades: []

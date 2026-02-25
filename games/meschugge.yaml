@@ -1,0 +1,53 @@
+id: meschugge
+name: "Meschugge"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Hand Management
+  - No Math
+  - Family
+  - Party
+  - Word Play
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Amigo
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  Meschugge is a quick-fire card and dice game first published by Amigo in 1988, with a revised 2009 edition. Players must rapidly match cards to a command card based on either the color of the word or the word itself, depending on what the die shows — creating the Stroop-effect style cognitive challenge where "reading the word" and "seeing the color" interfere with each other. When the command card shows a color-matched word (called "meschugge" — Yiddish for "crazy"), no one may play. The game's neurological trick of forcing players to switch between word and color processing makes it simultaneously simple and surprisingly difficult.
+
+upgrades: []

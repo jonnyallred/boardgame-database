@@ -1,0 +1,51 @@
+id: marienbad
+name: "Marienbad"
+alternate_names:
+  - "Nim"
+year: 1961
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Deduction
+  - No Math
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Mystery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 5
+min_playtime: 2
+max_playtime: 10
+min_age: 8
+
+description: |
+  Marienbad is a variant of the ancient mathematical game Nim, popularized by the 1961 French New Wave film "Last Year at Marienbad" (L'Année dernière à Marienbad). Two players alternate taking any number of objects from four piles of 1, 3, 5, and 7 items, with the player forced to take the last object losing. The game has a known optimal strategy derivable through binary number analysis — the second player can always guarantee victory from the starting position — making it both a puzzle of pure logic and a study in mathematical game theory. Despite its theoretical solution, it remains an enduring parlor game and mathematical curiosity.
+
+upgrades: []

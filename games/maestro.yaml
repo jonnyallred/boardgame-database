@@ -1,0 +1,51 @@
+id: maestro
+name: "Maestro"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Auctions/Bidding
+  - Euro
+  - Abstract
+
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Hans im Glück
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Maestro is a German-style board game published by Hans im Glück in 1989 in which players run theatrical agencies competing to fill ten orchestras of varying sizes with musicians. Players acquire musician cards and strategically assign them to orchestras, trying to complete the most valuable ensembles before opponents can claim them. The game is an early example of the set-collection Euro style that Hans im Glück would become famous for. Limited English-language sources are available for this title.
+
+upgrades: []

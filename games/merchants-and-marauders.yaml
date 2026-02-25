@@ -1,0 +1,58 @@
+id: merchants-and-marauders
+name: "Merchants & Marauders"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Trading
+  - Modular Board
+  - Variable Player Powers
+  - Dice Rolling
+  - Pirates
+  - Maritime
+  - Ameritrash
+  - Z-Man Games
+
+evokes:
+  - Discovery
+  - Agency
+  - Powerful
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Kasper Aagaard
+  - Christian Marcussen
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 13
+
+description: |
+  Merchants & Marauders is a pirate sandbox game designed by Kasper Aagaard and Christian Marcussen and published by Z-Man Games in 2010. Players captain ships across the Caribbean during the Golden Age of Piracy, choosing their path between honest merchant trading and daring piracy to be the first to accumulate 10 glory points. The game features distinct player ship and captain types, a deep thematic combat system covering both broadside cannon fire and boarding actions, and rich event-driven narrative. Long considered the definitive pirate board game, it has been out of print for years but retains an avid following.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: kremlin
+name: "Kremlin"
+alternate_names:
+  - Kreml
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Bluffing
+  - Negotiation
+  - Area Control
+  - Variable Player Powers
+  - Historical
+
+evokes:
+  - Tension
+  - Humor
+  - Rivalry
+  - Clever
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Urs Hostettler
+publisher:
+  - Fata Morgana Spiele
+  - Avalon Hill
+artist:
+  - Res Brandenberger
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Kremlin is a 1986 satirical political game by Swiss designer Urs Hostettler in which players secretly control multiple Soviet politicians arranged in a pyramid of power, maneuvering aging apparatchiks toward the General Secretary position. Players influence, bribe, and assassinate rivals while keeping their own controlled politicians alive long enough to reign from the top — all while Soviet officials age and die with darkly comic regularity. The original Fata Morgana edition required funeral speeches and vodka shots for deceased chairmen; the 1988 Avalon Hill English edition stripped the satire but broadened the audience. Won the 1988 Origins Award for Best Boardgame Covering the Period 1900-1946.
+
+upgrades: []

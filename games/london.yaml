@@ -1,0 +1,56 @@
+id: london
+name: "London"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Engine Building
+  - Euro
+  - Historical
+  - City Building
+  - Martin Wallace
+
+evokes:
+  - Progress
+  - Clever
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Martin Wallace
+publisher:
+  - Treefrog Games
+artist:
+  - Peter Dennis
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  London is a card-driven city-building game by Martin Wallace in which players rebuild the city after the Great Fire of London, constructing boroughs and playing cards representing buildings of economic, political, and cultural significance. On each turn, players run their built-up city to generate money and victory points — but running the city also accrues poverty tokens, which can devastate a final score. Managing the balance between rapid development and poverty accumulation is central to every decision. Originally published by Treefrog Games in 2010 and later revised by Osprey Games, London rewards strategic planning across overlapping card synergies and remains one of Wallace's most celebrated designs.
+
+upgrades: []

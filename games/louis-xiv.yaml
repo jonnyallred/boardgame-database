@@ -1,0 +1,56 @@
+id: louis-xiv
+name: "Louis XIV"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Area Control
+  - Set Collection
+  - Euro
+  - Historical
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Rüdiger Dorn
+publisher:
+  - Rio Grande Games
+  - Alea
+artist:
+  - Julien Delval
+  - Volkan Baga
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 100
+min_age: 12
+
+description: |
+  Louis XIV is a strategic influence game set in the court of the Sun King, where 2-4 players compete to complete missions by placing influence tokens on high-ranking courtiers at Versailles. Each round, players simultaneously assign their limited influence tokens to various attendants, with the majority holder gaining the attendant's special ability and mission rewards. The game requires careful balance between gathering resources, completing missions, and blocking opponents from achieving their goals. Winner of the 2005 Deutscher Spiele Preis, it offers a distinctive tactical puzzle within the thematic backdrop of 17th-century French court intrigue.
+
+upgrades: []

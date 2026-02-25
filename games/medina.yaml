@@ -1,0 +1,55 @@
+id: medina
+name: "Medina"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - City Building
+  - Abstract
+  - Euro
+  - Historical
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Stefan Dorra
+publisher:
+  - Hans im Glück
+  - Rio Grande Games
+artist: []
+playtime_minutes: 45
+min_playtime: 45
+max_playtime: 60
+min_age: 10
+
+description: |
+  Medina is a deceptively strategic city-building game by Stefan Dorra, published in 2001, in which players collaboratively build the sprawling desert city of Medina but ruthlessly compete to claim its buildings for points. Players take turns placing building pieces onto partially built structures, but a building can only be claimed once it has pieces of all required types — meaning players must balance contributing to buildings they intend to claim while preventing opponents from claiming valuable ones first. The game creates intense psychological tension around the timing of building claims, making every placement a calculated risk. A second edition with additional variants was published by Stronghold Games in 2017.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: living-landscapes
+name: "Living Landscapes"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Set Collection
+  - No Math
+  - Nature
+
+evokes:
+  - Wonder
+  - Complete
+  - Clever
+  - Discovery
+  - Connection
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1]
+
+designer:
+  - Shei S.
+publisher:
+  - Helvetiq
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Living Landscapes is a serene solitaire or cooperative puzzle game in which players arrange habitat cards to create a thriving natural ecosystem, matching edges of forest, meadow, wetland, and other terrain types while placing animal tokens in their correct habitats. Each round, players draw cards and must fit them into their personal landscape, scoring points for completed habitats and successfully placed animals. The peaceful nature theme and gentle puzzle mechanics make it an ideal solo or cooperative experience for players seeking a calming, meditative game. Published by Helvetiq, it delivers a satisfying sense of natural order being restored with each completed landscape.
+
+upgrades: []

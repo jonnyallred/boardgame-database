@@ -1,0 +1,50 @@
+id: kitty-bitty
+name: "Kitty Bitty"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Connection
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Blue Orange Games
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 4
+
+description: |
+  Kitty Bitty is a 2019 children's memory and dice-rolling game by Blue Orange Games in which players help little kittens play without being caught napping by the watchful Mommy Cats. On their turn, players roll a colored die and peek at the corresponding mommy cat token; if it shows nothing, they can move their kitten forward, but if a cat is watching, their turn ends. The game features beautifully crafted wooden pieces that double as memory tokens, developing color-matching and memory skills for children ages 4 and up.
+
+upgrades: []

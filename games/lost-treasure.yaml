@@ -1,0 +1,50 @@
+id: lost-treasure
+name: "Lost Treasure"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+
+evokes:
+  - Lucky
+  - Discovery
+  - Tension
+  - Rivalry
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - MB Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 7
+
+description: |
+  Lost Treasure is a family board game published by MB Games in which players compete as treasure hunters navigating a map to find and collect hidden treasure before their opponents. Players roll dice and move their pieces around the board, flipping tiles or cards to discover whether a location holds treasure or a trap. The simple race-and-collect format and light randomness make it accessible to young players, while the theme of adventure and discovery gives it appealing flavor. A product of the MB Games golden era of family gaming in the early 1980s.
+
+upgrades: []

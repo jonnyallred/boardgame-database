@@ -1,0 +1,53 @@
+id: knight-of-justice
+name: "Knight of Justice"
+alternate_names:
+  - Knights of Justice: The Siege of Malta, 1565
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - Medieval
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Colin Bruce
+publisher:
+  - 3W
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Knight of Justice (also known as Knights of Justice: The Siege of Malta, 1565) is a 1986 hex-and-counter wargame by Colin Bruce published in Wargamer magazine issue #50 by 3W (Three-W Publications). The game covers the grand tactical level Ottoman siege of Malta against the Knights of St. John and their Maltese allies, operating at a scale of one week per turn and 50 yards per hex, with counters representing 30 to 525 men. Players contest control of the key defenses of Grand Harbor in this historically significant confrontation often called the last battle of the Crusades. As a magazine-format wargame, it is a compact but detailed simulation of one of the Renaissance era's most dramatic military encounters.
+
+upgrades: []

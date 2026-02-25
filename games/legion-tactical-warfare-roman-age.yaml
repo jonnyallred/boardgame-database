@@ -1,0 +1,51 @@
+id: legion-tactical-warfare-roman-age
+name: "Legion: Tactical Warfare in the Roman Age, 100BC-700AD"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Ancient
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Legion: Tactical Warfare in the Roman Age is a block wargame covering land battles from the late Roman Republic through the fall of the Western Empire, spanning 100 BC to 700 AD. Players command armies of Romans, barbarians, Greeks, Persians, Sassanids, and other powers using a common system that models the diverse tactical doctrines of the ancient world — from the Roman legion's manipular flexibility to the cataphract charges of eastern kingdoms. The block system provides natural fog of war as stacked blocks are placed facing the controlling player, concealing strength from the opponent until contact. Scenarios cover dozens of historical battles across the long arc of Roman military history.
+
+upgrades: []

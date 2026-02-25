@@ -1,0 +1,53 @@
+id: l-anniversaire-des-triples
+name: "L'Anniversaire des triplés"
+alternate_names:
+  - The Triplets' Birthday
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Connection
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Nicole Lambert
+  - Frédéric Réverend
+publisher:
+  - Nathan
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 4
+
+description: |
+  L'Anniversaire des triplés (The Triplets' Birthday) is a 1991 French children's board game published by Nathan in which players advance along a calendar track divided by months. Players use dice to move their cake-shaped game pieces around the track, collecting candles each time they pass their birth month and gift cards when landing on it exactly — but some gifts are poisoned. The first player to collect enough candles to match their age wins. A light, thematic racing game designed to introduce young children to turn-based board gaming through a birthday celebration theme.
+
+upgrades: []

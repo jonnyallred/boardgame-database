@@ -1,0 +1,53 @@
+id: marrakesh
+name: "Marrakesh"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Simultaneous Action
+  - Resource Management
+  - Action Points
+  - Euro
+  - Stefan Feld
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 14
+
+description: |
+  Marrakesh is a point-salad Euro game by Stefan Feld, published by Queen Games in 2022 as part of the Stefan Feld City Collection. Players simultaneously and secretly select three colored cylinders from behind their screens to activate a shared action wheel, then take actions based on the revealed combination — exploring the desert, harvesting figs, advancing on the mosque and palace tracks, and collecting luxury items for scoring. The simultaneous selection system creates fascinating mind-game dynamics as players try to anticipate and deny opponents' chosen actions. One of Feld's more ambitious recent designs, it is praised for its puzzle depth and visual spectacle.
+
+upgrades: []

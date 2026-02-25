@@ -1,0 +1,52 @@
+id: la-belle-alliance
+name: "La Belle Alliance: The Battle of Waterloo"
+alternate_names:
+  - La Belle Alliance
+year: 1976
+
+# Relationships
+game_family: napoleons-last-battles
+edition: null
+base_game: napoleons-last-battles
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  La Belle Alliance: The Battle of Waterloo is a 1976 SPI board wargame simulating Napoleon's final battle on June 18, 1815, published as one of four games in the Napoleon's Last Battles "quadrigame." The game pits Napoleon's French Armée du Nord against Wellington's Allied forces and Blücher's Prussian army, capturing the desperate French attacks on Wellington's ridge position and the critical timing of Prussian reinforcement. Using the shared rules system of Napoleon's Last Battles, it allows for varied play from solo scenarios to head-to-head command. The quadrigame format made it highly efficient to produce alongside Ligny, Wavre, and Quatre Bras.
+
+upgrades: []

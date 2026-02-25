@@ -1,0 +1,53 @@
+id: lunch-money
+name: "Lunch Money"
+alternate_names: []
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Take That
+  - Party
+  - Filler
+
+evokes:
+  - Humor
+  - Tension
+  - Powerful
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - C.E. Wiedman
+publisher:
+  - Atlas Games
+artist:
+  - Andrew Yates
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Lunch Money is an irreverent elimination card game for 2-5 players centered on a darkly humorous schoolyard brawl theme, featuring Gothic black-and-white photographs of a pigtailed girl. Each player starts with 15 health points and takes turns playing attack cards — punches, kicks, and nasty special moves — against opponents who can attempt to block, dodge, or counter-attack. The last player standing wins. Released by Atlas Games in 1996, it jointly won the Origins Award for Best Card Game of 1996, and its audacious photography and straightforward mechanics made it a cult favorite in the early CCG era despite being a conventional card game.
+
+upgrades: []

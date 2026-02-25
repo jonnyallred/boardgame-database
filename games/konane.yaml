@@ -1,0 +1,50 @@
+id: konane
+name: "Konane"
+alternate_names:
+  - Kōnane
+  - Hawaiian Checkers
+year: 1100
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 8
+
+description: |
+  Kōnane is a traditional two-player strategy board game invented by the ancient Hawaiian Polynesians, historically favored by the ali'i (royal chiefs) as both a mind-sharpening exercise and a gambling game. The board begins completely filled with alternating black and white stones; players take turns making mandatory orthogonal capture jumps — unlike draughts, all moves must be captures, and the player who cannot capture loses. The game's deceptively simple rules conceal significant strategic depth as positions become increasingly constrained, making it a genuinely distinct abstract game rather than a variant of Western checkers.
+
+upgrades: []

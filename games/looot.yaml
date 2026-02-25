@@ -1,0 +1,51 @@
+id: looot
+name: "Looot"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Set Collection
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Complete
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Stefan Kloß
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+description: |
+  Looot is a tile-laying abstract game published by Ravensburger in which players draw and place treasure chest tiles onto a grid, scoring points by completing rows, columns, or connected groups matching specific treasure types. Each turn players draw tiles and must place them adjacently, with careful positioning unlocking bonus scoring opportunities while blocking opponents. The pirate-treasure theme adds color to what is fundamentally a tight abstract placement puzzle. With quick setup and short play time, Looot works well as a filler or family game for players who enjoy spatial thinking and set completion challenges.
+
+upgrades: []

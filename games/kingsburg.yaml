@@ -1,0 +1,57 @@
+id: kingsburg
+name: "Kingsburg"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Worker Placement
+  - Resource Management
+  - Engine Building
+  - Euro
+  - Gateway
+  - Medieval
+
+evokes:
+  - Agency
+  - Progress
+  - Tension
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Andrea Chiarvesio
+  - Luca Iennaco
+publisher:
+  - Fantasy Flight Games
+  - Stratelibri
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Kingsburg is a 2007 dice placement game by Andrea Chiarvesio and Luca Iennaco where 2-5 players govern frontier territories by rolling dice and assigning their results to influence King Tritus's advisors. Over five in-game years (20 turns), players collect resources to construct buildings and field armies, as every fourth turn brings an invading army all must defend against simultaneously. The allocation of dice to numbered advisors creates elegant push-and-pull tension as players compete for the same influential figures with limited dice pools. First published by Stratelibri in Italy, Fantasy Flight Games brought it to global audiences in 2008.
+
+upgrades: []

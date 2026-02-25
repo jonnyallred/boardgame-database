@@ -1,0 +1,52 @@
+id: kraken-alarm
+name: "Kraken-Alarm"
+alternate_names:
+  - SOS Octopus
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Maritime
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Connection
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Oliver Igelhaut
+publisher:
+  - Kosmos
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 4
+
+description: |
+  Kraken-Alarm is a 2010 children's memory and dexterity game by Oliver Igelhaut and Kosmos in which players navigate a sea region home to a protective octopus father and his young son. Players must remember the positions of hidden animal chips in the sea area, then contend with a swinging tentacle mechanism that introduces a luck element as they move their boats. The game won the 2010 Deutscher Kinderspiele Preis (German Children's Game Prize) and received a Kinderspiel des Jahres nomination, recognizing its charming combination of memory and surprise. It was published in France as SOS Octopus.
+
+upgrades: []

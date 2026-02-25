@@ -1,0 +1,56 @@
+id: merv-the-heart-of-the-silk-road
+name: "Merv: The Heart of the Silk Road"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Area Control
+  - Hand Management
+  - Economic
+  - Historical
+  - Euro
+  - Osprey Games
+
+evokes:
+  - Progress
+  - Tension
+  - Agency
+  - Clever
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Fabio Lopiano
+publisher:
+  - Osprey Games
+artist:
+  - Ian O'Toole
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Merv: The Heart of the Silk Road is a tense economic worker placement game by Fabio Lopiano with art by Ian O'Toole, published by Osprey Games in 2020. Players are merchants competing for power and wealth in the greatest city of the medieval Silk Road, vying for influence through court intrigue, donations to the grand mosque, and securing lucrative trade deals — all while Mongol hordes creep ever closer to the city walls. The threat of the Mongol invasion creates a constant ticking clock: contributing to the city's defenses delays destruction but costs valuable actions, while ignoring it courts catastrophic point loss. The beautiful production and taut action economy made it one of 2020's most acclaimed releases.
+
+upgrades: []

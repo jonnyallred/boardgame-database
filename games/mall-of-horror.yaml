@@ -1,0 +1,56 @@
+id: mall-of-horror
+name: "Mall of Horror"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 4  # Fierce
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Bluffing
+  - Social Deduction
+  - Traitor
+  - Zombies
+  - Horror
+  - Party
+  - Asmodee
+
+evokes:
+  - Tension
+  - Persuasion
+  - Humor
+  - Rivalry
+  - Dread
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [5, 6]
+
+designer:
+  - Nicolas Normandon
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Mall of Horror is a survival negotiation game designed by Nicolas Normandon and published by Asmodee in 2005. Each player controls three characters — a blonde, a bad boy, and a brute — trapped in a zombie-invaded shopping mall where locations fill with undead each round. When a location becomes overwhelmed, the players present there must vote for who gets sacrificed to the zombie horde, turning every round into a tense negotiation of alliances, bribes, and betrayal. The tagline "Survival is in the Betrayal" captures its spirit: it plays like a shorter, more vicious version of Diplomacy with zombies, rewarding political cunning over tactical play.
+
+upgrades: []

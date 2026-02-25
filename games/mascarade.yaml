@@ -1,0 +1,54 @@
+id: mascarade
+name: "Mascarade"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Social Deduction
+  - Hand Management
+  - Party
+  - Medieval
+
+evokes:
+  - Tension
+  - Humor
+  - Mystery
+  - Persuasion
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+true_counts: [6, 7, 8, 9, 10]
+
+designer:
+  - Bruno Faidutti
+publisher:
+  - Repos Production
+  - Asmodee
+artist: []
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 35
+min_age: 10
+
+description: |
+  Mascarade is a fast-paced bluffing card game for two to thirteen players designed by Bruno Faidutti and published by Repos Production in 2013. Each player holds a hidden character card with a special power — judge, bishop, queen, witch, and others — and the goal is to reach 13 gold coins first. Players can look at their own card, swap cards facedown with another player (or pretend to), or loudly announce they have a specific character and claim its power, with others able to challenge the claim. The constant card shuffling and memory challenge creates hilarious uncertainty about one's own identity, earning Mascarade its reputation as one of Faidutti's best-selling games.
+
+upgrades: []

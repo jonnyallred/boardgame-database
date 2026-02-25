@@ -1,0 +1,58 @@
+id: las-vegas
+name: "Las Vegas"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Auctions/Bidding
+  - Press Your Luck
+  - Simultaneous Action
+  - Family
+  - Gateway
+  - Filler
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Humor
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Rüdiger Dorn
+publisher:
+  - Ravensburger
+  - Alea
+artist:
+  - Claus Stephan
+  - Mirko Suzuki
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+description: |
+  Las Vegas is a fast-paced dice game in which 2-5 players compete as high-rolling gamblers betting on six casino boards. Each turn, players roll all their dice and must place all dice showing the same number onto the matching casino, with the player who has placed the most dice at each casino when the round ends claiming its highest-value bill. The clever twist is that ties cancel out, meaning a well-timed blitz of dice can wipe out an opponent's lead — making every roll a gamble. Nominated for the Spiel des Jahres in 2012, it delivers pure push-your-luck excitement in a compact 30-minute package.
+
+upgrades: []

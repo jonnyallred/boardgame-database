@@ -1,0 +1,51 @@
+id: kula-kula
+name: "Kula Kula"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Reinhold Wittig
+publisher:
+  - Blatz
+artist:
+  - Hartmut Gärling
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Kula Kula is a 1993 abstract board game designed by Reinhold Wittig and published by Blatz, for 3-5 players aged 8 and up with a playtime of about 30 minutes. Little detailed information is available about the game's specific mechanics beyond its abstract gameplay and age-appropriate scope, suggesting it is a straightforward abstract game in the tradition of Reinhold Wittig's other simple but engaging designs.
+
+upgrades: []

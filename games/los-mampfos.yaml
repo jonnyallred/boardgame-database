@@ -1,0 +1,50 @@
+id: los-mampfos
+name: "Los Mampfos"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Memory
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 5
+
+description: |
+  Los Mampfos is a German children's game published by Ravensburger featuring colorful monster or creature characters ("Mampfos") with eating or chomping as a central theme. Players likely compete to be the first to complete a simple task involving the Mampfos figures — matching colors, placing pieces, or performing a dexterity action before opponents. The bright colors and appealing monster characters make it attractive to young children, and the simple rules ensure even preschool-age children can participate. A classic example of Ravensburger's line of action and coordination games for young players.
+
+upgrades: []

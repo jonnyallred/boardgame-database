@@ -1,0 +1,50 @@
+id: knights-and-knaves
+name: "Knights and Knaves"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Bluffing
+  - Social Deduction
+  - Abstract
+
+evokes:
+  - Mystery
+  - Clever
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Knights and Knaves is a deduction-based game inspired by the classic logic puzzle format in which some players (knights) always tell the truth and others (knaves) always lie. Originating from puzzle traditions formalized by Raymond Smullyan in 1978, the game challenges players to determine each other's hidden roles through strategic questioning. Players must use logical reasoning to identify who can be trusted, making it an accessible introduction to formal deductive reasoning through game play. Exact publisher and production details vary by edition.
+
+upgrades: []

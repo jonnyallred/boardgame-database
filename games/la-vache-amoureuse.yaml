@@ -1,0 +1,54 @@
+id: la-vache-amoureuse
+name: "La Vache Amoureuse"
+alternate_names:
+  - The Love-Struck Cow
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Deduction
+  - Abstract
+  - Humor
+  - Animals
+
+evokes:
+  - Tension
+  - Mystery
+  - Clever
+  - Humor
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Yves Renou
+publisher:
+  - Paille Editions
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  La Vache Amoureuse (The Love-Struck Cow) is a French two-player bluffing and deduction game by Yves Renou and Paille Editions in which each player secretly designates one of their wooden cow pieces as the "vache amoureuse" — the cow secretly in love with the prize bull Marcel. Players move their cows by randomly drawing straws from their opponent's hand; the first to bring their love-struck cow to Marcel's end of the field wins, but the love-struck cow cannot capture others (being blinded by love). Alternatively, a player wins by capturing their opponent's love-struck cow. The hidden identity mechanic and charming wooden components make it a distinctive abstract game.
+
+upgrades: []

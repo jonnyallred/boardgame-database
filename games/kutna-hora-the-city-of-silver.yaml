@@ -1,0 +1,57 @@
+id: kutna-hora-the-city-of-silver
+name: "Kutná Hora: The City of Silver"
+alternate_names:
+  - Kutna Hora The City of Silver
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Worker Placement
+  - Resource Management
+  - Asymmetric
+  - Variable Player Powers
+  - Euro
+  - City Building
+  - Historical
+  - Czech Games Edition
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Czech Games Edition
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  Kutná Hora: The City of Silver is a 2023 historical economic euro game for 2-4 players from Czech Games Edition set in 14th-century Bohemia during the rapid growth of the famous silver mining city. Players lead ambitious guild leaders mining silver and developing the city across a dynamic supply-and-demand economic system where every action genuinely affects prices and market conditions. Gameplay involves mining, land acquisition, building for affiliated guilds, and contributing to the construction of Saint Barbara's Cathedral. The game shines brightest at higher player counts where the push-and-pull of competing guild interests creates authentic historical economic tension.
+
+upgrades: []

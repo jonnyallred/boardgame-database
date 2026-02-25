@@ -1,0 +1,55 @@
+id: lotus
+name: "Lotus"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Set Collection
+  - Abstract
+  - Nature
+
+evokes:
+  - Wonder
+  - Tension
+  - Clever
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Romi Chassagne
+  - Jordan Draper
+publisher:
+  - Renegade Game Studios
+artist:
+  - Jen Vaughn
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Lotus is a hand management and area control card game for 2-4 players in which players compete to control a garden of five types of flowers — irises, primroses, cherry blossoms, lilies, and lotuses — by playing petal cards and placing guardian tokens. Each flower is completed by a specific number of petals, and when a flower is completed the player who has the dominant presence (via guardians and petals) claims it. The exquisitely illustrated petals create real blooming flowers on the table as the game progresses, making it as beautiful to display as it is to play. Published by Renegade Game Studios, its straightforward rules mask real tactical depth around guardian placement and hand management.
+
+upgrades: []

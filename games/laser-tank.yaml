@@ -1,0 +1,50 @@
+id: laser-tank
+name: "Laser Tank"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Programmed Movement
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Pressman
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Laser Tank is an abstract two-player game in which players maneuver tank pieces on a grid and fire laser beams that bounce off mirror-equipped pieces to try to destroy the opponent's laser tank. Each player arranges mirror pieces that deflect beams, creating defensive angles while positioning their tank for an offensive shot. The puzzle of predicting beam paths through a field of mirrors creates a distinctive spatial challenge, and the setup phase where players position their mirrors adds strategic depth before a single shot is fired. A compact game that delivers meaningful geometric thinking in a simple format.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: ludo
+name: "Ludo"
+alternate_names:
+  - "Uckers"
+  - "Parcheesi"
+year: 1896
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Connection
+  - Humor
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 4
+
+description: |
+  Ludo is a classic race-and-chase board game derived from the ancient Indian game of Pachisi, which itself dates back to at least the 4th century AD. Patented in England in 1896 by Alfred Collier, each player rolls a die and races four tokens from their starting yard around the cross-shaped board to the center home area, attempting to land on opponents' tokens to send them back to start. Pure dice luck drives the game with almost no strategic decisions, making it accessible to the youngest players while its competitive elimination element keeps adults engaged. Ludo remains one of the most widely played board games in the world, particularly popular across South Asia, Europe, and Africa.
+
+upgrades: []

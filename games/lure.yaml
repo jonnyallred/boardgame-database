@@ -1,0 +1,51 @@
+id: lure
+name: "Lure"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Bluffing
+  - Set Collection
+  - Animals
+
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Rivalry
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  Lure is a light card game with a fishing theme in which players compete to catch the most valuable or largest collection of fish from a shared pool of available cards. Players lure fish to their lines by playing cards from their hand, with bluffing and reading opponents' intentions creating light competitive tension. The nautical fishing theme is rendered accessibly for family audiences, and the short play time makes it suitable as a quick filler game. Published by Mayfair Games, it is one of several compact card game offerings from the publisher's lighter game catalog.
+
+upgrades: []

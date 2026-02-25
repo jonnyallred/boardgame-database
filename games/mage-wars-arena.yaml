@@ -1,0 +1,55 @@
+id: mage-wars-arena
+name: "Mage Wars Arena"
+alternate_names:
+  - "Mage Wars"
+year: 2012
+
+# Relationships
+game_family: "mage-wars"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Asymmetric
+  - Variable Player Powers
+  - Dice Rolling
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Masterful
+  - Powerful
+  - Agency
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Bryan Pope
+publisher:
+  - Arcane Wonders
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  Mage Wars Arena is a customizable strategy dueling game that merges the depth of collectible card games with miniature-style tactical arena combat. Each player is a powerful mage — Wizard, Warlock, Beastmaster, or Priestess — who builds a custom spellbook from over 300 available spells before the game. Unlike deck builders, the game is not collectible and there is no random card draw; players choose exactly which spells to cast from their open spellbook, enabling highly strategic play. The game won numerous awards on release and is celebrated for its unparalleled strategic depth among two-player games.
+
+upgrades: []

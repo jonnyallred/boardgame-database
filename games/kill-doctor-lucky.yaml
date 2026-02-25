@@ -1,0 +1,54 @@
+id: kill-doctor-lucky
+name: "Kill Doctor Lucky"
+alternate_names: []
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Take That
+  - Humor
+  - Party
+  - Gateway
+
+evokes:
+  - Humor
+  - Rivalry
+  - Tension
+  - Agency
+  - Lucky
+
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5, 6]
+
+designer:
+  - James Ernest
+publisher:
+  - Cheapass Games
+  - Paizo Publishing
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Kill Doctor Lucky is a darkly comedic 1996 game by James Ernest that inverts the premise of Clue: players race to be the first to murder the mansion's owner, Doctor Lucky, before their opponents can claim the kill. Players move through the mansion searching for weapons and waiting until the Doctor is alone in a room, at which point they attempt the murder — only to have every other player play failure cards to thwart them. The game captures the absurd escalation of everyone watching each other while pretending not to, and won the Origins Award for Best Abstract Board Game in 1997. A flagship title of Cheapass Games and a beloved cult classic of the party-game genre.
+
+upgrades: []

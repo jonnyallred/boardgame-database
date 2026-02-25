@@ -1,0 +1,50 @@
+id: mak-yek
+name: "Mak-yek"
+alternate_names:
+  - "Maak yék"
+year: 1839
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - No Math
+  - Deduction
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Mak-yek is a traditional two-player abstract strategy game played in Thailand and Myanmar, first described in Western literature by Captain James Low in 1839. Played on an 8x8 board with 16 pieces per player, all pieces move like chess rooks — along rows and columns — and capture through unique dual mechanics: custodian capture (surrounding a piece on both sides) and intervention capture (moving between two adjacent enemy pieces to take both). The game's combination of rook movement and double-capture creates distinctive tactical puzzles quite unlike chess, and it influenced closely related regional variants in Malaysia and Cambodia.
+
+upgrades: []

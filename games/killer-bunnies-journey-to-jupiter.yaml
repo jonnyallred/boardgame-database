@@ -1,0 +1,58 @@
+id: killer-bunnies-journey-to-jupiter
+name: "Killer Bunnies and the Journey to Jupiter"
+alternate_names:
+  - Killer Bunnies Jupiter
+  - Killer Bunnies J2J
+year: 2008
+
+# Relationships
+game_family: killer-bunnies
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Take That
+  - Press Your Luck
+  - Humor
+  - Party
+  - Sci-Fi
+  - Space
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Jeffrey Neil Bellinger
+publisher:
+  - Playroom Entertainment
+artist:
+  - Jonathan Young
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Killer Bunnies and the Journey to Jupiter is the standalone sci-fi sequel to Killer Bunnies and the Quest for the Magic Carrot, taking the chaotic bunny-battling action into outer space. Players venture through the dark depths of space to find the Magic Carrot and deliver it to Jupiter before opponents can stop them, while deploying Beyea aliens, ships, and galaxy-themed weapons across a modular sector board. Like its predecessor, the game combines anarchic card play with a randomly determined winner through the Magic Carrot mechanic, mixing tactical hand management with gleefully uncontrolled randomness.
+
+upgrades: []

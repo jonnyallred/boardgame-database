@@ -1,0 +1,50 @@
+id: layli-goobalay
+name: "Layli Goobalay"
+alternate_names:
+  - "Layli"
+year: 1000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Ancient
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Layli Goobalay is a traditional Somali mancala-family game played across the Horn of Africa. Played on a board with two rows of holes, players distribute seeds or stones around the board using the sow-and-capture mechanics common to the mancala family, with the objective of capturing more seeds than the opponent. Mancala games have been played across Africa for thousands of years, and regional variants like Layli Goobalay represent the living tradition of indigenous African abstract strategy gaming. The game requires no manufactured components and can be played by drawing holes in the earth or sand, making it an accessible part of daily community life.
+
+upgrades: []

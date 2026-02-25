@@ -1,0 +1,53 @@
+id: luzhanqi
+name: "Luzhanqi"
+alternate_names:
+  - "陸戰棋"
+  - "Army Chess"
+  - "Lu Zhan Qi"
+year: 1930
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Deduction
+  - Bluffing
+  - Wargame
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Luzhanqi (陸戰棋, "Army Chess") is a Chinese two-player strategy board game originating in the early 20th century, in which each player commands a hidden army of ranked military pieces — from Field Marshals and Generals down to Engineers and Landmines — on a divided board representing two armies' territories. Pieces move openly but their identities are concealed from the opponent until combat occurs; the higher-ranked piece wins, except that Landmines destroy everything (and can only be defused by Engineers), and the Bomb destroys any piece it strikes. The hidden-identity mechanic combined with territorial objectives creates a distinctive blend of deduction and strategy. Widely popular across China and Chinese communities worldwide, it is available in numerous inexpensive sets.
+
+upgrades: []

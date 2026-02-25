@@ -1,0 +1,57 @@
+id: luxor
+name: "Luxor"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Racing
+  - Tile Placement
+  - Euro
+  - Family
+  - Gateway
+  - Ancient
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Tension
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Rüdiger Dorn
+publisher:
+  - Queen Games
+artist:
+  - Frank Muller
+playtime_minutes: 50
+min_playtime: 40
+max_playtime: 60
+min_age: 8
+
+description: |
+  Luxor is a hand management race game designed by Rüdiger Dorn in which 2-4 players guide archaeologist teams through the ancient Egyptian temple of Luxor toward the burial chamber. Players use cards from their hands to move their pawns forward along a tile-covered path, collecting treasure and Horus tiles as they advance — but crucially, cards can only move pawns forward from the back of your group, requiring careful sequencing. The modular tile path and set collection scoring create interesting decisions about when to push for the burial chamber versus lingering for treasure. Nominated for the Spiel des Jahres in 2018, it is a masterclass in accessible Euro design.
+
+upgrades: []

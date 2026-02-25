@@ -1,0 +1,58 @@
+id: kobenhavn
+name: "København"
+alternate_names:
+  - Copenhagen
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Card Drafting
+  - Pattern Building
+  - Tableau Building
+  - Euro
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Tension
+  - Progress
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Asger Harding Granerud
+  - Daniel Skjold Pedersen
+publisher:
+  - Queen Games
+artist:
+  - Markus Erdt
+playtime_minutes: 40
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  København is a 2019 polyomino tile-placement game by Asger Harding Granerud and Daniel Skjold Pedersen, published by Queen Games, in which 2-4 players compete to construct the most beautiful façades for the colorful gabled townhouses along Copenhagen's iconic Nyhavn harbor. Players draft polyomino building tiles using cards representing the five harbor colors, placing them on individual player boards to complete rows and columns for points — with bonuses for all-window completions. The first player to reach 12 points wins immediately, or the player with the most points when the end card appears. Clean rules and appealing Scandinavian aesthetics make it an excellent gateway game.
+
+upgrades: []

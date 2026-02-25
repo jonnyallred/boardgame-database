@@ -1,0 +1,53 @@
+id: labyrinthine
+name: "Labyrinthine"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Dungeon Crawler
+  - Fantasy
+  - Puzzle Solving
+
+evokes:
+  - Discovery
+  - Tension
+  - Agency
+  - Mystery
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Pete Kerestan
+  - Judy Kerestan
+publisher:
+  - Wee Warriors
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Labyrinthine is a 1977 fantasy board game by Pete and Judy Kerestan, published by Wee Warriors, that holds the distinction of being the first dungeon crawler to use a totally modular board reconfigured uniquely for each game. Drawing on themes from the then-newly published Dungeons & Dragons, this two-player game has players exploring a procedurally assembled dungeon map. Its modular design was a significant innovation that predated the genre's later maturation and influenced subsequent dungeon exploration games. As an early example of dungeon crawling in board game form, it represents a pivotal moment in adventure gaming history.
+
+upgrades: []

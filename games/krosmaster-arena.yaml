@@ -1,0 +1,56 @@
+id: krosmaster-arena
+name: "Krosmaster: Arena"
+alternate_names:
+  - Krosmaster Arena
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Action Points
+  - Variable Player Powers
+  - Asymmetric
+  - Dungeon Crawler
+  - Fantasy
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer:
+  - Tot
+  - Jérôme Peschard
+publisher:
+  - Japanime Games
+  - CMON
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Krosmaster: Arena is a 2012 anime-style tactical miniature combat game created by Tot and Jérôme Peschard, set in the Wakfu/Dofus universe. Players build teams of collectible chibi-style characters with unique abilities and face off in tactical arena battles on three-dimensional terrain. The base game features eight fighters, each with distinct cards defining their talents, with additional miniatures available through expansion sets. Funded through Kickstarter and renowned for its exceptional production quality, the game blends collectible miniature gaming with accessible tactical card-driven combat. Published internationally by Japanime Games and CMON.
+
+upgrades: []

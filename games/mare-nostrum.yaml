@@ -1,0 +1,56 @@
+id: mare-nostrum
+name: "Mare Nostrum"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: "mare-nostrum"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Trading
+  - Negotiation
+  - Set Collection
+  - Auctions/Bidding
+  - Ancient
+  - Civilization
+  - Dudes on a Map
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Progress
+  - Agency
+  - Tension
+
+possible_counts: [3, 4, 5]
+true_counts: [5]
+
+designer:
+  - Serge Laget
+publisher:
+  - Eurogames
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Mare Nostrum is an empire-building game for three to five players set around the ancient Mediterranean, published by Eurogames in 2003. Players take the roles of Rome, Greece, Babylon, Egypt, or Carthage, expanding their empires through trade, military conquest, and the construction of wonders. Each turn involves producing resources, trading with opponents (often through negotiation and deal-making), and recruiting armies and fleets to control the sea and land. The game blends Eurogame trading mechanics with Ameritrash conflict, rewarding both diplomatic finesse and tactical military planning.
+
+upgrades: []

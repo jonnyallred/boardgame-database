@@ -1,0 +1,54 @@
+id: lock-n-load-band-of-heroes
+name: "Lock 'n Load: Band of Heroes"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Action Points
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Nicolás Eskubi
+  - Marc von Martial
+publisher:
+  - Lock 'n Load Publishing
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Lock 'n Load: Band of Heroes is a squad-level tactical wargame covering the actions of the 82nd and 101st Airborne Divisions during the D-Day invasion of Normandy in World War II. Each hex represents 50 meters and counters represent squads, leaders, heroes, and support weapons from both American airborne and German opposition units, played across 16 scenarios. An innovative impulse system keeps both players engaged throughout the game, preventing the long passive periods common to other hex-and-counter wargames. Winner of the Charles S. Roberts Award and International Gamers Award, Band of Heroes is part of the acclaimed Lock 'n Load series known for its immersive, dramatic tactical combat.
+
+upgrades: []

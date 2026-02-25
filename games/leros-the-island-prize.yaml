@@ -1,0 +1,52 @@
+id: leros-the-island-prize
+name: "Leros: The Island Prize"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Maritime
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Compass Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Leros: The Island Prize is a hex-and-counter wargame covering the Battle of Leros in November 1943, a largely forgotten but strategically significant engagement in the Dodecanese campaign of World War II. After Italy's surrender, British forces occupied the Italian-held Aegean islands, but Germany launched a rapid assault to retake them before Allied reinforcements could arrive. Players command the desperate British and Italian garrison attempting to hold the mountainous island against an overwhelming German airborne and amphibious assault. The battle's compact scale, dramatic terrain, and its portrayal as a rare Axis strategic success in late 1943 make it an unusual and compelling wargame subject.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: lee-vs-grant
+name: "Lee vs. Grant: The Wilderness Campaign of 1864"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Victory Games
+artist: []
+playtime_minutes: 300
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Lee vs. Grant: The Wilderness Campaign of 1864 is an operational wargame covering Ulysses S. Grant's relentless Overland Campaign against Robert E. Lee from the Wilderness through Cold Harbor. Unlike earlier Union commanders who retreated after tactical defeats, Grant continuously pressed south and southeast, and the game captures this dynamic with Grant unable to disengage and Lee forced into costly defensive battles. Players command the Army of the Potomac and the Army of Northern Virginia through some of the Civil War's bloodiest fighting, with attrition and supply lines playing key roles alongside maneuver. A detailed simulation of the grinding attritional style that defined Grant's 1864 strategy.
+
+upgrades: []

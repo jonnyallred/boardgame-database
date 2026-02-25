@@ -1,0 +1,55 @@
+id: kontor
+name: "Kontor"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Trading
+  - Economic
+  - Euro
+  - Historical
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer: []
+publisher:
+  - 999 Games
+  - Goldsieber
+  - Tilsit
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 12
+
+description: |
+  Kontor (meaning "Trading House") is a 1999 tile-laying area control game for 2-4 players set in late 17th-century Amsterdam, where merchants compete for dominance over three major commodities — Spices, Tea, and Wine — by building trading houses along the city's canals. Players claim harbor areas by establishing a majority presence in each commodity sector, with strategic tile placement driving the competition. Published by Goldsieber and 999 Games, it can also be played as a two-team partnership game. The game elegantly captures mercantile rivalry in Amsterdam's golden age of trade.
+
+upgrades: []

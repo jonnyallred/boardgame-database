@@ -1,0 +1,55 @@
+id: lancaster
+name: "Lancaster"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Area Control
+  - Hand Management
+  - Variable Player Powers
+  - Euro
+  - Historical
+  - Medieval
+
+evokes:
+  - Progress
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Matthias Cramer
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Lancaster is a 2011 worker placement and area control game by Matthias Cramer and Queen Games set in 1413 England, where 2-5 players lead aristocratic families vying to become King Henry V's most powerful ally. Players deploy knights across English counties to gather resources, upgrade their castles, and battle the French — with the unique twist that knights in overlapping zones can displace each other through strength, adding a combative edge to the classic placement formula. The game was nominated for the 2011 Kennerspiel des Jahres and rewards players who master the timing of deployment and the political landscape of the English nobility.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: lab-madjnuni
+name: "La'b Madjnuni"
+alternate_names:
+  - Lab Madjnuni
+  - Crazy Game
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  La'b Madjnuni ("Crazy Game") is a traditional Syrian mancala game related to the Egyptian game L'ab al-Ghashim. Played on a 2×6 board with two stores, players use cowrie shells or pebbles as pieces, sowing them around the pits in the traditional mancala manner. The "crazy" moniker likely refers to the game's unpredictable or chaotic play patterns compared to more orderly mancala variants. As a traditional game from the Levant, it represents the rich mancala heritage of the Arabic-speaking world and the regional variations that developed across the Middle East and North Africa.
+
+upgrades: []

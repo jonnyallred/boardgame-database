@@ -1,0 +1,55 @@
+id: kings-and-things
+name: "Kings & Things"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Modular Board
+  - Area Control
+  - Variable Setup
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Discovery
+  - Agency
+  - Rivalry
+  - Lucky
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Tom Wham
+publisher:
+  - West End Games
+  - Z-Man Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Kings & Things is a 1986 fantasy board game designed by Tom Wham and co-published by West End Games and Games Workshop in which 2-4 players compete to become the Emperor of Kadab by raising armies and building a citadel on a randomly assembled hex-tile map. Players recruit 351 die-cut counters representing creatures, magic items, and special events to field diverse armies and expand their domain. The game won the 1987 Origins Award Charles S. Roberts Award for Best Fantasy or Science Fiction Game, though critics noted its luck-heavy systems and slow endgame. A 2010 Z-Man Games edition revitalized the title for a new generation.
+
+upgrades: []

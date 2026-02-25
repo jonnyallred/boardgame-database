@@ -1,0 +1,58 @@
+id: letters-from-whitechapel
+name: "Letters from Whitechapel"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Hidden Movement
+  - Deduction
+  - Bluffing
+  - Fantasy Flight Games
+  - Historical
+  - Mystery
+
+evokes:
+  - Tension
+  - Mystery
+  - Dread
+  - Masterful
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Gabriele Mari
+  - Gianluca Santopietro
+publisher:
+  - Fantasy Flight Games
+artist:
+  - Matteo Alemanno
+  - Giorgia Bruni
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  Letters from Whitechapel is an asymmetric hidden movement game set in the fog-shrouded streets of 1888 London, where one player secretly assumes the role of Jack the Ripper while up to five other players cooperate as detectives trying to track him down. Jack moves in secret across a board of 199 numbered locations, recording movements privately while the police use clues and deduction to reconstruct his path over four terrifying nights. Each night Jack must commit a murder and return to his hideout before dawn, and the detectives can ask Jack if he has visited specific locations to narrow down the trail. The game perfectly captures the cat-and-mouse tension of one of history's most notorious manhunts.
+
+upgrades: []

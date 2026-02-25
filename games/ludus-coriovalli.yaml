@@ -1,0 +1,49 @@
+id: ludus-coriovalli
+name: "ludus coriovalli"
+alternate_names: []
+year: 0
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Ancient
+  - Wargame
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  Ludus coriovalli is a reconstructed ancient board game believed to have been played in Roman Britain, derived from archaeological finds and analysis of game boards carved into stone or played on wood. Little historical documentation survives and the exact rules are uncertain, with modern reconstructions drawing on comparison with other Roman strategy games such as Ludus latrunculorum. It is part of the broader tradition of ancient strategic board games from the Roman world. Noted primarily by archaeologists and historians of ancient games, it remains an obscure curiosity with limited documented play history.
+
+upgrades: []

@@ -1,0 +1,48 @@
+id: latho
+name: "Latho"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Latho is an abstract strategy game with limited documentation available in English-language sources. It appears to be a traditional or early commercial abstract game with straightforward placement or movement mechanics. Information on its designer, publisher, and specific rules is scarce, and the game has minimal presence in international board game documentation. Players seeking more information may find it through regional archives or collector communities.
+
+upgrades: []

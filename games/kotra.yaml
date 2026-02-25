@@ -1,0 +1,51 @@
+id: kotra
+name: "Kotra"
+alternate_names:
+  - Kotra A Cardassian Board Game
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Deduction
+  - Abstract
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Kotra is a two-player strategy game based on the fictional Cardassian board game from the Star Trek: Deep Space Nine universe, played on a 51-space double-fan board. Described in the show as "a cross between chess and Stratego," it features pieces with hidden ranks that are only revealed during combat. Movement is determined by a pair of 10-sided dice — one controlling how many pieces may move, the other controlling how far — creating a strategic layer where resource allocation across multiple pieces is key. The game favors bold tactical aggression, reflecting the Cardassian cultural philosophy depicted in the series.
+
+upgrades: []

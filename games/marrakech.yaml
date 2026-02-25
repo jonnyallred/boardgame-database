@@ -1,0 +1,56 @@
+id: marrakech
+name: "Marrakech"
+alternate_names:
+  - "Suleika"
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Dice Rolling
+  - Area Control
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Clever
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Dominique Ehrhard
+publisher:
+  - Gigamic
+  - Hachette Boardgames
+artist: []
+playtime_minutes: 25
+min_playtime: 20
+max_playtime: 30
+min_age: 7
+
+description: |
+  Marrakech is a light family abstract game designed by Dominique Ehrhard and published by Gigamic in 2007. Players are competing rug merchants in the city of Marrakech, taking turns rolling the die and moving Assam the market organizer, then placing a rug tile adjacent to where he stops. If Assam lands on an opponent's rug, the active player pays that opponent for each connected rug tile of that color. At game end, the player with the most money combined with visible rug tiles wins. Its simple rules, colorful components, and quick play time make it a beloved family and gateway game.
+
+upgrades: []

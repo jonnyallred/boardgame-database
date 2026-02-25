@@ -1,0 +1,51 @@
+id: lee-vs-meade
+name: "Lee vs. Meade"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Victory Games
+artist: []
+playtime_minutes: 300
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Lee vs. Meade is a strategic wargame covering the period of the American Civil War between Gettysburg (1863) and the Overland Campaign (1864), focusing on the campaigns of the Army of Northern Virginia under Lee against the Army of the Potomac under Meade. The game covers the Mine Run Campaign and other operations during this relatively quieter operational period, examining the strategic choices available to both commanders as they maneuvered for position. Published by Victory Games as part of their Civil War simulation series, it offers an operational look at a less frequently simulated phase of the Eastern Theater.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: lentokilpailu-peli
+name: "Lentokilpailu-peli"
+alternate_names:
+  - "The Air Race Game"
+year: 1935
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+  - Aviation
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Discovery
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Lentokilpailu-peli ("The Air Race Game") is a Finnish board game from the early 20th century in which players race aircraft around a course using dice rolls to determine movement. Published during an era of great public enthusiasm for aviation following pioneering flights and air races, the game likely features a simple track-racing format themed around early aviation competitions. Finnish-language board games from this period reflected the country's growing board game industry and popular cultural interests of the time. Limited documentation is available outside Finnish-language sources about this specific title.
+
+upgrades: []

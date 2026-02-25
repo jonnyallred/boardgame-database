@@ -1,0 +1,49 @@
+id: lamlameta
+name: "Lamlameta"
+alternate_names: []
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Lamlameta is a traditional mancala game of the Konso people in the Olanta area of central Ethiopia, first described in 1971 by scholar Richard Pankhurst. The name means "grouped in pairs" in the Gallinya language, referencing the game's opening configuration of two seeds (tagéga) per pit on a 2×12 board called a toma tagéga. Players sow seeds counter-clockwise on their turns, capturing according to the game's pairing rules. Traditionally played outdoors by men on wooden boards, it is a close relative of Gebeta and represents the distinctive mancala tradition of the Ethiopian Konso people.
+
+upgrades: []

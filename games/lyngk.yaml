@@ -1,0 +1,52 @@
+id: lyngk
+name: "LYNGK"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: "gipf-project"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Set Collection
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Complete
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kris Burm
+publisher:
+  - HUCH!
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 30
+min_age: 8
+
+description: |
+  LYNGK is the seventh and final game in the acclaimed GIPF Project series of abstract two-player games. Players claim ownership of colored pieces and try to stack pieces of five different colors with their own color on top — the eponymous LYNGK stacks. The game synthesizes mechanics from all six earlier GIPF Project games into one elegant design, rewarding positional thinking and careful sequencing. Beloved by abstract game enthusiasts, LYNGK earned the Mensa Select award and Spiel des Jahres recommendation.
+
+upgrades: []

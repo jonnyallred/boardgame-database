@@ -1,0 +1,51 @@
+id: king-oil
+name: "King Oil"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Economic
+  - Press Your Luck
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Powerful
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 8
+
+description: |
+  King Oil is a 1974 Milton Bradley game where 2-4 players compete to acquire land and drill for oil, financially ruining opponents to become the crowned King Oil. The game's standout feature is a physical oil rig that players lower onto the board, which contains three randomized rotating discs beneath the surface that create 1,728 possible hidden configurations — determining whether players strike oil and at what depth. Players build derricks, pipelines, and sheds on their claimed land, managing the economics of the oil patch. The last player standing after all others have declared bankruptcy wins.
+
+upgrades: []

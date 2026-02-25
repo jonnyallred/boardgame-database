@@ -9234,3 +9234,115 @@ entries:
     game_id: indian-ocean-adventure-the-japanese-raids-on-ceylon
     url: "https://www.nobleknight.com/P/2147357989/Indian-Ocean-Adventure"
     description: "Game information page — nobleknight.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: lyngk
+    url: "https://en.wikipedia.org/wiki/GIPF_Project"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: lyngk
+    url: "https://www.board-game.co.uk/lyngk-review/"
+    description: "Game information page — board-game.co.uk"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: lyngk
+    url: "https://www.meeplemountain.com/reviews/lyngk/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: macao
+    url: "https://www.meeplemountain.com/reviews/macao/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: macao
+    url: "https://www.ultraboardgames.com/macao/index.php"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: mafia-de-cuba
+    url: "https://board-game-rules.com/boardgames/mafia-de-cuba/"
+    description: "Game information page — board-game-rules.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: mafia-de-cuba
+    url: "https://www.dicetower.com/board-game/176558"
+    description: "Review or reference article — dicetower.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: mafia-de-cuba
+    url: "https://www.ultraboardgames.com/mafia-de-cuba/game-rules.php"
+    description: "Game information page — ultraboardgames.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: khalkhin-gol
+    url: "https://en.wikipedia.org/wiki/Khalkhin-Gol"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: khalkhin-gol
+    url: "https://princepsgames.com/the-battle-of-khalkin-gol/"
+    description: "Game information page — princepsgames.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: khalkhin-gol
+    url: "https://www.awargamersneedfulthings.co.uk/2023/11/the-battle-of-khalkhin-gol-july-august.html"
+    description: "Game information page — awargamersneedfulthings.co.uk"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: khalkhin-gol
+    url: "https://en.wikipedia.org/wiki/Khalkhin-Gol"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: khalkhin-gol
+    url: "https://princepsgames.com/the-battle-of-khalkin-gol/"
+    description: "Game information page — princepsgames.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: khalkhin-gol
+    url: "https://www.awargamersneedfulthings.co.uk/2023/11/the-battle-of-khalkhin-gol-july-august.html"
+    description: "Game information page — awargamersneedfulthings.co.uk"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: khronos
+    url: "https://en.boardgamearena.com/gamepanel?game=khronos"
+    description: "Game information page — en.boardgamearena.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: khronos
+    url: "https://en.wikipedia.org/wiki/Khronos_(game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: khronos
+    url: "https://gambiter.com/tabletop/Khronos_game.html"
+    description: "Game information page — gambiter.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: kill-doctor-lucky
+    url: "https://crabfragmentlabs.com/shop/p/kill-doctor-lucky"
+    description: "Game information page — crabfragmentlabs.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: kill-doctor-lucky
+    url: "https://en.wikipedia.org/wiki/Kill_Doctor_Lucky"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: las-vegas
+    url: "https://en.wikipedia.org/wiki/Las_Vegas_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: las-vegas
+    url: "https://www.meeplemountain.com/reviews/las-vegas/"
+    description: "Game information page — meeplemountain.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: las-vegas
+    url: "https://www.spiel-des-jahres.de/en/games/las-vegas/"
+    description: "Game information page — spiel-des-jahres.de"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: last-night-on-earth
+    url: "https://en.wikipedia.org/wiki/Last_Night_on_Earth_(game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: last-night-on-earth
+    url: "https://www.flyingfrog.net/lastnightonearth/"
+    description: "Game information page — flyingfrog.net"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: legendary-marvel
+    url: "https://en.wikipedia.org/wiki/Legendary:_A_Marvel_Deck_Building_Game"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: legendary-marvel
+    url: "https://upperdeckstore.com/legendary-a-marvel-deck-building-game.html"
+    description: "Game information page — upperdeckstore.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: letters-from-whitechapel
+    url: "https://rolltoreview.com/letters-from-whitechapel-review/"
+    description: "Game information page — rolltoreview.com"
+  - timestamp: "2026-02-24T00:00:00Z"
+    game_id: knight-of-justice
+    url: "https://www.wikidata.org/wiki/Q28195081"
+    description: "Game information page — wikidata.org"

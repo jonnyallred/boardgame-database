@@ -1,0 +1,51 @@
+id: letra-mix
+name: "Letra-Mix"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Puzzle Solving
+  - Family
+  - Party
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Connection
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Diset
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Letra-Mix is a Spanish-language word game published by Diset in which players form words from available letter tiles or cards, competing to create the most valuable or longest words under time pressure or against rival constructions. The "letra" (letter) and "mix" elements suggest a combinatorial approach to word building, likely involving scrambled letters that players must unscramble or recombine into valid words. Published for the Spanish-speaking market, it belongs to the tradition of European letter-based word games. Limited detailed information is available in English-language sources about its specific mechanics and history.
+
+upgrades: []

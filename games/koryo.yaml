@@ -1,0 +1,56 @@
+id: koryo
+name: "Koryŏ"
+alternate_names:
+  - Koryo
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Drafting
+  - Card Drafting
+  - Area Control
+  - Historical
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Gun-Hee Kim
+publisher:
+  - Moonster Games
+  - Asmodee
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Koryŏ is a 2013 card game for 2-4 players set in a uchronic steampunk-inflected version of 10th-century Great Korea, where players compete for political influence through card collection and set management. Players draft and acquire numbered character cards representing various factions, with majorities in each number triggering unique power effects — the player with the most of any number controls that faction's special ability. The game's elegant tension comes from the simultaneous push for set collection and faction control in a tight, 20-minute format. Published internationally by Asmodee.
+
+upgrades: []

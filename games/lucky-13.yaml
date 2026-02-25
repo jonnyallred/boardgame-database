@@ -1,0 +1,50 @@
+id: lucky-13
+name: "Lucky 13"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Family
+  - Filler
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Lucky 13 is a simple press-your-luck dice game in which players roll dice attempting to reach exactly 13 points (or some target number) without going over, choosing when to stop and bank their score versus risking another roll. The number 13 plays on superstition for thematic flavor, and the tension between greed and caution is the game's entire appeal. Several versions and publishers have released games with this title and similar mechanics, making its exact origin difficult to pin down. As a pure press-your-luck filler with minimal components and rules, it works as a quick warm-up or break game.
+
+upgrades: []

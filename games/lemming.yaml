@@ -1,0 +1,51 @@
+id: lemming
+name: "Lemming"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Lemming is a children's dexterity and memory game published by Ravensburger in which players flip and stack colored lemmings in a frantic race against each other. Players must arrange their lemmings in the correct color order as quickly as possible, often knocking over and restarting their tower in the process. The bright colors and appealing lemming figures make it attractive to young players, while the speed and dexterity elements keep adults entertained. A simple, quick, and energetic filler game that requires no reading and works well for families with children of mixed ages.
+
+upgrades: []

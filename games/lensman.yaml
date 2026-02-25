@@ -1,0 +1,51 @@
+id: lensman
+name: "Lensman"
+alternate_names: []
+year: 1969
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Space
+  - War
+
+evokes:
+  - Powerful
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Lensman is a science fiction wargame published by Avalon Hill based on E.E. "Doc" Smith's classic Lensman science fiction novel series, one of the founding works of space opera. Players command the Galactic Patrol (Civilizations) against the evil Boskone in a sweeping interstellar conflict across the galaxy, with fleets of ships, planet-based defenses, and the superweapons that characterize Smith's grand cosmic battles. The game adapts the epic scale of the novels into a strategic simulation, capturing the Lensman universe's sense of massive conflict between cosmic forces of good and evil. As one of the early licensed science fiction board games, it helped establish the template for space opera strategy games.
+
+upgrades: []

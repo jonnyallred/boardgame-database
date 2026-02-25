@@ -1,0 +1,53 @@
+id: lord-of-the-fries
+name: "Lord of the Fries"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Party
+  - Zombies
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Clever
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - James Ernest
+publisher:
+  - Cheapass Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Lord of the Fries is a fast and funny card game set in "Friedey's: The Fast Food Restaurant of the Damned," where zombie employees attempt to fill customer orders from a hand of random ingredient cards. Each round a customer orders a dish, and the first player who can assemble the right combination of ingredients from their hand scores points while discarding those cards — but unplayed cards count against you at the end. Published by Cheapass Games in 1998 with its signature minimal-component philosophy, it's part of James Ernest's Fast-Food Zombie game series and remains a beloved cult game for its absurd humor and quick play.
+
+upgrades: []

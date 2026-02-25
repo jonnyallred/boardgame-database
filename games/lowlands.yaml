@@ -1,0 +1,56 @@
+id: lowlands
+name: "Lowlands"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Resource Management
+  - Cooperative
+  - Euro
+  - Agriculture
+  - Nature
+
+evokes:
+  - Tension
+  - Agency
+  - Progress
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Ralf Partenheimer
+  - Claudia Partenheimer
+publisher:
+  - Z-Man Games
+artist:
+  - Dennis Lohausen
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  Lowlands is a semi-cooperative worker placement game for 2-4 players set on North Sea polders, where each player develops their own sheep farm while everyone shares the ongoing threat of rising floodwaters. Workers spent building the communal dike are workers not tending your flock — creating a constant push-pull between personal advancement and collective survival. Each round a flood die determines the sea's advance, and if the dike is too low when the storm arrives, all players suffer damage. The interplay between individual engine building and shared catastrophe risk creates distinctive tension not found in purely competitive games.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: leinen-los
+name: "Leinen los!"
+alternate_names:
+  - "Hoist the Sails!"
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Roll & Write
+  - Dice Rolling
+  - Racing
+  - Family
+  - Maritime
+
+evokes:
+  - Lucky
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Wolfgang Sentker
+  - Ralf zur Linde
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Leinen los! (Hoist the Sails!) is a roll-and-write sailing race game for 2-6 players published by Ravensburger. Players roll the shared dice each round and choose how to use the results to advance their sailing ship, adjusting sails, managing wind direction, and plotting a course around the map. The simultaneous decision-making keeps all players engaged on every roll, and the interplay between wind and sail settings creates light strategic choices within the dice constraints. A family-friendly filler game delivering a breezy nautical experience in about 30 minutes.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: malefiz
+name: "Malefiz"
+alternate_names:
+  - "Barricade"
+year: 1960
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Take That
+  - Family
+  - Abstract
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Werner Schöppner
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 6
+
+description: |
+  Malefiz (known as Barricade in many markets) is a classic abstract race game invented by Werner Schöppner and published by Ravensburger since 1960. Each player races five pawns from the base to the goal at the top of the board using die rolls, but the board is filled with barricade pieces that block movement — whenever a pawn lands on a barricade, it picks it up and the player must place it anywhere on the board to impede opponents. Derived from the ancient Indian game Pachisi, Malefiz adds strategic obstacle placement to its dice luck, creating a blend of mean-spirited blocking and race tactics beloved across generations.
+
+upgrades: []

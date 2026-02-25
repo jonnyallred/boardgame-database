@@ -1,0 +1,50 @@
+id: krur
+name: "Krur"
+alternate_names:
+  - Crur
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Lucky
+  - Connection
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Krur is a traditional mancala game played by Hassaniya-speaking peoples in Western Sahara, Morocco, and Mauritania, mostly by children. The game uses a simple 2×4 board with four seeds per hole at the start, with players sowing seeds in an anticlockwise direction one by one. First documented by C. Béart in 1955 in Mauritania and later described by Fernando Pinto Cebrián in 1999 in Western Sahara, Krur represents a regional mancala tradition from the western Sahel and represents one of the simplest variants of the sowing game family.
+
+upgrades: []

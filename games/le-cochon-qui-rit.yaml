@@ -1,0 +1,56 @@
+id: le-cochon-qui-rit
+name: "Le Cochon qui rit"
+alternate_names:
+  - "Pass the Pigs"
+  - "Pig Mania"
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Party
+  - Family
+  - Filler
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - David Moffatt
+publisher:
+  - Winning Moves
+  - MB Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Le Cochon qui rit (known internationally as Pass the Pigs or Pig Mania) is a press-your-luck game in which players roll two small plastic pigs that serve as dice, scoring points based on how the pigs land — snout, trotter, razorback, snouter, leaning jowler, and the dreaded "pig out" or "making bacon" that resets or transfers your score. Players decide after each roll whether to bank their accumulated points or push their luck for more. The absurdly tactile and amusing nature of rolling pigs rather than dice makes it a perennial party and travel game hit. Known as "Le Cochon qui rit" in French markets.
+
+upgrades: []

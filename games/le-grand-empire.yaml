@@ -1,0 +1,52 @@
+id: le-grand-empire
+name: "Le Grand Empire"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Historical
+  - War
+
+evokes:
+  - Powerful
+  - Masterful
+  - Agency
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Pascal Bernard
+publisher:
+  - Shakos
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Le Grand Empire is a strategic Napoleonic wargame published by French publisher Shakos covering Napoleon's campaigns across Europe during the height of the French Empire. Players control the major European powers — France and its allies on one side, the various coalitions on the other — competing for territory and dominance across a map of Europe. The game models the political and diplomatic dimensions of the Napoleonic Wars alongside military operations, with players managing armies, economics, and alliances to achieve victory. A detailed simulation aimed at enthusiasts of the Napoleonic period with strong emphasis on period-accurate detail.
+
+upgrades: []

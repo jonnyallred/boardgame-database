@@ -1,0 +1,53 @@
+id: koenigspiel
+name: "Koenigspiel"
+alternate_names:
+  - King's Game
+  - Das Koenigsspiel
+year: 1780
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Abstract
+  - Hex Map
+
+evokes:
+  - Masterful
+  - Agency
+  - Tension
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dr. Helwig
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 240
+min_age: 14
+
+description: |
+  Koenigspiel (King's Game) is a 1780 wargame designed by Dr. Helwig for the Duke of Brunswick, played on a modified chessboard of nearly 2,000 color-coded squares representing terrain features such as open ground, marshes, rivers, and built-up areas. It was a significant advancement over chess in terrain representation and is considered a direct precursor to the Prussian Kriegsspiel and modern military simulation. While still abstract by later standards, Helwig's game introduced the fundamental concept of terrain-differentiated movement that would define the military wargaming tradition for the next two centuries.
+
+upgrades: []

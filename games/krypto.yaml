@@ -1,0 +1,51 @@
+id: krypto
+name: "Krypto"
+alternate_names: []
+year: 1963
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Puzzle Solving
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Daniel Yovich
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Krypto is a 1963 arithmetic card game designed by Daniel Yovich in which players race to combine five randomly drawn number cards using addition, subtraction, multiplication, and division to reach a sixth "target" number. The 56-card deck uses numbers from 1-25 with varying distribution, and the challenge scales naturally with the numbers drawn — some targets are trivial, others nearly impossible. Used widely in mathematics education for arithmetic fluency training, the game rewards quick mental calculation and can be played in classroom or family settings. It has been continuously available since its introduction over 60 years ago.
+
+upgrades: []

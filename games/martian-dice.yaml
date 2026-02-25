@@ -1,0 +1,53 @@
+id: martian-dice
+name: "Martian Dice"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Family
+  - Filler
+  - Sci-Fi
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Scott Almes
+publisher:
+  - Tasty Minstrel Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Martian Dice is a quick press-your-luck dice game designed by Scott Almes and published by Tasty Minstrel Games in 2011. Players roll 13 custom dice and try to abduct humans, chickens, and cows for their alien masters — but must set aside any tank dice rolled, which represent humanity's military resistance, and must have at least as many death rays as tanks to score. After each roll players choose one type of earthling to bank, re-rolling the rest and pressing their luck to collect one of each type for a bonus. Games take about 15 minutes and the game's humor and simplicity make it an ideal filler.
+
+upgrades: []

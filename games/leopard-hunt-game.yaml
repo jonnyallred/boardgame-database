@@ -1,0 +1,50 @@
+id: leopard-hunt-game
+name: "Leopard hunt game"
+alternate_names: []
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - 1 vs Many
+  - Animals
+  - Ancient
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  The Leopard Hunt Game is a traditional African hunt game in the family of asymmetric chase-and-capture games found across Africa and Asia, where one player controls a powerful leopard piece and the other controls a group of hunters trying to trap or corner the leopard. The hunters outnumber the leopard but individually are weaker, creating asymmetric gameplay where the leopard tries to capture hunters and the hunters cooperate to immobilize the leopard. This category of asymmetric predator-versus-prey abstract games appears independently across multiple cultures, with regional variants documented in Africa, South Asia, and Southeast Asia under various names. Exact rules vary by region and tradition.
+
+upgrades: []

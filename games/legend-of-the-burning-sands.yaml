@@ -1,0 +1,51 @@
+id: legend-of-the-burning-sands
+name: "Legend of the Burning Sands"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Fantasy
+  - Medieval
+
+evokes:
+  - Powerful
+  - Tension
+  - Rivalry
+  - Masterful
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Alderac Entertainment Group
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Legend of the Burning Sands is a collectible card game published by Alderac Entertainment Group (AEG) set in a desert fantasy world, featuring warring factions inspired by Middle Eastern mythology and history. Players build decks representing one of several desert clans — including the Senpet (Egyptian-inspired), the Scion of the Burning Sands, and others — and compete in two-player card battles across military, political, and mystical conflicts. The game ran from 1998 to 2000 before being discontinued and was eventually folded into AEG's Legend of the Five Rings universe. It attracted a dedicated following for its distinctive setting that broke from the then-dominant European fantasy aesthetic.
+
+upgrades: []

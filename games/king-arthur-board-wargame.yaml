@@ -1,0 +1,54 @@
+id: king-arthur-board-wargame
+name: "King Arthur"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Fantasy
+  - Medieval
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Rob Mosca
+  - Linda Mosca
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  King Arthur is a 1979 board wargame published by SPI as part of the Great Medieval Battles "quadrigame," simulating the legendary Battle of Camlann between King Arthur and his treacherous son Mordred. Designed by Rob and Linda Mosca, the game uses a morale-based combat system where units accumulate Rout levels rather than being eliminated outright, creating a dynamic ebb and flow of battle. Combat incorporates both ranged and melee elements, reflecting the mixed forces of Dark Ages warfare. The game melds Arthurian mythology with realistic tactical wargaming mechanics.
+
+upgrades: []

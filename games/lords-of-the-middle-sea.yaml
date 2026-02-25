@@ -1,0 +1,54 @@
+id: lords-of-the-middle-sea
+name: "Lords of the Middle Sea"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Area Control
+  - Trading
+  - Sci-Fi
+  - Post-Apocalyptic
+
+evokes:
+  - Powerful
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Steve Peek
+  - Chuck Stanhope
+publisher:
+  - Chaosium
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Lords of the Middle Sea is a post-apocalyptic strategy game published by Chaosium in 1978 set in a far-future version of North America where rising oceans have flooded the interior, creating an archipelago of islands. Players command city-states competing for dominance through trade, diplomacy, and naval warfare across this flooded landscape, building fleets of wooden ships using medieval technology in a world that has forgotten advanced science. The game blends wargame mechanics with trading and diplomacy in a large multi-player format. One of Chaosium's earliest board game publications, it anticipated many later multi-player conquest games in its scope and complexity.
+
+upgrades: []

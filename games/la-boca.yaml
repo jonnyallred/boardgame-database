@@ -1,0 +1,56 @@
+id: la-boca
+name: "La Boca"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Real-time
+  - Puzzle Solving
+  - Pattern Building
+  - Party
+  - Family
+
+evokes:
+  - Tension
+  - Humor
+  - Connection
+  - Agency
+  - Clever
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 6]
+
+designer:
+  - Inka Brand
+  - Markus Brand
+publisher:
+  - Huch & Friends
+  - Z-Man Games
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 50
+min_age: 13
+
+description: |
+  La Boca is a 2013 cooperative speed puzzle game by Inka and Markus Brand in which pairs of players race to recreate a colorful pattern using shared wooden blocks, where each partner can only see their own perspective of the completed image. Players sit across from each other and must communicate through verbal description alone while racing against a timer, with faster completions earning more points. Regular and hard difficulty cards extend the game's challenge, and rotating partners ensures everyone faces different collaborators. Published by Huch & Friends, the game rewards communication skills and spatial reasoning under delightful pressure.
+
+upgrades: []

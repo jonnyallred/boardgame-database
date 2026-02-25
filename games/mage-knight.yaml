@@ -1,0 +1,53 @@
+id: mage-knight
+name: "Mage Knight"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: "mage-knight"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Asymmetric
+  - Variable Player Powers
+  - Dice Rolling
+  - Fantasy
+  - Ameritrash
+
+evokes:
+  - Powerful
+  - Discovery
+  - Rivalry
+  - Lucky
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jordan Weisman
+publisher:
+  - WizKids
+artist: []
+playtime_minutes: 60
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Mage Knight is the original collectible miniatures game from WizKids, created by Jordan Weisman in 2000. It pioneered the "Clix" system: each pre-painted figure features a built-in rotating dial that tracks damage and adjusts combat statistics without consulting charts, blending collectible card game elements with miniature wargaming. Players assemble warbands from blind-purchase packs and compete in skirmish battles across fantasy settings. The game sold millions of sets and spawned numerous expansions, establishing the collectible miniatures genre.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: lucky-numbers
+name: "Lucky Numbers"
+alternate_names:
+  - "Trix"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Set Collection
+  - No Math
+  - Family
+  - Filler
+
+evokes:
+  - Lucky
+  - Tension
+  - Clever
+  - Complete
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Manfred Reindl
+publisher:
+  - Tactic
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 6
+
+description: |
+  Lucky Numbers is a quick and cheerful drafting game in which players take turns drawing numbered clovers and placing them in a 4x4 grid where each row and column must be in ascending order from left to right and top to bottom. If a newly drawn number doesn't fit any valid position in your grid, you must swap it with another player's clover. The first player to fill their entire grid wins. Simple enough for children from age 6, the game's light drafting tension and race to complete the grid make it a satisfying quick filler. Published by Tactic, it has become a popular family game in Europe for its accessibility and speedy play.
+
+upgrades: []

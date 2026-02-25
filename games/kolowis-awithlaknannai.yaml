@@ -1,0 +1,50 @@
+id: kolowis-awithlaknannai
+name: "Kolowis Awithlaknannai"
+alternate_names:
+  - Fighting Serpents
+  - Stone That Kills
+year: 1500
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Kolowis Awithlaknannai, meaning "Stone That Kills," is a traditional two-player strategy game of the Zuni people of New Mexico, first documented by ethnographer Stewart Culin in his 1907 book Games of the North American Indians. Played on a board of interlocking triangles with 23 tokens per player, pieces may move one space along board lines or jump to capture opponents, with the goal of eliminating all opposing pieces or trapping them. The game is believed to be a Zuni adaptation of the Spanish Alquerque brought by Conquistadors, demonstrating cultural exchange across the Americas. It remains a significant artifact of Native American game tradition.
+
+upgrades: []

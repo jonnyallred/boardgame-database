@@ -1,0 +1,54 @@
+id: kriegsmarine
+name: "Kriegsmarine"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Maritime
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Stephen Newberg
+publisher:
+  - Simulations Canada
+artist:
+  - Rodger B. MacGowan
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Kriegsmarine is a 1980 tactical naval wargame by Simulations Canada (SimCan) simulating Atlantic and Mediterranean surface combat during World War II. Designed by Stephen Newberg with cover art by Rodger B. MacGowan, only 2,000 copies were printed in ziplock bag format. The game is the third in a naval trilogy alongside IJN (1978, Pacific combat) and Torpedo (1979, submarine warfare), all using compatible rules and identically scaled maps. Players command surface fleets in engagements ranging from commerce raiding to fleet actions across the European naval theater.
+
+upgrades: []

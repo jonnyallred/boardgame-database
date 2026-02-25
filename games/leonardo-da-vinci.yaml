@@ -1,0 +1,56 @@
+id: leonardo-da-vinci
+name: "Leonardo da Vinci"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Auctions/Bidding
+  - Resource Management
+  - Euro
+  - Historical
+
+evokes:
+  - Clever
+  - Progress
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Flaminia Brasini
+  - Virginio Gigli
+  - Stefano Luperto
+  - Antonio Tinto
+publisher:
+  - dV Giochi
+artist: []
+playtime_minutes: 90
+min_playtime: 75
+max_playtime: 120
+min_age: 12
+
+description: |
+  Leonardo da Vinci is a worker placement game set in Renaissance Italy where players compete as inventors in Leonardo's workshop, racing to complete inventions before their rivals. Players bid workers to gain priority at workshops that produce resources and advance invention projects, with higher bids placing workers earlier in the action queue but leaving fewer resources for later actions. The tension between bidding aggressively for position and conserving workers creates the game's central puzzle. Published by dV Giochi in 2006, it was an early and influential entry in the worker placement genre, later reimplemented as Codex Leicester in 2023.
+
+upgrades: []

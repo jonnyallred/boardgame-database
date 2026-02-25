@@ -1,0 +1,52 @@
+id: king-arthurs-knights
+name: "King Arthur's Knights"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Variable Player Powers
+  - Fantasy
+  - Medieval
+  - Mythology
+
+evokes:
+  - Discovery
+  - Agency
+  - Adventure
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Chaosium
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  King Arthur's Knights is a 1978 Arthurian adventure board game published by Chaosium in which players take on the roles of knights of the Round Table performing chivalrous quests for artifacts and treasure across a map of legendary Britain. Players pursue glory and honor in service to Camelot, encountering monsters, rivals, and magical challenges as they race to complete quests. The game reflects Chaosium's early expertise in narrative-rich adventure gaming, predating their RPG work, and draws from the rich Arthurian mythological tradition.
+
+upgrades: []

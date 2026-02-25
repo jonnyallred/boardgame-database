@@ -1,0 +1,51 @@
+id: ligny-incomplete-victory
+name: "Ligny: Incomplete Victory"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Ligny: Incomplete Victory is a hex-and-counter wargame covering the Battle of Ligny on June 16, 1815, the day before Waterloo, where Napoleon defeated the Prussian Army under Blücher. Players command the French Imperial Army attempting to decisively destroy the Prussians before they can link with Wellington's Anglo-Allied forces, or the Prussians trying to hold long enough to conduct an orderly retreat. The game explores the what-ifs of the campaign's opening — could Napoleon have won decisively enough to alter the outcome at Waterloo? The title refers to the incomplete nature of the French tactical victory that still left the Prussians able to march to Wellington's aid two days later.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: lankhmar
+name: "Lankhmar"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Hex Map
+  - Variable Player Powers
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Gary Gygax
+  - Robert J. Kuntz
+  - Brad Stock
+  - Fritz Leiber
+  - Harry Otto Fischer
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Lankhmar is a 1976 TSR fantasy board wargame based on Fritz Leiber's acclaimed Swords and Sorcery short stories set in the fictional city of Lankhmar. Originally designed by Leiber and Harry Otto Fischer during their college years, it was revised by Gary Gygax, Robert J. Kuntz, and Brad Stock, who converted the original square grid to a hex map. Two to four players each take on a hero role — Fafhrd, the Gray Mouser, Pulgh, or Movarl — and compete for dominance with warriors, weapons, and vehicles across the city. Despite Lankhmar's cultural significance in fantasy fiction, the game sold poorly compared to TSR's contemporaneous Dungeon! and critics noted its loose connection to Leiber's source material.
+
+upgrades: []

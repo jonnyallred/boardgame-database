@@ -1,0 +1,53 @@
+id: la-foi-et-le-glaive
+name: "La Foi et le Glaive"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Negotiation
+  - Wargame
+  - Historical
+  - War
+  - Medieval
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Azure Wish Enterprise
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  La Foi et le Glaive (The Faith and the Sword) is a 1993 French board game published by Azure Wish Enterprise simulating the religious and military struggles of 7th-century Europe and the Near East. Six players each control one of the major empires and faiths of the era — the Frankish Catholics, Avar shamanists, Viking pagans, Arab Muslims, Persian Zoroastrians, and Byzantine Christians — using conventional military forces and priests on a double-sided map that tracks both military and religious events simultaneously. Military maneuvering is managed similarly to the game Diplomacy, while the religious dimension adds an additional sphere of influence to contest.
+
+upgrades: []

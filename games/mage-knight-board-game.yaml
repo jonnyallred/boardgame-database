@@ -1,0 +1,58 @@
+id: mage-knight-board-game
+name: "Mage Knight Board Game"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: "mage-knight"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hex Map
+  - Modular Board
+  - Campaign Mode
+  - Cooperative
+  - Variable Player Powers
+  - Asymmetric
+  - Fantasy
+  - Ameritrash
+  - Vlaada Chvatil
+
+evokes:
+  - Masterful
+  - Progress
+  - Discovery
+  - Powerful
+  - Agency
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer:
+  - Vlaada Chvatil
+publisher:
+  - WizKids
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Mage Knight Board Game is a massive solo-and-cooperative adventure designed by Vlaada Chvátil, set in the Mage Knight miniatures universe. Players control powerful Mage Knight heroes exploring a randomly generated hex-tile landscape, conquering cities, raiding dungeons, and recruiting armies using an innovative deck-building action system where cards fuel movement, combat, and magic. The game blends RPG progression, deckbuilding, and tactical hex combat into a deeply rewarding experience that rewards mastery across many sessions. Widely regarded as one of the best solo board games ever made, it sold out within weeks of its 2011 release and won multiple awards.
+
+upgrades: []

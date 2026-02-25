@@ -1,0 +1,52 @@
+id: mehen
+name: "Mehen"
+alternate_names:
+  - "The Serpent Game"
+year: -3000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Abstract
+  - Ancient
+  - No Math
+
+evokes:
+  - Wonder
+  - Lucky
+  - Discovery
+  - Mystery
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Mehen is one of the oldest known board games in human history, dating from ancient Egypt's Predynastic period around 3000 BCE and played until the end of the Old Kingdom circa 2300 BCE. The board depicts a coiled serpent deity whose body is divided into spaces forming a spiral track from the tail at the edge to the head at the center; players race lion and lioness figurines and marble balls along this track. The game is thought to have held religious significance, representing the dead king's journey into the afterlife protected by the serpent god Mehen who encircles the sun god Ra. Modern replicas reconstructed by researchers are available today, making this ancient game playable once more.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: mafia-de-cuba
+name: "Mafia de Cuba"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Bluffing
+  - Traitor
+  - Party
+  - Asmodee
+
+evokes:
+  - Tension
+  - Humor
+  - Mystery
+  - Persuasion
+  - Lucky
+
+possible_counts: [6, 7, 8, 9, 10, 11, 12]
+true_counts: [8, 9, 10]
+
+designer:
+  - Loïc Lamy
+  - Philippe des Pallières
+publisher:
+  - Lui-même
+  - Asmodee
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 10
+
+description: |
+  Mafia de Cuba is a hidden-role bluffing party game for six to twelve players set in 1950s Havana. The Godfather passes a cigar box around the table and each player secretly takes diamonds, a character token, or nothing at all; roles include loyal henchmen who want to help the Godfather and thieves who want to keep the diamonds. The Godfather then interrogates each player and must deduce who stole what, with thieves trying to convincingly lie while loyal players try to prove their innocence. Its small footprint and explosive social play made it a festival hit and a staple of large-group game nights.
+
+upgrades: []

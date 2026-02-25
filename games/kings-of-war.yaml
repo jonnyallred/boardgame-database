@@ -1,0 +1,54 @@
+id: kings-of-war
+name: "Kings of War"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Area Control
+  - Asymmetric
+  - Variable Player Powers
+  - Fantasy
+
+evokes:
+  - Powerful
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Alessio Cavatore
+publisher:
+  - Mantic Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Kings of War is a fantasy mass-battle miniature wargame published by Mantic Games, designed by Alessio Cavatore who previously worked on Games Workshop's Warhammer and Lord of the Rings systems. Set in the expansive world of Pannithor, players command armies of Elves, Dwarves, Undead, Orcs, and many other factions in large-scale tactical battles using ranked unit formations. The game is notable for streamlined rules compared to Warhammer, focusing on decisive tactical play and army-building depth. Now in its 4th edition, it receives annual updates through the "Clash of Kings" supplement series.
+
+upgrades: []

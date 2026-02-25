@@ -1,0 +1,53 @@
+id: kulami
+name: "Kulami"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Area Control
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Andreas Kuhnekath
+publisher:
+  - Steffen-Spiele
+  - FoxMind Games
+artist:
+  - Steffen Mühlhäuser
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 9
+
+description: |
+  Kulami is a 2011 two-player abstract strategy game by Andreas Kuhnekath in which players place colored glass marbles on a modular board of 17 interlocking wooden panels of varying sizes to control as many panels as possible. Each player alternately places a marble on a panel, with the restriction that each move must be on the same row or column as the previous opponent's move, creating a chain of constrained decisions that rapidly narrows options. The player controlling the majority on each panel scores for its area at game end. Kulami received a 2012 Spiel des Jahres recommendation, a 2013 Mensa Select award, and a 2014 Games Magazine Best New Abstract Strategy Game award.
+
+upgrades: []

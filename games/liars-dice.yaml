@@ -1,0 +1,59 @@
+id: liars-dice
+name: "Liar's Dice"
+alternate_names:
+  - "Bluff"
+  - "Call My Bluff"
+  - "Dudo"
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Bluffing
+  - Press Your Luck
+  - Social Deduction
+  - Party
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Bluffing
+  - Lucky
+  - Rivalry
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Richard Borg
+publisher:
+  - Milton Bradley
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Liar's Dice is a classic bluffing game dating back to 15th-century South America (known as Dudo), in which players roll hidden dice and bid on how many dice of a given face value lie hidden across all cups on the table. Each player can raise the bid or challenge the previous player's claim as a lie; when challenged, all dice are revealed and the loser forfeits a die. The last player with dice remaining wins. The Milton Bradley edition won the Spiel des Jahres in 1993 as "Call My Bluff," cementing its status as one of the great social bluffing games. Its elegant simplicity and pure bluffing tension have made it a perennial classic across cultures.
+
+upgrades: []

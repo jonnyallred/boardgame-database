@@ -1,0 +1,54 @@
+id: kimble
+name: "Kimble"
+alternate_names: []
+year: 1967
+
+# Relationships
+game_family: trouble
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Connection
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Frank Kohner
+  - Paul Kohner
+  - Fred Kroll
+publisher:
+  - Tactic Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 5
+
+description: |
+  Kimble is the beloved Finnish licensed version of the board game Trouble, introduced in Finland in 1967 by Tactic Games, where it became one of the country's most consistently popular board games. Players race four pieces around the board based on a die rolled with the Pop-O-Matic bubble, sending opponents' pieces back to start upon landing on them. The game is simple enough for young children yet has sustained multi-generational appeal in Finland, where it remains a household staple. Its distinctive Finnish identity despite being a licensed Ludo derivative has made it a cultural touchstone.
+
+upgrades: []

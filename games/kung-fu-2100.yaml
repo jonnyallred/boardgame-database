@@ -1,0 +1,54 @@
+id: kung-fu-2100
+name: "Kung Fu 2100"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Action Points
+  - Asymmetric
+  - Sci-Fi
+  - Post-Apocalyptic
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dennis Sustare
+publisher:
+  - Steve Jackson Games
+artist:
+  - Dennis Loubet
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Kung Fu 2100 is a 1980 sci-fi martial arts microgame by Steve Jackson Games designed by Dennis Sustare, set in a future dystopia where an evil CloneMaster rules through trained Terminator warriors. One player controls the freedom-fighting Terminators, the other the CloneMaster's minions, with combat resolved through a skill-counter selection system combined with a six-sided die and combat results table. Originally published in The Space Gamer magazine in August 1980 alongside a companion story, it was then released as a standalone microgame. A 2019 Pocket Box edition brought the game back to print in updated form.
+
+upgrades: []

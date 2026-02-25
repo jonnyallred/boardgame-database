@@ -1,0 +1,49 @@
+id: liberian-queah
+name: "Liberian Queah"
+alternate_names:
+  - "Queah"
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Liberian Queah is a traditional strategy game from the Queah people of Liberia, played on a 4x5 or 5x5 grid. Players take turns moving and capturing opponent pieces in a manner somewhat similar to draughts, with each side starting with a limited number of pieces placed in their home territory. The game uses a distinctive rule where captured pieces are removed from the board, and the player who captures all opponent pieces wins. Queah is one of the traditional games documented by researchers of African board games and represents the rich indigenous game-playing traditions of West Africa.
+
+upgrades: []

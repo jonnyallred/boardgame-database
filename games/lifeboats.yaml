@@ -1,0 +1,53 @@
+id: lifeboats
+name: "Lifeboats"
+alternate_names:
+  - "Seenot im Rettungsboot"
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Voting
+  - Take That
+  - Party
+
+evokes:
+  - Tension
+  - Humor
+  - Persuasion
+  - Rivalry
+  - Agency
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Ronald Wettering
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Lifeboats is a negotiation and social voting game of cutthroat maritime survival in which a shipwreck has left players stranded in six overcrowded lifeboats drifting toward shore. Each turn, players vote on which lifeboat moves toward safety and which springs a leak — and when an overloaded leaking boat sinks, the group must vote on who gets thrown to the sharks. Players secretly hold loyalty cards for specific boats, creating hidden agendas that drive deal-making and betrayal. The blend of negotiation, voting, and ruthless self-preservation makes it a sharp social experience best enjoyed with the right group.
+
+upgrades: []

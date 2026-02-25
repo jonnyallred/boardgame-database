@@ -1,0 +1,54 @@
+id: loony-quest
+name: "Loony Quest"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Simultaneous Action
+  - Pattern Building
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Laurent Escoffier
+  - David Franck
+publisher:
+  - Libellud
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Loony Quest is a simultaneous drawing party game for 2-5 players, inspired by the aesthetics of video games, in which players study a level card depicting obstacles and targets, then race to trace paths and hit targets on their individual transparent overlay sheets — without looking at the level card. Once everyone has finished drawing, sheets are placed on the level card to reveal who hit which targets and who crashed into walls. The game's simple concept produces wildly different (and often hilarious) results as players try to replicate their mental image, and the video game art style creates a distinctive, colorful experience. Nominated for the Spiel des Jahres in 2015.
+
+upgrades: []

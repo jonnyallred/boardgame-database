@@ -1,0 +1,52 @@
+id: lourche
+name: "Lourche"
+alternate_names:
+  - "Lurch"
+  - "Lurche"
+year: 1400
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Abstract
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Lourche (also called Lurch or Lurche) is a historical European dice and racing game popular from the 15th through 17th centuries, particularly in German-speaking lands. Played on a cross-shaped board similar to Pachisi and Ludo, players race pieces around the track using dice rolls, with the distinctive "lurch" rule that can dramatically set back players under certain conditions — the origin of the English phrase "left in the lurch." Multiple players could participate, and blocking and bypassing opponents added tactical interest. The game largely disappeared by the 18th century but has been reconstructed by historians of historical games from period documents and game boards.
+
+upgrades: []

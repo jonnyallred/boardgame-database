@@ -1,0 +1,50 @@
+id: king-of-the-hill
+name: "King of the Hill"
+alternate_names: []
+year: 1960
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Schaper Toys
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  King of the Hill is a 1960 children's board game by Schaper Toys featuring a large 3D plastic mountain that players race their marble pieces to the top of. Instead of dice, players use a "tilt-score" mechanism to determine how many spaces they can move upward, while holes (traps) in the mountain paths can swallow marbles, causing them to roll through the mountain's interior and exit from lower caves. The game's distinctive physical component — the hollow plastic mountain with hidden internal channels — made it a memorable childhood staple, and it was re-released by Winning Moves in 2006.
+
+upgrades: []

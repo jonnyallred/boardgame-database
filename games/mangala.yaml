@@ -1,0 +1,49 @@
+id: mangala
+name: "Mangala"
+alternate_names: []
+year: 1694
+
+# Relationships
+game_family: "mancala"
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Mancala
+  - Abstract
+  - No Math
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 6
+
+description: |
+  Mangala is a traditional Turkish mancala game with roots tracing back to 16th-century Ottoman miniatures, first formally described in writing by British orientalist Thomas Hyde in 1694. Played on a 2x6 or 2x7 board, players sow pieces counterclockwise from their pits, capturing groups of two or three from the opponent's side. The game is closely related to mancala variants played across the Middle East and North Africa and has been recognized by UNESCO as part of Turkey's intangible cultural heritage. Its elegant simplicity conceals substantial strategic depth, making it a beloved folk game that endures across generations.
+
+upgrades: []

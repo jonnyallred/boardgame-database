@@ -1,0 +1,54 @@
+id: lionheart
+name: "Lionheart"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Area Control
+  - Historical
+  - Medieval
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Richard Berg
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Lionheart is a hex-and-counter wargame published by GMT Games covering the Third Crusade (1191-1192), focusing on King Richard I of England's campaign against Saladin in the Holy Land. Players command the Crusader and Saracen forces across a series of scenarios depicting the campaign from Acre to Jerusalem, with detailed rules for medieval combat, sieges, and the logistical challenges of crusading warfare. Richard Berg's design captures the period's unique dynamics — the Crusaders' heavy cavalry versus Saladin's mobile mounted archers — through differentiated unit capabilities and terrain effects. A detailed and immersive entry in the medieval wargame genre.
+
+upgrades: []

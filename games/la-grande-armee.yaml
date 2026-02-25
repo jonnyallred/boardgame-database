@@ -1,0 +1,54 @@
+id: la-grande-armee
+name: "La Grande Armée"
+alternate_names:
+  - La Grande Armee
+  - La Grande Armée The Campaigns of Napoleon in Central Europe
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Richard Berg
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 600
+min_age: 14
+
+description: |
+  La Grande Armée is a 1972 SPI operational wargame designed by Richard Berg covering three of Napoleon's central European campaigns: the 1805 Austrian campaign, the 1806 Prussian campaign, and the 1809 Austrian campaign. One player commands Napoleon while the other controls his varied enemies, with each 10-day turn requiring movement, combat, and supply resolution. Units can execute forced marches at the cost of disruption and straggler losses, while corps can be broken down for speed or consolidated for mass. The most popular Napoleonic operational game in a 1976 SPI poll and praised as an SPI classic in The Complete Book of Wargames.
+
+upgrades: []

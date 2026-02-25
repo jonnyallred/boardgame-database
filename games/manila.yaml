@@ -1,0 +1,55 @@
+id: manila
+name: "Manila"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Dice Rolling
+  - Press Your Luck
+  - Economic
+  - Historical
+  - Maritime
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Clever
+  - Humor
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Franz-Benno Delonge
+publisher:
+  - Zoch Verlag
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Manila is a push-your-luck stock market game with a pirate twist, designed by Franz-Benno Delonge and published by Zoch in 2005. Players bid for the role of harbormaster each round, which allows placing the starting positions of four cargo ships trying to reach port — then dice determine how far each ship moves, whether it survives pirate attacks, and which players collect dividends from the shares they hold. The tension between harboring just enough influence to profit and losing resources to pirates and wrecks drives the game's exciting gambling atmosphere. Its blend of auctioning, press-your-luck, and commodity speculation creates a uniquely thrilling experience.
+
+upgrades: []

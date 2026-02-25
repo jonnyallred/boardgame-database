@@ -1,0 +1,56 @@
+id: khora-rise-of-an-empire
+name: "Khôra: Rise of an Empire"
+alternate_names:
+  - Khora Rise of an Empire
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Simultaneous Action
+  - Card Drafting
+  - Engine Building
+  - Euro
+  - Ancient
+  - Civilization
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Head Quarter Simulation Game Club
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 14
+
+description: |
+  Khôra: Rise of an Empire is a 2021 dice-driven civilization builder for 2-4 players set in ancient Greece, where each player develops their city-state across Economy, Culture, and Military tracks. On each turn, players simultaneously roll dice and then select two of seven available actions — Philosophy, Legislation, Culture, Trade, Military, Politics, or Development — adapting their strategy to both their dice results and opponents' choices. The game packages a surprisingly deep mid-weight euro into a compact 60-90 minute window, earning a Kennerspiel des Jahres recommendation and praise for its elegant system of action scaling with track advancement.
+
+upgrades: []

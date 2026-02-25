@@ -1,0 +1,53 @@
+id: last-frontier-the-vesuvius-incident
+name: "Last Frontier: The Vesuvius Incident"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Narrative Heavy
+  - Sci-Fi
+  - Space
+  - Horror
+
+evokes:
+  - Tension
+  - Dread
+  - Discovery
+  - Agency
+  - Survival
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Brian Train
+publisher:
+  - White Dog Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Last Frontier: The Vesuvius Incident is a cooperative survival horror game set aboard a space station that has been overrun by an alien threat. Players must work together to complete objectives and escape before the station is lost, facing random events and escalating danger as they explore the modular map. The tension between completing mission goals and managing survival resources under threat drives the cooperative experience. Published by White Dog Games, it offers a compact narrative horror experience in a science fiction setting.
+
+upgrades: []

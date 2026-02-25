@@ -1,0 +1,52 @@
+id: marvel-heroes
+name: "Marvel Heroes"
+alternate_names:
+  - "Marvel Comics Super Heroes Strategy Game"
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Superheroes
+  - Marvel
+  - Family
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 7
+
+description: |
+  Marvel Heroes (Marvel Comics Super Heroes Strategy Game) is a chess-inspired two-player abstract published by Milton Bradley in 1980. One player commands Marvel superheroes — Thor, Captain America, Iron Man, Silver Surfer, Spider-Man, and Mister Fantastic — while the other fields supervillains, maneuvering pieces across a city gameboard trying to capture five of the opponent's characters. Pieces reaching the far side of the board become "Super" versions that can move freely along their color path, and players must announce threats similar to chess check by declaring "AH-HA!" The game brings the Marvel universe to a family-accessible strategic board game format.
+
+upgrades: []

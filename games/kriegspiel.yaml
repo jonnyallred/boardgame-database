@@ -1,0 +1,54 @@
+id: kriegspiel
+name: "Kriegspiel"
+alternate_names:
+  - Kriegsspiel
+  - von Reisswitz Kriegsspiel
+year: 1824
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Asymmetric
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Georg Heinrich von Reisswitz
+publisher: []
+artist: []
+playtime_minutes: 240
+min_playtime: 120
+max_playtime: 480
+min_age: 16
+
+description: |
+  Kriegsspiel (War Game) is the 1824 Prussian military training system designed by Lieutenant Georg Heinrich von Reisswitz Jr. that became the first wargame officially adopted by a professional army. Played on accurate 1:8,000 scale topographical maps, units could suffer partial losses and retain combat effectiveness, introducing the concept of hit points to wargaming. After impressing King Frederick William III and senior generals at Berlin Castle, every Prussian regiment was ordered to receive a set. Many historians credit widespread Kriegsspiel use among Prussian officers as a significant factor in Prussia's decisive victory over France in 1870, and it became the direct ancestor of all modern military and hobbyist wargaming.
+
+upgrades: []
