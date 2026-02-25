@@ -141,8 +141,19 @@ def backfill(dry_run=False):
         if name_lower in name_to_slug and name_to_slug[name_lower] == slug:
             continue
 
-        # Check if YAML name/alt exactly matches this master name
-        matched_slug = name_to_slug.get(name_lower)
+        # Strip parenthetical suffixes like "(game)", "(board game)" for matching
+        stripped = re.sub(r"\s*\((?:game|board game|card game|dup)\)\s*$", "", name_lower, flags=re.IGNORECASE)
+        stripped_slug = slugify(stripped) if stripped != name_lower else None
+
+        # Already matches by stripped slug — just needs yaml_id
+        if stripped_slug and stripped_slug in existing_slugs and stripped_slug != slug:
+            matched_slug = stripped_slug
+        else:
+            # Check if YAML name/alt exactly matches this master name
+            matched_slug = name_to_slug.get(name_lower)
+            if not matched_slug and stripped != name_lower:
+                matched_slug = name_to_slug.get(stripped)
+
         if not matched_slug:
             # Try subtitle matching: "Heat" matches "Heat: Pedal to the Metal"
             # Only match if name appears before a subtitle delimiter (: or -)

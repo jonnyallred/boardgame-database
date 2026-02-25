@@ -32,7 +32,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 32597,3-6-9,,boardgame,,,
 7834,3-stones,,boardgame,,,
 25213,30 Seconds,,boardgame,,,
-,369 Qí,,boardgame,,,
+,369 Qí,,boardgame,,,qi
 ,4000 A.D.,,boardgame,,,4000-ad
 1435,4000 AD,,boardgame,,,
 675,4th Dimension,,boardgame,,,
@@ -405,7 +405,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 17449,Beowulf: The Legend,,boardgame,,,
 27948,Beppo der Bock,,boardgame,,,
 ,Bergnein,,boardgame,,,
-4839,Berlin ’85: The Enemy at the Gates,1980,boardgame,,,
+4839,Berlin ’85: The Enemy at the Gates,1980,boardgame,,,berlin-85
 2296,Bermuda Triangle,1975,boardgame,,,
 18757,Bermude,,boardgame,,,
 10547,Betrayal at House on the Hill,2004,boardgame,,,
@@ -666,7 +666,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 1398,Chicago,1986,boardgame,,,chicago-1986
 280203,Chicken Chicken,2019,boardgame,,,
 724,Chill: Black Morn Manor,,boardgame,,,
-287515,China’s War: 1937-1941,2025,boardgame,,,
+287515,China’s War: 1937-1941,2025,boardgame,,,chinas-war
 2386,Chinese checkers,,boardgame,,,
 ,Chinese Civil War,,boardgame,,,
 8747,Chinese Farm,,boardgame,,,
@@ -740,7 +740,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 94746,Coffee,,boardgame,ambiguous,"Too generic, no unique board game match",
 377061,Coffee Rush,2023,boardgame,,,
 ,COIN,,boardgame,ambiguous,"Genre acronym (Counter-Insurgency), not a specific game",
-,Coin Hopping--Washington D.C.,,boardgame,,,
+,Coin Hopping--Washington D.C.,,boardgame,,,coin-hopping-washington-dc
 ,COIN Series,,boardgame,skip,"Series label, not a specific game",
 24742,Cold War: CIA vs KGB,,boardgame,,,
 11607,Collection particulière,,boardgame,skip,Not a board game,
@@ -903,7 +903,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 13542,De Ontembare Stad,2004,boardgame,,,
 75165,De vulgari eloquentia,2010,boardgame,,,
 ,Dead of Winter,2014,boardgame,,,
-150376,Dead of Winter: A Cross Roads Game,2014,boardgame,,,
+150376,Dead of Winter: A Cross Roads Game,2014,boardgame,,,dead-of-winter
 ,Dead of Winter: A Crossroads Game,2014,boardgame,,,dead-of-winter
 ,Dead Reckoning,2022,boardgame,,,
 96713,Deadwood,2011,boardgame,,,
@@ -946,7 +946,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 185,Devil Bunny Needs a Ham,,boardgame,,,
 5482,Devil's Den,,boardgame,,,devils-den
 20253,Diaballik,,boardgame,,,
-4811,Diadem (board game),,boardgame,,,
+4811,Diadem (board game),,boardgame,,,diadem
 11730,Diam,,boardgame,,,
 15512,Diamant,,boardgame,,,
 133664,Diamond,,boardgame,,,
@@ -1220,7 +1220,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 11081,Familienbande,,boardgame,,,
 4386,Fanorona,,boardgame,,,
 2972,Fantasy Business,,boardgame,,,
-,Fantasy Land (board game),,boardgame,,,
+,Fantasy Land (board game),,boardgame,,,fantasy-land
 3674,Fast Attack Boats,,boardgame,,,
 38548,Fast Flowing Forest Fellers,,boardgame,,,
 720,Fast Food Franchise,,boardgame,,,
@@ -1404,7 +1404,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 23686,Gift Trap,,boardgame,,,
 170969,Gigamons,,boardgame,,,
 59,Giganten,1999,boardgame,,,
-8395,Giganten (board game),1981,boardgame,,,
+8395,Giganten (board game),1981,boardgame,,,giganten
 ,Gimel,,boardgame,,,
 38229,Giocagoal,,boardgame,,,
 ,Gioul,,boardgame,,,
