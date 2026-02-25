@@ -1622,7 +1622,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 116954,Indigo,,boardgame,,,
 19777,Indonesia,,boardgame,,,
 9560,Indus,2004,boardgame,,,
-23765,Infantry Attacks series,,boardgame,,,
+23765,Infantry Attacks series,,boardgame,,,infantry-attacks-series
 57139,Infection Express,,boardgame,,,
 9674,Ingenious,,boardgame,,,
 22484,Ingenious: Travel Edition,,boardgame,,,ingenious-travel-edition
@@ -1743,32 +1743,32 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Khanhoo,,boardgame,,,
 109797,Kharbaga,,boardgame,,,
 25674,Khronos,,boardgame,,,
-299684,Khôra: Rise of an Empire,2021,boardgame,,,
+299684,Khôra: Rise of an Empire,2021,boardgame,,,khora-rise-of-an-empire
 ,Kiela,,boardgame,,,
 257,Kill Doctor Lucky,,boardgame,,,
-33876,Killer Bunnies and the Journey to Jupiter,,boardgame,,,
-3699,Killer Bunnies and the Quest for the Magic Carrot,,boardgame,,,
-,Kilpa-ajo-peli 1887,,boardgame,,,
+33876,Killer Bunnies and the Journey to Jupiter,,boardgame,,,killer-bunnies-journey-to-jupiter
+3699,Killer Bunnies and the Quest for the Magic Carrot,,boardgame,,,killer-bunnies-quest-for-the-magic-carrot
+,Kilpa-ajo-peli 1887,,boardgame,,,kilpa-ajo-peli-1887
 ,Kimble,1967,boardgame,,,
 ,Kinfire Council,2025,boardgame,,,
-6368,King Arthur,,boardgame,,,
-5606,King Arthur's Knights,,boardgame,,,
+6368,King Arthur,,boardgame,,,king-arthur-board-wargame
+5606,King Arthur's Knights,,boardgame,,,king-arthurs-knights
 160499,King of New York,2014,boardgame,,,
 30093,King of the Hill,,boardgame,,,
 3009,King of the Mountain,,boardgame,,,
 70323,King of Tokyo,2011,boardgame,,,
 2608,King Oil,,boardgame,,,
-6263,King's Breakfast,2003,boardgame,,,
+6263,King's Breakfast,2003,boardgame,,,kings-breakfast
 107529,Kingdom Builder,2011,boardgame,,,
 ,Kingdom Death: Monster,2015,boardgame,,,
 ,Kingdomino,2017,boardgame,,,
 119,Kingdoms,1994,boardgame,,,
 987,Kingmaker,1974,boardgame,,,
-25693,Kings & Castles,1980,boardgame,,,
-58,Kings & Things,,boardgame,,,
+25693,Kings & Castles,1980,boardgame,,,kings-and-castles
+58,Kings & Things,,boardgame,,,kings-and-things
 ,Kings of War,,boardgame,,,
 27162,Kingsburg,,boardgame,,,
-,KingsRow,,boardgame,,,
+,KingsRow,,boardgame,skip,"Computer checkers engine, not a board game",
 ,Kiothi,,boardgame,,,
 28238,Kitty Bitty,,boardgame,,,
 1702,Klondike,,boardgame,,,
@@ -1777,53 +1777,53 @@ bgg_id,name,year,type,status,notes,yaml_id
 1780,Knights of Camelot,1980,boardgame,,,
 7334,Knockout,1991,boardgame,,,
 ,Koenigspiel,1780,boardgame,,,
-,Kolowis Awithlaknannai,,boardgame,,,
+,Kolowis Awithlaknannai,,boardgame,,,kolowis-awithlaknannai
 8122,Konane,,boardgame,,,
 135,Kontor,,boardgame,,,
-6005,Korea: The Mobile War,,boardgame,,,
+6005,Korea: The Mobile War,,boardgame,,,korea-the-mobile-war
 ,Korsar,1992,boardgame,,,
-13182,Korsun Pocket: Little Stalingrad on the Dnepr,,boardgame,,,
-140535,Koryŏ,,boardgame,,,
+13182,Korsun Pocket: Little Stalingrad on the Dnepr,,boardgame,,,korsun-pocket
+140535,Koryŏ,,boardgame,,,koryo
 ,Kotra,,boardgame,,,
-49261,Kraby,,boardgame,,,
+49261,Kraby,,boardgame,failed,No sources found,
 26859,Kragmortha,,boardgame,,,
-293309,Kraken Attack!,,boardgame,,,
-66825,Kraken-Alarm,2010,boardgame,,,
+293309,Kraken Attack!,,boardgame,,,kraken-attack
+66825,Kraken-Alarm,2010,boardgame,,,kraken-alarm
 328680,Krazy Maze,,boardgame,,,
 196,Kremlin,1986,boardgame,,,
 7015,Kriegsmarine,,boardgame,,,
 ,Kriegspiel,,boardgame,,,
-402111,Kronologic: Paris 1920,,boardgame,,,
-112138,Krosmaster: Arena,,boardgame,,,
+402111,Kronologic: Paris 1920,,boardgame,,,kronologic-paris-1920
+112138,Krosmaster: Arena,,boardgame,,,krosmaster-arena
 39486,Krur,,boardgame,,,
 26873,Kruzno,,boardgame,,,
 7694,Krypto,,boardgame,,,
 164354,Kryptos,,boardgame,,,
 1703,Kula Kula,1991,boardgame,,,
 108831,Kulami,,boardgame,,,
-3036,Kung Fu 2100,1980,boardgame,,,
+3036,Kung Fu 2100,1980,boardgame,,,kung-fu-2100
 ,Kunglig ludo,,boardgame,,,
-,Kursk: Operation Zitadelle,,boardgame,,,
-385610,Kutná Hora: The City of Silver,,boardgame,,,
-356742,KuZOOkA,2022,boardgame,,,
-,København,,boardgame,,,
-40367,L'Anniversaire des triplés,,boardgame,,,
-9246,L'Attaque,1909,boardgame,,,
-24498,L'Enclos,1982,boardgame,,,
-13520,La Bataille d'Albuera: Espagnol,,boardgame,,,
-12898,La Bataille d'Auerstædt,1977,boardgame,,,
-,La Bataille de Valmy,1981,boardgame,,,
-30020,La Belle Alliance: The Battle of Waterloo,1976,boardgame,,,
+,Kursk: Operation Zitadelle,,boardgame,,,kursk-operation-zitadelle
+385610,Kutná Hora: The City of Silver,,boardgame,,,kutna-hora-the-city-of-silver
+356742,KuZOOkA,2022,boardgame,,,kuzooka
+,København,,boardgame,,,kobenhavn
+40367,L'Anniversaire des triplés,,boardgame,,,l-anniversaire-des-triples
+9246,L'Attaque,1909,boardgame,,,l-attaque
+24498,L'Enclos,1982,boardgame,,,l-enclos
+13520,La Bataille d'Albuera: Espagnol,,boardgame,,,la-bataille-d-albuera
+12898,La Bataille d'Auerstædt,1977,boardgame,,,la-bataille-d-auerstedt
+,La Bataille de Valmy,1981,boardgame,,,la-bataille-de-valmy
+30020,La Belle Alliance: The Battle of Waterloo,1976,boardgame,,,la-belle-alliance
 136280,La Boca,,boardgame,,,
-554,La Città,2000,boardgame,,,
-,La Fallera Calavera,,boardgame,,,
+554,La Città,2000,boardgame,,,la-citta
+,La Fallera Calavera,,boardgame,,,la-fallera-calavera
 367517,La Famiglia: The Great Mafia War,,boardgame,,,
-10013,La Foi et le Glaive,,boardgame,,,
-9077,La Grande Armée,,boardgame,,,
+10013,La Foi et le Glaive,,boardgame,,,la-foi-et-le-glaive
+9077,La Grande Armée,,boardgame,,,la-grande-armee
 146886,La Granja,2014,boardgame,,,
-19284,La Vache Amoureuse,,boardgame,,,
-,La'b Hakimi,,boardgame,,,
-,La'b Madjnuni,,boardgame,,,
+19284,La Vache Amoureuse,,boardgame,,,la-vache-amoureuse
+,La'b Hakimi,,boardgame,,,lab-hakimi
+,La'b Madjnuni,,boardgame,,,lab-madjnuni
 821,La-Trel,1994,boardgame,,,
 31360,Laborigines,,boardgame,,,
 62227,Labyrinth,2010,boardgame,,,
@@ -1837,63 +1837,63 @@ bgg_id,name,year,type,status,notes,yaml_id
 117959,Las Vegas,,boardgame,,,
 6862,Lasca,,boardgame,,,
 7776,Laser Tank,,boardgame,,,
-5875,Last Battle: Twilight 2000,,boardgame,,,
-2324,Last Frontier: The Vesuvius Incident,,boardgame,,,
+5875,Last Battle: Twilight 2000,,boardgame,,,last-battle-twilight-2000
+2324,Last Frontier: The Vesuvius Incident,,boardgame,,,last-frontier-the-vesuvius-incident
 331059,Last Message,2021,boardgame,,,
 29368,Last Night on Earth,,boardgame,,,
 97842,Last Will,,boardgame,,,
 ,Latho,,boardgame,,,
-39489,Layli Goobalay,,boardgame,,,
-,Le Château Lafortune,,boardgame,,,
-37698,Le Cochon qui rit,,boardgame,,,
-,Le Défi du Sphinx,1997,boardgame,,,
+39489,Layli Goobalay,,boardgame,,,layli-goobalay
+,Le Château Lafortune,,boardgame,,,le-chateau-lafortune
+37698,Le Cochon qui rit,,boardgame,,,le-cochon-qui-rit
+,Le Défi du Sphinx,1997,boardgame,,,le-defi-du-sphinx
 ,Le Grand Empire,,boardgame,,,
 35677,Le Havre,,boardgame,,,
 ,Le Havre: The Inland Port,2012,boardgame,,,
-246564,Le jeu aux mille titres,,boardgame,,,
-,Le jeu des chaises musicales,1992,boardgame,,,
+246564,Le jeu aux mille titres,,boardgame,,,le-jeu-aux-mille-titres
+,Le jeu des chaises musicales,1992,boardgame,,,le-jeu-des-chaises-musicales
 41126,Le Magistral,,boardgame,,,
 10855,Le Paresseux,,boardgame,,,
 225460,Leader Foot,,boardgame,,,
-141418,LEADERS: The Combined Strategy Game,,boardgame,,,
+141418,LEADERS: The Combined Strategy Game,,boardgame,,,leaders-the-combined-strategy-game
 ,Leaf,2023,boardgame,,,
 31624,League of Six,2007,boardgame,,,
 35722,Leap Frog,,boardgame,,,
-5680,Lee vs. Grant: The Wilderness Campaign of 1864,1988,boardgame,,,
+5680,Lee vs. Grant: The Wilderness Campaign of 1864,1988,boardgame,,,lee-vs-grant
 ,Lee vs. Meade,,boardgame,,,
 ,Legacy of Yu,2022,boardgame,,,
-3836,Legend of the Burning Sands,,boardgame,,,
-184151,Legend of the Five Rings: The Card Game,2017,boardgame,,,
+3836,Legend of the Burning Sands,,boardgame,,,legend-of-the-burning-sands
+184151,Legend of the Five Rings: The Card Game,2017,boardgame,,,legend-of-the-five-rings-the-card-game
 3794,Legend of Zagor,,boardgame,,,
-129437,Legendary: A Marvel Deck Building Game,,boardgame,,,
+129437,Legendary: A Marvel Deck Building Game,,boardgame,,,legendary-a-marvel-deck-building-game
 ,Legends of Andor,2013,boardgame,,,
-,"Legion: Tactical Warfare in the Roman Age, 100BC-700AD",,boardgame,,,
-,Legions of the Petal Throne,,boardgame,,,
-94732,Lego Heroica,,boardgame,,,
-10508,Leinen los!,1997,boardgame,,,
-,Leipzig: The Battle of Nations,,boardgame,,,
+,"Legion: Tactical Warfare in the Roman Age, 100BC-700AD",,boardgame,,,legion-tactical-warfare-roman-age
+,Legions of the Petal Throne,,boardgame,,,legions-of-the-petal-throne
+94732,Lego Heroica,,boardgame,,,lego-heroica
+10508,Leinen los!,1997,boardgame,,,leinen-los
+,Leipzig: The Battle of Nations,,boardgame,,,leipzig-the-battle-of-nations
 153004,Lemming,2014,boardgame,,,
-,"Leningrad: The Advance of Army Group North, Summer 1941",,boardgame,,,
+,"Leningrad: The Advance of Army Group North, Summer 1941",,boardgame,,,leningrad-advance-army-group-north
 18144,Lensman,1969,boardgame,,,
-,Lentokilpailu-peli,1909,boardgame,,,
+,Lentokilpailu-peli,1909,boardgame,,,lentokilpailu-peli
 21920,Leonardo da Vinci,,boardgame,,,
-,Leopard hunt game,,boardgame,,,
-7502,Leros: The Island Prize,1996,boardgame,,,
+,Leopard hunt game,,boardgame,,,leopard-hunt-game
+7502,Leros: The Island Prize,1996,boardgame,,,leros-the-island-prize
 ,Les Aigles,,boardgame,,,
 ,Let's Go! To Japan,2024,boardgame,,,lets-go-to-japan
 6873,Letra-Mix,,boardgame,,,
 59959,Letters from Whitechapel,,boardgame,,,
-140620,Lewis & Clark: The Expedition,,boardgame,,,
-45,Liar's Dice,,boardgame,,,
-,Liberian Queah,,boardgame,,,
-356033,Libertalia: Winds of Galecrest,2022,boardgame,,,
-3988,Life as a BlackMan,,boardgame,,,
+140620,Lewis & Clark: The Expedition,,boardgame,,,lewis-and-clark-the-expedition
+45,Liar's Dice,,boardgame,,,liars-dice
+,Liberian Queah,,boardgame,,,liberian-queah
+356033,Libertalia: Winds of Galecrest,2022,boardgame,,,libertalia-winds-of-galecrest
+3988,Life as a BlackMan,,boardgame,,,life-as-a-blackman
 6383,Life Style,1989,boardgame,,,
 249,Lifeboats,,boardgame,,,
 2853,Liftoff!,1989,boardgame,,,
 8382,Light Division,1989,boardgame,,,
 ,Light Speed Arena,2025,boardgame,,,
-30023,Ligny: Incomplete Victory,1976,boardgame,,,
+30023,Ligny: Incomplete Victory,1976,boardgame,,,ligny-incomplete-victory
 ,Limes,2014,boardgame,,,
 ,Lincoln,2018,boardgame,,,
 5174,Lingua,1969,boardgame,,,
@@ -1904,28 +1904,28 @@ bgg_id,name,year,type,status,notes,yaml_id
 31845,Livequiz,2007,boardgame,,,
 328479,Living Forest,,boardgame,,,
 27368,Living Landscapes,,boardgame,,,
-18460,Lock 'n Load: Band of Heroes,,boardgame,,,
-41052,Loco Motive,,boardgame,,,
+18460,Lock 'n Load: Band of Heroes,,boardgame,,,lock-n-load-band-of-heroes
+41052,Loco Motive,,boardgame,,,loco-motive
 ,Logo Board Game,,boardgame,,,
 236191,London,2017,boardgame,,,
 1581,London Cabbie,,boardgame,,,
-2150,London's Burning,,boardgame,,,
+2150,London's Burning,,boardgame,,,londons-burning
 40237,Long Shot,,boardgame,,,
 136991,Loony Quest,,boardgame,,,
 410991,Looot,2024,boardgame,,,
-327,Looping Louie,1992,boardgame,,,
+327,Looping Louie,1992,boardgame,,,loopin-louie
 1536,Lord of the Fries,,boardgame,,,
 823,Lord of the Rings,2000,boardgame,,,lord-of-the-rings-the-confrontation
 ,Lord of the Rings - The Confrontation,2002,boardgame,,,
-102275,Lord of the Rings: The Adventure Deck Game,,boardgame,,,
+102275,Lord of the Rings: The Adventure Deck Game,,boardgame,,,lord-of-the-rings-the-adventure-deck-game
 18833,Lord of the Rings: The Confrontation,,boardgame,,,
-,Lords & Wizards,,boardgame,,,
+,Lords & Wizards,,boardgame,,,lords-and-wizards
 6687,Lords of the Middle Sea,,boardgame,,,
 110327,Lords of Waterdeep,2013,boardgame,,,
 21854,Los Mampfos,,boardgame,,,
 2277,Lose Your Shirt,,boardgame,,,
-185221,Lost & Found,2015,boardgame,,,
-8360,Lost Battles: Operational Combat in Russia,1971,boardgame,,,
+185221,Lost & Found,2015,boardgame,,,lost-and-found
+8360,Lost Battles: Operational Combat in Russia,1971,boardgame,,,lost-battles-operational-combat-russia
 ,Lost Cities,1999,boardgame,,,
 2268,Lost Patrol,,boardgame,,,
 312484,Lost Ruins of Arnak,2020,boardgame,,,
@@ -1941,20 +1941,20 @@ bgg_id,name,year,type,status,notes,yaml_id
 2136,Ludo,,boardgame,,,
 ,ludus coriovalli,,boardgame,,,
 33690,ludus duodecim scriptorum,,boardgame,,,
-21488,Ludus latrunculorum,,boardgame,,,
+21488,Ludus latrunculorum,,boardgame,,,ludus-latrunculorum
 3646,Luftwaffe,1970,boardgame,,,
 ,Lukho,,boardgame,,,
 228,Lunch Money,,boardgame,,,
-203401,Luther: Das Spiel,,boardgame,,,
+203401,Luther: Das Spiel,,boardgame,,,luther-das-spiel
 ,Luthier,2025,boardgame,,,
 245643,Luxor,2018,boardgame,,,
 8909,Luzhanqi,,boardgame,,,
 217083,LYNGK,,boardgame,,,
 66,Löwenherz,1997,boardgame,,,lowenherz
-,Lützen,,boardgame,,,
-43240,Maailman eläimet,,boardgame,,,
-,Maailmansota itäisellä sotanäyttämöllä,,boardgame,,,
-,Maantieteellinen seurapeli,,boardgame,,,
+,Lützen,,boardgame,,,lutzen
+43240,Maailman eläimet,,boardgame,failed,"Finnish, no English sources",
+,Maailmansota itäisellä sotanäyttämöllä,,boardgame,failed,"Finnish, no English sources",
+,Maantieteellinen seurapeli,,boardgame,failed,"Finnish, no English sources",
 ,MAATAC,,boardgame,,,
 55670,Macao,,boardgame,,,
 143884,Machi Koro,2012,boardgame,,,
@@ -1967,102 +1967,102 @@ bgg_id,name,year,type,status,notes,yaml_id
 96848,Mage Knight Board Game,,boardgame,,,
 2876,Mage Knight Dungeons,,boardgame,,,
 101721,Mage Wars Arena,,boardgame,,,
-169918,Magia Cum Laude,,boardgame,,,
-2087,Magic Dance,,boardgame,,,
-368899,Magic Keys,,boardgame,,,
-65333,Magic Labyrinth: Card Game,,boardgame,,,
+169918,Magia Cum Laude,,boardgame,failed,No English sources found,
+2087,Magic Dance,,boardgame,failed,No English sources found,
+368899,Magic Keys,,boardgame,failed,No English sources found,
+65333,Magic Labyrinth: Card Game,,boardgame,,,magic-labyrinth-card-game
 209778,Magic Maze,2017,boardgame,,,
 22,Magic Realm,,boardgame,,,
-176070,Magic Realm Light 30,,boardgame,,,
-,Magic Wood,,boardgame,,,
+176070,Magic Realm Light 30,,boardgame,failed,"Obscure variant, no sources",
+,Magic Wood,,boardgame,failed,No English sources found,
 ,Magical Athlete,2025,boardgame,,,
-85245,Magician's Kitchen,,boardgame,,,
-20935,Magikon,1984,boardgame,,,
-16778,Magneton,,boardgame,,,
-23142,Mag·Blast: Third Edition,2006,boardgame,,,
-1713,Maharaja,,boardgame,,,
-9440,Maharaja: The Game of Palace Building in India,2004,boardgame,,,
+85245,Magician's Kitchen,,boardgame,failed,No English sources found,
+20935,Magikon,1984,boardgame,failed,No English sources found,
+16778,Magneton,,boardgame,failed,No English sources found,
+23142,Mag·Blast: Third Edition,2006,boardgame,,,mag-blast-third-edition
+1713,Maharaja,,boardgame,,,maharaja-the-game-of-palace-building-in-india
+9440,Maharaja: The Game of Palace Building in India,2004,boardgame,,,maharaja-the-game-of-palace-building-in-india
 2093,mahjong,,boardgame,,,
-,Mak-yek,,boardgame,,,
-8147,Maka Bana,2003,boardgame,,,
-111828,Make 10 and 20,,boardgame,,,
-10595,Make-A-Million,,boardgame,,,
-,Makonn,,boardgame,,,
+,Mak-yek,,boardgame,,,mak-yek
+8147,Maka Bana,2003,boardgame,failed,No English sources found,
+111828,Make 10 and 20,,boardgame,failed,No English sources found,
+10595,Make-A-Million,,boardgame,failed,No English sources found,
+,Makonn,,boardgame,failed,No English sources found,
 2322,Malefiz,,boardgame,,,
 15162,Mall Madness,,boardgame,,,
 16772,Mall of Horror,,boardgame,,,
-1924,Maloney's Inheritance,1988,boardgame,,,
-49,Mamma Mia!,,boardgame,,,
-2516,Man O' War,,boardgame,,,
-,Man the Lifeboat,,boardgame,,,
-21703,Mana,,boardgame,,,
-7006,Management,,boardgame,,,
-538,Manager,,boardgame,,,
+1924,Maloney's Inheritance,1988,boardgame,failed,No English sources found,
+49,Mamma Mia!,,boardgame,,,mamma-mia
+2516,Man O' War,,boardgame,,,man-o-war
+,Man the Lifeboat,,boardgame,failed,No sources found,
+21703,Mana,,boardgame,ambiguous,"Too ambiguous, multiple unrelated games",
+7006,Management,,boardgame,ambiguous,"Too generic, no specific game identified",
+538,Manager,,boardgame,ambiguous,"Too generic, no specific game identified",
 39492,Mangala,,boardgame,,,
 199,Manhattan,1994,boardgame,,,
 15817,Manila,2005,boardgame,,,
 17396,Manoeuvre,,boardgame,,,
-83330,Mansions of Madness: First Edition,2011,boardgame,,,
+83330,Mansions of Madness: First Edition,2011,boardgame,,,mansions-of-madness-first-edition
 205059,Mansions of Madness: Second Edition,2016,boardgame,,,
 361958,Maple Valley,2024,boardgame,,,
 ,Maracaibo,2019,boardgame,,,
 3063,March Madness,1991,boardgame,,,
-2280,Marco Polo,1983,boardgame,,,
+2280,Marco Polo,1983,boardgame,,,voyages-of-marco-polo
 99479,Mare Balticum,,boardgame,,,
 3931,Mare Nostrum,,boardgame,,,
-13881,"Marengo: Napoleon in Italy, 14 June 1800",1975,boardgame,,,
+13881,"Marengo: Napoleon in Italy, 14 June 1800",1975,boardgame,,,marengo-napoleon-in-italy
 40354,Maria,2009,boardgame,,,
 ,Marienbad,,boardgame,,,
-2757,Marine: 2002,,boardgame,,,
+2757,Marine: 2002,,boardgame,failed,No English sources found,
 29223,Marrakech,,boardgame,,,
 342810,Marrakesh,2022,boardgame,,,
-,Marralhinha,2000,boardgame,,,
+,Marralhinha,2000,boardgame,failed,"Portuguese, no English sources found",
 99875,Martian Dice,,boardgame,,,
 ,Marvel Champions: The Card Game,2019,boardgame,,,
 ,Marvel Dice Throne,2022,boardgame,,,
 ,Marvel Dice Throne Missions,2025,boardgame,,,
-182276,Marvel HeroClix: Infinity Challenge,,boardgame,,,
+182276,Marvel HeroClix: Infinity Challenge,,boardgame,,,marvel-heroclix-infinity-challenge
 14808,Marvel Heroes,2006,boardgame,,,
 ,Marvel Super Dice,,boardgame,,,
 ,Marvel United,2020,boardgame,,,
 ,Marvel United: Multiverse,2024,boardgame,,,
 139030,Mascarade,,boardgame,,,
-,Mask Trilogy,,boardgame,,,
+,Mask Trilogy,,boardgame,skip,"Series name (Tikal/Java/Mexica), not a single game",
 21791,Masons,,boardgame,,,
 ,Massive Darkness 2: Hellscape,2022,boardgame,,,
 172358,Master Fox,,boardgame,,,
 437,Master Labyrinth,,boardgame,,,
-193322,Master of Orion: The Board Game,2016,boardgame,,,
+193322,Master of Orion: The Board Game,2016,boardgame,,,master-of-orion-the-board-game
 2392,Mastermind,1970,boardgame,,,
 1501,Masterpiece,,boardgame,,,
 6979,Match of the Penguins,,boardgame,,,
-14074,Matchwitz,,boardgame,,,
-,Mathesso,,boardgame,,,
-,Matjok,,boardgame,,,
-,Matka kotiin jouluksi,1908,boardgame,,,
-91671,Mato Mato,2011,boardgame,,,
-126159,Mausgetrixt,,boardgame,,,
+14074,Matchwitz,,boardgame,failed,No English sources found,
+,Mathesso,,boardgame,failed,No English sources found,
+,Matjok,,boardgame,failed,No English sources found,
+,Matka kotiin jouluksi,1908,boardgame,failed,"Finnish, no English sources",
+91671,Mato Mato,2011,boardgame,failed,No English sources found,
+126159,Mausgetrixt,,boardgame,failed,"German, no English sources found",
 ,Meadow,2021,boardgame,,,
 209010,Mechs vs. Minions,,boardgame,,,
-5383,MechWar '77,1975,boardgame,,,
-,MechWarrior: Dark Age,,boardgame,,,
+5383,MechWar '77,1975,boardgame,,,mechwar-77
+,MechWarrior: Dark Age,,boardgame,,,mechwarrior-dark-age
 46,Medici,,boardgame,,,
-24762,Medici vs Strozzi,2006,boardgame,,,
+24762,Medici vs Strozzi,2006,boardgame,,,medici-vs-strozzi
 1261,Medina,,boardgame,,,
 1541,Mega-Mania,,boardgame,,,
 4148,Mehen,,boardgame,,,
 165657,Melee,,boardgame,,,
 10630,Memoir '44,,boardgame,,,
 244608,Menara,2018,boardgame,,,
-19846,Menhir,,boardgame,,,
+19846,Menhir,,boardgame,failed,No specific board game found,
 2136,Mensch ärgere dich nicht,1907,boardgame,,,dont-be-annoyed
 230,Merchant of Venus,,boardgame,,,
-32114,Merchants,,boardgame,,,
-25292,Merchants & Marauders,2010,boardgame,,,
+32114,Merchants,,boardgame,ambiguous,"Too generic, no specific game identified",
+25292,Merchants & Marauders,2010,boardgame,,,merchants-and-marauders
 531,Merchants of Amsterdam,2000,boardgame,,,
-139780,Merlin Zinzin,,boardgame,,,
-1965,Mertwig's Maze,1988,boardgame,,,
-306040,Merv: The Heart of the Silk Road,,boardgame,,,
+139780,Merlin Zinzin,,boardgame,failed,"French, no English sources found",
+1965,Mertwig's Maze,1988,boardgame,,,mertwigs-maze
+306040,Merv: The Heart of the Silk Road,,boardgame,,,merv-the-heart-of-the-silk-road
 5885,Meschugge,,boardgame,,,
 19301,Mesopotamia,2005,boardgame,,,
 411420,Message in a Bottle,2024,boardgame,,,
@@ -3790,8 +3790,8 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Red Flags,2015,boardgame,,,
 ,Heroscape Age of Annihilation,2024,boardgame,,,
 ,Kurt Vonnegut's GHQ,2024,boardgame,,,ghq
-,Masters of Crime: Vendetta,2024,boardgame,,,
-,Masters of Crime: Shadows,2023,boardgame,,,
+,Masters of Crime: Vendetta,2024,boardgame,,,masters-of-crime-vendetta
+,Masters of Crime: Shadows,2023,boardgame,,,masters-of-crime-shadows
 ,Agatha Christie: Death on the Cards,2018,boardgame,,,
 ,Choose Your Own Adventure: House of Danger,2018,boardgame,,,
 ,Disney Hocus Pocus,2020,boardgame,,,
@@ -3835,7 +3835,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Fit to Print,2022,boardgame,,,
 ,Zoo Vadis,2022,boardgame,,,
 ,War of the Worlds: The New Wave,2019,boardgame,,,
-,Long Shot: The Dice Game,2022,boardgame,,,
+,Long Shot: The Dice Game,2022,boardgame,,,long-shot-the-dice-game
 ,Fiction,2024,boardgame,,,
 ,Minos: Dawn of the Bronze Age,2024,boardgame,,,
 ,Foundations of Metropolis,2024,boardgame,,,
