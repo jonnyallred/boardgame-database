@@ -1,0 +1,54 @@
+id: origo
+name: "Origo"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - Modular Board
+  - Family
+  - Gateway
+  - Ancient
+  - Historical
+
+evokes:
+  - Rivalry
+  - Agency
+  - Tension
+  - Clever
+  - Progress
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  Origo is a card and board strategy game published by Parker Brothers in 2007 set in ancient Europe, in which 2-5 players lead tribes competing for dominance by expanding territories, launching attacks, and maneuvering figures across the board. Players perform actions in any sequence — expanding, attacking, hiking, and sailing — driven by a hand of cards that power movement and conflict, while the shifting majority on the board determines who controls which regions. Combining some luck with tactical decisions, Origo offers a relatively accessible area control experience themed around the ancient tribal conflicts of prehistoric and early European civilizations.
+
+upgrades: []

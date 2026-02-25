@@ -1,0 +1,52 @@
+id: operation-pegasus
+name: "Operation Pegasus"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Perry Moore
+publisher:
+  - Task Force Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Operation Pegasus is a two-player wargame published by Task Force Games in 1980 simulating the March 1968 relief of the besieged U.S. Marine base at Khe Sanh during the Vietnam War. The actual Operation Pegasus was a joint U.S. Army and ARVN overland relief mission launched to end the 77-day siege by North Vietnamese forces. Initially released as Task Force Games' 8th microgame in a ziplock bag format, it was later released as a boxed set the same year. As a compact wargame it captures the relief operation's race against time and logistical challenges in an accessible microgame format.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: outfoxed
+name: "Outfoxed!"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Dice Rolling
+  - Family
+  - Gateway
+  - Animals
+
+evokes:
+  - Mystery
+  - Connection
+  - Tension
+  - Lucky
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Shawn Sohmer
+  - Freddie Chapin
+  - Tom McNally
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 4
+
+description: |
+  Outfoxed! is a cooperative whodunit deduction game for 2-4 players in which young detectives work together to identify which of 16 fox suspects stole Mrs. Plumpert's prize pot pie before the guilty fox escapes. Players roll dice to gather clues or move around the board, then use the game's clever evidence scanner — a physical device that reveals hidden information about suspects — to systematically eliminate innocent foxes. A winner of the As d'Or Jeu de l'Année Enfant award and a Kinderspiel des Jahres recommendation, Outfoxed! is notable for making logic-based deduction approachable and exciting for children as young as four without any reading required.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: robots
+name: "Robots"
+alternate_names:
+  - Wir sind die Roboter
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Real-time
+  - Family
+
+evokes:
+  - Humor
+  - Connection
+  - Tension
+  - Lucky
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Reinhard Staupe
+publisher:
+  - Pandasaurus Games
+artist:
+  - Oliver Freudenreich
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Robots is a cooperative card game for 2-6 players designed by Reinhard Staupe and published by Pandasaurus Games in 2020, nominated for the Kinderspiel des Jahres (Children's Game of the Year). In the game, one player acts as a robot navigating a line of objects on a card at a declared speed (slow, medium, or fast), making a "beep" when they start and another when they mentally arrive at the target object. Other players must guess which object the robot reached based on the timing of the beeps alone. The game's charming robot premise and simple beeping mechanic make it delightfully accessible for young children and families.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: origins-of-world-war-ii
+name: "Origins of World War II"
+alternate_names: []
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Bluffing
+  - Historical
+  - War
+  - Events
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Clever
+  - Persuasion
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [5]
+
+designer:
+  - Peter Dunnigan
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Origins of World War II is a diplomatic strategy game published by Avalon Hill in 1971 in which 2-5 players each represent a major world power — the USA, France, UK, Russia, or Germany — during the critical years 1933 to 1939. Each player pursues their country's diplomatic objectives while preventing others from achieving theirs, with each turn representing a year and the game ending in 1939 at the outbreak of actual war. Designed by Peter Dunnigan (based on his Origins of World War I game), the game was recognized as an excellent classroom tool for teaching the diplomatic dynamics that produced the Second World War, and Avalon Hill kept it in their catalog primarily for the educational market despite its modest commercial performance.
+
+upgrades: []

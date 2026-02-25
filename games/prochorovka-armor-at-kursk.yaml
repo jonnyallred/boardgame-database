@@ -1,0 +1,52 @@
+id: prochorovka-armor-at-kursk
+name: "Prochorovka: Armor at Kursk"
+alternate_names: ["Armor at Kursk: The Battle of Prochorovka"]
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Stephen V. Cole
+publisher:
+  - Task Force Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Prochorovka: Armor at Kursk is a two-player hex-and-counter wargame designed by Stephen V. Cole and published by Task Force Games in 1979, simulating the largest tank battle of World War II fought on July 12, 1943. The German SS Panzer Korps squares off against the Soviet 5th Guards Tank Army in a tactical engagement just south of the town of Prochorovka on the Eastern Front. Published as a compact microgame, it was later re-released as the boxed set "Armor at Kursk" with additional designer notes and errata.
+
+upgrades: []

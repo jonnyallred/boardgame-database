@@ -1,0 +1,49 @@
+id: pasang
+name: "Pasang"
+alternate_names: []
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Set Collection
+  - Ancient
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Pasang is a traditional two-player abstract strategy game originating from Brunei Darussalam, played on an 11x11 grid with 60 black and 60 white tokens. The game proceeds in three phases: players first capture a column of tokens to create a "passage," then choose a mobile "ka" piece that moves through the passage to capture tokens in patterns. Over 30 different predefined patterns determine valid captures, with black tokens worth 1 point and white tokens worth 2 points. The player who accumulates the most points across the three-phase game wins. Pasang represents an important piece of Southeast Asian cultural heritage, recognized as part of Brunei's traditional games.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: risk-2210-ad
+name: "Risk 2210 A.D."
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: risk
+edition: null
+base_game: risk
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Area Control
+  - Sci-Fi
+  - Variable Player Powers
+  - Dudes on a Map
+  - Wargame
+  - Rob Daviau
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Rob Daviau
+  - Craig Van Ness
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 10
+
+description: |
+  Risk 2210 A.D. is a futuristic variant of classic Risk set in a near-future world where mechanized MODs replace infantry and battles are fought across land, sea, and even the Moon. Designed by Rob Daviau and Craig Van Ness, the game introduces human commanders with special abilities, Command card decks for each domain, and an energy economy that funds commander deployment and card plays. An expanded board adds underwater and lunar territories accessible only to commanders of the appropriate specialization. A strict five-turn limit ensures games conclude in around three hours, making it far more structured than the classic Risk experience — it won the Origins Award for Best Science Fiction or Fantasy Board Game of 2001.
+
+upgrades: []

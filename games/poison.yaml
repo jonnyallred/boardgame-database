@@ -1,0 +1,54 @@
+id: poison
+name: "Poison"
+alternate_names: ["Reiner Knizia's Poison"]
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Family
+  - Filler
+  - Reiner Knizia
+
+evokes:
+  - Tension
+  - Clever
+  - Lucky
+  - Rivalry
+  - Humor
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Playroom Entertainment
+  - Outset Media
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Poison is a light card game by Reiner Knizia in which 3–6 players take turns playing cards from their hands into one of three colored cauldrons. Each cauldron has a limit of 13; if your card causes a cauldron to exceed that total, you must take all of its cards into your score pile. At the end of each round, each card is worth one point, but each Poison card is worth double — and the player with the fewest points at the end of multiple rounds wins. The simple push-your-luck tension of loading cauldrons while avoiding being the one who tips them over makes Poison an effective and accessible filler.
+
+upgrades: []

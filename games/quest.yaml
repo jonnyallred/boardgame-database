@@ -1,0 +1,50 @@
+id: quest
+name: "Quest"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Card Drafting
+  - Fantasy
+  - Family
+
+evokes:
+  - Discovery
+  - Progress
+  - Lucky
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Quest is a fantasy-themed card game in which players collect sets of items and allies to complete adventuring quests. Players draw cards and build their collections, racing to fulfill quest requirements before opponents do. Multiple games carry the name Quest, so this entry covers the general concept of the quest-themed card collecting game listed in board game databases as a family set collection title.
+
+upgrades: []

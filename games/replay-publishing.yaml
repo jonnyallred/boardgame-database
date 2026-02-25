@@ -1,0 +1,48 @@
+id: replay-publishing
+name: "Replay Publishing"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Hand Management
+
+evokes:
+  - Clever
+  - Progress
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Replay Publishing is a board game listed in databases. Limited commercial documentation is available for this title. The game may be related to publishing, media, or replay mechanics. Its specific theme, publisher, and designer information have not been widely documented in available sources.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: playing-gods
+name: "Playing Gods"
+alternate_names: ["Playing Gods: The Board Game of Divine Domination"]
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Dice Rolling
+  - Party
+  - Mythology
+
+evokes:
+  - Humor
+  - Rivalry
+  - Powerful
+  - Lucky
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Ben Radford
+publisher:
+  - Balls Out Entertainment
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Playing Gods is a satirical area-control board game released in 2008 in which 2–5 players each embody a different deity — from Jesus to Buddha, Zeus to Cthulhu, the Cult of Oprah to the Almighty Dollar — and compete to achieve world domination by spreading believers across a global map. Like Risk, players vie for control of continents containing Holy Cities, winning followers by conversion or slaying opponents with Acts of God. The game's irreverent satire blends social commentary with accessible gameplay, provoking discussion about religion and popular culture. Its tongue-in-cheek framing earned it attention at the 2009 New York Toy Fair.
+
+upgrades: []

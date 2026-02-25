@@ -1,0 +1,50 @@
+id: orgy
+name: "Orgy"
+alternate_names: []
+year: 1970
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Hand Management
+  - Abstract
+  - Filler
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Rivalry
+  - Lucky
+
+possible_counts: [4]
+true_counts: [4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 16
+
+description: |
+  Orgy is an unusual trick-taking card game played with a standard 52-card deck in which Jacks, Queens, and Kings all share an equal rank of zero, while numbered cards score face value. Players are dealt 13 cards each, the dealer names trump, and play proceeds with standard suit-following rules. Scoring rewards forming valid "orgies" — sequences of at least three cards alternating male and female face-card ranks taken in tricks — with one point per card in the qualifying group. A player who captures all four Queens plus five or more Jacks and Kings achieves a Maximum Orgy and wins immediately. The game's provocative name and unusual scoring mechanism make it a notable curiosity in the literature of card games with standard decks.
+
+upgrades: []

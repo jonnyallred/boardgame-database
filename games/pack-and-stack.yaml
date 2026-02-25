@@ -1,0 +1,52 @@
+id: pack-and-stack
+name: "Pack & Stack"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Puzzle Solving
+  - Party
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Clever
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Bernd Eisenstein
+publisher:
+  - 999 Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Pack & Stack is a fast and funny dexterity and spatial reasoning game in which players race to load cargo tiles of various sizes onto oddly shaped trucks as efficiently as possible. Designed by Bernd Eisenstein and published by 999 Games, the game challenges players to think quickly about how to fit irregular pieces into limited space — a puzzle-like challenge that becomes chaotic and hilarious as the timer ticks down. Its combination of speed, spatial thinking, and slapstick logistics makes it a crowd-pleasing family game that works well as a warm-up or filler activity.
+
+upgrades: []

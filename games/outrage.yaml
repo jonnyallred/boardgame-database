@@ -1,0 +1,53 @@
+id: outrage
+name: "Outrage!"
+alternate_names:
+  - "Outrage: Steal the Crown Jewels"
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Bluffing
+  - Family
+  - Historical
+  - Mystery
+
+evokes:
+  - Tension
+  - Humor
+  - Agency
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Imperial Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Outrage! is the official Tower of London board game, published by Imperial Games in 1992, in which players move through the Tower of London attempting to steal the British Crown Jewels while evading Yeoman Warders. The game is loosely inspired by Thomas Blood's 1671 real-life attempt to steal the jewels. To steal a crown jewel, a player must reach the White Tower with burglary tools and cannot pass a Yeoman Warder while carrying jewels without a disguise card. A Deluxe edition featuring handcrafted jewels made of genuine precious metals and stones was produced and became the most expensive board game in the world at around £8,000. The standard edition remains a charming British novelty game with a loyal following.
+
+upgrades: []

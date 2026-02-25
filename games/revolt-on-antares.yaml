@@ -1,0 +1,53 @@
+id: revolt-on-antares
+name: "Revolt On Antares"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hex Map
+  - Sci-Fi
+  - Wargame
+  - Variable Player Powers
+
+evokes:
+  - Rivalry
+  - Tension
+  - Powerful
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Tom Moldvay
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Revolt On Antares is a science fiction hex-and-counter wargame published by TSR in 1981 as part of their microgame line. Set on the alien world of Imhirros, players control noble houses that are either loyal to the Terran Empire or in open rebellion against it, fighting for dominance across a full-color hex map. The game includes three scenarios — Revolt Against Terra, The Silakka Invasion, and Power Politics on Imirrhos — offering both two-player and multiplayer experiences. Each turn progresses through ten ordered phases covering movement, combat, recruitment, and alliance-building, making it a compact but richly layered wargame experience.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: quoridor
+name: "Quoridor"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - No Math
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Mirko Marchesi
+publisher:
+  - Gigamic
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Quoridor is a two- or four-player abstract strategy game designed by Mirko Marchesi and published by Gigamic in 1997. Each player moves their pawn across a 9×9 grid toward the opposite side while spending their turn budget to place walls that block opponents' paths — but walls must always leave at least one route open for every pawn. The result is an elegant spatial puzzle of path planning and obstruction. Quoridor won the MENSA Mind Game award in 1997 and Game of the Year in the US, France, Canada, and Belgium.
+
+upgrades: []

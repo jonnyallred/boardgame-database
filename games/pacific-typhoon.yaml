@@ -1,0 +1,54 @@
+id: pacific-typhoon
+name: "Pacific Typhoon"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Auctions/Bidding
+  - Historical
+  - War
+  - Maritime
+  - Wargame
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Powerful
+  - Lucky
+
+possible_counts: [3, 4, 5, 6, 7]
+true_counts: [4, 5]
+
+designer:
+  - Mark McLaughlin
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Pacific Typhoon is a card game for 3-7 players published by GMT Games that recreates the great air-naval battles of the Pacific War in World War II, using the same system as the popular 1998 Avalon Hill game Atlantic Storm. Players are not assigned to fixed sides — each holds a hand of force cards representing Allied and Japanese warships, submarines, aircraft, special weapons, and events — and compete in twenty sequential historical battles using the available cards to win as many as possible. The round leader designates the battle type (Air, Surface, Sub, or Combined), and players play cards blind before simultaneous reveal, with the highest combat value in the declared suit winning. A typical game with experienced players completes in about an hour.
+
+upgrades: []

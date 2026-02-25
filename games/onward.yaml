@@ -1,0 +1,53 @@
+id: onward
+name: "Onward"
+alternate_names:
+  - "Onward: The MOBA Board Game"
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Action Points
+  - Asymmetric
+  - Variable Player Powers
+  - Teams
+  - Sci-Fi
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Agency
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Onward is a competitive card-driven board game published by Skytear Games inspired by MOBA (Multiplayer Online Battle Arena) video games such as League of Legends and DOTA 2. Two teams of players each control a roster of champions with unique asymmetric abilities, battling to destroy the enemy team's nexus — a portal in their base. Players split into teams, each controlling two or more champions and spending action points to activate abilities, maneuver across the map, and coordinate assaults on objectives. The game translates the fast tactical decision-making, team coordination, and escalating power dynamics of the digital MOBA genre into a tabletop format with deep strategic potential.
+
+upgrades: []

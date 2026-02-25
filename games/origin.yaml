@@ -1,0 +1,54 @@
+id: origin
+name: "Origin"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - Variable Player Powers
+  - Euro
+  - Civilization
+  - Ancient
+
+evokes:
+  - Progress
+  - Agency
+  - Rivalry
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Andrea Mainini
+publisher:
+  - Matagot
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Origin is a strategic prehistoric civilization game designed by Andrea Mainini and published by Matagot in 2013, in which players take on the role of tribal leaders guiding their populations to become the dominant species on Earth. Players expand their tribes across the terrain, claim territories, and develop through the prehistoric era. Available on Board Game Arena for digital play, Origin offers a streamlined approach to civilization-building with card-driven actions governing expansion, conflict, migration, and maritime exploration across the ancient world. It is praised for combining accessible rules with meaningful strategic decisions about when to migrate, when to fight, and when to develop.
+
+upgrades: []

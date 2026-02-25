@@ -1,0 +1,52 @@
+id: othello
+name: "Othello"
+alternate_names:
+  - Reversi
+year: 1971
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Gateway
+  - Cult Classic
+
+evokes:
+  - Masterful
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Goro Hasegawa
+publisher:
+  - Mattel
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 7
+
+description: |
+  Othello (also known as Reversi) is a classic two-player abstract strategy game played on an 8×8 board with 64 reversible discs that are light on one side and dark on the other. Players take turns placing discs so that they bracket and flip one or more of the opponent's pieces, turning them to their own color. The game's famous tagline — "a minute to learn, a lifetime to master" — captures its accessibility combined with profound strategic depth. Originally dating to Victorian England as Reversi, the modern Othello trademark was patented in Japan in 1971 by Goro Hasegawa and has since sold tens of millions of copies worldwide, remaining one of the best-known abstract strategy games ever made.
+
+upgrades: []

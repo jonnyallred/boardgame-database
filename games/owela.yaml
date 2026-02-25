@@ -1,0 +1,48 @@
+id: owela
+name: "Owela"
+alternate_names: []
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Mancala
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 8
+
+description: |
+  Owela is a traditional mancala game played by the Oshiwambo-speaking peoples of Namibia and Angola, as well as the Nama, Herero, and Rukwangali communities of southern Africa. Played on a board with four rows of six to twenty-four pits, players sow seeds around the board and capture by moving opponent's stones to their own rows — a mechanic that links it to the Omweso family of Eastern and Southern African mancala games. Traditionally played in pits dug into the earth with no fixed restriction on the number of players, Owela has been transmitted through oral tradition and communal play for generations. Despite the apparently simple rules, the cascading consequences of each move can be difficult to predict, giving the game a quality of elegant unpredictability alongside deep strategic potential.
+
+upgrades: []

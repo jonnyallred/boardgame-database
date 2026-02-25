@@ -1,0 +1,54 @@
+id: roboderby-express
+name: "RoboDerby: Express"
+alternate_names:
+  - Pirate Dice: Voyage on the Rolling Seas
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Programmed Movement
+  - Racing
+  - Sci-Fi
+  - Filler
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Clinton Herron
+publisher:
+  - Gryphon Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  RoboDerby: Express is a streamlined dice-based racing game designed by Clinton Herron that began as a print-and-play RoboRally tribute, later published commercially by Gryphon Games under the pirate-themed name "Pirate Dice: Voyage on the Rolling Seas." Players program their robots using sticker dice rather than cards, racing through a course in a slimmed-down take on RoboRally's programming mechanic playable in under 45 minutes with just two players. Its origins as an accessible, small-footprint PnP title earned it a Golden Geek nomination in 2011 for Best Print & Play game, and its subsequent commercial publication validated the design's appeal beyond the hobbyist community.
+
+upgrades: []

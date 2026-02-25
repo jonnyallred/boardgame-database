@@ -1,0 +1,55 @@
+id: samurai
+name: "Samurai"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Set Collection
+  - Abstract
+  - Euro
+  - Medieval
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Hans im Glück
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Samurai is one of Reiner Knizia's acclaimed tile-laying trilogy, a mathematically elegant abstract game in which 2-4 players compete to gain the favor of three castes — religious, commercial, and military — across feudal Japan. Players place tiles representing religious influence, commercial power, and military might around cities, villages, and the capital of Edo, with each city's figures claimed by whoever exerts the most influence of each type when it is surrounded. Victory goes to the player who dominates the most castes, with ties broken by comparing second-place holdings. Its sparse, elegant ruleset conceals a fiendishly tactical spatial puzzle that plays in under an hour.
+
+upgrades: []

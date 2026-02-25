@@ -1,0 +1,53 @@
+id: okinawa-the-last-battle
+name: "Okinawa: The Last Battle"
+alternate_names:
+  - "Okinawa: The Last Battle, April 1945"
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Irad Hardy
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 300
+min_playtime: 180
+max_playtime: 480
+min_age: 14
+
+description: |
+  Okinawa: The Last Battle, April 1945 is a two-player hex-and-counter wargame published by SPI in 1975 simulating one of the bloodiest battles of the Pacific War. One player commands the American invasion force and the other the Japanese defenders across a 17"x22" hex map with 100 counters, capturing the grinding attritional nature of the 82-day battle. Originally published as part of the "Island War: Four Pacific Battles" collection before release as a standalone title, the game's basic rules make it accessible but its 80-turn structure provides an unusually lengthy play experience for its size. It is regarded as a compact and historically accurate treatment of a pivotal late-war Pacific engagement.
+
+upgrades: []

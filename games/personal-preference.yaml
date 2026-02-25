@@ -1,0 +1,51 @@
+id: personal-preference
+name: "Personal Preference"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Social Deduction
+  - Family
+
+evokes:
+  - Humor
+  - Connection
+  - Discovery
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6, 7, 8]
+
+designer:
+  - Donal Carlston
+publisher:
+  - Broderbund
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Personal Preference is a 1987 party game by Broderbund in which friends and family compete to predict each other's personal likes and dislikes across categories such as food, activities, and people. Players in the spotlight rank their preferences while other players try to correctly guess the order. The game's appeal lies in revealing surprising things about people you thought you knew — creating memorable moments of laughter and discovery. A Games 100 award winner, it supports 2–16 players and was a popular adult party game of the late 1980s.
+
+upgrades: []

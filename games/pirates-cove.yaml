@@ -1,0 +1,56 @@
+id: pirates-cove
+name: "Pirate's Cove"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Simultaneous Action
+  - Bluffing
+  - Family
+  - Pirates
+  - Days of Wonder
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Humor
+  - Discovery
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Paul Randles
+  - Daniel Stahl
+publisher:
+  - Days of Wonder
+  - Amigo Spiele
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+description: |
+  Pirate's Cove is a swashbuckling adventure game published by Days of Wonder in which 2–5 players compete to become the most famous pirate over the course of 12 months (game rounds). Each turn, players secretly choose which of six islands to visit, then simultaneously reveal their destinations — pirates who land on the same island must fight for supremacy using dice rolled for cannons, with sails and crew affecting combat. Players upgrade their ships' sails, hull, crew, and cannons by visiting specialized islands, accumulate fame and treasure, and occasionally face powerful Legendary Pirates like Blackbeard. The game combines bluffing, ship-building progression, and dice-driven pirate battles into an accessible and entertaining package.
+
+upgrades: []

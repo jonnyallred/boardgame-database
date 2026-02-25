@@ -1,0 +1,49 @@
+id: plakoto
+name: "Plakoto"
+alternate_names: []
+year: 1900
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Abstract
+  - Racing
+
+evokes:
+  - Tension
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Plakoto is a traditional Greek backgammon variant and one of three games collectively known as Tavli, played widely across Greece, Turkey, Egypt, Bulgaria, and Lebanon. Like backgammon, players roll two dice and race their 15 checkers around the board to bear them off, but Plakoto's key distinction is its pinning mechanic: instead of hitting and sending opponent pieces to the bar, a player traps an opponent's single checker by landing on it, immobilizing it until the pinning piece moves away. The "mother piece" — the last checker to leave the starting point — is critical, as getting it pinned before it moves results in an automatic double loss. Doublets (pairs) are played four times in the standard backgammon fashion.
+
+upgrades: []

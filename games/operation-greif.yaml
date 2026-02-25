@@ -1,0 +1,53 @@
+id: operation-greif
+name: "Operation Greif"
+alternate_names:
+  - "Operation 'GREIF'"
+year: 1970
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Mystery
+  - Rivalry
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Don Lowry
+publisher:
+  - Lowry
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Operation Greif is a 1970 self-published variant for Avalon Hill's 1965 Battle of the Bulge wargame, designed by Don Lowry to recreate the historical Operation Greif — the World War II deception mission led by SS-Obersturmbannführer Otto Skorzeny in December 1944, where German soldiers disguised as American troops caused confusion behind Allied lines during the Ardennes Offensive. The variant adds rules for the 150th Panzer Brigade's infiltration tactics, modified zone of control rules, road movement, tactical air support, and paradrops, requiring ownership of the base Battle of the Bulge game for play. It represents the deep modding culture of early wargaming in which dedicated hobbyists extended commercial games with historically researched variant rules.
+
+upgrades: []

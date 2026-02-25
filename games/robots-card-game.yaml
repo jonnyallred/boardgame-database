@@ -1,0 +1,52 @@
+id: robots-card-game
+name: "Robots!"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Take That
+  - Family
+
+evokes:
+  - Humor
+  - Rivalry
+  - Tension
+  - Lucky
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Aaron Martlage
+publisher:
+  - Border Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Robots! is a robot-themed card game designed by Aaron Martlage and published by Border Games, comprising 90 cards. Players build up sets and use robot-themed card abilities to disrupt opponents in a light take-that style card game. The robot illustrations provide a fun sci-fi visual theme while the compact card game format makes it portable and quick to learn. The game suits casual gaming sessions where players want fast, playful competition.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: rengo
+name: "Rengo"
+alternate_names: ["Pair Go"]
+year: 1603
+
+# Relationships
+game_family: go
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Teams
+  - No Math
+
+evokes:
+  - Masterful
+  - Connection
+  - Clever
+  - Tension
+  - Agency
+
+possible_counts: [4]
+true_counts: [4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 240
+min_age: 10
+
+description: |
+  Rengo is a team variant of the ancient board game Go in which two two-player teams play a single game, with partners alternating moves. Originating in Japan during the Edo period (1603–1868), Rengo adds a unique social dimension to traditional Go — partners are forbidden from communicating or signaling during the game, forcing each player to intuit their partner's strategy from the board state alone. The format promotes a deep shared experience and is widely used in training settings to sharpen intuitive play.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: renju
+name: "Renju"
+alternate_names: []
+year: 1899
+
+# Relationships
+game_family: gomoku
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - No Math
+  - Puzzle Solving
+
+evokes:
+  - Masterful
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 8
+
+description: |
+  Renju is a professional tournament variant of Gomoku (five-in-a-row) played on a 15×15 Go board with black and white stones. Named by Japanese journalist Ruikou Kuroiwa in 1899, the name means "connected pearls" in Japanese. Unlike basic Gomoku, Renju introduces special forbidden moves for Black — such as double threes, double fours, and overlines — to balance the first-player advantage, creating a strategically rich game governed by the Renju International Federation (founded 1988). It remains the premier competitive format for five-in-a-row games worldwide.
+
+upgrades: []

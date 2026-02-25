@@ -1,0 +1,61 @@
+id: praga-caput-regni
+name: "Praga Caput Regni"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Engine Building
+  - Resource Management
+  - Action Points
+  - Tableau Building
+  - Tech Tree
+  - Euro
+  - City Building
+  - Medieval
+  - Historical
+
+evokes:
+  - Progress
+  - Clever
+  - Masterful
+  - Agency
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Vladimír Suchý
+publisher:
+  - Delicious Games
+  - Capstone Games
+artist:
+  - Jolanta Doležalová
+  - Milan Vavroň
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Praga Caput Regni is a heavy euro game set in medieval Prague during the reign of Holy Roman Emperor Charles IV, designed by the creator of Underwater Cities. Players take the role of wealthy citizens organizing building projects throughout the city, constructing cathedral towers, city walls, and bridges while gaining the king's favor. The game features an innovative action selection wheel called the "Wheel of Fortune" that provides asymmetric action options and gradually reveals bonuses. With a rich engine-building arc and multiple interconnected systems — technology tracks, resource management, card play — it rewards long-term planning and efficient optimization.
+
+upgrades: []

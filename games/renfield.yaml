@@ -1,0 +1,52 @@
+id: renfield
+name: "Renfield"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Bluffing
+  - Party
+  - Horror
+  - Vampires
+
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Lucky
+  - Clever
+
+possible_counts: [4, 5, 6, 7]
+true_counts: [5, 6]
+
+designer: []
+publisher:
+  - Cheapass Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 14
+
+description: |
+  Renfield is a social gambling trick-taking game published by Cheapass Games in 1999, themed around the bug-eating servant of Dracula from Bram Stoker's novel. Players use a 54-card deck divided into three suits (Stones, Tools, and Parts) numbered 0-17 to compete in a hybrid of poker-style betting and trick-taking mechanics. Players start with poker-chip dollars, place bets into a central pot, and compete across hands of escalating stakes, blending the bluffing of poker with the tactical play of trick-taking games in a distinctly macabre wrapper.
+
+upgrades: []

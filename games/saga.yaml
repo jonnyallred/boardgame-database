@@ -1,0 +1,52 @@
+id: saga
+name: "Saga"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Fantasy
+  - Wargame
+  - Historical
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Agency
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher:
+  - TSR
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Saga is a 1980 microgame published by TSR in which players take on the roles of Viking heroes in northern Europe, battling against trolls, giants, drows, ghosts, witches, dragons, jarls, and rival heroes. Part of TSR's line of compact wargames inspired by Metagaming's pioneering MicroGame format, Saga delivers a compact Norse mythological fantasy combat experience in a small box. The game's Viking theme captures the heroic mythology of northern Europe with accessible wargame mechanics suited to the microgame format's emphasis on quick setup and play. It stands as an early example of licensed Norse mythology in tabletop wargaming.
+
+upgrades: []

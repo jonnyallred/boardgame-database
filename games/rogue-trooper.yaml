@@ -1,0 +1,54 @@
+id: rogue-trooper
+name: "Rogue Trooper"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Hidden Movement
+  - Sci-Fi
+  - Wargame
+  - Deduction
+
+evokes:
+  - Tension
+  - Mystery
+  - Rivalry
+  - Dread
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Richard Halliwell
+publisher:
+  - Games Workshop
+artist:
+  - Dave Gibbons
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Rogue Trooper is a British board wargame published by Games Workshop in 1987, based on the iconic 2000 AD comic strip created by Gerry Finley-Day and Dave Gibbons. Two players each control a Rogue Trooper G.I. hunting across the devastated hex-map wasteland of Nu-Earth, racing to find and eliminate the traitor responsible for the Quartz Zone Massacre. Players explore a card-revealed hex board with plastic G.I. miniatures, uncovering what lies in each area as they track their quarry. The game captures the comic's bleak military sci-fi atmosphere and features cover art by original artist Dave Gibbons, making it a notable piece of 2000 AD merchandise history.
+
+upgrades: []

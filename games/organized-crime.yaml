@@ -1,0 +1,52 @@
+id: organized-crime
+name: "Organized Crime"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Economic
+  - Negotiation
+  - Bluffing
+  - Family
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Powerful
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Koplow Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Organized Crime is a political strategy game about the Mafia published by Koplow Games in 1974, in which players build criminal empires through a combination of influence, corrupt politicians, illegal activities, and business investments. Players move Hit-Men around a circular board trying to rub out rival Bosses and expand their criminal influence, with the last surviving Boss winning. The game blends economic development with direct player conflict in a thematic package that captures the territorial warfare of organized crime, making it a distinctive entry in the crime-themed strategy game niche of the 1970s.
+
+upgrades: []

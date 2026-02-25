@@ -1,0 +1,50 @@
+id: rubiks-flip
+name: "Rubik's Flip"
+alternate_names: []
+year: 1993
+
+# Relationships
+game_family: rubiks
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Ideal
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 7
+
+description: |
+  Rubik's Flip is a compact two-player abstract strategy game in the Rubik's brand game line. Players compete on a 4×4 board using 16 double-sided tiles — each tile showing two different colors on its faces. On each turn a player flips an opponent's tile to reveal the other color, then places one of their own tiles; the first player to align three tiles of the same color in a row wins. With only eight possible turns per player, the game is extremely quick and portable, fitting naturally alongside the Rubik's brand's identity of mind-bending spatial challenges in compact form.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: orient-express
+name: "Orient Express"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Mystery
+  - Narrative Heavy
+  - Family
+  - Historical
+
+evokes:
+  - Mystery
+  - Tension
+  - Discovery
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Jeff Smets
+  - R. Wayne Schmittberger
+publisher:
+  - Just Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Orient Express is a deduction and mystery board game published in 1985 by Just Games (and Jumbo), inspired by Agatha Christie's iconic 1934 novel Murder on the Orient Express. Players interview suspects and gather evidence during a rail journey from Paris to Istanbul, attempting to identify the murderer before the train reaches its destination, with 10 distinct mystery cases included — each playable only once. A winner of the 1987 Spiel des Jahres "Beautiful Game" award, Orient Express is celebrated for its atmospheric presentation and genuinely challenging logical deduction, with five additional mystery plots released in 1987 extending the game's replayability considerably.
+
+upgrades: []

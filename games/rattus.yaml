@@ -1,0 +1,54 @@
+id: rattus
+name: "Rattus"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Variable Player Powers
+  - Take That
+  - Historical
+  - Medieval
+
+evokes:
+  - Tension
+  - Dread
+  - Powerful
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Åse Berg
+  - Henrik Berg
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Rattus is an area control game set in medieval Europe during the Black Death, where players vie for control of regions while managing their populations' survival amid the spreading plague. Players assume class roles — Witch, Merchant, Knight, Monk, and others — to gain special abilities, but each role also brings vulnerability to the Black Death. Designed by Åse and Henrik Berg and published by Z-Man Games in 2010, the game combines tight area control with agonizing risk-management as the plague ruthlessly culls the population.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: pick-and-pack
+name: "Pick & Pack"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Simultaneous Action
+  - Abstract
+  - Family
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Humor
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Pick & Pack is a two-player coordination game in which players work the controls of a broken mechanical arm — one player moves it vertically, the other horizontally — to pick up apple crates and deposit them. The split control mechanic means both players must cooperate on each move, but the game's competitive scoring means each player wants to claim the best crates for themselves. Quality control rules and order mix-ups add complication, and the player with the most apples in their crates at game end wins. The unusual shared-control mechanism creates humorous moments of miscommunication and negotiation in a compact package.
+
+upgrades: []

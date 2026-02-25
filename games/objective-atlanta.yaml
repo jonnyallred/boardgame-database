@@ -1,0 +1,52 @@
+id: objective-atlanta
+name: "Objective: Atlanta"
+alternate_names:
+  - "Objective: Atlanta – A Game of the Civil War Campaign for Atlanta"
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Battleline Publications
+artist: []
+playtime_minutes: 480
+min_playtime: 360
+max_playtime: 720
+min_age: 14
+
+description: |
+  Objective: Atlanta is a two-player hex-and-counter wargame published by Battleline Publications in 1977, simulating General William Tecumseh Sherman's Union invasion of Georgia and the campaign to capture Atlanta in May-September 1864. One player commands Sherman's Union forces advancing from Chattanooga, the other the Confederate Army of Tennessee under General Joseph Johnston (and later John Bell Hood). The game uses 400 counters and emphasizes logistics and supply over individual tactical engagements, capturing the slow, grinding nature of the campaign. Critics noted it leaned heavily toward simulation accuracy at the expense of game flow, making it most appealing to historians and dedicated Civil War wargame enthusiasts.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: paco-sako
+name: "Paco Sako"
+alternate_names:
+  - "Paco Ŝako"
+  - "Peace Chess"
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Masterful
+  - Clever
+  - Unique
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Felix Albers
+publisher:
+  - Paco Sako
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 8
+
+description: |
+  Paco Sako (Esperanto for "Peace Chess") is a chess variant designed by Felix Albers in 2017 in which pieces "embrace" each other rather than capture. Played on a standard 8x8 chess board with uniquely designed pieces that can be physically nested together, when a piece moves to a square occupied by an opponent's piece the two form a "union" that moves as the color of whichever player just moved it. No pieces are ever removed from the board, transforming chess's confrontational capture mechanic into a cooperative dance of intertwined unions. In 2017 Felix Albers received the PAX peace award for this design, and the game was subsequently nominated for Toy of the Year in the Netherlands, celebrated for its profound reinvention of chess through a single elegant rule change.
+
+upgrades: []

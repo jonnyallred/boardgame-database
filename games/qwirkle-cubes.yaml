@@ -1,0 +1,53 @@
+id: qwirkle-cubes
+name: "Qwirkle Cubes"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: qwirkle
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Pattern Building
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Clever
+  - Complete
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Susan McKinley Ross
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 6
+
+description: |
+  Qwirkle Cubes is a dice-based variant of the popular Qwirkle tile-laying game, designed by Susan McKinley Ross and published by IELLO. Instead of fixed tiles, players roll six-sided dice that display all six symbols in a given color, introducing an element of luck before placing pieces to build rows and columns of matching colors or shapes. The twist of needing to roll before placing creates a fresh layer of decision-making on top of the core pattern-building mechanics of the original Qwirkle.
+
+upgrades: []

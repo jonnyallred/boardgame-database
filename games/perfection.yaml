@@ -1,0 +1,51 @@
+id: perfection
+name: "Perfection"
+alternate_names: []
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 0  # Solitary
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Puzzle Solving
+  - Family
+
+evokes:
+  - Tension
+  - Lucky
+  - Humor
+  - Masterful
+  - Progress
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer: []
+publisher:
+  - Lakeside Toys
+  - Milton Bradley
+artist: []
+playtime_minutes: 5
+min_playtime: 3
+max_playtime: 10
+min_age: 5
+
+description: |
+  Perfection is a classic children's puzzle game first released by Lakeside Toys in 1973 and later produced by Milton Bradley, in which players must fit 25 uniquely shaped plastic pieces into their matching holes on a spring-loaded board before a 60-second timer runs out. If time expires, the board dramatically springs up, sending all the pieces flying — creating the startling moment the game is famous for. Points are scored for each piece correctly placed. Simple difficulty variations allow beginners to cover some holes, making it accessible to very young children. Perfection has remained a family staple for decades due to its thrilling suspense mechanic.
+
+upgrades: []

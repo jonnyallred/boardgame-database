@@ -1,0 +1,53 @@
+id: pox-save-the-people
+name: "Pox: Save the People"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Area Control
+  - Educational
+  - Family
+
+evokes:
+  - Tension
+  - Progress
+  - Connection
+  - Dread
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Mary Flanagan
+  - Max Seidman
+publisher:
+  - Tiltfactor
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Pox: Save the People is an educational cooperative game designed to explore concepts of vaccination and disease spread. Players work together to vaccinate populations and stop an outbreak before it overwhelms the community. Created by the Tiltfactor lab led by Mary Flanagan, the game was developed before the COVID-19 pandemic to address public hesitancy around vaccination in an accessible, playful format, and later inspired the zombie-themed variant Zombiepox.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: okey
+name: "Okey"
+alternate_names: []
+year: 1930
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Okey is a popular Turkish tile-based rummy game played with a set of 106 wooden tiles numbered 1 to 13 in four colors (red, yellow, green, black), with two tiles of each number per color plus two false-joker tiles. Players draw and discard to build their hand into melds — runs of consecutive same-color tiles or sets of identical-numbered tiles in different colors — and the first player to complete a valid hand of 14 tiles wins the round and scores points against their opponents. Typically played by four players and deeply embedded in Turkish social culture, Okey is closely related to Rummikub and has been a beloved pastime for generations. The game is usually played with elegant wooden tile racks and is as much a social ritual as a competitive game.
+
+upgrades: []

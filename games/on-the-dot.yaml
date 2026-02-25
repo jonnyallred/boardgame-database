@@ -1,0 +1,53 @@
+id: on-the-dot
+name: "On the Dot"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Pattern Building
+  - Real-time
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Complete
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer: []
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  On the Dot is a pattern-matching brainteaser in which players race to arrange four transparent squares — each printed with colored dots — by flipping, rotating, and overlapping them until they perfectly reproduce a target pattern shown on a challenge card. Every move requires using all four squares, and the correct arrangement is revealed only when all four layers align just right. The competitive mode has players scrambling simultaneously, with the first to match the pattern claiming the card; a solitaire variant challenges one player to solve as many patterns as possible against the clock. With 64 pattern cards progressing from simple to fiendishly complex, the game is a fast, satisfying spatial puzzle that rewards visual thinking.
+
+upgrades: []

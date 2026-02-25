@@ -1,0 +1,56 @@
+id: rum-and-pirates
+name: "Rum & Pirates"
+alternate_names:
+  - Rum and Pirates
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Action Points
+  - Set Collection
+  - Pirates
+  - Family
+  - Gateway
+  - Stefan Feld
+
+evokes:
+  - Humor
+  - Lucky
+  - Agency
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Stefan Feld
+publisher:
+  - Alea
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 9
+
+description: |
+  Rum & Pirates is Stefan Feld's first collaboration with publisher Alea, a light pirate-themed movement and collection game for 2-5 players. Players move a shared Red Corsair captain figure through a randomly arranged modular board of nine tiles, placing their pirate figurines on spaces the captain passes through and claiming the actions at various intersections — collecting gold, digging for treasure, fighting guards, gathering rum barrels, and carousing at pubs. Rated a 2 on Alea's complexity scale, the game blends tactics, strategy, and luck in an accessible package that stands as an early showcase of Feld's interest in multi-action point mechanisms, though far lighter than his later acclaimed works.
+
+upgrades: []

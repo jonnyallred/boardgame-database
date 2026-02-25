@@ -1,0 +1,53 @@
+id: overlord
+name: "Overlord"
+alternate_names:
+  - "Overlord: The Normandy Invasion"
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Hill
+publisher:
+  - Conflict Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Overlord is a two-player hex-and-counter wargame published by Conflict Games in 1973, simulating the Normandy invasion and Allied breakout from D-Day through 28 August 1944. One player commands the Allied invaders and the other the German defenders across 28 turns, each representing several days of combat in Normandy. Designed by John Hill, one of the early pioneers of wargame design, the game was published by Hill's own company Conflict Games with a second edition following in 1977. It represents an early and influential example of operational-level wargaming of the Western Front campaign that spawned countless later designs on the same subject.
+
+upgrades: []

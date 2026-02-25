@@ -1,0 +1,49 @@
+id: phutball
+name: "Phutball"
+alternate_names: ["Philosopher's Football"]
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Horton Conway
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 12
+
+description: |
+  Phutball (Philosopher's Football) is a two-player abstract strategy game designed by John Horton Conway and described in Berlekamp, Conway, and Guy's Winning Ways for Your Mathematical Plays (1982). Played on a 19x15 grid (or a standard Go board), one white stone represents the ball and black stones represent players. Each turn, a player places a black stone anywhere on the board, or moves the white ball by jumping it over sequences of black stones in straight lines — removing each jumped stone. The goal is to move the ball onto or over the opponent's goal line. Despite simple rules, determining whether an immediate winning move exists is mathematically NP-complete.
+
+upgrades: []

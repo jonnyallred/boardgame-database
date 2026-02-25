@@ -1,0 +1,48 @@
+id: occhio
+name: "Occhio!"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Area Control
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Occhio! (Italian for "Eye!" or "Watch out!") is an Italian abstract board game played on a circular board where each player begins with six pieces of two types, plus four additional pieces held in reserve. On each turn a player makes two moves — either moving two different pieces once each, or moving one piece twice — working to control territory and outmaneuver opponents. The circular board and dual-type piece system create a distinctive tactical space that rewards spatial awareness and anticipation. Limited documentation is available in English; the game was published in the Italian market and represents the tradition of compact abstract strategy games designed for family audiences.
+
+upgrades: []

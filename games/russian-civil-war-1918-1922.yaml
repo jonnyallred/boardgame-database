@@ -1,0 +1,55 @@
+id: russian-civil-war-1918-1922
+name: "Russian Civil War 1918–1922"
+alternate_names:
+  - Russian Civil War 1918-1922
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hex Map
+  - Historical
+  - War
+  - Wargame
+  - Variable Player Powers
+
+evokes:
+  - Agency
+  - Rivalry
+  - Tension
+  - Powerful
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Joseph Miranda
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Russian Civil War 1918-1922 is a grand scale board wargame published by Simulations Publications Inc. (SPI) in 1976 covering the chaotic multi-faction conflict that followed the Russian Revolution, originally designed and later redesigned by Joseph Miranda. Players command the Bolsheviks, White Army factions, and various nationalist and foreign interventionist forces across a map of the former Russian Empire, managing the military and political dimensions of one of history's most complex civil conflicts. The second edition updated the map, counters, and rules while preserving the scope and depth of the original simulation. Its multi-player structure allows it to capture the historical complexity of shifting alliances and fragmented fronts.
+
+upgrades: []

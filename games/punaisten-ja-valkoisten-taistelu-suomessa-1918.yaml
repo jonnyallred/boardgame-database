@@ -1,0 +1,50 @@
+id: punaisten-ja-valkoisten-taistelu-suomessa-1918
+name: "Punaisten ja valkoisten taistelu Suomessa 1918"
+alternate_names: ["Battle of the Reds and Whites in Finland 1918"]
+year: 1918
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Area Control
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Punaisten ja valkoisten taistelu Suomessa 1918 (Battle of the Reds and Whites in Finland 1918) is a remarkable historical artifact: a board game depicting the Finnish Civil War that was published for the Christmas market in the very same year the war ended. The game uses a roll-and-move point-movement map with red and white wooden pieces representing the opposing forces occupying different towns across Finland. Its rapid production after the conflict ended makes it one of the earliest examples of a topical wargame created to capitalize on public interest in a current event. Original copies are preserved in archives and documented on Wikimedia Commons.
+
+upgrades: []

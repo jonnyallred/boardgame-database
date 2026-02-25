@@ -1,0 +1,53 @@
+id: nuns-on-the-run
+name: "Nuns on the Run"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hidden Movement
+  - Deduction
+  - 1 vs Many
+  - Family
+  - Gateway
+
+evokes:
+  - Tension
+  - Mystery
+  - Lucky
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Bernd Eisenstein
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Nuns on the Run is a hidden movement game for 2-8 players set in a convent where one player controls the Abbess and Prioress as guards, while all others secretly play novices trying to fulfill secret wishes and return to their rooms undetected. Novice players secretly track their own movement on log sheets, choosing to stand still, sneak, walk, or run, while the guards move openly on the board searching for rule-breakers they can hear or see. The tension mounts as novices must grab keys, collect their secret item, and sneak back to their cell before the guards catch a set number of intruders. It is a clever cat-and-mouse game that rewards careful planning and lucky timing in equal measure.
+
+upgrades: []

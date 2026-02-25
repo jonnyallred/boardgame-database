@@ -1,0 +1,51 @@
+id: platoon
+name: "Platoon"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Wargame
+  - War
+  - Historical
+
+evokes:
+  - Tension
+  - Lucky
+  - Rivalry
+  - Powerful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Platoon is a 1986 board game licensed from Oliver Stone's Academy Award-winning Vietnam War film of the same name. Published by Milton Bradley, it places two players in the jungles of Vietnam, recreating the brutal asymmetric conflict between American forces and the Viet Cong. The game uses simplified wargame mechanics with dice resolution to capture the chaos and danger of jungle warfare. As a tie-in product to the celebrated film, it represents a snapshot of the late 1980s licensed game market and offers a basic but thematic introduction to the conflict.
+
+upgrades: []

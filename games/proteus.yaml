@@ -1,0 +1,50 @@
+id: proteus
+name: "Proteus"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Variable Player Powers
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Agency
+  - Discovery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Kadon Enterprises
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Proteus is a meta-game in which the rules themselves can change during play, as nine wooden tiles bearing rule symbols determine how players may move their pieces, trade tiles, and achieve victory. Players activate rules by moving their pieces onto the corresponding tile spaces, creating a dynamic shifting ruleset that evolves each game. Published by Kadon Enterprises, Proteus is notable for its reflexive design — the game literally rewrites its own rules as play progresses — making each session a unique strategic puzzle.
+
+upgrades: []

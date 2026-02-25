@@ -1,0 +1,54 @@
+id: p-for-pizza
+name: "P for Pizza"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Party
+  - Real-time
+  - Family
+  - Food Theme
+  - Gateway
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Doruk Kiziloglu
+publisher:
+  - Big Potato Games
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  P for Pizza is a speedy word-based party card game from Big Potato Games in which players race to shout the first word matching both a category card and a letter card simultaneously. Players earn triangular pizza-slice tokens for winning rounds, and these are placed into a pizza-pyramid to score points, with color-coded difficulty tiers (green, amber, red) determining where earned slices can go. Simple enough for a family game night yet genuinely exciting for adults, P for Pizza distills the competitive word-shouting genre to its most fun and compact form. Big Potato is known for making accessible modern party games, and P for Pizza exemplifies their approachable, high-energy design philosophy.
+
+upgrades: []

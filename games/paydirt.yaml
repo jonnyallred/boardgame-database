@@ -1,0 +1,53 @@
+id: paydirt
+name: "Paydirt"
+alternate_names: ["Sports Illustrated Pro Football"]
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Simulation
+  - Wargame
+  - Historical
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Bob Smith
+publisher:
+  - Avalon Hill
+  - Time Warner
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Paydirt is a classic two-player American football simulation game originally published by Time Warner as "Sports Illustrated Pro Football" and later acquired by Avalon Hill. Each player selects a team represented by a Team Chart capturing that NFL season's real statistical strengths and weaknesses — from run and pass offense ratings to multiple defensive categories. Players secretly select play types (run, short pass, long pass, etc.), roll dice, and consult their charts to resolve each down. The deep statistical underpinning and game-planning element made it a beloved sports simulation for football enthusiasts looking for authentic gridiron strategy.
+
+upgrades: []

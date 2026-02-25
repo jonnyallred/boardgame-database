@@ -1,0 +1,52 @@
+id: roller-coaster-hippo
+name: "Roller Coaster Hippo"
+alternate_names:
+  - Das Nilpferd in der Achterbahn
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Party
+  - Animals
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Connection
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Roller Coaster Hippo (originally published in German as "Das Nilpferd in der Achterbahn," meaning "The Hippo on the Roller Coaster") is a party game published by Ravensburger in 1988. Players advance around the board by rolling dice and completing entertaining party tasks, including answering questions, miming actions, and modeling objects in clay. The hippopotamus theme provides a quirky comic backdrop as players race to be the first hippo to reach the finish line while completing the various silly challenges along the way. The game's mix of luck and performance tasks makes it a lively choice for family gatherings.
+
+upgrades: []

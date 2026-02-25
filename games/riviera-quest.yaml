@@ -1,0 +1,49 @@
+id: riviera-quest
+name: "Riviera Quest"
+alternate_names: []
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Economic
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Progress
+  - Tension
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Riviera Quest is a family board game with a Mediterranean seaside theme. Limited publisher information is available for this relatively obscure title. Players navigate a journey along the Riviera in a race-style game with luck and light economic elements. As with many lesser-documented games from the early 2000s, detailed designer and publisher records are not readily available in English-language sources.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: rubiks-puzzle-match
+name: "Rubik's Puzzle Match"
+alternate_names:
+  - Rubik's Match
+year: 2019
+
+# Relationships
+game_family: rubiks
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Puzzle Solving
+  - Pattern Building
+  - Family
+
+evokes:
+  - Tension
+  - Rivalry
+  - Clever
+  - Lucky
+  - Humor
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher:
+  - Rubik's
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Rubik's Puzzle Match (also known as Rubik's Match) is a fast-paced competitive card game licensed from the Rubik's Cube brand. Players each hold a set of Cubie Cards representing colored cube faces, and must race to arrange their cards to match a pattern shown on a revealed Challenge Card. The first player to collect three Challenge Cards wins. The game scales in difficulty with separate Level 1 cards recommended for younger children and first-time players. True to the Rubik's brand, it distills the spatial color-matching challenge of the famous cube into a quick competitive card format.
+
+upgrades: []

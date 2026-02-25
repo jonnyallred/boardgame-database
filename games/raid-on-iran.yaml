@@ -1,0 +1,51 @@
+id: raid-on-iran
+name: "Raid on Iran"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Cooperative
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Powerful
+  - Masterful
+
+possible_counts: [1, 2]
+true_counts: [1, 2]
+
+designer: []
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Raid on Iran is a historical wargame published by Avalon Hill in 1980, simulating the failed Operation Eagle Claw rescue mission during the Iran hostage crisis. Players plan and execute the special operations raid to extract American hostages from Tehran, managing the complex logistics of the actual mission. The game recreated the dramatic real-world events of April 1980 as a strategic and operational puzzle, capturing public interest in a politically charged topic immediately after the events occurred.
+
+upgrades: []

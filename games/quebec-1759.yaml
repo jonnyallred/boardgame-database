@@ -1,0 +1,54 @@
+id: quebec-1759
+name: "Quebec 1759"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Area Control
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Tom Dalgliesh
+  - Lance Gutteridge
+  - Steve Brewster
+publisher:
+  - Columbia Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Quebec 1759 is a two-player block wargame originally published by Gamma Two Games (now Columbia Games) in 1972, simulating the decisive Battle of the Plains of Abraham during the Seven Years' War. The game was pioneering in its use of wooden blocks standing on end to represent military units, with the block system hiding unit strengths from opponents and simulating the fog of war elegantly. One of the founding titles of the Columbia Games block wargame system, Quebec 1759 has been continuously in print for over 50 years and remains a landmark of wargame design.
+
+upgrades: []

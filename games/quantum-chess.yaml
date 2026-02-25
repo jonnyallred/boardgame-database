@@ -1,0 +1,51 @@
+id: quantum-chess
+name: "Quantum Chess"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - No Math
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Chris Cantwell
+publisher:
+  - Quantum Chess LLC
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 60
+min_age: 14
+
+description: |
+  Quantum Chess is a variant of chess designed by Chris Cantwell that incorporates principles of quantum mechanics into gameplay. Each piece exists in a superposition of multiple squares simultaneously, and observing (interacting with) a piece collapses its quantum state to a specific location. Moves can create entanglement between pieces, allowing for extraordinary positional possibilities that violate classical chess logic. Famous for being demonstrated in a match between Paul Rudd and Stephen Hawking, Quantum Chess is primarily available as a video game/app and as a concept game exploring physics through abstract strategy.
+
+upgrades: []

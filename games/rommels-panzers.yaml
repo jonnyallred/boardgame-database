@@ -1,0 +1,52 @@
+id: rommels-panzers
+name: "Rommel's Panzers"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Historical
+  - War
+  - Wargame
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Roger Damon
+publisher:
+  - Metagaming Concepts
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Rommel's Panzers is a two-player hex-and-counter wargame published by Metagaming Concepts in 1980, simulating the North Africa campaign between the German Afrika Korps and British forces in 1941-1942. Designed by Roger Damon, it was the first historical game published by Metagaming and the first in their MicroHistory series of five compact wargames. The game uses a small map and streamlined rules to capture the sweeping armored warfare of the Western Desert campaign, emphasizing mobile tank warfare and the supply challenges that defined the theater. Despite its compact MicroGame format, it delivers a satisfying tactical experience of desert warfare within an accessible ruleset.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: pegity
+name: "Pegity"
+alternate_names: ["Peg'ity"]
+year: 1925
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Pegity (originally Peg'ity) is a classic abstract strategy game published by Parker Brothers in 1925 that predates and anticipates games like Connect 4 and Gomoku. Played on a 16x16 pegboard, 2–4 players take turns placing colored pegs into holes, each trying to be first to create an unbroken line of five pegs in a row — horizontally, vertically, or diagonally — while also blocking opponents from completing their lines. Its simple rules and physical peg components made it a popular family game for decades, and it is considered an important early example of the five-in-a-row family of abstract games.
+
+upgrades: []

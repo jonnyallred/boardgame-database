@@ -1,0 +1,53 @@
+id: red-flags
+name: "Red Flags"
+alternate_names: ["Red Flags: The Game of Terrible Dates"]
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Hand Management
+  - Social Deduction
+  - Humor
+
+evokes:
+  - Humor
+  - Persuasion
+  - Rivalry
+  - Connection
+  - Lucky
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [5, 6, 7]
+
+designer:
+  - Jack Dire
+publisher:
+  - Jack Dire Studios
+  - Grim Rabbit Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 17
+
+description: |
+  Red Flags: The Game of Terrible Dates is a party card game designed by Jack Dire (creator of Superfight) in which players compete to set the Single up with the most attractive fictional date using Perk cards, then sabotage everyone else's dates with Red Flag cards describing terrible traits. The Single judges which date is most appealing despite the red flags, and the winner keeps the Single card for the round. Played with 3-10 players, the game generates raucous debate and laughter as players argue why their deeply flawed date is still the best option.
+
+upgrades: []

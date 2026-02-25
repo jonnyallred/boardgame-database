@@ -1,0 +1,51 @@
+id: privacy
+name: "Privacy"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Bluffing
+  - Social Deduction
+
+evokes:
+  - Humor
+  - Tension
+  - Mystery
+  - Persuasion
+  - Lucky
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Reinhard Staupe
+publisher:
+  - NSV
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 16
+
+description: |
+  Privacy is a party game in which players secretly answer personal yes/no questions and then try to guess what the rest of the group answered. After everyone has voted in secret, the results are revealed and players score points for correctly predicting how many others answered yes. The game creates entertaining revelations about friends and family while keeping individual answers private, making it a popular adult party game. Published by NSV (Nürnberger-Spielkarten-Verlag) and designed by Reinhard Staupe.
+
+upgrades: []

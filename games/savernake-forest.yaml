@@ -1,0 +1,57 @@
+id: savernake-forest
+name: "Savernake Forest"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Tile Placement
+  - Pattern Building
+  - Set Collection
+  - Nature
+  - Animals
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Progress
+  - Wonder
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Rodrigo Rego
+publisher:
+  - Devir
+artist:
+  - Nuria Aparicio
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Savernake Forest is a serene 2023 tile-drafting game in which 2-4 players help woodland animals prepare for winter by building a personal 4x4 forest card arrangement. Each turn, a player selects one of the visible path cards and adds it to their forest, following three placement rules: no two animals can share the same path, cards must be placed adjacently, and the arrangement cannot exceed a 4x4 grid. The game ends when all players have completed their forests, with scoring based on completed animal paths and connected patterns. Published by Devir with charming artwork by Núria Aparicio, it delivers a gentle but engaging puzzle of spatial planning.
+
+upgrades: []

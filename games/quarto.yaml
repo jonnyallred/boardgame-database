@@ -1,0 +1,51 @@
+id: quarto
+name: "Quarto"
+alternate_names: []
+year: 1991
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - No Math
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Blaise Muller
+publisher:
+  - Gigamic
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Quarto is a two-player abstract strategy game invented by Swiss mathematician Blaise Muller and published by Gigamic since 1991. The 16 pieces differ in four binary attributes — height, color, shape, and solidity — and a player wins by completing a row, column, or diagonal of four pieces sharing any common attribute. The defining twist: your opponent chooses which piece you must place each turn, making every move both an offensive placement and a gift to your rival. An award winner in over 17 countries including MENSA Select in 1993, Quarto is considered one of the finest abstract games ever designed.
+
+upgrades: []

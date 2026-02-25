@@ -1,0 +1,53 @@
+id: power-projection-fleet
+name: "Power Projection: Fleet"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: power-projection
+edition: null
+base_game: null
+expansions: []
+compatible_with: ["power-projection-escort"]
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Space
+  - Simulation
+
+evokes:
+  - Powerful
+  - Masterful
+  - Agency
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Dominic Mooney
+publisher:
+  - BITS
+  - Ad Astra Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 360
+min_age: 14
+
+description: |
+  Power Projection: Fleet is a Traveller science fiction space combat wargame published by British Isles Traveller Support (BITS) and distributed in the US by Ad Astra Games. Based on the Full Thrust miniatures engine and adapted for the Traveller RPG universe, it covers large-scale fleet engagements featuring Imperial Navy and Zhodani Consulate capital ships with Ship Status Diagrams for 11 vessel classes. The game uses vector movement and includes strategic warfare rules, scenario generation, and full Traveller flavor for the Fifth Frontier War period. It is designed to be fully compatible with the Traveller role-playing game ecosystem.
+
+upgrades: []

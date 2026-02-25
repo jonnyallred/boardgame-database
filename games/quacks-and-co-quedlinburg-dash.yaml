@@ -1,0 +1,51 @@
+id: quacks-and-co-quedlinburg-dash
+name: "Quacks & Co.: Quedlinburg Dash"
+alternate_names: ["Mit Quacks & Co. nach Quedlinburg"]
+year: 2022
+
+# Relationships
+game_family: quacks-of-quedlinburg
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Progress
+  - Humor
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Warsch
+publisher:
+  - Schmidt Spiele
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Quacks & Co.: Quedlinburg Dash is a children's racing game designed by Wolfgang Warsch set in the world of The Quacks of Quedlinburg, published by Schmidt Spiele in 2022. Players race their potion-making characters across a winding path using dice and ingredient cards, navigating special spaces and shortcuts toward the finish line. The game introduces young players to the Quedlinburg setting through simple, accessible mechanics designed for families with children as young as six.
+
+upgrades: []

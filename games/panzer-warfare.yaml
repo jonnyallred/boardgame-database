@@ -1,0 +1,50 @@
+id: panzer-warfare
+name: "Panzer Warfare"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Panzer Warfare is a 1979 tactical board wargame that was part of Yaquinto Publications' inaugural lineup of eight games introduced at GenCon XII. Using simultaneous movement mechanics — where both players secretly plot their orders before revealing them — the game simulates armored combat at the platoon and company level on the Eastern Front of World War II. The simultaneous movement system is the game's defining feature, adding significant realism and unpredictability at the cost of longer play times compared to traditional IGO-UGO wargames. Panzer Warfare shares design DNA with the Yaquinto Panzer system later republished by Avalon Hill and ultimately reimagined by GMT Games.
+
+upgrades: []

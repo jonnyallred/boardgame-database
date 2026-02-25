@@ -1,0 +1,51 @@
+id: open-fire
+name: "Open Fire: Solitaire Tank Combat in WWII"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Powerful
+  - Dread
+
+possible_counts: [1]
+true_counts: [1]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 14
+
+description: |
+  Open Fire: Solitaire Tank Combat in WWII is a 1988 solitaire board wargame published by Victory Games, designed by Gerard Christopher Klug, in which the player commands a platoon of the US 4th Armored Division against a system-controlled German opponent. The game uses a detailed ruleset covering armor-piercing fire, small arms, artillery, turret rotation, gun depression, mines, smoke, and air support, providing a richly realistic tactical simulation of armored combat on the Western Front. As a pure solitaire design, the player both plans the mission and must respond to a card-driven enemy AI, creating genuine tension and unpredictability. Open Fire is considered one of the landmark single-player wargames of its era, praised for the depth it achieves with a solo format.
+
+upgrades: []

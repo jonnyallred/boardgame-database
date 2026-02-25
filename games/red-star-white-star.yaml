@@ -1,0 +1,51 @@
+id: red-star-white-star
+name: "Red Star/White Star"
+alternate_names: ["Red Star/White Star: Tactical Combat in Europe in the 1970s"]
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Red Star/White Star: Tactical Combat in Europe in the 1970s is a Cold War tactical wargame published by SPI simulating hypothetical conventional warfare between NATO and Warsaw Pact forces in Central Europe. The game features detailed combat between infantry, armor, and supporting arms on hex maps representing Central European terrain, capturing the military technology and doctrine of both superpowers as it existed in the early 1970s. A serious simulation for wargamers interested in the potential Third World War scenario that dominated strategic thinking during the Cold War.
+
+upgrades: []

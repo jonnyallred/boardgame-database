@@ -1,0 +1,53 @@
+id: outburst
+name: "Outburst!"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Party
+  - Teams
+  - Word Play
+  - Family
+  - Gateway
+
+evokes:
+  - Humor
+  - Tension
+  - Connection
+  - Rivalry
+  - Lucky
+
+possible_counts: [4, 5, 6, 7, 8, 9, 10]
+true_counts: [6, 8]
+
+designer:
+  - Brian Hersch
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Outburst! is a fast-paced team party game published by Parker Brothers (now Hasbro) in 1986 in which two competing teams race to shout out as many correct answers as possible to a given topic before the timer runs out. Each Topic Card lists 10 possible answers — for example "Commands you give a Dog" or "Slang Terms from the 60s" — and the active team scores a point for each answer they match within the time limit. The game features over 450 topics spanning a broad range of popular culture and general knowledge, rewarding teams that think broadly and speak quickly rather than deeply about any single category. Simple, loud, and sociable, it remains a fixture of party game collections.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: ringo
+name: "Ringo"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+  - Filler
+  - Gateway
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Steffen Spiele
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Ringo is a compact two-player abstract strategy game that reimagines the classic four-in-a-row challenge with an organic, growing board made of metal rings and wooden discs. Players take turns placing a disc in one of the eight metal rings and then moving that ring to an adjacent position, creating a constantly shifting playing field with no fixed board boundaries. The goal is to be the first to align four discs or four rings of your color in a horizontal or vertical line. Crafted with high-quality wooden and metal components, Ringo is one of the most portable and elegant abstract strategy games available, delivering deep tactical play in a tiny package.
+
+upgrades: []

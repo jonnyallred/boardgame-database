@@ -1,0 +1,50 @@
+id: oppression
+name: "Oppression"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Historical
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Midson Holdings
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Oppression is a strategy board game published by Midson Holdings in 1986 in which players compete for territorial control through military and political influence. Little information is publicly available about the specifics of this relatively obscure title, but it belongs to the tradition of wargame-influenced strategy games of the 1980s that combined area control mechanics with political and military conflict simulation. As with many games of its era and publisher, it remains primarily of interest to vintage board game collectors.
+
+upgrades: []

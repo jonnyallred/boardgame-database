@@ -1,0 +1,51 @@
+id: quinamid
+name: "Quinamid"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - No Math
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Antony Brown
+publisher:
+  - Third Dynasty Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Quinamid is a two-player abstract strategy game designed by Antony Brown and published by Third Dynasty Games in which players compete to create a line of five counters across a pyramidal structure of five sliding and rotating boards of progressively smaller size. Placing stones on the boards shifts their positions relative to one another, creating a dynamic three-dimensional puzzle where the winning alignment changes with every move. The game's rotating and sliding board mechanics give it a distinctly spatial feel unlike most conventional abstract games.
+
+upgrades: []

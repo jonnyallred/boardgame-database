@@ -1,0 +1,55 @@
+id: nin-gonost
+name: "Nîn-Gonost"
+alternate_names:
+  - "Nin-Gonost"
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Asymmetric
+  - Variable Player Powers
+  - Modular Board
+  - Dungeon Crawler
+  - Fantasy
+
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Discovery
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Alain Henner
+  - Arnaud Borne
+publisher:
+  - Fantastic Forges
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Nîn-Gonost (meaning "Fortress of Tears" in the game's elvish language) is a fantasy miniatures-based dungeon crawler published by Canadian company Fantastic Forges. Players assemble warbands of miniatures within a point limit (typically 150 points each) and maneuver them through a modular magnetic board assembled from interlocking tiles, complete with doors that physically open and close. Each miniature has a character card with statistics, and colored dice enable quick action resolution, including movement, combat, and special abilities. Often compared to a magnetic Advanced Heroquest, it is praised by fans for its tactile board and elegant action point system, though it remained a niche product with cult following among miniatures gaming enthusiasts.
+
+upgrades: []

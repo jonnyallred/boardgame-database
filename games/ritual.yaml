@@ -1,0 +1,52 @@
+id: ritual
+name: "Ritual"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Set Collection
+  - Abstract
+
+evokes:
+  - Tension
+  - Connection
+  - Mystery
+  - Clever
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Tomás Tarragón
+publisher:
+  - Strohmann Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Ritual is a cooperative game designed by Tomás Tarragón, originally published by T-Tower Games and later republished by Strohmann Games in 2022 in an improved edition that addressed colorblindness accessibility. In the game, shamans work together in complete silence to perform a mystical ritual by passing runes between each other according to hidden rules. Players cannot discuss their cards or strategies at any point — all coordination must occur through the physical act of giving and taking runes. The game creates a uniquely meditative and tense cooperative puzzle, as players learn to communicate through action alone.
+
+upgrades: []

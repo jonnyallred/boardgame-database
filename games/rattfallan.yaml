@@ -1,0 +1,52 @@
+id: rattfallan
+name: "Råttfällan"
+alternate_names:
+  - Rat Trap
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Animals
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Alga
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Råttfällan (meaning "Rat Trap" in Swedish) is a Scandinavian children's board game published by Alga in which players take on the roles of rats scurrying around the board to collect various food items. The game uses simple dice-driven movement typical of roll-and-move children's games, with the rat theme and food-collecting objective providing thematic fun for young players. Published in multiple Nordic language editions including Swedish, Finnish, Norwegian, Danish, and English, Råttfällan has been a popular children's game across the Scandinavian market, delivering a quick and accessible gaming experience for families with young children.
+
+upgrades: []

@@ -1,0 +1,59 @@
+id: roads-and-boats
+name: "Roads & Boats"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Network Building
+  - Resource Management
+  - Engine Building
+  - Modular Board
+  - Economic
+  - Civilization
+  - Euro
+  - Cult Classic
+
+evokes:
+  - Progress
+  - Clever
+  - Masterful
+  - Agency
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Jeroen Doumen
+  - Joris Wiersinga
+publisher:
+  - Splotter Spellen
+artist:
+  - Herman Haverkort
+  - Tamara Jannink
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Roads & Boats is a landmark Splotter Spellen logistics game in which players build complex transport networks and industrial supply chains rather than fighting wars or claiming territory. Starting with three donkeys, some wood, stone, and two geese, players develop woodcutters, roads, boats, mines, and eventually a stock exchange across a modular hex map. Uniquely, players cannot own land or buildings — everything is shared, creating deep emergent conflicts as supply chains interweave and players race to industrialize first. Its profound depth, distinctive economic design, and lack of direct conflict set it apart as one of the most revered and challenging economic games ever designed.
+
+upgrades: []

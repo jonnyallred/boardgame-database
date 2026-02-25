@@ -1,0 +1,57 @@
+id: outreach
+name: "Outreach"
+alternate_names:
+  - "Outreach: The Conquest of the Galaxy, 3000 AD"
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Tech Tree
+  - Resource Management
+  - 4X
+  - Sci-Fi
+  - Space
+  - Wargame
+
+evokes:
+  - Progress
+  - Powerful
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Irad Hardy
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 360
+min_playtime: 180
+max_playtime: 720
+min_age: 14
+
+description: |
+  Outreach: The Conquest of the Galaxy, 3000 AD is a science fiction wargame published by SPI in 1976 in which 1-4 players compete to dominate the galaxy through construction of stargates, resource harvesting, fleet building, and technology advancement. Set on a massive 23"x35" map spanning 28,000 by 50,000 light years with each hex representing 1,200 light years, the game follows SPI's earlier Starforce: Alpha Centauri and uses the same galactic setting. Designed by Irad Hardy, it rose to number four on SPI's bestseller list upon release and remained a top-ten seller for six months — an early example of the empire-building genre that would later be codified as the 4X category.
+
+upgrades: []

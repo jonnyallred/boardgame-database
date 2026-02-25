@@ -1,0 +1,55 @@
+id: rolling-heights
+name: "Rolling Heights"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Bag Building
+  - Tile Placement
+  - Engine Building
+  - City Building
+  - Family
+
+evokes:
+  - Progress
+  - Clever
+  - Lucky
+  - Tension
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - John D. Clair
+publisher:
+  - AEG
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 14
+
+description: |
+  Rolling Heights is a 1920s city-building game in which players literally roll their meeple workers to determine their productivity — meeples landing standing up are productive workers, while those face-down provide nothing. As a general contractor competing to build the tallest and most prestigious buildings in an expanding city, players acquire building materials, construct structures, and recruit new workers to grow their pool. Completing buildings earns prestige and unlocks new worker meeples, creating an engine-building arc with a uniquely tactile dice-rolling mechanism that puts a literal spin on the worker placement genre.
+
+upgrades: []

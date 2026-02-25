@@ -1,0 +1,53 @@
+id: razzia
+name: "Razzia!"
+alternate_names: ["Razzia"]
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Bluffing
+  - Take That
+  - Gateway
+  - Family
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Clever
+  - Humor
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Stefan Dorra
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Razzia! is a competitive bidding and bluffing game designed by Stefan Dorra and published by Ravensburger in 1992, nominated for the Spiel des Jahres that year. Players bid on contraband goods in a gangster-themed setting, using cash and tactics to outbid rivals while managing their resources across multiple rounds. A later version of Razzia! was also released as a rethemed adaptation of Reiner Knizia's Ra, sharing similar auction mechanics in a faster-playing format.
+
+upgrades: []

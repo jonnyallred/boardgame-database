@@ -1,0 +1,53 @@
+id: risiko
+name: "RisiKo!"
+alternate_names:
+  - Risiko
+year: 1968
+
+# Relationships
+game_family: risk
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Area Control
+  - Dudes on a Map
+  - Wargame
+  - Family
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Lucky
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Editrice Giochi
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 240
+min_age: 10
+
+description: |
+  RisiKo! is the iconic Italian adaptation of the classic Risk world domination game, first published in Italy in 1968 by Giochiclub and later standardized by Editrice Giochi in 1977. Drawing its name from the German variant "Risiko," the game shares the core Risk formula of dice-driven territorial conquest on a world map but introduced key Italian innovations including target cards (giving each player a secret mission rather than requiring total world domination) and a notable rule allowing defenders to roll up to three dice. These differences create a somewhat more defense-friendly and mission-oriented game than the standard American Risk, and RisiKo! has maintained a massive dedicated Italian fanbase for decades.
+
+upgrades: []

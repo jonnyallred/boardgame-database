@@ -1,0 +1,57 @@
+id: queens-necklace
+name: "Queen's Necklace"
+alternate_names: ["Le Collier de la Reine"]
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Auctions/Bidding
+  - Bluffing
+  - Set Collection
+  - Historical
+  - Gateway
+  - Bruno Cathala
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Mystery
+  - Persuasion
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Bruno Cathala
+  - Bruno Faidutti
+publisher:
+  - Days of Wonder
+  - CMON
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 45
+min_age: 10
+
+description: |
+  Queen's Necklace is an intrigue-filled card game designed by Bruno Cathala and Bruno Faidutti, set in pre-revolutionary Paris where players compete as royal jewelers vying to sell rare gems to the Queen and her court. Players secretly draft and play jewel cards, using bluffing and deduction to outmaneuver rivals before an auction-style selling phase determines who profits most. Originally published by Days of Wonder in 2003 and later reprinted by CMON, the game elegantly blends memory, bluffing, and hand management in a compact historical theme.
+
+upgrades: []

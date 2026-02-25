@@ -1,0 +1,51 @@
+id: pylos
+name: "Pylos"
+alternate_names: ["Pyraos"]
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - No Math
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - David G. Royffe
+publisher:
+  - Gigamic
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Pylos is a two-player abstract strategy game published by Gigamic in 1994 in which players take turns placing wooden marbles onto a 4x4 grid base, stacking them into a pyramid shape. Players try to conserve their 15 marbles by cleverly lifting pieces from the base to the top whenever they can form a square of four balls on which to rest a new one. The player who places the final marble at the pyramid's apex wins, making the game a beautiful spatial puzzle of planning and reclamation. Pylos was a MENSA Select game in 1994.
+
+upgrades: []

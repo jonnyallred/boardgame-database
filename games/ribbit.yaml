@@ -1,0 +1,51 @@
+id: ribbit
+name: "Ribbit"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Animals
+  - Family
+  - Bluffing
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Mystery
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Gamewright
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Ribbit is a light frog-racing card and movement game in which players secretly choose which colored frog they want to win, then take turns playing movement cards to advance the frogs around the course. Each player's chosen frog identity remains hidden throughout the game, creating a bluffing element as players try to advance their own frog while disguising their loyalties. A stacking mechanic adds depth: when one frog lands on another's space it rides on top, and whenever the stack is moved all riders come along for the trip. The first player to get their secretly chosen frog across the finish line wins the game.
+
+upgrades: []

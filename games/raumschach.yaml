@@ -1,0 +1,50 @@
+id: raumschach
+name: "Raumschach"
+alternate_names: ["Space Chess"]
+year: 1907
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - No Math
+  - Puzzle Solving
+
+evokes:
+  - Masterful
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Ferdinand Maack
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 12
+
+description: |
+  Raumschach (German for "Space Chess") is a three-dimensional chess variant invented by Ferdinand Maack in 1907, played on five stacked 5×5 boards. Maack designed the game to simulate aerial and underwater dimensions of warfare missing from conventional two-dimensional chess, with all standard chess pieces adapted to move through three spatial axes. Unicorns (a new piece) were also introduced to handle the extra movement possibilities. The game achieved limited popularity in early 20th-century England and Germany and is considered the classic form of 3D chess, still played by chess variant enthusiasts today.
+
+upgrades: []

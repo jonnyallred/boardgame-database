@@ -1,0 +1,53 @@
+id: presages
+name: "Présages"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Card Drafting
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Connection
+  - Complete
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Maxime Rambourg
+publisher:
+  - Spiral Editions
+artist:
+  - Ben Renaut
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Présages is a cooperative card game designed by Maxime Rambourg and illustrated by Ben Renaut, published by Spiral Editions. Players work together to reduce their hands to a single card each, using carefully planned card plays and communication to whittle down their collective holdings without breaking the rules. Winner of awards at the Prix des Boutiques Ludiques for both its designer and illustrator, the game is praised for combining elegant simplicity with satisfying cooperative tension.
+
+upgrades: []

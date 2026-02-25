@@ -1,0 +1,57 @@
+id: oriflamme
+name: "Oriflamme"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: oriflamme
+edition: null
+base_game: null
+expansions:
+  - oriflamme-ablaze
+  - oriflamme-alliance
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Bluffing
+  - Simultaneous Action
+  - Filler
+  - Medieval
+  - Historical
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Mystery
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Adrien Hesling
+  - Axel Hesling
+publisher:
+  - Studio H
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Oriflamme is a fast and cutthroat medieval political card game for 3-5 players in which rival noble families compete for the French throne by building an Influence Queue of face-down cards. Each round players simultaneously place a new card face-down in the queue, then reveal and resolve cards one at a time — activating powerful abilities that assassinate rivals, generate gold, or boost influence. Each player's deck of ten cards is identical at the start but only seven are dealt per game, ensuring variety and unpredictability. Winner of the French As d'Or award in 2020, Oriflamme packs genuine strategic tension into a 20-minute playtime, with the player accumulating the most Influence Points after six rounds crowned the new ruler.
+
+upgrades: []

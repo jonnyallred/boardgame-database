@@ -1,0 +1,52 @@
+id: pocket-dungeon
+name: "Pocket Dungeon"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 0  # Solitary
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Dungeon Crawler
+  - Modular Board
+  - Fantasy
+
+evokes:
+  - Discovery
+  - Tension
+  - Agency
+  - Lucky
+  - Dread
+
+possible_counts: [1]
+true_counts: [1]
+
+designer: []
+publisher:
+  - Print and Play Productions
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 10
+
+description: |
+  Pocket Dungeon is a solo print-and-play dungeon crawler released in 2009 by Print & Play Productions. Players create a hero and explore a procedurally generated dungeon using the innovative DunGen system, which reveals the dungeon layout as they move through it. The objective is to clear the dungeon of monsters, locate the boss, and defeat it. The game notably introduced stealth dice mechanics and is designed to be played in short sessions or a single sitting. Released under a Creative Commons license, it was an early champion of accessible solo print-and-play gaming.
+
+upgrades: []

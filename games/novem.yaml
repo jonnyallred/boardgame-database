@@ -1,0 +1,48 @@
+id: novem
+name: "Novem"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Novem is a two-player abstract strategy game played with numbered wooden tiles arranged in a three-by-three grid, where one player controls the rows and the other controls the columns. Players score points based on the numbered tiles in their respective rows or columns, aiming to outmaneuver their opponent through clever tile placement and board control. The game's name — Latin for "nine" — reflects both the nine-position grid and the interplay of the nine tiles that fill it. Simple enough to learn in minutes yet offering genuine tactical depth, Novem belongs to the compact tradition of abstract games designed for direct two-player confrontation.
+
+upgrades: []

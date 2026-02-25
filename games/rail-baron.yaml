@@ -1,0 +1,52 @@
+id: rail-baron
+name: "Rail Baron"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Economic
+  - Auctions/Bidding
+  - Historical
+  - Trains
+
+evokes:
+  - Progress
+  - Rivalry
+  - Agency
+  - Lucky
+  - Powerful
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 12
+
+description: |
+  Rail Baron is a classic railroad empire board game published by Avalon Hill in 1977, one of the earliest games with a railway theme. Players move trains along historical US railroad lines, collecting delivery payoffs by hauling passengers between cities. The key economic decision involves purchasing railroad lines to earn tolls when other players use them, creating a competitive web of infrastructure ownership and route planning. Rail Baron remains a beloved classic of the American railroad game tradition.
+
+upgrades: []

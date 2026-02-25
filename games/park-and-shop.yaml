@@ -1,0 +1,50 @@
+id: park-and-shop
+name: "Park and Shop"
+alternate_names: []
+year: 1960
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Economic
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Progress
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Park and Shop is a 1960 roll-and-move family game by Milton Bradley set in a city shopping district. Players drive their car marker to the Park & Shop parking lot, then walk their pedestrian marker around to complete a personal shopping list before returning to the car and driving home — first to finish wins. An optional "money version" adds currency management with purchases, parking fees, and library fines, giving the game a light economic dimension unusual for its era. The split mechanic of managing both a car and a pedestrian token makes it a charming period piece capturing midcentury suburban American life.
+
+upgrades: []

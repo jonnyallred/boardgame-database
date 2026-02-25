@@ -1,0 +1,49 @@
+id: rent-a-hero
+name: "Rent a Hero"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Fantasy
+  - Hand Management
+
+evokes:
+  - Clever
+  - Humor
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Rent a Hero is a fantasy auction game in which players bid for the services of various heroes — each with different skills and power levels — to complete quests and earn gold. Players manage their treasury carefully across multiple rounds of competitive bidding, balancing the need for powerful heroes against the cost of hiring them. The lighthearted theme of heroism-as-a-service adds humor to the auction mechanics.
+
+upgrades: []

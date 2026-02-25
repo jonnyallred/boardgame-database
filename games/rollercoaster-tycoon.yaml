@@ -1,0 +1,52 @@
+id: rollercoaster-tycoon
+name: "RollerCoaster Tycoon"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Economic
+  - Set Collection
+  - Family
+  - City Building
+
+evokes:
+  - Progress
+  - Lucky
+  - Humor
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  RollerCoaster Tycoon is a licensed board game adaptation of the popular 1999 video game franchise, published by Parker Brothers in 2002. Players compete to build the most successful theme park by constructing rides, managing resources, and attracting visitors, translating the beloved park-building simulation experience into tabletop form. Like many licensed games of its era, it prioritizes accessibility and thematic immersion for fans of the video game over deep strategic gameplay, making it a family-friendly gateway experience. The game captures the colorful spirit of park management with simple mechanics designed to appeal to the game's broad video game fanbase.
+
+upgrades: []

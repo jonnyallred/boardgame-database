@@ -1,0 +1,53 @@
+id: pattons-3rd-army
+name: "Patton's 3rd Army"
+alternate_names: ["Patton's 3rd Army: The Lorraine Campaign"]
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Agency
+  - Masterful
+  - Tension
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Joseph Balkoski
+publisher:
+  - Simulations Publications Inc (SPI)
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Patton's 3rd Army: The Lorraine Campaign is a hex-and-counter wargame published by SPI in 1980 (first in Strategy & Tactics issue #78) simulating the U.S. Third Army's autumn 1944 offensive through the Lorraine region of France, including the siege of Metz. Players command American and German forces at the operational level, maneuvering through French terrain as Patton's forces attempt to break through stiffening Wehrmacht resistance. The game was the first entry in SPI's "Victory in the West" series, designed by Joseph Balkoski with the hallmark SPI graphic production of Redmond Simonsen.
+
+upgrades: []

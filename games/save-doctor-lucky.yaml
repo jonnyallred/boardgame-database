@@ -1,0 +1,55 @@
+id: save-doctor-lucky
+name: "Save Doctor Lucky"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: kill-doctor-lucky
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light (semi-cooperative)
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Take That
+  - Party
+  - Filler
+  - Humor
+  - Maritime
+
+evokes:
+  - Humor
+  - Tension
+  - Agency
+  - Connection
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - James Ernest
+publisher:
+  - Cheapass Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Save Doctor Lucky is a prequel to the beloved Cheapass Games title Kill Doctor Lucky, designed by James Ernest, set aboard the RMS Titanic as it sinks into the icy Atlantic. Rather than trying to murder the eccentric Doctor Lucky, players must now save his life — but only when nobody else is watching. The ship has a built-in timer: as cards are drawn from each deck, that portion of the ship sinks and becomes inaccessible, creating urgency and shrinking the playing field. Players sabotage each other's rescue attempts while trying to be the hero who saves the Doctor, delivering the same sharp humor and clever card play as its predecessor in a compact semi-cooperative package.
+
+upgrades: []

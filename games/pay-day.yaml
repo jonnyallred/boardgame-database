@@ -1,0 +1,52 @@
+id: pay-day
+name: "Pay Day"
+alternate_names: ["Payday"]
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Economic
+  - Family
+  - Party
+
+evokes:
+  - Lucky
+  - Humor
+  - Progress
+  - Tension
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Paul J. Gruen
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Pay Day is a classic family finance game originally published by Parker Brothers in 1975, set on a calendar board representing a single month. Players roll dice and move along calendar spaces, encountering bills, expenses, deals, and windfalls as they try to manage their money until payday arrives at the end of the month. Deals can be accepted or declined, and players can take loans to stay afloat — at interest — adding a light resource-management element. The game has remained popular for decades due to its accessible theme, simple rules, and gentle introduction to personal finance concepts.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: sailor-moon-collectible-card-game
+name: "Sailor Moon Collectible Card Game"
+alternate_names:
+  - Sailor Moon CCG
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Hand Management
+  - Superheroes
+  - Fantasy
+
+evokes:
+  - Powerful
+  - Rivalry
+  - Tension
+  - Progress
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mark C. MacKinnon
+  - Jeff Mackintosh
+  - Karen McLarney
+  - John R. Phythyon
+publisher:
+  - Dart Flipcards
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  The Sailor Moon Collectible Card Game is a competitive CCG published by Dart Flipcards in July 2000 in which players pit teams of Sailor Scouts against opposing monsters and villains drawn from the iconic anime series. Each player has both scouts and a collection of enemies; scouts can be upgraded by playing higher-level cards in a mechanic similar to Pokémon's evolution system, and random resolution is sometimes handled via rock-paper-scissors. Victory is achieved by eliminating all of an opponent's scouts or defeating enough monsters to reach the victory point threshold. The game won the 2000 Origins Award for Best Trading Card Game.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: pentominoes
+name: "Pentominoes"
+alternate_names: []
+year: 1965
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Tile Placement
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Masterful
+  - Progress
+  - Complete
+  - Agency
+
+possible_counts: [1, 2, 3]
+true_counts: [1, 2]
+
+designer:
+  - Solomon W. Golomb
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Pentominoes are 12 distinct flat shapes each made by joining five unit squares edge to edge, first formally described by American mathematician Solomon Golomb in 1953 and popularized by Martin Gardner in Scientific American in 1965. As a puzzle, the challenge is to tile rectangular boxes (6x10, 5x12, 4x15, or 3x20) using all 12 pieces without overlapping or leaving gaps. As a two-player game, players take turns placing pentomino tiles on an 8x8 grid, with the last player able to place a tile winning. The elegant mathematical properties of the pieces and the variety of rectangular configurations have made pentominoes a classic of recreational mathematics and puzzle design for decades.
+
+upgrades: []

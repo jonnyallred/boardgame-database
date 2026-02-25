@@ -1,0 +1,54 @@
+id: powerboats
+name: "Powerboats"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Modular Board
+  - Racing
+  - Variable Setup
+  - Family
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Agency
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Corné van Moorsel
+publisher:
+  - Cwali
+artist:
+  - Christof Tisch
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 9
+
+description: |
+  Powerboats is a speedboat racing game for 2-6 players in which each player pilots a speedboat around a modular lake board, racing between islands and around buoys. The game uses unique three-sided dice to represent boat speed — each turn players hold their dice from the previous turn and may add or remove one die to accelerate or slow down, then freely choose which to reroll. Collisions with obstacles damage boats, and too much damage results in sinking. The game is played over three races, with players accumulating points based on finishing position.
+
+upgrades: []

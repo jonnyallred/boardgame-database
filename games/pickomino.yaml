@@ -1,0 +1,56 @@
+id: pickomino
+name: "Pickomino"
+alternate_names: ["Pick-omino", "Heckmeck am Bratwurmeck"]
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Set Collection
+  - Family
+  - Party
+  - Filler
+  - Reiner Knizia
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6, 7]
+true_counts: [3, 4, 5]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Zoch Verlag
+artist:
+  - Doris Matthäus
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Pickomino (also known as Heckmeck am Bratwurmeck) is a fast-playing push-your-luck dice game by Reiner Knizia in which 2–7 players roll eight dice repeatedly, setting aside at least one value per roll to build a running total, then claim a worm tile matching that total from a central row. Crucially, rolls must always include at least one worm face (worth 5), and if a player's total exactly matches the top tile on an opponent's stack, they can steal it. Going bust forces a player to return their top tile and flip over the highest available central tile. The game has sold over one million copies and is celebrated as a perfectly calibrated filler with its elegant escalation of tension.
+
+upgrades: []

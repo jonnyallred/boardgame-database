@@ -1,0 +1,51 @@
+id: pallanguzhi
+name: "Pallanguzhi"
+alternate_names:
+  - "Pallankuzhi"
+  - "Pallanguli"
+year: 550
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Mancala
+  - No Math
+
+evokes:
+  - Clever
+  - Agency
+  - Tension
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Pallanguzhi (from the Tamil words "pall" meaning many and "kuzhi" meaning pit) is a traditional two-player mancala game from Tamil Nadu, South India, played on a wooden board with 14 pits and a collection of small shells or seeds. Players take turns picking up all seeds from one of their seven pits and distributing them counter-clockwise, capturing seeds when a placed seed fills a pit to exactly six. The game is particularly noted for developing rapid arithmetic skills and hand-eye coordination, and was historically more popular among women in rural Tamil society. Referenced in Pallava copper plate grants from approximately 550 CE, it is one of the oldest documented board games of South Asia and is also played in Sri Lanka, Trinidad, Singapore, and other regions with Tamil diaspora communities.
+
+upgrades: []

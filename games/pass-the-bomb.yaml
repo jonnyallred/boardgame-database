@@ -1,0 +1,52 @@
+id: pass-the-bomb
+name: "Pass the Bomb"
+alternate_names: ["Tick Tock Boom"]
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Party
+  - Family
+  - Word Play
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6, 7, 8]
+
+designer:
+  - Jon Kitching
+publisher:
+  - Piatnik
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Pass the Bomb is a fast-paced word party game published by Piatnik in which players frantically think of words containing a specific letter combination before the ticking bomb in their hands goes off. A card is flipped revealing a letter pair, the die determines where in a word those letters must appear (beginning, middle, or end), and players rapidly pass the bomb as each person shouts a valid word containing the letters. The unlucky player holding the bomb when it explodes collects the card as a penalty, and the winner has the fewest penalty cards after thirteen rounds. The tension of the randomly timed explosion creates hilarious party moments.
+
+upgrades: []

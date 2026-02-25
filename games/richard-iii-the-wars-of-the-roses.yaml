@@ -1,0 +1,56 @@
+id: richard-iii-the-wars-of-the-roses
+name: "Richard III: The Wars of the Roses"
+alternate_names:
+  - Richard III
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - Historical
+  - War
+  - Wargame
+  - Medieval
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Masterful
+  - Mystery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Tom Dalgliesh
+  - Jerry Taylor
+publisher:
+  - Columbia Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Richard III: The Wars of the Roses is an epic two-player block wargame published by Columbia Games in 2009, designed by Tom Dalgliesh and Jerry Taylor, depicting the thirty-two-year dynastic struggle between the Houses of Lancaster and York for the English throne (1455–1486). Using Columbia's signature block system, players can see the full strength of their own forces but not their opponent's, creating an integrated fog-of-war that rewards careful deduction and deception. The game builds on the award-winning system of Hammer of the Scots with innovative new rules to capture the political intrigue, shifting alliances, and brutal military campaigns surrounding the reigns of Henry VI, Edward IV, Richard III, and Henry VII. Covering some of the most dramatic events in English medieval history, the game offers exceptional strategic depth within an elegantly streamlined block wargame framework.
+
+upgrades: []

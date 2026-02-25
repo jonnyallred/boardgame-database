@@ -1,0 +1,50 @@
+id: onslaught
+name: "Onslaught"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+  - Progress
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 300
+min_age: 14
+
+description: |
+  Onslaught is a 1987 strategic board wargame published by TSR, Inc. simulating the Allied campaign in Western Europe from the D-Day landings through the crossing of the Rhine River in World War II. Players control Allied and German forces respectively, with a dice-driven turn order determining who acts each round, creating uncertainty and tension in operational planning. Limited supply points constrain which unit stacks can be activated on a given turn, forcing hard prioritization decisions. The game is notable for its unpredictable activation system, which captures the fog of war and friction of large-scale operations in an approachable format.
+
+upgrades: []

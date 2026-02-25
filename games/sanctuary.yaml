@@ -1,0 +1,57 @@
+id: sanctuary
+name: "Sanctuary"
+alternate_names: []
+year: 2025
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Hand Management
+  - Engine Building
+  - Resource Management
+  - Set Collection
+  - Animals
+  - Nature
+  - Euro
+  - Capstone Games
+
+evokes:
+  - Progress
+  - Wonder
+  - Clever
+  - Agency
+  - Complete
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Mathias Wigge
+publisher:
+  - Capstone Games
+artist: []
+playtime_minutes: 70
+min_playtime: 40
+max_playtime: 100
+min_age: 12
+
+description: |
+  Sanctuary is a zoo-building tile-placement game designed by Mathias Wigge, published by Capstone Games, and inspired by the acclaimed Ark Nova. Players plan and construct a scientifically-managed modern zoo from a supply of 135 unique tiles representing animals, buildings, and projects, placing differently-sized habitats and assigning animal cards to fill them. Each player has four action cards, and the power of each action is determined by which slot the card currently occupies, creating an evolving priority system of choices. Sanctuary simplifies and refines many of Ark Nova's mechanisms while retaining its satisfying nature conservation theme, making it a worthy accessible companion to its celebrated predecessor.
+
+upgrades: []

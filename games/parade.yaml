@@ -1,0 +1,55 @@
+id: parade
+name: "Parade"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Card Drafting
+  - Euro
+  - Family
+  - Gateway
+  - Fantasy
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Complete
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Naoki Homma
+publisher:
+  - Z-Man Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Parade is a whimsical card game set in the world of Alice in Wonderland, where 2–6 players take turns adding colorful characters to an ever-growing parade line. The catch is that you want as few cards as possible — when you play a card, you must take any cards in the parade that match your card's color or have a value equal to or less than your played card. At the end of the game, the player who holds the most cards of a given color flips them face-down (worth only 1 point each), while remaining cards score their face value — lowest score wins. The game combines elegant push-and-pull mechanics with charming Wonderland theming, earning it a following as a classic filler with surprising strategic depth.
+
+upgrades: []

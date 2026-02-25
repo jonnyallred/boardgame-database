@@ -1,0 +1,52 @@
+id: phantom-of-old-prague
+name: "Phantom of Old Prague"
+alternate_names: ["Fantom Staré Prahy"]
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hidden Movement
+  - 1 vs Many
+  - Deduction
+  - Mystery
+  - Historical
+
+evokes:
+  - Tension
+  - Mystery
+  - Dread
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Chemadur
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Phantom of Old Prague (Fantom Staré Prahy) is a Czechoslovak hidden movement game made in the late 1980s, thematically similar to Scotland Yard but set among the historic streets, trams, taxis, boats, and horse-drawn carriages of old Prague. One player secretly controls the Phantom who moves through the city using various transportation modes, while up to five detectives work together to track and catch them. The Phantom wins by evading capture for the required number of turns; the detectives win if any of them occupies the same square as the Phantom. The game offers a charming piece of Czech gaming history with its unique historical setting.
+
+upgrades: []

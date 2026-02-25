@@ -1,0 +1,53 @@
+id: ram-speed
+name: "Ram Speed"
+alternate_names: ["Ram Speed: Naval Warfare in the Bronze Age"]
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - Ancient
+  - Maritime
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Colin Keizer
+publisher:
+  - Metagaming Concepts
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Ram Speed is a two-player microgame of ancient Mediterranean naval warfare designed by Colin Keizer and published by Metagaming Concepts in 1980. Players build fleets of penteconters, biremes, triremes, and quinqueremes using a point-buy system, then maneuver their galleys across a hex map in the ultimate contest of ship-to-ship ramming tactics. Galleys can move at full speed forward or half speed backward, with short bursts of double or triple speed available at the risk of exhaustion. A compact but tactically rich wargame for Bronze Age naval enthusiasts.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: puzzle-strike-bag-of-chips
+name: "Puzzle Strike: Bag of Chips"
+alternate_names: ["Puzzle Strike"]
+year: 2010
+
+# Relationships
+game_family: puzzle-strike
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Bag Building
+  - Asymmetric
+  - Variable Player Powers
+  - Take That
+  - Competitive
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Tension
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - David Sirlin
+publisher:
+  - Sirlin Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Puzzle Strike: Bag of Chips is a competitive bag-building game designed by David Sirlin, inspired by Dominion and the video game Super Puzzle Fighter II Turbo. Instead of cards, players draw poker-chip-sized tokens from cloth bags, using them to build their hand and send gem piles to opponents. The goal is to avoid gem overflow — ending a turn with too many gems means losing — while engineering devastating combos against rivals. With 20 asymmetric characters creating hundreds of distinct matchups, the game rewards deep mastery of its intricate systems.
+
+upgrades: []

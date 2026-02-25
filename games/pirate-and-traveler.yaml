@@ -1,0 +1,52 @@
+id: pirate-and-traveler
+name: "Pirate and Traveler"
+alternate_names: []
+year: 1953
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Pirates
+  - Maritime
+
+evokes:
+  - Discovery
+  - Lucky
+  - Humor
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 7
+
+description: |
+  Pirate and Traveler is a classic world-travel board game by Milton Bradley, originally published in 1911 with editions through 1970. Players draw Travel Cards dictating journeys and spin a wheel to determine movement along routes based on real railroad and steamship lines connecting major global cities. The game plays in two phases: first as Travelers completing ten journeys around the world map, then all players become Pirates racing to deposit cards at the Pirate's Goal in Greenland — and stealing cards from opponents along the way. The player with the highest point value in deposited cards wins. A charming early educational game that introduced children to world geography through playful adventure.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: omen-a-reign-of-war
+name: "Omen: A Reign of War"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Area Control
+  - Card Drafting
+  - Filler
+  - Mythology
+  - Ancient
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Clowdus
+publisher:
+  - Small Box Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 12
+
+description: |
+  Omen: A Reign of War is a head-to-head two-player card game rooted in Greek mythology, in which both players are children of Zeus competing to win the favor of the gods by controlling three contested cities. Each player deploys units — Soldiers, Oracles, and mythical Beasts such as Satyrs, the Phoenix, and Minotaurs — and makes offerings to different gods to gain powerful advantages. Players alternate gathering wealth, playing unit cards, battling for city dominance, and triggering god abilities, with the winner being whoever best demonstrates their worthiness to inherit Zeus's legacy. Originally published by Small Box Games in 2011 and later republished by Kolossal Games, it supports both a standard and a draft mode for variety.
+
+upgrades: []

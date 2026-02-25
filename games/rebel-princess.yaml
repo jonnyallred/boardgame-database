@@ -1,0 +1,49 @@
+id: rebel-princess
+name: "Rebel Princess"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Fantasy
+  - Family
+
+evokes:
+  - Agency
+  - Progress
+  - Tension
+  - Discovery
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Rebel Princess is a fantasy-themed game listed in board game databases. Limited commercial documentation is available for this title. The game centers on a princess character defying expectations in a fantasy setting, likely featuring cooperative or semi-cooperative mechanics as players help the titular rebel princess on her adventure.
+
+upgrades: []

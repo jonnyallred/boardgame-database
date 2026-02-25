@@ -1,0 +1,50 @@
+id: quicksand
+name: "Quicksand"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Progress
+  - Humor
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 5
+
+description: |
+  Quicksand is a children's racing board game published by Parker Brothers in 1989 in which players move explorer pawns around a path toward a hidden ancient temple, carefully avoiding treacherous quicksand spaces that can set them back significantly. The race combines the excitement of movement with suspense as players never know where the deadly quicksand lurks until they step in it. Simple enough for young children, the game delivers repeated thrills through its unpredictable hazard placement.
+
+upgrades: []

@@ -1,0 +1,57 @@
+id: risk-legacy
+name: "Risk Legacy"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: risk
+edition: null
+base_game: risk
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Legacy
+  - Dice Rolling
+  - Area Control
+  - Variable Player Powers
+  - Dudes on a Map
+  - Wargame
+  - Cult Classic
+  - Rob Daviau
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Discovery
+  - Unique
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Rob Daviau
+  - Chris Dupuis
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  Risk Legacy is the groundbreaking board game that pioneered the legacy game format, permanently altering its board and rules across a campaign of 15 games. Designed by Rob Daviau and Chris Dupuis, players place stickers on the board, tear up cards, write on territories in permanent marker, and open sealed envelopes that introduce new rules as the campaign progresses — each decision made in one game carries consequences into all future games. Asymmetric starting factions, evolving special powers, and a board that records the scars of past conflicts create a deeply personalized experience unique to each group. It won the 2012 Golden Geek Best Innovative Board Game award and inspired a generation of legacy game designs.
+
+upgrades: []

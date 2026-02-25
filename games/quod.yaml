@@ -1,0 +1,51 @@
+id: quod
+name: "Quod"
+alternate_names: []
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - No Math
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - G. Keith Still
+publisher:
+  - ROMBOL
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Quod is an abstract strategy board game invented by G. Keith Still in 1979, played on an 11×11 grid. Players place colored pieces and blocking stones to complete a square (Quod) with their four corners while preventing opponents from doing the same. The game was popularized internationally when featured in Scientific American in March 1996, and it has since been produced in wooden versions by ROMBOL. Simple enough to learn in minutes yet offering genuine strategic depth, Quod is a classic of the abstract game design tradition.
+
+upgrades: []

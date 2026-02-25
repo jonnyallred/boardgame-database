@@ -1,0 +1,52 @@
+id: presidential-campaign
+name: "Presidential Campaign"
+alternate_names: ["Mr. President"]
+year: 1967
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Economic
+  - Historical
+  - Wargame
+
+evokes:
+  - Agency
+  - Rivalry
+  - Tension
+  - Persuasion
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Jack Carmichael
+publisher:
+  - 3M
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Presidential Campaign (originally released as Mr. President) is a 3M Bookshelf game simulating the race for the United States presidency. Players must decide which states to campaign in and how to invest their time and resources to maximize electoral votes, drawing on political data from the 1960s. Originally published in 1967 and revised in 1971 and 1972, the game captures the strategic geography of American presidential politics.
+
+upgrades: []

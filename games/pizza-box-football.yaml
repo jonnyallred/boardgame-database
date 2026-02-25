@@ -1,0 +1,51 @@
+id: pizza-box-football
+name: "Pizza Box Football"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Card Drafting
+  - Family
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Agency
+  - Clever
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Scott Smith
+publisher:
+  - On the Line Game Company
+artist: []
+playtime_minutes: 45
+min_playtime: 20
+max_playtime: 90
+min_age: 8
+
+description: |
+  Pizza Box Football is a compact head-to-head American football strategy game that literally opens up from a pizza box shape into its playing surface. Designed by Scott Smith and published in 2005, players call plays and roll dice guided by cards, applying football strategy in choosing when to run, pass short, pass long, or attempt trick plays. All 32 NFL teams are rated in three offensive and defensive categories (run, short pass, long pass) based on real season statistics, creating authentic matchup dynamics. The game offers four rule variants ranging from a quick Red Zone Shootout to a full professional game, with expansion packs covering additional seasons.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: quadromania
+name: "Quadromania"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - No Math
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Ravensbuger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Quadromania is a two-player abstract strategy game in which players alternate placing or claiming pieces on a board, with 16 pieces spanning all combinations of four colors and four shapes. One player seeks to align matching colors while the other seeks to align matching shapes, creating a tense spatial duel with asymmetric winning conditions. The game rewards careful observation and forward planning in a compact, quick-playing format.
+
+upgrades: []

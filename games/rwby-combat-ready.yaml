@@ -1,0 +1,53 @@
+id: rwby-combat-ready
+name: "RWBY: Combat Ready"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Asymmetric
+  - Variable Player Powers
+  - Hand Management
+  - Fantasy
+  - Superheroes
+
+evokes:
+  - Connection
+  - Powerful
+  - Tension
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Arcane Wonders
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  RWBY: Combat Ready is a cooperative combat board game for 2-5 players based on the popular animated web series RWBY, published by Arcane Wonders in 2018. Players take on the roles of series protagonists Ruby, Weiss, Blake, Yang, or Penny, each with unique asymmetric abilities, and must work together to defeat powerful villains including Roman Torchwick, Adam Taurus, and Cinder Fall. The game captures the action-oriented combat and teamwork themes of the show through hand management and character ability interactions, with players combining their heroes' powers to overcome escalating boss challenges. Expansions have expanded both the hero roster and villain lineup for fans of the series.
+
+upgrades: []

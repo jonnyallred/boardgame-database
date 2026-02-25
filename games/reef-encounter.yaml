@@ -1,0 +1,54 @@
+id: reef-encounter
+name: "Reef Encounter"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Set Collection
+  - Euro
+  - Nature
+
+evokes:
+  - Clever
+  - Masterful
+  - Agency
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Richard Breese
+publisher:
+  - R&D Games
+  - Z-Man Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Reef Encounter is a highly regarded Euro-style game designed by Richard Breese, originally published by R&D Games in 2004 and later by Z-Man Games. Players manage different species of coral polyps on a reef, growing them by placing tiles and protecting them using shrimp counters to prevent rival corals from overgrowing their colonies. The complex interaction between coral species — some naturally dominate others — creates intricate tactical decisions about when to grow, attack, and convert opponent corals into victory points. The game is praised for its elegant biological theme and deep strategic interplay.
+
+upgrades: []

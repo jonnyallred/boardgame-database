@@ -1,0 +1,52 @@
+id: perfect-words
+name: "Perfect Words"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Word Play
+  - Party
+  - Family
+
+evokes:
+  - Clever
+  - Connection
+  - Complete
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Paul-Henri Argiot
+publisher:
+  - TIKI Editions
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Perfect Words is a cooperative word association game from TIKI Editions in which 2–6 players collaboratively construct a crossword-style grid using word cards and arrow tiles, then attempt to identify the associations represented by the arrows. Players discuss the grid, write down their personal interpretations of each arrow's association, and score points when a majority of players agree on the same association. The game includes difficulty variants and an optional competitive mode. Its combination of creative language play and consensus-building creates lively discussion and "aha" moments as players work together to find the perfect word connections.
+
+upgrades: []

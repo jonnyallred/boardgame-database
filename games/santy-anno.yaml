@@ -1,0 +1,54 @@
+id: santy-anno
+name: "Santy Anno"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Simultaneous Action
+  - Party
+  - Family
+  - Pirates
+  - Filler
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Connection
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Alain Orban
+publisher:
+  - Repos Production
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Santy Anno is a hilarious real-time pirate party game by Repos Production in which players are notorious pirates of the Santy Anno ship who, after a night of heavy drinking, have forgotten where their ship is or who their captain is. Each round, movement cards are revealed and all pirates simultaneously race to sit in front of their target ship — a frenetic competition of observation and speed. The game plays over 5 rounds, with the pirate earning the most gold at the end winning the title of captain. Its chaotic simultaneous action and pirate theme make it a lively and accessible party game for groups of 3-8 players.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: ouk-chatrang
+name: "Ouk Chatrang"
+alternate_names:
+  - "Ouk"
+  - "Cambodian Chess"
+year: 1200
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Ancient
+  - Deduction
+
+evokes:
+  - Masterful
+  - Rivalry
+  - Agency
+  - Clever
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 10
+
+description: |
+  Ouk Chatrang (អុកចត្រង្គ) is Cambodia's traditional chess game, a variant of Makruk closely related to Thai chess, and is the Southeast Asian game most directly derived from the ancient Indian game of Chaturanga. Played on an 8×8 board with pieces equivalent to those of international chess, key differences include pawns starting on the third rank and being promoted to queens on reaching the sixth, and a special first-move privilege for the lord and seed pieces. Evidence of the game's play in Cambodia dates to bas-relief carvings in the Angkor temple complexes from the 12th century, and it remains a living tradition — in 2023 ouk was introduced as an official sport at the Southeast Asian Games. The player who calls check announces it with a loud clap of the piece, giving the game its characteristic percussive rhythm.
+
+upgrades: []

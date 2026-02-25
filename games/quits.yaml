@@ -1,0 +1,49 @@
+id: quits
+name: "Quits"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - No Math
+  - Family
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Lucky
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Quits is a compact abstract game in which players aim to empty their hand of cards or pieces by making matching plays, with the last player holding pieces being penalized. The game's simple matching mechanics make it accessible to a wide age range, while the timing of when to play and when to hold creates light strategic tension. Limited commercial documentation is available for this title beyond its listing in board game databases.
+
+upgrades: []

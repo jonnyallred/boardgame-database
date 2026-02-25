@@ -1,0 +1,49 @@
+id: pah-tum
+name: "Pah Tum"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Ancient
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 10
+
+description: |
+  Pah Tum is a two-player abstract strategy game presented as a reconstruction of an ancient Assyrian game from Mesopotamia, played on a 7x7 grid with 22 pieces per player plus five neutral "Boulder" pieces. Players place pieces on the board to control territory, with points scored based on the number of opponent pieces and boulders orthogonally adjacent to each of a player's placed pieces. While the game is often promoted as being 3,800 years old based on ivory game boards found in Egyptian tombs, scholars note that the specific rule set appears to date only to around 2005 as a reconstruction. Regardless of its true antiquity, Pah Tum offers an engaging and elegant area-influence abstract that plays in about half an hour.
+
+upgrades: []

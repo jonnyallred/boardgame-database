@@ -1,0 +1,56 @@
+id: rise-of-augustus
+name: "Rise of Augustus"
+alternate_names:
+  - Augustus
+  - Via Magica
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Press Your Luck
+  - Bag Building
+  - Ancient
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Complete
+  - Clever
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Paolo Mori
+publisher:
+  - Hurrican
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Rise of Augustus is a fast-paced set collection game inspired by ancient Rome where players race to complete "objective" cards representing Roman legions, provinces, and political offices. Each round, symbols are drawn one at a time from a bag and all players simultaneously place legionnaire meeples on matching symbols on their cards — the first to complete a card shouts "Ave Caesar!" and claims its bonus. The bag contains more of some symbols than others, adding a press-your-luck tension to card selection. Its bingo-like draw mechanism makes it accessible and exciting for mixed groups while rewarding strategic objective selection.
+
+upgrades: []

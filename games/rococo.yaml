@@ -1,0 +1,59 @@
+id: rococo
+name: "Rococo"
+alternate_names:
+  - Rokoko
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - rococo-deluxe-edition
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Area Control
+  - Resource Management
+  - Hand Management
+  - Euro
+  - Historical
+  - Eagle-Gryphon Games
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Matthias Cramer
+  - Stefan Malz
+  - Louis Malz
+publisher:
+  - eggertspiele
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Rococo is an elegant Euro game set in 18th century France where players run competing dressmaking workshops preparing elaborate ball gowns and decorations for the Rococo-era court of Louis XV. On each turn, players play employee cards from their personal deck to hire new workers, purchase fabrics, manufacture dresses, or invest in decorating the grand ball. The game weaves together deck building, resource management, and area control as players compete to have their creations displayed most prominently at the ball after seven rounds. Its unique blend of mechanics and distinctive theme — unusual in Euro gaming — earned it wide acclaim and a lavish deluxe edition from Eagle-Gryphon Games.
+
+upgrades: []

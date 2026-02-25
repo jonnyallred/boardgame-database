@@ -1,0 +1,55 @@
+id: pairs
+name: "Pairs"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Set Collection
+  - Filler
+  - Party
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Clever
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - James Ernest
+  - Paul Peterson
+publisher:
+  - Cheapass Games
+  - Greater Than Games
+artist: []
+playtime_minutes: 15
+min_playtime: 5
+max_playtime: 20
+min_age: 12
+
+description: |
+  Pairs is a simple press-your-luck card game designed by James Ernest and Paul Peterson as "a new classic pub game," funded via Kickstarter in 2014 with over 7,700 backers. The deck has a triangular distribution — one 1, two 2s, three 3s, and so on up to ten 10s — and on each turn a player either draws another card hoping not to match a card already in front of them, or folds and takes the lowest card in play as their score. The game has no winner, only a loser — the first player to accumulate too many points — and its brilliant simplicity has spawned over fifty themed variations using the same deck. A true pub game at heart, Pairs is fast, social, and endlessly replayable.
+
+upgrades: []

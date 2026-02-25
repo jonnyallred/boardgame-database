@@ -1,0 +1,53 @@
+id: polarity
+name: "Polarity"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Tension
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Douglas Seaton
+publisher:
+  - Temple Games
+  - Mattel
+  - Irwin Toy
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Polarity is a uniquely tactile abstract strategy game invented by Douglas Seaton in which players compete to place and score magnetic discs using the physical forces of magnetism. Players take turns carefully lowering a magnetic disc into the playing area, leaning it against the magnetic fields of previously placed pieces in carefully balanced "leaners." If a placed piece causes others to topple or two pieces snap together (a "fault"), the active player's turn ends. Players score leaning pieces of their color at the end of the game. The combination of dexterity, spatial reasoning, and magnetic physics creates a uniquely memorable play experience that has seen multiple publishers since its 1986 debut.
+
+upgrades: []

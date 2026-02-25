@@ -1,0 +1,54 @@
+id: pizza-theory
+name: "Pizza Theory"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Simultaneous Action
+  - Pattern Building
+  - Food Theme
+  - Eagle-Gryphon Games
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [3]
+true_counts: [3]
+
+designer:
+  - Greg Powers
+  - Brian Powers
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Pizza Theory is a precisely three-player abstract game from Eagle-Gryphon Games in which players race to be the first to place all 16 of their toppings on a shared pizza board. On each turn, players place a topping that cannot be adjacent to their own other toppings. Then all players simultaneously select a number 1–6 on their personal die and reveal it — each player's pizza cutter is placed at the matching board position. There is no randomness, but the simultaneous secret selection creates genuine unpredictability in where the cutters land each round. Winner of the 2011 Ion Award for Best Strategy Game and noted for elegant tension in a 15-minute package.
+
+upgrades: []

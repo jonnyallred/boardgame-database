@@ -1,0 +1,57 @@
+id: oriflamme-ablaze
+name: "Oriflamme: Ablaze"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: oriflamme
+edition: null
+base_game: oriflamme
+expansions: []
+compatible_with:
+  - oriflamme
+  - oriflamme-alliance
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Bluffing
+  - Simultaneous Action
+  - Filler
+  - Medieval
+  - Historical
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Adrien Hesling
+  - Axel Hesling
+publisher:
+  - Studio H
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Oriflamme: Ablaze is a standalone expansion to the award-winning Oriflamme card game, adding 11 new cards with powerful and synergistic abilities to the medieval political conflict. Set during an incendiary war that threatens to reduce the kingdom to ash, the expansion introduces fire-themed card effects that can be mixed with the original Oriflamme or played entirely on their own. Like the base game, players build an Influence Queue of face-down cards over six rounds and score the most influence points to claim victory, but the new cards add fresh tactical layers and deceptive possibilities that expand the game's strategic palette.
+
+upgrades: []

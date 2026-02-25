@@ -1,0 +1,54 @@
+id: red-barricades-asl-historical-module-1
+name: "Red Barricades: ASL Historical Module 1"
+alternate_names: ["Red Barricades"]
+year: 1990
+
+# Relationships
+game_family: advanced-squad-leader
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Historical
+  - War
+  - Campaign Mode
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Powerful
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Charlie Kibler
+publisher:
+  - Avalon Hill
+  - Multi-Man Publishing
+artist: []
+playtime_minutes: 480
+min_playtime: 240
+max_playtime: 720
+min_age: 16
+
+description: |
+  Red Barricades: ASL Historical Module 1 is a groundbreaking expansion for Advanced Squad Leader designed by Charlie Kibler and published by Avalon Hill in 1990, covering the brutal urban fighting around the Krasny Barrikady ordnance factory during the Battle of Stalingrad in 1942. The module introduced Campaign Games (CGs) to ASL — multi-scenario battles spread over several game sessions simulating days of continuous fighting — alongside standalone scenarios. Two historically accurate maps and three Campaign Games make it the most celebrated and complex expansion in the ASL system, later incorporated into the Red Factories module by Multi-Man Publishing.
+
+upgrades: []

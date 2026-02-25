@@ -1,0 +1,54 @@
+id: roll-for-it
+name: "Roll For It!"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Set Collection
+  - Family
+  - Filler
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Chris Leder
+publisher:
+  - Calliope Games
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Roll For It! is a light dice-and-card game by Chris Leder in which players compete to claim target cards by matching the required dice combinations shown on each card. On each turn, players roll their personal set of colored dice, place any matches on target cards, and reroll the remainder — committed dice stay on cards until the target is completed. Three target cards are available simultaneously, creating tactical decisions about which targets to pursue and which opponents to race against. Its minimal rules and 20-minute playtime make it an ideal family filler and introduction to dice games for all ages.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: pax-romana
+name: "Pax Romana"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Wargame
+  - Ancient
+  - Historical
+  - Negotiation
+  - Economic
+
+evokes:
+  - Powerful
+  - Masterful
+  - Agency
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [4]
+
+designer:
+  - Neil Randall
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 600
+min_playtime: 240
+max_playtime: 2400
+min_age: 16
+
+description: |
+  Pax Romana is an epic multi-player wargame covering Mediterranean history from 300 BCE through 50 CE, with players commanding Rome, Carthage, Greece, and the Eastern empires in their struggles for dominance. The game features hundreds of counters, dozens of pages of intricate rules, and scenarios ranging from focused two-player confrontations to full four-player campaigns that can span 40 or more hours. Military conquest, political maneuvering, economic development, and diplomatic dealings all interweave as civilizations rise and fall across the ancient world. Published by GMT Games in a second edition, Pax Romana is widely regarded as one of the most ambitious and comprehensive ancient world simulations available.
+
+upgrades: []

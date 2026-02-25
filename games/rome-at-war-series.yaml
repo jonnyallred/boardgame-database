@@ -1,0 +1,54 @@
+id: rome-at-war-series
+name: "Rome at War Series"
+alternate_names:
+  - Rome at War
+year: 2000
+
+# Relationships
+game_family: rome-at-war
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Historical
+  - War
+  - Wargame
+  - Ancient
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Stephen C. Jackson
+publisher:
+  - Avalanche Press
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  The Rome at War series is a board wargame series published by Avalanche Press covering ancient land combat from the Roman era, initiated with the release of Hannibal at Bay in 2000 and designed by ancient warfare authority Stephen C. Jackson. The series employs a distinctive "miniatures" look for playing pieces, with dramatic three-quarter views of legions, phalanxes, cavalry, and other combat units. Games in the series span Roman history from the Punic Wars to frontier battles against barbarian armies, offering tactical-level coverage of key engagements with units rated for combat strength and morale. The series provides an accessible entry point into ancient wargaming with streamlined rules that still capture the essential character of Roman-era combat.
+
+upgrades: []

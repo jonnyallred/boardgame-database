@@ -1,0 +1,53 @@
+id: rise-and-fall
+name: "Rise & Fall"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Simultaneous Action
+  - Civilization
+  - Abstract
+  - Variable Player Powers
+
+evokes:
+  - Agency
+  - Rivalry
+  - Powerful
+  - Clever
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Christophe Boelinger
+publisher:
+  - Ludically
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Rise & Fall is a deterministic civilization game designed by Christophe Boelinger in which players grow a tribe into a full civilization across a fantasy landscape of glaciers, islands, and cliffs. Starting with a village, a citizen, and a ship, players expand their civilization through temples, merchants, and mountaineers using a simultaneous card reveal mechanism — all players secretly choose a Civilization card, then the active player activates units matching the card played. A powerful decline mechanic means that when a player places their last unit of any type, everyone must discard a card permanently, representing civilizational decay. This luck-free design creates an intense strategic puzzle of timing, positioning, and resource management.
+
+upgrades: []

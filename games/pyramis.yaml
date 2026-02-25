@@ -1,0 +1,49 @@
+id: pyramis
+name: "Pyramis"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - No Math
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Pyramis is a two-player abstract strategy game in which players compete to build or claim a pyramidal arrangement of pieces on the board. Players alternate placing tiles or tokens that form pyramid-like structures, with scoring based on the completed layers and configurations achieved. A lesser-known abstract game, Pyramis challenges players with spatial reasoning and forward planning in compact play sessions.
+
+upgrades: []

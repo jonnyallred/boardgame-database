@@ -1,0 +1,54 @@
+id: salamanca
+name: "Salamanca"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - Tile Placement
+  - Euro
+  - Medieval
+  - Historical
+
+evokes:
+  - Agency
+  - Clever
+  - Rivalry
+  - Progress
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Michael Feldkotter
+publisher:
+  - Zoch Verlag
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Salamanca is a Euro-style area control game set in 16th-century Spain, in the province of Salamanca, where ambitious noble families compete to reclaim and develop the dry hinterlands around their castles. Players use cards from their hand to obtain tiles — buildings, landscapes, and privileges — and place them on tactically important spaces on the game board, competing for regional dominance. The card-driven resource and placement system rewards clever hand management and timing, as players vie for the most valuable territories. The game delivers a compact area control experience with a distinctive historical Spanish setting.
+
+upgrades: []

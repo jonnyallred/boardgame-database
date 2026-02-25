@@ -1,0 +1,58 @@
+id: rats-of-wistar
+name: "Rats of Wistar"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Variable Player Powers
+  - Hand Management
+  - Euro
+  - Animals
+  - Simone Luciani
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Simone Luciani
+  - Danilo Sabia
+publisher:
+  - Cranio Creations
+  - Capstone Games
+artist:
+  - Candida Corsi
+  - Sara Valentino
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Rats of Wistar is a competitive worker placement game designed by Simone Luciani and Danilo Sabia, published by Cranio Creations (Italy) and Capstone Games (English). Players take the roles of rats who have escaped from the famous Wistar Institute laboratory, leading their families to prove their clan is most deserving to lead the entire colony. The game features asymmetric rat abilities, card-driven actions, and evolving board states that reward long-term planning. An homage to the beloved children's novel Mrs. Frisby and the Rats of NIMH, it blends rich thematic flavor with deep Euro-style mechanics.
+
+upgrades: []

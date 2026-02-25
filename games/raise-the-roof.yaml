@@ -1,0 +1,50 @@
+id: raise-the-roof
+name: "Raise the Roof"
+alternate_names: []
+year: 1982
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Take That
+  - Family
+
+evokes:
+  - Humor
+  - Rivalry
+  - Lucky
+  - Tension
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Henard Industries
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Raise the Roof is a card game published by Henard Industries in 1982 in which players race to construct a complete house of cards while simultaneously sabotaging their opponents' building efforts. Players collect the rooms and systems needed to finish their home while playing disaster cards — fires, labor problems, and other calamities — against rivals. The game blends light construction management with take-that card play in a family-friendly format, and was discontinued after a few years in print.
+
+upgrades: []

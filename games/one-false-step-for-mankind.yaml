@@ -1,0 +1,52 @@
+id: one-false-step-for-mankind
+name: "One False Step for Mankind"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Resource Management
+  - Racing
+  - Sci-Fi
+
+evokes:
+  - Progress
+  - Rivalry
+  - Humor
+  - Agency
+  - Clever
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - James Ernest
+publisher:
+  - Cheapass Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  One False Step for Mankind is a resource-management game by James Ernest for 3-6 players set during the California Gold Rush of 1849, in which players are wealthy town mayors mining gold, farming, building cities, and — most importantly — constructing rockets to be the first to fly to the Moon. The title is a sardonic play on Neil Armstrong's famous quote ("one false step for mankind, one giant leap for you"), and the game's satirical blend of frontier economics with space-age ambition gives it a distinctive comedic tone. Players accumulate influence points through a variety of economic activities, with the first to 30 influence points becoming California's governor and winning the game. Published by Cheapass Games in 2003, it is one of their more complex and longer-playing designs.
+
+upgrades: []

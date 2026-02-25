@@ -1,0 +1,55 @@
+id: piece-o-cake
+name: "Piece o' Cake"
+alternate_names: ["Ein Stück vom Kuchen"]
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Auctions/Bidding
+  - Drafting
+  - Family
+  - Filler
+  - Food Theme
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Jeffrey D. Allers
+publisher:
+  - Winning Moves Germany
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Piece o' Cake (also known as "Ein Stück vom Kuchen") is a light set-collection game in which players divide five cakes into slices and decide whether to eat each piece for immediate points or collect it to potentially score more at game end. One player divides a cake into slices and then opponents in turn order choose a slice — but the divider takes what is left. When eating a slice, players score the number of dollops shown; when collecting, players compete for end-game majority in each variety. The elegantly simple I-cut-you-choose mechanic, combined with the eat-or-keep tension, packs surprising decisions into a very accessible package. Later reimagined as New York Slice with a pizza theme.
+
+upgrades: []

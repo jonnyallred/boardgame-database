@@ -1,0 +1,54 @@
+id: prophecy
+name: "Prophecy"
+alternate_names: ["Proroctví"]
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Variable Player Powers
+  - Modular Board
+  - Fantasy
+  - Ameritrash
+  - Adventure
+
+evokes:
+  - Powerful
+  - Discovery
+  - Progress
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - David Munday
+publisher:
+  - Altar Games
+  - Z-Man Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Prophecy is a Czech fantasy adventure game in which players take on the roles of heroes exploring a modular fantasy world, battling monsters, collecting artifacts, and growing in power. Each hero has unique abilities and must race to acquire sufficient power to challenge and defeat the mystical Prophecy before their rivals do. Originally published by Altar Games in 2002, the game received two subsequent editions from Z-Man Games in 2007 and 2014, broadening its international reach.
+
+upgrades: []

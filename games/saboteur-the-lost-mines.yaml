@@ -1,0 +1,54 @@
+id: saboteur-the-lost-mines
+name: "Saboteur: The Lost Mines"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: saboteur
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Traitor
+  - Hand Management
+  - Social Deduction
+  - Tile Placement
+  - Party
+  - Family
+
+evokes:
+  - Tension
+  - Mystery
+  - Humor
+  - Rivalry
+  - Agency
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9]
+true_counts: [4, 5, 6]
+
+designer:
+  - Frederic Moyersoen
+publisher:
+  - AMIGO
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Saboteur: The Lost Mines is a standalone board game spin-off of the classic Saboteur card game designed by Frederic Moyersoen, drawing on elements from the base game, its expansion, and the two-player version while offering a fresh board-game experience. Players take on the roles of dwarves from different clans exploring a network of mine tunnels, with hidden saboteurs among them working to foil the exploration. The clan-based mechanics add a new layer to the social deduction formula, as players must identify which of their allies are traitors while cooperating enough to reach the lost mines. Its elevated component quality and expanded mechanics make it a more robust alternative for groups who love the Saboteur brand.
+
+upgrades: []

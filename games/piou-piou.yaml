@@ -1,0 +1,51 @@
+id: piou-piou
+name: "Piou Piou"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Family
+  - Animals
+
+evokes:
+  - Humor
+  - Lucky
+  - Connection
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Djeco
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Piou Piou is a light French card game published by Djeco for 2–5 players in which players race to hatch three chicks before opponents do. Players take turns playing hen, rooster, and nest cards in combinations that allow them to lay eggs, hatch chicks, or steal eggs from rivals, while also worrying about the fox stealing them. The game deals 4 cards to each player with the remainder available as a draw pile. Its cheerful illustrated components, barnyard theme, and simple mechanics make it an excellent introductory card game for children ages 6 and up, completing in well under 20 minutes.
+
+upgrades: []

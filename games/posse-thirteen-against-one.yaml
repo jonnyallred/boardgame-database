@@ -1,0 +1,50 @@
+id: posse-thirteen-against-one
+name: "Posse: Thirteen Against One"
+alternate_names: []
+year: 1970
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - 1 vs Many
+  - Western
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Posse: Thirteen Against One is an asymmetric abstract strategy game with an Old West theme published by Milton Bradley in 1970. One player controls the lone Outlaw, the other controls 13 deputies forming the Posse. The Outlaw moves orthogonally across the board and can jump over (and eliminate) deputies as in checkers, trying to reduce the posse to an unwinnable number. The Posse wins by surrounding the Outlaw such that they cannot move. The highly asymmetric setup creates very different strategic challenges for each side in a fast, elegant two-player experience.
+
+upgrades: []

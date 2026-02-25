@@ -1,0 +1,55 @@
+id: ostrakon
+name: "Ostrakon"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Bluffing
+  - Party
+  - Family
+  - Ancient
+  - Mythology
+
+evokes:
+  - Clever
+  - Persuasion
+  - Humor
+  - Tension
+  - Mystery
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [5, 6, 7]
+
+designer:
+  - Silvano Sorrentino
+publisher:
+  - daVinci Games
+  - Mayfair Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Ostrakon is a social deduction card game published by daVinci Games and Mayfair Games in 2004, themed around the ancient Athenian practice of ostracism in which citizens voted to exile prominent figures by writing names on clay fragments called ostraka. One player acts as a philosopher posing a question with only two possible answers, while others vote for the answer they personally prefer — but the philosopher secretly predicts which side will get more votes. The game rewards players who can read social dynamics, predict group preferences, and strategically phrase questions to manipulate the majority. Its artwork evokes ancient Greek pottery and mosaics, giving it an appropriately classical atmosphere.
+
+upgrades: []

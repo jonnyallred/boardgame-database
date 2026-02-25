@@ -1,0 +1,52 @@
+id: push
+name: "Push"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Press Your Luck
+  - Set Collection
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Prospero Hall
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 8
+
+description: |
+  Push is a simple and energetic press-your-luck card game published by Ravensburger in which players alternate drawing colored number cards and placing them into stacks on the table, aiming to build unique stacks with no repeated colors or numbers. The tension comes from deciding when to stop and claim the stacks, versus pushing your luck by drawing more cards with increasingly risky odds. Quick to learn and filled with agonizing near-bust moments, Push excels as a lively filler for mixed-age groups.
+
+upgrades: []

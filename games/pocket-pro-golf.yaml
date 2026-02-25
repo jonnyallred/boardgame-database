@@ -1,0 +1,50 @@
+id: pocket-pro-golf
+name: "Pocket Pro Golf"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Card Drafting
+  - Modular Board
+  - Family
+
+evokes:
+  - Agency
+  - Clever
+  - Tension
+  - Lucky
+  - Progress
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - LDG
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 90
+min_age: 10
+
+description: |
+  Pocket Pro Golf is a compact card-based golf simulation game in which 1–4 players play through holes constructed from modular cards representing fairways, rough, hazards, and greens. Players select clubs, account for wind conditions, and choose swing tempo to determine shot outcomes across holes that can represent any real-world golf course layout or be configured randomly. The game's portability — small enough to fit in a golf bag — and its simulation of authentic golf decision-making (club selection, aim, swing tempo) make it a appealing travel game for golf enthusiasts who want a strategic alternative to luck-heavy miniature golf games.
+
+upgrades: []

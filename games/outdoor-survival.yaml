@@ -1,0 +1,52 @@
+id: outdoor-survival
+name: "Outdoor Survival"
+alternate_names: []
+year: 1972
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Survival
+  - Wargame
+  - Historical
+
+evokes:
+  - Tension
+  - Agency
+  - Discovery
+  - Dread
+  - Lucky
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Randall C. Reed
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  Outdoor Survival is a 1972 Avalon Hill board game simulating wilderness survival across a three-part hex-grid map covering over 13,000 square miles of mountain, forest, and desert terrain. Players manage food, water, and stamina while navigating toward safety, facing natural hazards and wildlife in multiple scenarios ranging from solo escape to competitive pursuit. One of Avalon Hill's perennial bestsellers, it sold primarily through outdoor gear stores and outdoor sports channels rather than traditional toy outlets. Notably, Gary Gygax cited it in the original 1974 Dungeons and Dragons rules as recommended equipment for wilderness adventuring, cementing its place in roleplaying game history.
+
+upgrades: []

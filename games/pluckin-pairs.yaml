@@ -1,0 +1,51 @@
+id: pluckin-pairs
+name: "Pluckin' Pairs"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Simultaneous Action
+  - Party
+  - Family
+  - Social Deduction
+
+evokes:
+  - Clever
+  - Connection
+  - Humor
+  - Tension
+  - Discovery
+
+possible_counts: [3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6, 7, 8]
+
+designer: []
+publisher:
+  - R&R Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Pluckin' Pairs is a party game from R&R Games in which 3–8 players simultaneously create pairs from a shared tableau of 11 image cards in 90 seconds — one image is always left unpaired. Players secretly write down their chosen pairs and their reasoning (coins and manholes both being round, for example), then reveal. Scoring rewards consensus: if only some players made the same pair, each of those players scores points equal to the number of players who agreed. No agreement and no points; universal agreement and no points — the sweet spot is partial consensus. The game won the Creative Child Game of the Year and excels at sparking creative conversation about associations.
+
+upgrades: []

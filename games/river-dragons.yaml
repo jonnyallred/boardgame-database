@@ -1,0 +1,55 @@
+id: river-dragons
+name: "River Dragons"
+alternate_names:
+  - Dragon Delta
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Programmed Movement
+  - Route Building
+  - Simultaneous Action
+  - Abstract
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Roberto Fraga
+publisher:
+  - Matagot
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 7
+
+description: |
+  River Dragons is a delightful simultaneous action programming game in which players race to cross the Mekong Delta by building bridges of planks and foundations. Each turn, all players secretly and simultaneously select five actions in order — placing stones, placing planks, moving their pawn, canceling another player's action, or removing planks — then reveal and execute them in sequence. The catch is that all planned moves must be committed before knowing what opponents chose, leading to gleefully disrupted plans as players' carefully laid bridges get removed by rivals. This reprint of the 2000 game Dragon Delta from Roberto Fraga maintains its charm as a light programming game full of chaotic surprises.
+
+upgrades: []

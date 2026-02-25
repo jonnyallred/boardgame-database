@@ -1,0 +1,54 @@
+id: pueblo
+name: "Pueblo"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Take That
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Pueblo is an abstract 3D building game designed by the award-winning duo Wolfgang Kramer and Michael Kiesling, published by Ravensburger in 2002. Players place wooden building blocks to construct a pueblo village while trying to hide their own colored blocks from the roaming Chief figure, who reveals hidden block faces and scores penalty points against the owning players. The goal is to avoid scoring — the player with the fewest exposed blocks wins, creating a tense strategic puzzle of concealment and misdirection.
+
+upgrades: []

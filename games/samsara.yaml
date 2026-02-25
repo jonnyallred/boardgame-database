@@ -1,0 +1,52 @@
+id: samsara
+name: "Samsara"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Deck Building
+  - Rondel
+  - Action Points
+  - Abstract
+  - Mythology
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Wonder
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Oka Luda
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Samsara is a deck-building and pawn-movement game published by Oka Luda, in which players guide their characters around an octagonal rondel game board on a spiritual journey toward Nirvana. The game board is structured as a cycle — Samsara, the cycle of rebirth — and players land on different sections to acquire cards and advance toward the game's spiritual goal. The design won recognition as a prototype twice in France in 2016, earning the Ludix d'Or and Prix du Fou du Jeu awards before its Kickstarter commercial release. Its meditative theme, cycling board structure, and deck-building mechanics combine to create a thematically coherent experience inspired by Buddhist cosmology.
+
+upgrades: []

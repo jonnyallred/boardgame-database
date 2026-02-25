@@ -1,0 +1,53 @@
+id: rolling-stock
+name: "Rolling Stock"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Auctions/Bidding
+  - Trains
+  - Trading
+  - Negotiation
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Bjorn Rabenstein
+publisher:
+  - All-Aboard Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Rolling Stock is a deep economic card game inspired by the 18XX railroad stock market tradition, designed by Bjorn Rabenstein, in which players are investors buying private companies at auction and developing them into public corporations. Players bid for private companies, then decide whether to take them public via an IPO or sell them as subsidiaries to existing corporations; the majority shareholder of each corporation controls its actions including issuing shares, paying dividends, and acquiring subsidiaries. The layered financial mechanisms — market prices, dividends, share dilution, and foreign investor dynamics — create an intense economic simulation that rewards careful long-term strategic thinking. It occupies a rare niche as an 18XX-style experience without requiring a railroad map.
+
+upgrades: []

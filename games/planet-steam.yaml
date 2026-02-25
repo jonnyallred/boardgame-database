@@ -1,0 +1,55 @@
+id: planet-steam
+name: "Planet Steam"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Resource Management
+  - Economic
+  - Auctions/Bidding
+  - Steampunk
+  - Variable Setup
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Arnd zur Nieden
+publisher:
+  - Queen Games
+  - Stronghold Games
+artist:
+  - Ian McQue
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Planet Steam is a steampunk-themed economic strategy game for 2–5 players in which entrepreneurs race to claim plots in a steam-powered boomtown, extract resources using specialized tank and converter equipment, and profit from a volatile open market. Players assemble equipment networks to harvest energy, ore, and quartz from steam vents, then buy and sell on a fluctuating market, with the richest entrepreneur winning after a fixed number of rounds. The game features a large board, high-quality components with strong steampunk aesthetics, and an interconnected economy of resource extraction, market dynamics, and equipment building that rewards efficient planning and market timing.
+
+upgrades: []

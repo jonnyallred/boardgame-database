@@ -1,0 +1,50 @@
+id: probe
+name: "Probe"
+alternate_names: ["Probe: Game of Words"]
+year: 1964
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Deduction
+  - Word Play
+  - Family
+
+evokes:
+  - Mystery
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Probe is a classic word deduction game published by Parker Brothers in 1964 in which each player secretly selects a word of 12 letters or fewer and arranges letter cards face-down on their display rack. Players take turns asking any opponent if they hold a specific letter; if yes, the corresponding card is flipped face-up. An activity deck adds surprises by altering scores or revealing letters. The first player to guess all opponents' words wins, blending the hidden-information tension of Battleship with vocabulary skills.
+
+upgrades: []

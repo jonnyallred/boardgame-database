@@ -1,0 +1,53 @@
+id: quiddler
+name: "Quiddler"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Word Play
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Complete
+  - Rivalry
+  - Lucky
+  - Progress
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5]
+
+designer:
+  - Marsha J. Falco
+publisher:
+  - Set Enterprises
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Quiddler is a short word card game designed by Marsha J. Falco and published by Set Enterprises in 1998. Players are dealt increasing hand sizes each round (starting at three cards, ending at ten) and must arrange all cards into one or more valid English words, scoring the point values printed on each card. Bonus points are awarded for the most words in a round and the longest word, adding extra incentive. Featuring beautifully illustrated Celtic illuminated letter art, Quiddler has won over 20 Best Game Awards and blends Scrabble's vocabulary challenge with the hand management of gin rummy.
+
+upgrades: []

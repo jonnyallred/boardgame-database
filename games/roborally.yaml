@@ -1,0 +1,57 @@
+id: roborally
+name: "RoboRally"
+alternate_names:
+  - Robo Rally
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Programmed Movement
+  - Racing
+  - Modular Board
+  - Simultaneous Action
+  - Sci-Fi
+  - Cult Classic
+  - Richard Garfield
+
+evokes:
+  - Humor
+  - Tension
+  - Clever
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5]
+
+designer:
+  - Richard Garfield
+publisher:
+  - Wizards of the Coast
+artist:
+  - Phil Foglio
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 180
+min_age: 12
+
+description: |
+  RoboRally is Richard Garfield's chaotic programming game in which players simultaneously program robots to race through a hazard-filled widget factory, trying to reach checkpoints in order while conveyor belts, lasers, crushers, and pits conspire against them. Each round players draft five program cards from a hand of nine — choosing forward moves, rotations, backups, and U-turns — then execute them phase by phase in a beautiful, often catastrophic ballet of robots careening off course. Delayed programming and interactive factory hazards create delightful chaos as well-laid plans go hilariously wrong, cementing RoboRally as a beloved cult classic of the programming game genre.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: raiders-and-traders
+name: "Raiders and Traders"
+alternate_names: ["Raiders and Traders: The Heroic Age of Greece"]
+year: 1979
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Economic
+  - Historical
+  - Ancient
+  - Maritime
+
+evokes:
+  - Agency
+  - Rivalry
+  - Powerful
+  - Discovery
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Donald Dupont
+publisher:
+  - Chaosium
+artist:
+  - Donald Dupont
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Raiders and Traders: The Heroic Age of Greece is a historical board game designed and illustrated by Donald Dupont and published by Chaosium in 1979. Set in the ancient Aegean world, players command rival Greek city-states, engaging in maritime trade, exploration, and military raids across the islands and coastlines. Players balance economic expansion through trading with aggressive raiding against competitors, capturing the dual pillars of ancient Greek society that inspired the game's title.
+
+upgrades: []

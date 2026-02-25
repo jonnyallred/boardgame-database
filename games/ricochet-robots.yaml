@@ -1,0 +1,54 @@
+id: ricochet-robots
+name: "Ricochet Robots"
+alternate_names:
+  - Rasende Roboter
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Modular Board
+  - Abstract
+  - Family
+  - Simultaneous Action
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [3, 4, 5, 6]
+
+designer:
+  - Alex Randolph
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Ricochet Robots is a classic simultaneous puzzle game in which players race to find the fewest-move solution to navigate a robot to its target on a modular warehouse board. Robots slide without stopping until they hit a wall or another robot, creating a uniquely constrained movement system that makes even simple-looking paths into elegant puzzles. All players study the board simultaneously and bid the number of moves they think is required; the player who claims they can do it in the fewest moves must then demonstrate their solution. Its simple rules mask deep spatial reasoning, and the modular board ensures no two games are the same.
+
+upgrades: []

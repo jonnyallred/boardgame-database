@@ -1,0 +1,50 @@
+id: oust
+name: "Oust"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mark Steere
+publisher:
+  - Mark Steere Games
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 10
+
+description: |
+  Oust is a minimalist two-player abstract strategy game designed by Mark Steere in 2007, played on a hex grid (or alternatively with a Go set) in which players place stones and win by eliminating all of the opponent's groups in a single devastating turn. The core mechanic is elegant: you may only place a stone that connects your existing groups into one that is larger than all the enemy groups it newly touches — upon which all those enemy groups are immediately removed. Starting from an empty board, the game paradoxically must end in one army completely annihilating the other. Oust is considered Mark Steere's most popular and influential design, combining extreme simplicity of rules with profound tactical depth, and is freely available to print and play.
+
+upgrades: []

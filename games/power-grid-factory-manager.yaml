@@ -1,0 +1,55 @@
+id: power-grid-factory-manager
+name: "Power Grid: Factory Manager"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: power-grid
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Worker Placement
+  - Economic
+  - Resource Management
+  - Euro
+  - Friedemann Friese
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Friedemann Friese
+publisher:
+  - Rio Grande Games
+artist:
+  - Harald Lieske
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Power Grid: Factory Manager is a standalone game in Friedemann Friese's Power Grid universe in which 2–5 players compete to run the most efficient and profitable factory over five rounds. Each player manages workers, bids on machines and robots in a competitive auction, and must carefully balance production output against ever-rising energy costs. Factories start with identical layouts, but players differentiate through acquired machines that improve production, storage, or efficiency. The game ends after five rounds and the player with the most money wins, rewarding careful planning and opportunistic bidding in a tightly designed economic puzzle that stands fully independent of the original Power Grid.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: rise-and-decline-of-the-third-reich
+name: "Rise and Decline of the Third Reich"
+alternate_names: []
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Resource Management
+  - Historical
+  - War
+  - Wargame
+
+evokes:
+  - Masterful
+  - Agency
+  - Powerful
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 6]
+
+designer:
+  - John Prados
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 480
+min_playtime: 360
+max_playtime: 720
+min_age: 14
+
+description: |
+  Rise and Decline of the Third Reich is a landmark grand strategy wargame covering the entire European theater of World War II from 1939 to 1946, designed by John Prados and published by Avalon Hill in 1974. Up to six players command the major powers — Germany, Italy, United Kingdom, France, the Soviet Union, and the United States — managing the interplay of economics, politics, and multi-domain warfare across land, sea, air, and strategic bombing campaigns. The game won the Charles S. Roberts Award for Best Professional Game of 1974 and influenced an entire generation of grand strategy wargames, eventually spawning the Advanced Third Reich variant. Its breadth of simulation and historical scope remain impressive even by modern standards.
+
+upgrades: []

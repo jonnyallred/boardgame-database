@@ -1,0 +1,54 @@
+id: panzerkrieg-von-manstein-heeresgruppe-sud
+name: "Panzerkrieg: von Manstein & HeeresGruppe Süd"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - John Prados
+publisher:
+  - Operational Studies Group
+  - Avalon Hill
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Panzerkrieg: von Manstein & HeeresGruppe Süd is an operational-level hex-and-counter wargame covering the German military operations in southern Russia during World War II, from the initial invasion through the campaigns in the Caucasus. First published by Operational Studies Group in 1978 and later acquired by Avalon Hill in 1983, the game features eight historical scenarios and 520 counters on a map spanning from Romania and Poland westward to the Caucasus Mountains. Players maneuver armored and infantry formations, balancing supply lines and operational tempo in a moderately complex simulation of the Eastern Front's southern theater.
+
+upgrades: []

@@ -1,0 +1,48 @@
+id: push-puppets
+name: "Push Puppets"
+alternate_names: []
+year: 1950
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 0  # Solitary
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+
+evokes:
+  - Humor
+  - Wonder
+  - Lucky
+  - Connection
+  - Discovery
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 3
+
+description: |
+  Push Puppets are classic novelty toys consisting of small character figures mounted on collapsible platforms — pressing the button on the base causes the figure to collapse comically, and releasing it pops back upright. While primarily a toy, Push Puppets have been incorporated into tabletop game activities where players race to collapse opponents' puppets or compete in dexterity challenges. An enduring piece of mid-20th century toy design, they are listed in board game catalogs as a tactile play item.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: saipan-conquest-of-the-marianas-june-1944
+name: "Saipan: Conquest of the Marianas, June 1944"
+alternate_names:
+  - Saipan: Conquest of the Marianas
+year: 1975
+
+# Relationships
+game_family: island-war
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Historical
+  - War
+  - Wargame
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kevin Zucker
+  - Jay Nelson
+publisher:
+  - SPI
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Saipan: Conquest of the Marianas, June 1944 is a compact two-player board wargame published by Simulations Publications Inc. (SPI) in 1975, simulating the pivotal American amphibious assault on the Japanese-held island of Saipan during World War II. Originally published as one of four games in the "Island War: Four Pacific Battles" collection, it was also released as a standalone game. The compact 17x22-inch hex grid map with only 100 counters and basic rules makes it a relatively accessible entry point into Pacific theater wargaming. One player commands the American invasion forces while the other defends with Japanese forces, recreating a crucial 1944 battle that shaped the war's outcome in the Pacific.
+
+upgrades: []

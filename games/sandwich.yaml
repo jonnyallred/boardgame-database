@@ -1,0 +1,51 @@
+id: sandwich
+name: "Sandwich"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Party
+  - Family
+  - Filler
+  - Food Theme
+
+evokes:
+  - Humor
+  - Lucky
+  - Rivalry
+  - Connection
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Sandwich is a food-themed card game in which players compete to build wacky sandwiches and score points by having other players rate their creations. The game plays quickly and is oriented toward light social fun, with the playful sandwich-building premise providing humor and creative expression for all ages. Players assemble ingredient combinations from hand cards and present their sandwiches to the table, with scoring based on how well they match the judging criteria. Its accessible premise and short playtime make it an ideal party filler for mixed groups.
+
+upgrades: []

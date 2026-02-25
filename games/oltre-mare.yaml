@@ -1,0 +1,56 @@
+id: oltre-mare
+name: "Oltre Mare"
+alternate_names:
+  - "Oltre Mare: Merchants of Venice"
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Trading
+  - Route Building
+  - Euro
+  - Maritime
+  - Medieval
+
+evokes:
+  - Clever
+  - Agency
+  - Progress
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Emanuele Ornella
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Oltre Mare is a trading card and set-collection game set among competing merchant families sailing the Mediterranean, originally published in 2004 and reprinted by Rio Grande Games. Players move ships from port to port, loading and delivering cargoes of seven different goods — spices, silk, silver, sugar, wine, wood, and grain — while trading with rival merchants and playing cards to earn money, draw cards, or advance their ships across the map. In spirit and mechanics, it closely resembles Bohnanza, with tight hand management constraints and lively trading at the heart of the experience. The combination of route management, hand limits, and negotiated trades creates a fast and social economic game.
+
+upgrades: []

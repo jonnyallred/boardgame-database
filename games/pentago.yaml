@@ -1,0 +1,51 @@
+id: pentago
+name: "Pentago"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Tomas Flodén
+publisher:
+  - Mindtwister USA
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Pentago is a two-player abstract strategy game played on a 6x6 board divided into four rotatable 3x3 quadrants. On each turn, a player places one marble of their color onto an empty space, then rotates any of the four quadrants 90 degrees clockwise or counterclockwise. The winner is the first to align five marbles in a row — horizontally, vertically, or diagonally — before or after the rotation. The mandatory twist mechanic radically transforms positions each turn, creating dramatic reversals and requiring deep forward-thinking. Winner of the Swedish Game of the Year in 2005 and the Mensa Select Award in 2006, Pentago offers exceptional depth in a deceptively simple package.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: quirks
+name: "Quirks"
+alternate_names: ["Quirks: The Game of Un-Natural Selection"]
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Card Drafting
+  - Events
+  - Nature
+  - Humor
+
+evokes:
+  - Humor
+  - Discovery
+  - Clever
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Eon Products
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Quirks is a lighthearted evolution card game published by Eon Products in 1980 in which players assemble bizarre plants, herbivores, and carnivores from interchangeable card segments, each granting special traits (quirks) that affect survival. Players adapt their creations to meet changing climate challenges and survive encounters with rivals' strange organisms. Featured in Games Magazine's Top 100 Games of 1981, Quirks blends creative set collection with humorous creature design in a game that remains charming decades later.
+
+upgrades: []

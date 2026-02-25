@@ -1,0 +1,54 @@
+id: santa-cruz
+name: "Santa Cruz"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Area Control
+  - Euro
+  - Family
+  - Gateway
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Marcel-Andre Casasola Merkle
+publisher:
+  - Hans im Glück
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Santa Cruz is a light tile-placement game designed by Marcel-André Casasola Merkle in which 2-4 players settle the island of Santa Cruz across two independent rounds. Players build houses, churches, and lighthouses while tapping available resources and collecting victory points through placement decisions. The two-round structure offers a satisfying arc within a modest 45-minute playtime, and the Euro sensibility of resource-efficient building decisions keeps the game accessible without feeling trivial. Santa Cruz won the 2012 Spiel der Spiele Game of the Year award in Austria, cementing its reputation as an excellent family gateway game.
+
+upgrades: []

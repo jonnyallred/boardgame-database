@@ -1,0 +1,51 @@
+id: pictureka
+name: "Pictureka!"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Party
+  - Family
+  - Puzzle Solving
+
+evokes:
+  - Tension
+  - Humor
+  - Rivalry
+  - Lucky
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Hasbro
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 35
+min_age: 6
+
+description: |
+  Pictureka! is a frantic visual-search party game by Hasbro in which players compete to spot hidden images across nine illustrated game tiles arranged in a 3x3 grid. Mission cards drive the action in three different ways: blue cards have all players race to spot a single specific object; red cards involve players bidding on how many of a specified object they can find; and green cards challenge a single player to find as many items as possible against a sand timer. The first to collect six mission cards wins. The modular tiles can be rearranged for variety, keeping the visual field fresh across multiple plays.
+
+upgrades: []

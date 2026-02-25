@@ -1,0 +1,49 @@
+id: rapier-and-dagger
+name: "Rapier & Dagger"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Abstract
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Rapier & Dagger is a two-player abstract wargame simulating one-on-one dueling combat with Renaissance-era weapons. Players maneuver their fighters across a grid, making attacks and defensive moves with rapier and dagger in a tactical dance of range and initiative. The game captures the strategic complexity of historical European martial arts in a condensed board game format.
+
+upgrades: []

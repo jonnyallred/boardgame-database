@@ -1,0 +1,52 @@
+id: pony-express
+name: "Pony Express"
+alternate_names: ["The Game of Pony Express"]
+year: 1947
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Economic
+  - Racing
+  - Western
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Tension
+  - Discovery
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Bert J. Bratt
+publisher:
+  - Polygon Corporation
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  Pony Express is a 1947 American board game published by Polygon Corporation in which 2–4 players take on the roles of rival Pony Express owners trying to run each other out of business. The goal is to be the last player with money remaining. Players use the iconic Pony Express mail delivery route as its competitive backdrop, with riding and financial attrition mechanics deciding the winner. The metal playing pieces and Wild West theme make it a charming artifact of midcentury American gaming history.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: phoenix-new-horizon
+name: "Phoenix: New Horizon"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Network Building
+  - Resource Management
+  - Euro
+  - Sci-Fi
+  - Civilization
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Complete
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Jorge J. Barroso
+publisher:
+  - Perro Loko Games
+artist:
+  - Jorge Tabanera Redondo
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Phoenix: New Horizon is a Euro-style worker placement game from Perro Loko Games in which 1–4 players control teams of commandos tasked with recolonizing Earth across four rounds. Players accumulate victory points by constructing regenerators and buildings, growing the planet's population, and completing diverse objectives that change between playthroughs. The game features different worker types with unique abilities, connection-based network building, and contract fulfillment for additional scoring. Variable setup ensures high replayability, and the cooperative rebuilding-of-civilization theme creates a satisfying sense of progress across the game's arc.
+
+upgrades: []

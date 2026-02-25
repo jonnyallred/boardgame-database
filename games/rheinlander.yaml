@@ -1,0 +1,55 @@
+id: rheinlander
+name: "Rheinländer"
+alternate_names:
+  - Rheinlander
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - Abstract
+  - Euro
+  - Medieval
+  - Reiner Knizia
+
+evokes:
+  - Rivalry
+  - Clever
+  - Agency
+  - Tension
+  - Masterful
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Rheinländer is an area control game by Reiner Knizia in which players take on the roles of dukes vying for dominance of territories along the Rhine River in medieval Germany. On each turn, players play a card from hand to place a knight on the board, or draw a ship card to move a trading ship downriver, potentially scoring bonus points. Victory goes to the player who accumulates the most points by enclosing and controlling "duchies" — contiguous regions of the river. Its deceptively simple rules hide a highly tactical game of hand management and territorial enclosure.
+
+upgrades: []

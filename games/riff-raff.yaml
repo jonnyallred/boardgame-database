@@ -1,0 +1,53 @@
+id: riff-raff
+name: "Riff Raff"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Simultaneous Action
+  - Family
+  - Filler
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Christoph Cantzler
+publisher:
+  - Zoch Verlag
+artist:
+  - Michael Menzel
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Riff Raff is a wildly entertaining dexterity and balance game where players compete to load wooden cargo — sailors, bottles, rats, and crates — onto a swaying pirate ship suspended by a cardanic hinge mechanism. Each round, players simultaneously choose a numbered card to determine placement order, then take turns placing pieces onto the ship's body and three rotating yardarms. If the ship tips and cargo falls, whatever you fail to catch is added back to your pile. The first player to unload all their cargo wins, making for a hilarious and tense balancing act that delights players of all ages.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: numble
+name: "Numble"
+alternate_names:
+  - "Numble: The Cross-Number Game"
+year: 1968
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Puzzle Solving
+  - Family
+  - No Math
+
+evokes:
+  - Clever
+  - Complete
+  - Agency
+  - Tension
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Selchow and Righter
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Numble: The Cross-Number Game is a mathematical tile-placement game from 1968 by Selchow and Righter, the maker of Scrabble, using the same board, wooden holders, and wooden number tiles as that classic word game but replacing words with arithmetic. Players lay sequences of numbered tiles whose face values must sum to a multiple of three, with double and triple value spaces on the board that must be factored into the required total. Like Scrabble, tiles are placed in intersecting patterns and must connect to existing tiles. A short-lived but beloved curiosity from the crossword game era, Numble was discontinued after limited commercial success but remains sought after by vintage game collectors.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: quarriors
+name: "Quarriors!"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Bag Building
+  - Dice Rolling
+  - Deck Building
+  - Fantasy
+  - Eric Lang
+
+evokes:
+  - Lucky
+  - Powerful
+  - Rivalry
+  - Clever
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Eric Lang
+  - Mike Elliott
+publisher:
+  - WizKids
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Quarriors! is a pioneer of the dice-building genre, in which players draw custom dice from cloth bags and roll them to generate quiddity (currency), summon creature dice, and cast spell dice to attack opponents. Players compete to earn Glory by keeping summoned creatures alive for a full round, while using spells and creatures to destroy rivals. Designed by Eric Lang and Mike Elliott and published by WizKids in 2011, the game translates deck-building mechanics into physical dice, creating a fast and tactile experience with a fantasy theme.
+
+upgrades: []

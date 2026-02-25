@@ -1,0 +1,52 @@
+id: pelican-cove
+name: "Pelican Cove"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Real-time
+  - Puzzle Solving
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Clever
+  - Complete
+  - Rivalry
+  - Masterful
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - SimplyFun
+  - KOSMOS
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Pelican Cove is a fast-paced spatial puzzle game in which players race against a sand timer to arrange eight plastic pelican figures on their individual boards according to a set of placement rules. Each round presents new configuration rules that determine where each colored pelican must or must not sit, and players must figure out a valid arrangement before time runs out. Over six rounds, players accumulate penalty stones for failed arrangements, and the player with the fewest penalties wins. Published by SimplyFun and KOSMOS, the game combines logical deduction and spatial reasoning in a quick, accessible format that works well as an educational game.
+
+upgrades: []

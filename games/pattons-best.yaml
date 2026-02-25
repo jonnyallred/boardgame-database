@@ -1,0 +1,52 @@
+id: pattons-best
+name: "Patton's Best"
+alternate_names: []
+year: 1987
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Powerful
+  - Dread
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Bruce Shelley
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Patton's Best is a solitaire wargame published by Avalon Hill in 1987 in which the player commands an M4 Sherman tank and crew belonging to George S. Patton's 4th Armored Division in Northern Europe during World War II. Played on an abstract map representing hypothetical territory in Normandy, players manage crew actions and engage in strictly ordered encounter sequences driven by the game's built-in artificial intelligence system. Random encounters, vehicle damage tracking, and crew management combine to create a tense single-player tank simulation. Designed by Bruce Shelley, it stands alongside Ambush! as a classic of the solitaire wargame genre.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: push-a-monster
+name: "Push a Monster"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Wonder
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Dirscherl
+  - Manfred Reindl
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Push a Monster is a children's dexterity game designed by Wolfgang Dirscherl and Manfred Reindl, published by Queen Games. Players take turns carefully pushing colorful monster figures onto a shared platform, trying not to knock off any of the monsters already balanced there. The game combines gentle physical skill with suspense as the platform becomes increasingly crowded, making for a lively and tactile experience for young children. Push a Monster was nominated for the 2015 Kinderspiel des Jahres award.
+
+upgrades: []

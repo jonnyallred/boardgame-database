@@ -1,0 +1,51 @@
+id: oil-war
+name: "Oil War: American Intervention in the Persian Gulf"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Area Control
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Oil War: American Intervention in the Persian Gulf is a 1975 board wargame published by Simulations Publications Inc. (SPI), designed by Jim Dunnigan and released as a pull-out game in Strategy & Tactics magazine issue 52. The game simulates a hypothetical US-led military intervention into the oil-producing regions of the Middle East, inspired by the 1973 OPEC oil embargo, at the brigade and squadron level across a sixteen-day campaign. Players choose from three scenarios covering different operational objectives, managing land and air forces in a fluid and fast-playing system Dunnigan designed in under a year after the real-world crisis. Innovative for its time, the game received praise for its clean, novel game system despite modest commercial performance.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: pictionary
+name: "Pictionary"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Teams
+  - Party
+  - Family
+  - Word Play
+  - Real-time
+
+evokes:
+  - Humor
+  - Tension
+  - Connection
+  - Lucky
+  - Rivalry
+
+possible_counts: [4, 6, 8]
+true_counts: [6, 8]
+
+designer:
+  - Robert Angel
+publisher:
+  - Angel Games Inc.
+  - Hasbro
+  - Mattel
+artist:
+  - Gary Everson
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Pictionary is a classic team-based party game invented by Robert Angel in 1985 in which players race to guess what their teammate is drawing before the sand timer runs out. Teams take turns sending a designated "picturist" to draw a word from a card while their team calls out guesses — no letters, numbers, spoken clues, or sounds are allowed. Cards span multiple categories including objects, actions, difficult concepts, and "all play" rounds where all teams compete simultaneously. The game's simple premise has made it a staple of game nights worldwide, with Hasbro acquiring it from Parker Brothers in 1994 and numerous editions released over the decades.
+
+upgrades: []

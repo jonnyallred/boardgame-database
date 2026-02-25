@@ -1,0 +1,55 @@
+id: prime-climb
+name: "Prime Climb"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Take That
+  - Family
+  - Gateway
+  - Educational
+
+evokes:
+  - Lucky
+  - Clever
+  - Rivalry
+  - Tension
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Daniel Finkel
+  - Katherine Cook
+publisher:
+  - Math for Love
+artist: []
+playtime_minutes: 40
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Prime Climb is a colorful mathematical racing game in which players roll two 10-sided dice and apply arithmetic operations — addition, subtraction, multiplication, and division — to move their two pawns toward the center of the board numbered 0 to 101. Landing on a prime number earns a special bonus, while landing on another player's pawn sends them back to start. Designed by mathematicians Dan Finkel and Katherine Cook of Math for Love, the game makes number theory engaging through competitive play and strategic decision-making.
+
+upgrades: []

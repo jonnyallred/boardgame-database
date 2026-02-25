@@ -1,0 +1,55 @@
+id: rumis
+name: "Rumis"
+alternate_names:
+  - Blokus 3D
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Tile Placement
+  - Pattern Building
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Stefan Kogl
+publisher:
+  - Educational Insights
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 7
+
+description: |
+  Rumis (later rebranded as Blokus 3D) is a three-dimensional abstract strategy game designed by Stefan Kögl in which players place polycube pieces on a shared board, building up a structure with the goal of having the most of their color visible from the top view at game's end. Pieces cannot leave empty space underneath them when placed, creating a puzzle of spatial reasoning as players stack and compete for the most visible surface area. Unlike flat Blokus, the 3D format adds height as a strategic dimension, allowing players to bury opponents' pieces or claim aerial territory. The Mayan-themed original became Blokus 3D when the Blokus brand proved more commercially powerful.
+
+upgrades: []

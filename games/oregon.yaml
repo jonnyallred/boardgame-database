@@ -1,0 +1,58 @@
+id: oregon
+name: "Oregon"
+alternate_names: []
+year: 2007
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Card Drafting
+  - Hand Management
+  - Euro
+  - Family
+  - Gateway
+  - Western
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Complete
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Henrik Berg
+  - Åse Berg
+publisher:
+  - Hans im Glück
+  - Rio Grande Games
+artist:
+  - Franz Vohwinkel
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Oregon is a card-driven tile-placement game set in the American frontier, designed by Henrik and Åse Berg and published by Hans im Glück in 2007. Players use pairs of cards from their hands to determine where they may place farmers or construct buildings — mines, forts, trading posts — on a grid-style Oregon landscape, scoring points for adjacency to existing structures and farmers. The game's elegant dual-card placement system — one card indicating the column, one the row where a tile may go — creates interesting hand management decisions within a simple ruleset. Published in partnership with Rio Grande Games for the English market, Oregon offers a quick and accessible Euro experience with a pleasant frontier aesthetic.
+
+upgrades: []

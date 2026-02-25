@@ -1,0 +1,48 @@
+id: petteia
+name: "Petteia"
+alternate_names: ["Pessoi", "Poleis", "Ludus Latrunculorum"]
+year: -500
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Ancient
+
+evokes:
+  - Tension
+  - Masterful
+  - Rivalry
+  - Clever
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 8
+
+description: |
+  Petteia is an ancient Greek abstract strategy game known since at least the 5th century BCE, referenced by Homer, Plato, and Aristotle — who famously wrote that "a citizen without a state may be compared to an isolated piece in a game of Petteia." Played on gridded boards of varying sizes (7x8 to 9x10) with black and white stones arrayed on opposite sides, players move pieces around the board and capture opponents by custodial capture — surrounding an enemy piece on two opposite sides removes it from play. The winner takes all of the opponent's pieces. Since no complete rule set survives, modern reconstructions vary, but the game is considered an ancestor of both chess and draughts.
+
+upgrades: []

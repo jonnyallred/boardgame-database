@@ -1,0 +1,49 @@
+id: patzam
+name: "Patzam"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Patzam is an abstract strategy game played on a three-dimensional 18-spot board in which players alternate placing pieces until all positions are filled. Once all pieces are played, the middle pieces of any rows composed entirely of the same color are removed. The game's core tension comes from anticipating which pieces will be eliminated by this rule and placing accordingly. The unusual 3D board structure and the delayed-reveal elimination mechanic make Patzam a distinctive curiosity in abstract gaming, with limited publication information available.
+
+upgrades: []

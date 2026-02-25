@@ -1,0 +1,53 @@
+id: rebirth
+name: "Rebirth"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Pattern Building
+  - Euro
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Mighty Boards
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Rebirth is a tile-laying game designed by Reiner Knizia and published by Mighty Boards. Players place tiles to build patterns and claim areas of the board, combining the deceptive simplicity of classic Knizia design with elegant scoring mechanisms that reward long-term strategic thinking. The game debuted at Essen 2024 and received positive attention for its accessible rules concealing genuine strategic depth.
+
+upgrades: []

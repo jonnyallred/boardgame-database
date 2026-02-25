@@ -1,0 +1,54 @@
+id: omega-virus
+name: "The Omega Virus"
+alternate_names:
+  - "Omega Virus"
+year: 1992
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Deduction
+  - Family
+  - Sci-Fi
+
+evokes:
+  - Tension
+  - Discovery
+  - Dread
+  - Mystery
+  - Lucky
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Michael Gray
+publisher:
+  - Milton Bradley
+artist:
+  - Rick Grayson
+playtime_minutes: 25
+min_playtime: 10
+max_playtime: 35
+min_age: 14
+
+description: |
+  The Omega Virus is a pioneering electronic talking board game from Milton Bradley (1992) in which 1-4 players race to save the space station BattleSat1 from an insidious computer virus that has taken control. Players explore the 24 rooms of the station collecting colored access cards and three weapons (negatron, decoder, and disruptor) while the game's central electronic talking computer — a groundbreaking feature for 1992 — narrates the virus's progress, issues commands, and counts down to destruction. One of the first board games to incorporate voice technology, The Omega Virus established a template for the electronic talking game genre and remains fondly remembered for its dramatic sci-fi atmosphere and tension-filled gameplay.
+
+upgrades: []

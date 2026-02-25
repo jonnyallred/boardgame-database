@@ -1,0 +1,49 @@
+id: on-the-road-to-abha
+name: "On the Road to Abha"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Connection
+  - Humor
+  - Discovery
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  On the Road to Abha is a simple family board game offering two games in one: a standard roll-and-move race from Riyadh to the city of Abha in Saudi Arabia, and a collection variant in which players compete to gather the most coffee pot tokens along the route. Designed as a cultural and educational game celebrating the journey through the Saudi Arabian highlands, it provides a gentle introduction to the geography and cultural symbols of the region, particularly the traditional qahwa (coffee) culture associated with the Asir region around Abha. Both game modes are intentionally simple and accessible for young children.
+
+upgrades: []

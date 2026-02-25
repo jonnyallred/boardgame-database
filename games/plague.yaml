@@ -1,0 +1,52 @@
+id: plague
+name: "Plague!"
+alternate_names: []
+year: 1989
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Area Control
+  - Humor
+  - Historical
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - B&B Productions
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Plague! is a darkly humorous board game published by B&B Productions in which players transport wagonloads of plague-infected victims to their final resting place. The 22"x28" mounted mapboard, 136 circular counters, 55 Black Death Cards, and a "Rat Bag" create an absurdist take on medieval epidemic catastrophe. Players accumulate points by delivering the most victims while dealing with the random horrors dealt by the Black Death Cards. The game's gallows humor and irreverent treatment of the Black Death make it a novelty item in gaming history, appealing to fans of dark comedy.
+
+upgrades: []

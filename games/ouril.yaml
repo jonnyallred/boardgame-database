@@ -1,0 +1,50 @@
+id: ouril
+name: "Ouril"
+alternate_names:
+  - "Ouri"
+  - "Uril"
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Mancala
+
+evokes:
+  - Clever
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 60
+min_age: 8
+
+description: |
+  Ouril (also spelled ouri, uril, or ori) is the traditional mancala game of Cape Verde, brought to the archipelago by enslaved West Africans and passed down through generations as a cornerstone of Cape Verdean cultural identity. The game is played on a wooden board with two rows of six pits (12 total) initially holding four seeds each for a total of 48 — captured memorably in the Cape Verdean Creole proverb "Doze boc', quarenta e oit' dent'" ("Twelve mouths, forty-eight teeth"). Like other mancala variants, players sow seeds around the board and capture opponent seeds under specific conditions, with the goal of accumulating the most seeds. Ouril is especially popular among men and is commonly played in public squares and port towns across all Cape Verdean islands.
+
+upgrades: []

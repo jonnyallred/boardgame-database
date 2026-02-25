@@ -1,0 +1,55 @@
+id: rome-imperium-circus-maximus-hannibal-vs-rome
+name: "Rome: Imperium, Circus Maximus, Hannibal vs Rome"
+alternate_names:
+  - Rome: 3 Games in 1
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Historical
+  - Ancient
+  - Racing
+  - Area Control
+  - Auctions/Bidding
+  - Reiner Knizia
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+  - Powerful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Rome: Imperium, Circus Maximus, Hannibal vs Rome is a three-in-one collection of ancient Roman games designed by Reiner Knizia and published by GMT Games in 2001. The set includes three distinct quick-playing games: Hannibal vs Rome, a two-player card game depicting the initial Punic War struggle for Mediterranean supremacy; Circus Maximus, in which up to five players use cards to race chariot teams around a track while cleverly blocking opponents; and Imperium, in which up to five players compete for pro-consulships across eight Roman provinces using influence and political maneuvering. All three games are designed for fast play and offer a compact but flavorful window into three very different aspects of ancient Roman civilization.
+
+upgrades: []

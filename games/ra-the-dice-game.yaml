@@ -1,0 +1,53 @@
+id: ra-the-dice-game
+name: "Ra: The Dice Game"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: ra
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Set Collection
+  - Press Your Luck
+  - Ancient
+  - Reiner Knizia
+
+evokes:
+  - Lucky
+  - Clever
+  - Tension
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Ra: The Dice Game is a Yahtzee-style dice adaptation of Reiner Knizia's acclaimed Egyptian auction game Ra, published by Rio Grande Games in 2009. Players roll custom dice to collect symbols representing different ancient Egyptian civilizations — Nile, Sun, Pharaoh, Monument, and Gold — and must decide when to lock in their results or reroll to push for better scoring combinations. The set collection logic and penalty/bonus structure of the original Ra is preserved in a compact, faster-playing dice format. The game was later reprinted through a Kickstarter campaign by 25th Century Games.
+
+upgrades: []

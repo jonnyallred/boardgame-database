@@ -1,0 +1,53 @@
+id: safari-jack
+name: "Safari Jack"
+alternate_names: []
+year: 1998
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Hand Management
+  - Set Collection
+  - Animals
+  - Nature
+
+evokes:
+  - Clever
+  - Agency
+  - Discovery
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - James Ernest
+publisher:
+  - Cheapass Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Safari Jack is a tile-laying card and board game designed by James Ernest and published by Cheapass Games in 1998. Players build a safari landscape from square cardboard tiles representing different terrain types — Cave, River, Jungle, and Savannah — with each terrain type supporting different animals available for hunting. Movement is limited to adjacent tiles of the same terrain, forcing players to carefully plan their routes across the ever-expanding landscape to reach the most valuable prey. The classic Cheapass Games format provides a low-cost, high-gameplay experience built from minimal components.
+
+upgrades: []

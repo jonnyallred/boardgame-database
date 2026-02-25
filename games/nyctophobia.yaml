@@ -1,0 +1,54 @@
+id: nyctophobia
+name: "Nyctophobia"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - 1 vs Many
+  - Hidden Movement
+  - Dexterity
+  - Horror
+  - Family
+
+evokes:
+  - Dread
+  - Tension
+  - Mystery
+  - Connection
+  - Unique
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Catherine Stippell
+publisher:
+  - Pandasaurus Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 12
+
+description: |
+  Nyctophobia (meaning "fear of the dark") is a unique tactile horror game where 2-4 cooperative players are blindfolded and must navigate a pitch-black forest maze by touch alone, while one sighted player controls a murderous hunter pursuing them. Created by Catherine Stippell as a game accessible to her blind uncle, players feel the board with their fingers, identifying their position by the unique shape of their pawn, and carefully exploring adjacent spaces to find their car and escape. The hunter manipulates the board and physically places blindfolded players' fingers each turn, creating a profoundly tense and immersive experience that levels the playing field for visually impaired players in a way no other game does.
+
+upgrades: []

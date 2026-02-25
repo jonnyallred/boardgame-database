@@ -1,0 +1,49 @@
+id: patrol-chess
+name: "Patrol Chess"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Masterful
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Frederik Hendrik von Meyenfeldt
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 20
+max_playtime: 90
+min_age: 12
+
+description: |
+  Patrol Chess is a chess variant invented by Frederik Hendrik von Meyenfeldt in 1975 in which a piece can only capture or give check if it is guarded (or "patrolled") by a friendly piece. All non-capturing and non-checking moves function as in standard chess. This single rule change fundamentally transforms piece interactions, rendering unprotected attackers harmless and making mutual support a prerequisite for offensive action. The variant has been widely used in chess problems and can also be played as a complete game. It is considered one of the more elegant fairy chess conditions for the way it reframes every tactical calculation.
+
+upgrades: []

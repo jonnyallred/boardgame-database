@@ -1,0 +1,56 @@
+id: photosynthesis
+name: "Photosynthesis"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Tile Placement
+  - Abstract
+  - Euro
+  - Family
+  - Nature
+
+evokes:
+  - Wonder
+  - Progress
+  - Clever
+  - Rivalry
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Hjalmar Hach
+publisher:
+  - Blue Orange Games
+artist:
+  - Sabrina Miramon
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Photosynthesis is a stunning strategy game in which 2–4 players grow trees in a circular forest, competing to collect sunlight and score points by completing the lifecycle of their trees. As the sun rotates around the board each turn, trees on the illuminated side collect light points based on their height — but taller trees cast shadows on shorter ones behind them, blocking their light. Players spend light points to grow seeds into saplings, medium trees, and tall trees, then harvest fully-grown trees for scoring tokens whose value decreases over time as spots fill in. The game's beautiful table presence with colorful 3D trees and elegant resource cycle make it a standout family strategy title.
+
+upgrades: []

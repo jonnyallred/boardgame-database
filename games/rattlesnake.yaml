@@ -1,0 +1,49 @@
+id: rattlesnake
+name: "RattleSnake"
+alternate_names: []
+year: 1994
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Real-time
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  RattleSnake is a children's dexterity game in which players carefully extract colorful snake segments or objects from a plastic rattlesnake container without causing it to rattle and snap. The game creates suspense through its touch-and-feel challenge, as players must judge by feel alone how to remove pieces without triggering the snake's noisy reaction. Its combination of physical skill and surprise makes it a lively game for young children and family groups.
+
+upgrades: []

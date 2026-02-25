@@ -1,0 +1,54 @@
+id: pioneers
+name: "Pioneers"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Network Building
+  - Route Building
+  - Economic
+  - Euro
+  - Family
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Wolfgang Kramer
+  - Michael Kiesling
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 8
+
+description: |
+  Pioneers is a route-building and network game from Queen Games in which players transport pioneers of various professions by coach across a map, settling them in cities that need their skills. Players also construct roads between cities, earning money from opponents who use their network. The game ends when a player has built all their roads or the last coach enters play, with bonus points awarded for the largest connected network of roads. The combination of worker placement (via specialized pioneers), network construction, and income generation creates an accessible but engaging economic game.
+
+upgrades: []

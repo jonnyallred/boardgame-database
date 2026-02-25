@@ -1,0 +1,56 @@
+id: portobello-market
+name: "Portobello Market"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Route Building
+  - Area Control
+  - Network Building
+  - Euro
+  - Family
+  - Historical
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Thomas Odenhoven
+publisher:
+  - Playroom Entertainment
+artist:
+  - Michael Menzel
+  - Christof Tisch
+playtime_minutes: 35
+min_playtime: 25
+max_playtime: 45
+min_age: 8
+
+description: |
+  Portobello Market is a light area control and route-building game set in London's famous Portobello Road market in 1901. Players compete to place market stalls along lanes of the board, trying to claim the most lucrative rows while blocking opponents from completing their own runs. The key mechanic involves a Bobby (police constable) figure — you can only build adjacent to where the Bobby stands, but a small payment moves him where you need him. Players score points for completed rows of stalls and bonus points for connecting to customers. The game's elegant simplicity and tactical maneuvering of the Bobby make it a satisfying family-weight strategy experience.
+
+upgrades: []

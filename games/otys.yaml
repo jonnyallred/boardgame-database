@@ -1,0 +1,54 @@
+id: otys
+name: "Otys"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Rondel
+  - Resource Management
+  - Euro
+  - Post-Apocalyptic
+  - Sci-Fi
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Tension
+  - Complete
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Claude Lucchini
+publisher:
+  - Libellud
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Otys is a puzzle-like worker placement game set in a post-apocalyptic 22nd century where rising oceans have submerged the world, and players lead factions in the floating Otys colony sending divers to harvest debris from drowned civilizations. Each player has a column of five divers at different depths (1-5), and on their turn selects a depth to activate a shared board action and their diver's special power at that depth — after which the diver surfaces and pushes all others deeper, creating a rotating queue. The tight management of which diver is available at which depth, combined with the shared action spaces, creates a deeply tactical and intellectually satisfying optimization puzzle. Published by Libellud in 2017, Otys was praised for its distinctive and elegant depth-tracking mechanism.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: power-barons
+name: "Power Barons"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Bluffing
+  - Area Control
+  - Card Drafting
+  - Economic
+
+evokes:
+  - Tension
+  - Rivalry
+  - Persuasion
+  - Clever
+  - Powerful
+
+possible_counts: [3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Power Barons is a 1986 Milton Bradley game of international rivalry for 3–4 players in which the objective is to build power bases in opponents' territories. Players engage in card-based duels across four suits plus a special "political power" suit — each player challenges an opponent in a suit, plays a card, and the opponent responds, with players alternately raising or withdrawing. Strategic bluffing and negotiation determine outcomes, as players maneuver diplomatically and militarily to establish dominance. The mix of card dueling, power accumulation, and negotiation makes it an accessible political game with surprising depth.
+
+upgrades: []

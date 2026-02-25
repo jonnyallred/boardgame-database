@@ -1,0 +1,55 @@
+id: rivers-roads-and-rails
+name: "Rivers, Roads & Rails"
+alternate_names: []
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Set Collection
+  - Pattern Building
+  - Cooperative
+  - Family
+  - Gateway
+  - Ravensburger
+
+evokes:
+  - Clever
+  - Connection
+  - Complete
+  - Progress
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher:
+  - Ravensburger
+artist:
+  - Josef Loeflath
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 5
+
+description: |
+  Rivers, Roads & Rails is a classic Ravensburger transportation tile-matching game in which players cooperate or compete to create an interconnected network by matching picture-card edges. Each of the 140 illustrated scenery cards must connect perfectly to adjacent cards — river to river, road to road, and rail to rail — building an ever-growing landscape of transportation routes. Players draw 10 tiles and take turns adding them to the shared tableau; those who cannot play must pass, and the first to empty their hand wins. Its non-reading cooperative format and beautiful illustrated tiles have made it a beloved children's game since its 1984 Ravensburger release.
+
+upgrades: []

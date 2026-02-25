@@ -1,0 +1,57 @@
+id: savannah-cafe
+name: "Savannah Café"
+alternate_names:
+  - Savannah Cafe
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Hand Management
+  - Animals
+  - Family
+  - Filler
+  - Gateway
+
+evokes:
+  - Humor
+  - Rivalry
+  - Clever
+  - Tension
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Sylvie Barc
+  - Frederic Bloch
+  - Philippe des Pallieres
+publisher:
+  - Eurogames
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 7
+
+description: |
+  Savannah Café is a fast, colorful card game published by Eurogames in which each player manages a trio of African animal characters — a lion, a gazelle, and a hippopotamus — racing to be the first to move one of their animals to reach the café bar at the top of the board. Players play cards to move their animals while strategically blocking opponents, making for a light and visually engaging game with strong appeal for families and younger players. Its simple mechanics, beautiful animal graphics, and quick playtime make it an ideal filler or gateway game with a fun safari theme.
+
+upgrades: []

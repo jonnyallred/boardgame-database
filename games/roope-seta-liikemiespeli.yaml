@@ -1,0 +1,52 @@
+id: roope-seta-liikemiespeli
+name: "Roope-Setä Liikemiespeli"
+alternate_names:
+  - Uncle Scrooge Business Game
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Trading
+  - Family
+  - Disney
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Progress
+  - Humor
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Tactic
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Roope-Setä Liikemiespeli is a Finnish family board game published by Tactic in 2010, themed around Uncle Scrooge (known as "Roope-Setä" in Finnish) from the beloved Disney duck universe. In the Monopoly-style economic game, players move around the board buying shares in various businesses, collecting income when others land on their properties, and navigating event cards that bring surprise fortunes or misfortunes. The goal is to accumulate the most wealth before the game ends, befitting the miserly yet lovable character of the world's richest duck. The familiar Disney theming makes it an approachable and entertaining option for Finnish families with children.
+
+upgrades: []

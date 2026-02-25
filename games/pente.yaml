@@ -1,0 +1,51 @@
+id: pente
+name: "Pente"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Puzzle Solving
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Clever
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Gary Gabrel
+publisher:
+  - Pente Games
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 45
+min_age: 8
+
+description: |
+  Pente is a classic abstract strategy game invented in 1977 by Gary Gabrel, played on a 19x19 grid similar to a Go board. Players alternate placing stones of their color on intersections, with the goal of either aligning five or more stones in a row (horizontally, vertically, or diagonally) or capturing five pairs of the opponent's stones. Captures are made by flanking exactly two adjacent opponent stones with your own on either side, which removes them from the board. The addition of the capture mechanic to a five-in-a-row framework creates rich strategic depth far beyond simple alignment games. The game became a commercial success and remains one of the most respected modern abstract strategy games.
+
+upgrades: []

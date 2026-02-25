@@ -1,0 +1,56 @@
+id: republic-of-rome
+name: "Republic of Rome"
+alternate_names: ["The Republic of Rome"]
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Economic
+  - Auctions/Bidding
+  - Historical
+  - Ancient
+  - Wargame
+
+evokes:
+  - Masterful
+  - Persuasion
+  - Tension
+  - Agency
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Don Greenwood
+  - Robert Haines
+  - Richard Berthold
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 300
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Republic of Rome is a complex semi-cooperative political simulation of the Roman Senate from Avalon Hill, published in 1990. Players control rival senatorial factions competing for influence, wealth, and prestige while collectively governing Rome against external threats such as wars, barbarian invasions, and internal crises. The game demands that players balance self-interest with the shared survival of the Republic — a faction that allows Rome to collapse loses along with everyone else. Winner of the Origins Award for Best Pre-20th Century Boardgame of 1990, it remains one of the most historically rich and demanding political games ever designed.
+
+upgrades: []

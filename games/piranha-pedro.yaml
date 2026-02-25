@@ -1,0 +1,53 @@
+id: piranha-pedro
+name: "Piranha Pedro"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Programmed Movement
+  - Puzzle Solving
+  - Family
+  - Abstract
+
+evokes:
+  - Clever
+  - Tension
+  - Humor
+  - Lucky
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Jens-Peter Schliemann
+publisher:
+  - Goldsieber
+  - Asmodee
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Piranha Pedro is a light programmed movement game in which players guide hapless Pedro across a small island surrounded by piranha-infested waters. Each player holds an identical hand of 12 cards — three cards each for up, down, left, and right, in movement values of 1, 2, and 3 spaces. Players take turns secretly choosing a card to move Pedro, trying to direct him off the board or onto a piranha tile to eliminate rivals. If your card causes Pedro to drown or get eaten, you're out. The shared-hand tension of knowing opponents have the same options you do, combined with simple programming deduction, makes it an award-winning filler that won the Essen Feather in 2005.
+
+upgrades: []

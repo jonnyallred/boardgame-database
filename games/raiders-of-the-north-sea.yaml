@@ -1,0 +1,59 @@
+id: raiders-of-the-north-sea
+name: "Raiders of the North Sea"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: north-sea
+edition: null
+base_game: null
+expansions:
+  - raiders-of-the-north-sea-hall-of-heroes
+  - raiders-of-the-north-sea-fields-of-fame
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Hand Management
+  - Set Collection
+  - Euro
+  - Medieval
+  - Historical
+  - Renegade Game Studios
+
+evokes:
+  - Agency
+  - Progress
+  - Clever
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Shem Phillips
+publisher:
+  - Garphill Games
+  - Renegade Game Studios
+artist:
+  - Mihajlo Dimitrievski
+playtime_minutes: 70
+min_playtime: 60
+max_playtime: 80
+min_age: 12
+
+description: |
+  Raiders of the North Sea is a worker placement game set in the Viking Age, where players recruit crew members, gather provisions, and lead raids on coastal settlements to impress the Chieftain. The game features an innovative "place and take" worker placement mechanism — players place a worker from their hand to gain resources, then take a worker already on the board to perform an action, ensuring constant interaction without worker removal frustration. Players earn Valour Points through raiding, offerings, and crew quality, and the game ends when the Valkyrie tile is revealed, adding strategic tension about timing. It was nominated for the Kennerspiel des Jahres and is part of the North Sea trilogy.
+
+upgrades: []

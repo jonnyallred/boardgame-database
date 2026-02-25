@@ -1,0 +1,58 @@
+id: runewars
+name: "Runewars"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: runebound
+edition: "1st Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Asymmetric
+  - Variable Player Powers
+  - Fantasy
+  - Wargame
+  - 4X
+  - Dudes on a Map
+  - Fantasy Flight Games
+  - Corey Konieczka
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Agency
+  - Tension
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 4]
+
+designer:
+  - Corey Konieczka
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 300
+min_age: 13
+
+description: |
+  Runewars is a sweeping fantasy epic board game set in the Terrinoth realm where 2-4 players control asymmetric factions — humans, undead, elves, and waiqar — competing for control of the land and its powerful runestones. Players gather resources, raise armies, and besiege fortified cities using an innovative order-wheel system: each turn players select four actions from eight available, and the sequence in which those orders resolve creates complex, interconnected strategic decisions. Faction asymmetry runs deep, with each race featuring unique units and development paths that mirror its fantasy archetype. It earned multiple award nominations in 2010 for its grand-scale campaign feel and strategic depth.
+
+upgrades: []

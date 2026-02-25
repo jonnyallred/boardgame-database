@@ -1,0 +1,51 @@
+id: padavettu
+name: "Padavettu"
+alternate_names:
+  - "Nira"
+  - "Pada"
+  - "Kallukali"
+year: 1000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Padavettu (also known as Nira, Pada, or Kallukali) is a traditional board game from Kerala, India, often described as a sophisticated variation of Tic-Tac-Toe. Two players take turns placing or moving pieces on a grid, attempting to form specific patterns or lines while blocking their opponent from doing the same. Like many traditional Indian games, Padavettu was passed down orally through communities and families rather than through formal publication. It belongs to the category of alignment games that have been played across South Asia for centuries, serving both as entertainment and as a tool for developing strategic thinking in children.
+
+upgrades: []

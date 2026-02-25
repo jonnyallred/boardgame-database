@@ -1,0 +1,49 @@
+id: salta
+name: "Salta"
+alternate_names: []
+year: 1899
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Konrad Buttgenbach
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Salta is a two-player abstract strategy game invented by Konrad Heinrich Büttgenbach in Germany in 1899, played on a 10x10 checkerboard with 15 pieces per player arranged in three ranked rows of stars, moons, and suns. The game reached its peak popularity in the early 1900s before World War I, particularly in France and Germany, attracting famous players including chess grandmasters Frank Marshall and Emanuel Lasker, and French actress Sarah Bernhardt. A celebrated Salta board made of mahogany with golden counters adorned with over 5,000 diamonds was exhibited at the 1900 World Trade Fair in Paris. The game's distinctive piece-type hierarchy and movement rules distinguish it from checkers despite the shared board.
+
+upgrades: []

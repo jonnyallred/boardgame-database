@@ -1,0 +1,50 @@
+id: okey-101
+name: "Okey 101"
+alternate_names: []
+year: 1930
+
+# Relationships
+game_family: null
+edition: null
+base_game: okey
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Hand Management
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Lucky
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [4]
+true_counts: [4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 10
+
+description: |
+  Okey 101 is a popular Turkish tile-rummy variant played with the same 106-tile set as standard Okey but with significantly expanded hands of 21 tiles and the additional melding mechanic that allows players to lay down completed sets during play. The game's name refers to the requirement that a player's first meld must total at least 101 points in face value, adding a strategic holding element absent from standard Okey. Players may extend each other's melds on the table and must carefully balance discarding to the pile against holding valuable tiles for their opening declaration. A staple of Turkish social gatherings, Okey 101 requires more patience and planning than its parent game and is favored by experienced players seeking greater depth.
+
+upgrades: []

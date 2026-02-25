@@ -1,0 +1,55 @@
+id: piepmatz
+name: "Piepmatz"
+alternate_names: ["Little Songbirds"]
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Set Collection
+  - Card Drafting
+  - Family
+  - Nature
+  - Filler
+
+evokes:
+  - Clever
+  - Tension
+  - Complete
+  - Rivalry
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Matt Riddle
+  - Ben Pinchback
+publisher:
+  - Lookout Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Piepmatz (Little Songbirds) is a charming card game in the "big game in a small box" tradition from Lookout Games, designed by Matt Riddle and Ben Pinchback. Players compete to fill the bird feeder by placing birds from their hand into queues; when the combined strength of birds in a queue exceeds the lead bird's value, that bird is pushed out and takes a seed card with it. Players score points for collected seeds, pairs of male-and-female birds of the same species, and having the most birds of a single species. Squirrel and crow cards introduce take-that disruption. The game rewards thoughtful hand management in a compact, visually appealing package.
+
+upgrades: []

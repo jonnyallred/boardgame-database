@@ -1,0 +1,54 @@
+id: oceania
+name: "Oceania"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Abstract
+  - Family
+  - Gateway
+  - Klaus Teuber
+
+evokes:
+  - Discovery
+  - Clever
+  - Progress
+  - Agency
+  - Wonder
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Klaus Teuber
+publisher:
+  - Mayfair Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Oceania is a simplified two-player tile placement game designed by Klaus Teuber, published by Mayfair Games as a streamlined offshoot of his game Entdecker. Players place an explorer ship on the board and draw sea tiles, placing them according to a matching rule (water must border water, land must border land) to build up islands and sea routes across the Pacific. The game also supports solo play. While simpler than most of Teuber's designs, it captures the pleasant exploratory feeling of gradually revealing a beautiful island landscape through shared tile placement, making it an accessible and relaxing gateway experience.
+
+upgrades: []

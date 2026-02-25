@@ -1,0 +1,57 @@
+id: railways-of-the-world
+name: "Railways of the World"
+alternate_names: ["Railroad Tycoon"]
+year: 2005
+
+# Relationships
+game_family: railways-of-the-world
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Network Building
+  - Route Building
+  - Auctions/Bidding
+  - Economic
+  - Historical
+  - Trains
+  - Eagle-Gryphon Games
+  - Martin Wallace
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Powerful
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Martin Wallace
+  - Glenn Drover
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 13
+
+description: |
+  Railways of the World (originally Railroad Tycoon) is a rail empire-building game designed by Martin Wallace and Glenn Drover set in the eastern United States circa 1830. Players lay hexagonal track tiles to connect cities, deliver colored goods cubes, and upgrade their locomotive technology while managing loans (bond cards) that cost victory points at game end. Originally a simplified version of Wallace's Age of Steam, the game was first published in 2005 as Railroad Tycoon before the video game license expired, with the Railways of the World title adopted for a 2009 edition and a 10th Anniversary Edition in 2018.
+
+upgrades: []

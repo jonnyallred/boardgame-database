@@ -1,0 +1,55 @@
+id: pendulum
+name: "Pendulum"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Real-time
+  - Asymmetric
+  - Variable Player Powers
+  - Euro
+  - Stonemaier Games
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Powerful
+  - Unique
+
+possible_counts: [1, 2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Travis P. Jones
+publisher:
+  - Stonemaier Games
+artist:
+  - Tomasz Jedruszek
+playtime_minutes: 75
+min_playtime: 60
+max_playtime: 90
+min_age: 12
+
+description: |
+  Pendulum is a real-time, simultaneous worker placement game published by Stonemaier Games in which 1–5 players compete to become the ruler of the kingdom of Dunya. Rather than taking turns, all players act simultaneously while three sand timers govern different areas of the board — workers can only be placed or retrieved when the corresponding timer runs out. Players advance along four victory tracks (power, prestige, popularity, and legendary achievement) while also executing stratagems and expanding their domains. Each player commands an asymmetric noble with unique abilities, creating very different playstyles. The result is a tense, chaotic race where time management and efficient planning are just as important as strategic choices.
+
+upgrades: []

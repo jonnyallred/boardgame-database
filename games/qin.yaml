@@ -1,0 +1,54 @@
+id: qin
+name: "Qin"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Area Control
+  - Abstract
+  - Ancient
+  - Reiner Knizia
+
+evokes:
+  - Clever
+  - Rivalry
+  - Tension
+  - Agency
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Reiner Knizia
+publisher:
+  - Eggertspiele
+  - R&R Games
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Qin is a tile-laying area control game designed by Reiner Knizia and published by Eggertspiele in 2012. Set during the Warring States period of ancient China, players place domino-like province tiles to surround and conquer villages, converting them to their color to score points. The player who first conquers all villages of one color — or holds the most villages when the tiles run out — wins. Deceptively simple in its rules yet offering genuine strategic tension, Qin is widely praised as one of Knizia's most elegant recent designs.
+
+upgrades: []

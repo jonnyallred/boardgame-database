@@ -1,0 +1,55 @@
+id: sabika
+name: "Sabika"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Rondel
+  - Tile Placement
+  - Route Building
+  - Resource Management
+  - Medieval
+  - Historical
+  - Euro
+
+evokes:
+  - Clever
+  - Progress
+  - Agency
+  - Masterful
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - German P. Millan
+publisher:
+  - Ludonova
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Sabika is a 2022 strategic Euro game designed by Germán P. Millán, set during the Nasrid dynasty in medieval Spain, in which players take on the roles of nobles contributing to the construction of the magnificent Alhambra palace complex. The game features a novel triple-rondel mechanism integrating three interrelated action wheels — one for building construction, one for carving poems in the palace halls, and one for exporting goods along trade routes. Players manage hex tiles and optimize their rondel positions across the three interconnected scenarios, creating rich multidimensional decision-making. Sabika delivers exceptional strategic depth and replayability through its innovative interlocked rondel system.
+
+upgrades: []

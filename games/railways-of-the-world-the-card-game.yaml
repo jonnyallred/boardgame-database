@@ -1,0 +1,54 @@
+id: railways-of-the-world-the-card-game
+name: "Railways of the World: The Card Game"
+alternate_names: []
+year: 2013
+
+# Relationships
+game_family: railways-of-the-world
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Network Building
+  - Route Building
+  - Hand Management
+  - Economic
+  - Trains
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Agency
+  - Complete
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - James Eastham
+  - Steve Ellis
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Railways of the World: The Card Game is a streamlined card game adaptation of the acclaimed Railways of the World board game series, designed by James Eastham and Steve Ellis. Players use track and city cards to build railroad routes, deliver goods, and upgrade their locomotive engines to handle longer and more lucrative deliveries. Available in two versions — a family-friendly simplified mode and a full strategic mode — the game serves both as an accessible introduction to the Railways system and as a lighter standalone experience for veteran players.
+
+upgrades: []

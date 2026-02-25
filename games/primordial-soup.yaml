@@ -1,0 +1,57 @@
+id: primordial-soup
+name: "Primordial Soup"
+alternate_names: ["Ursuppe"]
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Action Points
+  - Variable Player Powers
+  - Euro
+  - Nature
+
+evokes:
+  - Progress
+  - Clever
+  - Rivalry
+  - Agency
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Doris Matthäus
+  - Frank Nestel
+publisher:
+  - Doris & Frank
+  - Z-Man Games
+artist:
+  - Doris Matthäus
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Primordial Soup (originally Ursuppe in German) is an evolution-themed strategy game in which players guide single-celled amoeba organisms through the primordial sea, competing for limited food resources while evolving new genes that grant special abilities. Organisms must eat, excrete, multiply, and occasionally devour rivals in a tightly contested ecosystem where clever gene selection can shift the balance of power. Originally published in 1997 by Doris & Frank and winner of 2nd prize at the 1998 Deutscher Spiele Preis, the game was later republished by Z-Man Games.
+
+upgrades: []

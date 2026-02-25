@@ -1,0 +1,49 @@
+id: qadardalikoi
+name: "Qadardalikoi"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - Ancient
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Qadardalikoi is an obscure historical wargame simulating ancient or medieval cavalry engagements. It is listed in board game databases as a specialty wargame with limited documentation available. Like many niche wargames of its era, it features detailed historical simulation of unit types, formations, and terrain effects in its period of coverage.
+
+upgrades: []

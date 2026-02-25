@@ -1,0 +1,58 @@
+id: resist
+name: "Resist!"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary (solitaire)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Card Drafting
+  - Press Your Luck
+  - Historical
+  - War
+  - Filler
+
+evokes:
+  - Tension
+  - Agency
+  - Mystery
+  - Dread
+  - Clever
+
+possible_counts: [1]
+true_counts: [1]
+
+designer:
+  - Trevor Benjamin
+  - Roger Tankersley
+  - David Thompson
+publisher:
+  - 25th Century Games
+artist:
+  - Albert Monteys
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 14
+
+description: |
+  Resist! is a fast-playing solitaire card game set in Franco-era Spain, casting the player as the Spanish Maquis fighting against the Francoist regime through a series of clandestine missions. Over multiple rounds, you undertake increasingly difficult missions using a limited hand of cards, earning points toward victory while deciding whether to press your luck and take on another dangerous assignment or end the resistance for the day. The game captures the desperate courage of underground resistance fighters through tight resource management and escalating risk-reward decisions. Its compact design and solo focus make it an ideal quick play experience for fans of historical card games.
+
+upgrades: []

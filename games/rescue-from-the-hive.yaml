@@ -1,0 +1,54 @@
+id: rescue-from-the-hive
+name: "Rescue from the Hive"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - 1 vs Many
+  - Sci-Fi
+  - Cooperative
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Powerful
+  - Mystery
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Nick Karp
+publisher:
+  - SPI
+artist:
+  - John W. Pierard
+  - Redmond A. Simonsen
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Rescue from the Hive is a sci-fi tactical combat game designed by Nick Karp and published by SPI in 1981, originally appearing as a pull-out game in Issue 7 of Ares magazine. Set in the future, one player commands a squad of Earth Space Marines attempting to rescue Ambassador Helstrom and his daughter from an alien Znon spacecraft, while the other player operates the ship's defenses, trying to hold out until the hyperdrive can engage. Solitaire rules allow the Space Marine player to face automated Znon defenses, and a Polish edition was published under the title W imieniu Ziemi.
+
+upgrades: []

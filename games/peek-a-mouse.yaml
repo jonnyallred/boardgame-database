@@ -1,0 +1,53 @@
+id: peek-a-mouse
+name: "Peek-a-Mouse"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Real-time
+  - Puzzle Solving
+  - Family
+
+evokes:
+  - Tension
+  - Connection
+  - Discovery
+  - Wonder
+  - Clever
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Elodie Clément
+  - Théo Rivière
+publisher:
+  - Gigamic
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 5
+
+description: |
+  Peek-a-Mouse is a cooperative observation game from Gigamic in which players use a flashlight to peer through the windows of a miniature mouse house for 30 seconds, spotting which objects are present before the light goes out. After the viewing window closes, the group must answer questions about what they saw. Correct answers advance the group's basket token forward, and the goal is to answer correctly over four rounds. The combination of the physical mouse-house prop, flashlight exploration, and cooperative memory testing makes it an engaging and charming children's game perfect for ages 5 and up.
+
+upgrades: []

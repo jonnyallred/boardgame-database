@@ -1,0 +1,53 @@
+id: reds
+name: "Reds!"
+alternate_names: ["Reds! The Russian Civil War 1918-1921"]
+year: 2001
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Events
+  - Area Control
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Ted Raicer
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 480
+min_playtime: 360
+max_playtime: 720
+min_age: 16
+
+description: |
+  Reds! is an operational-level wargame of the Russian Civil War (1918-1921) designed by Ted Raicer and published by GMT Games in 2001. Players command the Bolshevik Red Army against the combined White Guard forces and Allied interventions across an enormous map of the former Russian Empire. The game uses a chit-pull activation system and includes two random event tables — one per side — while a logistics phase represents the supply challenges that defined the conflict. Playable in solitaire mode, it is widely regarded as one of the most comprehensive simulations of this chaotic and decisive period of modern history.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: samurai-spirit
+name: "Samurai Spirit"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Set Collection
+  - Medieval
+  - Fantasy
+  - Filler
+  - Antoine Bauza
+
+evokes:
+  - Tension
+  - Connection
+  - Dread
+  - Agency
+  - Powerful
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7]
+true_counts: [3, 4, 5]
+
+designer:
+  - Antoine Bauza
+publisher:
+  - Funforge
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Samurai Spirit is a cooperative card game designed by Antoine Bauza, lovingly inspired by Akira Kurosawa's classic film Seven Samurai, in which 1-7 players take on the roles of brave samurai defending a village of farmers against relentless waves of bandits. Each of the seven samurai is named after a character from the film and has a unique power that transforms when they are pushed to the brink of defeat. Over three rounds, players manage their hands of enemy cards, deciding which attacks to absorb individually and which to pass on to protect the village, in an escalating test of cooperative resource management. Its compact design and strong thematic resonance make it a standout cooperative filler.
+
+upgrades: []

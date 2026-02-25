@@ -1,0 +1,52 @@
+id: olympica
+name: "Olympica"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+  - Abstract
+
+evokes:
+  - Tension
+  - Rivalry
+  - Agency
+  - Clever
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Steve Jackson
+publisher:
+  - Metagaming Concepts
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 12
+
+description: |
+  Olympica is a sci-fi microgame by Steve Jackson published by Metagaming Concepts, pitting U.N. forces against Martian defenders on the surface of Mars. One player commands the attacking United Nations troops attempting to storm the Martian facility at Olympica, while the other controls the Martian defenders. Like other Metagaming microgames of this era, Olympica was designed to be fast-playing and affordable, fitting the full game experience into a small package with a hex map and cardboard counters. It is regarded as an accessible and enjoyable example of the microgame format pioneered by Metagaming in the 1970s-80s.
+
+upgrades: []

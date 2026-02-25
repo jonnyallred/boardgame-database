@@ -1,0 +1,53 @@
+id: ogre
+name: "Ogre"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Asymmetric
+  - Wargame
+  - Sci-Fi
+  - War
+
+evokes:
+  - Tension
+  - Powerful
+  - Rivalry
+  - Agency
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Steve Jackson
+publisher:
+  - Steve Jackson Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Ogre is an asymmetric two-player sci-fi wargame designed by Steve Jackson and first published in 1977 as one of the earliest "microgames," pitting a single enormous cybernetic tank called the "Ogre" against a conventional defensive force including tanks, infantry, and artillery protecting a command post. One player commands the unstoppable Ogre — a giant robot bristling with nuclear weapons — while the other commands a larger but individually weaker defensive army trying to stop it. Set in the late 21st century when hovercraft and tactical nukes define battlefield warfare, the game's elegant asymmetry and fast play time made it enormously influential. More than 200,000 copies have been printed across multiple editions, and Ogre remains one of Steve Jackson's defining designs.
+
+upgrades: []

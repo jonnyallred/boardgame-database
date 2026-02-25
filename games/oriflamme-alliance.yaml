@@ -1,0 +1,57 @@
+id: oriflamme-alliance
+name: "Oriflamme: Alliance"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: oriflamme
+edition: null
+base_game: oriflamme
+expansions: []
+compatible_with:
+  - oriflamme
+  - oriflamme-ablaze
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Bluffing
+  - Simultaneous Action
+  - Filler
+  - Medieval
+  - Historical
+
+evokes:
+  - Tension
+  - Clever
+  - Rivalry
+  - Agency
+  - Persuasion
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Adrien Hesling
+  - Axel Hesling
+publisher:
+  - Studio H
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Oriflamme: Alliance is the third standalone episode in the Oriflamme saga, concluding the trilogy of medieval political card games from Studio H. The arrival of a neighboring kingdom destabilizes the great families of the realm and forces them to consider political alliances over open feuding, introducing 10 new action cards with subtle tactical options and rich political decisions. The expansion can be played on its own or mixed with the original Oriflamme and/or Oriflamme: Ablaze for a larger and more complex card pool. Like its predecessors, players compete over six rounds to accumulate the most Influence Points by cleverly placing and resolving face-down cards in the Influence Queue.
+
+upgrades: []

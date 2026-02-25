@@ -1,0 +1,60 @@
+id: oceans
+name: "Oceans"
+alternate_names:
+  - "Evolution: Oceans"
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Engine Building
+  - Tableau Building
+  - Hand Management
+  - Variable Player Powers
+  - Euro
+  - Nature
+  - Animals
+
+evokes:
+  - Discovery
+  - Progress
+  - Wonder
+  - Unique
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Nick Bentley
+  - Dominic Crapuchettes
+  - Eilif Svensson
+  - Birger Ystad
+publisher:
+  - North Star Games
+artist:
+  - Catherine Hamilton
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Oceans is a standalone game in the Evolution series from North Star Games in which 2-4 players evolve marine species within an interconnected ocean ecosystem. Each turn, players deploy trait cards to create new species or evolve existing ones with abilities drawn from a rich set of surface traits — and optionally from "The Deep," a deck of nearly 100 unique and powerful traits representing the unknown wonders of the ocean floor. Species must stay well-fed to survive, converting accumulated food into victory points in a constantly shifting ecosystem where predators, symbionts, and scavengers interact. Created in consultation with marine biologist Brian O'Neill, Oceans is celebrated for its striking watercolor art by Catherine Hamilton and for capturing genuine ecological dynamics in an accessible engine-building format.
+
+upgrades: []

@@ -1,0 +1,48 @@
+id: obridjie
+name: "Obridjie"
+alternate_names: []
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Mancala
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 60
+min_age: 8
+
+description: |
+  Obridjie is a traditional board game from West Africa belonging to the mancala family of sowing games. Like other mancala variants, it is played by two players on a board with multiple pits, with players distributing seeds or stones around the board according to specific sowing rules and capturing opponent's pieces through strategic moves. Traditional mancala games like Obridjie have been passed down through oral tradition and community play rather than formal publishing, and specific details about regional rules and board configurations vary by community. It represents the rich tradition of mancala game variants found across West Africa.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: rhino-hero
+name: "Rhino Hero"
+alternate_names:
+  - Super Rhino!
+year: 2011
+
+# Relationships
+game_family: rhino-hero
+edition: null
+base_game: null
+expansions:
+  - rhino-hero-super-battle
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Filler
+  - Gateway
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4, 5]
+
+designer:
+  - Scott Frisco
+  - Steven Strumpf
+publisher:
+  - HABA
+artist:
+  - Thies Schwarz
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Rhino Hero is a delightful children's dexterity card-stacking game published by HABA in which players cooperate and compete to build a precarious skyscraper for the superhero Rhino Hero. On each turn, players bend wall cards and place a roof card, with each roof card dictating where the next player must position walls — gradually creating an ever-taller and wobblier tower. The iconic wooden Rhino Hero meeple travels up the building, and special action cards add chaos by requiring players to skip turns or change direction. A multiple-award-winning gateway game that delights children and adults alike with its blend of tension and humor.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: pyramid-of-pengqueen
+name: "Pyramid of Pengqueen"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - 1 vs Many
+  - Deduction
+  - Hidden Movement
+  - Family
+
+evokes:
+  - Tension
+  - Mystery
+  - Dread
+  - Agency
+  - Clever
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Marcel-André Casasola Merkle
+publisher:
+  - Brain Games
+  - Huch!
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 6
+
+description: |
+  Pyramid of Pengqueen is a unique one-versus-all hidden movement game played on a vertical 3D magnetic board where penguin treasure hunters attempt to recover gems from an ancient pyramid while avoiding the Mummy. The Mummy player, who cannot see the penguins' moves, must use deduction and logic to intercept them, while the hunters must use strategy and risk assessment to escape. Originally designed by Marcel-André Casasola Merkle in 2008, the 2018 Brain Games edition features updated artwork tying it to the Ice Cool universe.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: pixie-queen
+name: "Pixie Queen"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Auctions/Bidding
+  - Resource Management
+  - Euro
+  - Fantasy
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Progress
+  - Masterful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Rudy Seuntjens
+publisher:
+  - Bard Centrum Gier
+  - Game Brewer
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Pixie Queen is a worker placement game in which 2–5 players serve a tyrannical pixie queen across up to seven rounds. Players use four action disks to steal food from the nearby human village, perform one of 21 different actions, and simultaneously offer gold, silver, or food to satisfy the Queen's ever-changing cravings. Uniquely, players accumulate only penalty points during play, with end-game rewards (from charming the Queen with golden rings, offerings, or promoting pixies to faithful servants) reducing totals — the player with the fewest points wins. The combination of competitive worker placement, simultaneous bidding, and unusual reversed scoring creates a distinctive strategic experience.
+
+upgrades: []

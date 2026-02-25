@@ -1,0 +1,53 @@
+id: ringel-rangel
+name: "Ringel-Rangel"
+alternate_names:
+  - Ringel Rangel
+year: 1993
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Filler
+  - Animals
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Geni Wyss
+publisher:
+  - HABA
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 4
+
+description: |
+  Ringel-Rangel is an award-winning HABA children's dexterity game designed by Swiss author Geni Wyss that won the Special Prize for Children's Games at the 1993 Spiel des Jahres awards. Players select wooden turtle pieces and use a finger to push them across a wooden garden-themed board, aiming to land them in colored ring zones while avoiding pushing obstacles off the board. The chunky wooden components and simple spatial skill challenge make it ideal for young children developing fine motor skills. Its whimsical turtle-in-a-garden aesthetic and tactile wooden construction exemplify HABA's hallmark approach to quality children's game design.
+
+upgrades: []

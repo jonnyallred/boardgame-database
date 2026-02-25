@@ -1,0 +1,48 @@
+id: rock-island
+name: "Rock Island"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Family
+
+evokes:
+  - Tension
+  - Agency
+  - Rivalry
+  - Clever
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Rock Island is a board game with limited publisher and designer information available in English-language sources. The game details including exact publication year, designer, and publisher could not be confirmed during research. This entry represents an obscure title from the master list where documentation was unavailable.
+
+upgrades: []

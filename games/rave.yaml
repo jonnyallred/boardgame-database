@@ -1,0 +1,49 @@
+id: rave
+name: "Rave"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Party
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Rave is a party-oriented abstract game listed in board game databases. Limited commercial documentation is available for this title. The game appears to be a fast-playing social game designed for groups, using simple mechanics to generate lively interaction among players.
+
+upgrades: []

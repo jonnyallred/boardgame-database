@@ -1,0 +1,51 @@
+id: quixo
+name: "Quixo"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - No Math
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Thierry Chapeau
+publisher:
+  - Gigamic
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Quixo is a sliding abstract strategy game designed by Thierry Chapeau and published by Gigamic in 1995, winner of the 1995 Mensa Select award. Players draw a cube from the outer ring of a 5×5 grid and push it back into the grid from another side, revealing their symbol (X or O) on the front face. The goal is to create a line of five cubes bearing your symbol — horizontally, vertically, or diagonally — but every push shifts the entire row, making each move both a strategic placement and a potential disruption of existing patterns. Beautifully made from solid wood, Quixo is a classic of the Gigamic abstract games lineup.
+
+upgrades: []

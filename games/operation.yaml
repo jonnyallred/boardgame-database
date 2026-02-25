@@ -1,0 +1,52 @@
+id: operation
+name: "Operation"
+alternate_names: []
+year: 1965
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Family
+  - Party
+  - Gateway
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - John Spinello
+publisher:
+  - Milton Bradley
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Operation is a classic battery-operated dexterity game originally published by Milton Bradley in 1965 in which players take turns acting as surgeons to remove plastic ailments from the body of the prone patient "Cavity Sam" using metal tweezers. Each opening in Cavity Sam's body contains a named comedic ailment — from "Funny Bone" to "Spare Ribs" — and if a player touches the metal edge of a cavity, the patient's red nose lights up and a buzzer sounds, ending their turn. The game was invented by John Spinello while a student at the University of Illinois and sold to Milton Bradley for just $500. A beloved family classic, Operation remains iconic as an introduction to steady-hand dexterity games and has inspired dozens of licensed editions.
+
+upgrades: []

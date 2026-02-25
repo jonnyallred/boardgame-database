@@ -1,0 +1,55 @@
+id: panzer-leader
+name: "Panzer Leader"
+alternate_names:
+  - "Panzer Leader: Game of Tactical Warfare on the Western Front"
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with:
+  - panzerblitz
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Action Points
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James F. Dunnigan
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 300
+min_playtime: 180
+max_playtime: 480
+min_age: 14
+
+description: |
+  Panzer Leader is a tactical hex-and-counter wargame published by Avalon Hill in 1974 as the direct sequel to PanzerBlitz, shifting the focus from the Eastern Front to the Western European theater of World War II including the Normandy campaign and the Battle of the Bulge. Designed by Jim Dunnigan, the game features four geomorphic map tiles, twenty scenarios, and improved rules over its predecessor that added air attack mechanics, engineers, and new spotting rules to address exploitable "PanzerBush" tactics. The map boards are fully interchangeable with PanzerBlitz maps, allowing players to combine both sets for larger battles. Together, PanzerBlitz and Panzer Leader defined the tactical wargame genre for a generation of players.
+
+upgrades: []

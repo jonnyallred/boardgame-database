@@ -1,0 +1,55 @@
+id: null-nichtig
+name: "Null & Nichtig"
+alternate_names:
+  - "Null & Void"
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Hand Management
+  - Filler
+  - Family
+  - Gateway
+  - Euro
+
+evokes:
+  - Clever
+  - Tension
+  - Agency
+  - Rivalry
+  - Lucky
+
+possible_counts: [3, 4, 5]
+true_counts: [4]
+
+designer:
+  - Reiner Stockhausen
+publisher:
+  - Amigo
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Null & Nichtig (English: "Null & Void") is a trick-taking card game by Reiner Stockhausen published by Amigo in 2006. Players bid on how many tricks they expect to take each round — including the option to bid zero (null) — and must fulfill their exact bid to score points, penalized if they take too many or too few. The game adds a neat twist with special "nichtig" cards that can cancel other cards. Light and quick to play, it rewards careful hand reading and bold bidding decisions, making it a solid addition to the German-style filler card game tradition.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: rat-hot
+name: "Rat Hot"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Family
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Progress
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Rat Hot is a fast-playing dice and bluffing game in which players roll dice representing hungry rats competing for cheese. Players push their luck to collect as many cheese points as possible before the rats get too greedy and spoil the haul. The game uses simple dice mechanics with a charming rat theme to create a lighthearted press-your-luck experience for families. Limited commercial documentation is available for this title.
+
+upgrades: []

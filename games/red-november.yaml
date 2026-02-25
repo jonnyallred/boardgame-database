@@ -1,0 +1,53 @@
+id: red-november
+name: "Red November"
+alternate_names: []
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Action Points
+  - Fantasy
+  - Humor
+
+evokes:
+  - Tension
+  - Dread
+  - Connection
+  - Humor
+  - Lucky
+
+possible_counts: [1, 2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Bruno Faidutti
+  - Jef Gontier
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 13
+
+description: |
+  Red November is a cooperative survival game designed by Bruno Faidutti and Jef Gontier in which players control gnomes aboard a sinking Soviet submarine trying to keep it functional long enough to be rescued. Each turn, gnomes spend precious minutes moving and performing actions — fixing fires, floods, malfunctioning systems, and kraken attacks — while managing a sobriety track as terrified gnomes drink grog for courage and risk passing out at critical moments. Published by Fantasy Flight Games in 2008, the game combines dark comedy with genuine tension as cascading disasters pile up aboard the doomed vessel.
+
+upgrades: []

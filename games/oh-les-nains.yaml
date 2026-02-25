@@ -1,0 +1,51 @@
+id: oh-les-nains
+name: "Oh ! les nains"
+alternate_names: []
+year: 1997
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Take That
+  - Family
+  - Filler
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Asmodee
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 25
+min_age: 10
+
+description: |
+  Oh ! les nains is a 1997 French card game published by Asmodee, designed by Philippe des Pallières, in which two teams of garden gnomes engage in a tug-of-war over a garden hose stretched across a fence. Players play cards from three types — gnome-adding cards, hose-pulling cards, and squirrel-interference cards — to drag the opposing team's lead gnome into the fence, eliminating them from the round. The team whose lead gnome is knocked down first loses the round, and the first side to win two rounds takes the game. Fast and funny, Oh ! les nains is a light but tactically engaging card battle designed for family play.
+
+upgrades: []

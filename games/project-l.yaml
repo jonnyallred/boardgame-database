@@ -1,0 +1,60 @@
+id: project-l
+name: "Project L"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions:
+  - project-l-ghost-piece
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Engine Building
+  - Drafting
+  - Pattern Building
+  - Puzzle Solving
+  - Family
+  - Abstract
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Agency
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Michal Mikeš
+  - Jan Soukal
+  - Adam Španěl
+publisher:
+  - Boardcubator
+  - Asmodee
+artist:
+  - Jaroslav Juřica
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Project L is a fast, satisfying engine-building puzzle game in which players compete to complete puzzle cards by placing tetromino-style acrylic pieces onto recessed boards. Each turn players take three actions — placing a piece, mastering a puzzle to claim it, or recruiting a new piece — gradually building an engine that lets them tackle larger and more rewarding puzzles. Completed puzzles award points and new pieces, fueling further engine growth. Its elegant simultaneous play elements and tactile acrylic components make it a visually striking and accessible game that scales well from new players to experienced hobbyists.
+
+upgrades: []

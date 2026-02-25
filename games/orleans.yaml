@@ -1,0 +1,56 @@
+id: orleans
+name: "Orléans"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Bag Building
+  - Worker Placement
+  - Engine Building
+  - Resource Management
+  - Route Building
+  - Euro
+  - Cult Classic
+  - Medieval
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Complete
+  - Masterful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Reiner Stockhausen
+publisher:
+  - dlp games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Orléans is a bag-building, worker-placement game set in Medieval France in which players assemble a workforce of knights, monks, farmers, traders, and craftsmen by drawing tokens from a personal bag each round to power different actions. The game's central innovation is the bag-building mechanic — analogous to deck building but with physical tokens — as players steadily improve the quality of their bags to reliably access powerful combinations. Actions include recruiting new followers, moving a merchant figure along trade routes, building trading stations, and advancing along a development track across multiple scoring dimensions. Widely considered one of the finest examples of the bag-building genre ever designed, Orléans rewards thoughtful long-term planning and adaptability.
+
+upgrades: []

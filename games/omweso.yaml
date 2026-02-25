@@ -1,0 +1,49 @@
+id: omweso
+name: "Omweso"
+alternate_names:
+  - "Mweso"
+year: 1800
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Mancala
+
+evokes:
+  - Masterful
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 10
+
+description: |
+  Omweso (also known as Mweso) is the traditional mancala game of the Ugandan people, believed to have been introduced by the Bachwezi people of the ancient Bunyoro-Kitara Empire. The game is played on a board of 32 pits arranged in a four-row by eight-column grid, with 64 undifferentiated seeds distributed between the two players' 16 pits each. Players sow seeds counter-clockwise around their own side of the board, capturing opponent's seeds on the opposite side through complex relay-sowing rules, and win by reducing the opponent to no more than one seed per pit or eliminating their ability to move. Omweso was part of the crowning ceremony of Ugandan kings and remains deeply embedded in Ugandan cultural identity as both a competitive game and a ritual tradition.
+
+upgrades: []

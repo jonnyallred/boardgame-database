@@ -1,0 +1,55 @@
+id: olympos
+name: "Olympos"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Tech Tree
+  - Action Points
+  - Euro
+  - Ancient
+  - Mythology
+  - Civilization
+
+evokes:
+  - Agency
+  - Progress
+  - Rivalry
+  - Tension
+  - Powerful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer:
+  - Philippe Keyaerts
+publisher:
+  - Ystari Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Olympos is a civilization-building board game set in ancient Greece and the Aegean coast of Turkey in which players lead tribes competing to colonize territory at the cradle of Greek civilization. Players spend action points to expand their territory, advance along a technology tree, and seek favor from the Olympian gods who grant powerful special abilities. The time track mechanic drives the game's pace — players can take fewer actions by moving further ahead on the timeline, but may miss opportunities as the era shifts around them. Designed by Philippe Keyaerts and published by Ystari Games in 2011, Olympos offers a compact and elegant civilization experience driven by careful time management and territorial control.
+
+upgrades: []

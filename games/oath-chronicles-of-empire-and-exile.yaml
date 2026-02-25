@@ -1,0 +1,60 @@
+id: oath-chronicles-of-empire-and-exile
+name: "Oath: Chronicles of Empire and Exile"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 4  # Heirloom
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - Variable Player Powers
+  - Asymmetric
+  - Modular Board
+  - Ameritrash
+  - Euro
+  - Cult Classic
+  - Fantasy
+  - Cole Wehrle
+  - Leder Games
+
+evokes:
+  - Agency
+  - Tension
+  - Unique
+  - Rivalry
+  - Discovery
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Cole Wehrle
+publisher:
+  - Leder Games
+artist:
+  - Kyle Ferrin
+playtime_minutes: 150
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Oath: Chronicles of Empire and Exile is an asymmetric area control game for 1-6 players set in a living fantasy world where the outcome of each game permanently shapes the narrative and factions for future sessions. Players take on the roles of the Chancellor — who seeks to maintain power — and various Exiles and Denizens who each pursue their own victory conditions, from oath-keeping to conquest to trade. Designed by Cole Wehrle and illustrated by Kyle Ferrin, the game won the 2021 Golden Geek Award for Most Innovative Board Game, celebrated for its emergent storytelling where every session rewrites the history of the realm. The legacy-lite structure means no two campaigns ever unfold the same way.
+
+upgrades: []

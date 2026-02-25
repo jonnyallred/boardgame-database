@@ -1,0 +1,49 @@
+id: provopoli
+name: "Provopoli"
+alternate_names: []
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Lucky
+  - Progress
+  - Rivalry
+  - Humor
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 8
+
+description: |
+  Provopoli is an Italian-themed economic board game listed in board game databases. Limited commercial documentation is available for this title. The game likely incorporates elements of Italian culture, commerce, or city building in its theme, given the name's Italian derivation. It is noted as a family economic game in collector databases.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: sampo
+name: "Sampo"
+alternate_names: []
+year: 1904
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Family
+  - Mythology
+  - Historical
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Wonder
+  - Discovery
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Sampo is a Finnish board game from 1904 themed around the legendary Sampo artifact from the Finnish national epic Kalevala, in which the magical object is said to bring great fortune to its possessor. The game is notable as a historic artifact of Finnish gaming culture and is part of the permanent collection at the Finnish Museum of Games. As with many games of its era, specific rules and gameplay details are limited in modern documentation, but the game likely employed the race or fortune-gathering mechanics common to early 20th century family board games. The Sampo mythos has since inspired several modern game adaptations exploring Finnish mythology.
+
+upgrades: []

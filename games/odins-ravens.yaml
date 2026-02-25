@@ -1,0 +1,55 @@
+id: odins-ravens
+name: "Odin's Ravens"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Hand Management
+  - Filler
+  - Gateway
+  - Mythology
+  - Fantasy
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+  - Lucky
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Thorsten Gimmler
+publisher:
+  - Osprey Games
+artist:
+  - Johan Egerkrans
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 10
+
+description: |
+  Odin's Ravens is a fast two-player card game rooted in Norse mythology in which players each race one of Odin's ravens — Huginn and Muninn — across a landscape track of domino-style terrain cards in opposite directions. Players play terrain cards from their hands to advance their raven by matching the land type in front of it, racing to return to Odin first with the day's news. Loki cards (called Odin cards in some editions) offer special actions such as rearranging the landscape or hindering the opponent's raven, injecting clever tactical options into an otherwise brisk racing game. Originally released in 2002 and beautifully redesigned by Osprey Games with new artwork by Johan Egerkrans, it remains a beloved two-player filler.
+
+upgrades: []

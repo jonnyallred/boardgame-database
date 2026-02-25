@@ -1,0 +1,51 @@
+id: odysseus
+name: "Odysseus"
+alternate_names: []
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Negotiation
+  - Bluffing
+  - Hand Management
+  - Family
+  - Mythology
+
+evokes:
+  - Humor
+  - Tension
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Odysseus is a board game published by Jumbo International in which players take on the roles of Greek gods — each with unique powers — competing to steer Odysseus' ship toward adventures that score points based on secretly held Task cards. Players vote on the course of Odysseus' journey each round, but divine abilities and hidden agendas make every vote a layer of bluffing and negotiation. The first player to complete adventures worth 10 points wins. Inspired by Homer's Odyssey, the game captures the caprice of divine interference in mortal affairs through a lively social voting mechanism well-suited for family play.
+
+upgrades: []

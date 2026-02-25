@@ -1,0 +1,55 @@
+id: saboteur-the-duel
+name: "Saboteur: The Duel"
+alternate_names:
+  - Saboteur Le Duel
+year: 2014
+
+# Relationships
+game_family: saboteur
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Puzzle Solving
+  - 1 vs Many
+  - Family
+  - Filler
+  - Gateway
+
+evokes:
+  - Rivalry
+  - Tension
+  - Clever
+  - Agency
+  - Lucky
+
+possible_counts: [1, 2]
+true_counts: [2]
+
+designer:
+  - Frederic Moyersoen
+publisher:
+  - AMIGO
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Saboteur: The Duel is a standalone 1-2 player adaptation of the classic Saboteur card game by Frederic Moyersoen that distills the tunnel-building experience into a competitive two-player or solo format. Players lay path cards to create a maze leading toward six goal cards containing variable amounts of gold, while using action cards to hinder their opponent or repair their own broken equipment. A greedy troll lurks in the mine, demanding payment to let miners pass. The goal is to collect more gold than your opponent by strategically navigating the tunnels and blocking their routes, making it a quick and competitive duel that captures the original's spirit in a compact package.
+
+upgrades: []

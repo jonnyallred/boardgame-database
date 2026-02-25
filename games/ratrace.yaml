@@ -1,0 +1,51 @@
+id: ratrace
+name: "Ratrace"
+alternate_names: ["Rat Race"]
+year: 1967
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Economic
+  - Dice Rolling
+  - Racing
+  - Family
+
+evokes:
+  - Lucky
+  - Progress
+  - Rivalry
+  - Humor
+  - Tension
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Waddingtons
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 10
+
+description: |
+  Ratrace is a social climbing board game published by Waddingtons in 1967 in which players race up the social ladder from rags to riches and back down again, simulating the frantic up-and-down nature of social ambition. Players move around the board accumulating status symbols — houses, cars, boats — while trying to maintain their position at the top against the inevitable reversals of fortune. A satirical take on materialism and social ambition, Ratrace was a popular UK family game of its era.
+
+upgrades: []

@@ -1,0 +1,59 @@
+id: roll-through-the-ages-the-bronze-age
+name: "Roll Through the Ages: The Bronze Age"
+alternate_names:
+  - Roll Through the Ages
+year: 2008
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Roll & Write
+  - Press Your Luck
+  - Resource Management
+  - Civilization
+  - Ancient
+  - Family
+  - Gateway
+  - Eagle-Gryphon Games
+  - Matt Leacock
+
+evokes:
+  - Progress
+  - Clever
+  - Lucky
+  - Agency
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Matt Leacock
+publisher:
+  - Eagle-Gryphon Games
+artist: []
+playtime_minutes: 35
+min_playtime: 25
+max_playtime: 45
+min_age: 8
+
+description: |
+  Roll Through the Ages: The Bronze Age is a compact civilization dice game designed by Matt Leacock in which players roll a set of custom dice to gather food, workers, and commodities to advance their ancient civilization. Dice can be rerolled up to twice unless they show hazard faces, introducing meaningful press-your-luck decisions around risk and resource acquisition. Workers build infrastructure and monuments that score victory points, while developments provide permanent advantages. Its streamlined design delivers a satisfying civilization-building arc in under 45 minutes, making it an ideal gateway into both roll-and-write style games and the civilization genre.
+
+upgrades: []

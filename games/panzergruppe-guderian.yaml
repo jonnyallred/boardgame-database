@@ -1,0 +1,55 @@
+id: panzergruppe-guderian
+name: "Panzergruppe Guderian"
+alternate_names: []
+year: 1976
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Rivalry
+  - Masterful
+  - Powerful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James F. Dunnigan
+publisher:
+  - Simulations Publications Inc (SPI)
+  - Avalon Hill
+artist:
+  - Redmond A. Simonsen
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 14
+
+description: |
+  Panzergruppe Guderian is a classic 1976 hex-and-counter wargame simulating the 1941 Battle of Smolensk during Operation Barbarossa, as German forces under General Guderian raced to cross the Dnepr River and seize vital communication junctions before driving on Moscow. The game features regimental and divisional level units with innovative "untried" units whose combat values are hidden until combat, combined with a CRT that emphasizes step losses and retreats. Originally published in Strategy & Tactics magazine and widely considered a landmark in the SPI catalog, it later received an Avalon Hill edition in 1984. The game earned Charles S. Roberts Award nominations and helped define mid-complexity operational wargaming.
+
+upgrades: []

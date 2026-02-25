@@ -1,0 +1,57 @@
+id: patchwork
+name: "Patchwork"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Puzzle Solving
+  - Pattern Building
+  - Abstract
+  - Euro
+  - Family
+  - Gateway
+  - Uwe Rosenberg
+
+evokes:
+  - Complete
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Lookout Games
+artist:
+  - Klemens Franz
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 45
+min_age: 8
+
+description: |
+  Patchwork is a beloved two-player tile-placement game by Uwe Rosenberg in which players compete to build the most complete and visually satisfying quilt on their personal 9x9 grid board. Players take turns selecting irregularly shaped polyomino tiles from a revolving market, paying a cost in buttons (the currency) and time — advancing a shared time track to determine turn order. Special patches grant bonus buttons when passed, and a bonus is awarded to the first player to fill a 7x7 area. Final scoring subtracts two points for every empty square on the quilt and adds current button holdings. Received an official recommendation at the 2015 Spiel des Jahres and remains one of the definitive two-player games.
+
+upgrades: []

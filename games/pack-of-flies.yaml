@@ -1,0 +1,51 @@
+id: pack-of-flies
+name: "Pack of Flies"
+alternate_names: []
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Auctions/Bidding
+  - Simultaneous Action
+  - Filler
+  - Party
+
+evokes:
+  - Clever
+  - Lucky
+  - Tension
+  - Rivalry
+  - Humor
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 10
+
+description: |
+  Pack of Flies is a simultaneous bidding card game in which players reveal a set of cards available for collection and secretly choose a number of flies to bid, then simultaneously reveal their bids. The total of all flies bid determines which cards are claimed and by whom, creating a guessing game about what other players will do. Like many small bidding fillers, the game rewards reading your opponents and adjusting your bids accordingly, with the player who best manages the tension between bidding high enough to win desired cards and not overbidding taking the victory. It is a compact and accessible simultaneous-bidding experience in the tradition of I'm the Boss and similar light negotiation games.
+
+upgrades: []

@@ -1,0 +1,53 @@
+id: ringwraiths
+name: "Ringwraiths"
+alternate_names:
+  - Middle-earth CCG: The Lidless Eye
+year: 1997
+
+# Relationships
+game_family: middle-earth-ccg
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Deck Building
+  - Fantasy
+  - Lord of the Rings
+  - Card Drafting
+
+evokes:
+  - Powerful
+  - Tension
+  - Dread
+  - Rivalry
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Iron Crown Enterprises
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 12
+
+description: |
+  Ringwraiths (also known as The Lidless Eye) is a major expansion set for the Middle-earth Collectible Card Game (MECCG) published by Iron Crown Enterprises in 1997. This set introduced the ability for players to take on the role of Sauron's Ringwraiths, creating an entirely new playstyle opposed to the Wizards faction from the base game. Starter decks featured fixed cards built around one of five iconic Ringwraith characters, each with distinctive abilities and sinister thematic flavor drawn from Tolkien's lore. MECCG won two Origins Awards and remains a beloved collectible card game among Tolkien fans, though production ended in 1999 when ICE lost the Tolkien license.
+
+upgrades: []

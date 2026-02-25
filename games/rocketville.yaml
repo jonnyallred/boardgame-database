@@ -1,0 +1,54 @@
+id: rocketville
+name: "Rocketville"
+alternate_names: []
+year: 2006
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Auctions/Bidding
+  - Hand Management
+  - Sci-Fi
+  - Family
+  - Richard Garfield
+
+evokes:
+  - Humor
+  - Rivalry
+  - Agency
+  - Clever
+  - Lucky
+
+possible_counts: [3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Richard Garfield
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 10
+
+description: |
+  Rocketville is a lighthearted area majority game designed by Richard Garfield, set in a retro-futuristic "Hometown USA" community where 3-5 players campaign to become Mayor. Players travel between districts by rocket ship, accumulating votes by making promises to constituents, collecting endorsements from influential figures, and deploying robotic campaign helpers. The game combines area control, hand management, and light auction mechanics in an accessible format that delivers the spirit of competitive electioneering with a whimsical Atomic Age aesthetic. Published by Avalon Hill in 2006, it is a light and accessible design from the creator of Magic: The Gathering.
+
+upgrades: []

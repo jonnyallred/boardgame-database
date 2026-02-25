@@ -1,0 +1,49 @@
+id: peg-solitaire
+name: "Peg Solitaire"
+alternate_names: ["Solitaire", "Hi-Q"]
+year: 1697
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Abstract
+  - No Math
+
+evokes:
+  - Masterful
+  - Clever
+  - Progress
+  - Complete
+  - Agency
+
+possible_counts: [1]
+true_counts: [1]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 5
+max_playtime: 30
+min_age: 6
+
+description: |
+  Peg Solitaire is a classic solo puzzle game with origins traced to the French court of Louis XIV around 1697. The standard game begins with all 32 pegs filling a cross-shaped 33-hole board except for the center, and the player must eliminate pegs by jumping one peg orthogonally over an adjacent peg into an empty hole — removing the jumped peg. The goal is to reduce the board to a single peg, ideally landing it in the center hole. Despite its simple rules, the puzzle presents deep combinatorial challenges; arriving at the perfect single-peg solution requires careful planning of jump sequences. Its elegant difficulty made it a beloved mathematical puzzle for centuries.
+
+upgrades: []

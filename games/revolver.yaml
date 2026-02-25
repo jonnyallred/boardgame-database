@@ -1,0 +1,54 @@
+id: revolver
+name: "Revolver"
+alternate_names: []
+year: 2009
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hand Management
+  - Asymmetric
+  - Variable Player Powers
+  - Western
+  - 1 vs Many
+  - Card Drafting
+
+evokes:
+  - Rivalry
+  - Tension
+  - Agency
+  - Clever
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Mike Doris
+publisher:
+  - Stronghold Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 13
+
+description: |
+  Revolver is an asymmetric two-player card game set in the Wild West, pitting the infamous Colty gang against Colonel McReady and his posse across multiple battlefields. One player controls Jack "The Crow" Colty and his 15 gang members trying to reach the 3:15 train to escape, while the other controls the law enforcement trying to bring the outlaws to justice before they flee. Each player manages a distinct deck with unique cards featuring power and cost values, fighting simultaneously through different battlefield zones. The game delivers a tense cat-and-mouse experience with a satisfying thematic integration of Wild West tropes.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: revenge-of-the-dinosaurs
+name: "Revenge of the Dinosaurs"
+alternate_names: []
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Animals
+  - Family
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Waddingtons
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Revenge of the Dinosaurs is a children's race board game published by Waddingtons in which players move their dinosaur pieces around the board trying to complete a circuit while avoiding the fearsome Tyrannosaurus Rex. The game features simple dice-driven movement and elimination-style mechanics appropriate for young children, with the exciting theme of prehistoric creatures adding appeal. As a Waddingtons product from the late 1970s, it reflects the era's accessible family game design intended to introduce young players to competitive board gaming through a fun dinosaur theme.
+
+upgrades: []

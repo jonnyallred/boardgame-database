@@ -1,0 +1,50 @@
+id: pig
+name: "Pig"
+alternate_names: []
+year: 1945
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Press Your Luck
+  - Family
+  - Filler
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Pig is a classic press-your-luck dice game of traditional origin, first described in print by John Scarne in 1945. On each turn, players roll a single die repeatedly, accumulating a running total — but rolling a 1 ends the turn and wipes out all points gained that round. Players must decide when to "bank" their accumulated points and pass the die, with the first to reach 100 points winning. Pig is celebrated for elegantly demonstrating probability concepts and the gambler's fallacy — the temptation to roll "just once more" because the odds seem fine each time. It remains widely used in mathematics education and serves as the progenitor of many commercial press-your-luck dice games.
+
+upgrades: []

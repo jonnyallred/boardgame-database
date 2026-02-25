@@ -1,0 +1,53 @@
+id: poetry-for-neanderthals
+name: "Poetry for Neanderthals"
+alternate_names: []
+year: 2020
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Teams
+  - Party
+  - Family
+  - Word Play
+  - Real-time
+
+evokes:
+  - Humor
+  - Connection
+  - Tension
+  - Lucky
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 6]
+
+designer:
+  - Exploding Kittens
+publisher:
+  - Exploding Kittens
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 7
+
+description: |
+  Poetry for Neanderthals is a hilarious team word-guessing party game from Exploding Kittens in which clue-givers must describe words and phrases using only single-syllable words. Any time a clue-giver accidentally uses a word with two or more syllables, the opposing team gets to bop them with the game's included 2-foot inflatable "No!" stick. Teams earn points for each card they guess correctly. The 200-card deck features both easy and challenging concepts, making it accessible for families while remaining entertaining for adults. Released during the COVID-19 pandemic in 2020, it became a party game hit.
+
+upgrades: []

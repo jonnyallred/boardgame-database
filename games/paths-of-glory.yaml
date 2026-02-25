@@ -1,0 +1,54 @@
+id: paths-of-glory
+name: "Paths of Glory"
+alternate_names: ["Paths of Glory: The First World War, 1914-1918"]
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hand Management
+  - Card Drafting
+  - Area Control
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Ted Raicer
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 14
+
+description: |
+  Paths of Glory is a landmark card-driven wargame (CDG) covering the entirety of World War I from 1914 to the American entry in 1918, played on a map spanning all of Europe and the Middle East. Players take on the roles of the Allied and Central Powers, using a deck of event cards that can be played for their historical events or converted to operations points for movement and combat. Each turn players draw seven cards and take six actions, including a mandatory "Mandated Offensive" representing political pressure, capturing the strategic constraints both sides faced. Winner of the 1999 Charles S. Roberts Award for Best Pre-World War II Boardgame and the 2000 International Gamers Award, it is widely considered one of the finest CDGs ever designed.
+
+upgrades: []

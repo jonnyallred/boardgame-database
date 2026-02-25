@@ -1,0 +1,55 @@
+id: panzer-pranks
+name: "Panzer Pranks"
+alternate_names:
+  - "Panzer Pranks: WWII As It Actually Was in the Movies"
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Hex Map
+  - Humor
+  - Historical
+  - War
+
+evokes:
+  - Humor
+  - Lucky
+  - Tension
+  - Rivalry
+  - Unique
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Kurt Lortz
+  - Steve Lortz
+publisher:
+  - Chaosium
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 12
+
+description: |
+  Panzer Pranks is a comedic wargame parody published by Chaosium in 1980, created by brothers Kurt and Steve Lortz and subtitled "WWII As It Actually Was in the Movies." The game deliberately violates every convention of standard board wargames — tanks can make bank shots off the edge of the board, movement points can be saved and spent all at once, and Hollywood-style absurdity governs combat outcomes — serving as a satirical commentary on the stereotypes of war movies rather than actual military history. Chaosium, better known for role-playing games like Call of Cthulhu, published Panzer Pranks as a rare foray into comic wargaming, and it remains an affectionate cult curiosity from the early hobby's playful side.
+
+upgrades: []

@@ -1,0 +1,56 @@
+id: ora-et-labora
+name: "Ora et Labora"
+alternate_names: []
+year: 2011
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 1  # Light
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Engine Building
+  - Resource Management
+  - Rondel
+  - Euro
+  - Cult Classic
+  - Medieval
+  - Uwe Rosenberg
+
+evokes:
+  - Progress
+  - Clever
+  - Complete
+  - Agency
+  - Masterful
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Uwe Rosenberg
+publisher:
+  - Lookout Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Ora et Labora (Latin for "Pray and Work") is Uwe Rosenberg's richly complex monastery-building game in which each player heads a Medieval religious community that acquires land and constructs an intricate network of buildings and enterprises. The game's central innovation is a rondel-based resource system that governs how many of each good is available each round, rewarding players who time their building chains efficiently. Three workers are placed into buildings to trigger actions, but workers remain in place and rivals may use your buildings for a fee — creating a passive income dynamic similar to Rosenberg's Le Havre. Considered one of his finest designs, it rewards repeated play as players master the elegant interplay of land clearing, building placement, and prestigious item crafting.
+
+upgrades: []

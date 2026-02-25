@@ -1,0 +1,53 @@
+id: panic-tower
+name: "Panic Tower!"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Party
+  - Family
+  - Real-time
+
+evokes:
+  - Tension
+  - Humor
+  - Lucky
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer:
+  - Andrew Lawson
+  - Jack Lawson
+publisher:
+  - Gigamic
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Panic Tower is a chaotic dexterity stacking game for 2-8 players designed by Andrew and Jack Lawson and published by Gigamic, in which players must stack wooden blocks of three different heights onto specific positions on a 3x3 grid as dictated by drawn cards. The 60 wooden blocks come in three sizes (small, medium, and tall) and the 114 playing cards determine precisely what size block must go where on the growing tower, creating ever-more-precarious balancing challenges. The game ends when someone topples the tower, making each placement feel increasingly tense. Fast, family-friendly, and filled with nervous laughter, Panic Tower is a reliable crowd-pleaser for players of all ages.
+
+upgrades: []

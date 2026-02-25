@@ -1,0 +1,50 @@
+id: pixel
+name: "Pixel"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Masterful
+  - Rivalry
+  - Agency
+
+possible_counts: [2, 3]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Goliath
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 6
+
+description: |
+  Pixel is an abstract strategy game played on an 8x8 grid using two sliding mechanisms — one horizontal, one vertical — to place colored stones. Players compete to be the first to align four stones of their color in a horizontal, vertical, or diagonal row. The cross-action slider mechanism means that placing a stone simultaneously affects multiple rows and columns, creating unexpected interaction patterns and requiring players to think in terms of both offense and defense across the entire grid. The simple components and quick setup make it an accessible abstract that rewards spatial thinking.
+
+upgrades: []

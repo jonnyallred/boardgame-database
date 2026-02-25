@@ -1,0 +1,52 @@
+id: patrol
+name: "Patrol"
+alternate_names: ["Patrol: Man-to-Man Combat in the 20th Century"]
+year: 1974
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Simultaneous Action
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Masterful
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James F. Dunnigan
+publisher:
+  - Simulations Publications Inc (SPI)
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 120
+min_age: 14
+
+description: |
+  Patrol is a skirmish-level tactical wargame published by SPI in 1974, designed by James Dunnigan as a companion to his earlier Sniper! simulation. Each player controls 5–15 individual soldiers in scenarios spanning World War I through 1970, with each game turn representing 5 seconds to 5 minutes of real-time action. Counters have 10 Movement Points and players secretly "buy" actions simultaneously, then reveal and resolve them. The game covers the wide range of personal weapons and transportation methods across 20th-century warfare, making it one of the earliest and most comprehensive man-to-man tactical wargames published.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: ping-win
+name: "Ping Win"
+alternate_names: []
+year: 1995
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Family
+  - Abstract
+  - Animals
+
+evokes:
+  - Lucky
+  - Humor
+  - Tension
+  - Rivalry
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Ravensburger
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 5
+
+description: |
+  Ping Win is a simple children's game played on an iceberg-shaped board in which players take turns rolling a die and moving their penguin figures 1, 2, or 3 spaces left or right, pushing other penguins toward the edge. Any penguin pushed off the iceberg into the water is eliminated. The last player to still have penguins standing on the iceberg wins. The straightforward push-and-shove elimination mechanic, combined with cute penguin components and a small ice floe board, makes it an accessible and entertaining dexterity-adjacent game for young children.
+
+upgrades: []

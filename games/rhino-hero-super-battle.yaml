@@ -1,0 +1,55 @@
+id: rhino-hero-super-battle
+name: "Rhino Hero: Super Battle"
+alternate_names: []
+year: 2017
+
+# Relationships
+game_family: rhino-hero
+edition: null
+base_game: rhino-hero
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dexterity
+  - Dice Rolling
+  - Family
+  - Filler
+  - Gateway
+
+evokes:
+  - Humor
+  - Tension
+  - Lucky
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Scott Frisco
+  - Steven Strumpf
+publisher:
+  - HABA
+artist:
+  - Thies Schwarz
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Rhino Hero: Super Battle is the exciting sequel to Rhino Hero, expanding the stacking tower formula with superhero battles and dice-driven combat. Four superhero characters — Rhino Hero, Giraffe Boy, Big E., and Batguin — compete to climb a wobbly 3D tower built from floor tiles and walls. After adding to the tower, players roll a movement die to advance their hero; if they land on the same level as another hero, dice-based "battles" determine who gets knocked down a tier. Spider monkey figures hang from special floor tiles, adding even more precarious chaos to the balancing act. This sequel adds competitive depth while retaining the charming tension and humor of the original.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: orbit-a-brain-game
+name: "Orbit, a Brain Game"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Family
+  - Party
+
+evokes:
+  - Clever
+  - Tension
+  - Lucky
+  - Rivalry
+  - Complete
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Orbit, a Brain Game is a trivia and puzzle-style board game in which players answer questions on cards to advance around the board, with correct answers propelling players forward while wrong answers may move them back. The game emphasizes general knowledge and quick thinking across a variety of categories. Like many family trivia games of its era, it serves as a competitive knowledge test with a simple track-based movement structure, designed to appeal to families looking for accessible quiz-based game nights.
+
+upgrades: []

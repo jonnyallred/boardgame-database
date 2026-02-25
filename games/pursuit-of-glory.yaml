@@ -1,0 +1,54 @@
+id: pursuit-of-glory
+name: "Pursuit of Glory"
+alternate_names: ["Pursuit of Glory: The Great War in the Near East"]
+year: 2008
+
+# Relationships
+game_family: paths-of-glory
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Hand Management
+  - Events
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Brad Stock
+  - Brian Stock
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 360
+min_playtime: 240
+max_playtime: 480
+min_age: 16
+
+description: |
+  Pursuit of Glory is a card-driven two-player wargame published by GMT Games in 2008, serving as a standalone sequel to the acclaimed Paths of Glory. The game focuses on the Great War in the Near East (1914–1918), covering the Ottoman Empire's campaigns against British and Russian forces across the Middle East, Caucasus, and Gallipoli. Using the same point-to-point movement and hand management system as its predecessor, players command historical figures such as Churchill, Lawrence of Arabia, and Enver Pasha through scenarios shaped by the Russian Revolution, holy war declarations, and the Suez Canal. A 2009 Golden Geek nominee for Best War Game.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: polis-fight-for-the-hegemony
+name: "Polis: Fight for the Hegemony"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Resource Management
+  - Economic
+  - Wargame
+  - Ancient
+  - Historical
+
+evokes:
+  - Agency
+  - Masterful
+  - Tension
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Fran Diaz
+publisher:
+  - Stronghold Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Polis: Fight for the Hegemony is a challenging two-player civilization-lite wargame set during the Peloponnesian War, with one player controlling Athens and the Delian League and the other commanding Sparta and the Peloponnesian League. Players alternate taking pairs of actions — expanding city-states, managing populations, securing trade routes, and waging war — while balancing the critical need for wheat, which was scarce in ancient Greece and must be secured through trade. Victory goes to whoever has the most population cubes plus prestige points at game end. Lauded worldwide as an "instant classic" upon its 2012 release, Polis is celebrated for its depth, historical authenticity, and elegant civ-lite design.
+
+upgrades: []

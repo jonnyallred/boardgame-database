@@ -1,0 +1,53 @@
+id: panzerblitz
+name: "PanzerBlitz"
+alternate_names: []
+year: 1970
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Action Points
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James F. Dunnigan
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 480
+min_age: 14
+
+description: |
+  PanzerBlitz is a landmark tactical hex-and-counter wargame published by Avalon Hill in 1970, simulating armored combat on the Eastern Front of World War II at the company and platoon level. Designed by James Dunnigan, it was the best-selling board wargame in North America throughout the 1970s and pioneered geomorphic mapboards that can be combined in various configurations to create different battlefields across twelve included scenarios. The game board hexes represent 250 meters and each turn six minutes of combat time, providing an authentic simulation of combined arms tactics with tanks, infantry, artillery, and anti-tank guns. PanzerBlitz is widely credited with popularizing the entire genre of tactical-level hex wargames and spawned companion titles Panzer Leader and The Arab-Israeli Wars.
+
+upgrades: []

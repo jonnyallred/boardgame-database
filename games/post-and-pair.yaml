@@ -1,0 +1,50 @@
+id: post-and-pair
+name: "Post and Pair"
+alternate_names: ["Post and Pare", "Pink"]
+year: 1600
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Bluffing
+  - Press Your Luck
+  - Party
+  - Historical
+
+evokes:
+  - Tension
+  - Bluffing
+  - Lucky
+  - Rivalry
+  - Persuasion
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 12
+
+description: |
+  Post and Pair (also called Post and Pare or Pink) is a historical English gambling card game popular in the 16th and 17th centuries, noted by Charles Cotton in his 1674 Compleat Gamester as especially popular in the west of England. The game revolves around vying (betting) mechanics derived from the earlier game of Primero — players may vie or pass, with those who stay in repeatedly raising or matching bets until a showdown. The game is mentioned in Thomas Heywood's A Woman Killed with Kindness and is considered an ancestor of modern Brag. David Parlett and John McLeod identify Post and Pair as a direct precursor to the modern game of Brag.
+
+upgrades: []

@@ -1,0 +1,50 @@
+id: one-player-chess
+name: "One-Player Chess"
+alternate_names:
+  - "Solitaire Chess"
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 0  # Solitary
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Puzzle Solving
+  - Abstract
+  - Deduction
+
+evokes:
+  - Clever
+  - Agency
+  - Masterful
+  - Complete
+  - Tension
+
+possible_counts: [1]
+true_counts: [1]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 15
+min_playtime: 5
+max_playtime: 30
+min_age: 8
+
+description: |
+  One-Player Chess is a solitaire puzzle game in which all pieces on the board are the same color, and the player must move them so that pieces capture each other until only one piece remains on the board. Every move must result in a capture, pieces move according to standard chess rules, and no individual piece may capture more than twice per puzzle, with a king (if present) required to be the last piece remaining. The format was popularized by ThinkFun's Solitaire Chess (2010) and Chess.com's online Solo Chess mode, which both present a series of challenge positions ranging from beginner to expert difficulty. The game strips chess down to its movement rules and turns them into a satisfying sequence of spatial logic puzzles, making it an ideal introduction to chess piece movement for novices.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: qe
+name: "QE"
+alternate_names: ["Q.E.", "Quantitative Easing"]
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Auctions/Bidding
+  - Economic
+  - Party
+  - Gateway
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Bluffing
+  - Humor
+
+possible_counts: [3, 4, 5]
+true_counts: [4, 5]
+
+designer:
+  - Gavin Birnbaum
+publisher:
+  - BoardGameTables.com
+  - Lucky Duck Games
+  - Allplay
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  QE (Quantitative Easing) is a unique auction game in which players take on the roles of central banks bidding unlimited amounts of money to bail out companies during an economic crisis. After the lead player makes an open initial bid, all other players submit secret sealed bids — and the player who prints the most money overall loses the game entirely. This elegant anti-greed mechanic creates delicious tension between aggressive bidding and restraint, rewarding players who collect the most valuable sets of companies without becoming the biggest spendthrift.
+
+upgrades: []

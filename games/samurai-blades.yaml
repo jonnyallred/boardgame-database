@@ -1,0 +1,54 @@
+id: samurai-blades
+name: "Samurai Blades"
+alternate_names:
+  - "Samurai Blades: The Game of Man-to-Man Combat in Feudal Japan"
+year: 1984
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Dice Rolling
+  - Asymmetric
+  - Historical
+  - Medieval
+  - Wargame
+
+evokes:
+  - Tension
+  - Powerful
+  - Agency
+  - Rivalry
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Standard Games and Publications
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 12
+
+description: |
+  Samurai Blades is a 1984 man-to-man skirmish wargame set in feudal Japan, published by Standard Games and Publications, that simulates bloody close-quarters combat between samurai, ninja, ashigaru, monks, and peasants on a hex board. Each character is represented by multiple cardboard miniature pieces showing different damage states, and combat is resolved with a 20-sided die, making each exchange feel tactically weighty. The game's roster includes Mounted Samurai, Ninja, Ashigaru armed with bows, yari, and naginata, and various other feudal Japanese combatants. Reviewers praised it for capturing the visceral flavor of samurai cinema in a tight, bloody, and fast-playing format.
+
+upgrades: []

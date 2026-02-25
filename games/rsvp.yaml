@@ -1,0 +1,52 @@
+id: rsvp
+name: "RSVP"
+alternate_names:
+  - R.S.V.P.
+  - RSVP Three Dimensional Crossword Game
+year: 1958
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Rivalry
+  - Agency
+  - Masterful
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Selchow and Righter
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  RSVP (R.S.V.P.) is a vertical three-dimensional word game introduced by Selchow and Righter in 1958, marketed as "3-D Scrabble." Two players spell words using 73 four-sided wooden letter cubes inserted into an upright 11×11 grid board — crossword-style in three dimensions rather than flat on a surface. The cube pieces are identical on their opposing faces, showing a letter and its Scrabble-style point value, with no blank tiles included. The dark blue vertical frame held upright by detachable feet creates a distinctive physical presentation that differentiates RSVP from standard flat word games. Multiple editions were published through the 1960s and 1970s.
+
+upgrades: []

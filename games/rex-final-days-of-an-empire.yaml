@@ -1,0 +1,63 @@
+id: rex-final-days-of-an-empire
+name: "Rex: Final Days of an Empire"
+alternate_names: []
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Negotiation
+  - Bluffing
+  - Auctions/Bidding
+  - Asymmetric
+  - Variable Player Powers
+  - Hand Management
+  - Sci-Fi
+  - Wargame
+  - Fantasy Flight Games
+  - Corey Konieczka
+
+evokes:
+  - Rivalry
+  - Tension
+  - Persuasion
+  - Powerful
+  - Unique
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Bill Eberle
+  - Jack Kittredge
+  - Peter Olotka
+  - Christian T. Petersen
+  - Corey Konieczka
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 14
+
+description: |
+  Rex: Final Days of an Empire is a game of diplomacy, conquest, and betrayal for 3-6 players set in the crumbling imperial city of Mecatol Rex in the Twilight Imperium universe. Players control asymmetric alien civilizations, each with unique racial abilities, competing to gain control of the city through area control, negotiation, and tactical combat. Like the classic Dune board game it adapts, Rex features a simultaneous dial-based battle system and rich diplomatic metagame where alliances shift and betrayals determine victory as much as military might. Its depth comes from bluffing, deal-making, and the tension of a city collapsing around competing factions, making it a landmark negotiation game.
+
+upgrades: []

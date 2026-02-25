@@ -1,0 +1,53 @@
+id: satori
+name: "Satori"
+alternate_names: []
+year: 2023
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Drafting
+  - Action Points
+  - Religion
+  - Medieval
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Tension
+  - Wonder
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Paco Yanez
+publisher:
+  - Perro Loko Games
+artist: []
+playtime_minutes: 60
+min_playtime: 25
+max_playtime: 100
+min_age: 14
+
+description: |
+  Satori is a 2023 strategy game designed by Paco Yanez set in a world of Buddhist-inspired spiritual competition, in which 1-4 players advance on the path to enlightenment by building temples for devotees, recruiting wise monks, and contributing to the construction of a great pagoda. The game plays over five rounds using worker placement mechanics with different worker types, action chaining, and drafting elements that create a rich decision space despite its thematic focus on mindfulness and spiritual growth. Solo and multiplayer modes accommodate a wide range of playtimes from 25 to 100 minutes. The name Satori refers to the Zen Buddhist concept of sudden enlightenment.
+
+upgrades: []

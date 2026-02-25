@@ -1,0 +1,54 @@
+id: planet
+name: "Planet"
+alternate_names: []
+year: 2019
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Drafting
+  - Tile Placement
+  - Set Collection
+  - Family
+  - Nature
+
+evokes:
+  - Wonder
+  - Complete
+  - Discovery
+  - Clever
+  - Creative
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Arthur Meunier
+publisher:
+  - Blue Orange Games
+artist:
+  - Conception Studio
+playtime_minutes: 30
+min_playtime: 25
+max_playtime: 40
+min_age: 8
+
+description: |
+  Planet is a visually stunning drafting and tile-placement game in which 2–4 players build three-dimensional planets using magnetic landscape tiles representing oceans, deserts, mountains, and frozen tundra. Over 12 rounds, players take turns selecting and placing continent tiles onto their 12-sided planet cores, attempting to create the most attractive habitats for different animal species. At the end of each round, players win animal cards by having the largest single biome that matches each animal's habitat preference. A secret Natural Habitat objective for each player adds a layer of hidden scoring. Winner of multiple awards and beloved for its extraordinary tactile components and accessible design.
+
+upgrades: []

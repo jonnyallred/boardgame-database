@@ -1,0 +1,52 @@
+id: outpost-gamma
+name: "Outpost Gamma"
+alternate_names: []
+year: 1981
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Sci-Fi
+  - Asymmetric
+
+evokes:
+  - Tension
+  - Rivalry
+  - Powerful
+  - Agency
+  - Dread
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Arnold Hendrick
+publisher:
+  - Dwarfstar Games
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 90
+min_age: 12
+
+description: |
+  Outpost Gamma is a two-player sci-fi asymmetric wargame published by Dwarfstar Games in 1981, set on the colony world of Irda where ten Imperial Legionnaires must defend their outpost against a horde of native Irdans who have revolted against colonial exploitation. One player commands the high-tech but vastly outnumbered Legionnaires while the other controls the massive Irdan forces aided by sweeping planetary storms that disrupt combat unpredictably. The game's quick setup and fast-playing combat system — emphasizing high-technology versus low-technology asymmetry — made it a popular title in Dwarfstar's line of affordable, accessible wargames aimed at bringing new players into the hobby.
+
+upgrades: []

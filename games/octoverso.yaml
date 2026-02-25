@@ -1,0 +1,50 @@
+id: octoverso
+name: "Octoverso"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Word Play
+  - Hand Management
+  - Party
+  - Filler
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 10
+
+description: |
+  Octoverso is a French-language word game in which eight double-sided letter tiles are arranged on a rotating rail in the center of the table. Each player holds a hand of letter tiles and must form a word that begins with the last two letters — or ends with the first two letters — of the current word on the rail, effectively linking new words to the communal chain. Because the rail rotates, four valid connection points are theoretically available each turn, giving players multiple ways to build on the shared sequence. The first player to play all their tiles wins. Octoverso blends the chain-building pleasure of word games with a physical rotating component that keeps the valid plays changing each round.
+
+upgrades: []

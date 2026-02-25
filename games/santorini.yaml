@@ -1,0 +1,56 @@
+id: santorini
+name: "Santorini"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Tile Placement
+  - Variable Player Powers
+  - Asymmetric
+  - Mythology
+  - Ancient
+  - Gateway
+  - Roxley Games
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Gordon Hamilton
+publisher:
+  - Roxley Games
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Santorini is a beautifully presented abstract strategy game designed by Gordon Hamilton in which 2-4 players control builders racing to be the first to reach the third level of a growing 3D city inspired by the iconic cliffside architecture of Santorini, Greece. Each turn, a player moves one builder and then adds a building block — domes block movement and cap towers, creating an ever-shifting three-dimensional puzzle. What elevates Santorini above pure abstracts is its library of over 40 asymmetric god and hero powers, each fundamentally altering how the game's simple rules apply, making every combination feel fresh. Its 2016 Roxley Kickstarter became one of the most successful Canadian tabletop campaigns ever.
+
+upgrades: []

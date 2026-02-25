@@ -1,0 +1,51 @@
+id: russian-draughts
+name: "Russian draughts"
+alternate_names:
+  - Russian Checkers
+  - Shashki
+  - Russkie Shashki
+year: 1884
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Historical
+
+evokes:
+  - Masterful
+  - Clever
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 15
+max_playtime: 60
+min_age: 6
+
+description: |
+  Russian draughts (Shashki) is a checkers variant that developed in Russia from the 16th-17th centuries after checkers arrived from Europe, with official rules first printed in 1884. Played on an 8x8 board with 12 pieces per player, the game differs from standard checkers through its powerful king movement — Russian kings can move any distance diagonally in any direction, enabling spectacular multi-jump combinations — and the ability to jump forward and backward during captures. Players may choose which sequence of multiple captures to make, adding strategic depth. The first Russian championship was held in 1894, and the first World Championship of Russian draughts took place in 1993, demonstrating its enduring competitive stature.
+
+upgrades: []

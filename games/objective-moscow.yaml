@@ -1,0 +1,53 @@
+id: objective-moscow
+name: "Objective Moscow"
+alternate_names:
+  - "Objective Moscow: The Death of Soviet Communism"
+year: 1978
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 4  # Marathon
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - War
+  - Historical
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Powerful
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2]
+
+designer:
+  - Brad Hessel
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 1200
+min_playtime: 720
+max_playtime: 2400
+min_age: 16
+
+description: |
+  Objective Moscow: The Death of Soviet Communism is a massive strategic wargame published by SPI in 1978, simulating a hypothetical multi-power invasion of a weakened Soviet Union in 1998. The game features four enormous 22"x34" hex grid maps covering most of the former USSR, continental Europe, and parts of China, plus 1,200 die-cut counters representing NATO, a united Europe, Iran, China, and other forces converging on the USSR. One player controls the Soviet defenders while multiple opponents can play the invaders in the game's multi-player scenarios, using a phased movement system with a mechanized exploitation phase. One of the largest and most ambitious wargames of the SPI era, it represents the absolute pinnacle of "monster wargame" design.
+
+upgrades: []

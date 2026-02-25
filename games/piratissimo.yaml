@@ -1,0 +1,52 @@
+id: piratissimo
+name: "Piratissimo"
+alternate_names: []
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+  - Pirates
+
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Tension
+  - Discovery
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Manfred Ludwig
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 25
+min_playtime: 15
+max_playtime: 30
+min_age: 6
+
+description: |
+  Piratissimo is a light family pirate racing game published by Rio Grande Games in which 2–4 players race their pirate ships to be the first to deliver ten pieces of treasure to their safe harbor. Along the way, pirates steal, plunder, and sink each other's ships — but too much greed can put a player's own treasure at risk. The game uses a wind wheel and tornado piece to add random elements to movement, and offers two game variations for different levels of play. Designed by Manfred Ludwig for ages 6 and up, it provides a quick and colorful pirate adventure experience in under 30 minutes.
+
+upgrades: []

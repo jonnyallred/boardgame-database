@@ -1,0 +1,53 @@
+id: save-the-president
+name: "Save the President"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Traitor
+  - Social Deduction
+  - Bluffing
+  - Hidden Movement
+  - Party
+  - Family
+
+evokes:
+  - Mystery
+  - Tension
+  - Bluffing
+  - Rivalry
+  - Lucky
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Games for Pleasure
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Save the President is a hidden-role board game published by Games for Pleasure Ltd. in 1980, set on American Inauguration Day during the President-elect's motorcade travelling from the White House. Players take on the roles of agents surrounding the president — but are they loyal bodyguards or have some secretly partnered with an assassin? The game blends movement, positioning, and deception as players try to determine who among their fellow agents can be trusted, making for a tense social deduction experience with a political thriller theme. Its hidden roles and motorcade setting create an atmospheric party game experience that anticipates many features of modern social deduction games.
+
+upgrades: []

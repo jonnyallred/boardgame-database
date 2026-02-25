@@ -1,0 +1,54 @@
+id: ocean-trader
+name: "Ocean Trader"
+alternate_names: []
+year: 1988
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Economic
+  - Dice Rolling
+  - Family
+  - Maritime
+  - Historical
+
+evokes:
+  - Lucky
+  - Rivalry
+  - Progress
+  - Agency
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - John Rudford
+publisher:
+  - Clipper Games Ltd
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 9
+
+description: |
+  Ocean Trader is a family board game published by Clipper Games Ltd in 1988 in which 2-6 players captain clipper ships out of Liverpool, racing across the globe to buy and deliver commodities in the 19th-century age of sail. Players roll dice to move their ships to ports where they purchase needed goods, then race to deliver them to the ports offering the highest prices — with only the first two arrivals at each destination turning a profit, rewarding speed and route planning. Designed by John Rudford and published by the British company Clipper Games, Ocean Trader was the sole game released by that publisher despite plans for a series, and it offers a light and accessible introduction to trading and route optimization mechanics.
+
+upgrades: []

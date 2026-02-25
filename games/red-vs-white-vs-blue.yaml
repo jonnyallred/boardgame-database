@@ -1,0 +1,51 @@
+id: red-vs-white-vs-blue
+name: "Red vs White vs Blue: A Russian Civil War 1918-1922"
+alternate_names: []
+year: 1975
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Area Control
+
+evokes:
+  - Masterful
+  - Tension
+  - Rivalry
+  - Agency
+  - Powerful
+
+possible_counts: [2, 3]
+true_counts: [2, 3]
+
+designer: []
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 240
+min_playtime: 180
+max_playtime: 360
+min_age: 16
+
+description: |
+  Red vs White vs Blue: A Russian Civil War 1918-1922 is a multi-sided wargame simulating the complex multi-faction struggle of the Russian Civil War. Players control the Bolshevik Red Army, the counter-revolutionary White forces, and potentially the Allied interventionists or other factions competing for control of the former Russian Empire. The three-way dynamic creates unusual strategic situations where temporary alliances and betrayals shape the outcome, capturing the chaotic nature of one of the 20th century's most complex conflicts.
+
+upgrades: []

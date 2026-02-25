@@ -1,0 +1,50 @@
+id: octi
+name: "Octi"
+alternate_names: []
+year: 1999
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2, 4]
+true_counts: [2]
+
+designer:
+  - Donald Green
+publisher:
+  - Great American Trading Company
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 60
+min_age: 10
+
+description: |
+  Octi is an award-winning abstract strategy game for 2-4 players designed by Donald Green, in which players move octagonal "pod" pieces on a grid and win by moving all of their pods into the opponent's starting positions. The game's defining feature is its modular movement system — each pod starts bare but players add directional "prongs" to pods over the course of the game, determining how those pieces can move, jump, or capture. This means the game begins slowly as pieces have limited mobility, then accelerates dramatically as the board fills with armed pods capable of powerful multi-jump sequences. Widely praised by abstract game enthusiasts for its elegant scalability and depth, Octi won Best New Abstract Strategy Game in 2000.
+
+upgrades: []

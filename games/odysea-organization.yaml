@@ -1,0 +1,48 @@
+id: odysea-organization
+name: "Odysea Organization"
+alternate_names: []
+year: 2010
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Sci-Fi
+
+evokes:
+  - Discovery
+  - Agency
+  - Tension
+  - Progress
+  - Connection
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 10
+
+description: |
+  Odysea Organization is a cooperative board game in which players work together as a team to discover a ninth planet in space, overcoming challenges and collaborating to complete their mission. Players must coordinate their efforts and resources to navigate obstacles and achieve shared objectives before time or resources run out. Limited online documentation is available for this game outside its publisher's native market. It represents the category of thematic cooperative games designed for family or group play with an exploration-and-teamwork theme.
+
+upgrades: []

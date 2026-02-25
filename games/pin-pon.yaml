@@ -1,0 +1,50 @@
+id: pin-pon
+name: "Pin Pon!"
+alternate_names: []
+year: 2021
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Family
+
+evokes:
+  - Connection
+  - Tension
+  - Lucky
+  - Humor
+  - Progress
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Djeco
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 3
+
+description: |
+  Pin Pon! is a cooperative children's game by Djeco in which players race to get the fire truck to a burning house before all the firefighters are used up. Players roll a die each turn — a red result moves the fire truck one step forward; other colors prompt players to flip path cards, which either clear the road or block it. If the fire truck reaches the house in time, all players win together. The game was nominated for the As d'or 2022 Children's Game of the Year award and is designed to introduce very young children to cooperative play in a fun, thematic firefighting scenario.
+
+upgrades: []

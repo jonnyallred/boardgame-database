@@ -1,0 +1,55 @@
+id: parthenon-rise-of-the-aegean
+name: "Parthenon: Rise of the Aegean"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Trading
+  - Resource Management
+  - Economic
+  - Ancient
+  - Historical
+
+evokes:
+  - Progress
+  - Discovery
+  - Clever
+  - Agency
+  - Wonder
+
+possible_counts: [3, 4, 5, 6]
+true_counts: [4, 5]
+
+designer:
+  - Andrew Parks
+  - Jason Hawkins
+publisher:
+  - Z-Man Games
+  - Siren Bridge Publishing
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 150
+min_age: 12
+
+description: |
+  Parthenon: Rise of the Aegean is a trading and civilization-building game set in the Aegean Sea around 600 B.C. in which 3–6 players each control an island and compete to be the first to construct all their buildings, including two Great Wonders. Each player develops their island through maritime trade, accumulating resources to build villages, workshops, fortresses, shrines, and academies across four seasons of ten phases per year — representing three years of time. The game's economy of trade and development, combined with historical flavor and a race-to-completion victory condition, earned it the Origins Award for Board Game of the Year.
+
+upgrades: []

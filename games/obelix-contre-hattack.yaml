@@ -1,0 +1,51 @@
+id: obelix-contre-hattack
+name: "Obélix contre Hattack"
+alternate_names:
+  - "Astérix présente Obélix contre Hattack"
+year: 1996
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Family
+  - Fantasy
+
+evokes:
+  - Lucky
+  - Humor
+  - Rivalry
+  - Tension
+  - Connection
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 40
+min_age: 8
+
+description: |
+  Obélix contre Hattack is a 1996 French children's board game published by Nathan and based on the beloved Astérix and Obélix comic series. Players take on the roles of Gauls — Falbala, Panoramix, Astérix, and Abraracourcix — and roll dice to move through the forest in search of the mysterious sorcerer Hattack, encountering friends and foes along the way including Romans, wild boars, and rotten fish that either help or hinder progress. Two game boards, a large Obélix figurine, and various card types add variety to each adventure, and the first player to locate Hattack wins the round. A lighthearted race game for the youngest fans of the classic Gaulish heroes.
+
+upgrades: []

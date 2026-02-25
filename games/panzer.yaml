@@ -1,0 +1,54 @@
+id: panzer
+name: "Panzer"
+alternate_names:
+  - "Panzer: The Game of Small Unit Actions and Combined Arms Operations on the Eastern Front 1943-45"
+year: 2012
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+  - Action Points
+
+evokes:
+  - Masterful
+  - Tension
+  - Agency
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James M. Day
+publisher:
+  - GMT Games
+artist: []
+playtime_minutes: 360
+min_playtime: 180
+max_playtime: 720
+min_age: 14
+
+description: |
+  Panzer is a detailed tactical-level hex-and-counter wargame published by GMT Games in 2012, simulating small unit combined-arms combat on the Eastern Front of World War II in 1943-45 at the vehicle and squad level. Designed by James M. Day, the game is notable for its rich system modeling individual weapons, vehicles, crews, and tactical conditions with high-quality components and thoroughly researched orders of battle for both German and Soviet forces. Nominated for a Charles S. Roberts Award in 2013, Panzer is considered one of the finest modern tactical wargames available, offering extensive scenario coverage from Kursk through the final battles of the war. The system expanded through companion sets covering additional theatres and periods.
+
+upgrades: []

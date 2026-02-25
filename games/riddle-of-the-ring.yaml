@@ -1,0 +1,54 @@
+id: riddle-of-the-ring
+name: "Riddle of the Ring"
+alternate_names: []
+year: 1977
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Fantasy
+  - Lord of the Rings
+  - Historical
+  - Wargame
+
+evokes:
+  - Rivalry
+  - Tension
+  - Discovery
+  - Mystery
+  - Powerful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - John Cailiff
+  - William Walker
+publisher:
+  - Fellowship Games
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 12
+
+description: |
+  Riddle of the Ring is an early board game adaptation of J.R.R. Tolkien's The Lord of the Rings, first published in 1977 by Fellowship Games and later acquired and republished with improved production by Iron Crown Enterprises in 1982. Players take on the roles of various factions from Middle-earth competing across a map of Tolkien's world in a strategy game of area control and conflict. The game was one of the first licensed Tolkien board games and reflects the era's wargame design sensibilities. Its historical significance lies in being an early attempt to translate the epic scope of The Lord of the Rings into tabletop form.
+
+upgrades: []

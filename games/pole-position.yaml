@@ -1,0 +1,50 @@
+id: pole-position
+name: "Pole Position"
+alternate_names: []
+year: 1983
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Racing
+  - Family
+
+evokes:
+  - Tension
+  - Rivalry
+  - Lucky
+  - Agency
+  - Progress
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 8
+
+description: |
+  Pole Position is a Formula 1 racing board game published by Parker Brothers in 1983, based on the iconic Atari arcade game of the same name. Players race around a track using card or dice mechanics, navigating the challenges of a race circuit to reach the finish line first. The game captures the excitement of Grand Prix racing in an accessible board game format aimed at family audiences, tying into the enormous popularity of the Pole Position arcade and home video game at the time.
+
+upgrades: []

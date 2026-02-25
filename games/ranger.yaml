@@ -1,0 +1,51 @@
+id: ranger
+name: "Ranger"
+alternate_names: ["Ranger: Simulation of Modern Patrolling Operations"]
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Cooperative
+
+evokes:
+  - Tension
+  - Dread
+  - Agency
+  - Masterful
+  - Mystery
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [1, 2]
+
+designer: []
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Ranger: Simulation of Modern Patrolling Operations is a wargame published by SPI simulating the dangerous work of infantry patrol missions during the Vietnam era. Players command small units navigating jungle terrain, managing contact with enemy forces, and accomplishing mission objectives while keeping casualties to a minimum. The game is notable for its detailed simulation of small-unit tactics and the psychological tension of patrol operations, making it one of the more grounded tactical wargames of its period.
+
+upgrades: []

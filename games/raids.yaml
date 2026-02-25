@@ -1,0 +1,54 @@
+id: raids
+name: "Raids"
+alternate_names: []
+year: 2018
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Area Control
+  - Hand Management
+  - Take That
+  - Medieval
+  - Family
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Agency
+  - Tension
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Matthew Dunstan
+  - Brett J. Gilbert
+publisher:
+  - IELLO
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Raids is a Viking-themed competitive game designed by Matthew Dunstan and Brett J. Gilbert, published by IELLO. Players recruit viking warriors to raid islands, defeat monsters, and compete for glory across a shifting landscape of opportunities. The game blends hand management and area control as players sail between locations, using their crew to fight rivals for prime spaces and vanquish monsters for victory points. The fast-moving action and accessible mechanics make it a solid choice for fans of light-to-medium competitive games with a Viking theme.
+
+upgrades: []

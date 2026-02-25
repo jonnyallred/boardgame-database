@@ -1,0 +1,53 @@
+id: panzer-armee-afrika
+name: "Panzer Armee Afrika"
+alternate_names:
+  - "PanzerArmee Afrika"
+year: 1973
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Hex Map
+  - Wargame
+  - Historical
+  - War
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - James F. Dunnigan
+publisher:
+  - SPI
+artist: []
+playtime_minutes: 480
+min_playtime: 360
+max_playtime: 720
+min_age: 14
+
+description: |
+  Panzer Armee Afrika, subtitled "Rommel in the Desert, April 1941 - November 1942," is a hex-and-counter wargame designed by Jim Dunnigan and originally published by Simulations Publications Inc. (SPI) in 1973, simulating the World War II North African Campaign in which Axis forces under Field Marshal Erwin Rommel clashed with the British Eighth Army. The game covers the full sweep of the desert war — from the initial Axis advance into Egypt through the British counteroffensives — at an operational level of command. It was revised and republished by Avalon Hill in 1984 with updated components. As one of SPI's key operational wargame designs, it remains a classic study in mobile desert warfare logistics and maneuver.
+
+upgrades: []

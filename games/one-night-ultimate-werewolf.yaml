@@ -1,0 +1,55 @@
+id: one-night-ultimate-werewolf
+name: "One Night Ultimate Werewolf"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Social Deduction
+  - Traitor
+  - Bluffing
+  - Party
+  - Filler
+  - Gateway
+
+evokes:
+  - Tension
+  - Humor
+  - Persuasion
+  - Lucky
+  - Rivalry
+
+possible_counts: [3, 4, 5, 6, 7, 8, 9, 10]
+true_counts: [6, 7, 8]
+
+designer:
+  - Ted Alspach
+  - Akihisa Okui
+publisher:
+  - Bezier Games
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 8
+
+description: |
+  One Night Ultimate Werewolf is a fast-paced social deduction game for 3-10 players that condenses the classic Werewolf/Mafia experience into a single action-packed round. Each player receives a secret role — Werewolf, Seer, Robber, Troublemaker, or others — and during the night phase (guided by an optional smartphone app) players secretly swap, peek at, or manipulate role cards. At dawn, everyone debates and votes to eliminate the player they believe is a Werewolf, with roles potentially changed since the start. A recommended title for the Spiel des Jahres, it is celebrated for revolutionary app integration and its ability to pack rich social dynamics into just ten minutes of play.
+
+upgrades: []

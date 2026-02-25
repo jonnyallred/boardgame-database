@@ -1,0 +1,54 @@
+id: pacific-victory
+name: "Pacific Victory: War in the Pacific 1941-45"
+alternate_names:
+  - "Pacific Victory"
+year: 2003
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 3  # Competitive
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Historical
+  - War
+  - Area Control
+  - Asymmetric
+
+evokes:
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+  - Powerful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Columbia Games
+publisher:
+  - Columbia Games
+artist: []
+playtime_minutes: 300
+min_playtime: 180
+max_playtime: 600
+min_age: 14
+
+description: |
+  Pacific Victory: War in the Pacific 1941-45 is a Columbia Block System wargame simulating the entire Pacific theater of World War II, from Pearl Harbor to Japan's surrender. Using the iconic Columbia Games wooden block system, units — carriers, submarines, cruisers, battleships, airforces, marines, and infantry representing Japan, the US, Britain, India, Australia, and China — stand upright hiding their type and strength from the opponent, providing a natural fog-of-war effect without additional rules. A step-reduction system is built in: as units take damage they rotate to show reduced combat values. The game covers all major campaigns including the island-hopping campaign, China, and the naval war, available in both scenario and grand campaign formats.
+
+upgrades: []

@@ -1,0 +1,49 @@
+id: oktaeder
+name: "Oktaeder"
+alternate_names:
+  - "Octahedron"
+year: 1985
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 8
+
+description: |
+  Oktaeder (German for "Octahedron") is a two-player abstract strategy game in which players take turns stacking marbles into a shared playing area, gradually building up an octahedron-shaped three-dimensional structure. The objective is to form lines of four marbles in one's own color within this growing three-dimensional arrangement. The game transforms the classic four-in-a-row concept into an elegant spatial challenge: players must think not just in two dimensions but plan for the shape's evolving geometry as layers are added. Simple to explain but demanding in spatial visualization, Oktaeder belongs to the tradition of German abstract games that use physical construction as a strategic canvas.
+
+upgrades: []

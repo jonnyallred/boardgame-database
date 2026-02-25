@@ -1,0 +1,57 @@
+id: runebound
+name: "Runebound"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: runebound
+edition: "1st Edition"
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (competitive but often solo-ish)
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Modular Board
+  - Dice Rolling
+  - Variable Player Powers
+  - Fantasy
+  - Dungeon Crawler
+  - Adventure
+  - Ameritrash
+  - Fantasy Flight Games
+
+evokes:
+  - Discovery
+  - Progress
+  - Powerful
+  - Agency
+  - Wonder
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [2, 3, 4]
+
+designer:
+  - Martin Wallace
+  - Darrell Hardy
+publisher:
+  - Fantasy Flight Games
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Runebound is a high fantasy adventure game set in the world of Terrinoth where 1-6 players take on the roles of heroes roaming the land, completing quests, gaining experience, and growing in power. Players move across a modular map seeking quest markers, fighting monsters in multi-stage dice-based combat, and acquiring equipment and abilities to face increasingly powerful adversaries. The game features a large card library of monsters, items, and allies that give each hero a personalized growth arc. Runebound shares its world with other Fantasy Flight games like Descent and Runewars, and spawned two revised editions plus numerous expansions, becoming a flagship of the adventure genre.
+
+upgrades: []

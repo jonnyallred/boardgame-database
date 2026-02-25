@@ -1,0 +1,52 @@
+id: pete-the-pirate
+name: "Pete the Pirate"
+alternate_names: ["Piraten-Pitt"]
+year: 2000
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Deduction
+  - Family
+  - Pirates
+
+evokes:
+  - Humor
+  - Tension
+  - Mystery
+  - Lucky
+  - Clever
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Wolfgang Kramer
+publisher:
+  - HABA
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 6
+
+description: |
+  Pete the Pirate (Piraten-Pitt) is a charming children's memory and deduction game designed by Wolfgang Kramer and published by HABA in 2000. Players roll a die, move around the board, and collect treasures that are hidden in a two-compartment treasure chest. The twist: opponents can flip and rotate your chest, so you must remember which half holds your jewels. When Pete the Pirate appears, you want to open the empty compartment — if you guess wrong, you lose treasures. The simple memory mechanic and pirate theme make it an ideal introduction to deduction for young players.
+
+upgrades: []

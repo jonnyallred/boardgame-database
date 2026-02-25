@@ -1,0 +1,54 @@
+id: okiya
+name: "Okiya"
+alternate_names:
+  - "Niya"
+year: 2013
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Pattern Building
+  - Filler
+  - Gateway
+  - Bruno Cathala
+
+evokes:
+  - Clever
+  - Masterful
+  - Rivalry
+  - Agency
+  - Tension
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Bruno Cathala
+publisher:
+  - Blue Orange Games
+artist: []
+playtime_minutes: 10
+min_playtime: 5
+max_playtime: 15
+min_age: 8
+
+description: |
+  Okiya (also known as Niya) is a minimalist two-player abstract strategy game by Bruno Cathala set in a Japanese garden where players place geisha tokens on a 4x4 grid of tiles. Each tile shows one of four types of vegetation and one of four poetic symbols, and the first player removes a border tile and claims its space, then their opponent must choose a tile sharing the same vegetation or symbol. The goal is to form a row, column, diagonal, or 2x2 square of your geisha tokens — or to force your opponent into a position where they cannot move. In fewer than ten minutes, Okiya achieves remarkable depth through a single elegant constraint, making it a widely praised exercise in minimalist design.
+
+upgrades: []

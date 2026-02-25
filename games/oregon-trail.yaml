@@ -1,0 +1,54 @@
+id: oregon-trail
+name: "The Oregon Trail Card Game"
+alternate_names: []
+year: 2016
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Hand Management
+  - Press Your Luck
+  - Family
+  - Gateway
+  - Historical
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Discovery
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [3, 4, 5]
+
+designer:
+  - Pressman Toy
+publisher:
+  - Pressman
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 12
+
+description: |
+  The Oregon Trail Card Game is a cooperative card game based on the beloved 1970s educational computer game, published by Pressman in 2016 as a Target exclusive that quickly sold out and became a cultural phenomenon. Players work together to guide a wagon party along the Oregon Trail from Independence, Missouri to the Willamette Valley, playing trail cards to progress while overcoming calamities like river crossings, disease, and food shortages using Supply Cards. When a player succumbs to a calamity like dysentery, they customize a tombstone card in classic Oregon Trail fashion. The game captures the nostalgic dark humor of the original video game, with its 8-bit aesthetic and high mortality rate making it a popular party experience for adults who grew up with the computer game.
+
+upgrades: []

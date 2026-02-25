@@ -1,0 +1,57 @@
+id: roll-for-the-galaxy
+name: "Roll for the Galaxy"
+alternate_names: []
+year: 2014
+
+# Relationships
+game_family: race-for-the-galaxy
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Engine Building
+  - Tableau Building
+  - Set Collection
+  - Sci-Fi
+  - Space
+  - Euro
+  - Rio Grande Games
+
+evokes:
+  - Progress
+  - Clever
+  - Agency
+  - Discovery
+  - Masterful
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [2, 3, 4]
+
+designer:
+  - Wei-Hwa Huang
+  - Tom Lehmann
+publisher:
+  - Rio Grande Games
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 75
+min_age: 13
+
+description: |
+  Roll for the Galaxy is a dice-driven space empire building game adapted from the acclaimed card game Race for the Galaxy, designed by Wei-Hwa Huang and Tom Lehmann. Each player's custom pool of dice represents their civilization's populace, assigned to actions — developing new technologies, settling worlds, producing goods, and shipping — in a hidden simultaneous allocation phase. Players reveal their choices together and all benefit from phases that any player has initiated, creating a tense metagame of predicting opponents' actions. The ability to purchase new specialized dice that grow your empire gives the game a satisfying engine-building arc over its efficient playtime.
+
+upgrades: []

@@ -1,0 +1,52 @@
+id: rummoli
+name: "Rummoli"
+alternate_names: []
+year: 1940
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Set Collection
+  - Party
+  - Family
+  - Gateway
+
+evokes:
+  - Lucky
+  - Tension
+  - Humor
+  - Connection
+  - Rivalry
+
+possible_counts: [2, 3, 4, 5, 6, 7, 8]
+true_counts: [4, 5, 6]
+
+designer: []
+publisher:
+  - Copp Clark Publishing Company
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 8
+
+description: |
+  Rummoli is a beloved Canadian card game first marketed in 1940 by the Copp Clark Publishing Company of Toronto, blending elements of Poker and Rummy into a unique hybrid experience. The game is played in two phases on a distinctive octagonal Rummoli board: first a Poker Play phase using standard poker hands, then a Rummy Play phase in which players race to empty their hands by sequentially playing cards. Players collect chips from the board for achieving specific card combinations and must pay chips when they cannot play. As a member of the Stops family of matching card games related to the French game Poch and the American game Tripoley, Rummoli has become a quintessential Canadian family game night classic.
+
+upgrades: []

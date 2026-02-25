@@ -1,0 +1,53 @@
+id: power-projection-escort
+name: "Power Projection: Escort"
+alternate_names: []
+year: 2002
+
+# Relationships
+game_family: power-projection
+edition: null
+base_game: null
+expansions: []
+compatible_with: ["power-projection-fleet"]
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Sci-Fi
+  - Space
+  - Simulation
+
+evokes:
+  - Powerful
+  - Tension
+  - Agency
+  - Masterful
+  - Rivalry
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Dominic Mooney
+publisher:
+  - BITS
+  - Ad Astra Games
+artist: []
+playtime_minutes: 90
+min_playtime: 60
+max_playtime: 180
+min_age: 14
+
+description: |
+  Power Projection: Escort is the introductory entry in BITS's Traveller space combat wargame line, published in 2002. Focused on Imperial and Zhodani ships under 10,000 tons, it provides streamlined quick-play rules accessible to players new to the Full Thrust-derived system. The game uses vector movement, simultaneous movement, and initiative-based fire, featuring classic Traveller weapons including meson guns, particle accelerators, missiles, and beam weapons. Escort is fully standalone and pairs naturally with its companion volume Power Projection: Fleet for larger capital ship engagements. Together, the two books cover the full range of Traveller's Fifth Frontier War naval scenarios.
+
+upgrades: []

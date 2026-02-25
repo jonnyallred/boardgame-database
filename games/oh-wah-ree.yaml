@@ -1,0 +1,52 @@
+id: oh-wah-ree
+name: "Oh-Wah-Ree"
+alternate_names: []
+year: 1962
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Mancala
+  - Family
+  - Gateway
+
+evokes:
+  - Clever
+  - Agency
+  - Rivalry
+  - Tension
+  - Masterful
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer:
+  - Alex Randolph
+publisher:
+  - 3M
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 8
+
+description: |
+  Oh-Wah-Ree is a mancala variant designed by Alex Randolph and published in 1962 by 3M as part of their renowned Bookshelf Games line, based on the West African mancala game Oware. The game is played on a distinctive contoured fold-away board with a ring of pits and stone playing pieces, and distinguishes itself from standard mancala by including a second ring of holes to mark ownership of pits — a feature that allows play between two, three, or four players simultaneously. Multiple mancala variations are included in the rules, giving the set considerable depth and variety. The game was recognized by Games Magazine in their Top 100 Games of 1981 as the definitive commercial mancala offering due to its multi-variant ruleset.
+
+upgrades: []

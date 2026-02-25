@@ -1,0 +1,50 @@
+id: qubic
+name: "Qubic"
+alternate_names: ["Qubic 3-D Tic-Tac-Toe"]
+year: 1964
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - No Math
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2, 3]
+true_counts: [2]
+
+designer: []
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Qubic is Parker Brothers' brand name for a 3D tic-tac-toe game first manufactured in 1964, played on a four-level structure of 4×4 transparent boards. Players take turns placing colored chips on any level, attempting to create a row of four in any direction — horizontal, vertical, or diagonal across or through levels — before their opponent does. The three-dimensional nature transforms the familiar tic-tac-toe concept into a surprisingly deep spatial challenge, and the game was reissued in a modernized design in 1972 before eventually being discontinued.
+
+upgrades: []

@@ -1,0 +1,55 @@
+id: potion-explosion
+name: "Potion Explosion"
+alternate_names: []
+year: 2015
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Set Collection
+  - Puzzle Solving
+  - Pattern Building
+  - Family
+  - Fantasy
+
+evokes:
+  - Clever
+  - Progress
+  - Complete
+  - Wonder
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - Stefano Castelli
+  - Andrea Crespi
+  - Lorenzo Silva
+publisher:
+  - Horrible Guild
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 14
+
+description: |
+  Potion Explosion is a puzzle game in which 2–4 aspiring wizards draw ingredient marbles from a large physical dispenser, triggering chain reactions when marbles of the same color collide. Players collect these ingredient marbles and use them to fill potion tiles on their workbench — completing potions grants their magical effects and advances end-game scoring. Completing three potions of the same type or five different types earns a valuable Skill Token. The combination of a tactile marble dispenser, the visual satisfaction of chain explosions, and strategic planning of which marble to pull makes it a uniquely compelling puzzle experience. Published by Horrible Guild and available in multiple editions.
+
+upgrades: []

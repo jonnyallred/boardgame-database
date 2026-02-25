@@ -1,0 +1,53 @@
+id: qawale
+name: "Qawale"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Mancala
+  - No Math
+  - Puzzle Solving
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Masterful
+  - Agency
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Romain Froger
+  - Didier Lenain-Bragard
+publisher:
+  - Gigamic
+artist: []
+playtime_minutes: 15
+min_playtime: 10
+max_playtime: 20
+min_age: 8
+
+description: |
+  Qawale is a two-player abstract strategy game from Gigamic designed by Romain Froger and Didier Lenain-Bragard that combines Mancala-style stone stacking with a connection win condition similar to Connect Four. Players place pebbles onto a 4x4 grid, stacking them on existing stones, then redistributing the stack Mancala-style to create chains of their color. The goal is to align four of your stones in a row, column, or diagonal. A MENSA Select winner, Qawale is praised for its deceptively simple one-minute rule set and the surprising strategic depth that emerges from its stone-stacking mechanics.
+
+upgrades: []

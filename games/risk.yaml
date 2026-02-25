@@ -1,0 +1,62 @@
+id: risk
+name: "Risk"
+alternate_names:
+  - La Conquête du Monde
+  - "Risk: The Game of Global Domination"
+year: 1959
+
+# Relationships
+game_family: risk
+edition: null
+base_game: null
+expansions:
+  - risk-2210-ad
+  - risk-godstorm
+  - risk-legacy
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Area Control
+  - Negotiation
+  - Take That
+  - Family
+  - Dudes on a Map
+  - Wargame
+  - Gateway
+  - Cult Classic
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Lucky
+  - Persuasion
+
+possible_counts: [2, 3, 4, 5, 6]
+true_counts: [4, 5, 6]
+
+designer:
+  - Albert Lamorisse
+publisher:
+  - Parker Brothers
+artist: []
+playtime_minutes: 120
+min_playtime: 60
+max_playtime: 300
+min_age: 10
+
+description: |
+  Risk is the iconic world domination board game that introduced strategic conquest to mass-market gaming when Parker Brothers released it in 1959, adapting French filmmaker Albert Lamorisse's "La Conquête du Monde." Players command armies on a political map of Earth divided into 42 territories across six continents, taking turns to attack adjacent territories with dice rolls and fortify their positions. Continents grant bonus armies for control, creating strategic pressure points as players negotiate temporary alliances and betray each other in pursuit of total global domination. As the first mass-produced multiplayer strategy game, Risk established the template for an entire genre of area control wargames and spawned dozens of themed variants and sequels.
+
+upgrades: []

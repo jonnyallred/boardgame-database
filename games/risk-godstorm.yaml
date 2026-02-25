@@ -1,0 +1,55 @@
+id: risk-godstorm
+name: "Risk Godstorm"
+alternate_names: []
+year: 2004
+
+# Relationships
+game_family: risk
+edition: null
+base_game: risk
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 3  # Long
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Area Control
+  - Mythology
+  - Ancient
+  - Variable Player Powers
+  - Dudes on a Map
+  - Wargame
+
+evokes:
+  - Rivalry
+  - Powerful
+  - Tension
+  - Agency
+  - Unique
+
+possible_counts: [2, 3, 4, 5]
+true_counts: [3, 4, 5]
+
+designer:
+  - Mike Selinker
+publisher:
+  - Avalon Hill
+artist: []
+playtime_minutes: 180
+min_playtime: 120
+max_playtime: 240
+min_age: 12
+
+description: |
+  Risk Godstorm is a Risk variant set in the ancient world where the cultures of the Celts, Norse, Greeks, Egyptians, and Babylonians clash for supremacy, each backed by divine pantheons of gods. Designed by Mike Selinker, the game adds gods aligned with sky, war, death, and magic domains to the classic area control formula — players bring gods onto the map to gain powerful advantages. A significant innovation is the Underworld board: fallen soldiers descend to the afterlife and can be used to conquer the underworld territories, adding a second front to the battle. Atlantis can also sink during play, permanently removing a territory from the game and adding dramatic uncertainty.
+
+upgrades: []

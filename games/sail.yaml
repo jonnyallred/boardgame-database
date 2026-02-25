@@ -1,0 +1,54 @@
+id: sail
+name: "Sail"
+alternate_names:
+  - Hameln Cave
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 1  # Light (cooperative)
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Trick-taking
+  - Cooperative
+  - Hand Management
+  - Maritime
+
+evokes:
+  - Clever
+  - Connection
+  - Tension
+  - Agency
+  - Mystery
+
+possible_counts: [2]
+true_counts: [2]
+
+designer:
+  - Akiyama Koryo
+  - Korzu Yusei
+publisher:
+  - Allplay
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 10
+
+description: |
+  Sail is a cooperative two-player trick-taking game with a nautical theme, designed by Akiyama Koryo and Korzu Yusei and published by Allplay. Before each round begins, players exchange a limited number of cards to coordinate strategy, then play through a series of tricks in complete communication silence — no discussion of cards or tactics is permitted once cards are dealt. Different game actions trigger based on who wins each trick in combination with each player's unique character skills, creating a deep non-verbal coordination puzzle. The game rewards players who learn to read their partner's plays and develop intuitive communication through the card exchange phase alone.
+
+upgrades: []

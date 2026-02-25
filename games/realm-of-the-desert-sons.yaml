@@ -1,0 +1,49 @@
+id: realm-of-the-desert-sons
+name: "Realm of the Desert Sons"
+alternate_names: []
+year: 1980
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 3  # Competitive
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Wargame
+  - Fantasy
+  - Area Control
+
+evokes:
+  - Powerful
+  - Agency
+  - Rivalry
+  - Discovery
+  - Tension
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 120
+min_playtime: 90
+max_playtime: 180
+min_age: 14
+
+description: |
+  Realm of the Desert Sons is a fantasy-themed wargame listed in board game databases. Limited commercial documentation is available for this title. The game appears to involve control of territory in a desert fantasy setting, with players commanding rival factions of warriors or desert peoples in an area-control conflict.
+
+upgrades: []

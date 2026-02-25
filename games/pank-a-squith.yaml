@@ -1,0 +1,50 @@
+id: pank-a-squith
+name: "Pank-a-Squith"
+alternate_names: []
+year: 1909
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Racing
+  - Dice Rolling
+  - Historical
+
+evokes:
+  - Tension
+  - Agency
+  - Humor
+  - Rivalry
+  - Unique
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer: []
+publisher:
+  - Women's Social and Political Union
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Pank-a-Squith is a 1909 suffragette political board game produced by the British Women's Social and Political Union (WSPU) and manufactured in Germany, sold in WSPU shops to raise funds for the women's suffrage movement. Its name is a portmanteau of two antagonists: suffragette leader Emmeline Pankhurst ("Pank-") and Prime Minister H.H. Asquith ("-squith"), who opposed women's voting rights. Players navigate the political obstacles between women's struggle for suffrage and the vote's denial, making it one of the earliest purpose-made political advocacy board games in history. Extremely rare today, surviving examples are museum pieces and have sold at auction for significant sums, prized both as games and as historical artifacts of the suffragette movement.
+
+upgrades: []

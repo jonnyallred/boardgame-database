@@ -1,0 +1,51 @@
+id: pretty-pretty-princess
+name: "Pretty Pretty Princess"
+alternate_names: []
+year: 1990
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 0  # Preschool
+strategic_depth: 0  # Reflex
+feel: 1  # Light
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Dice Rolling
+  - Set Collection
+  - Family
+
+evokes:
+  - Lucky
+  - Complete
+  - Humor
+  - Connection
+  - Wonder
+
+possible_counts: [2, 3, 4]
+true_counts: [3, 4]
+
+designer:
+  - Elizabeth Pacza
+publisher:
+  - Western Publishing
+artist: []
+playtime_minutes: 20
+min_playtime: 15
+max_playtime: 30
+min_age: 5
+
+description: |
+  Pretty Pretty Princess is a classic children's jewelry dress-up board game originally designed by Elizabeth Pacza at Meyer/Glass Design, Ltd. Players roll and move around the board, collecting plastic costume jewelry in their color, with the goal of holding both the crown and a full jewelry set while avoiding the unlucky black ring. First published in 1990 and later acquired by Hasbro and marketed under the Milton Bradley imprint, the game blends imaginative dress-up play with simple competitive mechanics for young children.
+
+upgrades: []

@@ -1,0 +1,51 @@
+id: sauerbaum
+name: "Sauerbaum"
+alternate_names: []
+year: 1986
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 1  # Light (cooperative)
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Cooperative
+  - Dice Rolling
+  - Puzzle Solving
+  - Nature
+
+evokes:
+  - Connection
+  - Tension
+  - Agency
+  - Progress
+  - Dread
+
+possible_counts: [2, 3, 4]
+true_counts: [2, 3, 4]
+
+designer:
+  - Johannes Tranelis
+publisher: []
+artist: []
+playtime_minutes: 30
+min_playtime: 20
+max_playtime: 45
+min_age: 6
+
+description: |
+  Sauerbaum (meaning "Sour Tree") is an early German cooperative dice game designed by Johannes Tranelis in which players work together to save a tree from acid rain. The board depicts a tree filled with a grid of movement spaces gradually filling from the top with tokens representing acid rain droplets. Players move their pawns through the remaining open spaces, ending their movements on raindrops to "flick" them off the tree, trying to protect it before the acid rain overwhelms the board. Published before cooperative board games became mainstream, Sauerbaum is a notably early example of the genre with an environmental conservation theme.
+
+upgrades: []

@@ -1,0 +1,54 @@
+id: rithmomachia
+name: "Rithmomachia"
+alternate_names:
+  - Rithmomachy
+  - Arithmomachia
+  - The Philosophers' Game
+year: 1030
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 4  # PhD
+strategic_depth: 4  # Master Plan
+feel: 3  # Competitive
+value: 0  # Impulse
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - Puzzle Solving
+  - Historical
+  - Medieval
+  - No Math
+
+evokes:
+  - Clever
+  - Masterful
+  - Agency
+  - Mystery
+  - Wonder
+
+possible_counts: [2]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 60
+min_playtime: 30
+max_playtime: 120
+min_age: 14
+
+description: |
+  Rithmomachia, or "The Battle of the Numbers," is an early European mathematical board game dating to around 1030 CE when monk Asilo created it to illustrate the number theory of Boethius' De institutione arithmetica for monastery students. Played on an elongated 8x16 board with triangular, square, and round pieces inscribed with numbers, each side has asymmetric forces — the numbers differ between players, enabling different capture possibilities. Captures are based on numerical relationships: arithmetic, geometric, and harmonic progressions, rather than positional threats. At the height of its popularity in the 16th century, printed treatises appeared in Latin, French, Italian, and German, marking it as the medieval world's preeminent educational strategy game.
+
+upgrades: []

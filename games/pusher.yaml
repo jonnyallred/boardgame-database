@@ -1,0 +1,48 @@
+id: pusher
+name: "Pusher"
+alternate_names: []
+year: 2005
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 0  # Snack
+rules_complexity: 1  # Simple
+strategic_depth: 1  # Light
+feel: 2  # Moderate
+value: 1  # Budget
+
+affinity: null
+hotness: null
+
+categories:
+  - Abstract
+  - No Math
+
+evokes:
+  - Clever
+  - Tension
+  - Rivalry
+  - Agency
+  - Lucky
+
+possible_counts: [2, 3, 4]
+true_counts: [2]
+
+designer: []
+publisher: []
+artist: []
+playtime_minutes: 20
+min_playtime: 10
+max_playtime: 30
+min_age: 8
+
+description: |
+  Pusher is an abstract board game in which players compete to push their pieces off the opposite edge of the board (or to be the last player standing, depending on the variant). Players alternate moves that push lines of pieces in various directions, creating chain reactions across the board. The game is noted in board game databases as a compact abstract in the tradition of push-puzzle mechanics.
+
+upgrades: []

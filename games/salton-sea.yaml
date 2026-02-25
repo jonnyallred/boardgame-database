@@ -1,0 +1,53 @@
+id: salton-sea
+name: "Salton Sea"
+alternate_names: []
+year: 2024
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 2  # Medium
+rules_complexity: 3  # Complex
+strategic_depth: 3  # Deep
+feel: 2  # Moderate
+value: 3  # Premium
+
+affinity: null
+hotness: null
+
+categories:
+  - Worker Placement
+  - Hand Management
+  - Economic
+  - Resource Management
+  - Engine Building
+
+evokes:
+  - Progress
+  - Agency
+  - Clever
+  - Masterful
+  - Tension
+
+possible_counts: [1, 2, 3, 4]
+true_counts: [2, 3]
+
+designer:
+  - David Bernal
+publisher:
+  - Devir
+artist: []
+playtime_minutes: 60
+min_playtime: 45
+max_playtime: 90
+min_age: 14
+
+description: |
+  Salton Sea is an intense 2024 economic Eurogame designed by David Bernal in which 1-4 players take on the roles of entrepreneurs exploiting brine deposits in California's Salton Sea region to extract lithium for the modern battery economy. Players manage geothermal companies by drilling for brine, processing it into lithium, and selling resources through a sophisticated dual-use card system where cards serve both as currency and as improved actions. The hand management and worker placement mechanics create a tight economy of decisions, with each investment decision carrying significant weight. Published by Devir, it delivers a topical environmental economic theme with deep strategic gameplay.
+
+upgrades: []

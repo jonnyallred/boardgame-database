@@ -1,0 +1,55 @@
+id: powerline
+name: "Powerline"
+alternate_names: []
+year: 2022
+
+# Relationships
+game_family: null
+edition: null
+base_game: null
+expansions: []
+compatible_with: []
+
+# Ratings (0-4 scale)
+length: 1  # Short
+rules_complexity: 2  # Moderate
+strategic_depth: 2  # Moderate
+feel: 2  # Moderate
+value: 2  # Standard
+
+affinity: null
+hotness: null
+
+categories:
+  - Tile Placement
+  - Network Building
+  - Simultaneous Action
+  - Variable Setup
+  - Euro
+  - Wolfgang Kramer
+  - Michael Kiesling
+
+evokes:
+  - Clever
+  - Progress
+  - Tension
+  - Rivalry
+  - Complete
+
+possible_counts: [1, 2, 3, 4, 5, 6]
+true_counts: [3, 4]
+
+designer:
+  - Dirk Henn
+publisher:
+  - Queen Games
+artist: []
+playtime_minutes: 45
+min_playtime: 30
+max_playtime: 60
+min_age: 10
+
+description: |
+  Powerline is a network-building game in which players construct efficient grids of power lines to connect power plants and supply cities with energy. Each round, colored dice are rolled and placed on the central board, and players simultaneously plan worker placement on powerline segments that match the die colors and pip values. Points are scored for completed lines and fully connected cities, with penalties for incomplete networks, creating a tense race to finish before the game ends.
+
+upgrades: []
