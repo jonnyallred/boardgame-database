@@ -302,11 +302,107 @@ Full rating system implemented:
 
 ---
 
+## Session 10 - Bulk Batch: 500 Games (Interrupted) + Retry
+
+**Date:** February 23, 2026
+
+### What Was Accomplished
+
+- **Launched 10-agent batch of 500 games** — Batch 1 completed fully; batches 2-10 hit API rate limits but still created most files before dying
+- **Committed 403 new game entries** (743 → 1146 total)
+- **Retried ~80 missing games** from the interrupted batch using 2 agents
+  - Batch 1: 39 created, 9 skipped, 1 failed
+  - Batch 2: 43 created, 4 skipped, 3 failed
+  - Committed 82 new game entries
+- **Improved backfill matching** — added subtitle-delimiter matching for cases like "Heat" → "Heat: Pedal to the Metal"
+- **Manually linked edge cases** — Dragon'g Breath, Ea$y Money, Conquistador, Berlin '85 (Unicode fix), 369 Qí
+
+### Progress
+- **Completion: 1,784/3,876 (46.3%)**
+
+---
+
+## Session 11 - Bulk Batch: 200 Games
+
+**Date:** February 24, 2026
+
+### What Was Accomplished
+
+- **Added 180 new game entries** using 2 parallel agents of 100 each
+  - Range: Hexagony through Keythedral
+  - Batch 1: 89 created, 11 skipped
+  - Batch 2: 91 created, 4 skipped, 3 failed
+
+### Progress
+- **Completion: 1,966/3,876 (51.1%)**
+
+---
+
+## Session 12 - Bulk Batch: 300 Games
+
+**Date:** February 24, 2026
+
+### What Was Accomplished
+
+- **Added 252 new game entries** using 3 parallel agents of 100 each
+  - Range: Khalkhin-Gol through Meschugge
+  - Batch 1: 88 created, 10 skipped, 2 failed
+  - Batch 2: 100 created, 0 failed
+  - Batch 3: 64 created, 2 skipped, 34 failed (many obscure/foreign titles)
+- **Extensive backfill** — 47 entries linked, 10 false positives cleared
+- **Marked 30 failed, 4 ambiguous, 2 skip** entries
+
+### Progress
+- **Completion: 2,220/3,876 (57.8%)**
+
+---
+
+## Session 13 - Bulk Batch: 200 Games + Tracking Improvements
+
+**Date:** February 24-25, 2026
+
+### What Was Accomplished
+
+- **Added 131 new game entries** using 2 parallel agents of 100 each
+  - Range: Mesopotamia through Nova Luna
+  - Batch 1: 89 created, 11 skipped
+  - Batch 2: 42 created, 1 skipped, 57 failed (many obscure N-range titles)
+- **Improved `scripts/update_master_status.py`** backfill to strip parenthetical suffixes like `(game)`, `(board game)`, `(card game)`, `(dup)` for better matching
+- **Manually linked 8 stuck entries** that kept appearing at top of queue (Dead of Winter, Diadem, Fantasy Land, Giganten, Coin Hopping, Berlin '85, China's War, Qi)
+- **Fixed CSV encoding issue** — Berlin '85 used U+2019 (right single quote), not U+2018
+
+### Progress
+- **Completion: 2,383/3,876 (61.5%)**
+
+---
+
+## Session 14 - Bulk Batch: 400 Games
+
+**Date:** February 25, 2026
+
+### What Was Accomplished
+
+- **Added 382 new game entries** using 4 parallel agents of 100 each
+  - Range: Ninjato through Savernake Forest
+  - Batch 1 (N-O-Pa): 100 created, 0 failed
+  - Batch 2 (Pa-Po): 77 created, 17 failed, 2 ambiguous
+  - Batch 3 (P-R): 95 created, 4 skipped, 1 failed
+  - Batch 4 (R-S): 100 created, 0 failed
+- **Backfill** — 35 legitimate yaml_id links, 8 false positives cleared
+- **Marked 16 failed, 2 ambiguous** entries
+
+### Progress
+- **Completion: 2,765/3,876 (71.3%)**
+- **Remaining: 979 games** in queue
+- **Excluded: 132** (97 failed, 22 ambiguous, 11 skip, 2 duplicate)
+
+---
+
 ## File Counts
 
-Run `python3 scripts/progress.py 0` for live stats. Snapshot as of February 22, 2026:
+Run `python3 scripts/progress.py 0` for live stats. Snapshot as of March 2026:
 
 - `sources/lists/*.yaml`: 20 source list files
-- `games/*.yaml`: 743 detailed entries
+- `games/*.yaml`: 2,735 detailed entries
 - `games.db`: SQLite database (rebuilt via `python3 scripts/build_db.py`)
 - `master_list.csv`: 3,876 games (Wikidata + manual additions)

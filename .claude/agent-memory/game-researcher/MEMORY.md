@@ -151,6 +151,34 @@
 - Herd Mentality (2019): Dan Penn; Big Potato Games; write-same-answer party game; 4-20 players
 - Here I Stand (2006): Ed Beach; GMT Games; 6-player Reformation card-driven wargame; Charles S. Roberts winner
 
+## Batch Notes: L-Games (100-game run, Feb 2026)
+- Las Vegas (2012): Rüdiger Dorn; Ravensburger/Alea; SdJ nominated 2012; dice area majority game
+- Last Night on Earth (2007): Jason C. Hill; Flying Frog Productions; asymmetric zombie 1vMany
+- Last Will (2011): Vladimír Suchý; Czech Games Edition; race to spend money fastest (Victorian)
+- Legend of Five Rings LCG (2017): FFG; ran 2017-2021; 2-player; replaces AEG CCG 1995-2015
+- Legendary Marvel (2012): Devin Low; Upper Deck; 1-5 player semi-coop deck builder
+- Letters from Whitechapel (2011): Mari + Santopietro; FFG; 1 vs Many hidden movement
+- Lewis & Clark: The Expedition (2013): Cédrick Chaboussit; Ludonaute; racing Euro
+- Liar's Dice: also "Bluff," "Call My Bluff," "Dudo"; SdJ winner 1993 (as "Call My Bluff")
+- Libertalia Winds of Galecrest (2022): Paolo Mori; Stonemaier; reimagines 2012 original
+- Little Town (2019): Shun+Aya Taguchi; IELLO; artist Sabrina Miramon
+- London (2010): Martin Wallace; Treefrog Games; card-driven city building, poverty mechanic
+- Long Shot (2009): Chris Handy; Z-Man Games; horse racing for up to 8
+- Long Shot The Dice Game (2021): Chris Handy; Perplext; Roland Wright series
+- Loopin' Louie (1992): Carol Wiseley; Milton Bradley; KdJ winner 1994; slug=loopin-louie
+- Lotus (2016): Chassagne + Draper; Renegade Game Studios (NOT Brotherwise Games)
+- Louis XIV (2005): Rüdiger Dorn; Alea/Rio Grande; DSP winner 2005
+- Love Letter (2012): Seiji Kanai; AEG/Z-Man; Japanese self-published first; 16 cards
+- Lowlands (2018): Ralf+Claudia Partenheimer; Z-Man Games (not Asmodee directly)
+- Luxor (2018): Rüdiger Dorn; Queen Games; SdJ nominated 2018
+- Lunch Money (1996): C.E. Wiedman; Atlas Games; Origins Award winner 1996
+- Luzhanqi: slug=luzhanqi; Chinese Army Chess; hidden piece strategy game
+- Ludo (1896): patented Alfred Collier; derived from Indian Pachisi
+- Le Cochon qui rit = Pass the Pigs internationally (same game)
+- Lourche (15th century): "left in the lurch" — historical racing/dice game, forerunner to similar games
+- Ludus latrunculorum, ludus duodecim scriptorum, ludus coriovalli: all Roman/ancient games, year = negative integers or 0
+- Luftwaffe (1971): James F. Dunnigan; Avalon Hill; air war over Germany WWII
+
 ## Slug Edge Cases
 - Buck Rogers 1934: use `buck-rogers-1934` to distinguish from later game
 - Castle (2000): slug `castle-2000` to distinguish from other Castle games
