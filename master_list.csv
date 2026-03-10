@@ -1817,7 +1817,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 136280,La Boca,,boardgame,,,
 554,La Città,2000,boardgame,,,la-citta
 ,La Fallera Calavera,,boardgame,,,la-fallera-calavera
-367517,La Famiglia: The Great Mafia War,,boardgame,,,
+367517,La Famiglia: The Great Mafia War,,boardgame,,,famiglia
 10013,La Foi et le Glaive,,boardgame,,,la-foi-et-le-glaive
 9077,La Grande Armée,,boardgame,,,la-grande-armee
 146886,La Granja,2014,boardgame,,,
@@ -2253,7 +2253,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 347505,Nouvelles Contrées,,boardgame,failed,No sources found,
 284435,Nova Luna,2019,boardgame,,,
 38678,Novem,,boardgame,,,
-,Nsolo,,boardgame,,,
+,Nsolo,,boardgame,,,isolo
 19907,Nuclear Destruction,,boardgame,,,
 713,Nuclear War,1965,boardgame,,,
 ,Nucleum,2023,boardgame,,,
@@ -2367,14 +2367,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 3041,Panzergruppe Guderian,1976,boardgame,,,
 753,Panzerkrieg: von Manstein & HeeresGruppe Süd,,boardgame,,,panzerkrieg-von-manstein-heeresgruppe-sud
 56692,Parade,,boardgame,,,
-2136,Parcheesi,,boardgame,,,
+2136,Parcheesi,,boardgame,,,ludo
 ,parji,,boardgame,failed,"Too obscure, no sources found",
 4866,Park and Shop,,boardgame,,,
 266524,PARKS,2019,boardgame,,,
 18243,Parthenon: Rise of the Aegean,,boardgame,,,parthenon-rise-of-the-aegean
 ,Pasang,,boardgame,,,
 137,Pass the Bomb,,boardgame,,,
-2593,Pass the Pigs,,boardgame,,,
+2593,Pass the Pigs,,boardgame,,,le-cochon-qui-rit
 ,Patamania,,boardgame,failed,No sources found,
 ,Patchesi,,boardgame,failed,No sources found,
 163412,Patchwork,2014,boardgame,,,
@@ -2694,7 +2694,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 7067,Schloss Schlotterstein,2003,boardgame,,,
 217331,Schnapp die Nuss!,2017,boardgame,,,
 92644,Schnappt Hubi!,,boardgame,,,
-57,Schoko & Co.,1987,boardgame,,,
+57,Schoko & Co.,1987,boardgame,,,schoko-and-co
 372,Schotten-Totten,,boardgame,,,
 1063,Schraumen,,boardgame,,,
 3656,score four,,boardgame,,,
@@ -2707,7 +2707,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Sea Hawks,,boardgame,,,
 ,Sea Salt & Paper,2022,boardgame,,,sea-salt-and-paper
 148261,Seafall,,boardgame,,,
-8033,Search & Destroy: Tactical Combat Vietnam 1965-1966,,boardgame,,,
+8033,Search & Destroy: Tactical Combat Vietnam 1965-1966,,boardgame,,,search-and-destroy-vietnam
 ,Seaside,2024,boardgame,,,
 ,Seaside Frolics,,boardgame,,,
 108745,Seasons,,boardgame,,,
@@ -2719,11 +2719,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 102652,Sentinels of the Multiverse,,boardgame,,,
 131457,Septikon: Uranium Wars,2012,boardgame,,,
 2375,Sequence,,boardgame,,,
-1376,Serengeti,,boardgame,,,
+1376,Serengeti,,boardgame,ambiguous,Multiple games share this name; cannot determine which specific game was intended,
 232,Serenissima,,boardgame,,,
-135281,Serenissima (Second Edition),,boardgame,,,
+135281,Serenissima (Second Edition),,boardgame,,,serenissima-second-edition
 13019,Sergeant Preston,,boardgame,,,
-123408,Serpent's Tongue,,boardgame,,,
+123408,Serpent's Tongue,,boardgame,,,serpents-tongue
 34583,Set Cubed,2008,boardgame,,,
 418059,SETI: Search for Extraterrestrial Intelligence,2024,boardgame,,,seti
 67239,Settlers of America: Trails to Rails,,boardgame,,,
@@ -2745,30 +2745,30 @@ bgg_id,name,year,type,status,notes,yaml_id
 63875,Shax,,boardgame,,,
 8935,Shazamm!,,boardgame,,,
 2082,Shell Shock!,1990,boardgame,,,
-3438,Shendao,,boardgame,,,
+3438,Shendao,,boardgame,failed,No sources found,
 ,Shengguan Tu,,boardgame,,,
 157969,Sheriff of Nottingham,,boardgame,,,
 2511,Sherlock Holmes Consulting Detective,1981,boardgame,,,
 ,Sherlock Holmes: Consulting Detective,1985,boardgame,,,
 41019,Sherwood Forest,2009,boardgame,,,
 199611,Shiftago,,boardgame,,,
-11949,Shifting Sands: The Campaign for North Africa 1940-1943,,boardgame,,,
-,Shiloh: The Battle for Tennessee,,boardgame,,,
-41146,Shintai,,boardgame,,,
+11949,Shifting Sands: The Campaign for North Africa 1940-1943,,boardgame,,,shifting-sands
+,Shiloh: The Battle for Tennessee,,boardgame,,,shiloh
+41146,Shintai,,boardgame,failed,No sources found,
 ,Shipka Pass,,boardgame,,,
 ,ShipShape,2019,boardgame,,,
 31383,Sho,,boardgame,,,
 ,Shockforce: Battles in the Remnants of America,,boardgame,,,
-20551,Shogun,2006,boardgame,,,
+20551,Shogun,2006,boardgame,,,shogun-2006
 2720,Shooting Stars,,boardgame,,,
-3089,Shootout at the Saloon,,boardgame,,,
-12856,Shove ha'penny,,boardgame,,,
+3089,Shootout at the Saloon,,boardgame,,,shootout-at-the-saloon
+12856,Shove ha'penny,,boardgame,,,shove-hapenny
 ,shovel board,,boardgame,,,
 1712,Showbiz,1984,boardgame,,,
-7510,Shuttlewars,,boardgame,,,
+7510,Shuttlewars,,boardgame,failed,No sources found,
 20782,Siam,,boardgame,,,
 ,Sidereal Confluence,2017,boardgame,,,
-,"Siege!: The Game of Siege Warfare, 50 AD-1400 AD",,boardgame,,,
+,"Siege!: The Game of Siege Warfare, 50 AD-1400 AD",,boardgame,,,siege
 29421,Siemens Grand Prix Game,2004,boardgame,,,
 18932,Siena,2005,boardgame,,,
 18348,Sigma Omega,,boardgame,,,
@@ -2779,10 +2779,10 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,simplified mahjong,,boardgame,,,
 24511,Simply Catan,,boardgame,,,
 1566,Simply Cosmic,,boardgame,,,
-,Sinai: The Arab-Israeli Wars,,boardgame,,,
+,Sinai: The Arab-Israeli Wars,,boardgame,,,sinai
 117725,Sinco,,boardgame,,,
 413913,Sinister Institute,2025,boardgame,,,
-76550,Sinnet,,boardgame,,,
+76550,Sinnet,,boardgame,failed,No sources found,
 ,Sirius,,boardgame,,,
 20195,Six,,boardgame,,,
 30527,Sixteen,,boardgame,,,
@@ -2803,22 +2803,22 @@ bgg_id,name,year,type,status,notes,yaml_id
 70767,Smash Monster Rampage!,,boardgame,,,
 122522,Smash up,,boardgame,,,
 ,Smug Owls,2023,boardgame,,,
-2767,Snail's Pace Race,1985,boardgame,,,
+2767,Snail's Pace Race,1985,boardgame,,,snails-pace-race
 5432,snakes and ladders,,boardgame,,,
-,Snakes and Ladders game,,boardgame,,,
+,Snakes and Ladders game,,boardgame,duplicate,Same as Snakes and Ladders,
 ,Snakesss!,2021,boardgame,,,
-3965,Snapshot,1979,boardgame,,,
-75358,SNCF: France & Germany,,boardgame,,,
+3965,Snapshot,1979,boardgame,,,snapshot-1979
+75358,SNCF: France & Germany,,boardgame,,,sncf-france-germany
 70313,Snelrekenspel,,boardgame,,,
 2995,Sniper!,,boardgame,,,
-710,Snit's Revenge,,boardgame,,,
+710,Snit's Revenge,,boardgame,,,snits-revenge
 38054,Snow Tails,2008,boardgame,,,
 ,So Clover,2021,boardgame,,,
 8304,So Long Sucker,,boardgame,,,
 67185,Sobek,2010,boardgame,,,
 10430,Solar Conquest,,boardgame,,,
 1836,Solarquest,,boardgame,,,
-,Soldiers: Tactical Combat in 1914–15,,boardgame,,,
+,Soldiers: Tactical Combat in 1914–15,,boardgame,,,soldiers-tactical-combat-1914-15
 254018,Solenia,,boardgame,,,
 ,Solomons Campaign,,boardgame,,,
 2407,Sorry!,1929,boardgame,,,
@@ -2832,12 +2832,12 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Space 1889 Adversaries,,boardgame,,,
 ,Space Base,2018,boardgame,,,
 1568,Space Crusade,,boardgame,,,
-1557,Space Empires,,boardgame,,,
+1557,Space Empires,,boardgame,,,space-empires-1981
 84419,Space Empires 4X,,boardgame,,,
 ,Space Future,,boardgame,,,
 5685,Space Hop,,boardgame,,,
 2163,Space Hulk,1989,boardgame,,,deathwing
-71721,Space Hulk: Death Angel – The Card Game,,boardgame,,,
+71721,Space Hulk: Death Angel – The Card Game,,boardgame,,,space-hulk-death-angel
 ,Space Lines,,boardgame,,,
 25750,Space Marine Assault,,boardgame,,,
 17490,Space Marines,,boardgame,,,
@@ -2860,15 +2860,15 @@ bgg_id,name,year,type,status,notes,yaml_id
 259363,Spielesammlung,,boardgame,,,
 1633,Spies!,,boardgame,,,
 171129,Spinderella,,boardgame,,,
-118051,Spinnengift und Krötenschleim,2012,boardgame,,,
-26204,Spion & Spion,1987,boardgame,,,
+118051,Spinnengift und Krötenschleim,2012,boardgame,,,spinnengift-und-krotenschleim
+26204,Spion & Spion,1987,boardgame,,,spion-und-spion
 ,Spirit Island,2017,boardgame,,,
-18764,Spirou et les champignons géants,,boardgame,,,
+18764,Spirou et les champignons géants,,boardgame,,,spirou-et-les-champignons-geants
 148228,Splendor,2014,boardgame,,,
 ,Splendor Duel,2022,boardgame,,,
-26147,Split Personality,,boardgame,,,
+26147,Split Personality,,boardgame,failed,No board game found; only a TV game show and 1986 video game exist under this title,
 65586,Splotch,,boardgame,,,
-10096,Splotch!,1998,boardgame,,,
+10096,Splotch!,1998,boardgame,,,splotch-1998
 12346,Spooky stairs,2003,boardgame,,,
 92465,Sporz Original Outbreak,2011,boardgame,,,
 420876,Spotlight,,boardgame,,,
@@ -2884,7 +2884,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 23692,Stack,,boardgame,,,
 8945,Stadium Checkers,,boardgame,,,
 ,Star,,boardgame,,,
-13415,Star Empires,1977,boardgame,,,
+13415,Star Empires,1977,boardgame,,,star-empires-1977
 6735,Star Explorer,1982,boardgame,,,
 3151,Star Fighter,,boardgame,,,
 1901,Star Fleet Battle Force,,boardgame,,,
@@ -2895,7 +2895,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 3467,Star Quest,,boardgame,,,
 1699,Star Smuggler,,boardgame,,,
 3040,Star Trek II: Starship Combat Simulator,,boardgame,,,
-4413,Star Trek III,1985,boardgame,,,
+4413,Star Trek III,1985,boardgame,,,star-trek-iii-1985
 ,Star Trek III Starship Combat Game,,boardgame,,,
 113544,Star Trek Klingon Edition Monopoly,2011,boardgame,,,
 193949,Star Trek: Ascendancy,,boardgame,,,
@@ -3129,7 +3129,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 342921,The British Way: Counterinsurgency at the End of Empire,2023,boardgame,,,
 144553,The Builders: Middle Ages,,boardgame,,,
 6826,The Campaigns of Robert E. Lee,,boardgame,,,
-40005,The Caravan,,boardgame,,,
+40005,The Caravan,,boardgame,,,karawane
 7389,The Castle (board game),,boardgame,,,
 25951,The Castle of the Devil,,boardgame,,,
 84876,The Castles of Burgundy,2011,boardgame,,,
@@ -3175,7 +3175,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 25988,The game of fortress and siege,,boardgame,,,
 746,"The Game of France, 1940",,boardgame,,,
 ,The Game of Jaws,,boardgame,,,
-2921,The Game of Life,1960,boardgame,,,
+2921,The Game of Life,1960,boardgame,,,jinsei-game
 15731,The Game of Life Card Game,,boardgame,,,
 14245,The Game of the District Messenger Boy,,boardgame,,,
 ,The Gang,2024,boardgame,,,
@@ -3469,7 +3469,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 46396,Ubongo 3D,,boardgame,,,
 31479,Ubongo Extreme,,boardgame,,,
 34969,Ubongo: Duel,,boardgame,,,
-19967,Uckers,,boardgame,,,
+19967,Uckers,,boardgame,,,ludo
 1706,UFO: Game of Close Encounters,,boardgame,,,
 60131,Ugg-Tect,,boardgame,,,
 11421,Uisge,,boardgame,,,
@@ -3750,7 +3750,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Yahtzee,1956,boardgame,,,
 ,Jenga,1983,boardgame,,,
 ,Othello,1977,boardgame,,,
-,Mancala,,boardgame,,,
+,Mancala,,boardgame,,,kalah
 ,Connect 4,1974,boardgame,,,connect-four
 ,Munchkin,2001,boardgame,,,
 ,Exploding Kittens,2015,boardgame,,,exploding-kittens-2015
