@@ -2907,22 +2907,22 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Star Trek: Starship Tactical Combat Simulator,,boardgame,,,
 3095,Star Trek: The Adventure Game,,boardgame,,,
 5786,Star Trek: The Enterprise 4 Encounter,,boardgame,,,
-5258,Star Trek: The Next Generation Interactive VCR Board Game – A Klingon Challenge,,boardgame,,,
-12938,Star Trek: The Next Generation: The Board Game,,boardgame,,,
+5258,Star Trek: The Next Generation Interactive VCR Board Game – A Klingon Challenge,,boardgame,,,star-trek-tng-interactive-vcr-board-game
+12938,Star Trek: The Next Generation: The Board Game,,boardgame,,,star-trek-tng-the-board-game
 1792,Star Viking,,boardgame,,,
 1270,Star Wars Customizable Card Game,,boardgame,,,
 3284,Star Wars Epic Duels,,boardgame,,,
 11229,Star Wars Miniatures,,boardgame,,,
-7420,Star Wars Miniatures Battles,1991,boardgame,,,
+7420,Star Wars Miniatures Battles,1991,boardgame,,,star-wars-miniatures-battles-1991
 ,Star Wars Monopoly,,boardgame,,,
 27970,Star Wars PocketModel Trading Card Game,,boardgame,,,
-15045,Star Wars Risk: The Clone Wars Edition,2005,boardgame,,,
-12415,Star Wars: Adventures of R2-D2,1977,boardgame,,,
-6388,Star Wars: Battle at Sarlacc's Pit,1983,boardgame,,,
+15045,Star Wars Risk: The Clone Wars Edition,2005,boardgame,,,star-wars-risk-the-clone-wars-edition
+12415,Star Wars: Adventures of R2-D2,1977,boardgame,,,star-wars-adventures-of-r2d2
+6388,Star Wars: Battle at Sarlacc's Pit,1983,boardgame,,,star-wars-battle-at-sarlaccs-pit
 ,Star Wars: Battle of Hoth,2025,boardgame,,,
 5244,Star Wars: Destroy Death Star,1977,boardgame,,,
 4845,Star Wars: Escape from Death Star,1977,boardgame,,,
-,Star Wars: Escape From The Death Star,,boardgame,,,
+,Star Wars: Escape From The Death Star,,boardgame,duplicate,Same as Star Wars: Escape from Death Star (1977),
 6792,Star Wars: Hoth Ice Planet Adventure,1980,boardgame,,,
 164153,Star Wars: Imperial Assault,2014,boardgame,,,
 187645,Star Wars: Rebellion,2016,boardgame,,,
@@ -2939,11 +2939,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 2891,Starfire,,boardgame,,,
 ,Starfire III: Empires,,boardgame,,,
 2524,Starforce: Alpha Centauri,,boardgame,,,
-1599,StarGate,1979,boardgame,,,
+1599,StarGate,1979,boardgame,,,stargate-1979
 ,Starguard!,,boardgame,,,
 ,Starship Captain,,boardgame,,,
 ,Starship Duel,,boardgame,,,
-670,Starship Troopers,1976,boardgame,,,
+670,Starship Troopers,1976,boardgame,,,starship-troopers-1976
 260,Starship Troopers: Prepare for Battle!,1997,boardgame,,,
 30884,Starship: The Game of Space Contact,,boardgame,,,
 ,StarSoldier,,boardgame,,,
@@ -2956,14 +2956,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 349748,StegegetS,2024,boardgame,,,
 1708,Stellar Conquest,,boardgame,,,
 81250,Stich-Meister,,boardgame,,,
-2988,Sticks & Stones,1978,boardgame,,,
+2988,Sticks & Stones,1978,boardgame,,,sticks-and-stones-1978
 26768,Stixx,,boardgame,,,
 2680,Stock Ticker,,boardgame,,,
-1590,Stocks & Bonds,1964,boardgame,,,
+1590,Stocks & Bonds,1964,boardgame,,,stocks-and-bonds
 367771,Stomp the Plank,,boardgame,,,
-2151,Stomp!,,boardgame,,,
+2151,Stomp!,,boardgame,,,stomp-1978
 34635,Stone Age,2008,boardgame,,,
-,stone kernoi,,boardgame,,,
+,stone kernoi,,boardgame,failed,No sources found,
 20436,Stonehenge,2007,boardgame,,,
 ,Stonewall: The Battle of Kernstown,,boardgame,,,
 1992,Stop Thief,,boardgame,,,
@@ -2975,7 +2975,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 5740,Strat-O-Matic Football,,boardgame,,,
 1917,Stratego,,boardgame,,,
 484,Stratego: Legends,,boardgame,,,
-27126,Strategy on rails,1978,boardgame,,,
+27126,Strategy on rails,1978,boardgame,failed,No sources found,
 1597,Streetcar,,boardgame,,,
 123570,Strike,2012,boardgame,,,
 ,Strike Force One,,boardgame,,,
@@ -2987,8 +2987,8 @@ bgg_id,name,year,type,status,notes,yaml_id
 10084,Stuff Yer Face,,boardgame,,,
 233312,Stuffed Fables,2018,boardgame,,,
 3720,Subbuteo,,boardgame,,,
-3083,Submarine,1976,boardgame,,,
-7537,Subulata,,boardgame,,,
+3083,Submarine,1976,boardgame,,,submarine-1976
+7537,Subulata,,boardgame,failed,No sources found,
 123260,Suburbia,2012,boardgame,,,
 68,Successors,,boardgame,,,
 6657,Such a Thing?,,boardgame,,,
@@ -2998,42 +2998,42 @@ bgg_id,name,year,type,status,notes,yaml_id
 93260,Summoner Wars: Master Set,,boardgame,,,
 65556,Sumo Ham Slam,,boardgame,,,
 18745,Sun Tzu,,boardgame,,,
-41254,Sune och ryska posten,1992,boardgame,,,
+41254,Sune och ryska posten,1992,boardgame,,,sune-och-ryska-posten
 ,sungka,,boardgame,,,congkak
 ,Suomen vapaussota,1918,boardgame,,,
 17597,Suomi Tietopeli,2003,boardgame,,,
-10578,Super 3,,boardgame,,,
+10578,Super 3,,boardgame,failed,No sources found,
 4427,Super Cluedo Challenge,1986,boardgame,,,
 402475,Super Miaou,,boardgame,,,
 11182,Super Scrabble,,boardgame,,,
-20429,"Supercharge: Battle of El Alamein, October 1942",1976,boardgame,,,
+20429,"Supercharge: Battle of El Alamein, October 1942",1976,boardgame,,,supercharge-battle-of-el-alamein
 139443,Superfight,,boardgame,,,
 18794,SuperGang,,boardgame,,,
 3549,Superpower,,boardgame,,,
 27,Supremacy,,boardgame,,,
 13715,Surakarta,,boardgame,,,
-3042,Survival / The Barbarian,,boardgame,,,
+3042,Survival / The Barbarian,,boardgame,,,survival-the-barbarian
 2653,Survive: Escape from Atlantis!,1982,boardgame,,,
 192291,Sushi Go Party!,2016,boardgame,,,
 133473,Sushi Go!,2013,boardgame,,,
 37400,Sushizock im Gockelwok,,boardgame,,,
 ,Sveaborg,,boardgame,,,
-,Svenskt Historiskt Sällskap Spel,,boardgame,,,
-623,Swashbuckler,1980,boardgame,,,
-16807,Swipe,,boardgame,,,
+,Svenskt Historiskt Sällskap Spel,,boardgame,failed,"Likely a Swedish historical society publication, not a commercial board game",
+623,Swashbuckler,1980,boardgame,,,swashbuckler-1980
+16807,Swipe,,boardgame,ambiguous,"Multiple unrelated games share this name (Simon Swipe, SWIPE card game, Swipe Out)",
 99219,Swish,2011,boardgame,,,
 12238,Switch 16,,boardgame,,,
 166031,Sword Girls,,boardgame,,,
 ,Sword Lords,,boardgame,,,
 7480,Sword of Rome,,boardgame,,,
 3039,Swordquest,,boardgame,,,
-2464,Swords & Sorcery,1978,boardgame,,,
+2464,Swords & Sorcery,1978,boardgame,,,swords-and-sorcery-spi
 142299,Swords and Heroes: Starter Set,,boardgame,,,
-18885,Syllabus,,boardgame,,,
-119974,Syzygy,2011,boardgame,,,
-146508,T.I.M.E Stories,2015,boardgame,,,
-117,Ta Yü,1999,boardgame,,,
-218863,Ta-Ke,2017,boardgame,,,
+18885,Syllabus,,boardgame,failed,No board game with this name found,
+119974,Syzygy,2011,boardgame,,,syzygy-2011
+146508,T.I.M.E Stories,2015,boardgame,,,time-stories
+117,Ta Yü,1999,boardgame,,,ta-yu
+218863,Ta-Ke,2017,boardgame,,,ta-ke
 5322,tabletop football,,boardgame,,,
 1111,Taboo,,boardgame,,,
 349369,Tabriz,2024,boardgame,,,
@@ -3050,44 +3050,44 @@ bgg_id,name,year,type,status,notes,yaml_id
 475,Taj Mahal,2000,boardgame,,,
 197405,Tak,,boardgame,,,
 128,Take It Easy,,boardgame,,,
-4558,Take Off!,1988,boardgame,,,
-,Take On You,,boardgame,,,
+4558,Take Off!,1988,boardgame,,,take-off-1988
+,Take On You,,boardgame,failed,"This is a French publisher (of Tannhauser), not a game title",
 20847,Take Stock,,boardgame,,,
 ,Take Time,2025,boardgame,,,
 123881,Takemo,,boardgame,,,
 70919,Takenoko,2011,boardgame,,,
 ,Taktillinen partiopeli,1934,boardgame,,,
-130176,Tales & Games: The Hare & the Tortoise,,boardgame,,,
-135649,Tales & Games: The Three Little Pigs,,boardgame,,,
+130176,Tales & Games: The Hare & the Tortoise,,boardgame,,,tales-and-games-the-hare-and-the-tortoise
+135649,Tales & Games: The Three Little Pigs,,boardgame,,,tales-and-games-the-three-little-pigs
 34119,Tales of the Arabian Nights,,boardgame,,,
 9755,Tales of the Crystals,,boardgame,,,
 30686,Taliesin Master Game,,boardgame,,,
-714,Talisman,1983,boardgame,,,
+714,Talisman,1983,boardgame,,,talisman-1983
 ,Talisman City,,boardgame,,,
 ,Talisman The Adventure,,boardgame,,,
 273976,Talisman: Kingdom Hearts,2019,boardgame,,,
-908,Tally Ho!,1973,boardgame,,,
+908,Tally Ho!,1973,boardgame,,,tally-ho
 24508,Taluva,,boardgame,,,
-108,TAMSK,1998,boardgame,,,
+108,TAMSK,1998,boardgame,,,tamsk
 6492,Tanbo,,boardgame,,,
-,Tank Attack,1988,boardgame,,,
-2598,Tank Battle,1975,boardgame,,,
+,Tank Attack,1988,boardgame,,,tank-attack-1988
+2598,Tank Battle,1975,boardgame,,,tank-battle-1975
 ,Tannenberg,,boardgame,,,
 286096,Tapestry,2019,boardgame,,,
 202,Targui,1988,boardgame,,,
 297234,Taskmaster: The Board Game,2018,boardgame,,,
-7191,Tau Ceti 2015 AD,,boardgame,,,
+7191,Tau Ceti 2015 AD,,boardgame,,,tau-ceti-2015-ad
 ,Taule,,boardgame,,,
 2397,Tavli,,boardgame,,,
 62207,Tavreli,,boardgame,,,
 16373,Techno Witches,,boardgame,,,
 9138,Teeko,,boardgame,,,
-9049,Teenage Mutant Ninja Turtles Game,2003,boardgame,,,
-9464,Teenage Mutant Ninja Turtles: Pizza Power Game,1987,boardgame,,,
-19357,Teenage Mutant Ninja Turtles: Tower of Doom,1990,boardgame,,,
+9049,Teenage Mutant Ninja Turtles Game,2003,boardgame,,,teenage-mutant-ninja-turtles-game-2003
+9464,Teenage Mutant Ninja Turtles: Pizza Power Game,1987,boardgame,,,teenage-mutant-ninja-turtles-pizza-power-game
+19357,Teenage Mutant Ninja Turtles: Tower of Doom,1990,boardgame,,,teenage-mutant-ninja-turtles-tower-of-doom
 22392,TEG,1976,boardgame,,,
 46213,Telestrations,,boardgame,,,
-298477,Tellstones: King's Gambit,,boardgame,,,
+298477,Tellstones: King's Gambit,,boardgame,,,tellstones-kings-gambit
 ,Temple of the Beastmen,,boardgame,,,
 17161,Tempus,,boardgame,,,
 ,Teotihuacan: City of Gods,2018,boardgame,,,
@@ -3101,11 +3101,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 97903,Terror in Meeple City,,boardgame,,,
 42420,Terror of the Lichemaster,,boardgame,,,
 371433,Terrorscape,2023,boardgame,,,
-18657,Test Match,1955,boardgame,,,
+18657,Test Match,1955,boardgame,,,test-match-1955
 ,Test of Arms,,boardgame,,,
 26993,Teufelsrad,,boardgame,,,
 85287,Thai checkers,,boardgame,,,
-17240,That's Life!,2005,boardgame,,,
+17240,That's Life!,2005,boardgame,,,thats-life
 38359,The 3 Commandments,,boardgame,,,
 180263,The 7th Continent,,boardgame,,,
 43868,The Adventurers: The Temple of Chac,,boardgame,,,
