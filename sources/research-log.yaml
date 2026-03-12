@@ -9938,3 +9938,19 @@ entries:
     game_id: ribbit
     url: "https://www.majorfun.com/ribbit/"
     description: "Game information page — majorfun.com"
+  - timestamp: "2026-03-11T00:00:00Z"
+    game_id: the-london-game
+    url: "https://en.wikipedia.org/wiki/The_London_Game"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-11T00:00:00Z"
+    game_id: the-lord-of-the-rings-the-card-game
+    url: "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Card_Game"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-11T00:00:00Z"
+    game_id: the-game-of-fortress-and-siege
+    url: "https://en.wikipedia.org/wiki/List_of_board_wargames"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-11T00:00:00Z"
+    game_id: the-labyrinth-of-rings
+    url: "https://rpggeek.com/boardgame/1217/the-labyrinth-of-rings"
+    description: "Game information page — rpggeek.com"
