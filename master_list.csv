@@ -3040,7 +3040,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 3457,tabula,,boardgame,,,
 3712,Tac Air,,boardgame,,,
 392491,Taco Kitten Pizza,2023,boardgame,,,
-,Tactical Command,,boardgame,,,
+,Tactical Command,,boardgame,failed,Could not identify specific board game; multiple unrelated games share this title,
 ,Tactics II,,boardgame,,,
 25895,TacTix,,boardgame,,,
 2932,tafl games,,boardgame,,,
@@ -3115,10 +3115,10 @@ bgg_id,name,year,type,status,notes,yaml_id
 8803,The American Revolution: 1775–1783,1972,boardgame,,,
 359124,The Animals of Baker Street,2022,boardgame,,,
 162,The Awful Green Things From Outer Space,,boardgame,,,
-4300,The Barbarians: Games of the Fall of Rome and the Mongol Invasion of Europe,1981,boardgame,,,
+4300,The Barbarians: Games of the Fall of Rome and the Mongol Invasion of Europe,1981,boardgame,,,the-barbarians
 32484,The Battle for Hill 218,,boardgame,,,
-7003,The Battle of Britain,1968,boardgame,,,
-8110,"The Battle of Raphia, 217 B.C.",,boardgame,,,
+7003,The Battle of Britain,1968,boardgame,,,the-battle-of-britain-1968
+8110,"The Battle of Raphia, 217 B.C.",,boardgame,,,the-battle-of-raphia-217-bc
 379959,The Battle of Versailles,2024,boardgame,,,
 ,The Battles of Bull Run,,boardgame,,,
 2709,The Beastlord,,boardgame,,,
@@ -3126,32 +3126,32 @@ bgg_id,name,year,type,status,notes,yaml_id
 117908,The Big Fat Tomato Game,2012,boardgame,,,
 37444,The Big Time!,,boardgame,,,
 23890,The Black Pirate,,boardgame,,,
-342921,The British Way: Counterinsurgency at the End of Empire,2023,boardgame,,,
+342921,The British Way: Counterinsurgency at the End of Empire,2023,boardgame,,,the-british-way
 144553,The Builders: Middle Ages,,boardgame,,,
 6826,The Campaigns of Robert E. Lee,,boardgame,,,
 40005,The Caravan,,boardgame,,,karawane
-7389,The Castle (board game),,boardgame,,,
+7389,The Castle (board game),,boardgame,,,the-castle-carcassonne
 25951,The Castle of the Devil,,boardgame,,,
 84876,The Castles of Burgundy,2011,boardgame,,,
-186095,The Cat's Pajamas,,boardgame,,,
+186095,The Cat's Pajamas,,boardgame,,,the-cats-pajamas
 40244,The Checkered Game of Life,1861,boardgame,,,
 ,The China War,,boardgame,,,
-103649,The City,2011,boardgame,,,
+103649,The City,2011,boardgame,,,the-city-2011
 256980,The Color Monster,,boardgame,,,
 ,The Conquerors,,boardgame,,,
 5446,The Conquest of Oil,1973,boardgame,,,
-68475,The Cottage of Content or the Blessings of Cheerfulness & Good Temper,,boardgame,,,
+68475,The Cottage of Content or the Blessings of Cheerfulness & Good Temper,,boardgame,,,the-cottage-of-content
 ,The Crew,2020,boardgame,,,the-crew-quest-for-planet-nine
 284083,The Crew: The Quest for Planet Nine,2019,boardgame,,,the-crew-quest-for-planet-nine
 31725,The Crocodile-Game,1987,boardgame,,,
 54201,The d6 Shooters,,boardgame,,,
-15369,The Devil's Cauldron: The Battles for Arnhem and Nijmegen,,boardgame,,,
+15369,The Devil's Cauldron: The Battles for Arnhem and Nijmegen,,boardgame,,,the-devils-cauldron
 165401,"The divided Germany, 1945-1989",2014,boardgame,,,
 124548,The Doom That Came To Atlantic City,,boardgame,,,
 ,The Dragonlords,,boardgame,,,
 36235,The Duke,,boardgame,,,
 34639,The Dungeon of D,,boardgame,,,
-,The East is Red: The Sino Soviet War,,boardgame,,,
+,The East is Red: The Sino Soviet War,,boardgame,,,the-east-is-red
 ,The Elder Scrolls: Betrayal of the Second Era,2025,boardgame,,,elder-scrolls-betrayal-of-the-second-era
 ,The Emperor Returns,,boardgame,,,
 130792,The enchanted tower,,boardgame,,,
@@ -3162,13 +3162,13 @@ bgg_id,name,year,type,status,notes,yaml_id
 5195,The Farming Game,,boardgame,,,
 1187,The Fellowship of the Ring,,boardgame,,,
 ,The Final Campaign,,boardgame,,,
-10521,The Final Frontier (board game),1992,boardgame,,,
+10521,The Final Frontier (board game),1992,boardgame,,,the-final-frontier-1992
 5310,The First Galaxy G1,,boardgame,,,
 ,The Flight of the Goeben,,boardgame,,,flight-of-the-goeben
-305,The Flying Dutchman,1992,boardgame,,,
+305,The Flying Dutchman,1992,boardgame,,,the-flying-dutchman-1992
 5043,The Forever War,,boardgame,,,
 ,The Franco-Prussian War,,boardgame,,,
-936,The Fury of Dracula,1987,boardgame,,,
+936,The Fury of Dracula,1987,boardgame,,,the-fury-of-dracula-1987
 5193,The Fury of the Norsemen,,boardgame,,,
 125153,The Gallerist,,boardgame,,,
 159492,The Game of 49,,boardgame,,,
@@ -3190,27 +3190,27 @@ bgg_id,name,year,type,status,notes,yaml_id
 8636,The Grape Escape,,boardgame,,,
 761,The Great Brain Robbery,,boardgame,,,
 2063,The Great Khan Game,,boardgame,,,
-5724,The Great Patriotic War: Nazi Germany vs. the Soviet Union,,boardgame,,,
+5724,The Great Patriotic War: Nazi Germany vs. the Soviet Union,,boardgame,,,the-great-patriotic-war
 4293,The Great Redoubt,1979,boardgame,,,
 ,The Great Wall Street Fortune Hunt,,boardgame,,,
 173105,The Great War,,boardgame,,,
-382924,The Guerrilla Generation: Cold War Insurgencies,2026,boardgame,,,
+382924,The Guerrilla Generation: Cold War Insurgencies,2026,boardgame,,,the-guerrilla-generation
 350933,The Guild of Merchant Explorers,,boardgame,,,
-,The Hammer of Thor: The Game of Norse Mythology,,boardgame,,,
+,The Hammer of Thor: The Game of Norse Mythology,,boardgame,,,the-hammer-of-thor
 6917,The High Crusade,,boardgame,,,
 2903,The Hunt for Red October,,boardgame,,,
 281259,The Isle of Cats,2019,boardgame,,,
 39373,The Jolly Darkie Target Game,,boardgame,,,
 ,The Keep,,boardgame,,,
 5824,The Kids of Catan,,boardgame,,,
-245655,The King's Dilemma,,boardgame,,,
+245655,The King's Dilemma,,boardgame,,,the-kings-dilemma
 7349,The Korean War,,boardgame,,,
 1217,The Labyrinth of Rings,,boardgame,,,
-4522,The Ladybug's Costume Party,,boardgame,,,
-29316,The Landlord's Game,1903,boardgame,,,
+4522,The Ladybug's Costume Party,,boardgame,,,the-ladybugs-costume-party
+29316,The Landlord's Game,1903,boardgame,,,the-landlords-game
 ,The Last Hurrah,,boardgame,,,
 3881,The Last Starfighter: Tunnel Chase,,boardgame,,,
-1695,The Legend of Robin Hood,1979,boardgame,,,
+1695,The Legend of Robin Hood,1979,boardgame,,,the-legend-of-robin-hood-1979
 127398,The Legends of Andor,2012,boardgame,,,
 2866,The London Game,,boardgame,,,
 2736,The Lonely Mountain,,boardgame,,,
@@ -3225,32 +3225,32 @@ bgg_id,name,year,type,status,notes,yaml_id
 2240,The Mad Magazine Card Game,,boardgame,,,
 1604,The Mad Magazine Game,,boardgame,,,
 41916,The Magic Labyrinth,,boardgame,,,
-14247,The Mansion of Happiness,1800,boardgame,,,
+14247,The Mansion of Happiness,1800,boardgame,,,the-mansion-of-happiness-1800
 ,"The March on India, 1944",,boardgame,,,
 27800,The Market of Alturien,,boardgame,,,
-,The Marne: Home Before the Leaves Fall,,boardgame,,,
+,The Marne: Home Before the Leaves Fall,,boardgame,,,the-marne-home-before-leaves-fall
 14514,The Metric Mile,,boardgame,,,
 180565,The mysterious Dragon Cave,,boardgame,,,
 244528,The mysterious magical lake,,boardgame,,,
-1152,The Mystic Wood,1980,boardgame,,,
-35488,The Name of the Rose,2008,boardgame,,,
-3409,The Napoleonic Wars,2002,boardgame,,,
+1152,The Mystic Wood,1980,boardgame,,,the-mystic-wood-1980
+35488,The Name of the Rose,2008,boardgame,,,the-name-of-the-rose-2008
+3409,The Napoleonic Wars,2002,boardgame,,,the-napoleonic-wars-2002
 8719,The Next War,,boardgame,,,
 357873,The Old King's Crown,2025,boardgame,,,old-kings-crown
 6920,The Omega War,,boardgame,,,
 ,The One World,,boardgame,,,
-129948,The Palaces of Carrara,2012,boardgame,,,
+129948,The Palaces of Carrara,2012,boardgame,,,the-palaces-of-carrara-2012
 ,The Peninsular War 1808-14,,boardgame,,,
-24480,The Pillars of the Earth,2006,boardgame,,,
+24480,The Pillars of the Earth,2006,boardgame,,,the-pillars-of-the-earth-2006
 163122,The President,,boardgame,,,
 555,The Princes of Florence,2000,boardgame,,,princes-of-florence
 244521,The Quacks of Quedlinburg,2018,boardgame,,,
-346101,The Queen's Gambit,2021,boardgame,,,
+346101,The Queen's Gambit,2021,boardgame,,,the-queens-gambit-2021
 217372,The Quest for El Dorado,2017,boardgame,,,quest-for-el-dorado
-,The Quest of the Philosopher's Stone,,boardgame,,,
+,The Quest of the Philosopher's Stone,,boardgame,,,the-quest-of-the-philosophers-stone
 126,The Really Nasty Horse Racing Game,,boardgame,,,
 24310,The Red Dragon Inn,,boardgame,,,
-41114,The Resistance,2009,boardgame,,,
+41114,The Resistance,2009,boardgame,,,the-resistance-2009
 66056,The Rivals for Catan,,boardgame,,,
 206938,The Rolling Witch,,boardgame,,,
 201,The Rose King,,boardgame,,,
@@ -3259,29 +3259,29 @@ bgg_id,name,year,type,status,notes,yaml_id
 4678,The Search for Spock,,boardgame,,,
 3655,The Settlers of Canaan,,boardgame,,,
 13,The Settlers of Catan,1995,boardgame,,,settlers-of-catan
-64159,The Settlers of Catan - Entry level version,,boardgame,,,
+64159,The Settlers of Catan - Entry level version,,boardgame,,,the-settlers-of-catan-entry-level
 137594,The Settlers of Catan - Mini,,boardgame,,,
 189,The Settlers of Nuremberg,,boardgame,,,
 4394,The Settlers of the Stone Age,,boardgame,,,
 6778,The Settlers of Zarahemla,,boardgame,,,
 1710,The Siege of Jerusalem,,boardgame,,,
-1202,The Sorcerer's Cave,,boardgame,,,
-1303,The Squirrel Game,1987,boardgame,,,
-2258,The Stock Market Game,1970,boardgame,,,
+1202,The Sorcerer's Cave,,boardgame,,,the-sorcerers-cave
+1303,The Squirrel Game,1987,boardgame,,,the-squirrel-game-1987
+2258,The Stock Market Game,1970,boardgame,,,the-stock-market-game-1970
 3966,The Succession Wars,,boardgame,,,
-38735,The Swarm,2008,boardgame,,,
+38735,The Swarm,2008,boardgame,,,the-swarm-2008
 2121,The Sword and the Stars,,boardgame,,,
 ,The Taverns of Tiefenthal,2019,boardgame,,,taverns-of-tiefenthal
 ,The Tea Dragon Society Card Game,2018,boardgame,,,tea-dragon-society-card-game
-4294,The Thin Red Line,1979,boardgame,,,
-75828,The Thing,,boardgame,,,
-295293,The Thing: The Boardgame,2022,boardgame,,,
+4294,The Thin Red Line,1979,boardgame,,,the-thin-red-line-1979
+75828,The Thing,,boardgame,,,the-thing-1982
+295293,The Thing: The Boardgame,2022,boardgame,,,the-thing-boardgame-2022
 409501,The Twisted Spooky Night,,boardgame,,,
 6283,The Ungame,,boardgame,,,
-385529,The Vale of Eternity,2023,boardgame,,,
+385529,The Vale of Eternity,2023,boardgame,,,the-vale-of-eternity-2023
 279,The Very Clever Pipe Game,,boardgame,,,
 171623,The Voyages of Marco Polo,2015,boardgame,,,voyages-of-marco-polo
-7566,The War of the Worlds,,boardgame,,,
+7566,The War of the Worlds,,boardgame,,,the-war-of-the-worlds-board-game
 ,The War of the Worlds II,,boardgame,,,
 1144,The Warlock of Firetop Mountain,,boardgame,,,
 ,The Watersdown Affair,,boardgame,,,
@@ -3291,18 +3291,18 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,The Wilderness Campaign,,boardgame,,,
 1833,The Willow Game,,boardgame,,,
 35177,The Winning Touch,,boardgame,,,
-,The Witcher Adventure Game,2014,boardgame,,,
+,The Witcher Adventure Game,2014,boardgame,,,the-witcher-adventure-game-2014
 ,The Witcher RPG,,boardgame,,,
 23604,The World Cup Game,,boardgame,,,
 ,The Worlds of Boris Vallejo,,boardgame,,,
-2376,The Wreck of the B.S.M. Pandora,,boardgame,,,
+2376,The Wreck of the B.S.M. Pandora,,boardgame,,,the-wreck-of-the-bsm-pandora
 ,The X-Files Board Game,,boardgame,,,
 ,The X-Files Trivia Game,,boardgame,,,
-30869,Thebes,2007,boardgame,,,
-4355,Therapy,,boardgame,,,
-2215,They've Invaded Pleasantville,,boardgame,,,
-13208,Thin Ice,1989,boardgame,,,
-379932,Third Crusade,2024,boardgame,,,
+30869,Thebes,2007,boardgame,,,thebes-2007
+4355,Therapy,,boardgame,,,therapy-1986
+2215,They've Invaded Pleasantville,,boardgame,,,theyve-invaded-pleasantville
+13208,Thin Ice,1989,boardgame,,,thin-ice-1989
+379932,Third Crusade,2024,boardgame,,,third-crusade-2024
 2904,Third Reich/Great Pacific War series,,boardgame,,,
 ,Thiruthamizh,,boardgame,,,
 188920,This War of Mine: The Board Game,,boardgame,,,
@@ -3313,14 +3313,14 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Through the Ages,2006,boardgame,,,through-the-ages-2006
 182028,Through the Ages: A New Story of Civilization,2015,boardgame,,,
 25613,Through the Ages: A Story of Civilization,2006,boardgame,,,through-the-ages-2006
-503,Through the Desert,1998,boardgame,,,
+503,Through the Desert,1998,boardgame,,,through-the-desert-1998
 4532,Thud,,boardgame,,,
 ,"Thunde-Rin Guns, Game of the Wild West",,boardgame,,,
-108906,Thunder Alley,2014,boardgame,,,
+108906,Thunder Alley,2014,boardgame,,,thunder-alley-2014
 12597,Thunder on South Mountain,,boardgame,,,
 804,Thunder Road,,boardgame,,,thunder-road-vendetta
 ,Thunder Road: Vendetta,2023,boardgame,,,
-53953,Thunderstone,2009,boardgame,,,
+53953,Thunderstone,2009,boardgame,,,thunderstone-2009
 116998,Thunderstone Advance: Towers of Ruin,,boardgame,,,
 ,Thunderstone Quest,2018,boardgame,,,
 85897,Thunderstone: Dragonspire,,boardgame,,,
@@ -3328,11 +3328,11 @@ bgg_id,name,year,type,status,notes,yaml_id
 9209,Ticket to Ride,2004,boardgame,,,
 ,Ticket to Ride Europe,2005,boardgame,,,
 390092,Ticket to Ride Legacy: Legends of the West,2023,boardgame,,,
-309113,Ticket to Ride: Amsterdam,2020,boardgame,,,
+309113,Ticket to Ride: Amsterdam,2020,boardgame,,,ticket-to-ride-amsterdam-2020
 14996,Ticket to Ride: Europe,2005,boardgame,,,
-218208,Ticket to Ride: First Journey (Europe),2017,boardgame,,,
-205125,Ticket to Ride: First Journey (U.S.),2016,boardgame,,,
-225244,Ticket to Ride: Germany,2017,boardgame,,,
+218208,Ticket to Ride: First Journey (Europe),2017,boardgame,,,ticket-to-ride-first-journey-europe-2017
+205125,Ticket to Ride: First Journey (U.S.),2016,boardgame,,,ticket-to-ride-first-journey-us-2016
+225244,Ticket to Ride: Germany,2017,boardgame,,,ticket-to-ride-germany-2017
 366488,Ticket to Ride: Ghost Train,2022,boardgame,,,
 276894,Ticket to Ride: London,2019,boardgame,,,
 21348,Ticket to Ride: Märklin,2006,boardgame,,,
@@ -3758,7 +3758,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Unstable Unicorns,2017,boardgame,,,
 ,What Do You Meme?,2016,boardgame,,,
 ,Bananagrams,2006,boardgame,,,
-,Throw Throw Burrito,2019,boardgame,,,
+,Throw Throw Burrito,2019,boardgame,,,throw-throw-burrito-2019
 ,Bears vs Babies,2017,boardgame,,,
 ,Joking Hazard,2016,boardgame,,,
 ,Taco Cat Goat Cheese Pizza,2018,boardgame,,,
@@ -3823,7 +3823,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,The Crew: Mission Deep Sea,2021,boardgame,,,
 ,Mille Fiori,2021,boardgame,,,mille-fiori
 ,First Rat,2022,boardgame,,,
-,The Red Cathedral,2020,boardgame,,,
+,The Red Cathedral,2020,boardgame,,,the-red-cathedral-2020
 ,Horseless Carriage,2023,boardgame,,,horseless-carriage
 ,Evacuation,2023,boardgame,,,evacuation-2023
 ,Knarr,2023,boardgame,,,
@@ -3868,7 +3868,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,The Lord of the Rings: The Fellowship of the Ring Trick-Taking Game,2024,boardgame,,,
 ,Blank Slate,2020,boardgame,,,
 ,Catch Phrase,1994,boardgame,,,
-,The Chameleon,2017,boardgame,,,
+,The Chameleon,2017,boardgame,,,the-chameleon-2017
 ,Hedbanz,1991,boardgame,,,
 ,Herd Mentality,2019,boardgame,,,
 ,Rock Em Sock Em Robots,1964,boardgame,,,rock-em-sock-em-robots
