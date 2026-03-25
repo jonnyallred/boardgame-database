@@ -9954,3 +9954,7 @@ entries:
     game_id: the-labyrinth-of-rings
     url: "https://rpggeek.com/boardgame/1217/the-labyrinth-of-rings"
     description: "Game information page — rpggeek.com"
+  - timestamp: "2026-03-25T00:00:00Z"
+    game_id: 6-nimmt
+    url: "https://en.wikipedia.org/wiki/6_nimmt!"
+    description: "Review or reference article — en.wikipedia.org"
