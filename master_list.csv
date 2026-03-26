@@ -3613,7 +3613,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 33154,Wasabi!,,boardgame,,,
 38996,Washington's War,,boardgame,,,
 67178,Water Lily,,boardgame,,,
-274364,Watergate,,boardgame,,,
+274364,Watergate,,boardgame,,,watergate
 36887,Waterloo,,boardgame,,,
 29500,watermelon chess,,boardgame,,,
 189626,Waurie,,boardgame,,,
@@ -3659,7 +3659,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 2652,Wise and Otherwise,,boardgame,,,
 18840,Wissens-Spektrum,,boardgame,,,
 383499,Witchcraft!,2023,boardgame,,,
-318560,Witchstone,2021,boardgame,,,
+318560,Witchstone,2021,boardgame,,,witchstone
 20100,Wits & Wagers,,boardgame,,,
 66588,Wits & Wagers Family,,boardgame,,,
 589,Wiz-War,,boardgame,,,
@@ -3733,7 +3733,7 @@ bgg_id,name,year,type,status,notes,yaml_id
 29387,Zombie Fluxx,2007,boardgame,,,
 41372,Zombie in My Pocket,2010,boardgame,,,
 256952,Zombie Kidz Evolution,2018,boardgame,,,
-310448,Zombie Teenz Evolution,2020,boardgame,,,
+310448,Zombie Teenz Evolution,2020,boardgame,,,zombie-teenz-evolution
 127418,Zombiepox,,boardgame,,,
 2471,Zombies!!!,,boardgame,,,
 27588,Zooloretto,,boardgame,,,
@@ -3978,3 +3978,224 @@ bgg_id,name,year,type,status,notes,yaml_id
 ,Dale of Merchants,2015,boardgame,,,dale-of-merchants
 ,Dice Hospital,2018,boardgame,,,dice-hospital
 ,DinoGenics,2019,boardgame,,,dinogenics
+,369 Qi,,boardgame,,,369-qi
+,Agricola: Family Edition,2016,boardgame,,,agricola-family-edition
+,Amul,2020,boardgame,,,amul
+,Ancient Civilizations of the Inner Sea,2019,boardgame,,,ancient-civilizations-of-the-inner-sea
+,Legends of Andor,2012,boardgame,,,andor
+,Ankh: Gods of Egypt,2021,boardgame,,,ankh-gods-of-egypt
+,Lost Ruins of Arnak: The Missing Expedition,2024,boardgame,,,arnak-the-missing-expedition
+,Atlantis Rising,2019,boardgame,,,atlantis-rising
+,BattleLore (Second Edition),2013,boardgame,,,battlelore-second-edition
+,Bear Raid,2022,boardgame,,,bear-raid
+,Bites,2020,boardgame,,,bites
+,Black Angel,2019,boardgame,,,black-angel
+,Blue Lagoon,2018,boardgame,,,blue-lagoon
+,Bonfire,2020,boardgame,,,bonfire
+,Bristol 1350,2021,boardgame,,,bristol-1350
+,Bushido,1979,boardgame,,,bushido
+,Caravan,2019,boardgame,,,caravan
+,Caverna: Cave vs Cave,2017,boardgame,,,caverna-cave-vs-cave
+,Caylus 1303,2019,boardgame,,,caylus-1303
+,Chai,2019,boardgame,,,chai
+,Clash Royale: The Card Game,2019,boardgame,,,clash-royale-the-card-game
+,Clockwork Wars,2015,boardgame,,,clockwork-wars
+,CloudAge,2020,boardgame,,,cloudage
+,Dice Forge: Rebellion,2018,boardgame,,,dice-forge-rebellion
+,Discordia,2022,boardgame,,,discordia
+,Dog Park,2022,boardgame,,,dog-park
+,Doodletown,2022,boardgame,,,doodletown
+,Downforce,2017,boardgame,,,downforce
+,Dracula vs Van Helsing,2023,boardgame,,,dracula-vs-van-helsing
+,Dragon Castle,2017,boardgame,,,dragon-castle
+,Dragonheart,2012,boardgame,,,dragonheart
+,Dungeon Roll,2013,boardgame,,,dungeon-roll
+,Eight-Minute Empire: Legends,2013,boardgame,,,eight-minute-empire-legends
+,Equinox,2021,boardgame,,,equinox
+,Escape: The Curse of the Temple,2012,boardgame,,,escape-the-curse-of-the-temple
+,Evolution,2014,boardgame,,,evolution
+,Expedition: Northwest Passage,2010,boardgame,,,expedition-northwest-passage
+,Flash Point: Fire Rescue - Tragic Events,2015,boardgame,,,flash-point-fire-rescue-tragic-events
+,Fleet,2012,boardgame,,,fleet
+,For Northwood! A Solo Trick-Taking Game,2021,boardgame,,,for-northwood
+,Forest Shuffle: Dartmoor,2025,boardgame,,,forest-shuffle-dartmoor
+,Forgotten Depths,2022,boardgame,,,forgotten-depths
+,Framework,2022,boardgame,,,framework
+,Gatsby,2025,boardgame,,,gatsby
+,Get on Board: New York & London,2022,boardgame,,,get-on-board-new-york-and-london
+,Ginkgopolis,2012,boardgame,,,ginkgopolis
+,Gizmos,2018,boardgame,,,gizmos
+,Glass Road,2013,boardgame,,,glass-road
+,Glow,2019,boardgame,,,glow
+,Go,548,boardgame,,,go
+,Go Nuts for Donuts,2017,boardgame,,,go-nuts-for-donuts
+,Gold West,2015,boardgame,,,gold-west
+,Good Cop Bad Cop,2014,boardgame,,,good-cop-bad-cop
+,Great Western Trail: El Paso,2025,boardgame,,,great-western-trail-el-paso
+,Great Western Trail: Second Edition,2021,boardgame,,,great-western-trail-second-edition
+,Habitats,2016,boardgame,,,habitats
+,Hadrian's Wall,2021,boardgame,,,hadrians-wall
+,Harbour,2015,boardgame,,,harbour
+,Hearts,1880,boardgame,,,hearts
+,Hidden Leaders,2022,boardgame,,,hidden-leaders
+,High Season: Grand Hotel Roll & Write,2023,boardgame,,,high-season-grand-hotel-roll-and-write
+,Imperial Miners,2023,boardgame,,,imperial-miners
+,Incan Gold,2006,boardgame,,,incan-gold
+,Inside Job,2023,boardgame,,,inside-job
+,Irish Gauge,2014,boardgame,,,irish-gauge
+,It's a Wonderful Kingdom,2021,boardgame,,,its-a-wonderful-kingdom
+,Iwari,2020,boardgame,,,iwari
+,Jekyll vs. Hyde,2021,boardgame,,,jekyll-vs-hyde
+,Kōhaku,2020,boardgame,,,kohaku
+,L.L.A.M.A.,2019,boardgame,,,llama
+,Lords of Xidit,2014,boardgame,,,lords-of-xidit
+,Lorenzo il Magnifico,2016,boardgame,,,lorenzo-il-magnifico
+,Madeira,2013,boardgame,,,madeira
+,Mandala,2019,boardgame,,,mandala
+,Marco Polo II: In the Service of the Khan,2019,boardgame,,,marco-polo-ii
+,Masters of Renaissance: Lorenzo il Magnifico – The Card Game,2020,boardgame,,,masters-of-renaissance
+,MESOS,2024,boardgame,,,mesos
+,MLEM: Space Agency,2024,boardgame,,,mlem-space-agency
+,The Settlers of Catan,1995,boardgame,,,settlers-of-catan
+,Spades,1939,boardgame,,,spades
+,SpellBook,2023,boardgame,,,spellbook
+,Spirits of the Forest,2018,boardgame,,,spirits-of-the-forest
+,Spot it!,2009,boardgame,,,spot-it
+,Spyrium,2013,boardgame,,,spyrium
+,Star Fluxx,2011,boardgame,,,star-fluxx
+,Steam Works,2015,boardgame,,,steam-works
+,SteamRollers,2015,boardgame,,,steamrollers
+,Stella: Dixit Universe,2021,boardgame,,,stella-dixit-universe
+,Stockpile,2015,boardgame,,,stockpile
+,Stonespine Architects,2024,boardgame,,,stonespine-architects
+,Streets,2021,boardgame,,,streets
+,Stupor Mundi,2024,boardgame,,,stupor-mundi
+,Super Fantasy Brawl,2020,boardgame,,,super-fantasy-brawl
+,Super Mega Lucky Box,2021,boardgame,,,super-mega-lucky-box
+,Talon,2015,boardgame,,,talon
+,Tash-Kalar: Arena of Legends,2013,boardgame,,,tash-kalar-arena-of-legends
+,The Boss,2015,boardgame,,,the-boss
+,The Builders: Antiquity,2015,boardgame,,,the-builders-antiquity
+,The Fox in the Forest,2017,boardgame,,,the-fox-in-the-forest
+,The Fox in the Forest Duet,2020,boardgame,,,the-fox-in-the-forest-duet
+,The Great Split,2022,boardgame,,,the-great-split
+,The Isle of Cats Duel,2023,boardgame,,,the-isle-of-cats-duel
+,The King's Guild,2018,boardgame,,,the-kings-guild
+,The Werewolves of Miller's Hollow,2001,boardgame,,,the-werewolves-of-millers-hollow
+,The Wolves,2022,boardgame,,,the-wolves
+,Tichu,1991,boardgame,,,tichu
+,Tiny Epic Defenders (Second Edition),2018,boardgame,,,tiny-epic-defenders-second-edition
+,"Tito and his Partisan Army: Yugoslavia, 1941-45",1980,boardgame,,,tito-and-his-partisan-army
+,Tiwanaku,2022,boardgame,,,tiwanaku
+,Tokyo Express: The Guadalcanal Naval Campaign - 1942,1988,boardgame,,,tokyo-express
+,Tortuga 1667,2017,boardgame,,,tortuga-1667
+,Tournay,2012,boardgame,,,tournay
+,Tower Up,2024,boardgame,,,tower-up
+,Tranquility,2020,boardgame,,,tranquility
+,Trek 12: Himalaya,2020,boardgame,,,trek-12-himalaya
+,Trekking the World,2022,boardgame,,,trekking-the-world
+,Trio,2023,boardgame,,,trio
+,Troyes Dice,2020,boardgame,,,troyes-dice
+,Turn the Tide,1997,boardgame,,,turn-the-tide
+,Twilight Imperium: Fourth Edition,2017,boardgame,,,twilight-imperium-fourth-edition
+,Unconditional Surrender! World War 2 in Europe,2014,boardgame,,,unconditional-surrender-world-war-2-in-europe
+,Verdant,2022,boardgame,,,verdant
+,Via Magica,2020,boardgame,,,via-magica
+,Voyages,2022,boardgame,,,voyages
+,Welcome to New Las Vegas,2020,boardgame,,,welcome-to-new-las-vegas
+,Wizards of the Grimoire,2022,boardgame,,,wizards-of-the-grimoire
+,Wondrous Creatures,2024,boardgame,,,wondrous-creatures
+,Yōkai,2020,boardgame,,,yokai
+,Yokohama,2016,boardgame,,,yokohama
+,Between Two Castles of Mad King Ludwig,2018,boardgame,,,between-two-castles-of-mad-king-ludwig
+,Carcassonne: Hunters and Gatherers,2002,boardgame,,,carcassonne-hunters-and-gatherers
+,Detective: A Modern Crime Board Game,2018,boardgame,,,detective-a-modern-crime-board-game
+,Mystic Vale,2016,boardgame,,,mystic-vale
+,Point Salad,2019,boardgame,,,point-salad
+,1846: The Race for the Midwest,2005,boardgame,,,1846-the-race-for-the-midwest
+,1849: The Game of Sicilian Railways,1998,boardgame,,,1849-the-game-of-sicilian-railways
+,1860: Railways on the Isle of Wight,2004,boardgame,,,1860-railways-on-the-isle-of-wight
+,1862: Railway Mania in the Eastern Counties,2020,boardgame,,,1862-railway-mania-in-the-eastern-counties
+,1870: Railroading Across the Trans Mississippi from 1870,1992,boardgame,,,1870-railroading-across-the-trans-mississippi
+,18Chesapeake,2020,boardgame,,,18chesapeake
+,Automobiles,2016,boardgame,,,automobiles
+,Carcassonne: South Seas,2013,boardgame,,,carcassonne-south-seas
+,Charterstone,2017,boardgame,,,charterstone
+,Fantasy Realms,2017,boardgame,,,fantasy-realms
+,Firenze,2010,boardgame,,,firenze
+,First Class: All Aboard the Orient Express!,2016,boardgame,,,first-class-all-aboard-the-orient-express
+,Forum Trajanum,2018,boardgame,,,forum-trajanum
+,Founding Fathers,2010,boardgame,,,founding-fathers
+,Glen More II: Chronicles,2019,boardgame,,,glen-more-ii-chronicles
+,Guildhall,2012,boardgame,,,guildhall
+,Gùgōng,2018,boardgame,,,gugong
+,Helios,2014,boardgame,,,helios
+,Hero Realms,2016,boardgame,,,hero-realms
+,Industrial Waste,2001,boardgame,,,industrial-waste
+,Kanban EV,2020,boardgame,,,kanban-ev
+,Kanban: Driver's Edition,2014,boardgame,,,kanban-drivers-edition
+,Kashgar: Merchants of the Silk Road,2013,boardgame,,,kashgar-merchants-of-the-silk-road
+,Key Harvest,2007,boardgame,,,key-harvest
+,Keyper,2017,boardgame,,,keyper
+,Kraftwagen,2015,boardgame,,,kraftwagen
+,König von Siam,2007,boardgame,,,konig-von-siam
+,La Granja: No Siesta,2016,boardgame,,,la-granja-no-siesta
+,La Isla,2014,boardgame,,,la-isla
+,Lift Off,2018,boardgame,,,lift-off
+,Luna,2010,boardgame,,,luna
+,Messina 1347,2021,boardgame,,,messina-1347
+,Millennium Blades,2016,boardgame,,,millennium-blades
+,Mindbug: First Contact,2022,boardgame,,,mindbug-first-contact
+,Mint Works,2017,boardgame,,,mint-works
+,Mottainai,2015,boardgame,,,mottainai
+,Murano,2014,boardgame,,,murano
+,NMBR 9,2017,boardgame,,,nmbr-9
+,Nations: The Dice Game,2014,boardgame,,,nations-the-dice-game
+,Near and Far,2017,boardgame,,,near-and-far
+,Nemo's War (Second Edition),2017,boardgame,,,nemos-war-second-edition
+,On the Underground: London/Berlin,2019,boardgame,,,on-the-underground-london-berlin
+,One Deck Dungeon,2016,boardgame,,,one-deck-dungeon
+,Paris: La Cité de la Lumière,2019,boardgame,,,paris-la-cite-de-la-lumiere
+,Pax Porfiriana,2012,boardgame,,,pax-porfiriana
+,Pergamon,2011,boardgame,,,pergamon
+,Port Royal,2014,boardgame,,,port-royal
+,Qwixx,2012,boardgame,,,qwixx
+,Rajas of the Ganges: The Dice Charmers,2020,boardgame,,,rajas-of-the-ganges-the-dice-charmers
+,Red Rising,2021,boardgame,,,red-rising
+,Renature,2020,boardgame,,,renature
+,Roam,2019,boardgame,,,roam
+,Roll Player,2016,boardgame,,,roll-player
+,San Juan (Second Edition),2014,boardgame,,,san-juan-second-edition
+,Santa Monica,2020,boardgame,,,santa-monica
+,Santiago de Cuba,2011,boardgame,,,santiago-de-cuba
+,Secret Hitler,2016,boardgame,,,secret-hitler
+,Shikoku 1889,2004,boardgame,,,shikoku-1889
+,Skymines,2022,boardgame,,,skymines
+,Smartphone Inc.,2018,boardgame,,,smartphone-inc
+,Snowdonia,2012,boardgame,,,snowdonia
+,Steampunk Rally,2015,boardgame,,,steampunk-rally
+,Struggle of Empires,2004,boardgame,,,struggle-of-empires
+,Sword & Sorcery,2017,boardgame,,,sword-and-sorcery
+,Tang Garden,2019,boardgame,,,tang-garden
+,Tekhenu: Obelisk of the Sun,2020,boardgame,,,tekhenu-obelisk-of-the-sun
+,That's Pretty Clever!,2018,boardgame,,,thats-pretty-clever
+,The Castles of Burgundy: The Card Game,2016,boardgame,,,the-castles-of-burgundy-the-card-game
+,The Castles of Tuscany,2020,boardgame,,,the-castles-of-tuscany
+,The Downfall of Pompeii,2004,boardgame,,,the-downfall-of-pompeii
+,The Hanging Gardens,2022,boardgame,,,the-hanging-gardens
+,The Mind,2018,boardgame,,,the-mind
+,The Oracle of Delphi,2016,boardgame,,,the-oracle-of-delphi
+,The Shipwreck Arcana,2017,boardgame,,,the-shipwreck-arcana
+,The Speicherstadt,2010,boardgame,,,the-speicherstadt
+,To Court the King,2006,boardgame,,,to-court-the-king
+,Top Ten,2020,boardgame,,,top-ten
+,Transatlantic,2017,boardgame,,,transatlantic
+,Ulm,2016,boardgame,,,ulm
+,Unmatched: Battle of Legends Volume One,2019,boardgame,,,unmatched
+,Valletta,2017,boardgame,,,valletta
+,Vinhos: Deluxe Edition,2016,boardgame,,,vinhos-deluxe-edition
+,Viscounts of the West Kingdom,2020,boardgame,,,viscounts-of-the-west-kingdom
+,Völuspá,2012,boardgame,,,voluspa
+,War Chest,2018,boardgame,,,war-chest
+,Whistle Mountain,2020,boardgame,,,whistle-mountain
+,Yellow & Yangtze,2018,boardgame,,,yellow-and-yangtze

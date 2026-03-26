@@ -9958,3 +9958,11 @@ entries:
     game_id: 6-nimmt
     url: "https://en.wikipedia.org/wiki/6_nimmt!"
     description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: one-deck-dungeon
+    url: "https://www.asmodeena.com/en/games/one-deck-dungeon/"
+    description: "Game information page — asmodeena.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: between-two-castles-of-mad-king-ludwig
+    url: "https://www.amazon.com/Stonemaier-Games-Between-Castles-Ludwig/dp/B07KX3BNHK"
+    description: "Retailer product listing — amazon.com"
