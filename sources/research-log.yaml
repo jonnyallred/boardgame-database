@@ -9978,3 +9978,59 @@ entries:
     game_id: santa-maria
     url: "https://www.aportagames.com/en/games/santa-maria/"
     description: "Publisher product page — aportagames.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: whirling-witchcraft
+    url: "https://www.alderac.com/whirling-witchcraft/"
+    description: "Publisher product page — alderac.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: whirling-witchcraft
+    url: "https://www.amazon.com/Alderac-Entertainment-Group-Whirling-Witchcraft/dp/B09BQSHP2G"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wits-and-wagers
+    url: "https://en.wikipedia.org/wiki/Wits_%26_Wagers"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wits-and-wagers
+    url: "https://www.amazon.com/North-Star-Games-Wits-Wagers/dp/B000KGGFVA"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wiz-war
+    url: "https://en.wikipedia.org/wiki/Wiz-War"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wiz-war
+    url: "https://www.amazon.com/Fantasy-Flight-Games-SW02-Wiz-War/dp/B008O2T6BE"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wrath-of-ashardalon
+    url: "https://dnd.wizards.com/products/wrath-ashardalon-board-game"
+    description: "Game information page — dnd.wizards.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wrath-of-ashardalon
+    url: "https://en.wikipedia.org/wiki/Wrath_of_Ashardalon"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wrath-of-ashardalon
+    url: "https://www.amazon.com/Dungeons-Dragons-Wrath-Ashardalon-Adventure/dp/0786956445"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wreck-raiders
+    url: "https://www.amazon.com/Wreck-Raiders-Board-Game/dp/B07NBTLQNT"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wyrmspan
+    url: "https://stonemaiergames.com/games/wyrmspan/"
+    description: "Publisher product page — stonemaiergames.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: wyrmspan
+    url: "https://www.amazon.com/Stonemaier-Games-STM930-Wyrmspan/dp/B0C7LQZXVQ"
+    description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: xcom-the-board-game
+    url: "https://en.wikipedia.org/wiki/XCOM:_The_Board_Game"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: xcom-the-board-game
+    url: "https://www.amazon.com/Fantasy-Flight-Games-XCOM-Board/dp/B00PY5FGVY"
+    description: "Retailer product listing — amazon.com"
