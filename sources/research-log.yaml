@@ -9966,3 +9966,15 @@ entries:
     game_id: between-two-castles-of-mad-king-ludwig
     url: "https://www.amazon.com/Stonemaier-Games-Between-Castles-Ludwig/dp/B07KX3BNHK"
     description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: war-of-the-ring-second-edition
+    url: "https://en.wikipedia.org/wiki/War_of_the_Ring_(board_game)"
+    description: "Review or reference article — en.wikipedia.org"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: specter-ops
+    url: "https://www.plaidhatgames.com/board-games/specter-ops/"
+    description: "Publisher product page — plaidhatgames.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: santa-maria
+    url: "https://www.aportagames.com/en/games/santa-maria/"
+    description: "Publisher product page — aportagames.com"
