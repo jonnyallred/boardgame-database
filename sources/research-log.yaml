@@ -10034,3 +10034,7 @@ entries:
     game_id: xcom-the-board-game
     url: "https://www.amazon.com/Fantasy-Flight-Games-XCOM-Board/dp/B00PY5FGVY"
     description: "Retailer product listing — amazon.com"
+  - timestamp: "2026-03-26T00:00:00Z"
+    game_id: klask
+    url: "https://www.klaskgame.com"
+    description: "Game information page — klaskgame.com"

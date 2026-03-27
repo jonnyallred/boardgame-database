@@ -418,11 +418,39 @@ Full rating system implemented:
 
 ---
 
+---
+
+## Session 16 - BGG List Comparison + 31 New Games
+
+**Date:** March 26, 2026
+
+### What Was Accomplished
+
+- **Explored BGG lists** — BGG is fully blocked (403/401 on all endpoints: HTML, XML API, geeklists); pivoted to alternative sources
+- **Analyzed Bitewing Games Top 100 All-Time (2024 edition)** — cross-referenced against database, found 22 missing games
+- **Analyzed Meadowparty Top 100 (2024)** — found 6 additional missing games
+- **Scraped Dice Tower Hall of Fame** (82/110 games recovered) — most already in DB
+- **Added `sources/lists/bitewing-top-100-2024.yaml`** — 98-game source list (21 total)
+- **Added 31 new game entries** — all succeeded:
+  - Jaipur, Chinatown, High Society, KLASK, Babylonia (notable gaps)
+  - Undaunted: Stalingrad, Tajuto, Lords of Vegas, Dogs of War, Winner's Circle
+  - Orongo, Royal Visit, Great Plains, Galactic Renaissance, Skyrise, Lacuna
+  - Marabunta, Patterns, Gang of Dice, Tatari, Viking See-Saw, Whale Riders
+  - DroPolter, Caesar!: Seize Rome in 20 Minutes!, Wilmot's Warehouse
+  - Three Sisters, Ecosystem, Coffee Roaster, Whistle Stop, Lanterns, New Bedford
+
+### Progress
+- **Completion: 4,077/4,240 (96.2%)**
+- **Remaining: 0 games** in queue
+- **Excluded: 163** (122 failed, 24 ambiguous, 11 skip, 6 duplicate)
+
+---
+
 ## File Counts
 
 Run `python3 scripts/progress.py 0` for live stats. Snapshot as of March 2026:
 
-- `sources/lists/*.yaml`: 20 source list files
-- `games/*.yaml`: 3,985 detailed entries
+- `sources/lists/*.yaml`: 21 source list files
+- `games/*.yaml`: 4,016 detailed entries
 - `games.db`: SQLite database (rebuilt via `python3 scripts/build_db.py`)
-- `master_list.csv`: 4,209 games (Wikidata + manual additions)
+- `master_list.csv`: 4,240 games (Wikidata + manual additions)
